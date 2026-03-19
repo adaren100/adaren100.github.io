@@ -1,0 +1,8 @@
+baseURL = 'https://adaren100.github.io/'
+languageCode = 'en-us'
+title = "Ada's Notes"
+theme = 'PaperMod'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
