@@ -2,6 +2,44 @@ baseURL = 'https://adaren100.github.io/'
 languageCode = 'en-us'
 title = "Ada's Notes"
 theme = 'PaperMod'
+enableRobotsTXT = true
+
+[pagination]
+  pagerSize = 10
+
+[params]
+  author = 'Ada'
+  description = 'Personal notes, posts, and experiments.'
+  keywords = ['ada', 'notes', 'blog', 'hugo']
+  defaultTheme = 'auto'
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+  mainSections = ['posts']
+
+  [params.homeInfoParams]
+    Title = 'Notes on learning and building'
+    Content = """
+A small Hugo site for posts, experiments, and things worth keeping.
+
+[GitHub](https://github.com/adaren100/adaren100.github.io) · [RSS](/index.xml)
+"""
+
+[menu]
+  [[menu.main]]
+    identifier = 'posts'
+    name = 'Posts'
+    url = '/posts/'
+    weight = 10
+
+  [[menu.main]]
+    identifier = 'archives'
+    name = 'Archive'
+    url = '/archives/'
+    weight = 20
 
 [caches]
   [caches.images]
