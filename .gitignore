@@ -1,4 +1,16 @@
 public/
 resources/
+.hugo_cache/
 .hugo_build.lock
 .DS_Store
+
+# Local editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Local-only content that should not be published from this repo
+content/drafts/
+content/private/
+README.md
