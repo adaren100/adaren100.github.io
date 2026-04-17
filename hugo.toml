@@ -18,7 +18,7 @@ enableRobotsTXT = true
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
   ShowWordCount = true
-  mainSections = ['posts']
+  mainSections = ['posts', 'ai-digest']
 
   [params.homeInfoParams]
     Title = 'Notes on learning and building'
@@ -34,6 +34,12 @@ A small Hugo site for posts, experiments, and things worth keeping.
     name = 'Posts'
     url = '/posts/'
     weight = 10
+
+  [[menu.main]]
+    identifier = 'ai-digest'
+    name = 'AI Digest'
+    url = '/ai-digest/'
+    weight = 15
 
   [[menu.main]]
     identifier = 'archives'
