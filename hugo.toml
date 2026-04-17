@@ -37,7 +37,7 @@ A small Hugo site for posts, experiments, and things worth keeping.
 
   [[menu.main]]
     identifier = 'ai-digest'
-    name = 'AI Digest'
+    name = 'AI Digest（今日动态）'
     url = '/ai-digest/'
     weight = 15
 
