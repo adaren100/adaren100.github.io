@@ -603,7 +603,8 @@ nav.nav {
   margin-top: 0;
 }
 
-/* Lists inside the ZH block — keep them visually together */
+/* Lists inside the ZH block — the outer list keeps the tinted box; the
+   individual <li> items must NOT add their own border/background. */
 .post-content .lang-zh + ul,
 .post-content .lang-zh + ol {
   background: var(--accent-light);
@@ -614,6 +615,17 @@ nav.nav {
   color: var(--ink-mid);
   font-size: 15px;
   line-height: 1.9;
+}
+
+.post-content li.lang-zh {
+  background: transparent;
+  border-left: none;
+  padding: 0;
+  border-radius: 0;
+  margin: 0 0 8px;
+  font-size: inherit;
+  line-height: inherit;
+  color: inherit;
 }
 
 /* Prev/next nav */
