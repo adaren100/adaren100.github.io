@@ -1,0 +1,57 @@
+{{- /* Ada's Notes — Marginalia section list.
+       Renders /posts/, /ai-digest/, /big-tech-research/ as a year-grouped
+       post list. Homepage uses layouts/index.html instead.
+*/ -}}
+
+{{- define "main" }}
+
+{{- if .IsHome }}
+  {{- /* Homepage is handled by layouts/index.html — fallback to default list */ -}}
+  {{- partial "page.html" . }}
+{{- else }}
+
+{{- $pages := .RegularPages }}
+{{- $byYear := $pages.GroupByDate "2006" }}
+
+<div class="section-wrap">
+  <header class="section-header">
+    <h1>{{ .Title | default (humanize .Section) }}</h1>
+    <div class="count">{{ len $pages }} entries</div>
+  </header>
+
+  {{- if .Content }}
+  <div class="post-content" style="margin-bottom:36px;">
+    {{ .Content }}
+  </div>
+  {{- end }}
+
+  {{- range $byYear }}
+  <div class="home-year-block">
+    <div class="home-year-header">
+      <span class="year">{{ .Key }}</span>
+      <span class="count">{{ len .Pages }} entries</span>
+    </div>
+    {{- range .Pages }}
+    <a class="home-post-row" href="{{ .RelPermalink }}">
+      <div class="home-post-date">
+        <div class="month">{{ .Date.Format "Jan" | upper }}</div>
+        <div class="day">{{ .Date.Format "02" }}</div>
+      </div>
+      <div class="home-post-body">
+        <div class="home-post-title">{{ .Title }}</div>
+        {{- with .Params.description }}
+        <div class="home-post-blurb">{{ . }}</div>
+        {{- end }}
+      </div>
+      <div class="home-post-tags">
+        {{- $primary := index .Params.tags 0 | default .Section }}
+        <span class="tag-pill" data-tag="{{ $primary }}">{{ $primary }}</span>
+      </div>
+    </a>
+    {{- end }}
+  </div>
+  {{- end }}
+</div>
+
+{{- end }}
+{{- end }}

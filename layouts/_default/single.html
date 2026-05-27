@@ -1,0 +1,85 @@
+{{- /* Ada's Notes — Marginalia single-post layout.
+       Three-column on wide screens: 220px TOC | 1fr content | 200px notes.
+       Falls back to 2-column (TOC | content) when no margin notes are set,
+       and to a single column on narrow viewports (handled by CSS).
+*/ -}}
+
+{{- define "main" }}
+
+{{- $notes := .Params.notes }}
+{{- $hasMargin := and $notes (gt (len $notes) 0) }}
+
+<article class="post-grid{{ if not $hasMargin }} no-margin{{ end }}">
+
+  {{- /* ── Left TOC: dates in this section as anchors ────────── */ -}}
+  <aside class="post-toc">
+    <div class="post-toc-label">{{ humanize .Section }}</div>
+    <div class="post-toc-progress">
+      <div class="post-toc-progress-fill"></div>
+    </div>
+
+    {{- $sectionPosts := first 14 (sort (where site.RegularPages "Section" .Section) "Date" "desc") }}
+    {{- $currentURL := .RelPermalink }}
+    <nav id="TableOfContents">
+      <ul>
+        {{- range $sectionPosts }}
+        {{- $isCurrent := eq .RelPermalink $currentURL }}
+        <li{{ if $isCurrent }} class="active"{{ end }}>
+          <a href="{{ .RelPermalink }}">{{ .Date.Format "January 2, 2006" }}</a>
+        </li>
+        {{- end }}
+      </ul>
+    </nav>
+
+    {{- /* Link to full archive of this section */ -}}
+    <div style="margin-top:20px;padding-top:16px;border-top:1px solid var(--border);">
+      <a href="/{{ .Section }}/" style="font-family:var(--font-mono);font-size:11px;letter-spacing:0.08em;text-transform:uppercase;color:var(--ink-faint);border:none;">All entries →</a>
+    </div>
+  </aside>
+
+  {{- /* ── Center content ──────────────────────────────────── */ -}}
+  <div class="post-content-wrap">
+    <div class="post-meta-line">
+      {{- $primary := index .Params.tags 0 | default .Section }}
+      <span class="tag-pill" data-tag="{{ $primary }}">{{ $primary }}</span>
+      <span>{{ .Date.Format "Jan 2, 2006" }}{{ if .ReadingTime }} · {{ .ReadingTime }} min · {{ .WordCount }} words{{ end }}</span>
+    </div>
+
+    <h1 class="post-title">{{ .Title }}</h1>
+    {{- with .Params.subtitle }}
+    <div class="post-subtitle">{{ . }}</div>
+    {{- end }}
+    <hr class="post-divider">
+
+    <div class="post-content">
+      {{ .Content }}
+    </div>
+
+    {{- /* Prev / next */ -}}
+    {{- $prev := .PrevInSection }}
+    {{- $next := .NextInSection }}
+    {{- if or $prev $next }}
+    <div class="post-nav-links">
+      {{- with $prev }}<a href="{{ .RelPermalink }}">← {{ .Date.Format "Jan 2" }}</a>{{ end }}
+      {{- if and $prev $next }}<span style="color:var(--ink-faint);">·</span>{{ end }}
+      {{- with $next }}<a href="{{ .RelPermalink }}">{{ .Date.Format "Jan 2" }} →</a>{{ end }}
+    </div>
+    {{- end }}
+  </div>
+
+  {{- /* ── Right marginalia ────────────────────────────────── */ -}}
+  {{- if $hasMargin }}
+  <aside class="post-margin">
+    <div class="post-margin-label">Notes</div>
+    {{- range $notes }}
+    <div class="margin-note">
+      <span class="margin-note-marker">{{ .marker | default "*" }}</span>
+      <p class="margin-note-text">{{ .text | markdownify }}</p>
+    </div>
+    {{- end }}
+  </aside>
+  {{- end }}
+
+</article>
+
+{{- end }}

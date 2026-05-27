@@ -18,15 +18,11 @@ enableRobotsTXT = true
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
   ShowWordCount = true
-  mainSections = ['posts', 'ai-digest']
+  mainSections = ['posts', 'ai-digest', 'big-tech-research']
 
   [params.homeInfoParams]
     Title = 'Notes on learning and building'
-    Content = """
-A small Hugo site for posts, experiments, and things worth keeping.
-
-[GitHub](https://github.com/adaren100/adaren100.github.io) · [RSS](/index.xml)
-"""
+    Content = "Note taking and knowledge building."
 
 [menu]
   [[menu.main]]
@@ -40,6 +36,12 @@ A small Hugo site for posts, experiments, and things worth keeping.
     name = 'AI Digest（今日动态）'
     url = '/ai-digest/'
     weight = 15
+
+  [[menu.main]]
+    identifier = 'big-tech-research'
+    name = 'Big Tech Research'
+    url = '/big-tech-research/'
+    weight = 17
 
   [[menu.main]]
     identifier = 'archives'

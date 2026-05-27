@@ -1,0 +1,78 @@
+{{- /* Ada's Notes — Marginalia homepage.
+       Two-column: 280px year-sidebar | 1fr post list grouped by year.
+       Spec: design_handoff_blog_redesign/README.md
+*/ -}}
+
+{{- define "main" }}
+
+{{- $allPages := where site.RegularPages "Type" "in" site.Params.mainSections }}
+{{- $allPages = where $allPages "Params.hiddenInHomeList" "!=" "true" }}
+{{- $byYear := $allPages.GroupByDate "2006" }}
+{{- $totalEntries := len $allPages }}
+
+<div class="home-grid">
+
+  {{- /* ── Sidebar ──────────────────────────────────────────── */ -}}
+  <aside class="home-sidebar">
+    <p class="home-tagline">
+      {{ with site.Params.homeInfoParams.Content }}{{ . | markdownify }}{{ else }}Notes on learning and building. Daily AI digest, posts, and experiments worth keeping.{{ end }}
+    </p>
+
+    <div class="home-sidebar-label">Index</div>
+    <div class="home-year-list">
+      {{- range $byYear }}
+      <a class="home-year-item" href="#year-{{ .Key }}">
+        <div class="year-num">{{ .Key }}</div>
+        <div class="year-count">{{ len .Pages }} entries</div>
+      </a>
+      {{- end }}
+    </div>
+
+    {{- /* Activity grid: most-recent 50 entries, recent ones at full opacity */ -}}
+    <div class="home-sidebar-label">Activity</div>
+    <div class="home-activity">
+      {{- $recent := first 50 $allPages }}
+      {{- $shown := len $recent }}
+      {{- range $i, $p := $recent }}
+      <div class="home-activity-cell {{ if lt $i 5 }}recent{{ else }}older{{ end }}" title="{{ $p.Title }}"></div>
+      {{- end }}
+      {{- range seq (sub 50 $shown) }}
+      <div class="home-activity-cell empty"></div>
+      {{- end }}
+    </div>
+  </aside>
+
+  {{- /* ── Post list ────────────────────────────────────────── */ -}}
+  <div class="home-list">
+    {{- range $byYear }}
+    <div class="home-year-block" id="year-{{ .Key }}">
+      <div class="home-year-header">
+        <span class="year">{{ .Key }}</span>
+        <span class="count">{{ len .Pages }} entries</span>
+      </div>
+
+      {{- range .Pages }}
+      <a class="home-post-row" href="{{ .RelPermalink }}">
+        <div class="home-post-date">
+          <div class="month">{{ .Date.Format "Jan" | upper }}</div>
+          <div class="day">{{ .Date.Format "02" }}</div>
+        </div>
+        <div class="home-post-body">
+          <div class="home-post-title">{{ .Title }}</div>
+          {{- with .Params.description }}
+          <div class="home-post-blurb">{{ . }}</div>
+          {{- end }}
+        </div>
+        <div class="home-post-tags">
+          {{- $primary := index .Params.tags 0 | default .Section }}
+          <span class="tag-pill" data-tag="{{ $primary }}">{{ $primary }}</span>
+        </div>
+      </a>
+      {{- end }}
+    </div>
+    {{- end }}
+  </div>
+
+</div>
+
+{{- end }}
