@@ -1,8 +1,8 @@
 {{- /* Ada's Notes — extend_footer.html
-       1. Tag CJK paragraphs/lists/headings with .lang-zh so the tinted-block
-          styling applies to Chinese text in markdown without manual wrappers.
-       2. If .post-toc-progress-fill exists, fill it proportionally to how far
-          the reader has scrolled through .post-content (overall page scroll).
+       1. Tag CJK paragraphs/lists/headings with .lang-zh (auto bilingual styling).
+       2. Reading progress bar (scroll depth through .post-content).
+       3. Active TOC item highlight — tracks H2/H3 headings in .post-content
+          and marks the corresponding TOC link as .toc-active.
 */ -}}
 <script>
 (function () {
@@ -13,29 +13,56 @@
     if (CJK.test(el.textContent)) el.classList.add('lang-zh');
   });
 
-  /* ── Reading progress bar ──────────────────────────────────
-     Reflects how far the reader has scrolled through .post-content.
-     Works regardless of how many TOC items exist.
-  */
+  /* ── Reading progress bar ────────────────────────────────── */
   var progressFill = document.querySelector('.post-toc-progress-fill');
   var content = document.querySelector('.post-content');
-  if (!progressFill || !content) return;
 
   function updateProgress() {
+    if (!progressFill || !content) return;
     var rect = content.getBoundingClientRect();
     var viewport = window.innerHeight;
-    // Scroll distance into the article = how far above the viewport bottom
-    // the article's top sits, clamped to [0, articleHeight].
-    var scrolled = Math.min(
-      Math.max(0, viewport - rect.top),
-      rect.height
-    );
+    var scrolled = Math.min(Math.max(0, viewport - rect.top), rect.height);
     var pct = rect.height > 0 ? (scrolled / rect.height) * 100 : 0;
     progressFill.style.width = Math.min(100, Math.max(0, pct)) + '%';
   }
 
+  /* ── Active TOC item ──────────────────────────────────────
+     Matches headings in the article to anchor links in the sidebar TOC.
+     Uses a 120px offset so the active item updates just before the heading
+     reaches the top of the viewport.
+  */
+  var headings = Array.from(document.querySelectorAll('.post-content h2[id], .post-content h3[id]'));
+  var tocLinks = Array.from(document.querySelectorAll('.post-toc nav a[href^="#"]'));
+
+  function updateActiveTOC() {
+    if (!headings.length || !tocLinks.length) return;
+    var scrollY = window.scrollY + 120;
+    var activeId = null;
+    for (var i = 0; i < headings.length; i++) {
+      if (headings[i].offsetTop <= scrollY) {
+        activeId = headings[i].id;
+      }
+    }
+    tocLinks.forEach(function (link) {
+      var li = link.closest('li');
+      if (!li) return;
+      var href = link.getAttribute('href');
+      if (activeId && href === '#' + activeId) {
+        li.classList.add('toc-active');
+      } else {
+        li.classList.remove('toc-active');
+      }
+    });
+  }
+
+  function onScroll() {
+    updateProgress();
+    updateActiveTOC();
+  }
+
   updateProgress();
-  window.addEventListener('scroll', updateProgress, { passive: true });
-  window.addEventListener('resize', updateProgress, { passive: true });
+  updateActiveTOC();
+  window.addEventListener('scroll', onScroll, { passive: true });
+  window.addEventListener('resize', onScroll, { passive: true });
 })();
 </script>

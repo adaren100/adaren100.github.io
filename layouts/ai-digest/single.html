@@ -1,0 +1,60 @@
+{{- /* AI Digest post — two-column: 220px TOC sidebar | 1fr content.
+       Sidebar shows in-article H2 TOC with progress bar + related links.
+       Bilingual: EN para → CN para (tinted accent-light block).
+*/ -}}
+
+{{- define "main" }}
+
+<article class="post-grid no-margin section-ai-digest">
+
+  {{- /* ── TOC sidebar ──────────────────────────────────────── */ -}}
+  <aside class="post-toc">
+    <div class="post-toc-label">In This Issue</div>
+    <div class="post-toc-progress"><div class="post-toc-progress-fill"></div></div>
+
+    {{ .TableOfContents }}
+
+    {{- /* Related posts */ -}}
+    {{- $related := first 5 (where (where site.RegularPages "Section" "ai-digest") "RelPermalink" "ne" .RelPermalink) }}
+    {{- if $related }}
+    <div class="post-toc-related">
+      <div class="post-toc-label">Related</div>
+      {{- range $related }}
+      <a class="post-toc-related-link" href="{{ .RelPermalink }}">↗ {{ .Date.Format "Jan 2, 2006" }}</a>
+      {{- end }}
+    </div>
+    {{- end }}
+  </aside>
+
+  {{- /* ── Content ───────────────────────────────────────────── */ -}}
+  <div class="post-content-wrap">
+    <div class="post-meta-line">
+      {{- $primary := index .Params.tags 0 | default .Section }}
+      <span class="tag-pill" data-tag="{{ $primary }}">{{ $primary }}</span>
+      <span>{{ .Date.Format "Jan 2, 2006" }}{{ if .ReadingTime }} · {{ .ReadingTime }} min{{ end }}</span>
+    </div>
+
+    <h1 class="post-title">{{ .Title }}</h1>
+    {{- with .Params.subtitle }}
+    <div class="post-subtitle">{{ . }}</div>
+    {{- end }}
+    <hr class="post-divider">
+
+    <div class="post-content">
+      {{ .Content }}
+    </div>
+
+    {{- $prev := .PrevInSection }}
+    {{- $next := .NextInSection }}
+    {{- if or $prev $next }}
+    <div class="post-nav-links">
+      {{- with $prev }}<a href="{{ .RelPermalink }}">← {{ .Date.Format "Jan 2" }}</a>{{ end }}
+      {{- if and $prev $next }}<span style="color:var(--ink-faint);">·</span>{{ end }}
+      {{- with $next }}<a href="{{ .RelPermalink }}">{{ .Date.Format "Jan 2" }} →</a>{{ end }}
+    </div>
+    {{- end }}
+  </div>
+
+</article>
+
+{{- end }}

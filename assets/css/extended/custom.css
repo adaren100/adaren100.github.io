@@ -736,6 +736,168 @@ nav.nav {
   .home-post-tags { grid-column: 2; padding-top: 4px; }
 }
 
+/* ──────────────────────────────────────────────────────────────
+ * Stacked date (homepage + section lists)
+ * ────────────────────────────────────────────────────────────── */
+.home-post-date {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--font-mono);
+  font-feature-settings: "tnum" 1;
+  gap: 2px;
+}
+
+.home-post-date .date-month {
+  font-size: 11px;
+  font-weight: 400;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+  line-height: 1;
+}
+
+.home-post-date .date-day {
+  font-size: 18px;
+  font-weight: 600;
+  color: var(--ink-mid);
+  line-height: 1;
+}
+
+/* ──────────────────────────────────────────────────────────────
+ * Source metadata sidebar (Research posts)
+ * ────────────────────────────────────────────────────────────── */
+.source-meta-rows { margin-bottom: 24px; }
+
+.source-meta-row {
+  display: flex;
+  gap: 10px;
+  padding: 8px 0;
+  border-bottom: 1px solid var(--border);
+  font-family: var(--font-mono);
+  font-size: 11px;
+  line-height: 1.5;
+}
+
+.source-label {
+  flex-shrink: 0;
+  width: 44px;
+  color: var(--ink-faint);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.source-value {
+  color: var(--ink-mid);
+  min-width: 0;
+}
+
+/* ──────────────────────────────────────────────────────────────
+ * Related links in sidebar
+ * ────────────────────────────────────────────────────────────── */
+.post-toc-related {
+  margin-top: 24px;
+  padding-top: 16px;
+  border-top: 1px solid var(--border);
+}
+
+.post-toc-related-link {
+  display: block;
+  font-family: var(--font-body);
+  font-size: 12px;
+  color: var(--accent-bright);
+  border: none;
+  text-decoration: none;
+  margin-bottom: 8px;
+  line-height: 1.5;
+}
+
+.post-toc-related-link:hover { color: var(--accent); }
+
+/* ──────────────────────────────────────────────────────────────
+ * Research post — source credit line below H1
+ * ────────────────────────────────────────────────────────────── */
+.post-source-line {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  color: var(--ink-faint);
+  margin: 0 0 36px;
+  letter-spacing: 0.04em;
+}
+
+/* ──────────────────────────────────────────────────────────────
+ * Research section — CN block: grey left border, no bg tint
+ * ────────────────────────────────────────────────────────────── */
+.section-research .post-content .lang-zh,
+.section-research .post-content .cn-block {
+  background: transparent;
+  border-left: 2px solid var(--border);
+  border-radius: 0;
+  padding: 2px 0 2px 16px;
+  color: var(--ink-mid);
+}
+
+.section-research .post-content h2.lang-zh,
+.section-research .post-content h3.lang-zh {
+  background: transparent;
+  border-left: none;
+  padding: 0;
+  font-family: var(--font-display);
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--ink-mid);
+  margin-top: 32px;
+}
+
+.section-research .post-content .lang-zh + ul,
+.section-research .post-content .lang-zh + ol,
+.section-research .post-content .cn-block + ul,
+.section-research .post-content .cn-block + ol {
+  background: transparent;
+  border-left: 2px solid var(--border);
+  border-radius: 0;
+  padding: 4px 0 4px 32px;
+  margin-top: -4px;
+  color: var(--ink-mid);
+  font-size: 15px;
+}
+
+/* ──────────────────────────────────────────────────────────────
+ * Personal post — wide content area (extra right padding)
+ * ────────────────────────────────────────────────────────────── */
+.post-content-wide {
+  padding: 56px 160px 80px 72px;
+}
+
+@media (max-width: 1200px) {
+  .post-content-wide { padding: 48px 80px 80px 48px; }
+}
+
+@media (max-width: 1080px) {
+  .post-content-wide { padding: 24px var(--page-pad) 60px; }
+}
+
+/* ──────────────────────────────────────────────────────────────
+ * Post meta sidebar (Personal posts) — narrower sidebar
+ * ────────────────────────────────────────────────────────────── */
+.post-meta-sidebar {
+  padding: 52px 32px 80px var(--page-pad);
+}
+
+/* ──────────────────────────────────────────────────────────────
+ * TOC active item highlight (driven by JS in extend_footer)
+ * ────────────────────────────────────────────────────────────── */
+.post-toc nav li.toc-active > a {
+  color: var(--accent);
+  font-weight: 600;
+}
+
+.post-toc nav li.toc-active {
+  background: var(--accent-light);
+  border-radius: 4px;
+}
+
 ::selection {
   background: color-mix(in srgb, var(--accent) 30%, transparent);
 }

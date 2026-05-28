@@ -1,0 +1,9 @@
+{{- /* cn shortcode — wraps a Chinese translation block.
+       AI Digest: tinted accent-light bg + left accent border.
+       Big-tech-research: thin grey left border, no bg.
+       Other sections: falls back to AI Digest style.
+*/ -}}
+{{- $section := .Page.Section -}}
+<div class="lang-zh cn-block{{ if eq $section "big-tech-research" }} cn-block--research{{ end }}">
+  {{- .Inner | markdownify -}}
+</div>

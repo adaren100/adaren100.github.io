@@ -53,7 +53,10 @@
 
       {{- range .Pages }}
       <a class="home-post-row" href="{{ .RelPermalink }}">
-        <div class="home-post-date">{{ .Date.Format "Jan 2" | upper }}</div>
+        <div class="home-post-date">
+          <span class="date-month">{{ .Date.Format "Jan" | upper }}</span>
+          <span class="date-day">{{ .Date.Format "2" }}</span>
+        </div>
         <div class="home-post-body">
           <div class="home-post-title">{{ .Title }}</div>
           {{- with .Params.description }}

@@ -1,0 +1,86 @@
+{{- /* Research post — two-column: 220px SOURCE sidebar | 1fr content.
+       Sidebar shows paper metadata (org, venue, date, type) from front matter.
+       Bilingual pattern: full EN block → plain divider → full CN block (grey left border, no bg).
+*/ -}}
+
+{{- define "main" }}
+
+<article class="post-grid no-margin section-research">
+
+  {{- /* ── Source metadata sidebar ─────────────────────────── */ -}}
+  <aside class="post-toc">
+    <div class="post-toc-label">Source</div>
+
+    <div class="source-meta-rows">
+      {{- with .Params.source_org }}
+      <div class="source-meta-row">
+        <span class="source-label">Org</span>
+        <span class="source-value">{{ . }}</span>
+      </div>
+      {{- end }}
+      {{- with .Params.source_venue }}
+      <div class="source-meta-row">
+        <span class="source-label">Venue</span>
+        <span class="source-value">{{ . }}</span>
+      </div>
+      {{- end }}
+      <div class="source-meta-row">
+        <span class="source-label">Date</span>
+        <span class="source-value">{{ .Date.Format "Jan 2, 2006" }}</span>
+      </div>
+      {{- with .Params.source_type }}
+      <div class="source-meta-row">
+        <span class="source-label">Type</span>
+        <span class="source-value">{{ . }}</span>
+      </div>
+      {{- end }}
+      <div class="source-meta-row">
+        <span class="source-label">Read</span>
+        <span class="source-value">{{ .ReadingTime }} min</span>
+      </div>
+    </div>
+
+    {{- /* Related research posts */ -}}
+    {{- $related := first 5 (where (where site.RegularPages "Section" "big-tech-research") "RelPermalink" "ne" .RelPermalink) }}
+    {{- if $related }}
+    <div class="post-toc-related">
+      <div class="post-toc-label">Related</div>
+      {{- range $related }}
+      <a class="post-toc-related-link" href="{{ .RelPermalink }}">↗ {{ .Title | truncate 36 }}</a>
+      {{- end }}
+    </div>
+    {{- end }}
+  </aside>
+
+  {{- /* ── Content ───────────────────────────────────────────── */ -}}
+  <div class="post-content-wrap">
+    <div class="post-meta-line">
+      {{- $primary := index .Params.tags 0 | default .Section }}
+      <span class="tag-pill" data-tag="{{ $primary }}">{{ $primary }}</span>
+      <span>{{ .Date.Format "Jan 2, 2006" }}{{ if .ReadingTime }} · {{ .ReadingTime }} min · {{ .WordCount }} words{{ end }}</span>
+    </div>
+
+    <h1 class="post-title">{{ .Title }}</h1>
+    {{- with .Params.source_org }}
+    <div class="post-source-line">{{ . }}{{ with $.Params.source_venue }} · {{ . }}{{ end }}</div>
+    {{- end }}
+    <hr class="post-divider">
+
+    <div class="post-content">
+      {{ .Content }}
+    </div>
+
+    {{- $prev := .PrevInSection }}
+    {{- $next := .NextInSection }}
+    {{- if or $prev $next }}
+    <div class="post-nav-links">
+      {{- with $prev }}<a href="{{ .RelPermalink }}">← {{ .Date.Format "Jan 2" }}</a>{{ end }}
+      {{- if and $prev $next }}<span style="color:var(--ink-faint);">·</span>{{ end }}
+      {{- with $next }}<a href="{{ .RelPermalink }}">{{ .Date.Format "Jan 2" }} →</a>{{ end }}
+    </div>
+    {{- end }}
+  </div>
+
+</article>
+
+{{- end }}

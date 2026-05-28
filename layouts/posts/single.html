@@ -1,0 +1,70 @@
+{{- /* Personal post — two-column: 240px meta sidebar | 1fr content.
+       Sidebar: tag pill + meta key-values (date, read, words, language) + related links.
+       Content: wide right padding, single language (no CN blocks).
+*/ -}}
+
+{{- define "main" }}
+
+<article class="post-grid no-margin section-posts">
+
+  {{- /* ── Meta sidebar ──────────────────────────────────────── */ -}}
+  <aside class="post-toc post-meta-sidebar">
+    {{- $primary := index .Params.tags 0 | default .Section }}
+    <div style="margin-bottom:24px;">
+      <span class="tag-pill" data-tag="{{ $primary }}">{{ $primary }}</span>
+    </div>
+
+    <div class="post-toc-label">About</div>
+    <div class="source-meta-rows">
+      <div class="source-meta-row">
+        <span class="source-label">Date</span>
+        <span class="source-value">{{ .Date.Format "Jan 2, 2006" }}</span>
+      </div>
+      <div class="source-meta-row">
+        <span class="source-label">Read</span>
+        <span class="source-value">{{ .ReadingTime }} min</span>
+      </div>
+      <div class="source-meta-row">
+        <span class="source-label">Words</span>
+        <span class="source-value">{{ .WordCount }}</span>
+      </div>
+      <div class="source-meta-row">
+        <span class="source-label">Lang</span>
+        <span class="source-value">{{ .Params.lang | default "en" }}</span>
+      </div>
+    </div>
+
+    {{- /* Related personal posts */ -}}
+    {{- $related := first 5 (where (where site.RegularPages "Section" "posts") "RelPermalink" "ne" .RelPermalink) }}
+    {{- if $related }}
+    <div class="post-toc-related">
+      <div class="post-toc-label">Related</div>
+      {{- range $related }}
+      <a class="post-toc-related-link" href="{{ .RelPermalink }}">↗ {{ .Title | truncate 36 }}</a>
+      {{- end }}
+    </div>
+    {{- end }}
+  </aside>
+
+  {{- /* ── Content (wider right padding per spec) ────────────── */ -}}
+  <div class="post-content-wrap post-content-wide">
+    <h1 class="post-title">{{ .Title }}</h1>
+    <hr class="post-divider">
+
+    <div class="post-content">
+      {{ .Content }}
+    </div>
+
+    {{- $prev := .PrevInSection }}
+    {{- $next := .NextInSection }}
+    {{- if or $prev $next }}
+    <div class="post-nav-links" style="justify-content:space-between;display:flex;">
+      {{- with $prev }}<a href="{{ .RelPermalink }}">← {{ .Title | truncate 28 }}</a>{{ end }}
+      {{- with $next }}<a href="{{ .RelPermalink }}">{{ .Title | truncate 28 }} →</a>{{ end }}
+    </div>
+    {{- end }}
+  </div>
+
+</article>
+
+{{- end }}
