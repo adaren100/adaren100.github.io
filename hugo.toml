@@ -22,7 +22,7 @@ enableRobotsTXT = true
 
   [params.homeInfoParams]
     Title = 'Notes on learning and building'
-    Content = "Note taking and knowledge building."
+    Content = "Daily notes from the AI frontier — in English and Chinese."
 
 [menu]
   [[menu.main]]
