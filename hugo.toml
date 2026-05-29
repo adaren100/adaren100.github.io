@@ -26,21 +26,21 @@ enableRobotsTXT = true
 
 [menu]
   [[menu.main]]
-    identifier = 'posts'
-    name = 'Posts'
-    url = '/posts/'
-    weight = 10
-
-  [[menu.main]]
     identifier = 'ai-digest'
-    name = 'AI Digest（今日动态）'
+    name = 'AI Digest'
     url = '/ai-digest/'
-    weight = 15
+    weight = 10
 
   [[menu.main]]
     identifier = 'big-tech-research'
     name = 'Big Tech Research'
     url = '/big-tech-research/'
+    weight = 15
+
+  [[menu.main]]
+    identifier = 'posts'
+    name = 'Posts（手作）'
+    url = '/posts/'
     weight = 17
 
   [[menu.main]]
