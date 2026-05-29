@@ -11,10 +11,7 @@
   <aside class="post-toc">
     <div class="source-meta-rows">
       {{- with .Params.source_org }}
-      <div class="source-meta-row">
-        <span class="source-label">Source</span>
-        <span class="source-value">{{ . }}</span>
-      </div>
+      <div class="source-org-name">{{ . }}</div>
       {{- end }}
       {{- with .Params.source_venue }}
       <div class="source-meta-row">
