@@ -9,12 +9,10 @@
 
   {{- /* ── Source metadata sidebar ─────────────────────────── */ -}}
   <aside class="post-toc">
-    <div class="post-toc-label">Source</div>
-
     <div class="source-meta-rows">
       {{- with .Params.source_org }}
       <div class="source-meta-row">
-        <span class="source-label">Org</span>
+        <span class="source-label">Source</span>
         <span class="source-value">{{ . }}</span>
       </div>
       {{- end }}
@@ -28,15 +26,13 @@
         <span class="source-label">Date</span>
         <span class="source-value">{{ .Date.Format "Jan 2, 2006" }}</span>
       </div>
-      {{- with .Params.source_type }}
-      <div class="source-meta-row">
-        <span class="source-label">Type</span>
-        <span class="source-value">{{ . }}</span>
-      </div>
-      {{- end }}
       <div class="source-meta-row">
         <span class="source-label">Read</span>
         <span class="source-value">{{ .ReadingTime }} min</span>
+      </div>
+      <div class="source-meta-row">
+        <span class="source-label">Words</span>
+        <span class="source-value">{{ .WordCount }}</span>
       </div>
     </div>
 

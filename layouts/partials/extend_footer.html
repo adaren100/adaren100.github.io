@@ -6,6 +6,21 @@
 */ -}}
 <script>
 (function () {
+  /* ── Research post: strip "— Org · Date" attribution after links ──
+     Removes the em element and its preceding "—" text node from paragraphs
+     that contain a bold link followed by an italic attribution.
+     Pattern: <strong><a>title</a></strong> — <em>Org · Date</em>
+  */
+  if (document.querySelector('.section-research')) {
+    document.querySelectorAll('.post-content p em').forEach(function (em) {
+      var prev = em.previousSibling;
+      if (prev && prev.nodeType === 3 && /^\s*[–—-]\s*$/.test(prev.textContent)) {
+        prev.remove();
+        em.remove();
+      }
+    });
+  }
+
   /* ── CJK paragraph tagger ─────────────────────────────────── */
   var CJK = /[㐀-鿿　-〿＀-￯]/;
   var SEL = '.post-content p, .post-content li, .post-content h2, .post-content h3, .post-content h4, .post-content blockquote';

@@ -827,6 +827,14 @@ nav.nav {
 }
 
 /* ──────────────────────────────────────────────────────────────
+ * Research section — hide org H3 heading in content
+ * (org is shown in the sidebar instead)
+ * ────────────────────────────────────────────────────────────── */
+.section-research .post-content h3 {
+  display: none;
+}
+
+/* ──────────────────────────────────────────────────────────────
  * Research section — CN block: grey left border, no bg tint
  * ────────────────────────────────────────────────────────────── */
 .section-research .post-content .lang-zh,
