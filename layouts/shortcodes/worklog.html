@@ -1,0 +1,5 @@
+{{- $height := .Get "height" | default "760" -}}
+<iframe src="{{ "/worklog-widget/" | relURL }}"
+  style="width:100%;max-width:660px;height:{{ $height }}px;border:0;display:block;margin:1.5rem auto;"
+  loading="lazy"
+  title="Honest Worklog"></iframe>

@@ -18,7 +18,7 @@ enableRobotsTXT = true
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
   ShowWordCount = true
-  mainSections = ['posts', 'ai-digest', 'big-tech-research']
+  mainSections = ['posts', 'ai-digest', 'big-tech-research', 'worklog']
 
   [params.homeInfoParams]
     Title = 'Notes on learning and building'
@@ -36,6 +36,12 @@ enableRobotsTXT = true
     name = 'Big Tech Research'
     url = '/big-tech-research/'
     weight = 15
+
+  [[menu.main]]
+    identifier = 'worklog'
+    name = 'Worklog'
+    url = '/worklog/'
+    weight = 16
 
   [[menu.main]]
     identifier = 'posts'
