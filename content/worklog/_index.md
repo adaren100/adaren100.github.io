@@ -8,4 +8,4 @@ description: "Every hour logged — the deep work, and the long tail of *just on
 
 Tap any day to see where it actually went.
 
-*Built from my Claude sessions and browser history. Only domains are shown — never page titles.*
+*Built from laptop usage.*
