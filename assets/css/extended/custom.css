@@ -66,9 +66,7 @@ body {
 }
 
 /* Nuke PaperMod nav padding so our edge-to-edge nav can take over */
-.header,
-.nav,
-nav.nav {
+.header {
   background: var(--paper);
   border-bottom: 2px solid var(--ink);
   max-width: var(--content-max);
@@ -77,7 +75,27 @@ nav.nav {
   height: var(--nav-h);
   display: flex;
   align-items: center;
+}
+
+.nav,
+nav.nav {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
   justify-content: space-between;
+  background: transparent;
+  border: 0;
+  max-width: none;
+  line-height: normal;
+}
+
+.logo,
+#menu {
+  margin: 0;
 }
 
 .logo a {
