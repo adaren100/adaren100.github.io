@@ -936,3 +936,98 @@ nav.nav {
 ::selection {
   background: color-mix(in srgb, var(--accent) 30%, transparent);
 }
+
+/* ──────────────────────────────────────────────────────────────
+ * Micro worklog teaser (homepage sparkline band)
+ * ────────────────────────────────────────────────────────────── */
+.microlog {
+  border-bottom: 1px solid var(--border);
+  background: #f3eee4;
+}
+.dark .microlog { background: var(--paper-dark); }
+.microlog-in {
+  max-width: var(--content-max); margin: 0 auto;
+  display: flex; align-items: center; gap: 40px;
+  padding: 26px var(--page-pad);
+}
+.ml-text { flex: none; width: 300px; }
+.ml-eyebrow {
+  font-family: var(--font-mono); font-size: 10px; letter-spacing: .14em;
+  text-transform: uppercase; color: var(--ink-faint); margin-bottom: 9px;
+}
+.ml-headline {
+  font-family: var(--font-display); font-weight: 700;
+  font-size: 22px; line-height: 1.22; letter-spacing: -.01em;
+  color: var(--ink); margin: 0;
+}
+.ml-headline b { color: var(--accent); font-weight: 700; }
+.ml-spark { flex: 1 1 auto; min-width: 0; display: flex; flex-direction: column; gap: 8px; }
+.ml-bars { display: flex; align-items: flex-end; gap: 3px; height: 50px; }
+.ml-bar {
+  flex: 1 1 0; min-width: 2px; border-radius: 2px 2px 0 0;
+  background: rgba(22,22,26,.07);
+  display: flex; flex-direction: column-reverse; overflow: hidden;
+}
+.ml-bar-seg { width: 100%; background: #3f9d6f; }
+.ml-axis {
+  display: flex; justify-content: space-between;
+  font-family: var(--font-mono); font-size: 9px;
+  color: #b8ad9f; letter-spacing: .04em;
+}
+.ml-cta { flex: none; display: flex; flex-direction: column; align-items: flex-end; gap: 5px; text-align: right; }
+.ml-stat {
+  font-family: var(--font-display); font-weight: 700; font-size: 30px;
+  line-height: 1; color: var(--ink); letter-spacing: -.01em; white-space: nowrap;
+}
+.ml-stat-sub {
+  font-family: var(--font-body); font-style: italic; font-size: 13px;
+  color: var(--ink-mid); white-space: nowrap;
+}
+.ml-link {
+  font-family: var(--font-mono); font-size: 11.5px; color: var(--accent-bright);
+  text-decoration: none; letter-spacing: .03em; white-space: nowrap; margin-top: 3px;
+  border-bottom: 1px solid rgba(41,82,168,.35); padding-bottom: 2px;
+}
+.ml-link:hover { border-bottom-color: var(--accent-bright); }
+@media (max-width: 880px) {
+  .microlog-in { flex-wrap: wrap; gap: 18px 28px; padding: 24px var(--page-pad); }
+  .ml-text { width: 100%; }
+  .ml-spark { order: 3; flex-basis: 100%; }
+}
+
+/* ──────────────────────────────────────────────────────────────
+ * Honest Log hero (worklog section landing)
+ * ────────────────────────────────────────────────────────────── */
+.log-hero { display: grid; grid-template-columns: 360px 1fr; gap: 0; }
+.log-note { padding: 64px 48px 64px var(--page-pad); border-right: 1px solid var(--border); }
+.log-note .crumb {
+  font-family: var(--font-mono); font-size: 11px; color: var(--accent-bright);
+  text-decoration: none; letter-spacing: .04em; display: inline-block; margin-bottom: 28px;
+}
+.log-note .crumb:hover { text-decoration: underline; }
+.log-eyebrow {
+  font-family: var(--font-mono); font-size: 10px; letter-spacing: .14em;
+  text-transform: uppercase; color: var(--ink-faint); margin-bottom: 16px;
+}
+.log-title {
+  font-family: var(--font-display); font-weight: 700; font-size: 42px;
+  line-height: 1.08; letter-spacing: -.02em; margin: 0 0 22px;
+}
+.log-lede {
+  font-family: var(--font-body); font-style: italic; font-size: 16px; line-height: 1.75;
+  color: var(--ink-mid); margin: 0 0 18px; max-width: 34ch;
+}
+.log-note .log-body {
+  font-family: var(--font-mono); font-size: 11.5px; line-height: 1.8;
+  color: var(--ink-faint);
+}
+.log-note .log-body strong { color: var(--accent); font-weight: 500; }
+.log-note .log-body p { margin: 0 0 14px; }
+.log-stage { display: flex; align-items: flex-start; justify-content: center; padding: 56px var(--page-pad) 64px; }
+.log-stage iframe { width: 100%; max-width: 660px; border: 0; display: block; }
+
+@media (max-width: 900px) {
+  .log-hero { grid-template-columns: 1fr; }
+  .log-note { border-right: 0; border-bottom: 1px solid var(--border); padding: 48px var(--page-pad); }
+  .log-stage { padding: 32px var(--page-pad) 56px; }
+}

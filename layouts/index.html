@@ -5,6 +5,65 @@
 
 {{- define "main" }}
 
+{{- /* ── Micro worklog teaser (sparkline). Populated client-side from
+       /worklog-widget/data.js so the band stays in sync with the widget. */ -}}
+<section class="microlog" id="microlog" hidden>
+  <div class="microlog-in">
+    <div class="ml-text">
+      <div class="ml-eyebrow">This month, honestly</div>
+      <p class="ml-headline">
+        Only <b data-ml="pct">—%</b> of my logged hours<br>were actually real work.
+      </p>
+    </div>
+    <div class="ml-spark">
+      <div class="ml-bars" data-ml="bars"></div>
+      <div class="ml-axis">
+        <span data-ml="month">—</span>
+        <span>green = real work · each bar = a day</span>
+      </div>
+    </div>
+    <div class="ml-cta">
+      <div class="ml-stat"><span data-ml="real">—</span>h</div>
+      <div class="ml-stat-sub">real of <span data-ml="logged">—</span>h logged</div>
+      <a class="ml-link" href="{{ "/worklog/" | relURL }}">Open the honest log →</a>
+    </div>
+  </div>
+</section>
+<script src="{{ "/worklog-widget/data.js" | relURL }}" defer></script>
+<script defer>
+  window.addEventListener('DOMContentLoaded', function () {
+    var M = window.WORKLOG_MONTH;
+    if (!M || !M.days || !M.days.length) return;
+    var totals = M.days.reduce(function (a, d) {
+      a.real += d.real || 0; a.logged += d.logged || 0; return a;
+    }, { real: 0, logged: 0 });
+    if (!totals.logged) return;
+    var pct = Math.round((totals.real / totals.logged) * 100);
+    var sec = document.getElementById('microlog');
+    sec.querySelector('[data-ml="pct"]').textContent = pct + '%';
+    sec.querySelector('[data-ml="real"]').textContent = Math.round(totals.real / 60);
+    sec.querySelector('[data-ml="logged"]').textContent = Math.round(totals.logged / 60);
+    sec.querySelector('[data-ml="month"]').textContent = M.month || '';
+    var maxLogged = Math.max.apply(null, M.days.map(function (d) { return d.logged || 0; })) || 1;
+    var bars = sec.querySelector('[data-ml="bars"]');
+    var frag = document.createDocumentFragment();
+    M.days.forEach(function (d) {
+      var bar = document.createElement('div');
+      bar.className = 'ml-bar';
+      bar.style.height = ((d.logged / maxLogged) * 100) + '%';
+      var fillPct = d.logged ? (d.real / d.logged) * 100 : 0;
+      bar.title = (d.dateShort || '') + ': ' + Math.round(d.real / 60 * 10) / 10 + 'h real of ' + Math.round(d.logged / 60 * 10) / 10 + 'h';
+      var seg = document.createElement('span');
+      seg.className = 'ml-bar-seg';
+      seg.style.height = fillPct + '%';
+      bar.appendChild(seg);
+      frag.appendChild(bar);
+    });
+    bars.appendChild(frag);
+    sec.hidden = false;
+  });
+</script>
+
 {{- $allPages := where site.RegularPages "Type" "in" site.Params.mainSections }}
 {{- $allPages = where $allPages "Params.hiddenInHomeList" "!=" "true" }}
 {{- $byYear := $allPages.GroupByDate "2006" }}

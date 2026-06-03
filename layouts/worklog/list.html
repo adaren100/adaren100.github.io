@@ -1,0 +1,25 @@
+{{- /* Honest Log — section landing for /worklog/.
+       Hero layout: left note column with the section's markdown copy +
+       right stage hosting the worklog widget iframe. */ -}}
+
+{{- define "main" }}
+<div class="log-hero">
+  <div class="log-note">
+    <a class="crumb" href="{{ "/" | relURL }}">← Back to notes</a>
+    <div class="log-eyebrow">This month, honestly</div>
+    <h1 class="log-title">{{ .Title | default "Where the time actually went" }}</h1>
+    {{- with .Params.description }}
+    <p class="log-lede">{{ . }}</p>
+    {{- end }}
+    {{- with .Content }}
+    <div class="log-body">{{ . }}</div>
+    {{- end }}
+  </div>
+  <div class="log-stage">
+    <iframe src="{{ "/worklog-widget/" | relURL }}"
+            style="height:780px;max-width:660px;"
+            loading="lazy"
+            title="Honest Worklog"></iframe>
+  </div>
+</div>
+{{- end }}
