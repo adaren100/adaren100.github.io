@@ -2,7 +2,7 @@
 title: "Building self-improving tax agents with Codex"
 date: 2026-05-27
 draft: false
-tags: ["ai-digest", "research", "big-tech-research"]
+tags: ["OpenAI", "research", "big-tech-research"]
 source_org: "OpenAI"
 source_url: "https://openai.com/index/building-self-improving-tax-agents-with-codex"
 ---

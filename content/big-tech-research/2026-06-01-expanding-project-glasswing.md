@@ -2,7 +2,7 @@
 title: "Expanding Project Glasswing"
 date: 2026-06-01
 draft: false
-tags: ["ai-digest", "research", "big-tech-research"]
+tags: ["Anthropic", "research", "big-tech-research"]
 source_org: "Anthropic"
 source_url: "https://www.anthropic.com/news/expanding-project-glasswing"
 ---

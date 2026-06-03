@@ -2,7 +2,7 @@
 title: "Strengthening societal resilience with Rosalind Biodefense"
 date: 2026-05-29
 draft: false
-tags: ["ai-digest", "research", "big-tech-research"]
+tags: ["OpenAI", "research", "big-tech-research"]
 source_org: "OpenAI"
 source_url: "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense"
 ---

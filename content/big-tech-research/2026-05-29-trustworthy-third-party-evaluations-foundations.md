@@ -2,7 +2,7 @@
 title: "A shared playbook for trustworthy third party evaluations"
 date: 2026-05-29
 draft: false
-tags: ["ai-digest", "research", "big-tech-research"]
+tags: ["OpenAI", "research", "big-tech-research"]
 source_org: "OpenAI"
 source_url: "https://openai.com/index/trustworthy-third-party-evaluations-foundations"
 ---
