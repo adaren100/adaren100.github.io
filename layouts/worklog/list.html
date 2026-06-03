@@ -6,7 +6,7 @@
 <div class="log-hero">
   <div class="log-note">
     <a class="crumb" href="{{ "/" | relURL }}">← Back to notes</a>
-    <div class="log-eyebrow">This month, honestly</div>
+    <div class="log-eyebrow">{{ .Params.eyebrow | default "This month, honestly" }}</div>
     <h1 class="log-title">{{ .Title | default "Where the time actually went" }}</h1>
     {{- with .Params.description }}
     <p class="log-lede">{{ . }}</p>

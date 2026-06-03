@@ -1,6 +1,7 @@
 ---
 title: "Where the time actually went"
-description: "Every hour logged — the deep work, and the long tail of *just one more tab.* Here's the honest breakdown."
+eyebrow: "How a PhD can survives, My laptop tell all."
+description: "Every hour logged by honesty worklog."
 ---
 
 **Reading · Coding · Writing** count as real work.
