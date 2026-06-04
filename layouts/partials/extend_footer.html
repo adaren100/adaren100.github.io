@@ -21,6 +21,14 @@
     });
   }
 
+  /* ── Open all links in a new tab (skip in-page anchors) ──── */
+  document.querySelectorAll('a[href]').forEach(function (a) {
+    var href = a.getAttribute('href');
+    if (!href || href.charAt(0) === '#') return;
+    a.setAttribute('target', '_blank');
+    a.setAttribute('rel', 'noopener');
+  });
+
   /* ── CJK paragraph tagger ─────────────────────────────────── */
   var CJK = /[㐀-鿿　-〿＀-￯]/;
   var SEL = '.post-content p, .post-content li, .post-content h2, .post-content h3, .post-content h4, .post-content blockquote';
