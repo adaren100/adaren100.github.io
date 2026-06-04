@@ -10,7 +10,7 @@
   {{- partial "page.html" . }}
 {{- else }}
 
-{{- $pages := .RegularPages }}
+{{- $pages := .RegularPagesRecursive }}
 {{- $byYear := $pages.GroupByDate "2006" }}
 
 <div class="section-wrap">
