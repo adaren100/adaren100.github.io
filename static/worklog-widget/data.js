@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-06-04T10:28:50+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-06-05T10:20:12+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -7429,354 +7429,354 @@
         "weekend": false
       },
       {
-        "key": "2026-6-3",
-        "dayNum": 3,
-        "dow": 3,
-        "weekend": false,
-        "dateShort": "Wed, Jun 3",
         "dateLong": "Wednesday, June 3",
-        "dayStart": "09:16",
+        "dateShort": "Wed, Jun 3",
         "dayEnd": "21:04",
+        "dayNum": 3,
+        "dayStart": "09:16",
+        "deep": 249,
+        "dow": 3,
         "events": [
           {
-            "start": "09:16",
+            "cat": "coding",
             "end": "09:36",
-            "cat": "coding",
+            "note": "claude.ai",
             "src": "chrome",
-            "title": "phd_worklog",
-            "note": "claude.ai"
+            "start": "09:16",
+            "title": "phd_worklog"
           },
           {
-            "start": "10:01",
+            "cat": "coding",
             "end": "10:07",
-            "cat": "coding",
+            "note": "localhost:1313",
             "src": "chrome",
-            "title": "Ai-Digests | Ada's Notes",
-            "note": "localhost:1313"
+            "start": "10:01",
+            "title": "Ai-Digests | Ada's Notes"
           },
           {
-            "start": "10:08",
+            "cat": "research",
             "end": "10:22",
-            "cat": "research",
+            "note": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com",
             "src": "chrome",
-            "title": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com",
-            "note": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com"
+            "start": "10:08",
+            "title": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com"
           },
           {
-            "start": "10:22",
+            "cat": "coding",
             "end": "10:24",
-            "cat": "coding",
+            "note": "claude.ai",
             "src": "chrome",
-            "title": "Claude",
-            "note": "claude.ai"
+            "start": "10:22",
+            "title": "Claude"
           },
           {
-            "start": "10:28",
+            "cat": "research",
             "end": "10:32",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "chrome",
-            "title": "Where the time actually went | Ada's Notes",
-            "note": "adaren100.github.io"
+            "start": "10:28",
+            "title": "Where the time actually went | Ada's Notes"
           },
           {
-            "start": "10:32",
+            "cat": "coding",
             "end": "10:38",
-            "cat": "coding",
+            "note": "localhost:1313",
             "src": "chrome",
-            "title": "New repository",
-            "note": "localhost:1313"
+            "start": "10:32",
+            "title": "New repository"
           },
           {
-            "start": "10:38",
+            "cat": "admin",
             "end": "10:41",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "chrome",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "10:38",
+            "title": "Google Translate"
           },
           {
-            "start": "10:41",
+            "cat": "coding",
             "end": "10:50",
-            "cat": "coding",
+            "note": "github.com",
             "src": "chrome",
-            "title": "adaren100/honesty_worklog: How a PhD student survives. An ho",
-            "note": "github.com"
+            "start": "10:41",
+            "title": "adaren100/honesty_worklog: How a PhD student survives. An ho"
           },
           {
-            "start": "10:51",
+            "cat": "research",
             "end": "10:54",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "chrome",
-            "title": "Where the time actually went | Ada's Notes",
-            "note": "adaren100.github.io"
+            "start": "10:51",
+            "title": "Where the time actually went | Ada's Notes"
           },
           {
-            "start": "10:58",
+            "cat": "research",
             "end": "11:01",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "chrome",
-            "title": "Where the time actually went | Ada's Notes",
-            "note": "adaren100.github.io"
+            "start": "10:58",
+            "title": "Where the time actually went | Ada's Notes"
           },
           {
-            "start": "11:03",
+            "cat": "research",
             "end": "11:23",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "chrome",
-            "title": "AI Digest — June 3, 2026 | Ada's Notes",
-            "note": "adaren100.github.io"
+            "start": "11:03",
+            "title": "AI Digest — June 3, 2026 | Ada's Notes"
           },
           {
-            "start": "11:34",
+            "cat": "coding",
             "end": "11:36",
-            "cat": "coding",
+            "note": "claude.ai",
             "src": "chrome",
-            "title": "Claude",
-            "note": "claude.ai"
+            "start": "11:34",
+            "title": "Claude"
           },
           {
-            "start": "11:36",
+            "cat": "research",
             "end": "11:47",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "chrome",
-            "title": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com",
-            "note": "adaren100.github.io"
+            "start": "11:36",
+            "title": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com"
           },
           {
-            "start": "11:47",
+            "cat": "coding",
             "end": "11:50",
-            "cat": "coding",
+            "note": "claude.ai",
             "src": "chrome",
-            "title": "Claude",
-            "note": "claude.ai"
+            "start": "11:47",
+            "title": "Claude"
           },
           {
-            "start": "11:51",
+            "cat": "admin",
             "end": "11:56",
-            "cat": "admin",
+            "note": "discord.com",
             "src": "chrome",
-            "title": "(14) Discord | #technical-general | POLAR-Internal",
-            "note": "discord.com"
+            "start": "11:51",
+            "title": "(14) Discord | #technical-general | POLAR-Internal"
           },
           {
-            "start": "11:58",
+            "cat": "personal",
             "end": "12:06",
-            "cat": "personal",
+            "note": "x.com",
             "src": "chrome",
-            "title": "(3) OpenAI on X: \"From question to model. The public equity ",
-            "note": "x.com"
+            "start": "11:58",
+            "title": "(3) OpenAI on X: \"From question to model. The public equity "
           },
           {
-            "start": "12:07",
+            "cat": "research",
             "end": "12:27",
-            "cat": "research",
+            "note": "claude.com",
             "src": "chrome",
-            "title": "Blog | Claude",
-            "note": "claude.com"
+            "start": "12:07",
+            "title": "Blog | Claude"
           },
           {
-            "start": "13:04",
+            "cat": "research",
             "end": "13:10",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "chrome",
-            "title": "Archive | Ada's Notes",
-            "note": "adaren100.github.io"
+            "start": "13:04",
+            "title": "Archive | Ada's Notes"
           },
           {
-            "start": "13:10",
+            "cat": "admin",
             "end": "13:30",
-            "cat": "admin",
+            "note": "softconf.com",
             "src": "chrome",
-            "title": "SemEval 2026 - Track Manager Console",
-            "note": "softconf.com"
+            "start": "13:10",
+            "title": "SemEval 2026 - Track Manager Console"
           },
           {
-            "start": "13:30",
+            "cat": "research",
             "end": "13:40",
-            "cat": "research",
+            "note": "gemini.google.com",
             "src": "chrome",
-            "title": "Paper Submission Grammar Correction - Google Gemini",
-            "note": "gemini.google.com"
+            "start": "13:30",
+            "title": "Paper Submission Grammar Correction - Google Gemini"
           },
           {
-            "start": "13:46",
+            "cat": "admin",
             "end": "13:52",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "chrome",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "13:46",
+            "title": "Google Translate"
           },
           {
-            "start": "13:52",
+            "cat": "research",
             "end": "13:54",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "chrome",
-            "title": "Uno-Orchestra: Parsimonious Agent Routing via Selective Dele",
-            "note": "arxiv.org"
+            "start": "13:52",
+            "title": "Uno-Orchestra: Parsimonious Agent Routing via Selective Dele"
           },
           {
-            "start": "13:57",
+            "cat": "admin",
             "end": "14:05",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "chrome",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "13:57",
+            "title": "Google Translate"
           },
           {
-            "start": "14:05",
+            "cat": "coding",
             "end": "14:13",
-            "cat": "coding",
+            "note": "claude.ai",
             "src": "chrome",
-            "title": "Claude",
-            "note": "claude.ai"
+            "start": "14:05",
+            "title": "Claude"
           },
           {
-            "start": "14:13",
+            "cat": "personal",
             "end": "14:35",
-            "cat": "personal",
+            "note": "google.com",
             "src": "chrome",
-            "title": "Perisher Australia's Largest and Favourite Ski and Snowboard",
-            "note": "google.com"
+            "start": "14:13",
+            "title": "Perisher Australia's Largest and Favourite Ski and Snowboard"
           },
           {
-            "start": "14:51",
+            "cat": "research",
             "end": "15:12",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "chrome",
-            "title": "Claude Opus 4.8; OpenAI on evals and biodefense | Ada's Note",
-            "note": "adaren100.github.io"
+            "start": "14:51",
+            "title": "Claude Opus 4.8; OpenAI on evals and biodefense | Ada's Note"
           },
           {
-            "start": "15:12",
+            "cat": "admin",
             "end": "15:14",
-            "cat": "admin",
+            "note": "fora-form.mq.edu.au",
             "src": "chrome",
-            "title": "Data Management Plan v1.7 - FoRA",
-            "note": "fora-form.mq.edu.au"
+            "start": "15:12",
+            "title": "Data Management Plan v1.7 - FoRA"
           },
           {
-            "start": "15:15",
+            "cat": "admin",
             "end": "15:18",
-            "cat": "admin",
+            "note": "fora-form.mq.edu.au",
             "src": "chrome",
-            "title": "Data Management Plan v1.7 - FoRA",
-            "note": "fora-form.mq.edu.au"
+            "start": "15:15",
+            "title": "Data Management Plan v1.7 - FoRA"
           },
           {
-            "start": "15:18",
+            "cat": "admin",
             "end": "15:32",
-            "cat": "admin",
+            "note": "fora-form.mq.edu.au",
             "src": "chrome",
-            "title": "Data Management Plan v1.7 - FoRA",
-            "note": "fora-form.mq.edu.au"
+            "start": "15:18",
+            "title": "Data Management Plan v1.7 - FoRA"
           },
           {
-            "start": "15:32",
+            "cat": "research",
             "end": "15:51",
-            "cat": "research",
+            "note": "openai.com",
             "src": "chrome",
-            "title": "A shared playbook for trustworthy third party evaluations | ",
-            "note": "openai.com"
+            "start": "15:32",
+            "title": "A shared playbook for trustworthy third party evaluations | "
           },
           {
-            "start": "15:51",
-            "end": "15:52",
             "cat": "writing",
+            "end": "15:52",
+            "note": "3 hits",
             "src": "local",
-            "title": "Weekly thoughts.md",
-            "note": "3 hits"
+            "start": "15:51",
+            "title": "Weekly thoughts.md"
           },
           {
-            "start": "15:52",
+            "cat": "coding",
             "end": "16:03",
-            "cat": "coding",
+            "note": "claude.ai",
             "src": "chrome",
-            "title": "Claude",
-            "note": "claude.ai"
+            "start": "15:52",
+            "title": "Claude"
           },
           {
-            "start": "16:03",
+            "cat": "personal",
             "end": "16:15",
-            "cat": "personal",
+            "note": "file:///Users/ada/Documents/MQ/blog/blog",
             "src": "chrome",
-            "title": "Ada's Notes",
-            "note": "file:///Users/ada/Documents/MQ/blog/blog"
+            "start": "16:03",
+            "title": "Ada's Notes"
           },
           {
-            "start": "16:15",
+            "cat": "research",
             "end": "16:20",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "chrome",
-            "title": "Where the time actually went | Ada's Notes",
-            "note": "adaren100.github.io"
+            "start": "16:15",
+            "title": "Where the time actually went | Ada's Notes"
           },
           {
-            "start": "16:21",
+            "cat": "admin",
             "end": "17:07",
-            "cat": "admin",
+            "note": "fora-form.mq.edu.au",
             "src": "chrome",
-            "title": "Data Management Plan v1.7 - FoRA",
-            "note": "fora-form.mq.edu.au"
+            "start": "16:21",
+            "title": "Data Management Plan v1.7 - FoRA"
           },
           {
-            "start": "17:07",
+            "cat": "personal",
             "end": "17:31",
-            "cat": "personal",
+            "note": "google.com",
             "src": "chrome",
-            "title": "parappa the rapper - Google Search",
-            "note": "google.com"
+            "start": "17:07",
+            "title": "parappa the rapper - Google Search"
           },
           {
-            "start": "18:46",
+            "cat": "personal",
             "end": "18:49",
-            "cat": "personal",
+            "note": "youtube.com",
             "src": "chrome",
-            "title": "(24) Kanto Basketball Association (KBA LEAGUE) - YouTube",
-            "note": "youtube.com"
+            "start": "18:46",
+            "title": "(24) Kanto Basketball Association (KBA LEAGUE) - YouTube"
           },
           {
-            "start": "18:49",
-            "end": "19:09",
             "cat": "research",
+            "end": "19:09",
+            "note": "arxiv.org",
             "src": "chrome",
-            "title": "Uno-Orchestra: Parsimonious Agent Routing via Selective Dele",
-            "note": "arxiv.org"
+            "start": "18:49",
+            "title": "Uno-Orchestra: Parsimonious Agent Routing via Selective Dele"
           },
           {
-            "start": "19:10",
-            "end": "19:37",
             "cat": "admin",
+            "end": "19:37",
+            "note": "translate.google.com",
             "src": "chrome",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "19:10",
+            "title": "Google Translate"
           },
           {
-            "start": "20:08",
-            "end": "20:28",
             "cat": "personal",
+            "end": "20:28",
+            "note": "open.spotify.com",
             "src": "chrome",
-            "title": "黑裙子 • 張芸京",
-            "note": "open.spotify.com"
+            "start": "20:08",
+            "title": "黑裙子 • 張芸京"
           },
           {
-            "start": "20:44",
-            "end": "21:04",
             "cat": "coding",
+            "end": "21:04",
+            "note": "github.com",
             "src": "chrome",
-            "title": "CuiZHIQ/Uno-Orchestra: Uno-Orchestra: Parsimonious Agent Rou",
-            "note": "github.com"
+            "start": "20:44",
+            "title": "CuiZHIQ/Uno-Orchestra: Uno-Orchestra: Parsimonious Agent Rou"
           }
         ],
+        "key": "2026-6-3",
         "logged": 471,
-        "real": 249,
-        "deep": 249,
         "ratio": 0.5276510740465103,
+        "real": 249,
         "stats": {
           "contextSwitches": 33,
-          "tabsOpened": 120,
+          "justOneMoreThing": 3,
           "longestFocus": "53m",
-          "justOneMoreThing": 3
-        }
+          "tabsOpened": 120
+        },
+        "weekend": false
       },
       {
         "key": "2026-6-4",
@@ -7786,7 +7786,7 @@
         "dateShort": "Thu, Jun 4",
         "dateLong": "Thursday, June 4",
         "dayStart": "09:00",
-        "dayEnd": "09:53",
+        "dayEnd": "00:02",
         "events": [
           {
             "start": "09:00",
@@ -7827,17 +7827,297 @@
             "src": "chrome",
             "title": "Denis Peskoff’s Personal Website | Denis Peskoff",
             "note": "denis.ai"
+          },
+          {
+            "start": "10:28",
+            "end": "10:33",
+            "cat": "coding",
+            "src": "local",
+            "title": "snapshots.json",
+            "note": "2 hits"
+          },
+          {
+            "start": "10:33",
+            "end": "10:36",
+            "cat": "writing",
+            "src": "local",
+            "title": "2026-06-04.md",
+            "note": "1 hit"
+          },
+          {
+            "start": "10:36",
+            "end": "10:40",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "The Beginner’s Guide to Learning Agentic AI: From Zero to Yo",
+            "note": "google.com"
+          },
+          {
+            "start": "10:40",
+            "end": "10:56",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "The Beginner’s Guide to Learning Agentic AI: From Zero to Yo",
+            "note": "google.com"
+          },
+          {
+            "start": "10:56",
+            "end": "11:05",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Strengthening societal resilience with Rosalind Biodefense |",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "11:05",
+            "end": "11:35",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(7) Josh Woodward on X: \"A short backstory on this one: A sm",
+            "note": "x.com"
+          },
+          {
+            "start": "11:42",
+            "end": "11:51",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(8) Thariq on X: \"If this prompt feels well written to you, ",
+            "note": "x.com"
+          },
+          {
+            "start": "11:51",
+            "end": "12:35",
+            "cat": "research",
+            "src": "chrome",
+            "title": "A blueprint for democratic governance of frontier AI | Ada's",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "13:11",
+            "end": "13:31",
+            "cat": "research",
+            "src": "chrome",
+            "title": "ViBench: A Benchmark on Vibe Coding | Proceedings of the ACM",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "13:31",
+            "end": "13:35",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "The Outrage Industry: Political Opinion Media and the New In",
+            "note": "books.google.com.au"
+          },
+          {
+            "start": "13:38",
+            "end": "13:49",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "papersgpt/papersgpt-for-zotero: A powerful Zotero AI and MCP",
+            "note": "github.com"
+          },
+          {
+            "start": "13:49",
+            "end": "13:54",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Uno-Orchestra: Parsimonious Agent Routing via Selective Dele",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "13:54",
+            "end": "13:56",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "13:56",
+            "end": "14:22",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "which year is it? is it 2027 next year - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "14:32",
+            "end": "14:37",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "is 2028 in 2 years - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "14:37",
+            "end": "14:38",
+            "cat": "writing",
+            "src": "local",
+            "title": "Untitled.md",
+            "note": "1 hit"
+          },
+          {
+            "start": "14:38",
+            "end": "14:52",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "14:53",
+            "end": "15:13",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Sign in - Google Accounts",
+            "note": "claude.ai"
+          },
+          {
+            "start": "15:13",
+            "end": "15:15",
+            "cat": "research",
+            "src": "chrome",
+            "title": "[2507.20534] Kimi K2: Open Agentic Intelligence",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "15:15",
+            "end": "15:36",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Zotero | Your personal research assistant",
+            "note": "zotero.org"
+          },
+          {
+            "start": "15:36",
+            "end": "15:46",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "16:29",
+            "end": "16:52",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "(14) Discord | #emnlp-paper | Online Polarization",
+            "note": "discord.com"
+          },
+          {
+            "start": "17:42",
+            "end": "17:57",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "agent benchmark tool-authoring - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "17:57",
+            "end": "18:00",
+            "cat": "research",
+            "src": "chrome",
+            "title": "2026 Conference",
+            "note": "neurips.cc"
+          },
+          {
+            "start": "18:01",
+            "end": "18:22",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "alta 2026 - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "18:40",
+            "end": "19:09",
+            "cat": "writing",
+            "src": "chrome",
+            "title": "SemEval_Task Description Paper - Online LaTeX Editor Overlea",
+            "note": "overleaf.com"
+          },
+          {
+            "start": "19:10",
+            "end": "19:13",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Public Benchmarks and Competitions - Codabench",
+            "note": "codabench.org"
+          },
+          {
+            "start": "19:13",
+            "end": "19:42",
+            "cat": "writing",
+            "src": "chrome",
+            "title": "SemEval2026-task 9 - POLAR - Google Slides",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "19:43",
+            "end": "19:56",
+            "cat": "writing",
+            "src": "chrome",
+            "title": "SemEval2026-task 9 - POLAR - Google Slides",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "20:00",
+            "end": "20:50",
+            "cat": "writing",
+            "src": "chrome",
+            "title": "SemEval2026-task 9 - POLAR - Google Slides",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "20:52",
+            "end": "21:12",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Search results for First place - Flaticon",
+            "note": "flaticon.com"
+          },
+          {
+            "start": "21:12",
+            "end": "21:15",
+            "cat": "writing",
+            "src": "chrome",
+            "title": "SemEval2026-task 9 - POLAR - Google Slides",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "21:15",
+            "end": "21:35",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "(14) Discord | #technical-general | POLAR-Internal",
+            "note": "discord.com"
+          },
+          {
+            "start": "23:08",
+            "end": "23:28",
+            "cat": "writing",
+            "src": "chrome",
+            "title": "SemEval2026-task 9 - POLAR - Google Slides",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "23:59",
+            "end": "00:02",
+            "cat": "writing",
+            "src": "chrome",
+            "title": "SemEval2026-task 9 - POLAR - Google Slides",
+            "note": "docs.google.com"
           }
         ],
-        "logged": 53,
-        "real": 5,
-        "deep": 5,
-        "ratio": 0.08964735107116775,
+        "logged": 563,
+        "real": 277,
+        "deep": 277,
+        "ratio": 0.4921682521586422,
         "stats": {
-          "contextSwitches": 3,
-          "tabsOpened": 15,
-          "longestFocus": "5m",
-          "justOneMoreThing": 0
+          "contextSwitches": 30,
+          "tabsOpened": 111,
+          "longestFocus": "2h 4m",
+          "justOneMoreThing": 1
         }
       },
       {
@@ -8921,354 +9201,354 @@
       "weekend": false
     },
     {
-      "key": "2026-6-3",
-      "dayNum": 3,
-      "dow": 3,
-      "weekend": false,
-      "dateShort": "Wed, Jun 3",
       "dateLong": "Wednesday, June 3",
-      "dayStart": "09:16",
+      "dateShort": "Wed, Jun 3",
       "dayEnd": "21:04",
+      "dayNum": 3,
+      "dayStart": "09:16",
+      "deep": 249,
+      "dow": 3,
       "events": [
         {
-          "start": "09:16",
+          "cat": "coding",
           "end": "09:36",
-          "cat": "coding",
+          "note": "claude.ai",
           "src": "chrome",
-          "title": "phd_worklog",
-          "note": "claude.ai"
+          "start": "09:16",
+          "title": "phd_worklog"
         },
         {
-          "start": "10:01",
+          "cat": "coding",
           "end": "10:07",
-          "cat": "coding",
+          "note": "localhost:1313",
           "src": "chrome",
-          "title": "Ai-Digests | Ada's Notes",
-          "note": "localhost:1313"
+          "start": "10:01",
+          "title": "Ai-Digests | Ada's Notes"
         },
         {
-          "start": "10:08",
+          "cat": "research",
           "end": "10:22",
-          "cat": "research",
+          "note": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com",
           "src": "chrome",
-          "title": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com",
-          "note": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com"
+          "start": "10:08",
+          "title": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com"
         },
         {
-          "start": "10:22",
+          "cat": "coding",
           "end": "10:24",
-          "cat": "coding",
+          "note": "claude.ai",
           "src": "chrome",
-          "title": "Claude",
-          "note": "claude.ai"
+          "start": "10:22",
+          "title": "Claude"
         },
         {
-          "start": "10:28",
+          "cat": "research",
           "end": "10:32",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "chrome",
-          "title": "Where the time actually went | Ada's Notes",
-          "note": "adaren100.github.io"
+          "start": "10:28",
+          "title": "Where the time actually went | Ada's Notes"
         },
         {
-          "start": "10:32",
+          "cat": "coding",
           "end": "10:38",
-          "cat": "coding",
+          "note": "localhost:1313",
           "src": "chrome",
-          "title": "New repository",
-          "note": "localhost:1313"
+          "start": "10:32",
+          "title": "New repository"
         },
         {
-          "start": "10:38",
+          "cat": "admin",
           "end": "10:41",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "chrome",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "10:38",
+          "title": "Google Translate"
         },
         {
-          "start": "10:41",
+          "cat": "coding",
           "end": "10:50",
-          "cat": "coding",
+          "note": "github.com",
           "src": "chrome",
-          "title": "adaren100/honesty_worklog: How a PhD student survives. An ho",
-          "note": "github.com"
+          "start": "10:41",
+          "title": "adaren100/honesty_worklog: How a PhD student survives. An ho"
         },
         {
-          "start": "10:51",
+          "cat": "research",
           "end": "10:54",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "chrome",
-          "title": "Where the time actually went | Ada's Notes",
-          "note": "adaren100.github.io"
+          "start": "10:51",
+          "title": "Where the time actually went | Ada's Notes"
         },
         {
-          "start": "10:58",
+          "cat": "research",
           "end": "11:01",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "chrome",
-          "title": "Where the time actually went | Ada's Notes",
-          "note": "adaren100.github.io"
+          "start": "10:58",
+          "title": "Where the time actually went | Ada's Notes"
         },
         {
-          "start": "11:03",
+          "cat": "research",
           "end": "11:23",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "chrome",
-          "title": "AI Digest — June 3, 2026 | Ada's Notes",
-          "note": "adaren100.github.io"
+          "start": "11:03",
+          "title": "AI Digest — June 3, 2026 | Ada's Notes"
         },
         {
-          "start": "11:34",
+          "cat": "coding",
           "end": "11:36",
-          "cat": "coding",
+          "note": "claude.ai",
           "src": "chrome",
-          "title": "Claude",
-          "note": "claude.ai"
+          "start": "11:34",
+          "title": "Claude"
         },
         {
-          "start": "11:36",
+          "cat": "research",
           "end": "11:47",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "chrome",
-          "title": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com",
-          "note": "adaren100.github.io"
+          "start": "11:36",
+          "title": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com"
         },
         {
-          "start": "11:47",
+          "cat": "coding",
           "end": "11:50",
-          "cat": "coding",
+          "note": "claude.ai",
           "src": "chrome",
-          "title": "Claude",
-          "note": "claude.ai"
+          "start": "11:47",
+          "title": "Claude"
         },
         {
-          "start": "11:51",
+          "cat": "admin",
           "end": "11:56",
-          "cat": "admin",
+          "note": "discord.com",
           "src": "chrome",
-          "title": "(14) Discord | #technical-general | POLAR-Internal",
-          "note": "discord.com"
+          "start": "11:51",
+          "title": "(14) Discord | #technical-general | POLAR-Internal"
         },
         {
-          "start": "11:58",
+          "cat": "personal",
           "end": "12:06",
-          "cat": "personal",
+          "note": "x.com",
           "src": "chrome",
-          "title": "(3) OpenAI on X: \"From question to model. The public equity ",
-          "note": "x.com"
+          "start": "11:58",
+          "title": "(3) OpenAI on X: \"From question to model. The public equity "
         },
         {
-          "start": "12:07",
+          "cat": "research",
           "end": "12:27",
-          "cat": "research",
+          "note": "claude.com",
           "src": "chrome",
-          "title": "Blog | Claude",
-          "note": "claude.com"
+          "start": "12:07",
+          "title": "Blog | Claude"
         },
         {
-          "start": "13:04",
+          "cat": "research",
           "end": "13:10",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "chrome",
-          "title": "Archive | Ada's Notes",
-          "note": "adaren100.github.io"
+          "start": "13:04",
+          "title": "Archive | Ada's Notes"
         },
         {
-          "start": "13:10",
+          "cat": "admin",
           "end": "13:30",
-          "cat": "admin",
+          "note": "softconf.com",
           "src": "chrome",
-          "title": "SemEval 2026 - Track Manager Console",
-          "note": "softconf.com"
+          "start": "13:10",
+          "title": "SemEval 2026 - Track Manager Console"
         },
         {
-          "start": "13:30",
+          "cat": "research",
           "end": "13:40",
-          "cat": "research",
+          "note": "gemini.google.com",
           "src": "chrome",
-          "title": "Paper Submission Grammar Correction - Google Gemini",
-          "note": "gemini.google.com"
+          "start": "13:30",
+          "title": "Paper Submission Grammar Correction - Google Gemini"
         },
         {
-          "start": "13:46",
+          "cat": "admin",
           "end": "13:52",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "chrome",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "13:46",
+          "title": "Google Translate"
         },
         {
-          "start": "13:52",
+          "cat": "research",
           "end": "13:54",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "chrome",
-          "title": "Uno-Orchestra: Parsimonious Agent Routing via Selective Dele",
-          "note": "arxiv.org"
+          "start": "13:52",
+          "title": "Uno-Orchestra: Parsimonious Agent Routing via Selective Dele"
         },
         {
-          "start": "13:57",
+          "cat": "admin",
           "end": "14:05",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "chrome",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "13:57",
+          "title": "Google Translate"
         },
         {
-          "start": "14:05",
+          "cat": "coding",
           "end": "14:13",
-          "cat": "coding",
+          "note": "claude.ai",
           "src": "chrome",
-          "title": "Claude",
-          "note": "claude.ai"
+          "start": "14:05",
+          "title": "Claude"
         },
         {
-          "start": "14:13",
+          "cat": "personal",
           "end": "14:35",
-          "cat": "personal",
+          "note": "google.com",
           "src": "chrome",
-          "title": "Perisher Australia's Largest and Favourite Ski and Snowboard",
-          "note": "google.com"
+          "start": "14:13",
+          "title": "Perisher Australia's Largest and Favourite Ski and Snowboard"
         },
         {
-          "start": "14:51",
+          "cat": "research",
           "end": "15:12",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "chrome",
-          "title": "Claude Opus 4.8; OpenAI on evals and biodefense | Ada's Note",
-          "note": "adaren100.github.io"
+          "start": "14:51",
+          "title": "Claude Opus 4.8; OpenAI on evals and biodefense | Ada's Note"
         },
         {
-          "start": "15:12",
+          "cat": "admin",
           "end": "15:14",
-          "cat": "admin",
+          "note": "fora-form.mq.edu.au",
           "src": "chrome",
-          "title": "Data Management Plan v1.7 - FoRA",
-          "note": "fora-form.mq.edu.au"
+          "start": "15:12",
+          "title": "Data Management Plan v1.7 - FoRA"
         },
         {
-          "start": "15:15",
+          "cat": "admin",
           "end": "15:18",
-          "cat": "admin",
+          "note": "fora-form.mq.edu.au",
           "src": "chrome",
-          "title": "Data Management Plan v1.7 - FoRA",
-          "note": "fora-form.mq.edu.au"
+          "start": "15:15",
+          "title": "Data Management Plan v1.7 - FoRA"
         },
         {
-          "start": "15:18",
+          "cat": "admin",
           "end": "15:32",
-          "cat": "admin",
+          "note": "fora-form.mq.edu.au",
           "src": "chrome",
-          "title": "Data Management Plan v1.7 - FoRA",
-          "note": "fora-form.mq.edu.au"
+          "start": "15:18",
+          "title": "Data Management Plan v1.7 - FoRA"
         },
         {
-          "start": "15:32",
+          "cat": "research",
           "end": "15:51",
-          "cat": "research",
+          "note": "openai.com",
           "src": "chrome",
-          "title": "A shared playbook for trustworthy third party evaluations | ",
-          "note": "openai.com"
+          "start": "15:32",
+          "title": "A shared playbook for trustworthy third party evaluations | "
         },
         {
-          "start": "15:51",
-          "end": "15:52",
           "cat": "writing",
+          "end": "15:52",
+          "note": "3 hits",
           "src": "local",
-          "title": "Weekly thoughts.md",
-          "note": "3 hits"
+          "start": "15:51",
+          "title": "Weekly thoughts.md"
         },
         {
-          "start": "15:52",
+          "cat": "coding",
           "end": "16:03",
-          "cat": "coding",
+          "note": "claude.ai",
           "src": "chrome",
-          "title": "Claude",
-          "note": "claude.ai"
+          "start": "15:52",
+          "title": "Claude"
         },
         {
-          "start": "16:03",
+          "cat": "personal",
           "end": "16:15",
-          "cat": "personal",
+          "note": "file:///Users/ada/Documents/MQ/blog/blog",
           "src": "chrome",
-          "title": "Ada's Notes",
-          "note": "file:///Users/ada/Documents/MQ/blog/blog"
+          "start": "16:03",
+          "title": "Ada's Notes"
         },
         {
-          "start": "16:15",
+          "cat": "research",
           "end": "16:20",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "chrome",
-          "title": "Where the time actually went | Ada's Notes",
-          "note": "adaren100.github.io"
+          "start": "16:15",
+          "title": "Where the time actually went | Ada's Notes"
         },
         {
-          "start": "16:21",
+          "cat": "admin",
           "end": "17:07",
-          "cat": "admin",
+          "note": "fora-form.mq.edu.au",
           "src": "chrome",
-          "title": "Data Management Plan v1.7 - FoRA",
-          "note": "fora-form.mq.edu.au"
+          "start": "16:21",
+          "title": "Data Management Plan v1.7 - FoRA"
         },
         {
-          "start": "17:07",
+          "cat": "personal",
           "end": "17:31",
-          "cat": "personal",
+          "note": "google.com",
           "src": "chrome",
-          "title": "parappa the rapper - Google Search",
-          "note": "google.com"
+          "start": "17:07",
+          "title": "parappa the rapper - Google Search"
         },
         {
-          "start": "18:46",
+          "cat": "personal",
           "end": "18:49",
-          "cat": "personal",
+          "note": "youtube.com",
           "src": "chrome",
-          "title": "(24) Kanto Basketball Association (KBA LEAGUE) - YouTube",
-          "note": "youtube.com"
+          "start": "18:46",
+          "title": "(24) Kanto Basketball Association (KBA LEAGUE) - YouTube"
         },
         {
-          "start": "18:49",
-          "end": "19:09",
           "cat": "research",
+          "end": "19:09",
+          "note": "arxiv.org",
           "src": "chrome",
-          "title": "Uno-Orchestra: Parsimonious Agent Routing via Selective Dele",
-          "note": "arxiv.org"
+          "start": "18:49",
+          "title": "Uno-Orchestra: Parsimonious Agent Routing via Selective Dele"
         },
         {
-          "start": "19:10",
-          "end": "19:37",
           "cat": "admin",
+          "end": "19:37",
+          "note": "translate.google.com",
           "src": "chrome",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "19:10",
+          "title": "Google Translate"
         },
         {
-          "start": "20:08",
-          "end": "20:28",
           "cat": "personal",
+          "end": "20:28",
+          "note": "open.spotify.com",
           "src": "chrome",
-          "title": "黑裙子 • 張芸京",
-          "note": "open.spotify.com"
+          "start": "20:08",
+          "title": "黑裙子 • 張芸京"
         },
         {
-          "start": "20:44",
-          "end": "21:04",
           "cat": "coding",
+          "end": "21:04",
+          "note": "github.com",
           "src": "chrome",
-          "title": "CuiZHIQ/Uno-Orchestra: Uno-Orchestra: Parsimonious Agent Rou",
-          "note": "github.com"
+          "start": "20:44",
+          "title": "CuiZHIQ/Uno-Orchestra: Uno-Orchestra: Parsimonious Agent Rou"
         }
       ],
+      "key": "2026-6-3",
       "logged": 471,
-      "real": 249,
-      "deep": 249,
       "ratio": 0.5276510740465103,
+      "real": 249,
       "stats": {
         "contextSwitches": 33,
-        "tabsOpened": 120,
+        "justOneMoreThing": 3,
         "longestFocus": "53m",
-        "justOneMoreThing": 3
-      }
+        "tabsOpened": 120
+      },
+      "weekend": false
     },
     {
       "key": "2026-6-4",
@@ -9278,7 +9558,7 @@
       "dateShort": "Thu, Jun 4",
       "dateLong": "Thursday, June 4",
       "dayStart": "09:00",
-      "dayEnd": "09:53",
+      "dayEnd": "00:02",
       "events": [
         {
           "start": "09:00",
@@ -9319,17 +9599,297 @@
           "src": "chrome",
           "title": "Denis Peskoff’s Personal Website | Denis Peskoff",
           "note": "denis.ai"
+        },
+        {
+          "start": "10:28",
+          "end": "10:33",
+          "cat": "coding",
+          "src": "local",
+          "title": "snapshots.json",
+          "note": "2 hits"
+        },
+        {
+          "start": "10:33",
+          "end": "10:36",
+          "cat": "writing",
+          "src": "local",
+          "title": "2026-06-04.md",
+          "note": "1 hit"
+        },
+        {
+          "start": "10:36",
+          "end": "10:40",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "The Beginner’s Guide to Learning Agentic AI: From Zero to Yo",
+          "note": "google.com"
+        },
+        {
+          "start": "10:40",
+          "end": "10:56",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "The Beginner’s Guide to Learning Agentic AI: From Zero to Yo",
+          "note": "google.com"
+        },
+        {
+          "start": "10:56",
+          "end": "11:05",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Strengthening societal resilience with Rosalind Biodefense |",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "11:05",
+          "end": "11:35",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(7) Josh Woodward on X: \"A short backstory on this one: A sm",
+          "note": "x.com"
+        },
+        {
+          "start": "11:42",
+          "end": "11:51",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(8) Thariq on X: \"If this prompt feels well written to you, ",
+          "note": "x.com"
+        },
+        {
+          "start": "11:51",
+          "end": "12:35",
+          "cat": "research",
+          "src": "chrome",
+          "title": "A blueprint for democratic governance of frontier AI | Ada's",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "13:11",
+          "end": "13:31",
+          "cat": "research",
+          "src": "chrome",
+          "title": "ViBench: A Benchmark on Vibe Coding | Proceedings of the ACM",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "13:31",
+          "end": "13:35",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "The Outrage Industry: Political Opinion Media and the New In",
+          "note": "books.google.com.au"
+        },
+        {
+          "start": "13:38",
+          "end": "13:49",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "papersgpt/papersgpt-for-zotero: A powerful Zotero AI and MCP",
+          "note": "github.com"
+        },
+        {
+          "start": "13:49",
+          "end": "13:54",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Uno-Orchestra: Parsimonious Agent Routing via Selective Dele",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "13:54",
+          "end": "13:56",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "13:56",
+          "end": "14:22",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "which year is it? is it 2027 next year - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "14:32",
+          "end": "14:37",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "is 2028 in 2 years - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "14:37",
+          "end": "14:38",
+          "cat": "writing",
+          "src": "local",
+          "title": "Untitled.md",
+          "note": "1 hit"
+        },
+        {
+          "start": "14:38",
+          "end": "14:52",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "14:53",
+          "end": "15:13",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Sign in - Google Accounts",
+          "note": "claude.ai"
+        },
+        {
+          "start": "15:13",
+          "end": "15:15",
+          "cat": "research",
+          "src": "chrome",
+          "title": "[2507.20534] Kimi K2: Open Agentic Intelligence",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "15:15",
+          "end": "15:36",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Zotero | Your personal research assistant",
+          "note": "zotero.org"
+        },
+        {
+          "start": "15:36",
+          "end": "15:46",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "16:29",
+          "end": "16:52",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "(14) Discord | #emnlp-paper | Online Polarization",
+          "note": "discord.com"
+        },
+        {
+          "start": "17:42",
+          "end": "17:57",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "agent benchmark tool-authoring - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "17:57",
+          "end": "18:00",
+          "cat": "research",
+          "src": "chrome",
+          "title": "2026 Conference",
+          "note": "neurips.cc"
+        },
+        {
+          "start": "18:01",
+          "end": "18:22",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "alta 2026 - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "18:40",
+          "end": "19:09",
+          "cat": "writing",
+          "src": "chrome",
+          "title": "SemEval_Task Description Paper - Online LaTeX Editor Overlea",
+          "note": "overleaf.com"
+        },
+        {
+          "start": "19:10",
+          "end": "19:13",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Public Benchmarks and Competitions - Codabench",
+          "note": "codabench.org"
+        },
+        {
+          "start": "19:13",
+          "end": "19:42",
+          "cat": "writing",
+          "src": "chrome",
+          "title": "SemEval2026-task 9 - POLAR - Google Slides",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "19:43",
+          "end": "19:56",
+          "cat": "writing",
+          "src": "chrome",
+          "title": "SemEval2026-task 9 - POLAR - Google Slides",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "20:00",
+          "end": "20:50",
+          "cat": "writing",
+          "src": "chrome",
+          "title": "SemEval2026-task 9 - POLAR - Google Slides",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "20:52",
+          "end": "21:12",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Search results for First place - Flaticon",
+          "note": "flaticon.com"
+        },
+        {
+          "start": "21:12",
+          "end": "21:15",
+          "cat": "writing",
+          "src": "chrome",
+          "title": "SemEval2026-task 9 - POLAR - Google Slides",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "21:15",
+          "end": "21:35",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "(14) Discord | #technical-general | POLAR-Internal",
+          "note": "discord.com"
+        },
+        {
+          "start": "23:08",
+          "end": "23:28",
+          "cat": "writing",
+          "src": "chrome",
+          "title": "SemEval2026-task 9 - POLAR - Google Slides",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "23:59",
+          "end": "00:02",
+          "cat": "writing",
+          "src": "chrome",
+          "title": "SemEval2026-task 9 - POLAR - Google Slides",
+          "note": "docs.google.com"
         }
       ],
-      "logged": 53,
-      "real": 5,
-      "deep": 5,
-      "ratio": 0.08964735107116775,
+      "logged": 563,
+      "real": 277,
+      "deep": 277,
+      "ratio": 0.4921682521586422,
       "stats": {
-        "contextSwitches": 3,
-        "tabsOpened": 15,
-        "longestFocus": "5m",
-        "justOneMoreThing": 0
+        "contextSwitches": 30,
+        "tabsOpened": 111,
+        "longestFocus": "2h 4m",
+        "justOneMoreThing": 1
       }
     },
     {
