@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-06-05T10:20:12+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-06-06T10:30:39+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -7779,346 +7779,346 @@
         "weekend": false
       },
       {
-        "key": "2026-6-4",
-        "dayNum": 4,
-        "dow": 4,
-        "weekend": false,
-        "dateShort": "Thu, Jun 4",
         "dateLong": "Thursday, June 4",
-        "dayStart": "09:00",
+        "dateShort": "Thu, Jun 4",
         "dayEnd": "00:02",
+        "dayNum": 4,
+        "dayStart": "09:00",
+        "deep": 277,
+        "dow": 4,
         "events": [
           {
-            "start": "09:00",
+            "cat": "personal",
             "end": "09:19",
-            "cat": "personal",
+            "note": "tinyurl.com",
             "src": "chrome",
-            "title": "Join from Zoom Workplace app - Zoom",
-            "note": "tinyurl.com"
+            "start": "09:00",
+            "title": "Join from Zoom Workplace app - Zoom"
           },
           {
-            "start": "09:19",
+            "cat": "personal",
             "end": "09:20",
-            "cat": "personal",
+            "note": "tinyurl.com",
             "src": "chrome",
-            "title": "Join from Zoom Workplace app - Zoom",
-            "note": "tinyurl.com"
+            "start": "09:19",
+            "title": "Join from Zoom Workplace app - Zoom"
           },
           {
-            "start": "09:20",
+            "cat": "admin",
             "end": "09:27",
-            "cat": "admin",
+            "note": "groups.google.com",
             "src": "chrome",
-            "title": "alta-seminar - Google Groups",
-            "note": "groups.google.com"
+            "start": "09:20",
+            "title": "alta-seminar - Google Groups"
           },
           {
-            "start": "09:28",
+            "cat": "research",
             "end": "09:32",
-            "cat": "research",
+            "note": "scholar.google.com",
             "src": "chrome",
-            "title": "‪Denis Peskoff‬ - ‪Google Scholar‬",
-            "note": "scholar.google.com"
+            "start": "09:28",
+            "title": "‪Denis Peskoff‬ - ‪Google Scholar‬"
           },
           {
-            "start": "09:32",
+            "cat": "personal",
             "end": "09:53",
-            "cat": "personal",
+            "note": "denis.ai",
             "src": "chrome",
-            "title": "Denis Peskoff’s Personal Website | Denis Peskoff",
-            "note": "denis.ai"
+            "start": "09:32",
+            "title": "Denis Peskoff’s Personal Website | Denis Peskoff"
           },
           {
-            "start": "10:28",
+            "cat": "coding",
             "end": "10:33",
-            "cat": "coding",
+            "note": "2 hits",
             "src": "local",
-            "title": "snapshots.json",
-            "note": "2 hits"
+            "start": "10:28",
+            "title": "snapshots.json"
           },
           {
-            "start": "10:33",
+            "cat": "writing",
             "end": "10:36",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "2026-06-04.md",
-            "note": "1 hit"
+            "start": "10:33",
+            "title": "2026-06-04.md"
           },
           {
-            "start": "10:36",
+            "cat": "personal",
             "end": "10:40",
-            "cat": "personal",
+            "note": "google.com",
             "src": "chrome",
-            "title": "The Beginner’s Guide to Learning Agentic AI: From Zero to Yo",
-            "note": "google.com"
+            "start": "10:36",
+            "title": "The Beginner’s Guide to Learning Agentic AI: From Zero to Yo"
           },
           {
-            "start": "10:40",
+            "cat": "personal",
             "end": "10:56",
-            "cat": "personal",
+            "note": "google.com",
             "src": "chrome",
-            "title": "The Beginner’s Guide to Learning Agentic AI: From Zero to Yo",
-            "note": "google.com"
+            "start": "10:40",
+            "title": "The Beginner’s Guide to Learning Agentic AI: From Zero to Yo"
           },
           {
-            "start": "10:56",
+            "cat": "research",
             "end": "11:05",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "chrome",
-            "title": "Strengthening societal resilience with Rosalind Biodefense |",
-            "note": "adaren100.github.io"
+            "start": "10:56",
+            "title": "Strengthening societal resilience with Rosalind Biodefense |"
           },
           {
-            "start": "11:05",
+            "cat": "personal",
             "end": "11:35",
-            "cat": "personal",
+            "note": "x.com",
             "src": "chrome",
-            "title": "(7) Josh Woodward on X: \"A short backstory on this one: A sm",
-            "note": "x.com"
+            "start": "11:05",
+            "title": "(7) Josh Woodward on X: \"A short backstory on this one: A sm"
           },
           {
-            "start": "11:42",
+            "cat": "personal",
             "end": "11:51",
-            "cat": "personal",
+            "note": "x.com",
             "src": "chrome",
-            "title": "(8) Thariq on X: \"If this prompt feels well written to you, ",
-            "note": "x.com"
+            "start": "11:42",
+            "title": "(8) Thariq on X: \"If this prompt feels well written to you, "
           },
           {
-            "start": "11:51",
+            "cat": "research",
             "end": "12:35",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "chrome",
-            "title": "A blueprint for democratic governance of frontier AI | Ada's",
-            "note": "adaren100.github.io"
+            "start": "11:51",
+            "title": "A blueprint for democratic governance of frontier AI | Ada's"
           },
           {
-            "start": "13:11",
+            "cat": "research",
             "end": "13:31",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "chrome",
-            "title": "ViBench: A Benchmark on Vibe Coding | Proceedings of the ACM",
-            "note": "adaren100.github.io"
+            "start": "13:11",
+            "title": "ViBench: A Benchmark on Vibe Coding | Proceedings of the ACM"
           },
           {
-            "start": "13:31",
+            "cat": "personal",
             "end": "13:35",
-            "cat": "personal",
+            "note": "books.google.com.au",
             "src": "chrome",
-            "title": "The Outrage Industry: Political Opinion Media and the New In",
-            "note": "books.google.com.au"
+            "start": "13:31",
+            "title": "The Outrage Industry: Political Opinion Media and the New In"
           },
           {
-            "start": "13:38",
+            "cat": "coding",
             "end": "13:49",
-            "cat": "coding",
+            "note": "github.com",
             "src": "chrome",
-            "title": "papersgpt/papersgpt-for-zotero: A powerful Zotero AI and MCP",
-            "note": "github.com"
+            "start": "13:38",
+            "title": "papersgpt/papersgpt-for-zotero: A powerful Zotero AI and MCP"
           },
           {
-            "start": "13:49",
+            "cat": "research",
             "end": "13:54",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "chrome",
-            "title": "Uno-Orchestra: Parsimonious Agent Routing via Selective Dele",
-            "note": "arxiv.org"
+            "start": "13:49",
+            "title": "Uno-Orchestra: Parsimonious Agent Routing via Selective Dele"
           },
           {
-            "start": "13:54",
+            "cat": "admin",
             "end": "13:56",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "chrome",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "13:54",
+            "title": "Google Translate"
           },
           {
-            "start": "13:56",
+            "cat": "personal",
             "end": "14:22",
-            "cat": "personal",
+            "note": "google.com",
             "src": "chrome",
-            "title": "which year is it? is it 2027 next year - Google Search",
-            "note": "google.com"
+            "start": "13:56",
+            "title": "which year is it? is it 2027 next year - Google Search"
           },
           {
-            "start": "14:32",
+            "cat": "personal",
             "end": "14:37",
-            "cat": "personal",
+            "note": "google.com",
             "src": "chrome",
-            "title": "is 2028 in 2 years - Google Search",
-            "note": "google.com"
+            "start": "14:32",
+            "title": "is 2028 in 2 years - Google Search"
           },
           {
-            "start": "14:37",
+            "cat": "writing",
             "end": "14:38",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "Untitled.md",
-            "note": "1 hit"
+            "start": "14:37",
+            "title": "Untitled.md"
           },
           {
-            "start": "14:38",
+            "cat": "admin",
             "end": "14:52",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "chrome",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "14:38",
+            "title": "Google Translate"
           },
           {
-            "start": "14:53",
+            "cat": "coding",
             "end": "15:13",
-            "cat": "coding",
+            "note": "claude.ai",
             "src": "chrome",
-            "title": "Sign in - Google Accounts",
-            "note": "claude.ai"
+            "start": "14:53",
+            "title": "Sign in - Google Accounts"
           },
           {
-            "start": "15:13",
+            "cat": "research",
             "end": "15:15",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "chrome",
-            "title": "[2507.20534] Kimi K2: Open Agentic Intelligence",
-            "note": "arxiv.org"
+            "start": "15:13",
+            "title": "[2507.20534] Kimi K2: Open Agentic Intelligence"
           },
           {
-            "start": "15:15",
+            "cat": "personal",
             "end": "15:36",
-            "cat": "personal",
+            "note": "zotero.org",
             "src": "chrome",
-            "title": "Zotero | Your personal research assistant",
-            "note": "zotero.org"
+            "start": "15:15",
+            "title": "Zotero | Your personal research assistant"
           },
           {
-            "start": "15:36",
+            "cat": "admin",
             "end": "15:46",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "chrome",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "15:36",
+            "title": "Google Translate"
           },
           {
-            "start": "16:29",
+            "cat": "admin",
             "end": "16:52",
-            "cat": "admin",
+            "note": "discord.com",
             "src": "chrome",
-            "title": "(14) Discord | #emnlp-paper | Online Polarization",
-            "note": "discord.com"
+            "start": "16:29",
+            "title": "(14) Discord | #emnlp-paper | Online Polarization"
           },
           {
-            "start": "17:42",
+            "cat": "personal",
             "end": "17:57",
-            "cat": "personal",
+            "note": "google.com",
             "src": "chrome",
-            "title": "agent benchmark tool-authoring - Google Search",
-            "note": "google.com"
+            "start": "17:42",
+            "title": "agent benchmark tool-authoring - Google Search"
           },
           {
-            "start": "17:57",
-            "end": "18:00",
             "cat": "research",
+            "end": "18:00",
+            "note": "neurips.cc",
             "src": "chrome",
-            "title": "2026 Conference",
-            "note": "neurips.cc"
+            "start": "17:57",
+            "title": "2026 Conference"
           },
           {
-            "start": "18:01",
+            "cat": "personal",
             "end": "18:22",
-            "cat": "personal",
+            "note": "google.com",
             "src": "chrome",
-            "title": "alta 2026 - Google Search",
-            "note": "google.com"
+            "start": "18:01",
+            "title": "alta 2026 - Google Search"
           },
           {
-            "start": "18:40",
+            "cat": "writing",
             "end": "19:09",
-            "cat": "writing",
+            "note": "overleaf.com",
             "src": "chrome",
-            "title": "SemEval_Task Description Paper - Online LaTeX Editor Overlea",
-            "note": "overleaf.com"
+            "start": "18:40",
+            "title": "SemEval_Task Description Paper - Online LaTeX Editor Overlea"
           },
           {
-            "start": "19:10",
-            "end": "19:13",
             "cat": "coding",
+            "end": "19:13",
+            "note": "codabench.org",
             "src": "chrome",
-            "title": "Public Benchmarks and Competitions - Codabench",
-            "note": "codabench.org"
+            "start": "19:10",
+            "title": "Public Benchmarks and Competitions - Codabench"
           },
           {
-            "start": "19:13",
+            "cat": "writing",
             "end": "19:42",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "chrome",
-            "title": "SemEval2026-task 9 - POLAR - Google Slides",
-            "note": "docs.google.com"
+            "start": "19:13",
+            "title": "SemEval2026-task 9 - POLAR - Google Slides"
           },
           {
-            "start": "19:43",
+            "cat": "writing",
             "end": "19:56",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "chrome",
-            "title": "SemEval2026-task 9 - POLAR - Google Slides",
-            "note": "docs.google.com"
+            "start": "19:43",
+            "title": "SemEval2026-task 9 - POLAR - Google Slides"
           },
           {
-            "start": "20:00",
+            "cat": "writing",
             "end": "20:50",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "chrome",
-            "title": "SemEval2026-task 9 - POLAR - Google Slides",
-            "note": "docs.google.com"
+            "start": "20:00",
+            "title": "SemEval2026-task 9 - POLAR - Google Slides"
           },
           {
-            "start": "20:52",
-            "end": "21:12",
             "cat": "personal",
+            "end": "21:12",
+            "note": "flaticon.com",
             "src": "chrome",
-            "title": "Search results for First place - Flaticon",
-            "note": "flaticon.com"
+            "start": "20:52",
+            "title": "Search results for First place - Flaticon"
           },
           {
-            "start": "21:12",
+            "cat": "writing",
             "end": "21:15",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "chrome",
-            "title": "SemEval2026-task 9 - POLAR - Google Slides",
-            "note": "docs.google.com"
+            "start": "21:12",
+            "title": "SemEval2026-task 9 - POLAR - Google Slides"
           },
           {
-            "start": "21:15",
-            "end": "21:35",
             "cat": "admin",
+            "end": "21:35",
+            "note": "discord.com",
             "src": "chrome",
-            "title": "(14) Discord | #technical-general | POLAR-Internal",
-            "note": "discord.com"
+            "start": "21:15",
+            "title": "(14) Discord | #technical-general | POLAR-Internal"
           },
           {
-            "start": "23:08",
+            "cat": "writing",
             "end": "23:28",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "chrome",
-            "title": "SemEval2026-task 9 - POLAR - Google Slides",
-            "note": "docs.google.com"
+            "start": "23:08",
+            "title": "SemEval2026-task 9 - POLAR - Google Slides"
           },
           {
-            "start": "23:59",
-            "end": "00:02",
             "cat": "writing",
+            "end": "00:02",
+            "note": "docs.google.com",
             "src": "chrome",
-            "title": "SemEval2026-task 9 - POLAR - Google Slides",
-            "note": "docs.google.com"
+            "start": "23:59",
+            "title": "SemEval2026-task 9 - POLAR - Google Slides"
           }
         ],
+        "key": "2026-6-4",
         "logged": 563,
-        "real": 277,
-        "deep": 277,
         "ratio": 0.4921682521586422,
+        "real": 277,
         "stats": {
           "contextSwitches": 30,
-          "tabsOpened": 111,
+          "justOneMoreThing": 1,
           "longestFocus": "2h 4m",
-          "justOneMoreThing": 1
-        }
+          "tabsOpened": 111
+        },
+        "weekend": false
       },
       {
         "key": "2026-6-5",
@@ -8127,17 +8127,42 @@
         "weekend": false,
         "dateShort": "Fri, Jun 5",
         "dateLong": "Friday, June 5",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "10:20",
+        "dayEnd": "10:25",
+        "events": [
+          {
+            "start": "10:20",
+            "end": "10:20",
+            "cat": "coding",
+            "src": "local",
+            "title": "snapshots.json",
+            "note": "2 hits"
+          },
+          {
+            "start": "10:20",
+            "end": "10:23",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Where the time actually went | Ada's Notes",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "10:23",
+            "end": "10:25",
+            "cat": "coding",
+            "src": "local",
+            "title": "snapshots.json",
+            "note": "2 hits"
+          }
+        ],
+        "logged": 5,
+        "real": 5,
+        "deep": 5,
+        "ratio": 1.0,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "0m",
+          "contextSwitches": 2,
+          "tabsOpened": 3,
+          "longestFocus": "5m",
           "justOneMoreThing": 0
         }
       },
@@ -9551,346 +9576,346 @@
       "weekend": false
     },
     {
-      "key": "2026-6-4",
-      "dayNum": 4,
-      "dow": 4,
-      "weekend": false,
-      "dateShort": "Thu, Jun 4",
       "dateLong": "Thursday, June 4",
-      "dayStart": "09:00",
+      "dateShort": "Thu, Jun 4",
       "dayEnd": "00:02",
+      "dayNum": 4,
+      "dayStart": "09:00",
+      "deep": 277,
+      "dow": 4,
       "events": [
         {
-          "start": "09:00",
+          "cat": "personal",
           "end": "09:19",
-          "cat": "personal",
+          "note": "tinyurl.com",
           "src": "chrome",
-          "title": "Join from Zoom Workplace app - Zoom",
-          "note": "tinyurl.com"
+          "start": "09:00",
+          "title": "Join from Zoom Workplace app - Zoom"
         },
         {
-          "start": "09:19",
+          "cat": "personal",
           "end": "09:20",
-          "cat": "personal",
+          "note": "tinyurl.com",
           "src": "chrome",
-          "title": "Join from Zoom Workplace app - Zoom",
-          "note": "tinyurl.com"
+          "start": "09:19",
+          "title": "Join from Zoom Workplace app - Zoom"
         },
         {
-          "start": "09:20",
+          "cat": "admin",
           "end": "09:27",
-          "cat": "admin",
+          "note": "groups.google.com",
           "src": "chrome",
-          "title": "alta-seminar - Google Groups",
-          "note": "groups.google.com"
+          "start": "09:20",
+          "title": "alta-seminar - Google Groups"
         },
         {
-          "start": "09:28",
+          "cat": "research",
           "end": "09:32",
-          "cat": "research",
+          "note": "scholar.google.com",
           "src": "chrome",
-          "title": "‪Denis Peskoff‬ - ‪Google Scholar‬",
-          "note": "scholar.google.com"
+          "start": "09:28",
+          "title": "‪Denis Peskoff‬ - ‪Google Scholar‬"
         },
         {
-          "start": "09:32",
+          "cat": "personal",
           "end": "09:53",
-          "cat": "personal",
+          "note": "denis.ai",
           "src": "chrome",
-          "title": "Denis Peskoff’s Personal Website | Denis Peskoff",
-          "note": "denis.ai"
+          "start": "09:32",
+          "title": "Denis Peskoff’s Personal Website | Denis Peskoff"
         },
         {
-          "start": "10:28",
+          "cat": "coding",
           "end": "10:33",
-          "cat": "coding",
+          "note": "2 hits",
           "src": "local",
-          "title": "snapshots.json",
-          "note": "2 hits"
+          "start": "10:28",
+          "title": "snapshots.json"
         },
         {
-          "start": "10:33",
+          "cat": "writing",
           "end": "10:36",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "2026-06-04.md",
-          "note": "1 hit"
+          "start": "10:33",
+          "title": "2026-06-04.md"
         },
         {
-          "start": "10:36",
+          "cat": "personal",
           "end": "10:40",
-          "cat": "personal",
+          "note": "google.com",
           "src": "chrome",
-          "title": "The Beginner’s Guide to Learning Agentic AI: From Zero to Yo",
-          "note": "google.com"
+          "start": "10:36",
+          "title": "The Beginner’s Guide to Learning Agentic AI: From Zero to Yo"
         },
         {
-          "start": "10:40",
+          "cat": "personal",
           "end": "10:56",
-          "cat": "personal",
+          "note": "google.com",
           "src": "chrome",
-          "title": "The Beginner’s Guide to Learning Agentic AI: From Zero to Yo",
-          "note": "google.com"
+          "start": "10:40",
+          "title": "The Beginner’s Guide to Learning Agentic AI: From Zero to Yo"
         },
         {
-          "start": "10:56",
+          "cat": "research",
           "end": "11:05",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "chrome",
-          "title": "Strengthening societal resilience with Rosalind Biodefense |",
-          "note": "adaren100.github.io"
+          "start": "10:56",
+          "title": "Strengthening societal resilience with Rosalind Biodefense |"
         },
         {
-          "start": "11:05",
+          "cat": "personal",
           "end": "11:35",
-          "cat": "personal",
+          "note": "x.com",
           "src": "chrome",
-          "title": "(7) Josh Woodward on X: \"A short backstory on this one: A sm",
-          "note": "x.com"
+          "start": "11:05",
+          "title": "(7) Josh Woodward on X: \"A short backstory on this one: A sm"
         },
         {
-          "start": "11:42",
+          "cat": "personal",
           "end": "11:51",
-          "cat": "personal",
+          "note": "x.com",
           "src": "chrome",
-          "title": "(8) Thariq on X: \"If this prompt feels well written to you, ",
-          "note": "x.com"
+          "start": "11:42",
+          "title": "(8) Thariq on X: \"If this prompt feels well written to you, "
         },
         {
-          "start": "11:51",
+          "cat": "research",
           "end": "12:35",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "chrome",
-          "title": "A blueprint for democratic governance of frontier AI | Ada's",
-          "note": "adaren100.github.io"
+          "start": "11:51",
+          "title": "A blueprint for democratic governance of frontier AI | Ada's"
         },
         {
-          "start": "13:11",
+          "cat": "research",
           "end": "13:31",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "chrome",
-          "title": "ViBench: A Benchmark on Vibe Coding | Proceedings of the ACM",
-          "note": "adaren100.github.io"
+          "start": "13:11",
+          "title": "ViBench: A Benchmark on Vibe Coding | Proceedings of the ACM"
         },
         {
-          "start": "13:31",
+          "cat": "personal",
           "end": "13:35",
-          "cat": "personal",
+          "note": "books.google.com.au",
           "src": "chrome",
-          "title": "The Outrage Industry: Political Opinion Media and the New In",
-          "note": "books.google.com.au"
+          "start": "13:31",
+          "title": "The Outrage Industry: Political Opinion Media and the New In"
         },
         {
-          "start": "13:38",
+          "cat": "coding",
           "end": "13:49",
-          "cat": "coding",
+          "note": "github.com",
           "src": "chrome",
-          "title": "papersgpt/papersgpt-for-zotero: A powerful Zotero AI and MCP",
-          "note": "github.com"
+          "start": "13:38",
+          "title": "papersgpt/papersgpt-for-zotero: A powerful Zotero AI and MCP"
         },
         {
-          "start": "13:49",
+          "cat": "research",
           "end": "13:54",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "chrome",
-          "title": "Uno-Orchestra: Parsimonious Agent Routing via Selective Dele",
-          "note": "arxiv.org"
+          "start": "13:49",
+          "title": "Uno-Orchestra: Parsimonious Agent Routing via Selective Dele"
         },
         {
-          "start": "13:54",
+          "cat": "admin",
           "end": "13:56",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "chrome",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "13:54",
+          "title": "Google Translate"
         },
         {
-          "start": "13:56",
+          "cat": "personal",
           "end": "14:22",
-          "cat": "personal",
+          "note": "google.com",
           "src": "chrome",
-          "title": "which year is it? is it 2027 next year - Google Search",
-          "note": "google.com"
+          "start": "13:56",
+          "title": "which year is it? is it 2027 next year - Google Search"
         },
         {
-          "start": "14:32",
+          "cat": "personal",
           "end": "14:37",
-          "cat": "personal",
+          "note": "google.com",
           "src": "chrome",
-          "title": "is 2028 in 2 years - Google Search",
-          "note": "google.com"
+          "start": "14:32",
+          "title": "is 2028 in 2 years - Google Search"
         },
         {
-          "start": "14:37",
+          "cat": "writing",
           "end": "14:38",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "Untitled.md",
-          "note": "1 hit"
+          "start": "14:37",
+          "title": "Untitled.md"
         },
         {
-          "start": "14:38",
+          "cat": "admin",
           "end": "14:52",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "chrome",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "14:38",
+          "title": "Google Translate"
         },
         {
-          "start": "14:53",
+          "cat": "coding",
           "end": "15:13",
-          "cat": "coding",
+          "note": "claude.ai",
           "src": "chrome",
-          "title": "Sign in - Google Accounts",
-          "note": "claude.ai"
+          "start": "14:53",
+          "title": "Sign in - Google Accounts"
         },
         {
-          "start": "15:13",
+          "cat": "research",
           "end": "15:15",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "chrome",
-          "title": "[2507.20534] Kimi K2: Open Agentic Intelligence",
-          "note": "arxiv.org"
+          "start": "15:13",
+          "title": "[2507.20534] Kimi K2: Open Agentic Intelligence"
         },
         {
-          "start": "15:15",
+          "cat": "personal",
           "end": "15:36",
-          "cat": "personal",
+          "note": "zotero.org",
           "src": "chrome",
-          "title": "Zotero | Your personal research assistant",
-          "note": "zotero.org"
+          "start": "15:15",
+          "title": "Zotero | Your personal research assistant"
         },
         {
-          "start": "15:36",
+          "cat": "admin",
           "end": "15:46",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "chrome",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "15:36",
+          "title": "Google Translate"
         },
         {
-          "start": "16:29",
+          "cat": "admin",
           "end": "16:52",
-          "cat": "admin",
+          "note": "discord.com",
           "src": "chrome",
-          "title": "(14) Discord | #emnlp-paper | Online Polarization",
-          "note": "discord.com"
+          "start": "16:29",
+          "title": "(14) Discord | #emnlp-paper | Online Polarization"
         },
         {
-          "start": "17:42",
+          "cat": "personal",
           "end": "17:57",
-          "cat": "personal",
+          "note": "google.com",
           "src": "chrome",
-          "title": "agent benchmark tool-authoring - Google Search",
-          "note": "google.com"
+          "start": "17:42",
+          "title": "agent benchmark tool-authoring - Google Search"
         },
         {
-          "start": "17:57",
-          "end": "18:00",
           "cat": "research",
+          "end": "18:00",
+          "note": "neurips.cc",
           "src": "chrome",
-          "title": "2026 Conference",
-          "note": "neurips.cc"
+          "start": "17:57",
+          "title": "2026 Conference"
         },
         {
-          "start": "18:01",
+          "cat": "personal",
           "end": "18:22",
-          "cat": "personal",
+          "note": "google.com",
           "src": "chrome",
-          "title": "alta 2026 - Google Search",
-          "note": "google.com"
+          "start": "18:01",
+          "title": "alta 2026 - Google Search"
         },
         {
-          "start": "18:40",
+          "cat": "writing",
           "end": "19:09",
-          "cat": "writing",
+          "note": "overleaf.com",
           "src": "chrome",
-          "title": "SemEval_Task Description Paper - Online LaTeX Editor Overlea",
-          "note": "overleaf.com"
+          "start": "18:40",
+          "title": "SemEval_Task Description Paper - Online LaTeX Editor Overlea"
         },
         {
-          "start": "19:10",
-          "end": "19:13",
           "cat": "coding",
+          "end": "19:13",
+          "note": "codabench.org",
           "src": "chrome",
-          "title": "Public Benchmarks and Competitions - Codabench",
-          "note": "codabench.org"
+          "start": "19:10",
+          "title": "Public Benchmarks and Competitions - Codabench"
         },
         {
-          "start": "19:13",
+          "cat": "writing",
           "end": "19:42",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "chrome",
-          "title": "SemEval2026-task 9 - POLAR - Google Slides",
-          "note": "docs.google.com"
+          "start": "19:13",
+          "title": "SemEval2026-task 9 - POLAR - Google Slides"
         },
         {
-          "start": "19:43",
+          "cat": "writing",
           "end": "19:56",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "chrome",
-          "title": "SemEval2026-task 9 - POLAR - Google Slides",
-          "note": "docs.google.com"
+          "start": "19:43",
+          "title": "SemEval2026-task 9 - POLAR - Google Slides"
         },
         {
-          "start": "20:00",
+          "cat": "writing",
           "end": "20:50",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "chrome",
-          "title": "SemEval2026-task 9 - POLAR - Google Slides",
-          "note": "docs.google.com"
+          "start": "20:00",
+          "title": "SemEval2026-task 9 - POLAR - Google Slides"
         },
         {
-          "start": "20:52",
-          "end": "21:12",
           "cat": "personal",
+          "end": "21:12",
+          "note": "flaticon.com",
           "src": "chrome",
-          "title": "Search results for First place - Flaticon",
-          "note": "flaticon.com"
+          "start": "20:52",
+          "title": "Search results for First place - Flaticon"
         },
         {
-          "start": "21:12",
+          "cat": "writing",
           "end": "21:15",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "chrome",
-          "title": "SemEval2026-task 9 - POLAR - Google Slides",
-          "note": "docs.google.com"
+          "start": "21:12",
+          "title": "SemEval2026-task 9 - POLAR - Google Slides"
         },
         {
-          "start": "21:15",
-          "end": "21:35",
           "cat": "admin",
+          "end": "21:35",
+          "note": "discord.com",
           "src": "chrome",
-          "title": "(14) Discord | #technical-general | POLAR-Internal",
-          "note": "discord.com"
+          "start": "21:15",
+          "title": "(14) Discord | #technical-general | POLAR-Internal"
         },
         {
-          "start": "23:08",
+          "cat": "writing",
           "end": "23:28",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "chrome",
-          "title": "SemEval2026-task 9 - POLAR - Google Slides",
-          "note": "docs.google.com"
+          "start": "23:08",
+          "title": "SemEval2026-task 9 - POLAR - Google Slides"
         },
         {
-          "start": "23:59",
-          "end": "00:02",
           "cat": "writing",
+          "end": "00:02",
+          "note": "docs.google.com",
           "src": "chrome",
-          "title": "SemEval2026-task 9 - POLAR - Google Slides",
-          "note": "docs.google.com"
+          "start": "23:59",
+          "title": "SemEval2026-task 9 - POLAR - Google Slides"
         }
       ],
+      "key": "2026-6-4",
       "logged": 563,
-      "real": 277,
-      "deep": 277,
       "ratio": 0.4921682521586422,
+      "real": 277,
       "stats": {
         "contextSwitches": 30,
-        "tabsOpened": 111,
+        "justOneMoreThing": 1,
         "longestFocus": "2h 4m",
-        "justOneMoreThing": 1
-      }
+        "tabsOpened": 111
+      },
+      "weekend": false
     },
     {
       "key": "2026-6-5",
@@ -9899,17 +9924,42 @@
       "weekend": false,
       "dateShort": "Fri, Jun 5",
       "dateLong": "Friday, June 5",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "10:20",
+      "dayEnd": "10:25",
+      "events": [
+        {
+          "start": "10:20",
+          "end": "10:20",
+          "cat": "coding",
+          "src": "local",
+          "title": "snapshots.json",
+          "note": "2 hits"
+        },
+        {
+          "start": "10:20",
+          "end": "10:23",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Where the time actually went | Ada's Notes",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "10:23",
+          "end": "10:25",
+          "cat": "coding",
+          "src": "local",
+          "title": "snapshots.json",
+          "note": "2 hits"
+        }
+      ],
+      "logged": 5,
+      "real": 5,
+      "deep": 5,
+      "ratio": 1.0,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "0m",
+        "contextSwitches": 2,
+        "tabsOpened": 3,
+        "longestFocus": "5m",
         "justOneMoreThing": 0
       }
     },
