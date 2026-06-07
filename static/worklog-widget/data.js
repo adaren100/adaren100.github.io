@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-06-06T10:30:39+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-06-07T10:25:34+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -8121,34 +8121,64 @@
         "weekend": false
       },
       {
-        "key": "2026-6-5",
-        "dayNum": 5,
-        "dow": 5,
-        "weekend": false,
-        "dateShort": "Fri, Jun 5",
         "dateLong": "Friday, June 5",
-        "dayStart": "10:20",
+        "dateShort": "Fri, Jun 5",
         "dayEnd": "10:25",
+        "dayNum": 5,
+        "dayStart": "10:20",
+        "deep": 5,
+        "dow": 5,
         "events": [
           {
-            "start": "10:20",
-            "end": "10:20",
             "cat": "coding",
+            "end": "10:20",
+            "note": "2 hits",
             "src": "local",
-            "title": "snapshots.json",
-            "note": "2 hits"
-          },
-          {
             "start": "10:20",
-            "end": "10:23",
-            "cat": "research",
-            "src": "chrome",
-            "title": "Where the time actually went | Ada's Notes",
-            "note": "adaren100.github.io"
+            "title": "snapshots.json"
           },
           {
-            "start": "10:23",
+            "cat": "research",
+            "end": "10:23",
+            "note": "adaren100.github.io",
+            "src": "chrome",
+            "start": "10:20",
+            "title": "Where the time actually went | Ada's Notes"
+          },
+          {
+            "cat": "coding",
             "end": "10:25",
+            "note": "2 hits",
+            "src": "local",
+            "start": "10:23",
+            "title": "snapshots.json"
+          }
+        ],
+        "key": "2026-6-5",
+        "logged": 5,
+        "ratio": 1.0,
+        "real": 5,
+        "stats": {
+          "contextSwitches": 2,
+          "justOneMoreThing": 0,
+          "longestFocus": "5m",
+          "tabsOpened": 3
+        },
+        "weekend": false
+      },
+      {
+        "key": "2026-6-6",
+        "dayNum": 6,
+        "dow": 6,
+        "weekend": true,
+        "dateShort": "Sat, Jun 6",
+        "dateLong": "Saturday, June 6",
+        "dayStart": "10:30",
+        "dayEnd": "10:35",
+        "events": [
+          {
+            "start": "10:30",
+            "end": "10:35",
             "cat": "coding",
             "src": "local",
             "title": "snapshots.json",
@@ -8160,30 +8190,9 @@
         "deep": 5,
         "ratio": 1.0,
         "stats": {
-          "contextSwitches": 2,
-          "tabsOpened": 3,
-          "longestFocus": "5m",
-          "justOneMoreThing": 0
-        }
-      },
-      {
-        "key": "2026-6-6",
-        "dayNum": 6,
-        "dow": 6,
-        "weekend": true,
-        "dateShort": "Sat, Jun 6",
-        "dateLong": "Saturday, June 6",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
-        "stats": {
           "contextSwitches": 0,
           "tabsOpened": 0,
-          "longestFocus": "0m",
+          "longestFocus": "5m",
           "justOneMoreThing": 0
         }
       },
@@ -9918,34 +9927,64 @@
       "weekend": false
     },
     {
-      "key": "2026-6-5",
-      "dayNum": 5,
-      "dow": 5,
-      "weekend": false,
-      "dateShort": "Fri, Jun 5",
       "dateLong": "Friday, June 5",
-      "dayStart": "10:20",
+      "dateShort": "Fri, Jun 5",
       "dayEnd": "10:25",
+      "dayNum": 5,
+      "dayStart": "10:20",
+      "deep": 5,
+      "dow": 5,
       "events": [
         {
-          "start": "10:20",
-          "end": "10:20",
           "cat": "coding",
+          "end": "10:20",
+          "note": "2 hits",
           "src": "local",
-          "title": "snapshots.json",
-          "note": "2 hits"
-        },
-        {
           "start": "10:20",
-          "end": "10:23",
-          "cat": "research",
-          "src": "chrome",
-          "title": "Where the time actually went | Ada's Notes",
-          "note": "adaren100.github.io"
+          "title": "snapshots.json"
         },
         {
-          "start": "10:23",
+          "cat": "research",
+          "end": "10:23",
+          "note": "adaren100.github.io",
+          "src": "chrome",
+          "start": "10:20",
+          "title": "Where the time actually went | Ada's Notes"
+        },
+        {
+          "cat": "coding",
           "end": "10:25",
+          "note": "2 hits",
+          "src": "local",
+          "start": "10:23",
+          "title": "snapshots.json"
+        }
+      ],
+      "key": "2026-6-5",
+      "logged": 5,
+      "ratio": 1.0,
+      "real": 5,
+      "stats": {
+        "contextSwitches": 2,
+        "justOneMoreThing": 0,
+        "longestFocus": "5m",
+        "tabsOpened": 3
+      },
+      "weekend": false
+    },
+    {
+      "key": "2026-6-6",
+      "dayNum": 6,
+      "dow": 6,
+      "weekend": true,
+      "dateShort": "Sat, Jun 6",
+      "dateLong": "Saturday, June 6",
+      "dayStart": "10:30",
+      "dayEnd": "10:35",
+      "events": [
+        {
+          "start": "10:30",
+          "end": "10:35",
           "cat": "coding",
           "src": "local",
           "title": "snapshots.json",
@@ -9957,30 +9996,9 @@
       "deep": 5,
       "ratio": 1.0,
       "stats": {
-        "contextSwitches": 2,
-        "tabsOpened": 3,
-        "longestFocus": "5m",
-        "justOneMoreThing": 0
-      }
-    },
-    {
-      "key": "2026-6-6",
-      "dayNum": 6,
-      "dow": 6,
-      "weekend": true,
-      "dateShort": "Sat, Jun 6",
-      "dateLong": "Saturday, June 6",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
-      "stats": {
         "contextSwitches": 0,
         "tabsOpened": 0,
-        "longestFocus": "0m",
+        "longestFocus": "5m",
         "justOneMoreThing": 0
       }
     },
