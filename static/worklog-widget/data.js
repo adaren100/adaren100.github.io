@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-06-07T10:25:34+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-06-08T10:25:23+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -8167,18 +8167,48 @@
         "weekend": false
       },
       {
-        "key": "2026-6-6",
-        "dayNum": 6,
-        "dow": 6,
-        "weekend": true,
-        "dateShort": "Sat, Jun 6",
         "dateLong": "Saturday, June 6",
-        "dayStart": "10:30",
+        "dateShort": "Sat, Jun 6",
         "dayEnd": "10:35",
+        "dayNum": 6,
+        "dayStart": "10:30",
+        "deep": 5,
+        "dow": 6,
         "events": [
           {
-            "start": "10:30",
+            "cat": "coding",
             "end": "10:35",
+            "note": "2 hits",
+            "src": "local",
+            "start": "10:30",
+            "title": "snapshots.json"
+          }
+        ],
+        "key": "2026-6-6",
+        "logged": 5,
+        "ratio": 1.0,
+        "real": 5,
+        "stats": {
+          "contextSwitches": 0,
+          "justOneMoreThing": 0,
+          "longestFocus": "5m",
+          "tabsOpened": 0
+        },
+        "weekend": true
+      },
+      {
+        "key": "2026-6-7",
+        "dayNum": 7,
+        "dow": 0,
+        "weekend": true,
+        "dateShort": "Sun, Jun 7",
+        "dateLong": "Sunday, June 7",
+        "dayStart": "10:25",
+        "dayEnd": "10:30",
+        "events": [
+          {
+            "start": "10:25",
+            "end": "10:30",
             "cat": "coding",
             "src": "local",
             "title": "snapshots.json",
@@ -8193,27 +8223,6 @@
           "contextSwitches": 0,
           "tabsOpened": 0,
           "longestFocus": "5m",
-          "justOneMoreThing": 0
-        }
-      },
-      {
-        "key": "2026-6-7",
-        "dayNum": 7,
-        "dow": 0,
-        "weekend": true,
-        "dateShort": "Sun, Jun 7",
-        "dateLong": "Sunday, June 7",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
-        "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "0m",
           "justOneMoreThing": 0
         }
       },
@@ -9973,18 +9982,48 @@
       "weekend": false
     },
     {
-      "key": "2026-6-6",
-      "dayNum": 6,
-      "dow": 6,
-      "weekend": true,
-      "dateShort": "Sat, Jun 6",
       "dateLong": "Saturday, June 6",
-      "dayStart": "10:30",
+      "dateShort": "Sat, Jun 6",
       "dayEnd": "10:35",
+      "dayNum": 6,
+      "dayStart": "10:30",
+      "deep": 5,
+      "dow": 6,
       "events": [
         {
-          "start": "10:30",
+          "cat": "coding",
           "end": "10:35",
+          "note": "2 hits",
+          "src": "local",
+          "start": "10:30",
+          "title": "snapshots.json"
+        }
+      ],
+      "key": "2026-6-6",
+      "logged": 5,
+      "ratio": 1.0,
+      "real": 5,
+      "stats": {
+        "contextSwitches": 0,
+        "justOneMoreThing": 0,
+        "longestFocus": "5m",
+        "tabsOpened": 0
+      },
+      "weekend": true
+    },
+    {
+      "key": "2026-6-7",
+      "dayNum": 7,
+      "dow": 0,
+      "weekend": true,
+      "dateShort": "Sun, Jun 7",
+      "dateLong": "Sunday, June 7",
+      "dayStart": "10:25",
+      "dayEnd": "10:30",
+      "events": [
+        {
+          "start": "10:25",
+          "end": "10:30",
           "cat": "coding",
           "src": "local",
           "title": "snapshots.json",
@@ -9999,27 +10038,6 @@
         "contextSwitches": 0,
         "tabsOpened": 0,
         "longestFocus": "5m",
-        "justOneMoreThing": 0
-      }
-    },
-    {
-      "key": "2026-6-7",
-      "dayNum": 7,
-      "dow": 0,
-      "weekend": true,
-      "dateShort": "Sun, Jun 7",
-      "dateLong": "Sunday, June 7",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
-      "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "0m",
         "justOneMoreThing": 0
       }
     },
