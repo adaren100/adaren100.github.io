@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-06-08T10:25:23+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-06-09T10:23:48+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -8197,12 +8197,42 @@
         "weekend": true
       },
       {
-        "key": "2026-6-7",
-        "dayNum": 7,
-        "dow": 0,
-        "weekend": true,
-        "dateShort": "Sun, Jun 7",
         "dateLong": "Sunday, June 7",
+        "dateShort": "Sun, Jun 7",
+        "dayEnd": "10:30",
+        "dayNum": 7,
+        "dayStart": "10:25",
+        "deep": 5,
+        "dow": 0,
+        "events": [
+          {
+            "cat": "coding",
+            "end": "10:30",
+            "note": "2 hits",
+            "src": "local",
+            "start": "10:25",
+            "title": "snapshots.json"
+          }
+        ],
+        "key": "2026-6-7",
+        "logged": 5,
+        "ratio": 1.0,
+        "real": 5,
+        "stats": {
+          "contextSwitches": 0,
+          "justOneMoreThing": 0,
+          "longestFocus": "5m",
+          "tabsOpened": 0
+        },
+        "weekend": true
+      },
+      {
+        "key": "2026-6-8",
+        "dayNum": 8,
+        "dow": 1,
+        "weekend": false,
+        "dateShort": "Mon, Jun 8",
+        "dateLong": "Monday, June 8",
         "dayStart": "10:25",
         "dayEnd": "10:30",
         "events": [
@@ -8223,27 +8253,6 @@
           "contextSwitches": 0,
           "tabsOpened": 0,
           "longestFocus": "5m",
-          "justOneMoreThing": 0
-        }
-      },
-      {
-        "key": "2026-6-8",
-        "dayNum": 8,
-        "dow": 1,
-        "weekend": false,
-        "dateShort": "Mon, Jun 8",
-        "dateLong": "Monday, June 8",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
-        "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "0m",
           "justOneMoreThing": 0
         }
       },
@@ -10012,12 +10021,42 @@
       "weekend": true
     },
     {
-      "key": "2026-6-7",
-      "dayNum": 7,
-      "dow": 0,
-      "weekend": true,
-      "dateShort": "Sun, Jun 7",
       "dateLong": "Sunday, June 7",
+      "dateShort": "Sun, Jun 7",
+      "dayEnd": "10:30",
+      "dayNum": 7,
+      "dayStart": "10:25",
+      "deep": 5,
+      "dow": 0,
+      "events": [
+        {
+          "cat": "coding",
+          "end": "10:30",
+          "note": "2 hits",
+          "src": "local",
+          "start": "10:25",
+          "title": "snapshots.json"
+        }
+      ],
+      "key": "2026-6-7",
+      "logged": 5,
+      "ratio": 1.0,
+      "real": 5,
+      "stats": {
+        "contextSwitches": 0,
+        "justOneMoreThing": 0,
+        "longestFocus": "5m",
+        "tabsOpened": 0
+      },
+      "weekend": true
+    },
+    {
+      "key": "2026-6-8",
+      "dayNum": 8,
+      "dow": 1,
+      "weekend": false,
+      "dateShort": "Mon, Jun 8",
+      "dateLong": "Monday, June 8",
       "dayStart": "10:25",
       "dayEnd": "10:30",
       "events": [
@@ -10038,27 +10077,6 @@
         "contextSwitches": 0,
         "tabsOpened": 0,
         "longestFocus": "5m",
-        "justOneMoreThing": 0
-      }
-    },
-    {
-      "key": "2026-6-8",
-      "dayNum": 8,
-      "dow": 1,
-      "weekend": false,
-      "dateShort": "Mon, Jun 8",
-      "dateLong": "Monday, June 8",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
-      "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "0m",
         "justOneMoreThing": 0
       }
     },
