@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-06-09T10:23:48+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-06-10T10:20:05+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -8227,34 +8227,34 @@
         "weekend": true
       },
       {
-        "key": "2026-6-8",
-        "dayNum": 8,
-        "dow": 1,
-        "weekend": false,
-        "dateShort": "Mon, Jun 8",
         "dateLong": "Monday, June 8",
-        "dayStart": "10:25",
+        "dateShort": "Mon, Jun 8",
         "dayEnd": "10:30",
+        "dayNum": 8,
+        "dayStart": "10:25",
+        "deep": 5,
+        "dow": 1,
         "events": [
           {
-            "start": "10:25",
-            "end": "10:30",
             "cat": "coding",
+            "end": "10:30",
+            "note": "2 hits",
             "src": "local",
-            "title": "snapshots.json",
-            "note": "2 hits"
+            "start": "10:25",
+            "title": "snapshots.json"
           }
         ],
+        "key": "2026-6-8",
         "logged": 5,
-        "real": 5,
-        "deep": 5,
         "ratio": 1.0,
+        "real": 5,
         "stats": {
           "contextSwitches": 0,
-          "tabsOpened": 0,
+          "justOneMoreThing": 0,
           "longestFocus": "5m",
-          "justOneMoreThing": 0
-        }
+          "tabsOpened": 0
+        },
+        "weekend": false
       },
       {
         "key": "2026-6-9",
@@ -8263,17 +8263,58 @@
         "weekend": false,
         "dateShort": "Tue, Jun 9",
         "dateLong": "Tuesday, June 9",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "10:23",
+        "dayEnd": "15:41",
+        "events": [
+          {
+            "start": "10:23",
+            "end": "10:28",
+            "cat": "coding",
+            "src": "local",
+            "title": "snapshots.json",
+            "note": "2 hits"
+          },
+          {
+            "start": "11:24",
+            "end": "11:44",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Ada's Notes",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "11:51",
+            "end": "12:08",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Ada's Notes",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "12:08",
+            "end": "13:23",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "DeepSeek - Into the Unknown",
+            "note": "youtube.com"
+          },
+          {
+            "start": "15:38",
+            "end": "15:41",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Attention Scaling Explanation - DeepSeek",
+            "note": "chat.deepseek.com"
+          }
+        ],
+        "logged": 120,
+        "real": 42,
+        "deep": 42,
+        "ratio": 0.34850874629529655,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "0m",
+          "contextSwitches": 2,
+          "tabsOpened": 12,
+          "longestFocus": "42m",
           "justOneMoreThing": 0
         }
       },
@@ -10051,34 +10092,34 @@
       "weekend": true
     },
     {
-      "key": "2026-6-8",
-      "dayNum": 8,
-      "dow": 1,
-      "weekend": false,
-      "dateShort": "Mon, Jun 8",
       "dateLong": "Monday, June 8",
-      "dayStart": "10:25",
+      "dateShort": "Mon, Jun 8",
       "dayEnd": "10:30",
+      "dayNum": 8,
+      "dayStart": "10:25",
+      "deep": 5,
+      "dow": 1,
       "events": [
         {
-          "start": "10:25",
-          "end": "10:30",
           "cat": "coding",
+          "end": "10:30",
+          "note": "2 hits",
           "src": "local",
-          "title": "snapshots.json",
-          "note": "2 hits"
+          "start": "10:25",
+          "title": "snapshots.json"
         }
       ],
+      "key": "2026-6-8",
       "logged": 5,
-      "real": 5,
-      "deep": 5,
       "ratio": 1.0,
+      "real": 5,
       "stats": {
         "contextSwitches": 0,
-        "tabsOpened": 0,
+        "justOneMoreThing": 0,
         "longestFocus": "5m",
-        "justOneMoreThing": 0
-      }
+        "tabsOpened": 0
+      },
+      "weekend": false
     },
     {
       "key": "2026-6-9",
@@ -10087,17 +10128,58 @@
       "weekend": false,
       "dateShort": "Tue, Jun 9",
       "dateLong": "Tuesday, June 9",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "10:23",
+      "dayEnd": "15:41",
+      "events": [
+        {
+          "start": "10:23",
+          "end": "10:28",
+          "cat": "coding",
+          "src": "local",
+          "title": "snapshots.json",
+          "note": "2 hits"
+        },
+        {
+          "start": "11:24",
+          "end": "11:44",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Ada's Notes",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "11:51",
+          "end": "12:08",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Ada's Notes",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "12:08",
+          "end": "13:23",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "DeepSeek - Into the Unknown",
+          "note": "youtube.com"
+        },
+        {
+          "start": "15:38",
+          "end": "15:41",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Attention Scaling Explanation - DeepSeek",
+          "note": "chat.deepseek.com"
+        }
+      ],
+      "logged": 120,
+      "real": 42,
+      "deep": 42,
+      "ratio": 0.34850874629529655,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "0m",
+        "contextSwitches": 2,
+        "tabsOpened": 12,
+        "longestFocus": "42m",
         "justOneMoreThing": 0
       }
     },
