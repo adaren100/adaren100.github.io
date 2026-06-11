@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-06-10T10:20:05+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-06-11T10:40:54+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -8257,66 +8257,66 @@
         "weekend": false
       },
       {
-        "key": "2026-6-9",
-        "dayNum": 9,
-        "dow": 2,
-        "weekend": false,
-        "dateShort": "Tue, Jun 9",
         "dateLong": "Tuesday, June 9",
-        "dayStart": "10:23",
+        "dateShort": "Tue, Jun 9",
         "dayEnd": "15:41",
+        "dayNum": 9,
+        "dayStart": "10:23",
+        "deep": 42,
+        "dow": 2,
         "events": [
           {
-            "start": "10:23",
-            "end": "10:28",
             "cat": "coding",
+            "end": "10:28",
+            "note": "2 hits",
             "src": "local",
-            "title": "snapshots.json",
-            "note": "2 hits"
+            "start": "10:23",
+            "title": "snapshots.json"
           },
           {
-            "start": "11:24",
+            "cat": "research",
             "end": "11:44",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "chrome",
-            "title": "Ada's Notes",
-            "note": "adaren100.github.io"
+            "start": "11:24",
+            "title": "Ada's Notes"
           },
           {
-            "start": "11:51",
+            "cat": "research",
             "end": "12:08",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "chrome",
-            "title": "Ada's Notes",
-            "note": "adaren100.github.io"
+            "start": "11:51",
+            "title": "Ada's Notes"
           },
           {
-            "start": "12:08",
+            "cat": "personal",
             "end": "13:23",
-            "cat": "personal",
+            "note": "youtube.com",
             "src": "chrome",
-            "title": "DeepSeek - Into the Unknown",
-            "note": "youtube.com"
+            "start": "12:08",
+            "title": "DeepSeek - Into the Unknown"
           },
           {
-            "start": "15:38",
-            "end": "15:41",
             "cat": "personal",
+            "end": "15:41",
+            "note": "chat.deepseek.com",
             "src": "chrome",
-            "title": "Attention Scaling Explanation - DeepSeek",
-            "note": "chat.deepseek.com"
+            "start": "15:38",
+            "title": "Attention Scaling Explanation - DeepSeek"
           }
         ],
+        "key": "2026-6-9",
         "logged": 120,
-        "real": 42,
-        "deep": 42,
         "ratio": 0.34850874629529655,
+        "real": 42,
         "stats": {
           "contextSwitches": 2,
-          "tabsOpened": 12,
+          "justOneMoreThing": 0,
           "longestFocus": "42m",
-          "justOneMoreThing": 0
-        }
+          "tabsOpened": 12
+        },
+        "weekend": false
       },
       {
         "key": "2026-6-10",
@@ -8325,17 +8325,114 @@
         "weekend": false,
         "dateShort": "Wed, Jun 10",
         "dateLong": "Wednesday, June 10",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "10:20",
+        "dayEnd": "20:27",
+        "events": [
+          {
+            "start": "10:20",
+            "end": "10:25",
+            "cat": "coding",
+            "src": "local",
+            "title": "snapshots.json",
+            "note": "2 hits"
+          },
+          {
+            "start": "10:25",
+            "end": "10:46",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Inbox (2,476) - ada.ren.cn@gmail.com - Gmail",
+            "note": "accounts.google.com"
+          },
+          {
+            "start": "10:46",
+            "end": "10:58",
+            "cat": "writing",
+            "src": "chrome",
+            "title": "Workshop Presenter Guide_ACL 2026 - Google Slides",
+            "note": "url.au.m.mimecastprotect.com"
+          },
+          {
+            "start": "10:58",
+            "end": "11:21",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "908/112 TALAVERA ROAD, MACQUARIE PARK, - ada.ren.cn@gmail.co",
+            "note": "accounts.google.com"
+          },
+          {
+            "start": "11:32",
+            "end": "11:54",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Designing Your Life — Stanford Life Design Lab",
+            "note": "youtube.com"
+          },
+          {
+            "start": "11:54",
+            "end": "11:56",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "抄寫英語的奇蹟：10分鐘提升英文 | PDF | Laughter | English Language",
+            "note": "auth.scribd.com"
+          },
+          {
+            "start": "11:56",
+            "end": "12:19",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Daily papers of 9 Jun 2026 - ada.ren.cn@gmail.com - Gmail",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "13:14",
+            "end": "13:34",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Inbox (2,476) - ada.ren.cn@gmail.com - Gmail",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "14:46",
+            "end": "15:06",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Model FLOPs Utilization MFU Explanation - DeepSeek",
+            "note": "chat.deepseek.com"
+          },
+          {
+            "start": "19:08",
+            "end": "19:55",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Build a Large Language Model (From Scratch) - 搬书匠 - 电子书下载",
+            "note": "dumate.cn"
+          },
+          {
+            "start": "19:56",
+            "end": "20:07",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "adaren100 (Ada Ren)",
+            "note": "github.com"
+          },
+          {
+            "start": "20:07",
+            "end": "20:27",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "奇绩算力：免费高性能算力加速科研创业，已支持 60+ 团队",
+            "note": "url.au.m.mimecastprotect.com"
+          }
+        ],
+        "logged": 225,
+        "real": 27,
+        "deep": 27,
+        "ratio": 0.1218280208668735,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "0m",
+          "contextSwitches": 8,
+          "tabsOpened": 33,
+          "longestFocus": "12m",
           "justOneMoreThing": 0
         }
       },
@@ -10122,66 +10219,66 @@
       "weekend": false
     },
     {
-      "key": "2026-6-9",
-      "dayNum": 9,
-      "dow": 2,
-      "weekend": false,
-      "dateShort": "Tue, Jun 9",
       "dateLong": "Tuesday, June 9",
-      "dayStart": "10:23",
+      "dateShort": "Tue, Jun 9",
       "dayEnd": "15:41",
+      "dayNum": 9,
+      "dayStart": "10:23",
+      "deep": 42,
+      "dow": 2,
       "events": [
         {
-          "start": "10:23",
-          "end": "10:28",
           "cat": "coding",
+          "end": "10:28",
+          "note": "2 hits",
           "src": "local",
-          "title": "snapshots.json",
-          "note": "2 hits"
+          "start": "10:23",
+          "title": "snapshots.json"
         },
         {
-          "start": "11:24",
+          "cat": "research",
           "end": "11:44",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "chrome",
-          "title": "Ada's Notes",
-          "note": "adaren100.github.io"
+          "start": "11:24",
+          "title": "Ada's Notes"
         },
         {
-          "start": "11:51",
+          "cat": "research",
           "end": "12:08",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "chrome",
-          "title": "Ada's Notes",
-          "note": "adaren100.github.io"
+          "start": "11:51",
+          "title": "Ada's Notes"
         },
         {
-          "start": "12:08",
+          "cat": "personal",
           "end": "13:23",
-          "cat": "personal",
+          "note": "youtube.com",
           "src": "chrome",
-          "title": "DeepSeek - Into the Unknown",
-          "note": "youtube.com"
+          "start": "12:08",
+          "title": "DeepSeek - Into the Unknown"
         },
         {
-          "start": "15:38",
-          "end": "15:41",
           "cat": "personal",
+          "end": "15:41",
+          "note": "chat.deepseek.com",
           "src": "chrome",
-          "title": "Attention Scaling Explanation - DeepSeek",
-          "note": "chat.deepseek.com"
+          "start": "15:38",
+          "title": "Attention Scaling Explanation - DeepSeek"
         }
       ],
+      "key": "2026-6-9",
       "logged": 120,
-      "real": 42,
-      "deep": 42,
       "ratio": 0.34850874629529655,
+      "real": 42,
       "stats": {
         "contextSwitches": 2,
-        "tabsOpened": 12,
+        "justOneMoreThing": 0,
         "longestFocus": "42m",
-        "justOneMoreThing": 0
-      }
+        "tabsOpened": 12
+      },
+      "weekend": false
     },
     {
       "key": "2026-6-10",
@@ -10190,17 +10287,114 @@
       "weekend": false,
       "dateShort": "Wed, Jun 10",
       "dateLong": "Wednesday, June 10",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "10:20",
+      "dayEnd": "20:27",
+      "events": [
+        {
+          "start": "10:20",
+          "end": "10:25",
+          "cat": "coding",
+          "src": "local",
+          "title": "snapshots.json",
+          "note": "2 hits"
+        },
+        {
+          "start": "10:25",
+          "end": "10:46",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Inbox (2,476) - ada.ren.cn@gmail.com - Gmail",
+          "note": "accounts.google.com"
+        },
+        {
+          "start": "10:46",
+          "end": "10:58",
+          "cat": "writing",
+          "src": "chrome",
+          "title": "Workshop Presenter Guide_ACL 2026 - Google Slides",
+          "note": "url.au.m.mimecastprotect.com"
+        },
+        {
+          "start": "10:58",
+          "end": "11:21",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "908/112 TALAVERA ROAD, MACQUARIE PARK, - ada.ren.cn@gmail.co",
+          "note": "accounts.google.com"
+        },
+        {
+          "start": "11:32",
+          "end": "11:54",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Designing Your Life — Stanford Life Design Lab",
+          "note": "youtube.com"
+        },
+        {
+          "start": "11:54",
+          "end": "11:56",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "抄寫英語的奇蹟：10分鐘提升英文 | PDF | Laughter | English Language",
+          "note": "auth.scribd.com"
+        },
+        {
+          "start": "11:56",
+          "end": "12:19",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Daily papers of 9 Jun 2026 - ada.ren.cn@gmail.com - Gmail",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "13:14",
+          "end": "13:34",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Inbox (2,476) - ada.ren.cn@gmail.com - Gmail",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "14:46",
+          "end": "15:06",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Model FLOPs Utilization MFU Explanation - DeepSeek",
+          "note": "chat.deepseek.com"
+        },
+        {
+          "start": "19:08",
+          "end": "19:55",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Build a Large Language Model (From Scratch) - 搬书匠 - 电子书下载",
+          "note": "dumate.cn"
+        },
+        {
+          "start": "19:56",
+          "end": "20:07",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "adaren100 (Ada Ren)",
+          "note": "github.com"
+        },
+        {
+          "start": "20:07",
+          "end": "20:27",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "奇绩算力：免费高性能算力加速科研创业，已支持 60+ 团队",
+          "note": "url.au.m.mimecastprotect.com"
+        }
+      ],
+      "logged": 225,
+      "real": 27,
+      "deep": 27,
+      "ratio": 0.1218280208668735,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "0m",
+        "contextSwitches": 8,
+        "tabsOpened": 33,
+        "longestFocus": "12m",
         "justOneMoreThing": 0
       }
     },
