@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-06-11T10:40:54+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-06-12T10:42:56+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -8319,122 +8319,122 @@
         "weekend": false
       },
       {
-        "key": "2026-6-10",
-        "dayNum": 10,
-        "dow": 3,
-        "weekend": false,
-        "dateShort": "Wed, Jun 10",
         "dateLong": "Wednesday, June 10",
-        "dayStart": "10:20",
+        "dateShort": "Wed, Jun 10",
         "dayEnd": "20:27",
+        "dayNum": 10,
+        "dayStart": "10:20",
+        "deep": 27,
+        "dow": 3,
         "events": [
           {
-            "start": "10:20",
+            "cat": "coding",
             "end": "10:25",
-            "cat": "coding",
+            "note": "2 hits",
             "src": "local",
-            "title": "snapshots.json",
-            "note": "2 hits"
+            "start": "10:20",
+            "title": "snapshots.json"
           },
           {
-            "start": "10:25",
+            "cat": "admin",
             "end": "10:46",
-            "cat": "admin",
+            "note": "accounts.google.com",
             "src": "chrome",
-            "title": "Inbox (2,476) - ada.ren.cn@gmail.com - Gmail",
-            "note": "accounts.google.com"
+            "start": "10:25",
+            "title": "Inbox (2,476) - ada.ren.cn@gmail.com - Gmail"
           },
           {
-            "start": "10:46",
-            "end": "10:58",
             "cat": "writing",
+            "end": "10:58",
+            "note": "url.au.m.mimecastprotect.com",
             "src": "chrome",
-            "title": "Workshop Presenter Guide_ACL 2026 - Google Slides",
-            "note": "url.au.m.mimecastprotect.com"
+            "start": "10:46",
+            "title": "Workshop Presenter Guide_ACL 2026 - Google Slides"
           },
           {
-            "start": "10:58",
+            "cat": "admin",
             "end": "11:21",
-            "cat": "admin",
+            "note": "accounts.google.com",
             "src": "chrome",
-            "title": "908/112 TALAVERA ROAD, MACQUARIE PARK, - ada.ren.cn@gmail.co",
-            "note": "accounts.google.com"
+            "start": "10:58",
+            "title": "908/112 TALAVERA ROAD, MACQUARIE PARK, - ada.ren.cn@gmail.co"
           },
           {
-            "start": "11:32",
+            "cat": "personal",
             "end": "11:54",
-            "cat": "personal",
+            "note": "youtube.com",
             "src": "chrome",
-            "title": "Designing Your Life — Stanford Life Design Lab",
-            "note": "youtube.com"
+            "start": "11:32",
+            "title": "Designing Your Life — Stanford Life Design Lab"
           },
           {
-            "start": "11:54",
+            "cat": "personal",
             "end": "11:56",
-            "cat": "personal",
+            "note": "auth.scribd.com",
             "src": "chrome",
-            "title": "抄寫英語的奇蹟：10分鐘提升英文 | PDF | Laughter | English Language",
-            "note": "auth.scribd.com"
+            "start": "11:54",
+            "title": "抄寫英語的奇蹟：10分鐘提升英文 | PDF | Laughter | English Language"
           },
           {
-            "start": "11:56",
+            "cat": "admin",
             "end": "12:19",
-            "cat": "admin",
+            "note": "mail.google.com",
             "src": "chrome",
-            "title": "Daily papers of 9 Jun 2026 - ada.ren.cn@gmail.com - Gmail",
-            "note": "mail.google.com"
+            "start": "11:56",
+            "title": "Daily papers of 9 Jun 2026 - ada.ren.cn@gmail.com - Gmail"
           },
           {
-            "start": "13:14",
+            "cat": "admin",
             "end": "13:34",
-            "cat": "admin",
+            "note": "mail.google.com",
             "src": "chrome",
-            "title": "Inbox (2,476) - ada.ren.cn@gmail.com - Gmail",
-            "note": "mail.google.com"
+            "start": "13:14",
+            "title": "Inbox (2,476) - ada.ren.cn@gmail.com - Gmail"
           },
           {
-            "start": "14:46",
+            "cat": "personal",
             "end": "15:06",
-            "cat": "personal",
+            "note": "chat.deepseek.com",
             "src": "chrome",
-            "title": "Model FLOPs Utilization MFU Explanation - DeepSeek",
-            "note": "chat.deepseek.com"
+            "start": "14:46",
+            "title": "Model FLOPs Utilization MFU Explanation - DeepSeek"
           },
           {
-            "start": "19:08",
+            "cat": "personal",
             "end": "19:55",
-            "cat": "personal",
+            "note": "dumate.cn",
             "src": "chrome",
-            "title": "Build a Large Language Model (From Scratch) - 搬书匠 - 电子书下载",
-            "note": "dumate.cn"
+            "start": "19:08",
+            "title": "Build a Large Language Model (From Scratch) - 搬书匠 - 电子书下载"
           },
           {
-            "start": "19:56",
-            "end": "20:07",
             "cat": "coding",
+            "end": "20:07",
+            "note": "github.com",
             "src": "chrome",
-            "title": "adaren100 (Ada Ren)",
-            "note": "github.com"
+            "start": "19:56",
+            "title": "adaren100 (Ada Ren)"
           },
           {
-            "start": "20:07",
-            "end": "20:27",
             "cat": "admin",
+            "end": "20:27",
+            "note": "url.au.m.mimecastprotect.com",
             "src": "chrome",
-            "title": "奇绩算力：免费高性能算力加速科研创业，已支持 60+ 团队",
-            "note": "url.au.m.mimecastprotect.com"
+            "start": "20:07",
+            "title": "奇绩算力：免费高性能算力加速科研创业，已支持 60+ 团队"
           }
         ],
+        "key": "2026-6-10",
         "logged": 225,
-        "real": 27,
-        "deep": 27,
         "ratio": 0.1218280208668735,
+        "real": 27,
         "stats": {
           "contextSwitches": 8,
-          "tabsOpened": 33,
+          "justOneMoreThing": 0,
           "longestFocus": "12m",
-          "justOneMoreThing": 0
-        }
+          "tabsOpened": 33
+        },
+        "weekend": false
       },
       {
         "key": "2026-6-11",
@@ -8443,17 +8443,58 @@
         "weekend": false,
         "dateShort": "Thu, Jun 11",
         "dateLong": "Thursday, June 11",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "10:40",
+        "dayEnd": "14:22",
+        "events": [
+          {
+            "start": "10:40",
+            "end": "10:45",
+            "cat": "coding",
+            "src": "local",
+            "title": "snapshots.json",
+            "note": "2 hits"
+          },
+          {
+            "start": "10:48",
+            "end": "11:08",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "App unavailable in region | Claude",
+            "note": "claude.ai"
+          },
+          {
+            "start": "12:22",
+            "end": "13:10",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Cached Attention Mask Explanation - DeepSeek",
+            "note": "chat.deepseek.com"
+          },
+          {
+            "start": "13:31",
+            "end": "13:36",
+            "cat": "writing",
+            "src": "local",
+            "title": "移动互联网启示录.md",
+            "note": "1 hit"
+          },
+          {
+            "start": "14:19",
+            "end": "14:22",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Liver Function Explanation - DeepSeek",
+            "note": "chat.deepseek.com"
+          }
+        ],
+        "logged": 80,
+        "real": 30,
+        "deep": 30,
+        "ratio": 0.3740176760439901,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "0m",
+          "contextSwitches": 3,
+          "tabsOpened": 9,
+          "longestFocus": "25m",
           "justOneMoreThing": 0
         }
       },
@@ -10281,122 +10322,122 @@
       "weekend": false
     },
     {
-      "key": "2026-6-10",
-      "dayNum": 10,
-      "dow": 3,
-      "weekend": false,
-      "dateShort": "Wed, Jun 10",
       "dateLong": "Wednesday, June 10",
-      "dayStart": "10:20",
+      "dateShort": "Wed, Jun 10",
       "dayEnd": "20:27",
+      "dayNum": 10,
+      "dayStart": "10:20",
+      "deep": 27,
+      "dow": 3,
       "events": [
         {
-          "start": "10:20",
+          "cat": "coding",
           "end": "10:25",
-          "cat": "coding",
+          "note": "2 hits",
           "src": "local",
-          "title": "snapshots.json",
-          "note": "2 hits"
+          "start": "10:20",
+          "title": "snapshots.json"
         },
         {
-          "start": "10:25",
+          "cat": "admin",
           "end": "10:46",
-          "cat": "admin",
+          "note": "accounts.google.com",
           "src": "chrome",
-          "title": "Inbox (2,476) - ada.ren.cn@gmail.com - Gmail",
-          "note": "accounts.google.com"
+          "start": "10:25",
+          "title": "Inbox (2,476) - ada.ren.cn@gmail.com - Gmail"
         },
         {
-          "start": "10:46",
-          "end": "10:58",
           "cat": "writing",
+          "end": "10:58",
+          "note": "url.au.m.mimecastprotect.com",
           "src": "chrome",
-          "title": "Workshop Presenter Guide_ACL 2026 - Google Slides",
-          "note": "url.au.m.mimecastprotect.com"
+          "start": "10:46",
+          "title": "Workshop Presenter Guide_ACL 2026 - Google Slides"
         },
         {
-          "start": "10:58",
+          "cat": "admin",
           "end": "11:21",
-          "cat": "admin",
+          "note": "accounts.google.com",
           "src": "chrome",
-          "title": "908/112 TALAVERA ROAD, MACQUARIE PARK, - ada.ren.cn@gmail.co",
-          "note": "accounts.google.com"
+          "start": "10:58",
+          "title": "908/112 TALAVERA ROAD, MACQUARIE PARK, - ada.ren.cn@gmail.co"
         },
         {
-          "start": "11:32",
+          "cat": "personal",
           "end": "11:54",
-          "cat": "personal",
+          "note": "youtube.com",
           "src": "chrome",
-          "title": "Designing Your Life — Stanford Life Design Lab",
-          "note": "youtube.com"
+          "start": "11:32",
+          "title": "Designing Your Life — Stanford Life Design Lab"
         },
         {
-          "start": "11:54",
+          "cat": "personal",
           "end": "11:56",
-          "cat": "personal",
+          "note": "auth.scribd.com",
           "src": "chrome",
-          "title": "抄寫英語的奇蹟：10分鐘提升英文 | PDF | Laughter | English Language",
-          "note": "auth.scribd.com"
+          "start": "11:54",
+          "title": "抄寫英語的奇蹟：10分鐘提升英文 | PDF | Laughter | English Language"
         },
         {
-          "start": "11:56",
+          "cat": "admin",
           "end": "12:19",
-          "cat": "admin",
+          "note": "mail.google.com",
           "src": "chrome",
-          "title": "Daily papers of 9 Jun 2026 - ada.ren.cn@gmail.com - Gmail",
-          "note": "mail.google.com"
+          "start": "11:56",
+          "title": "Daily papers of 9 Jun 2026 - ada.ren.cn@gmail.com - Gmail"
         },
         {
-          "start": "13:14",
+          "cat": "admin",
           "end": "13:34",
-          "cat": "admin",
+          "note": "mail.google.com",
           "src": "chrome",
-          "title": "Inbox (2,476) - ada.ren.cn@gmail.com - Gmail",
-          "note": "mail.google.com"
+          "start": "13:14",
+          "title": "Inbox (2,476) - ada.ren.cn@gmail.com - Gmail"
         },
         {
-          "start": "14:46",
+          "cat": "personal",
           "end": "15:06",
-          "cat": "personal",
+          "note": "chat.deepseek.com",
           "src": "chrome",
-          "title": "Model FLOPs Utilization MFU Explanation - DeepSeek",
-          "note": "chat.deepseek.com"
+          "start": "14:46",
+          "title": "Model FLOPs Utilization MFU Explanation - DeepSeek"
         },
         {
-          "start": "19:08",
+          "cat": "personal",
           "end": "19:55",
-          "cat": "personal",
+          "note": "dumate.cn",
           "src": "chrome",
-          "title": "Build a Large Language Model (From Scratch) - 搬书匠 - 电子书下载",
-          "note": "dumate.cn"
+          "start": "19:08",
+          "title": "Build a Large Language Model (From Scratch) - 搬书匠 - 电子书下载"
         },
         {
-          "start": "19:56",
-          "end": "20:07",
           "cat": "coding",
+          "end": "20:07",
+          "note": "github.com",
           "src": "chrome",
-          "title": "adaren100 (Ada Ren)",
-          "note": "github.com"
+          "start": "19:56",
+          "title": "adaren100 (Ada Ren)"
         },
         {
-          "start": "20:07",
-          "end": "20:27",
           "cat": "admin",
+          "end": "20:27",
+          "note": "url.au.m.mimecastprotect.com",
           "src": "chrome",
-          "title": "奇绩算力：免费高性能算力加速科研创业，已支持 60+ 团队",
-          "note": "url.au.m.mimecastprotect.com"
+          "start": "20:07",
+          "title": "奇绩算力：免费高性能算力加速科研创业，已支持 60+ 团队"
         }
       ],
+      "key": "2026-6-10",
       "logged": 225,
-      "real": 27,
-      "deep": 27,
       "ratio": 0.1218280208668735,
+      "real": 27,
       "stats": {
         "contextSwitches": 8,
-        "tabsOpened": 33,
+        "justOneMoreThing": 0,
         "longestFocus": "12m",
-        "justOneMoreThing": 0
-      }
+        "tabsOpened": 33
+      },
+      "weekend": false
     },
     {
       "key": "2026-6-11",
@@ -10405,17 +10446,58 @@
       "weekend": false,
       "dateShort": "Thu, Jun 11",
       "dateLong": "Thursday, June 11",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "10:40",
+      "dayEnd": "14:22",
+      "events": [
+        {
+          "start": "10:40",
+          "end": "10:45",
+          "cat": "coding",
+          "src": "local",
+          "title": "snapshots.json",
+          "note": "2 hits"
+        },
+        {
+          "start": "10:48",
+          "end": "11:08",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "App unavailable in region | Claude",
+          "note": "claude.ai"
+        },
+        {
+          "start": "12:22",
+          "end": "13:10",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Cached Attention Mask Explanation - DeepSeek",
+          "note": "chat.deepseek.com"
+        },
+        {
+          "start": "13:31",
+          "end": "13:36",
+          "cat": "writing",
+          "src": "local",
+          "title": "移动互联网启示录.md",
+          "note": "1 hit"
+        },
+        {
+          "start": "14:19",
+          "end": "14:22",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Liver Function Explanation - DeepSeek",
+          "note": "chat.deepseek.com"
+        }
+      ],
+      "logged": 80,
+      "real": 30,
+      "deep": 30,
+      "ratio": 0.3740176760439901,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "0m",
+        "contextSwitches": 3,
+        "tabsOpened": 9,
+        "longestFocus": "25m",
         "justOneMoreThing": 0
       }
     },
