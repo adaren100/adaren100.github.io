@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-06-12T10:42:56+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-06-13T10:55:11+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -8437,66 +8437,66 @@
         "weekend": false
       },
       {
-        "key": "2026-6-11",
-        "dayNum": 11,
-        "dow": 4,
-        "weekend": false,
-        "dateShort": "Thu, Jun 11",
         "dateLong": "Thursday, June 11",
-        "dayStart": "10:40",
+        "dateShort": "Thu, Jun 11",
         "dayEnd": "14:22",
+        "dayNum": 11,
+        "dayStart": "10:40",
+        "deep": 30,
+        "dow": 4,
         "events": [
           {
-            "start": "10:40",
+            "cat": "coding",
             "end": "10:45",
-            "cat": "coding",
+            "note": "2 hits",
             "src": "local",
-            "title": "snapshots.json",
-            "note": "2 hits"
+            "start": "10:40",
+            "title": "snapshots.json"
           },
           {
-            "start": "10:48",
+            "cat": "coding",
             "end": "11:08",
-            "cat": "coding",
+            "note": "claude.ai",
             "src": "chrome",
-            "title": "App unavailable in region | Claude",
-            "note": "claude.ai"
+            "start": "10:48",
+            "title": "App unavailable in region | Claude"
           },
           {
-            "start": "12:22",
+            "cat": "personal",
             "end": "13:10",
-            "cat": "personal",
+            "note": "chat.deepseek.com",
             "src": "chrome",
-            "title": "Cached Attention Mask Explanation - DeepSeek",
-            "note": "chat.deepseek.com"
+            "start": "12:22",
+            "title": "Cached Attention Mask Explanation - DeepSeek"
           },
           {
-            "start": "13:31",
-            "end": "13:36",
             "cat": "writing",
+            "end": "13:36",
+            "note": "1 hit",
             "src": "local",
-            "title": "移动互联网启示录.md",
-            "note": "1 hit"
+            "start": "13:31",
+            "title": "移动互联网启示录.md"
           },
           {
-            "start": "14:19",
-            "end": "14:22",
             "cat": "personal",
+            "end": "14:22",
+            "note": "chat.deepseek.com",
             "src": "chrome",
-            "title": "Liver Function Explanation - DeepSeek",
-            "note": "chat.deepseek.com"
+            "start": "14:19",
+            "title": "Liver Function Explanation - DeepSeek"
           }
         ],
+        "key": "2026-6-11",
         "logged": 80,
-        "real": 30,
-        "deep": 30,
         "ratio": 0.3740176760439901,
+        "real": 30,
         "stats": {
           "contextSwitches": 3,
-          "tabsOpened": 9,
+          "justOneMoreThing": 0,
           "longestFocus": "25m",
-          "justOneMoreThing": 0
-        }
+          "tabsOpened": 9
+        },
+        "weekend": false
       },
       {
         "key": "2026-6-12",
@@ -8505,17 +8505,50 @@
         "weekend": false,
         "dateShort": "Fri, Jun 12",
         "dateLong": "Friday, June 12",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "10:42",
+        "dayEnd": "20:51",
+        "events": [
+          {
+            "start": "10:42",
+            "end": "10:47",
+            "cat": "coding",
+            "src": "local",
+            "title": "snapshots.json",
+            "note": "2 hits"
+          },
+          {
+            "start": "11:29",
+            "end": "11:49",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Understanding logits flatten in PyTorch - DeepSeek",
+            "note": "chat.deepseek.com"
+          },
+          {
+            "start": "12:57",
+            "end": "13:17",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "飙升榜 - 排行榜 - 网易云音乐",
+            "note": "music.163.com"
+          },
+          {
+            "start": "20:48",
+            "end": "20:51",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Amortized Meaning Explained - DeepSeek",
+            "note": "chat.deepseek.com"
+          }
+        ],
+        "logged": 48,
+        "real": 28,
+        "deep": 28,
+        "ratio": 0.5833456347641236,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "0m",
+          "contextSwitches": 2,
+          "tabsOpened": 9,
+          "longestFocus": "25m",
           "justOneMoreThing": 0
         }
       },
@@ -10440,66 +10473,66 @@
       "weekend": false
     },
     {
-      "key": "2026-6-11",
-      "dayNum": 11,
-      "dow": 4,
-      "weekend": false,
-      "dateShort": "Thu, Jun 11",
       "dateLong": "Thursday, June 11",
-      "dayStart": "10:40",
+      "dateShort": "Thu, Jun 11",
       "dayEnd": "14:22",
+      "dayNum": 11,
+      "dayStart": "10:40",
+      "deep": 30,
+      "dow": 4,
       "events": [
         {
-          "start": "10:40",
+          "cat": "coding",
           "end": "10:45",
-          "cat": "coding",
+          "note": "2 hits",
           "src": "local",
-          "title": "snapshots.json",
-          "note": "2 hits"
+          "start": "10:40",
+          "title": "snapshots.json"
         },
         {
-          "start": "10:48",
+          "cat": "coding",
           "end": "11:08",
-          "cat": "coding",
+          "note": "claude.ai",
           "src": "chrome",
-          "title": "App unavailable in region | Claude",
-          "note": "claude.ai"
+          "start": "10:48",
+          "title": "App unavailable in region | Claude"
         },
         {
-          "start": "12:22",
+          "cat": "personal",
           "end": "13:10",
-          "cat": "personal",
+          "note": "chat.deepseek.com",
           "src": "chrome",
-          "title": "Cached Attention Mask Explanation - DeepSeek",
-          "note": "chat.deepseek.com"
+          "start": "12:22",
+          "title": "Cached Attention Mask Explanation - DeepSeek"
         },
         {
-          "start": "13:31",
-          "end": "13:36",
           "cat": "writing",
+          "end": "13:36",
+          "note": "1 hit",
           "src": "local",
-          "title": "移动互联网启示录.md",
-          "note": "1 hit"
+          "start": "13:31",
+          "title": "移动互联网启示录.md"
         },
         {
-          "start": "14:19",
-          "end": "14:22",
           "cat": "personal",
+          "end": "14:22",
+          "note": "chat.deepseek.com",
           "src": "chrome",
-          "title": "Liver Function Explanation - DeepSeek",
-          "note": "chat.deepseek.com"
+          "start": "14:19",
+          "title": "Liver Function Explanation - DeepSeek"
         }
       ],
+      "key": "2026-6-11",
       "logged": 80,
-      "real": 30,
-      "deep": 30,
       "ratio": 0.3740176760439901,
+      "real": 30,
       "stats": {
         "contextSwitches": 3,
-        "tabsOpened": 9,
+        "justOneMoreThing": 0,
         "longestFocus": "25m",
-        "justOneMoreThing": 0
-      }
+        "tabsOpened": 9
+      },
+      "weekend": false
     },
     {
       "key": "2026-6-12",
@@ -10508,17 +10541,50 @@
       "weekend": false,
       "dateShort": "Fri, Jun 12",
       "dateLong": "Friday, June 12",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "10:42",
+      "dayEnd": "20:51",
+      "events": [
+        {
+          "start": "10:42",
+          "end": "10:47",
+          "cat": "coding",
+          "src": "local",
+          "title": "snapshots.json",
+          "note": "2 hits"
+        },
+        {
+          "start": "11:29",
+          "end": "11:49",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Understanding logits flatten in PyTorch - DeepSeek",
+          "note": "chat.deepseek.com"
+        },
+        {
+          "start": "12:57",
+          "end": "13:17",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "飙升榜 - 排行榜 - 网易云音乐",
+          "note": "music.163.com"
+        },
+        {
+          "start": "20:48",
+          "end": "20:51",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Amortized Meaning Explained - DeepSeek",
+          "note": "chat.deepseek.com"
+        }
+      ],
+      "logged": 48,
+      "real": 28,
+      "deep": 28,
+      "ratio": 0.5833456347641236,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "0m",
+        "contextSwitches": 2,
+        "tabsOpened": 9,
+        "longestFocus": "25m",
         "justOneMoreThing": 0
       }
     },
