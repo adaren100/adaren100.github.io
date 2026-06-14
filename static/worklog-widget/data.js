@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-06-13T10:55:11+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-06-14T10:33:24+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -8499,58 +8499,58 @@
         "weekend": false
       },
       {
-        "key": "2026-6-12",
-        "dayNum": 12,
-        "dow": 5,
-        "weekend": false,
-        "dateShort": "Fri, Jun 12",
         "dateLong": "Friday, June 12",
-        "dayStart": "10:42",
+        "dateShort": "Fri, Jun 12",
         "dayEnd": "20:51",
+        "dayNum": 12,
+        "dayStart": "10:42",
+        "deep": 28,
+        "dow": 5,
         "events": [
           {
-            "start": "10:42",
+            "cat": "coding",
             "end": "10:47",
-            "cat": "coding",
+            "note": "2 hits",
             "src": "local",
-            "title": "snapshots.json",
-            "note": "2 hits"
+            "start": "10:42",
+            "title": "snapshots.json"
           },
           {
-            "start": "11:29",
+            "cat": "coding",
             "end": "11:49",
-            "cat": "coding",
+            "note": "chat.deepseek.com",
             "src": "chrome",
-            "title": "Understanding logits flatten in PyTorch - DeepSeek",
-            "note": "chat.deepseek.com"
+            "start": "11:29",
+            "title": "Understanding logits flatten in PyTorch - DeepSeek"
           },
           {
-            "start": "12:57",
-            "end": "13:17",
             "cat": "personal",
+            "end": "13:17",
+            "note": "music.163.com",
             "src": "chrome",
-            "title": "飙升榜 - 排行榜 - 网易云音乐",
-            "note": "music.163.com"
+            "start": "12:57",
+            "title": "飙升榜 - 排行榜 - 网易云音乐"
           },
           {
-            "start": "20:48",
-            "end": "20:51",
             "cat": "coding",
+            "end": "20:51",
+            "note": "chat.deepseek.com",
             "src": "chrome",
-            "title": "Amortized Meaning Explained - DeepSeek",
-            "note": "chat.deepseek.com"
+            "start": "20:48",
+            "title": "Amortized Meaning Explained - DeepSeek"
           }
         ],
+        "key": "2026-6-12",
         "logged": 48,
-        "real": 28,
-        "deep": 28,
         "ratio": 0.5833456347641236,
+        "real": 28,
         "stats": {
           "contextSwitches": 2,
-          "tabsOpened": 9,
+          "justOneMoreThing": 0,
           "longestFocus": "25m",
-          "justOneMoreThing": 0
-        }
+          "tabsOpened": 9
+        },
+        "weekend": false
       },
       {
         "key": "2026-6-13",
@@ -8559,17 +8559,58 @@
         "weekend": true,
         "dateShort": "Sat, Jun 13",
         "dateLong": "Saturday, June 13",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "10:55",
+        "dayEnd": "13:20",
+        "events": [
+          {
+            "start": "10:55",
+            "end": "11:00",
+            "cat": "coding",
+            "src": "local",
+            "title": "domain_cats.json",
+            "note": "3 hits"
+          },
+          {
+            "start": "11:00",
+            "end": "11:25",
+            "cat": "writing",
+            "src": "local",
+            "title": "2026-06-13.md",
+            "note": "29 hits"
+          },
+          {
+            "start": "12:39",
+            "end": "12:51",
+            "cat": "research",
+            "src": "chrome",
+            "title": "How Preply combines AI and human tutors to personalize learn",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "12:51",
+            "end": "13:11",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Mythos Begets Fable, Cursor's Composer 2.5, Agents Building ",
+            "note": "accounts.google.com"
+          },
+          {
+            "start": "13:11",
+            "end": "13:20",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(21) vivek (@itsreallyvivek) / X",
+            "note": "x.com"
+          }
+        ],
+        "logged": 71,
+        "real": 42,
+        "deep": 42,
+        "ratio": 0.5952989530170121,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "0m",
+          "contextSwitches": 4,
+          "tabsOpened": 9,
+          "longestFocus": "42m",
           "justOneMoreThing": 0
         }
       },
@@ -10535,58 +10576,58 @@
       "weekend": false
     },
     {
-      "key": "2026-6-12",
-      "dayNum": 12,
-      "dow": 5,
-      "weekend": false,
-      "dateShort": "Fri, Jun 12",
       "dateLong": "Friday, June 12",
-      "dayStart": "10:42",
+      "dateShort": "Fri, Jun 12",
       "dayEnd": "20:51",
+      "dayNum": 12,
+      "dayStart": "10:42",
+      "deep": 28,
+      "dow": 5,
       "events": [
         {
-          "start": "10:42",
+          "cat": "coding",
           "end": "10:47",
-          "cat": "coding",
+          "note": "2 hits",
           "src": "local",
-          "title": "snapshots.json",
-          "note": "2 hits"
+          "start": "10:42",
+          "title": "snapshots.json"
         },
         {
-          "start": "11:29",
+          "cat": "coding",
           "end": "11:49",
-          "cat": "coding",
+          "note": "chat.deepseek.com",
           "src": "chrome",
-          "title": "Understanding logits flatten in PyTorch - DeepSeek",
-          "note": "chat.deepseek.com"
+          "start": "11:29",
+          "title": "Understanding logits flatten in PyTorch - DeepSeek"
         },
         {
-          "start": "12:57",
-          "end": "13:17",
           "cat": "personal",
+          "end": "13:17",
+          "note": "music.163.com",
           "src": "chrome",
-          "title": "飙升榜 - 排行榜 - 网易云音乐",
-          "note": "music.163.com"
+          "start": "12:57",
+          "title": "飙升榜 - 排行榜 - 网易云音乐"
         },
         {
-          "start": "20:48",
-          "end": "20:51",
           "cat": "coding",
+          "end": "20:51",
+          "note": "chat.deepseek.com",
           "src": "chrome",
-          "title": "Amortized Meaning Explained - DeepSeek",
-          "note": "chat.deepseek.com"
+          "start": "20:48",
+          "title": "Amortized Meaning Explained - DeepSeek"
         }
       ],
+      "key": "2026-6-12",
       "logged": 48,
-      "real": 28,
-      "deep": 28,
       "ratio": 0.5833456347641236,
+      "real": 28,
       "stats": {
         "contextSwitches": 2,
-        "tabsOpened": 9,
+        "justOneMoreThing": 0,
         "longestFocus": "25m",
-        "justOneMoreThing": 0
-      }
+        "tabsOpened": 9
+      },
+      "weekend": false
     },
     {
       "key": "2026-6-13",
@@ -10595,17 +10636,58 @@
       "weekend": true,
       "dateShort": "Sat, Jun 13",
       "dateLong": "Saturday, June 13",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "10:55",
+      "dayEnd": "13:20",
+      "events": [
+        {
+          "start": "10:55",
+          "end": "11:00",
+          "cat": "coding",
+          "src": "local",
+          "title": "domain_cats.json",
+          "note": "3 hits"
+        },
+        {
+          "start": "11:00",
+          "end": "11:25",
+          "cat": "writing",
+          "src": "local",
+          "title": "2026-06-13.md",
+          "note": "29 hits"
+        },
+        {
+          "start": "12:39",
+          "end": "12:51",
+          "cat": "research",
+          "src": "chrome",
+          "title": "How Preply combines AI and human tutors to personalize learn",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "12:51",
+          "end": "13:11",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Mythos Begets Fable, Cursor's Composer 2.5, Agents Building ",
+          "note": "accounts.google.com"
+        },
+        {
+          "start": "13:11",
+          "end": "13:20",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(21) vivek (@itsreallyvivek) / X",
+          "note": "x.com"
+        }
+      ],
+      "logged": 71,
+      "real": 42,
+      "deep": 42,
+      "ratio": 0.5952989530170121,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "0m",
+        "contextSwitches": 4,
+        "tabsOpened": 9,
+        "longestFocus": "42m",
         "justOneMoreThing": 0
       }
     },
