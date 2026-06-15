@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-06-14T10:33:24+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-06-15T10:26:59+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -8553,66 +8553,66 @@
         "weekend": false
       },
       {
-        "key": "2026-6-13",
-        "dayNum": 13,
-        "dow": 6,
-        "weekend": true,
-        "dateShort": "Sat, Jun 13",
         "dateLong": "Saturday, June 13",
-        "dayStart": "10:55",
+        "dateShort": "Sat, Jun 13",
         "dayEnd": "13:20",
+        "dayNum": 13,
+        "dayStart": "10:55",
+        "deep": 42,
+        "dow": 6,
         "events": [
           {
-            "start": "10:55",
-            "end": "11:00",
             "cat": "coding",
+            "end": "11:00",
+            "note": "3 hits",
             "src": "local",
-            "title": "domain_cats.json",
-            "note": "3 hits"
+            "start": "10:55",
+            "title": "domain_cats.json"
           },
           {
-            "start": "11:00",
-            "end": "11:25",
             "cat": "writing",
+            "end": "11:25",
+            "note": "29 hits",
             "src": "local",
-            "title": "2026-06-13.md",
-            "note": "29 hits"
+            "start": "11:00",
+            "title": "2026-06-13.md"
           },
           {
-            "start": "12:39",
-            "end": "12:51",
             "cat": "research",
+            "end": "12:51",
+            "note": "adaren100.github.io",
             "src": "chrome",
-            "title": "How Preply combines AI and human tutors to personalize learn",
-            "note": "adaren100.github.io"
+            "start": "12:39",
+            "title": "How Preply combines AI and human tutors to personalize learn"
           },
           {
-            "start": "12:51",
-            "end": "13:11",
             "cat": "admin",
+            "end": "13:11",
+            "note": "accounts.google.com",
             "src": "chrome",
-            "title": "Mythos Begets Fable, Cursor's Composer 2.5, Agents Building ",
-            "note": "accounts.google.com"
+            "start": "12:51",
+            "title": "Mythos Begets Fable, Cursor's Composer 2.5, Agents Building "
           },
           {
-            "start": "13:11",
-            "end": "13:20",
             "cat": "personal",
+            "end": "13:20",
+            "note": "x.com",
             "src": "chrome",
-            "title": "(21) vivek (@itsreallyvivek) / X",
-            "note": "x.com"
+            "start": "13:11",
+            "title": "(21) vivek (@itsreallyvivek) / X"
           }
         ],
+        "key": "2026-6-13",
         "logged": 71,
-        "real": 42,
-        "deep": 42,
         "ratio": 0.5952989530170121,
+        "real": 42,
         "stats": {
           "contextSwitches": 4,
-          "tabsOpened": 9,
+          "justOneMoreThing": 0,
           "longestFocus": "42m",
-          "justOneMoreThing": 0
-        }
+          "tabsOpened": 9
+        },
+        "weekend": true
       },
       {
         "key": "2026-6-14",
@@ -8621,17 +8621,34 @@
         "weekend": true,
         "dateShort": "Sun, Jun 14",
         "dateLong": "Sunday, June 14",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "10:33",
+        "dayEnd": "15:05",
+        "events": [
+          {
+            "start": "10:33",
+            "end": "10:38",
+            "cat": "coding",
+            "src": "local",
+            "title": "snapshots.json",
+            "note": "2 hits"
+          },
+          {
+            "start": "15:02",
+            "end": "15:05",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Profile / X",
+            "note": "x.com"
+          }
+        ],
+        "logged": 8,
+        "real": 5,
+        "deep": 5,
+        "ratio": 0.625004286669748,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "0m",
+          "contextSwitches": 1,
+          "tabsOpened": 3,
+          "longestFocus": "5m",
           "justOneMoreThing": 0
         }
       },
@@ -10630,66 +10647,66 @@
       "weekend": false
     },
     {
-      "key": "2026-6-13",
-      "dayNum": 13,
-      "dow": 6,
-      "weekend": true,
-      "dateShort": "Sat, Jun 13",
       "dateLong": "Saturday, June 13",
-      "dayStart": "10:55",
+      "dateShort": "Sat, Jun 13",
       "dayEnd": "13:20",
+      "dayNum": 13,
+      "dayStart": "10:55",
+      "deep": 42,
+      "dow": 6,
       "events": [
         {
-          "start": "10:55",
-          "end": "11:00",
           "cat": "coding",
+          "end": "11:00",
+          "note": "3 hits",
           "src": "local",
-          "title": "domain_cats.json",
-          "note": "3 hits"
+          "start": "10:55",
+          "title": "domain_cats.json"
         },
         {
-          "start": "11:00",
-          "end": "11:25",
           "cat": "writing",
+          "end": "11:25",
+          "note": "29 hits",
           "src": "local",
-          "title": "2026-06-13.md",
-          "note": "29 hits"
+          "start": "11:00",
+          "title": "2026-06-13.md"
         },
         {
-          "start": "12:39",
-          "end": "12:51",
           "cat": "research",
+          "end": "12:51",
+          "note": "adaren100.github.io",
           "src": "chrome",
-          "title": "How Preply combines AI and human tutors to personalize learn",
-          "note": "adaren100.github.io"
+          "start": "12:39",
+          "title": "How Preply combines AI and human tutors to personalize learn"
         },
         {
-          "start": "12:51",
-          "end": "13:11",
           "cat": "admin",
+          "end": "13:11",
+          "note": "accounts.google.com",
           "src": "chrome",
-          "title": "Mythos Begets Fable, Cursor's Composer 2.5, Agents Building ",
-          "note": "accounts.google.com"
+          "start": "12:51",
+          "title": "Mythos Begets Fable, Cursor's Composer 2.5, Agents Building "
         },
         {
-          "start": "13:11",
-          "end": "13:20",
           "cat": "personal",
+          "end": "13:20",
+          "note": "x.com",
           "src": "chrome",
-          "title": "(21) vivek (@itsreallyvivek) / X",
-          "note": "x.com"
+          "start": "13:11",
+          "title": "(21) vivek (@itsreallyvivek) / X"
         }
       ],
+      "key": "2026-6-13",
       "logged": 71,
-      "real": 42,
-      "deep": 42,
       "ratio": 0.5952989530170121,
+      "real": 42,
       "stats": {
         "contextSwitches": 4,
-        "tabsOpened": 9,
+        "justOneMoreThing": 0,
         "longestFocus": "42m",
-        "justOneMoreThing": 0
-      }
+        "tabsOpened": 9
+      },
+      "weekend": true
     },
     {
       "key": "2026-6-14",
@@ -10698,17 +10715,34 @@
       "weekend": true,
       "dateShort": "Sun, Jun 14",
       "dateLong": "Sunday, June 14",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "10:33",
+      "dayEnd": "15:05",
+      "events": [
+        {
+          "start": "10:33",
+          "end": "10:38",
+          "cat": "coding",
+          "src": "local",
+          "title": "snapshots.json",
+          "note": "2 hits"
+        },
+        {
+          "start": "15:02",
+          "end": "15:05",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Profile / X",
+          "note": "x.com"
+        }
+      ],
+      "logged": 8,
+      "real": 5,
+      "deep": 5,
+      "ratio": 0.625004286669748,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "0m",
+        "contextSwitches": 1,
+        "tabsOpened": 3,
+        "longestFocus": "5m",
         "justOneMoreThing": 0
       }
     },
