@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-06-15T10:26:59+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-06-16T10:20:05+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -8615,42 +8615,42 @@
         "weekend": true
       },
       {
-        "key": "2026-6-14",
-        "dayNum": 14,
-        "dow": 0,
-        "weekend": true,
-        "dateShort": "Sun, Jun 14",
         "dateLong": "Sunday, June 14",
-        "dayStart": "10:33",
+        "dateShort": "Sun, Jun 14",
         "dayEnd": "15:05",
+        "dayNum": 14,
+        "dayStart": "10:33",
+        "deep": 5,
+        "dow": 0,
         "events": [
           {
-            "start": "10:33",
-            "end": "10:38",
             "cat": "coding",
+            "end": "10:38",
+            "note": "2 hits",
             "src": "local",
-            "title": "snapshots.json",
-            "note": "2 hits"
+            "start": "10:33",
+            "title": "snapshots.json"
           },
           {
-            "start": "15:02",
-            "end": "15:05",
             "cat": "personal",
+            "end": "15:05",
+            "note": "x.com",
             "src": "chrome",
-            "title": "Profile / X",
-            "note": "x.com"
+            "start": "15:02",
+            "title": "Profile / X"
           }
         ],
+        "key": "2026-6-14",
         "logged": 8,
-        "real": 5,
-        "deep": 5,
         "ratio": 0.625004286669748,
+        "real": 5,
         "stats": {
           "contextSwitches": 1,
-          "tabsOpened": 3,
+          "justOneMoreThing": 0,
           "longestFocus": "5m",
-          "justOneMoreThing": 0
-        }
+          "tabsOpened": 3
+        },
+        "weekend": true
       },
       {
         "key": "2026-6-15",
@@ -8659,17 +8659,66 @@
         "weekend": false,
         "dateShort": "Mon, Jun 15",
         "dateLong": "Monday, June 15",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "10:26",
+        "dayEnd": "23:13",
+        "events": [
+          {
+            "start": "10:26",
+            "end": "10:31",
+            "cat": "coding",
+            "src": "local",
+            "title": "snapshots.json",
+            "note": "2 hits"
+          },
+          {
+            "start": "12:47",
+            "end": "13:07",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "DeepSeek - Into the Unknown",
+            "note": "chat.deepseek.com"
+          },
+          {
+            "start": "22:01",
+            "end": "22:14",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(11) Movez (@0xMovez) / X",
+            "note": "x.com"
+          },
+          {
+            "start": "22:15",
+            "end": "22:27",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "New Agent - 908/112 Talavera Road, Macquarie Park - ada.ren.",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "22:28",
+            "end": "22:53",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "lululemon Align™ High-Rise Pants 24\" *Asia Fit | Lululemon A",
+            "note": "google.com"
+          },
+          {
+            "start": "22:53",
+            "end": "23:13",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "lululemon Align™ High-Rise Pants 24\" *Asia Fit | Lululemon A",
+            "note": "google.com"
+          }
+        ],
+        "logged": 96,
+        "real": 25,
+        "deep": 25,
+        "ratio": 0.26034749942365065,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "0m",
+          "contextSwitches": 3,
+          "tabsOpened": 15,
+          "longestFocus": "25m",
           "justOneMoreThing": 0
         }
       },
@@ -8680,17 +8729,34 @@
         "weekend": false,
         "dateShort": "Tue, Jun 16",
         "dateLong": "Tuesday, June 16",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "10:03",
+        "dayEnd": "10:29",
+        "events": [
+          {
+            "start": "10:03",
+            "end": "10:08",
+            "cat": "writing",
+            "src": "local",
+            "title": "2026-06-16-introducing-the-openai-partner-network.md",
+            "note": "1 hit"
+          },
+          {
+            "start": "10:09",
+            "end": "10:29",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Presentation.pptx",
+            "note": "mqoutlook-my.sharepoint.com"
+          }
+        ],
+        "logged": 25,
+        "real": 5,
+        "deep": 5,
+        "ratio": 0.19978927479307615,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "0m",
+          "contextSwitches": 1,
+          "tabsOpened": 3,
+          "longestFocus": "5m",
           "justOneMoreThing": 0
         }
       },
@@ -10709,42 +10775,42 @@
       "weekend": true
     },
     {
-      "key": "2026-6-14",
-      "dayNum": 14,
-      "dow": 0,
-      "weekend": true,
-      "dateShort": "Sun, Jun 14",
       "dateLong": "Sunday, June 14",
-      "dayStart": "10:33",
+      "dateShort": "Sun, Jun 14",
       "dayEnd": "15:05",
+      "dayNum": 14,
+      "dayStart": "10:33",
+      "deep": 5,
+      "dow": 0,
       "events": [
         {
-          "start": "10:33",
-          "end": "10:38",
           "cat": "coding",
+          "end": "10:38",
+          "note": "2 hits",
           "src": "local",
-          "title": "snapshots.json",
-          "note": "2 hits"
+          "start": "10:33",
+          "title": "snapshots.json"
         },
         {
-          "start": "15:02",
-          "end": "15:05",
           "cat": "personal",
+          "end": "15:05",
+          "note": "x.com",
           "src": "chrome",
-          "title": "Profile / X",
-          "note": "x.com"
+          "start": "15:02",
+          "title": "Profile / X"
         }
       ],
+      "key": "2026-6-14",
       "logged": 8,
-      "real": 5,
-      "deep": 5,
       "ratio": 0.625004286669748,
+      "real": 5,
       "stats": {
         "contextSwitches": 1,
-        "tabsOpened": 3,
+        "justOneMoreThing": 0,
         "longestFocus": "5m",
-        "justOneMoreThing": 0
-      }
+        "tabsOpened": 3
+      },
+      "weekend": true
     },
     {
       "key": "2026-6-15",
@@ -10753,17 +10819,66 @@
       "weekend": false,
       "dateShort": "Mon, Jun 15",
       "dateLong": "Monday, June 15",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "10:26",
+      "dayEnd": "23:13",
+      "events": [
+        {
+          "start": "10:26",
+          "end": "10:31",
+          "cat": "coding",
+          "src": "local",
+          "title": "snapshots.json",
+          "note": "2 hits"
+        },
+        {
+          "start": "12:47",
+          "end": "13:07",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "DeepSeek - Into the Unknown",
+          "note": "chat.deepseek.com"
+        },
+        {
+          "start": "22:01",
+          "end": "22:14",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(11) Movez (@0xMovez) / X",
+          "note": "x.com"
+        },
+        {
+          "start": "22:15",
+          "end": "22:27",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "New Agent - 908/112 Talavera Road, Macquarie Park - ada.ren.",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "22:28",
+          "end": "22:53",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "lululemon Align™ High-Rise Pants 24\" *Asia Fit | Lululemon A",
+          "note": "google.com"
+        },
+        {
+          "start": "22:53",
+          "end": "23:13",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "lululemon Align™ High-Rise Pants 24\" *Asia Fit | Lululemon A",
+          "note": "google.com"
+        }
+      ],
+      "logged": 96,
+      "real": 25,
+      "deep": 25,
+      "ratio": 0.26034749942365065,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "0m",
+        "contextSwitches": 3,
+        "tabsOpened": 15,
+        "longestFocus": "25m",
         "justOneMoreThing": 0
       }
     },
@@ -10774,17 +10889,34 @@
       "weekend": false,
       "dateShort": "Tue, Jun 16",
       "dateLong": "Tuesday, June 16",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "10:03",
+      "dayEnd": "10:29",
+      "events": [
+        {
+          "start": "10:03",
+          "end": "10:08",
+          "cat": "writing",
+          "src": "local",
+          "title": "2026-06-16-introducing-the-openai-partner-network.md",
+          "note": "1 hit"
+        },
+        {
+          "start": "10:09",
+          "end": "10:29",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Presentation.pptx",
+          "note": "mqoutlook-my.sharepoint.com"
+        }
+      ],
+      "logged": 25,
+      "real": 5,
+      "deep": 5,
+      "ratio": 0.19978927479307615,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "0m",
+        "contextSwitches": 1,
+        "tabsOpened": 3,
+        "longestFocus": "5m",
         "justOneMoreThing": 0
       }
     },
