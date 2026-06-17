@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-06-16T10:20:05+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-06-17T10:20:07+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -8653,74 +8653,74 @@
         "weekend": true
       },
       {
-        "key": "2026-6-15",
-        "dayNum": 15,
-        "dow": 1,
-        "weekend": false,
-        "dateShort": "Mon, Jun 15",
         "dateLong": "Monday, June 15",
-        "dayStart": "10:26",
+        "dateShort": "Mon, Jun 15",
         "dayEnd": "23:13",
+        "dayNum": 15,
+        "dayStart": "10:26",
+        "deep": 25,
+        "dow": 1,
         "events": [
           {
-            "start": "10:26",
+            "cat": "coding",
             "end": "10:31",
-            "cat": "coding",
+            "note": "2 hits",
             "src": "local",
-            "title": "snapshots.json",
-            "note": "2 hits"
+            "start": "10:26",
+            "title": "snapshots.json"
           },
           {
-            "start": "12:47",
-            "end": "13:07",
             "cat": "coding",
+            "end": "13:07",
+            "note": "chat.deepseek.com",
             "src": "chrome",
-            "title": "DeepSeek - Into the Unknown",
-            "note": "chat.deepseek.com"
+            "start": "12:47",
+            "title": "DeepSeek - Into the Unknown"
           },
           {
-            "start": "22:01",
+            "cat": "personal",
             "end": "22:14",
-            "cat": "personal",
+            "note": "x.com",
             "src": "chrome",
-            "title": "(11) Movez (@0xMovez) / X",
-            "note": "x.com"
+            "start": "22:01",
+            "title": "(11) Movez (@0xMovez) / X"
           },
           {
-            "start": "22:15",
-            "end": "22:27",
             "cat": "admin",
+            "end": "22:27",
+            "note": "mail.google.com",
             "src": "chrome",
-            "title": "New Agent - 908/112 Talavera Road, Macquarie Park - ada.ren.",
-            "note": "mail.google.com"
+            "start": "22:15",
+            "title": "New Agent - 908/112 Talavera Road, Macquarie Park - ada.ren."
           },
           {
-            "start": "22:28",
+            "cat": "personal",
             "end": "22:53",
-            "cat": "personal",
+            "note": "google.com",
             "src": "chrome",
-            "title": "lululemon Align™ High-Rise Pants 24\" *Asia Fit | Lululemon A",
-            "note": "google.com"
+            "start": "22:28",
+            "title": "lululemon Align™ High-Rise Pants 24\" *Asia Fit | Lululemon A"
           },
           {
-            "start": "22:53",
-            "end": "23:13",
             "cat": "personal",
+            "end": "23:13",
+            "note": "google.com",
             "src": "chrome",
-            "title": "lululemon Align™ High-Rise Pants 24\" *Asia Fit | Lululemon A",
-            "note": "google.com"
+            "start": "22:53",
+            "title": "lululemon Align™ High-Rise Pants 24\" *Asia Fit | Lululemon A"
           }
         ],
+        "key": "2026-6-15",
         "logged": 96,
-        "real": 25,
-        "deep": 25,
         "ratio": 0.26034749942365065,
+        "real": 25,
         "stats": {
           "contextSwitches": 3,
-          "tabsOpened": 15,
+          "justOneMoreThing": 0,
           "longestFocus": "25m",
-          "justOneMoreThing": 0
-        }
+          "tabsOpened": 15
+        },
+        "weekend": false
       },
       {
         "key": "2026-6-16",
@@ -8730,7 +8730,7 @@
         "dateShort": "Tue, Jun 16",
         "dateLong": "Tuesday, June 16",
         "dayStart": "10:03",
-        "dayEnd": "10:29",
+        "dayEnd": "21:21",
         "events": [
           {
             "start": "10:03",
@@ -8745,19 +8745,291 @@
             "end": "10:29",
             "cat": "admin",
             "src": "chrome",
-            "title": "Presentation.pptx",
+            "title": "Google Translate",
             "note": "mqoutlook-my.sharepoint.com"
+          },
+          {
+            "start": "10:29",
+            "end": "10:33",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Projects - Claude",
+            "note": "claude.ai"
+          },
+          {
+            "start": "10:34",
+            "end": "10:41",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Ada's Notes",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "10:41",
+            "end": "10:47",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "10:47",
+            "end": "10:50",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Spotify - Web Player: Music for everyone",
+            "note": "open.spotify.com"
+          },
+          {
+            "start": "10:50",
+            "end": "11:31",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "11:50",
+            "end": "11:56",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Ada's Notes",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "11:57",
+            "end": "12:06",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Login - Mistral AI",
+            "note": "v2.auth.mistral.ai"
+          },
+          {
+            "start": "12:06",
+            "end": "12:17",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Login - Mistral AI",
+            "note": "v2.auth.mistral.ai"
+          },
+          {
+            "start": "12:17",
+            "end": "12:25",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "NetBank - Transfers & BPAY",
+            "note": "accounts.google.com"
+          },
+          {
+            "start": "12:26",
+            "end": "12:39",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "CommSec Financial Services Guide",
+            "note": "commsec.com.au"
+          },
+          {
+            "start": "13:35",
+            "end": "13:42",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Why Trade Globally with IBKR? | Interactive Brokers Australi",
+            "note": "google.com"
+          },
+          {
+            "start": "13:42",
+            "end": "13:55",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Why Trade Globally with IBKR? | Interactive Brokers Australi",
+            "note": "google.com"
+          },
+          {
+            "start": "13:55",
+            "end": "13:59",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Application",
+            "note": "interactivebrokers.com.au"
+          },
+          {
+            "start": "14:00",
+            "end": "14:02",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Application",
+            "note": "interactivebrokers.com.au"
+          },
+          {
+            "start": "14:02",
+            "end": "14:29",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Consular Electronic Application Center - Confirm Application",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "14:29",
+            "end": "14:32",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Consular Electronic Application Center - Confirm Application",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "14:32",
+            "end": "14:49",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "New York Marriott Marquis - Google Maps",
+            "note": "maps.google.com"
+          },
+          {
+            "start": "14:49",
+            "end": "14:57",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Nonimmigrant Visa - U.S. Point of Contact Information",
+            "note": "ceac.state.gov"
+          },
+          {
+            "start": "14:57",
+            "end": "15:11",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(11) X 上的 Mike Solana：“the purpose is not to remove young pe",
+            "note": "x.com"
+          },
+          {
+            "start": "15:11",
+            "end": "15:18",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Introducing the OpenAI Partner Network | Ada's Notes",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "15:18",
+            "end": "15:47",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Introducing the OpenAI Partner Network | Ada's Notes",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "15:59",
+            "end": "16:02",
+            "cat": "writing",
+            "src": "chrome",
+            "title": "Zotero | Your personal research assistant",
+            "note": "zotero.org"
+          },
+          {
+            "start": "16:02",
+            "end": "16:20",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Paper reading explanations in English and Chinese - Claude",
+            "note": "claude.ai"
+          },
+          {
+            "start": "16:20",
+            "end": "16:23",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "16:25",
+            "end": "16:28",
+            "cat": "research",
+            "src": "chrome",
+            "title": "ed91353f700d113e5d848c7e04a858b0-Paper-Conference.pdf",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "16:31",
+            "end": "16:48",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "16:49",
+            "end": "17:15",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Agentic DraCor and the Art of Docstring Engineering: Evaluat",
+            "note": "researchgate.net"
+          },
+          {
+            "start": "17:15",
+            "end": "17:27",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Introducing the OpenAI Partner Network | OpenAI",
+            "note": "openai.com"
+          },
+          {
+            "start": "17:27",
+            "end": "17:28",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "17:28",
+            "end": "17:35",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "OpenAPI Specification - Version 3.1.0 | Swagger",
+            "note": "swagger.io"
+          },
+          {
+            "start": "17:35",
+            "end": "17:43",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "17:43",
+            "end": "18:07",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "PEP 257 – Docstring Conventions | peps.python.org",
+            "note": "peps.python.org"
+          },
+          {
+            "start": "20:07",
+            "end": "20:10",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "dungeon chinese - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "20:10",
+            "end": "21:21",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Google Translate",
+            "note": "translate.google.com"
           }
         ],
-        "logged": 25,
-        "real": 5,
-        "deep": 5,
-        "ratio": 0.19978927479307615,
+        "logged": 460,
+        "real": 170,
+        "deep": 170,
+        "ratio": 0.3700567139715734,
         "stats": {
-          "contextSwitches": 1,
-          "tabsOpened": 3,
-          "longestFocus": "5m",
-          "justOneMoreThing": 0
+          "contextSwitches": 27,
+          "tabsOpened": 105,
+          "longestFocus": "56m",
+          "justOneMoreThing": 3
         }
       },
       {
@@ -8767,16 +9039,41 @@
         "weekend": false,
         "dateShort": "Wed, Jun 17",
         "dateLong": "Wednesday, June 17",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
+        "dayStart": "09:51",
+        "dayEnd": "10:36",
+        "events": [
+          {
+            "start": "09:51",
+            "end": "09:56",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(1) Thariq (@trq212) / X",
+            "note": "x.com"
+          },
+          {
+            "start": "09:57",
+            "end": "10:25",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "FW: 908/112 Talavera Road Macquarie Park overpaid rent - ada",
+            "note": "accounts.google.com"
+          },
+          {
+            "start": "10:25",
+            "end": "10:36",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Origin Energy",
+            "note": "google.com"
+          }
+        ],
+        "logged": 44,
         "real": 0,
         "deep": 0,
-        "ratio": 0,
+        "ratio": 0.0,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
+          "contextSwitches": 2,
+          "tabsOpened": 9,
           "longestFocus": "0m",
           "justOneMoreThing": 0
         }
@@ -10813,74 +11110,74 @@
       "weekend": true
     },
     {
-      "key": "2026-6-15",
-      "dayNum": 15,
-      "dow": 1,
-      "weekend": false,
-      "dateShort": "Mon, Jun 15",
       "dateLong": "Monday, June 15",
-      "dayStart": "10:26",
+      "dateShort": "Mon, Jun 15",
       "dayEnd": "23:13",
+      "dayNum": 15,
+      "dayStart": "10:26",
+      "deep": 25,
+      "dow": 1,
       "events": [
         {
-          "start": "10:26",
+          "cat": "coding",
           "end": "10:31",
-          "cat": "coding",
+          "note": "2 hits",
           "src": "local",
-          "title": "snapshots.json",
-          "note": "2 hits"
+          "start": "10:26",
+          "title": "snapshots.json"
         },
         {
-          "start": "12:47",
-          "end": "13:07",
           "cat": "coding",
+          "end": "13:07",
+          "note": "chat.deepseek.com",
           "src": "chrome",
-          "title": "DeepSeek - Into the Unknown",
-          "note": "chat.deepseek.com"
+          "start": "12:47",
+          "title": "DeepSeek - Into the Unknown"
         },
         {
-          "start": "22:01",
+          "cat": "personal",
           "end": "22:14",
-          "cat": "personal",
+          "note": "x.com",
           "src": "chrome",
-          "title": "(11) Movez (@0xMovez) / X",
-          "note": "x.com"
+          "start": "22:01",
+          "title": "(11) Movez (@0xMovez) / X"
         },
         {
-          "start": "22:15",
-          "end": "22:27",
           "cat": "admin",
+          "end": "22:27",
+          "note": "mail.google.com",
           "src": "chrome",
-          "title": "New Agent - 908/112 Talavera Road, Macquarie Park - ada.ren.",
-          "note": "mail.google.com"
+          "start": "22:15",
+          "title": "New Agent - 908/112 Talavera Road, Macquarie Park - ada.ren."
         },
         {
-          "start": "22:28",
+          "cat": "personal",
           "end": "22:53",
-          "cat": "personal",
+          "note": "google.com",
           "src": "chrome",
-          "title": "lululemon Align™ High-Rise Pants 24\" *Asia Fit | Lululemon A",
-          "note": "google.com"
+          "start": "22:28",
+          "title": "lululemon Align™ High-Rise Pants 24\" *Asia Fit | Lululemon A"
         },
         {
-          "start": "22:53",
-          "end": "23:13",
           "cat": "personal",
+          "end": "23:13",
+          "note": "google.com",
           "src": "chrome",
-          "title": "lululemon Align™ High-Rise Pants 24\" *Asia Fit | Lululemon A",
-          "note": "google.com"
+          "start": "22:53",
+          "title": "lululemon Align™ High-Rise Pants 24\" *Asia Fit | Lululemon A"
         }
       ],
+      "key": "2026-6-15",
       "logged": 96,
-      "real": 25,
-      "deep": 25,
       "ratio": 0.26034749942365065,
+      "real": 25,
       "stats": {
         "contextSwitches": 3,
-        "tabsOpened": 15,
+        "justOneMoreThing": 0,
         "longestFocus": "25m",
-        "justOneMoreThing": 0
-      }
+        "tabsOpened": 15
+      },
+      "weekend": false
     },
     {
       "key": "2026-6-16",
@@ -10890,7 +11187,7 @@
       "dateShort": "Tue, Jun 16",
       "dateLong": "Tuesday, June 16",
       "dayStart": "10:03",
-      "dayEnd": "10:29",
+      "dayEnd": "21:21",
       "events": [
         {
           "start": "10:03",
@@ -10905,19 +11202,291 @@
           "end": "10:29",
           "cat": "admin",
           "src": "chrome",
-          "title": "Presentation.pptx",
+          "title": "Google Translate",
           "note": "mqoutlook-my.sharepoint.com"
+        },
+        {
+          "start": "10:29",
+          "end": "10:33",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Projects - Claude",
+          "note": "claude.ai"
+        },
+        {
+          "start": "10:34",
+          "end": "10:41",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Ada's Notes",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "10:41",
+          "end": "10:47",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "10:47",
+          "end": "10:50",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Spotify - Web Player: Music for everyone",
+          "note": "open.spotify.com"
+        },
+        {
+          "start": "10:50",
+          "end": "11:31",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "11:50",
+          "end": "11:56",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Ada's Notes",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "11:57",
+          "end": "12:06",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Login - Mistral AI",
+          "note": "v2.auth.mistral.ai"
+        },
+        {
+          "start": "12:06",
+          "end": "12:17",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Login - Mistral AI",
+          "note": "v2.auth.mistral.ai"
+        },
+        {
+          "start": "12:17",
+          "end": "12:25",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "NetBank - Transfers & BPAY",
+          "note": "accounts.google.com"
+        },
+        {
+          "start": "12:26",
+          "end": "12:39",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "CommSec Financial Services Guide",
+          "note": "commsec.com.au"
+        },
+        {
+          "start": "13:35",
+          "end": "13:42",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Why Trade Globally with IBKR? | Interactive Brokers Australi",
+          "note": "google.com"
+        },
+        {
+          "start": "13:42",
+          "end": "13:55",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Why Trade Globally with IBKR? | Interactive Brokers Australi",
+          "note": "google.com"
+        },
+        {
+          "start": "13:55",
+          "end": "13:59",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Application",
+          "note": "interactivebrokers.com.au"
+        },
+        {
+          "start": "14:00",
+          "end": "14:02",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Application",
+          "note": "interactivebrokers.com.au"
+        },
+        {
+          "start": "14:02",
+          "end": "14:29",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Consular Electronic Application Center - Confirm Application",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "14:29",
+          "end": "14:32",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Consular Electronic Application Center - Confirm Application",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "14:32",
+          "end": "14:49",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "New York Marriott Marquis - Google Maps",
+          "note": "maps.google.com"
+        },
+        {
+          "start": "14:49",
+          "end": "14:57",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Nonimmigrant Visa - U.S. Point of Contact Information",
+          "note": "ceac.state.gov"
+        },
+        {
+          "start": "14:57",
+          "end": "15:11",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(11) X 上的 Mike Solana：“the purpose is not to remove young pe",
+          "note": "x.com"
+        },
+        {
+          "start": "15:11",
+          "end": "15:18",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Introducing the OpenAI Partner Network | Ada's Notes",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "15:18",
+          "end": "15:47",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Introducing the OpenAI Partner Network | Ada's Notes",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "15:59",
+          "end": "16:02",
+          "cat": "writing",
+          "src": "chrome",
+          "title": "Zotero | Your personal research assistant",
+          "note": "zotero.org"
+        },
+        {
+          "start": "16:02",
+          "end": "16:20",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Paper reading explanations in English and Chinese - Claude",
+          "note": "claude.ai"
+        },
+        {
+          "start": "16:20",
+          "end": "16:23",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "16:25",
+          "end": "16:28",
+          "cat": "research",
+          "src": "chrome",
+          "title": "ed91353f700d113e5d848c7e04a858b0-Paper-Conference.pdf",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "16:31",
+          "end": "16:48",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "16:49",
+          "end": "17:15",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Agentic DraCor and the Art of Docstring Engineering: Evaluat",
+          "note": "researchgate.net"
+        },
+        {
+          "start": "17:15",
+          "end": "17:27",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Introducing the OpenAI Partner Network | OpenAI",
+          "note": "openai.com"
+        },
+        {
+          "start": "17:27",
+          "end": "17:28",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "17:28",
+          "end": "17:35",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "OpenAPI Specification - Version 3.1.0 | Swagger",
+          "note": "swagger.io"
+        },
+        {
+          "start": "17:35",
+          "end": "17:43",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "17:43",
+          "end": "18:07",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "PEP 257 – Docstring Conventions | peps.python.org",
+          "note": "peps.python.org"
+        },
+        {
+          "start": "20:07",
+          "end": "20:10",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "dungeon chinese - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "20:10",
+          "end": "21:21",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Google Translate",
+          "note": "translate.google.com"
         }
       ],
-      "logged": 25,
-      "real": 5,
-      "deep": 5,
-      "ratio": 0.19978927479307615,
+      "logged": 460,
+      "real": 170,
+      "deep": 170,
+      "ratio": 0.3700567139715734,
       "stats": {
-        "contextSwitches": 1,
-        "tabsOpened": 3,
-        "longestFocus": "5m",
-        "justOneMoreThing": 0
+        "contextSwitches": 27,
+        "tabsOpened": 105,
+        "longestFocus": "56m",
+        "justOneMoreThing": 3
       }
     },
     {
@@ -10927,16 +11496,41 @@
       "weekend": false,
       "dateShort": "Wed, Jun 17",
       "dateLong": "Wednesday, June 17",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
+      "dayStart": "09:51",
+      "dayEnd": "10:36",
+      "events": [
+        {
+          "start": "09:51",
+          "end": "09:56",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(1) Thariq (@trq212) / X",
+          "note": "x.com"
+        },
+        {
+          "start": "09:57",
+          "end": "10:25",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "FW: 908/112 Talavera Road Macquarie Park overpaid rent - ada",
+          "note": "accounts.google.com"
+        },
+        {
+          "start": "10:25",
+          "end": "10:36",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Origin Energy",
+          "note": "google.com"
+        }
+      ],
+      "logged": 44,
       "real": 0,
       "deep": 0,
-      "ratio": 0,
+      "ratio": 0.0,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
+        "contextSwitches": 2,
+        "tabsOpened": 9,
         "longestFocus": "0m",
         "justOneMoreThing": 0
       }
