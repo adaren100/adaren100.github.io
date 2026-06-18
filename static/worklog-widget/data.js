@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-06-17T10:20:07+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-06-18T10:20:09+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -8723,314 +8723,314 @@
         "weekend": false
       },
       {
-        "key": "2026-6-16",
-        "dayNum": 16,
-        "dow": 2,
-        "weekend": false,
-        "dateShort": "Tue, Jun 16",
         "dateLong": "Tuesday, June 16",
-        "dayStart": "10:03",
+        "dateShort": "Tue, Jun 16",
         "dayEnd": "21:21",
+        "dayNum": 16,
+        "dayStart": "10:03",
+        "deep": 170,
+        "dow": 2,
         "events": [
           {
-            "start": "10:03",
+            "cat": "writing",
             "end": "10:08",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "2026-06-16-introducing-the-openai-partner-network.md",
-            "note": "1 hit"
+            "start": "10:03",
+            "title": "2026-06-16-introducing-the-openai-partner-network.md"
           },
           {
-            "start": "10:09",
+            "cat": "admin",
             "end": "10:29",
-            "cat": "admin",
+            "note": "mqoutlook-my.sharepoint.com",
             "src": "chrome",
-            "title": "Google Translate",
-            "note": "mqoutlook-my.sharepoint.com"
+            "start": "10:09",
+            "title": "Google Translate"
           },
           {
-            "start": "10:29",
+            "cat": "coding",
             "end": "10:33",
-            "cat": "coding",
+            "note": "claude.ai",
             "src": "chrome",
-            "title": "Projects - Claude",
-            "note": "claude.ai"
+            "start": "10:29",
+            "title": "Projects - Claude"
           },
           {
-            "start": "10:34",
+            "cat": "research",
             "end": "10:41",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "chrome",
-            "title": "Ada's Notes",
-            "note": "adaren100.github.io"
+            "start": "10:34",
+            "title": "Ada's Notes"
           },
           {
-            "start": "10:41",
+            "cat": "admin",
             "end": "10:47",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "chrome",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "10:41",
+            "title": "Google Translate"
           },
           {
-            "start": "10:47",
+            "cat": "personal",
             "end": "10:50",
-            "cat": "personal",
+            "note": "open.spotify.com",
             "src": "chrome",
-            "title": "Spotify - Web Player: Music for everyone",
-            "note": "open.spotify.com"
+            "start": "10:47",
+            "title": "Spotify - Web Player: Music for everyone"
           },
           {
-            "start": "10:50",
+            "cat": "admin",
             "end": "11:31",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "chrome",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "10:50",
+            "title": "Google Translate"
           },
           {
-            "start": "11:50",
+            "cat": "research",
             "end": "11:56",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "chrome",
-            "title": "Ada's Notes",
-            "note": "adaren100.github.io"
+            "start": "11:50",
+            "title": "Ada's Notes"
           },
           {
-            "start": "11:57",
+            "cat": "coding",
             "end": "12:06",
-            "cat": "coding",
+            "note": "v2.auth.mistral.ai",
             "src": "chrome",
-            "title": "Login - Mistral AI",
-            "note": "v2.auth.mistral.ai"
+            "start": "11:57",
+            "title": "Login - Mistral AI"
           },
           {
-            "start": "12:06",
+            "cat": "coding",
             "end": "12:17",
-            "cat": "coding",
+            "note": "v2.auth.mistral.ai",
             "src": "chrome",
-            "title": "Login - Mistral AI",
-            "note": "v2.auth.mistral.ai"
+            "start": "12:06",
+            "title": "Login - Mistral AI"
           },
           {
-            "start": "12:17",
+            "cat": "admin",
             "end": "12:25",
-            "cat": "admin",
+            "note": "accounts.google.com",
             "src": "chrome",
-            "title": "NetBank - Transfers & BPAY",
-            "note": "accounts.google.com"
+            "start": "12:17",
+            "title": "NetBank - Transfers & BPAY"
           },
           {
-            "start": "12:26",
+            "cat": "admin",
             "end": "12:39",
-            "cat": "admin",
+            "note": "commsec.com.au",
             "src": "chrome",
-            "title": "CommSec Financial Services Guide",
-            "note": "commsec.com.au"
+            "start": "12:26",
+            "title": "CommSec Financial Services Guide"
           },
           {
-            "start": "13:35",
+            "cat": "personal",
             "end": "13:42",
-            "cat": "personal",
+            "note": "google.com",
             "src": "chrome",
-            "title": "Why Trade Globally with IBKR? | Interactive Brokers Australi",
-            "note": "google.com"
+            "start": "13:35",
+            "title": "Why Trade Globally with IBKR? | Interactive Brokers Australi"
           },
           {
-            "start": "13:42",
+            "cat": "personal",
             "end": "13:55",
-            "cat": "personal",
+            "note": "google.com",
             "src": "chrome",
-            "title": "Why Trade Globally with IBKR? | Interactive Brokers Australi",
-            "note": "google.com"
+            "start": "13:42",
+            "title": "Why Trade Globally with IBKR? | Interactive Brokers Australi"
           },
           {
-            "start": "13:55",
+            "cat": "admin",
             "end": "13:59",
-            "cat": "admin",
+            "note": "interactivebrokers.com.au",
             "src": "chrome",
-            "title": "Application",
-            "note": "interactivebrokers.com.au"
+            "start": "13:55",
+            "title": "Application"
           },
           {
-            "start": "14:00",
+            "cat": "admin",
             "end": "14:02",
-            "cat": "admin",
+            "note": "interactivebrokers.com.au",
             "src": "chrome",
-            "title": "Application",
-            "note": "interactivebrokers.com.au"
+            "start": "14:00",
+            "title": "Application"
           },
           {
-            "start": "14:02",
+            "cat": "admin",
             "end": "14:29",
-            "cat": "admin",
+            "note": "mail.google.com",
             "src": "chrome",
-            "title": "Consular Electronic Application Center - Confirm Application",
-            "note": "mail.google.com"
+            "start": "14:02",
+            "title": "Consular Electronic Application Center - Confirm Application"
           },
           {
-            "start": "14:29",
+            "cat": "admin",
             "end": "14:32",
-            "cat": "admin",
+            "note": "mail.google.com",
             "src": "chrome",
-            "title": "Consular Electronic Application Center - Confirm Application",
-            "note": "mail.google.com"
+            "start": "14:29",
+            "title": "Consular Electronic Application Center - Confirm Application"
           },
           {
-            "start": "14:32",
+            "cat": "personal",
             "end": "14:49",
-            "cat": "personal",
+            "note": "maps.google.com",
             "src": "chrome",
-            "title": "New York Marriott Marquis - Google Maps",
-            "note": "maps.google.com"
+            "start": "14:32",
+            "title": "New York Marriott Marquis - Google Maps"
           },
           {
-            "start": "14:49",
+            "cat": "admin",
             "end": "14:57",
-            "cat": "admin",
+            "note": "ceac.state.gov",
             "src": "chrome",
-            "title": "Nonimmigrant Visa - U.S. Point of Contact Information",
-            "note": "ceac.state.gov"
+            "start": "14:49",
+            "title": "Nonimmigrant Visa - U.S. Point of Contact Information"
           },
           {
-            "start": "14:57",
+            "cat": "personal",
             "end": "15:11",
-            "cat": "personal",
+            "note": "x.com",
             "src": "chrome",
-            "title": "(11) X 上的 Mike Solana：“the purpose is not to remove young pe",
-            "note": "x.com"
+            "start": "14:57",
+            "title": "(11) X 上的 Mike Solana：“the purpose is not to remove young pe"
           },
           {
-            "start": "15:11",
+            "cat": "research",
             "end": "15:18",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "chrome",
-            "title": "Introducing the OpenAI Partner Network | Ada's Notes",
-            "note": "adaren100.github.io"
+            "start": "15:11",
+            "title": "Introducing the OpenAI Partner Network | Ada's Notes"
           },
           {
-            "start": "15:18",
+            "cat": "research",
             "end": "15:47",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "chrome",
-            "title": "Introducing the OpenAI Partner Network | Ada's Notes",
-            "note": "adaren100.github.io"
+            "start": "15:18",
+            "title": "Introducing the OpenAI Partner Network | Ada's Notes"
           },
           {
-            "start": "15:59",
-            "end": "16:02",
             "cat": "writing",
+            "end": "16:02",
+            "note": "zotero.org",
             "src": "chrome",
-            "title": "Zotero | Your personal research assistant",
-            "note": "zotero.org"
+            "start": "15:59",
+            "title": "Zotero | Your personal research assistant"
           },
           {
-            "start": "16:02",
+            "cat": "coding",
             "end": "16:20",
-            "cat": "coding",
+            "note": "claude.ai",
             "src": "chrome",
-            "title": "Paper reading explanations in English and Chinese - Claude",
-            "note": "claude.ai"
+            "start": "16:02",
+            "title": "Paper reading explanations in English and Chinese - Claude"
           },
           {
-            "start": "16:20",
+            "cat": "admin",
             "end": "16:23",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "chrome",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "16:20",
+            "title": "Google Translate"
           },
           {
-            "start": "16:25",
+            "cat": "research",
             "end": "16:28",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "chrome",
-            "title": "ed91353f700d113e5d848c7e04a858b0-Paper-Conference.pdf",
-            "note": "arxiv.org"
+            "start": "16:25",
+            "title": "ed91353f700d113e5d848c7e04a858b0-Paper-Conference.pdf"
           },
           {
-            "start": "16:31",
+            "cat": "admin",
             "end": "16:48",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "chrome",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "16:31",
+            "title": "Google Translate"
           },
           {
-            "start": "16:49",
+            "cat": "research",
             "end": "17:15",
-            "cat": "research",
+            "note": "researchgate.net",
             "src": "chrome",
-            "title": "Agentic DraCor and the Art of Docstring Engineering: Evaluat",
-            "note": "researchgate.net"
+            "start": "16:49",
+            "title": "Agentic DraCor and the Art of Docstring Engineering: Evaluat"
           },
           {
-            "start": "17:15",
+            "cat": "research",
             "end": "17:27",
-            "cat": "research",
+            "note": "openai.com",
             "src": "chrome",
-            "title": "Introducing the OpenAI Partner Network | OpenAI",
-            "note": "openai.com"
+            "start": "17:15",
+            "title": "Introducing the OpenAI Partner Network | OpenAI"
           },
           {
-            "start": "17:27",
+            "cat": "admin",
             "end": "17:28",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "chrome",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "17:27",
+            "title": "Google Translate"
           },
           {
-            "start": "17:28",
+            "cat": "coding",
             "end": "17:35",
-            "cat": "coding",
+            "note": "swagger.io",
             "src": "chrome",
-            "title": "OpenAPI Specification - Version 3.1.0 | Swagger",
-            "note": "swagger.io"
+            "start": "17:28",
+            "title": "OpenAPI Specification - Version 3.1.0 | Swagger"
           },
           {
-            "start": "17:35",
+            "cat": "admin",
             "end": "17:43",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "chrome",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "17:35",
+            "title": "Google Translate"
           },
           {
-            "start": "17:43",
-            "end": "18:07",
             "cat": "coding",
+            "end": "18:07",
+            "note": "peps.python.org",
             "src": "chrome",
-            "title": "PEP 257 – Docstring Conventions | peps.python.org",
-            "note": "peps.python.org"
+            "start": "17:43",
+            "title": "PEP 257 – Docstring Conventions | peps.python.org"
           },
           {
-            "start": "20:07",
-            "end": "20:10",
             "cat": "personal",
+            "end": "20:10",
+            "note": "google.com",
             "src": "chrome",
-            "title": "dungeon chinese - Google Search",
-            "note": "google.com"
+            "start": "20:07",
+            "title": "dungeon chinese - Google Search"
           },
           {
-            "start": "20:10",
-            "end": "21:21",
             "cat": "admin",
+            "end": "21:21",
+            "note": "translate.google.com",
             "src": "chrome",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "20:10",
+            "title": "Google Translate"
           }
         ],
+        "key": "2026-6-16",
         "logged": 460,
-        "real": 170,
-        "deep": 170,
         "ratio": 0.3700567139715734,
+        "real": 170,
         "stats": {
           "contextSwitches": 27,
-          "tabsOpened": 105,
+          "justOneMoreThing": 3,
           "longestFocus": "56m",
-          "justOneMoreThing": 3
-        }
+          "tabsOpened": 105
+        },
+        "weekend": false
       },
       {
         "key": "2026-6-17",
@@ -9040,7 +9040,7 @@
         "dateShort": "Wed, Jun 17",
         "dateLong": "Wednesday, June 17",
         "dayStart": "09:51",
-        "dayEnd": "10:36",
+        "dayEnd": "17:49",
         "events": [
           {
             "start": "09:51",
@@ -9065,17 +9065,281 @@
             "src": "chrome",
             "title": "Origin Energy",
             "note": "google.com"
+          },
+          {
+            "start": "10:36",
+            "end": "10:42",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "A harness for every task: dynamic workflows in Claude Code |",
+            "note": "linkedin.com"
+          },
+          {
+            "start": "10:42",
+            "end": "10:43",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Electronic delivery of CHESS notifications",
+            "note": "google.com"
+          },
+          {
+            "start": "10:43",
+            "end": "10:49",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Learn Quiz",
+            "note": "gist.github.com"
+          },
+          {
+            "start": "10:51",
+            "end": "10:59",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Using Claude Code: The unreasonable effectiveness of HTML | ",
+            "note": "claude.com"
+          },
+          {
+            "start": "11:01",
+            "end": "11:06",
+            "cat": "research",
+            "src": "chrome",
+            "title": "A harness for every task: dynamic workflows in Claude Code |",
+            "note": "claude.com"
+          },
+          {
+            "start": "11:08",
+            "end": "11:14",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "11:16",
+            "end": "11:36",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Paper page - Data Journalist Agent: Transforming Data into V",
+            "note": "google.com"
+          },
+          {
+            "start": "11:37",
+            "end": "11:45",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "11:45",
+            "end": "11:48",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "youtube-nocookie.com",
+            "note": "youtube-nocookie.com"
+          },
+          {
+            "start": "11:49",
+            "end": "11:57",
+            "cat": "research",
+            "src": "chrome",
+            "title": "How Anthropic enables self-service data analytics with Claud",
+            "note": "claude.com"
+          },
+          {
+            "start": "11:57",
+            "end": "12:08",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Design rationale explanation - Claude",
+            "note": "claude.ai"
+          },
+          {
+            "start": "12:08",
+            "end": "12:35",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "13:20",
+            "end": "13:40",
+            "cat": "research",
+            "src": "chrome",
+            "title": "SemEval-2026 Task 9: Detecting Multilingual, Multicultural a",
+            "note": "url.au.m.mimecastprotect.com"
+          },
+          {
+            "start": "13:40",
+            "end": "14:20",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "SemEval 2026 - Track Manager Console",
+            "note": "softconf.com"
+          },
+          {
+            "start": "14:20",
+            "end": "14:27",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Data Management Plan v1.7 - FoRA",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "14:27",
+            "end": "14:52",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(36) Morning Reset ☀️ Cozy Café Music for Work & Focus - You",
+            "note": "youtube.com"
+          },
+          {
+            "start": "14:53",
+            "end": "14:57",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Quick Sounding Board and Feedback - Google Gemini",
+            "note": "gemini.google.com"
+          },
+          {
+            "start": "14:57",
+            "end": "15:05",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "15:05",
+            "end": "15:08",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Ctrl+F \"Next\" Sentence Logic Explained - Google Gemini",
+            "note": "gemini.google.com"
+          },
+          {
+            "start": "15:09",
+            "end": "15:29",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Next sentence vs current sentence in lookup function - Claud",
+            "note": "claude.ai"
+          },
+          {
+            "start": "15:34",
+            "end": "15:36",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Google Gemini",
+            "note": "gemini.google.com"
+          },
+          {
+            "start": "15:37",
+            "end": "15:51",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "15:52",
+            "end": "15:54",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(1) Andrej Karpathy (@karpathy) / X",
+            "note": "x.com"
+          },
+          {
+            "start": "15:55",
+            "end": "16:03",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "16:03",
+            "end": "16:09",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(36) Morning Work Flow ☕ Relaxing Jazz for Focus & Smooth Pr",
+            "note": "youtube.com"
+          },
+          {
+            "start": "16:09",
+            "end": "16:16",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Prompt Robustness Through Trajectory Permutations - Google G",
+            "note": "gemini.google.com"
+          },
+          {
+            "start": "16:17",
+            "end": "16:23",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "nichle finish - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "16:26",
+            "end": "16:36",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "16:36",
+            "end": "16:43",
+            "cat": "research",
+            "src": "chrome",
+            "title": "ReAct: 整合行动与推理 - Google Gemini",
+            "note": "gemini.google.com"
+          },
+          {
+            "start": "16:43",
+            "end": "17:04",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "SemEval 2026 - Track Manager Console",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "17:04",
+            "end": "17:14",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "SemEval 2026 - Track Manager Console",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "17:14",
+            "end": "17:29",
+            "cat": "writing",
+            "src": "chrome",
+            "title": "POLAR - Resource Paper_ARR_Jan2026 - Online LaTeX Editor Ove",
+            "note": "overleaf.com"
+          },
+          {
+            "start": "17:29",
+            "end": "17:49",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Paper Update: UNED Citation Error - Google Gemini",
+            "note": "gemini.google.com"
           }
         ],
-        "logged": 44,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0.0,
+        "logged": 409,
+        "real": 155,
+        "deep": 155,
+        "ratio": 0.38043071847325144,
         "stats": {
-          "contextSwitches": 2,
-          "tabsOpened": 9,
-          "longestFocus": "0m",
-          "justOneMoreThing": 0
+          "contextSwitches": 32,
+          "tabsOpened": 108,
+          "longestFocus": "35m",
+          "justOneMoreThing": 2
         }
       },
       {
@@ -9085,16 +9349,33 @@
         "weekend": false,
         "dateShort": "Thu, Jun 18",
         "dateLong": "Thursday, June 18",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
+        "dayStart": "10:02",
+        "dayEnd": "10:22",
+        "events": [
+          {
+            "start": "10:02",
+            "end": "10:15",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "ring - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "10:15",
+            "end": "10:22",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "908/112 TALAVERA ROAD, MACQUARIE PARK, - ada.ren.cn@gmail.co",
+            "note": "mail.google.com"
+          }
+        ],
+        "logged": 20,
         "real": 0,
         "deep": 0,
-        "ratio": 0,
+        "ratio": 0.0,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
+          "contextSwitches": 1,
+          "tabsOpened": 6,
           "longestFocus": "0m",
           "justOneMoreThing": 0
         }
@@ -11180,314 +11461,314 @@
       "weekend": false
     },
     {
-      "key": "2026-6-16",
-      "dayNum": 16,
-      "dow": 2,
-      "weekend": false,
-      "dateShort": "Tue, Jun 16",
       "dateLong": "Tuesday, June 16",
-      "dayStart": "10:03",
+      "dateShort": "Tue, Jun 16",
       "dayEnd": "21:21",
+      "dayNum": 16,
+      "dayStart": "10:03",
+      "deep": 170,
+      "dow": 2,
       "events": [
         {
-          "start": "10:03",
+          "cat": "writing",
           "end": "10:08",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "2026-06-16-introducing-the-openai-partner-network.md",
-          "note": "1 hit"
+          "start": "10:03",
+          "title": "2026-06-16-introducing-the-openai-partner-network.md"
         },
         {
-          "start": "10:09",
+          "cat": "admin",
           "end": "10:29",
-          "cat": "admin",
+          "note": "mqoutlook-my.sharepoint.com",
           "src": "chrome",
-          "title": "Google Translate",
-          "note": "mqoutlook-my.sharepoint.com"
+          "start": "10:09",
+          "title": "Google Translate"
         },
         {
-          "start": "10:29",
+          "cat": "coding",
           "end": "10:33",
-          "cat": "coding",
+          "note": "claude.ai",
           "src": "chrome",
-          "title": "Projects - Claude",
-          "note": "claude.ai"
+          "start": "10:29",
+          "title": "Projects - Claude"
         },
         {
-          "start": "10:34",
+          "cat": "research",
           "end": "10:41",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "chrome",
-          "title": "Ada's Notes",
-          "note": "adaren100.github.io"
+          "start": "10:34",
+          "title": "Ada's Notes"
         },
         {
-          "start": "10:41",
+          "cat": "admin",
           "end": "10:47",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "chrome",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "10:41",
+          "title": "Google Translate"
         },
         {
-          "start": "10:47",
+          "cat": "personal",
           "end": "10:50",
-          "cat": "personal",
+          "note": "open.spotify.com",
           "src": "chrome",
-          "title": "Spotify - Web Player: Music for everyone",
-          "note": "open.spotify.com"
+          "start": "10:47",
+          "title": "Spotify - Web Player: Music for everyone"
         },
         {
-          "start": "10:50",
+          "cat": "admin",
           "end": "11:31",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "chrome",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "10:50",
+          "title": "Google Translate"
         },
         {
-          "start": "11:50",
+          "cat": "research",
           "end": "11:56",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "chrome",
-          "title": "Ada's Notes",
-          "note": "adaren100.github.io"
+          "start": "11:50",
+          "title": "Ada's Notes"
         },
         {
-          "start": "11:57",
+          "cat": "coding",
           "end": "12:06",
-          "cat": "coding",
+          "note": "v2.auth.mistral.ai",
           "src": "chrome",
-          "title": "Login - Mistral AI",
-          "note": "v2.auth.mistral.ai"
+          "start": "11:57",
+          "title": "Login - Mistral AI"
         },
         {
-          "start": "12:06",
+          "cat": "coding",
           "end": "12:17",
-          "cat": "coding",
+          "note": "v2.auth.mistral.ai",
           "src": "chrome",
-          "title": "Login - Mistral AI",
-          "note": "v2.auth.mistral.ai"
+          "start": "12:06",
+          "title": "Login - Mistral AI"
         },
         {
-          "start": "12:17",
+          "cat": "admin",
           "end": "12:25",
-          "cat": "admin",
+          "note": "accounts.google.com",
           "src": "chrome",
-          "title": "NetBank - Transfers & BPAY",
-          "note": "accounts.google.com"
+          "start": "12:17",
+          "title": "NetBank - Transfers & BPAY"
         },
         {
-          "start": "12:26",
+          "cat": "admin",
           "end": "12:39",
-          "cat": "admin",
+          "note": "commsec.com.au",
           "src": "chrome",
-          "title": "CommSec Financial Services Guide",
-          "note": "commsec.com.au"
+          "start": "12:26",
+          "title": "CommSec Financial Services Guide"
         },
         {
-          "start": "13:35",
+          "cat": "personal",
           "end": "13:42",
-          "cat": "personal",
+          "note": "google.com",
           "src": "chrome",
-          "title": "Why Trade Globally with IBKR? | Interactive Brokers Australi",
-          "note": "google.com"
+          "start": "13:35",
+          "title": "Why Trade Globally with IBKR? | Interactive Brokers Australi"
         },
         {
-          "start": "13:42",
+          "cat": "personal",
           "end": "13:55",
-          "cat": "personal",
+          "note": "google.com",
           "src": "chrome",
-          "title": "Why Trade Globally with IBKR? | Interactive Brokers Australi",
-          "note": "google.com"
+          "start": "13:42",
+          "title": "Why Trade Globally with IBKR? | Interactive Brokers Australi"
         },
         {
-          "start": "13:55",
+          "cat": "admin",
           "end": "13:59",
-          "cat": "admin",
+          "note": "interactivebrokers.com.au",
           "src": "chrome",
-          "title": "Application",
-          "note": "interactivebrokers.com.au"
+          "start": "13:55",
+          "title": "Application"
         },
         {
-          "start": "14:00",
+          "cat": "admin",
           "end": "14:02",
-          "cat": "admin",
+          "note": "interactivebrokers.com.au",
           "src": "chrome",
-          "title": "Application",
-          "note": "interactivebrokers.com.au"
+          "start": "14:00",
+          "title": "Application"
         },
         {
-          "start": "14:02",
+          "cat": "admin",
           "end": "14:29",
-          "cat": "admin",
+          "note": "mail.google.com",
           "src": "chrome",
-          "title": "Consular Electronic Application Center - Confirm Application",
-          "note": "mail.google.com"
+          "start": "14:02",
+          "title": "Consular Electronic Application Center - Confirm Application"
         },
         {
-          "start": "14:29",
+          "cat": "admin",
           "end": "14:32",
-          "cat": "admin",
+          "note": "mail.google.com",
           "src": "chrome",
-          "title": "Consular Electronic Application Center - Confirm Application",
-          "note": "mail.google.com"
+          "start": "14:29",
+          "title": "Consular Electronic Application Center - Confirm Application"
         },
         {
-          "start": "14:32",
+          "cat": "personal",
           "end": "14:49",
-          "cat": "personal",
+          "note": "maps.google.com",
           "src": "chrome",
-          "title": "New York Marriott Marquis - Google Maps",
-          "note": "maps.google.com"
+          "start": "14:32",
+          "title": "New York Marriott Marquis - Google Maps"
         },
         {
-          "start": "14:49",
+          "cat": "admin",
           "end": "14:57",
-          "cat": "admin",
+          "note": "ceac.state.gov",
           "src": "chrome",
-          "title": "Nonimmigrant Visa - U.S. Point of Contact Information",
-          "note": "ceac.state.gov"
+          "start": "14:49",
+          "title": "Nonimmigrant Visa - U.S. Point of Contact Information"
         },
         {
-          "start": "14:57",
+          "cat": "personal",
           "end": "15:11",
-          "cat": "personal",
+          "note": "x.com",
           "src": "chrome",
-          "title": "(11) X 上的 Mike Solana：“the purpose is not to remove young pe",
-          "note": "x.com"
+          "start": "14:57",
+          "title": "(11) X 上的 Mike Solana：“the purpose is not to remove young pe"
         },
         {
-          "start": "15:11",
+          "cat": "research",
           "end": "15:18",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "chrome",
-          "title": "Introducing the OpenAI Partner Network | Ada's Notes",
-          "note": "adaren100.github.io"
+          "start": "15:11",
+          "title": "Introducing the OpenAI Partner Network | Ada's Notes"
         },
         {
-          "start": "15:18",
+          "cat": "research",
           "end": "15:47",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "chrome",
-          "title": "Introducing the OpenAI Partner Network | Ada's Notes",
-          "note": "adaren100.github.io"
+          "start": "15:18",
+          "title": "Introducing the OpenAI Partner Network | Ada's Notes"
         },
         {
-          "start": "15:59",
-          "end": "16:02",
           "cat": "writing",
+          "end": "16:02",
+          "note": "zotero.org",
           "src": "chrome",
-          "title": "Zotero | Your personal research assistant",
-          "note": "zotero.org"
+          "start": "15:59",
+          "title": "Zotero | Your personal research assistant"
         },
         {
-          "start": "16:02",
+          "cat": "coding",
           "end": "16:20",
-          "cat": "coding",
+          "note": "claude.ai",
           "src": "chrome",
-          "title": "Paper reading explanations in English and Chinese - Claude",
-          "note": "claude.ai"
+          "start": "16:02",
+          "title": "Paper reading explanations in English and Chinese - Claude"
         },
         {
-          "start": "16:20",
+          "cat": "admin",
           "end": "16:23",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "chrome",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "16:20",
+          "title": "Google Translate"
         },
         {
-          "start": "16:25",
+          "cat": "research",
           "end": "16:28",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "chrome",
-          "title": "ed91353f700d113e5d848c7e04a858b0-Paper-Conference.pdf",
-          "note": "arxiv.org"
+          "start": "16:25",
+          "title": "ed91353f700d113e5d848c7e04a858b0-Paper-Conference.pdf"
         },
         {
-          "start": "16:31",
+          "cat": "admin",
           "end": "16:48",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "chrome",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "16:31",
+          "title": "Google Translate"
         },
         {
-          "start": "16:49",
+          "cat": "research",
           "end": "17:15",
-          "cat": "research",
+          "note": "researchgate.net",
           "src": "chrome",
-          "title": "Agentic DraCor and the Art of Docstring Engineering: Evaluat",
-          "note": "researchgate.net"
+          "start": "16:49",
+          "title": "Agentic DraCor and the Art of Docstring Engineering: Evaluat"
         },
         {
-          "start": "17:15",
+          "cat": "research",
           "end": "17:27",
-          "cat": "research",
+          "note": "openai.com",
           "src": "chrome",
-          "title": "Introducing the OpenAI Partner Network | OpenAI",
-          "note": "openai.com"
+          "start": "17:15",
+          "title": "Introducing the OpenAI Partner Network | OpenAI"
         },
         {
-          "start": "17:27",
+          "cat": "admin",
           "end": "17:28",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "chrome",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "17:27",
+          "title": "Google Translate"
         },
         {
-          "start": "17:28",
+          "cat": "coding",
           "end": "17:35",
-          "cat": "coding",
+          "note": "swagger.io",
           "src": "chrome",
-          "title": "OpenAPI Specification - Version 3.1.0 | Swagger",
-          "note": "swagger.io"
+          "start": "17:28",
+          "title": "OpenAPI Specification - Version 3.1.0 | Swagger"
         },
         {
-          "start": "17:35",
+          "cat": "admin",
           "end": "17:43",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "chrome",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "17:35",
+          "title": "Google Translate"
         },
         {
-          "start": "17:43",
-          "end": "18:07",
           "cat": "coding",
+          "end": "18:07",
+          "note": "peps.python.org",
           "src": "chrome",
-          "title": "PEP 257 – Docstring Conventions | peps.python.org",
-          "note": "peps.python.org"
+          "start": "17:43",
+          "title": "PEP 257 – Docstring Conventions | peps.python.org"
         },
         {
-          "start": "20:07",
-          "end": "20:10",
           "cat": "personal",
+          "end": "20:10",
+          "note": "google.com",
           "src": "chrome",
-          "title": "dungeon chinese - Google Search",
-          "note": "google.com"
+          "start": "20:07",
+          "title": "dungeon chinese - Google Search"
         },
         {
-          "start": "20:10",
-          "end": "21:21",
           "cat": "admin",
+          "end": "21:21",
+          "note": "translate.google.com",
           "src": "chrome",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "20:10",
+          "title": "Google Translate"
         }
       ],
+      "key": "2026-6-16",
       "logged": 460,
-      "real": 170,
-      "deep": 170,
       "ratio": 0.3700567139715734,
+      "real": 170,
       "stats": {
         "contextSwitches": 27,
-        "tabsOpened": 105,
+        "justOneMoreThing": 3,
         "longestFocus": "56m",
-        "justOneMoreThing": 3
-      }
+        "tabsOpened": 105
+      },
+      "weekend": false
     },
     {
       "key": "2026-6-17",
@@ -11497,7 +11778,7 @@
       "dateShort": "Wed, Jun 17",
       "dateLong": "Wednesday, June 17",
       "dayStart": "09:51",
-      "dayEnd": "10:36",
+      "dayEnd": "17:49",
       "events": [
         {
           "start": "09:51",
@@ -11522,17 +11803,281 @@
           "src": "chrome",
           "title": "Origin Energy",
           "note": "google.com"
+        },
+        {
+          "start": "10:36",
+          "end": "10:42",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "A harness for every task: dynamic workflows in Claude Code |",
+          "note": "linkedin.com"
+        },
+        {
+          "start": "10:42",
+          "end": "10:43",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Electronic delivery of CHESS notifications",
+          "note": "google.com"
+        },
+        {
+          "start": "10:43",
+          "end": "10:49",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Learn Quiz",
+          "note": "gist.github.com"
+        },
+        {
+          "start": "10:51",
+          "end": "10:59",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Using Claude Code: The unreasonable effectiveness of HTML | ",
+          "note": "claude.com"
+        },
+        {
+          "start": "11:01",
+          "end": "11:06",
+          "cat": "research",
+          "src": "chrome",
+          "title": "A harness for every task: dynamic workflows in Claude Code |",
+          "note": "claude.com"
+        },
+        {
+          "start": "11:08",
+          "end": "11:14",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "11:16",
+          "end": "11:36",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Paper page - Data Journalist Agent: Transforming Data into V",
+          "note": "google.com"
+        },
+        {
+          "start": "11:37",
+          "end": "11:45",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "11:45",
+          "end": "11:48",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "youtube-nocookie.com",
+          "note": "youtube-nocookie.com"
+        },
+        {
+          "start": "11:49",
+          "end": "11:57",
+          "cat": "research",
+          "src": "chrome",
+          "title": "How Anthropic enables self-service data analytics with Claud",
+          "note": "claude.com"
+        },
+        {
+          "start": "11:57",
+          "end": "12:08",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Design rationale explanation - Claude",
+          "note": "claude.ai"
+        },
+        {
+          "start": "12:08",
+          "end": "12:35",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "13:20",
+          "end": "13:40",
+          "cat": "research",
+          "src": "chrome",
+          "title": "SemEval-2026 Task 9: Detecting Multilingual, Multicultural a",
+          "note": "url.au.m.mimecastprotect.com"
+        },
+        {
+          "start": "13:40",
+          "end": "14:20",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "SemEval 2026 - Track Manager Console",
+          "note": "softconf.com"
+        },
+        {
+          "start": "14:20",
+          "end": "14:27",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Data Management Plan v1.7 - FoRA",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "14:27",
+          "end": "14:52",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(36) Morning Reset ☀️ Cozy Café Music for Work & Focus - You",
+          "note": "youtube.com"
+        },
+        {
+          "start": "14:53",
+          "end": "14:57",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Quick Sounding Board and Feedback - Google Gemini",
+          "note": "gemini.google.com"
+        },
+        {
+          "start": "14:57",
+          "end": "15:05",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "15:05",
+          "end": "15:08",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Ctrl+F \"Next\" Sentence Logic Explained - Google Gemini",
+          "note": "gemini.google.com"
+        },
+        {
+          "start": "15:09",
+          "end": "15:29",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Next sentence vs current sentence in lookup function - Claud",
+          "note": "claude.ai"
+        },
+        {
+          "start": "15:34",
+          "end": "15:36",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Google Gemini",
+          "note": "gemini.google.com"
+        },
+        {
+          "start": "15:37",
+          "end": "15:51",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "15:52",
+          "end": "15:54",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(1) Andrej Karpathy (@karpathy) / X",
+          "note": "x.com"
+        },
+        {
+          "start": "15:55",
+          "end": "16:03",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "16:03",
+          "end": "16:09",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(36) Morning Work Flow ☕ Relaxing Jazz for Focus & Smooth Pr",
+          "note": "youtube.com"
+        },
+        {
+          "start": "16:09",
+          "end": "16:16",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Prompt Robustness Through Trajectory Permutations - Google G",
+          "note": "gemini.google.com"
+        },
+        {
+          "start": "16:17",
+          "end": "16:23",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "nichle finish - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "16:26",
+          "end": "16:36",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "16:36",
+          "end": "16:43",
+          "cat": "research",
+          "src": "chrome",
+          "title": "ReAct: 整合行动与推理 - Google Gemini",
+          "note": "gemini.google.com"
+        },
+        {
+          "start": "16:43",
+          "end": "17:04",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "SemEval 2026 - Track Manager Console",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "17:04",
+          "end": "17:14",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "SemEval 2026 - Track Manager Console",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "17:14",
+          "end": "17:29",
+          "cat": "writing",
+          "src": "chrome",
+          "title": "POLAR - Resource Paper_ARR_Jan2026 - Online LaTeX Editor Ove",
+          "note": "overleaf.com"
+        },
+        {
+          "start": "17:29",
+          "end": "17:49",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Paper Update: UNED Citation Error - Google Gemini",
+          "note": "gemini.google.com"
         }
       ],
-      "logged": 44,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0.0,
+      "logged": 409,
+      "real": 155,
+      "deep": 155,
+      "ratio": 0.38043071847325144,
       "stats": {
-        "contextSwitches": 2,
-        "tabsOpened": 9,
-        "longestFocus": "0m",
-        "justOneMoreThing": 0
+        "contextSwitches": 32,
+        "tabsOpened": 108,
+        "longestFocus": "35m",
+        "justOneMoreThing": 2
       }
     },
     {
@@ -11542,16 +12087,33 @@
       "weekend": false,
       "dateShort": "Thu, Jun 18",
       "dateLong": "Thursday, June 18",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
+      "dayStart": "10:02",
+      "dayEnd": "10:22",
+      "events": [
+        {
+          "start": "10:02",
+          "end": "10:15",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "ring - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "10:15",
+          "end": "10:22",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "908/112 TALAVERA ROAD, MACQUARIE PARK, - ada.ren.cn@gmail.co",
+          "note": "mail.google.com"
+        }
+      ],
+      "logged": 20,
       "real": 0,
       "deep": 0,
-      "ratio": 0,
+      "ratio": 0.0,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
+        "contextSwitches": 1,
+        "tabsOpened": 6,
         "longestFocus": "0m",
         "justOneMoreThing": 0
       }
