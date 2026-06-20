@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-06-19T10:20:05+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-06-20T10:40:39+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -14292,282 +14292,282 @@
         "weekend": false
       },
       {
-        "key": "2026-6-18",
-        "dayNum": 18,
-        "dow": 4,
-        "weekend": false,
-        "dateShort": "Thu, Jun 18",
         "dateLong": "Thursday, June 18",
-        "dayStart": "10:02",
+        "dateShort": "Thu, Jun 18",
         "dayEnd": "17:23",
+        "dayNum": 18,
+        "dayStart": "10:02",
+        "deep": 182,
+        "dow": 4,
         "events": [
           {
-            "start": "10:02",
+            "cat": "personal",
             "end": "10:15",
-            "cat": "personal",
+            "note": "google.com",
             "src": "chrome",
-            "title": "ring - Google Search",
-            "note": "google.com"
+            "start": "10:02",
+            "title": "ring - Google Search"
           },
           {
-            "start": "10:15",
+            "cat": "admin",
             "end": "10:23",
-            "cat": "admin",
+            "note": "mail.google.com",
             "src": "chrome",
-            "title": "908/112 TALAVERA ROAD, MACQUARIE PARK, - ada.ren.cn@gmail.co",
-            "note": "mail.google.com"
+            "start": "10:15",
+            "title": "908/112 TALAVERA ROAD, MACQUARIE PARK, - ada.ren.cn@gmail.co"
           },
           {
-            "start": "10:25",
+            "cat": "personal",
             "end": "10:29",
-            "cat": "personal",
+            "note": "open.spotify.com",
             "src": "chrome",
-            "title": "我們的歌 • Leehom Wang",
-            "note": "open.spotify.com"
+            "start": "10:25",
+            "title": "我們的歌 • Leehom Wang"
           },
           {
-            "start": "10:31",
+            "cat": "coding",
             "end": "10:46",
-            "cat": "coding",
+            "note": "chromewebstore.google.com",
             "src": "chrome",
-            "title": "Chrome Web Store - Extensions",
-            "note": "chromewebstore.google.com"
+            "start": "10:31",
+            "title": "Chrome Web Store - Extensions"
           },
           {
-            "start": "10:47",
+            "cat": "coding",
             "end": "10:51",
-            "cat": "coding",
+            "note": "chromewebstore.google.com",
             "src": "chrome",
-            "title": "Chrome Web Store - Extensions",
-            "note": "chromewebstore.google.com"
+            "start": "10:47",
+            "title": "Chrome Web Store - Extensions"
           },
           {
-            "start": "10:51",
+            "cat": "admin",
             "end": "10:58",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "chrome",
-            "title": "Author Page for SemEval 2026:The 20th International Workshop",
-            "note": "translate.google.com"
+            "start": "10:51",
+            "title": "Author Page for SemEval 2026:The 20th International Workshop"
           },
           {
-            "start": "10:58",
+            "cat": "personal",
             "end": "11:13",
-            "cat": "personal",
+            "note": "musac.jonasleisure.com.au",
             "src": "chrome",
-            "title": "Make a Booking | Macquarie University Sport and Aquatic Cent",
-            "note": "musac.jonasleisure.com.au"
+            "start": "10:58",
+            "title": "Make a Booking | Macquarie University Sport and Aquatic Cent"
           },
           {
-            "start": "11:14",
+            "cat": "research",
             "end": "11:17",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "chrome",
-            "title": "Where the time actually went | Ada's Notes",
-            "note": "adaren100.github.io"
+            "start": "11:14",
+            "title": "Where the time actually went | Ada's Notes"
           },
           {
-            "start": "11:18",
+            "cat": "research",
             "end": "11:51",
-            "cat": "research",
+            "note": "baike.baidu.com",
             "src": "chrome",
-            "title": "Where the time actually went | Ada's Notes",
-            "note": "baike.baidu.com"
+            "start": "11:18",
+            "title": "Where the time actually went | Ada's Notes"
           },
           {
-            "start": "11:51",
+            "cat": "writing",
             "end": "12:06",
-            "cat": "writing",
+            "note": "5 hits",
             "src": "vscode",
-            "title": "VS Code · README.md",
-            "note": "5 hits"
+            "start": "11:51",
+            "title": "VS Code · README.md"
           },
           {
-            "start": "12:06",
+            "cat": "research",
             "end": "12:09",
-            "cat": "research",
+            "note": "baike.baidu.com",
             "src": "chrome",
-            "title": "Where the time actually went | Ada's Notes",
-            "note": "baike.baidu.com"
+            "start": "12:06",
+            "title": "Where the time actually went | Ada's Notes"
           },
           {
-            "start": "12:09",
+            "cat": "coding",
             "end": "12:15",
-            "cat": "coding",
+            "note": "3 hits",
             "src": "local",
-            "title": "build_data.py",
-            "note": "3 hits"
+            "start": "12:09",
+            "title": "build_data.py"
           },
           {
-            "start": "12:15",
-            "end": "12:16",
             "cat": "writing",
+            "end": "12:16",
+            "note": "1 hit",
             "src": "local",
-            "title": "README.md",
-            "note": "1 hit"
+            "start": "12:15",
+            "title": "README.md"
           },
           {
-            "start": "13:09",
+            "cat": "research",
             "end": "13:29",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "chrome",
-            "title": "Where the time actually went | Ada's Notes",
-            "note": "adaren100.github.io"
+            "start": "13:09",
+            "title": "Where the time actually went | Ada's Notes"
           },
           {
-            "start": "13:35",
+            "cat": "research",
             "end": "13:42",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "chrome",
-            "title": "Ada's Notes",
-            "note": "adaren100.github.io"
+            "start": "13:35",
+            "title": "Ada's Notes"
           },
           {
-            "start": "13:42",
+            "cat": "personal",
             "end": "13:46",
-            "cat": "personal",
+            "note": "x.com",
             "src": "chrome",
-            "title": "(1) 主页 / X",
-            "note": "x.com"
+            "start": "13:42",
+            "title": "(1) 主页 / X"
           },
           {
-            "start": "13:46",
+            "cat": "research",
             "end": "14:06",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "chrome",
-            "title": "Where the time actually went | Ada's Notes",
-            "note": "adaren100.github.io"
+            "start": "13:46",
+            "title": "Where the time actually went | Ada's Notes"
           },
           {
-            "start": "14:31",
+            "cat": "personal",
             "end": "14:33",
-            "cat": "personal",
+            "note": "open.spotify.com",
             "src": "chrome",
-            "title": "我是真的愛上你 - 國 • Dave Wang",
-            "note": "open.spotify.com"
+            "start": "14:31",
+            "title": "我是真的愛上你 - 國 • Dave Wang"
           },
           {
-            "start": "14:35",
+            "cat": "research",
             "end": "14:39",
-            "cat": "research",
+            "note": "gemini.google.com",
             "src": "chrome",
-            "title": "is keen on or keen on - Google Gemini",
-            "note": "gemini.google.com"
+            "start": "14:35",
+            "title": "is keen on or keen on - Google Gemini"
           },
           {
-            "start": "14:41",
+            "cat": "admin",
             "end": "14:45",
-            "cat": "admin",
+            "note": "mail.google.com",
             "src": "chrome",
-            "title": "[AINews] Midjourney Medical: scan your organs like you step ",
-            "note": "mail.google.com"
+            "start": "14:41",
+            "title": "[AINews] Midjourney Medical: scan your organs like you step "
           },
           {
-            "start": "14:45",
+            "cat": "coding",
             "end": "14:56",
-            "cat": "coding",
+            "note": "anthropic.com",
             "src": "chrome",
-            "title": "Introducing Sonnet 4.6 \\ Anthropic",
-            "note": "anthropic.com"
+            "start": "14:45",
+            "title": "Introducing Sonnet 4.6 \\ Anthropic"
           },
           {
-            "start": "14:56",
+            "cat": "admin",
             "end": "15:33",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "chrome",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "14:56",
+            "title": "Google Translate"
           },
           {
-            "start": "15:33",
+            "cat": "coding",
             "end": "15:53",
-            "cat": "coding",
+            "note": "claude.ai",
             "src": "chrome",
-            "title": "DELM admission problem and gist terminology - Claude",
-            "note": "claude.ai"
+            "start": "15:33",
+            "title": "DELM admission problem and gist terminology - Claude"
           },
           {
-            "start": "15:56",
+            "cat": "personal",
             "end": "16:02",
-            "cat": "personal",
+            "note": "open.spotify.com",
             "src": "chrome",
-            "title": "飄向北方 - Live • Leehom Wang, Namewee",
-            "note": "open.spotify.com"
+            "start": "15:56",
+            "title": "飄向北方 - Live • Leehom Wang, Namewee"
           },
           {
-            "start": "16:03",
-            "end": "16:06",
             "cat": "research",
+            "end": "16:06",
+            "note": "arxiv.org",
             "src": "chrome",
-            "title": "Recursive Language Models",
-            "note": "arxiv.org"
+            "start": "16:03",
+            "title": "Recursive Language Models"
           },
           {
-            "start": "16:06",
+            "cat": "coding",
             "end": "16:11",
-            "cat": "coding",
+            "note": "claude.ai",
             "src": "chrome",
-            "title": "Main idea of arxiv paper 2512.24601 - Claude",
-            "note": "claude.ai"
+            "start": "16:06",
+            "title": "Main idea of arxiv paper 2512.24601 - Claude"
           },
           {
-            "start": "16:12",
+            "cat": "personal",
             "end": "16:30",
-            "cat": "personal",
+            "note": "google.com",
             "src": "chrome",
-            "title": "MiniMax Sparse Attention | alphaXiv",
-            "note": "google.com"
+            "start": "16:12",
+            "title": "MiniMax Sparse Attention | alphaXiv"
           },
           {
-            "start": "16:30",
+            "cat": "personal",
             "end": "16:32",
-            "cat": "personal",
+            "note": "google.com",
             "src": "chrome",
-            "title": "MiniMax Sparse Attention | alphaXiv",
-            "note": "google.com"
+            "start": "16:30",
+            "title": "MiniMax Sparse Attention | alphaXiv"
           },
           {
-            "start": "16:32",
+            "cat": "admin",
             "end": "16:35",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "chrome",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "16:32",
+            "title": "Google Translate"
           },
           {
-            "start": "16:35",
-            "end": "16:46",
             "cat": "coding",
+            "end": "16:46",
+            "note": "claude.ai",
             "src": "chrome",
-            "title": "Test-time scaling strategies for AI agents - Claude",
-            "note": "claude.ai"
+            "start": "16:35",
+            "title": "Test-time scaling strategies for AI agents - Claude"
           },
           {
-            "start": "16:47",
+            "cat": "admin",
             "end": "16:58",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "chrome",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "16:47",
+            "title": "Google Translate"
           },
           {
-            "start": "16:59",
-            "end": "17:23",
             "cat": "admin",
+            "end": "17:23",
+            "note": "translate.google.com",
             "src": "chrome",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "16:59",
+            "title": "Google Translate"
           }
         ],
+        "key": "2026-6-18",
         "logged": 342,
-        "real": 182,
-        "deep": 182,
         "ratio": 0.5327914303087965,
+        "real": 182,
         "stats": {
           "contextSwitches": 26,
-          "tabsOpened": 87,
+          "justOneMoreThing": 4,
           "longestFocus": "1h 28m",
-          "justOneMoreThing": 4
-        }
+          "tabsOpened": 87
+        },
+        "weekend": false
       },
       {
         "key": "2026-6-19",
@@ -14577,7 +14577,7 @@
         "dateShort": "Fri, Jun 19",
         "dateLong": "Friday, June 19",
         "dayStart": "10:03",
-        "dayEnd": "10:27",
+        "dayEnd": "16:48",
         "events": [
           {
             "start": "10:03",
@@ -14585,7 +14585,7 @@
             "cat": "writing",
             "src": "local",
             "title": "2026-06-19-chatgpt-enterprise-spend-controls.md",
-            "note": "6 hits"
+            "note": "5 hits"
           },
           {
             "start": "10:07",
@@ -14594,16 +14594,152 @@
             "src": "chrome",
             "title": "Correcting SemEval Organizer Communication - Google Gemini",
             "note": "google.com"
+          },
+          {
+            "start": "10:27",
+            "end": "10:35",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Understanding incrimination - Claude",
+            "note": "claude.ai"
+          },
+          {
+            "start": "10:35",
+            "end": "10:53",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "10:54",
+            "end": "11:14",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Translating \"Task-Success Oracle\" in Chinese - Google Gemini",
+            "note": "gemini.google.com"
+          },
+          {
+            "start": "11:49",
+            "end": "12:09",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Snapshot-replay attribution for persistent state debugging -",
+            "note": "claude.ai"
+          },
+          {
+            "start": "12:09",
+            "end": "12:29",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "12:45",
+            "end": "13:05",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Gmail",
+            "note": "accounts.google.com"
+          },
+          {
+            "start": "13:05",
+            "end": "13:11",
+            "cat": "research",
+            "src": "chrome",
+            "title": "A near-autonomous AI chemist improves a challenging reaction",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "13:11",
+            "end": "13:36",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(2) X 上的 Claude：“New in Claude Code: Artifacts. Interactive ",
+            "note": "thariqs.github.io"
+          },
+          {
+            "start": "13:37",
+            "end": "13:40",
+            "cat": "research",
+            "src": "chrome",
+            "title": "‪Tejal Patwardhan‬ - ‪Google Scholar‬",
+            "note": "scholar.google.com"
+          },
+          {
+            "start": "13:40",
+            "end": "13:47",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "13:47",
+            "end": "14:03",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Andrew Mayne | AI Keynote Speaker, Author, Former OpenAI Pro",
+            "note": "andrewmayne.com"
+          },
+          {
+            "start": "14:03",
+            "end": "14:36",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "14:36",
+            "end": "14:54",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "bum meaning - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "14:54",
+            "end": "15:13",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "myRDC - Researcher Development Calendar - Macquarie Universi",
+            "note": "myrdc.mq.edu.au"
+          },
+          {
+            "start": "15:13",
+            "end": "15:33",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "myRDC - Researcher Development Calendar - Macquarie Universi",
+            "note": "myrdc.mq.edu.au"
+          },
+          {
+            "start": "16:19",
+            "end": "16:21",
+            "cat": "research",
+            "src": "chrome",
+            "title": "AI Digest — June 19, 2026 | Ada's Notes",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "16:22",
+            "end": "16:48",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(4) X 上的 Dan Shipper 📧：“we are hiring a managing editor @eve",
+            "note": "open.spotify.com"
           }
         ],
-        "logged": 24,
-        "real": 24,
-        "deep": 24,
-        "ratio": 1.0,
+        "logged": 305,
+        "real": 122,
+        "deep": 122,
+        "ratio": 0.39978924914476066,
         "stats": {
-          "contextSwitches": 1,
-          "tabsOpened": 3,
-          "longestFocus": "24m",
+          "contextSwitches": 16,
+          "tabsOpened": 54,
+          "longestFocus": "41m",
           "justOneMoreThing": 0
         }
       },
@@ -19196,282 +19332,282 @@
       "weekend": false
     },
     {
-      "key": "2026-6-18",
-      "dayNum": 18,
-      "dow": 4,
-      "weekend": false,
-      "dateShort": "Thu, Jun 18",
       "dateLong": "Thursday, June 18",
-      "dayStart": "10:02",
+      "dateShort": "Thu, Jun 18",
       "dayEnd": "17:23",
+      "dayNum": 18,
+      "dayStart": "10:02",
+      "deep": 182,
+      "dow": 4,
       "events": [
         {
-          "start": "10:02",
+          "cat": "personal",
           "end": "10:15",
-          "cat": "personal",
+          "note": "google.com",
           "src": "chrome",
-          "title": "ring - Google Search",
-          "note": "google.com"
+          "start": "10:02",
+          "title": "ring - Google Search"
         },
         {
-          "start": "10:15",
+          "cat": "admin",
           "end": "10:23",
-          "cat": "admin",
+          "note": "mail.google.com",
           "src": "chrome",
-          "title": "908/112 TALAVERA ROAD, MACQUARIE PARK, - ada.ren.cn@gmail.co",
-          "note": "mail.google.com"
+          "start": "10:15",
+          "title": "908/112 TALAVERA ROAD, MACQUARIE PARK, - ada.ren.cn@gmail.co"
         },
         {
-          "start": "10:25",
+          "cat": "personal",
           "end": "10:29",
-          "cat": "personal",
+          "note": "open.spotify.com",
           "src": "chrome",
-          "title": "我們的歌 • Leehom Wang",
-          "note": "open.spotify.com"
+          "start": "10:25",
+          "title": "我們的歌 • Leehom Wang"
         },
         {
-          "start": "10:31",
+          "cat": "coding",
           "end": "10:46",
-          "cat": "coding",
+          "note": "chromewebstore.google.com",
           "src": "chrome",
-          "title": "Chrome Web Store - Extensions",
-          "note": "chromewebstore.google.com"
+          "start": "10:31",
+          "title": "Chrome Web Store - Extensions"
         },
         {
-          "start": "10:47",
+          "cat": "coding",
           "end": "10:51",
-          "cat": "coding",
+          "note": "chromewebstore.google.com",
           "src": "chrome",
-          "title": "Chrome Web Store - Extensions",
-          "note": "chromewebstore.google.com"
+          "start": "10:47",
+          "title": "Chrome Web Store - Extensions"
         },
         {
-          "start": "10:51",
+          "cat": "admin",
           "end": "10:58",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "chrome",
-          "title": "Author Page for SemEval 2026:The 20th International Workshop",
-          "note": "translate.google.com"
+          "start": "10:51",
+          "title": "Author Page for SemEval 2026:The 20th International Workshop"
         },
         {
-          "start": "10:58",
+          "cat": "personal",
           "end": "11:13",
-          "cat": "personal",
+          "note": "musac.jonasleisure.com.au",
           "src": "chrome",
-          "title": "Make a Booking | Macquarie University Sport and Aquatic Cent",
-          "note": "musac.jonasleisure.com.au"
+          "start": "10:58",
+          "title": "Make a Booking | Macquarie University Sport and Aquatic Cent"
         },
         {
-          "start": "11:14",
+          "cat": "research",
           "end": "11:17",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "chrome",
-          "title": "Where the time actually went | Ada's Notes",
-          "note": "adaren100.github.io"
+          "start": "11:14",
+          "title": "Where the time actually went | Ada's Notes"
         },
         {
-          "start": "11:18",
+          "cat": "research",
           "end": "11:51",
-          "cat": "research",
+          "note": "baike.baidu.com",
           "src": "chrome",
-          "title": "Where the time actually went | Ada's Notes",
-          "note": "baike.baidu.com"
+          "start": "11:18",
+          "title": "Where the time actually went | Ada's Notes"
         },
         {
-          "start": "11:51",
+          "cat": "writing",
           "end": "12:06",
-          "cat": "writing",
+          "note": "5 hits",
           "src": "vscode",
-          "title": "VS Code · README.md",
-          "note": "5 hits"
+          "start": "11:51",
+          "title": "VS Code · README.md"
         },
         {
-          "start": "12:06",
+          "cat": "research",
           "end": "12:09",
-          "cat": "research",
+          "note": "baike.baidu.com",
           "src": "chrome",
-          "title": "Where the time actually went | Ada's Notes",
-          "note": "baike.baidu.com"
+          "start": "12:06",
+          "title": "Where the time actually went | Ada's Notes"
         },
         {
-          "start": "12:09",
+          "cat": "coding",
           "end": "12:15",
-          "cat": "coding",
+          "note": "3 hits",
           "src": "local",
-          "title": "build_data.py",
-          "note": "3 hits"
+          "start": "12:09",
+          "title": "build_data.py"
         },
         {
-          "start": "12:15",
-          "end": "12:16",
           "cat": "writing",
+          "end": "12:16",
+          "note": "1 hit",
           "src": "local",
-          "title": "README.md",
-          "note": "1 hit"
+          "start": "12:15",
+          "title": "README.md"
         },
         {
-          "start": "13:09",
+          "cat": "research",
           "end": "13:29",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "chrome",
-          "title": "Where the time actually went | Ada's Notes",
-          "note": "adaren100.github.io"
+          "start": "13:09",
+          "title": "Where the time actually went | Ada's Notes"
         },
         {
-          "start": "13:35",
+          "cat": "research",
           "end": "13:42",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "chrome",
-          "title": "Ada's Notes",
-          "note": "adaren100.github.io"
+          "start": "13:35",
+          "title": "Ada's Notes"
         },
         {
-          "start": "13:42",
+          "cat": "personal",
           "end": "13:46",
-          "cat": "personal",
+          "note": "x.com",
           "src": "chrome",
-          "title": "(1) 主页 / X",
-          "note": "x.com"
+          "start": "13:42",
+          "title": "(1) 主页 / X"
         },
         {
-          "start": "13:46",
+          "cat": "research",
           "end": "14:06",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "chrome",
-          "title": "Where the time actually went | Ada's Notes",
-          "note": "adaren100.github.io"
+          "start": "13:46",
+          "title": "Where the time actually went | Ada's Notes"
         },
         {
-          "start": "14:31",
+          "cat": "personal",
           "end": "14:33",
-          "cat": "personal",
+          "note": "open.spotify.com",
           "src": "chrome",
-          "title": "我是真的愛上你 - 國 • Dave Wang",
-          "note": "open.spotify.com"
+          "start": "14:31",
+          "title": "我是真的愛上你 - 國 • Dave Wang"
         },
         {
-          "start": "14:35",
+          "cat": "research",
           "end": "14:39",
-          "cat": "research",
+          "note": "gemini.google.com",
           "src": "chrome",
-          "title": "is keen on or keen on - Google Gemini",
-          "note": "gemini.google.com"
+          "start": "14:35",
+          "title": "is keen on or keen on - Google Gemini"
         },
         {
-          "start": "14:41",
+          "cat": "admin",
           "end": "14:45",
-          "cat": "admin",
+          "note": "mail.google.com",
           "src": "chrome",
-          "title": "[AINews] Midjourney Medical: scan your organs like you step ",
-          "note": "mail.google.com"
+          "start": "14:41",
+          "title": "[AINews] Midjourney Medical: scan your organs like you step "
         },
         {
-          "start": "14:45",
+          "cat": "coding",
           "end": "14:56",
-          "cat": "coding",
+          "note": "anthropic.com",
           "src": "chrome",
-          "title": "Introducing Sonnet 4.6 \\ Anthropic",
-          "note": "anthropic.com"
+          "start": "14:45",
+          "title": "Introducing Sonnet 4.6 \\ Anthropic"
         },
         {
-          "start": "14:56",
+          "cat": "admin",
           "end": "15:33",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "chrome",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "14:56",
+          "title": "Google Translate"
         },
         {
-          "start": "15:33",
+          "cat": "coding",
           "end": "15:53",
-          "cat": "coding",
+          "note": "claude.ai",
           "src": "chrome",
-          "title": "DELM admission problem and gist terminology - Claude",
-          "note": "claude.ai"
+          "start": "15:33",
+          "title": "DELM admission problem and gist terminology - Claude"
         },
         {
-          "start": "15:56",
+          "cat": "personal",
           "end": "16:02",
-          "cat": "personal",
+          "note": "open.spotify.com",
           "src": "chrome",
-          "title": "飄向北方 - Live • Leehom Wang, Namewee",
-          "note": "open.spotify.com"
+          "start": "15:56",
+          "title": "飄向北方 - Live • Leehom Wang, Namewee"
         },
         {
-          "start": "16:03",
-          "end": "16:06",
           "cat": "research",
+          "end": "16:06",
+          "note": "arxiv.org",
           "src": "chrome",
-          "title": "Recursive Language Models",
-          "note": "arxiv.org"
+          "start": "16:03",
+          "title": "Recursive Language Models"
         },
         {
-          "start": "16:06",
+          "cat": "coding",
           "end": "16:11",
-          "cat": "coding",
+          "note": "claude.ai",
           "src": "chrome",
-          "title": "Main idea of arxiv paper 2512.24601 - Claude",
-          "note": "claude.ai"
+          "start": "16:06",
+          "title": "Main idea of arxiv paper 2512.24601 - Claude"
         },
         {
-          "start": "16:12",
+          "cat": "personal",
           "end": "16:30",
-          "cat": "personal",
+          "note": "google.com",
           "src": "chrome",
-          "title": "MiniMax Sparse Attention | alphaXiv",
-          "note": "google.com"
+          "start": "16:12",
+          "title": "MiniMax Sparse Attention | alphaXiv"
         },
         {
-          "start": "16:30",
+          "cat": "personal",
           "end": "16:32",
-          "cat": "personal",
+          "note": "google.com",
           "src": "chrome",
-          "title": "MiniMax Sparse Attention | alphaXiv",
-          "note": "google.com"
+          "start": "16:30",
+          "title": "MiniMax Sparse Attention | alphaXiv"
         },
         {
-          "start": "16:32",
+          "cat": "admin",
           "end": "16:35",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "chrome",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "16:32",
+          "title": "Google Translate"
         },
         {
-          "start": "16:35",
-          "end": "16:46",
           "cat": "coding",
+          "end": "16:46",
+          "note": "claude.ai",
           "src": "chrome",
-          "title": "Test-time scaling strategies for AI agents - Claude",
-          "note": "claude.ai"
+          "start": "16:35",
+          "title": "Test-time scaling strategies for AI agents - Claude"
         },
         {
-          "start": "16:47",
+          "cat": "admin",
           "end": "16:58",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "chrome",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "16:47",
+          "title": "Google Translate"
         },
         {
-          "start": "16:59",
-          "end": "17:23",
           "cat": "admin",
+          "end": "17:23",
+          "note": "translate.google.com",
           "src": "chrome",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "16:59",
+          "title": "Google Translate"
         }
       ],
+      "key": "2026-6-18",
       "logged": 342,
-      "real": 182,
-      "deep": 182,
       "ratio": 0.5327914303087965,
+      "real": 182,
       "stats": {
         "contextSwitches": 26,
-        "tabsOpened": 87,
+        "justOneMoreThing": 4,
         "longestFocus": "1h 28m",
-        "justOneMoreThing": 4
-      }
+        "tabsOpened": 87
+      },
+      "weekend": false
     },
     {
       "key": "2026-6-19",
@@ -19481,7 +19617,7 @@
       "dateShort": "Fri, Jun 19",
       "dateLong": "Friday, June 19",
       "dayStart": "10:03",
-      "dayEnd": "10:27",
+      "dayEnd": "16:48",
       "events": [
         {
           "start": "10:03",
@@ -19489,7 +19625,7 @@
           "cat": "writing",
           "src": "local",
           "title": "2026-06-19-chatgpt-enterprise-spend-controls.md",
-          "note": "6 hits"
+          "note": "5 hits"
         },
         {
           "start": "10:07",
@@ -19498,16 +19634,152 @@
           "src": "chrome",
           "title": "Correcting SemEval Organizer Communication - Google Gemini",
           "note": "google.com"
+        },
+        {
+          "start": "10:27",
+          "end": "10:35",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Understanding incrimination - Claude",
+          "note": "claude.ai"
+        },
+        {
+          "start": "10:35",
+          "end": "10:53",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "10:54",
+          "end": "11:14",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Translating \"Task-Success Oracle\" in Chinese - Google Gemini",
+          "note": "gemini.google.com"
+        },
+        {
+          "start": "11:49",
+          "end": "12:09",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Snapshot-replay attribution for persistent state debugging -",
+          "note": "claude.ai"
+        },
+        {
+          "start": "12:09",
+          "end": "12:29",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "12:45",
+          "end": "13:05",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Gmail",
+          "note": "accounts.google.com"
+        },
+        {
+          "start": "13:05",
+          "end": "13:11",
+          "cat": "research",
+          "src": "chrome",
+          "title": "A near-autonomous AI chemist improves a challenging reaction",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "13:11",
+          "end": "13:36",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(2) X 上的 Claude：“New in Claude Code: Artifacts. Interactive ",
+          "note": "thariqs.github.io"
+        },
+        {
+          "start": "13:37",
+          "end": "13:40",
+          "cat": "research",
+          "src": "chrome",
+          "title": "‪Tejal Patwardhan‬ - ‪Google Scholar‬",
+          "note": "scholar.google.com"
+        },
+        {
+          "start": "13:40",
+          "end": "13:47",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "13:47",
+          "end": "14:03",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Andrew Mayne | AI Keynote Speaker, Author, Former OpenAI Pro",
+          "note": "andrewmayne.com"
+        },
+        {
+          "start": "14:03",
+          "end": "14:36",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "14:36",
+          "end": "14:54",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "bum meaning - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "14:54",
+          "end": "15:13",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "myRDC - Researcher Development Calendar - Macquarie Universi",
+          "note": "myrdc.mq.edu.au"
+        },
+        {
+          "start": "15:13",
+          "end": "15:33",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "myRDC - Researcher Development Calendar - Macquarie Universi",
+          "note": "myrdc.mq.edu.au"
+        },
+        {
+          "start": "16:19",
+          "end": "16:21",
+          "cat": "research",
+          "src": "chrome",
+          "title": "AI Digest — June 19, 2026 | Ada's Notes",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "16:22",
+          "end": "16:48",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(4) X 上的 Dan Shipper 📧：“we are hiring a managing editor @eve",
+          "note": "open.spotify.com"
         }
       ],
-      "logged": 24,
-      "real": 24,
-      "deep": 24,
-      "ratio": 1.0,
+      "logged": 305,
+      "real": 122,
+      "deep": 122,
+      "ratio": 0.39978924914476066,
       "stats": {
-        "contextSwitches": 1,
-        "tabsOpened": 3,
-        "longestFocus": "24m",
+        "contextSwitches": 16,
+        "tabsOpened": 54,
+        "longestFocus": "41m",
         "justOneMoreThing": 0
       }
     },
