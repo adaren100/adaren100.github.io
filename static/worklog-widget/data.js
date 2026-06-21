@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-06-20T10:40:39+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-06-21T10:22:57+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -14570,178 +14570,178 @@
         "weekend": false
       },
       {
-        "key": "2026-6-19",
-        "dayNum": 19,
-        "dow": 5,
-        "weekend": false,
-        "dateShort": "Fri, Jun 19",
         "dateLong": "Friday, June 19",
-        "dayStart": "10:03",
+        "dateShort": "Fri, Jun 19",
         "dayEnd": "16:48",
+        "dayNum": 19,
+        "dayStart": "10:03",
+        "deep": 122,
+        "dow": 5,
         "events": [
           {
-            "start": "10:03",
-            "end": "10:07",
             "cat": "writing",
+            "end": "10:07",
+            "note": "5 hits",
             "src": "local",
-            "title": "2026-06-19-chatgpt-enterprise-spend-controls.md",
-            "note": "5 hits"
+            "start": "10:03",
+            "title": "2026-06-19-chatgpt-enterprise-spend-controls.md"
           },
           {
-            "start": "10:07",
+            "cat": "research",
             "end": "10:27",
-            "cat": "research",
+            "note": "google.com",
             "src": "chrome",
-            "title": "Correcting SemEval Organizer Communication - Google Gemini",
-            "note": "google.com"
+            "start": "10:07",
+            "title": "Correcting SemEval Organizer Communication - Google Gemini"
           },
           {
-            "start": "10:27",
+            "cat": "coding",
             "end": "10:35",
-            "cat": "coding",
+            "note": "claude.ai",
             "src": "chrome",
-            "title": "Understanding incrimination - Claude",
-            "note": "claude.ai"
+            "start": "10:27",
+            "title": "Understanding incrimination - Claude"
           },
           {
-            "start": "10:35",
+            "cat": "admin",
             "end": "10:53",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "chrome",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "10:35",
+            "title": "Google Translate"
           },
           {
-            "start": "10:54",
+            "cat": "research",
             "end": "11:14",
-            "cat": "research",
+            "note": "gemini.google.com",
             "src": "chrome",
-            "title": "Translating \"Task-Success Oracle\" in Chinese - Google Gemini",
-            "note": "gemini.google.com"
+            "start": "10:54",
+            "title": "Translating \"Task-Success Oracle\" in Chinese - Google Gemini"
           },
           {
-            "start": "11:49",
+            "cat": "coding",
             "end": "12:09",
-            "cat": "coding",
+            "note": "claude.ai",
             "src": "chrome",
-            "title": "Snapshot-replay attribution for persistent state debugging -",
-            "note": "claude.ai"
+            "start": "11:49",
+            "title": "Snapshot-replay attribution for persistent state debugging -"
           },
           {
-            "start": "12:09",
+            "cat": "admin",
             "end": "12:29",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "chrome",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "12:09",
+            "title": "Google Translate"
           },
           {
-            "start": "12:45",
+            "cat": "admin",
             "end": "13:05",
-            "cat": "admin",
+            "note": "accounts.google.com",
             "src": "chrome",
-            "title": "Gmail",
-            "note": "accounts.google.com"
+            "start": "12:45",
+            "title": "Gmail"
           },
           {
-            "start": "13:05",
+            "cat": "research",
             "end": "13:11",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "chrome",
-            "title": "A near-autonomous AI chemist improves a challenging reaction",
-            "note": "adaren100.github.io"
+            "start": "13:05",
+            "title": "A near-autonomous AI chemist improves a challenging reaction"
           },
           {
-            "start": "13:11",
+            "cat": "personal",
             "end": "13:36",
-            "cat": "personal",
+            "note": "thariqs.github.io",
             "src": "chrome",
-            "title": "(2) X 上的 Claude：“New in Claude Code: Artifacts. Interactive ",
-            "note": "thariqs.github.io"
+            "start": "13:11",
+            "title": "(2) X 上的 Claude：“New in Claude Code: Artifacts. Interactive "
           },
           {
-            "start": "13:37",
+            "cat": "research",
             "end": "13:40",
-            "cat": "research",
+            "note": "scholar.google.com",
             "src": "chrome",
-            "title": "‪Tejal Patwardhan‬ - ‪Google Scholar‬",
-            "note": "scholar.google.com"
+            "start": "13:37",
+            "title": "‪Tejal Patwardhan‬ - ‪Google Scholar‬"
           },
           {
-            "start": "13:40",
+            "cat": "admin",
             "end": "13:47",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "chrome",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "13:40",
+            "title": "Google Translate"
           },
           {
-            "start": "13:47",
+            "cat": "personal",
             "end": "14:03",
-            "cat": "personal",
+            "note": "andrewmayne.com",
             "src": "chrome",
-            "title": "Andrew Mayne | AI Keynote Speaker, Author, Former OpenAI Pro",
-            "note": "andrewmayne.com"
+            "start": "13:47",
+            "title": "Andrew Mayne | AI Keynote Speaker, Author, Former OpenAI Pro"
           },
           {
-            "start": "14:03",
-            "end": "14:36",
             "cat": "admin",
+            "end": "14:36",
+            "note": "translate.google.com",
             "src": "chrome",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "14:03",
+            "title": "Google Translate"
           },
           {
-            "start": "14:36",
+            "cat": "personal",
             "end": "14:54",
-            "cat": "personal",
+            "note": "google.com",
             "src": "chrome",
-            "title": "bum meaning - Google Search",
-            "note": "google.com"
+            "start": "14:36",
+            "title": "bum meaning - Google Search"
           },
           {
-            "start": "14:54",
+            "cat": "coding",
             "end": "15:13",
-            "cat": "coding",
+            "note": "myrdc.mq.edu.au",
             "src": "chrome",
-            "title": "myRDC - Researcher Development Calendar - Macquarie Universi",
-            "note": "myrdc.mq.edu.au"
+            "start": "14:54",
+            "title": "myRDC - Researcher Development Calendar - Macquarie Universi"
           },
           {
-            "start": "15:13",
+            "cat": "coding",
             "end": "15:33",
-            "cat": "coding",
+            "note": "myrdc.mq.edu.au",
             "src": "chrome",
-            "title": "myRDC - Researcher Development Calendar - Macquarie Universi",
-            "note": "myrdc.mq.edu.au"
+            "start": "15:13",
+            "title": "myRDC - Researcher Development Calendar - Macquarie Universi"
           },
           {
-            "start": "16:19",
-            "end": "16:21",
             "cat": "research",
+            "end": "16:21",
+            "note": "adaren100.github.io",
             "src": "chrome",
-            "title": "AI Digest — June 19, 2026 | Ada's Notes",
-            "note": "adaren100.github.io"
+            "start": "16:19",
+            "title": "AI Digest — June 19, 2026 | Ada's Notes"
           },
           {
-            "start": "16:22",
-            "end": "16:48",
             "cat": "personal",
+            "end": "16:48",
+            "note": "open.spotify.com",
             "src": "chrome",
-            "title": "(4) X 上的 Dan Shipper 📧：“we are hiring a managing editor @eve",
-            "note": "open.spotify.com"
+            "start": "16:22",
+            "title": "(4) X 上的 Dan Shipper 📧：“we are hiring a managing editor @eve"
           }
         ],
+        "key": "2026-6-19",
         "logged": 305,
-        "real": 122,
-        "deep": 122,
         "ratio": 0.39978924914476066,
+        "real": 122,
         "stats": {
           "contextSwitches": 16,
-          "tabsOpened": 54,
+          "justOneMoreThing": 0,
           "longestFocus": "41m",
-          "justOneMoreThing": 0
-        }
+          "tabsOpened": 54
+        },
+        "weekend": false
       },
       {
         "key": "2026-6-20",
@@ -14750,17 +14750,26 @@
         "weekend": true,
         "dateShort": "Sat, Jun 20",
         "dateLong": "Saturday, June 20",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "10:40",
+        "dayEnd": "10:45",
+        "events": [
+          {
+            "start": "10:40",
+            "end": "10:45",
+            "cat": "coding",
+            "src": "local",
+            "title": "snapshots.json",
+            "note": "2 hits"
+          }
+        ],
+        "logged": 5,
+        "real": 5,
+        "deep": 5,
+        "ratio": 1.0,
         "stats": {
           "contextSwitches": 0,
           "tabsOpened": 0,
-          "longestFocus": "0m",
+          "longestFocus": "5m",
           "justOneMoreThing": 0
         }
       },
@@ -19610,178 +19619,178 @@
       "weekend": false
     },
     {
-      "key": "2026-6-19",
-      "dayNum": 19,
-      "dow": 5,
-      "weekend": false,
-      "dateShort": "Fri, Jun 19",
       "dateLong": "Friday, June 19",
-      "dayStart": "10:03",
+      "dateShort": "Fri, Jun 19",
       "dayEnd": "16:48",
+      "dayNum": 19,
+      "dayStart": "10:03",
+      "deep": 122,
+      "dow": 5,
       "events": [
         {
-          "start": "10:03",
-          "end": "10:07",
           "cat": "writing",
+          "end": "10:07",
+          "note": "5 hits",
           "src": "local",
-          "title": "2026-06-19-chatgpt-enterprise-spend-controls.md",
-          "note": "5 hits"
+          "start": "10:03",
+          "title": "2026-06-19-chatgpt-enterprise-spend-controls.md"
         },
         {
-          "start": "10:07",
+          "cat": "research",
           "end": "10:27",
-          "cat": "research",
+          "note": "google.com",
           "src": "chrome",
-          "title": "Correcting SemEval Organizer Communication - Google Gemini",
-          "note": "google.com"
+          "start": "10:07",
+          "title": "Correcting SemEval Organizer Communication - Google Gemini"
         },
         {
-          "start": "10:27",
+          "cat": "coding",
           "end": "10:35",
-          "cat": "coding",
+          "note": "claude.ai",
           "src": "chrome",
-          "title": "Understanding incrimination - Claude",
-          "note": "claude.ai"
+          "start": "10:27",
+          "title": "Understanding incrimination - Claude"
         },
         {
-          "start": "10:35",
+          "cat": "admin",
           "end": "10:53",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "chrome",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "10:35",
+          "title": "Google Translate"
         },
         {
-          "start": "10:54",
+          "cat": "research",
           "end": "11:14",
-          "cat": "research",
+          "note": "gemini.google.com",
           "src": "chrome",
-          "title": "Translating \"Task-Success Oracle\" in Chinese - Google Gemini",
-          "note": "gemini.google.com"
+          "start": "10:54",
+          "title": "Translating \"Task-Success Oracle\" in Chinese - Google Gemini"
         },
         {
-          "start": "11:49",
+          "cat": "coding",
           "end": "12:09",
-          "cat": "coding",
+          "note": "claude.ai",
           "src": "chrome",
-          "title": "Snapshot-replay attribution for persistent state debugging -",
-          "note": "claude.ai"
+          "start": "11:49",
+          "title": "Snapshot-replay attribution for persistent state debugging -"
         },
         {
-          "start": "12:09",
+          "cat": "admin",
           "end": "12:29",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "chrome",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "12:09",
+          "title": "Google Translate"
         },
         {
-          "start": "12:45",
+          "cat": "admin",
           "end": "13:05",
-          "cat": "admin",
+          "note": "accounts.google.com",
           "src": "chrome",
-          "title": "Gmail",
-          "note": "accounts.google.com"
+          "start": "12:45",
+          "title": "Gmail"
         },
         {
-          "start": "13:05",
+          "cat": "research",
           "end": "13:11",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "chrome",
-          "title": "A near-autonomous AI chemist improves a challenging reaction",
-          "note": "adaren100.github.io"
+          "start": "13:05",
+          "title": "A near-autonomous AI chemist improves a challenging reaction"
         },
         {
-          "start": "13:11",
+          "cat": "personal",
           "end": "13:36",
-          "cat": "personal",
+          "note": "thariqs.github.io",
           "src": "chrome",
-          "title": "(2) X 上的 Claude：“New in Claude Code: Artifacts. Interactive ",
-          "note": "thariqs.github.io"
+          "start": "13:11",
+          "title": "(2) X 上的 Claude：“New in Claude Code: Artifacts. Interactive "
         },
         {
-          "start": "13:37",
+          "cat": "research",
           "end": "13:40",
-          "cat": "research",
+          "note": "scholar.google.com",
           "src": "chrome",
-          "title": "‪Tejal Patwardhan‬ - ‪Google Scholar‬",
-          "note": "scholar.google.com"
+          "start": "13:37",
+          "title": "‪Tejal Patwardhan‬ - ‪Google Scholar‬"
         },
         {
-          "start": "13:40",
+          "cat": "admin",
           "end": "13:47",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "chrome",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "13:40",
+          "title": "Google Translate"
         },
         {
-          "start": "13:47",
+          "cat": "personal",
           "end": "14:03",
-          "cat": "personal",
+          "note": "andrewmayne.com",
           "src": "chrome",
-          "title": "Andrew Mayne | AI Keynote Speaker, Author, Former OpenAI Pro",
-          "note": "andrewmayne.com"
+          "start": "13:47",
+          "title": "Andrew Mayne | AI Keynote Speaker, Author, Former OpenAI Pro"
         },
         {
-          "start": "14:03",
-          "end": "14:36",
           "cat": "admin",
+          "end": "14:36",
+          "note": "translate.google.com",
           "src": "chrome",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "14:03",
+          "title": "Google Translate"
         },
         {
-          "start": "14:36",
+          "cat": "personal",
           "end": "14:54",
-          "cat": "personal",
+          "note": "google.com",
           "src": "chrome",
-          "title": "bum meaning - Google Search",
-          "note": "google.com"
+          "start": "14:36",
+          "title": "bum meaning - Google Search"
         },
         {
-          "start": "14:54",
+          "cat": "coding",
           "end": "15:13",
-          "cat": "coding",
+          "note": "myrdc.mq.edu.au",
           "src": "chrome",
-          "title": "myRDC - Researcher Development Calendar - Macquarie Universi",
-          "note": "myrdc.mq.edu.au"
+          "start": "14:54",
+          "title": "myRDC - Researcher Development Calendar - Macquarie Universi"
         },
         {
-          "start": "15:13",
+          "cat": "coding",
           "end": "15:33",
-          "cat": "coding",
+          "note": "myrdc.mq.edu.au",
           "src": "chrome",
-          "title": "myRDC - Researcher Development Calendar - Macquarie Universi",
-          "note": "myrdc.mq.edu.au"
+          "start": "15:13",
+          "title": "myRDC - Researcher Development Calendar - Macquarie Universi"
         },
         {
-          "start": "16:19",
-          "end": "16:21",
           "cat": "research",
+          "end": "16:21",
+          "note": "adaren100.github.io",
           "src": "chrome",
-          "title": "AI Digest — June 19, 2026 | Ada's Notes",
-          "note": "adaren100.github.io"
+          "start": "16:19",
+          "title": "AI Digest — June 19, 2026 | Ada's Notes"
         },
         {
-          "start": "16:22",
-          "end": "16:48",
           "cat": "personal",
+          "end": "16:48",
+          "note": "open.spotify.com",
           "src": "chrome",
-          "title": "(4) X 上的 Dan Shipper 📧：“we are hiring a managing editor @eve",
-          "note": "open.spotify.com"
+          "start": "16:22",
+          "title": "(4) X 上的 Dan Shipper 📧：“we are hiring a managing editor @eve"
         }
       ],
+      "key": "2026-6-19",
       "logged": 305,
-      "real": 122,
-      "deep": 122,
       "ratio": 0.39978924914476066,
+      "real": 122,
       "stats": {
         "contextSwitches": 16,
-        "tabsOpened": 54,
+        "justOneMoreThing": 0,
         "longestFocus": "41m",
-        "justOneMoreThing": 0
-      }
+        "tabsOpened": 54
+      },
+      "weekend": false
     },
     {
       "key": "2026-6-20",
@@ -19790,17 +19799,26 @@
       "weekend": true,
       "dateShort": "Sat, Jun 20",
       "dateLong": "Saturday, June 20",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "10:40",
+      "dayEnd": "10:45",
+      "events": [
+        {
+          "start": "10:40",
+          "end": "10:45",
+          "cat": "coding",
+          "src": "local",
+          "title": "snapshots.json",
+          "note": "2 hits"
+        }
+      ],
+      "logged": 5,
+      "real": 5,
+      "deep": 5,
+      "ratio": 1.0,
       "stats": {
         "contextSwitches": 0,
         "tabsOpened": 0,
-        "longestFocus": "0m",
+        "longestFocus": "5m",
         "justOneMoreThing": 0
       }
     },
