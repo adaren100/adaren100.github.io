@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-06-21T10:22:57+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-06-22T10:20:08+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -14744,34 +14744,34 @@
         "weekend": false
       },
       {
-        "key": "2026-6-20",
-        "dayNum": 20,
-        "dow": 6,
-        "weekend": true,
-        "dateShort": "Sat, Jun 20",
         "dateLong": "Saturday, June 20",
-        "dayStart": "10:40",
+        "dateShort": "Sat, Jun 20",
         "dayEnd": "10:45",
+        "dayNum": 20,
+        "dayStart": "10:40",
+        "deep": 5,
+        "dow": 6,
         "events": [
           {
-            "start": "10:40",
-            "end": "10:45",
             "cat": "coding",
+            "end": "10:45",
+            "note": "2 hits",
             "src": "local",
-            "title": "snapshots.json",
-            "note": "2 hits"
+            "start": "10:40",
+            "title": "snapshots.json"
           }
         ],
+        "key": "2026-6-20",
         "logged": 5,
-        "real": 5,
-        "deep": 5,
         "ratio": 1.0,
+        "real": 5,
         "stats": {
           "contextSwitches": 0,
-          "tabsOpened": 0,
+          "justOneMoreThing": 0,
           "longestFocus": "5m",
-          "justOneMoreThing": 0
-        }
+          "tabsOpened": 0
+        },
+        "weekend": true
       },
       {
         "key": "2026-6-21",
@@ -14780,18 +14780,147 @@
         "weekend": true,
         "dateShort": "Sun, Jun 21",
         "dateLong": "Sunday, June 21",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "10:22",
+        "dayEnd": "21:47",
+        "events": [
+          {
+            "start": "10:22",
+            "end": "10:27",
+            "cat": "coding",
+            "src": "local",
+            "title": "snapshots.json",
+            "note": "2 hits"
+          },
+          {
+            "start": "19:15",
+            "end": "19:24",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "AWS Student Builder Group Leaders Application   Apply now to",
+            "note": "url.au.m.mimecastprotect.com"
+          },
+          {
+            "start": "19:25",
+            "end": "19:28",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "AWS Student Builder Group Leaders Application   Apply now to",
+            "note": "url.au.m.mimecastprotect.com"
+          },
+          {
+            "start": "19:28",
+            "end": "19:37",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "AWS Student Builder Group Leaders Application   Apply now to",
+            "note": "url.au.m.mimecastprotect.com"
+          },
+          {
+            "start": "19:37",
+            "end": "19:44",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "AWS Academy | Training and Certification | AWS",
+            "note": "aws.amazon.com"
+          },
+          {
+            "start": "19:44",
+            "end": "19:48",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "AWS Student Builder Group Leaders Application   Apply now to",
+            "note": "pulse.aws"
+          },
+          {
+            "start": "19:59",
+            "end": "20:05",
+            "cat": "research",
+            "src": "chrome",
+            "title": "POLAR @ SemEval-2026",
+            "note": "polar-semeval.github.io"
+          },
+          {
+            "start": "20:05",
+            "end": "20:09",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "20:13",
+            "end": "20:36",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "AWS Student Builder Group Leaders Application   Apply now to",
+            "note": "pulse.aws"
+          },
+          {
+            "start": "20:36",
+            "end": "20:38",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "AWS Student Builder Group Leaders Application   Apply now to",
+            "note": "pulse.aws"
+          },
+          {
+            "start": "20:38",
+            "end": "20:53",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "AWS Student Builder Group Leaders Application   Apply now to",
+            "note": "pulse.aws"
+          },
+          {
+            "start": "20:54",
+            "end": "20:56",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Amazon Web Services Sign-In",
+            "note": "google.com"
+          },
+          {
+            "start": "20:56",
+            "end": "20:58",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Amazon Web Services Sign-In",
+            "note": "google.com"
+          },
+          {
+            "start": "20:58",
+            "end": "21:23",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "AWS Student Builder Group Leaders Application   Apply now to",
+            "note": "w.amazon.com"
+          },
+          {
+            "start": "21:23",
+            "end": "21:27",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "AWS Builder Center",
+            "note": "builder.aws.com"
+          },
+          {
+            "start": "21:27",
+            "end": "21:47",
+            "cat": "writing",
+            "src": "chrome",
+            "title": "Untitled presentation - Google Slides",
+            "note": "docs.google.com"
+          }
+        ],
+        "logged": 140,
+        "real": 42,
+        "deep": 42,
+        "ratio": 0.2990738112904509,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "0m",
-          "justOneMoreThing": 0
+          "contextSwitches": 9,
+          "tabsOpened": 45,
+          "longestFocus": "23m",
+          "justOneMoreThing": 1
         }
       },
       {
@@ -14801,18 +14930,75 @@
         "weekend": false,
         "dateShort": "Mon, Jun 22",
         "dateLong": "Monday, June 22",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "10:04",
+        "dayEnd": "10:35",
+        "events": [
+          {
+            "start": "10:04",
+            "end": "10:09",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "AWS Student Builder Group Leaders Application   Apply now to",
+            "note": "url.au.m.mimecastprotect.com"
+          },
+          {
+            "start": "10:09",
+            "end": "10:11",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "AWS Student Builder Group Leaders Application   Apply now to",
+            "note": "url.au.m.mimecastprotect.com"
+          },
+          {
+            "start": "10:11",
+            "end": "10:14",
+            "cat": "coding",
+            "src": "vscode",
+            "title": "VS Code · settings.json",
+            "note": "1 hit"
+          },
+          {
+            "start": "10:14",
+            "end": "10:16",
+            "cat": "coding",
+            "src": "vscode",
+            "title": "VS Code · settings.json",
+            "note": "1 hit"
+          },
+          {
+            "start": "10:16",
+            "end": "10:24",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "AWS Student Builder Group Leaders Application   Apply now to",
+            "note": "url.au.m.mimecastprotect.com"
+          },
+          {
+            "start": "10:24",
+            "end": "10:32",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Claude",
+            "note": "claude.com"
+          },
+          {
+            "start": "10:33",
+            "end": "10:35",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Claude",
+            "note": "claude.com"
+          }
+        ],
+        "logged": 31,
+        "real": 16,
+        "deep": 16,
+        "ratio": 0.5147968383458298,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "0m",
-          "justOneMoreThing": 0
+          "contextSwitches": 3,
+          "tabsOpened": 15,
+          "longestFocus": "11m",
+          "justOneMoreThing": 1
         }
       },
       {
@@ -19793,34 +19979,34 @@
       "weekend": false
     },
     {
-      "key": "2026-6-20",
-      "dayNum": 20,
-      "dow": 6,
-      "weekend": true,
-      "dateShort": "Sat, Jun 20",
       "dateLong": "Saturday, June 20",
-      "dayStart": "10:40",
+      "dateShort": "Sat, Jun 20",
       "dayEnd": "10:45",
+      "dayNum": 20,
+      "dayStart": "10:40",
+      "deep": 5,
+      "dow": 6,
       "events": [
         {
-          "start": "10:40",
-          "end": "10:45",
           "cat": "coding",
+          "end": "10:45",
+          "note": "2 hits",
           "src": "local",
-          "title": "snapshots.json",
-          "note": "2 hits"
+          "start": "10:40",
+          "title": "snapshots.json"
         }
       ],
+      "key": "2026-6-20",
       "logged": 5,
-      "real": 5,
-      "deep": 5,
       "ratio": 1.0,
+      "real": 5,
       "stats": {
         "contextSwitches": 0,
-        "tabsOpened": 0,
+        "justOneMoreThing": 0,
         "longestFocus": "5m",
-        "justOneMoreThing": 0
-      }
+        "tabsOpened": 0
+      },
+      "weekend": true
     },
     {
       "key": "2026-6-21",
@@ -19829,18 +20015,147 @@
       "weekend": true,
       "dateShort": "Sun, Jun 21",
       "dateLong": "Sunday, June 21",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "10:22",
+      "dayEnd": "21:47",
+      "events": [
+        {
+          "start": "10:22",
+          "end": "10:27",
+          "cat": "coding",
+          "src": "local",
+          "title": "snapshots.json",
+          "note": "2 hits"
+        },
+        {
+          "start": "19:15",
+          "end": "19:24",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "AWS Student Builder Group Leaders Application   Apply now to",
+          "note": "url.au.m.mimecastprotect.com"
+        },
+        {
+          "start": "19:25",
+          "end": "19:28",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "AWS Student Builder Group Leaders Application   Apply now to",
+          "note": "url.au.m.mimecastprotect.com"
+        },
+        {
+          "start": "19:28",
+          "end": "19:37",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "AWS Student Builder Group Leaders Application   Apply now to",
+          "note": "url.au.m.mimecastprotect.com"
+        },
+        {
+          "start": "19:37",
+          "end": "19:44",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "AWS Academy | Training and Certification | AWS",
+          "note": "aws.amazon.com"
+        },
+        {
+          "start": "19:44",
+          "end": "19:48",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "AWS Student Builder Group Leaders Application   Apply now to",
+          "note": "pulse.aws"
+        },
+        {
+          "start": "19:59",
+          "end": "20:05",
+          "cat": "research",
+          "src": "chrome",
+          "title": "POLAR @ SemEval-2026",
+          "note": "polar-semeval.github.io"
+        },
+        {
+          "start": "20:05",
+          "end": "20:09",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "20:13",
+          "end": "20:36",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "AWS Student Builder Group Leaders Application   Apply now to",
+          "note": "pulse.aws"
+        },
+        {
+          "start": "20:36",
+          "end": "20:38",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "AWS Student Builder Group Leaders Application   Apply now to",
+          "note": "pulse.aws"
+        },
+        {
+          "start": "20:38",
+          "end": "20:53",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "AWS Student Builder Group Leaders Application   Apply now to",
+          "note": "pulse.aws"
+        },
+        {
+          "start": "20:54",
+          "end": "20:56",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Amazon Web Services Sign-In",
+          "note": "google.com"
+        },
+        {
+          "start": "20:56",
+          "end": "20:58",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Amazon Web Services Sign-In",
+          "note": "google.com"
+        },
+        {
+          "start": "20:58",
+          "end": "21:23",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "AWS Student Builder Group Leaders Application   Apply now to",
+          "note": "w.amazon.com"
+        },
+        {
+          "start": "21:23",
+          "end": "21:27",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "AWS Builder Center",
+          "note": "builder.aws.com"
+        },
+        {
+          "start": "21:27",
+          "end": "21:47",
+          "cat": "writing",
+          "src": "chrome",
+          "title": "Untitled presentation - Google Slides",
+          "note": "docs.google.com"
+        }
+      ],
+      "logged": 140,
+      "real": 42,
+      "deep": 42,
+      "ratio": 0.2990738112904509,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "0m",
-        "justOneMoreThing": 0
+        "contextSwitches": 9,
+        "tabsOpened": 45,
+        "longestFocus": "23m",
+        "justOneMoreThing": 1
       }
     },
     {
@@ -19850,18 +20165,75 @@
       "weekend": false,
       "dateShort": "Mon, Jun 22",
       "dateLong": "Monday, June 22",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "10:04",
+      "dayEnd": "10:35",
+      "events": [
+        {
+          "start": "10:04",
+          "end": "10:09",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "AWS Student Builder Group Leaders Application   Apply now to",
+          "note": "url.au.m.mimecastprotect.com"
+        },
+        {
+          "start": "10:09",
+          "end": "10:11",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "AWS Student Builder Group Leaders Application   Apply now to",
+          "note": "url.au.m.mimecastprotect.com"
+        },
+        {
+          "start": "10:11",
+          "end": "10:14",
+          "cat": "coding",
+          "src": "vscode",
+          "title": "VS Code · settings.json",
+          "note": "1 hit"
+        },
+        {
+          "start": "10:14",
+          "end": "10:16",
+          "cat": "coding",
+          "src": "vscode",
+          "title": "VS Code · settings.json",
+          "note": "1 hit"
+        },
+        {
+          "start": "10:16",
+          "end": "10:24",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "AWS Student Builder Group Leaders Application   Apply now to",
+          "note": "url.au.m.mimecastprotect.com"
+        },
+        {
+          "start": "10:24",
+          "end": "10:32",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Claude",
+          "note": "claude.com"
+        },
+        {
+          "start": "10:33",
+          "end": "10:35",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Claude",
+          "note": "claude.com"
+        }
+      ],
+      "logged": 31,
+      "real": 16,
+      "deep": 16,
+      "ratio": 0.5147968383458298,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "0m",
-        "justOneMoreThing": 0
+        "contextSwitches": 3,
+        "tabsOpened": 15,
+        "longestFocus": "11m",
+        "justOneMoreThing": 1
       }
     },
     {
