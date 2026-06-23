@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-06-22T10:20:08+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-06-23T10:20:07+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -14774,154 +14774,154 @@
         "weekend": true
       },
       {
-        "key": "2026-6-21",
-        "dayNum": 21,
-        "dow": 0,
-        "weekend": true,
-        "dateShort": "Sun, Jun 21",
         "dateLong": "Sunday, June 21",
-        "dayStart": "10:22",
+        "dateShort": "Sun, Jun 21",
         "dayEnd": "21:47",
+        "dayNum": 21,
+        "dayStart": "10:22",
+        "deep": 42,
+        "dow": 0,
         "events": [
           {
-            "start": "10:22",
+            "cat": "coding",
             "end": "10:27",
-            "cat": "coding",
+            "note": "2 hits",
             "src": "local",
-            "title": "snapshots.json",
-            "note": "2 hits"
+            "start": "10:22",
+            "title": "snapshots.json"
           },
           {
-            "start": "19:15",
+            "cat": "admin",
             "end": "19:24",
-            "cat": "admin",
+            "note": "url.au.m.mimecastprotect.com",
             "src": "chrome",
-            "title": "AWS Student Builder Group Leaders Application   Apply now to",
-            "note": "url.au.m.mimecastprotect.com"
+            "start": "19:15",
+            "title": "AWS Student Builder Group Leaders Application   Apply now to"
           },
           {
-            "start": "19:25",
+            "cat": "admin",
             "end": "19:28",
-            "cat": "admin",
+            "note": "url.au.m.mimecastprotect.com",
             "src": "chrome",
-            "title": "AWS Student Builder Group Leaders Application   Apply now to",
-            "note": "url.au.m.mimecastprotect.com"
+            "start": "19:25",
+            "title": "AWS Student Builder Group Leaders Application   Apply now to"
           },
           {
-            "start": "19:28",
+            "cat": "admin",
             "end": "19:37",
-            "cat": "admin",
+            "note": "url.au.m.mimecastprotect.com",
             "src": "chrome",
-            "title": "AWS Student Builder Group Leaders Application   Apply now to",
-            "note": "url.au.m.mimecastprotect.com"
+            "start": "19:28",
+            "title": "AWS Student Builder Group Leaders Application   Apply now to"
           },
           {
-            "start": "19:37",
+            "cat": "coding",
             "end": "19:44",
-            "cat": "coding",
+            "note": "aws.amazon.com",
             "src": "chrome",
-            "title": "AWS Academy | Training and Certification | AWS",
-            "note": "aws.amazon.com"
+            "start": "19:37",
+            "title": "AWS Academy | Training and Certification | AWS"
           },
           {
-            "start": "19:44",
+            "cat": "admin",
             "end": "19:48",
-            "cat": "admin",
+            "note": "pulse.aws",
             "src": "chrome",
-            "title": "AWS Student Builder Group Leaders Application   Apply now to",
-            "note": "pulse.aws"
+            "start": "19:44",
+            "title": "AWS Student Builder Group Leaders Application   Apply now to"
           },
           {
-            "start": "19:59",
-            "end": "20:05",
             "cat": "research",
+            "end": "20:05",
+            "note": "polar-semeval.github.io",
             "src": "chrome",
-            "title": "POLAR @ SemEval-2026",
-            "note": "polar-semeval.github.io"
+            "start": "19:59",
+            "title": "POLAR @ SemEval-2026"
           },
           {
-            "start": "20:05",
+            "cat": "admin",
             "end": "20:09",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "chrome",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "20:05",
+            "title": "Google Translate"
           },
           {
-            "start": "20:13",
+            "cat": "admin",
             "end": "20:36",
-            "cat": "admin",
+            "note": "pulse.aws",
             "src": "chrome",
-            "title": "AWS Student Builder Group Leaders Application   Apply now to",
-            "note": "pulse.aws"
+            "start": "20:13",
+            "title": "AWS Student Builder Group Leaders Application   Apply now to"
           },
           {
-            "start": "20:36",
+            "cat": "admin",
             "end": "20:38",
-            "cat": "admin",
+            "note": "pulse.aws",
             "src": "chrome",
-            "title": "AWS Student Builder Group Leaders Application   Apply now to",
-            "note": "pulse.aws"
+            "start": "20:36",
+            "title": "AWS Student Builder Group Leaders Application   Apply now to"
           },
           {
-            "start": "20:38",
+            "cat": "admin",
             "end": "20:53",
-            "cat": "admin",
+            "note": "pulse.aws",
             "src": "chrome",
-            "title": "AWS Student Builder Group Leaders Application   Apply now to",
-            "note": "pulse.aws"
+            "start": "20:38",
+            "title": "AWS Student Builder Group Leaders Application   Apply now to"
           },
           {
-            "start": "20:54",
+            "cat": "personal",
             "end": "20:56",
-            "cat": "personal",
+            "note": "google.com",
             "src": "chrome",
-            "title": "Amazon Web Services Sign-In",
-            "note": "google.com"
+            "start": "20:54",
+            "title": "Amazon Web Services Sign-In"
           },
           {
-            "start": "20:56",
+            "cat": "personal",
             "end": "20:58",
-            "cat": "personal",
+            "note": "google.com",
             "src": "chrome",
-            "title": "Amazon Web Services Sign-In",
-            "note": "google.com"
+            "start": "20:56",
+            "title": "Amazon Web Services Sign-In"
           },
           {
-            "start": "20:58",
-            "end": "21:23",
             "cat": "admin",
+            "end": "21:23",
+            "note": "w.amazon.com",
             "src": "chrome",
-            "title": "AWS Student Builder Group Leaders Application   Apply now to",
-            "note": "w.amazon.com"
+            "start": "20:58",
+            "title": "AWS Student Builder Group Leaders Application   Apply now to"
           },
           {
-            "start": "21:23",
-            "end": "21:27",
             "cat": "coding",
+            "end": "21:27",
+            "note": "builder.aws.com",
             "src": "chrome",
-            "title": "AWS Builder Center",
-            "note": "builder.aws.com"
+            "start": "21:23",
+            "title": "AWS Builder Center"
           },
           {
-            "start": "21:27",
-            "end": "21:47",
             "cat": "writing",
+            "end": "21:47",
+            "note": "docs.google.com",
             "src": "chrome",
-            "title": "Untitled presentation - Google Slides",
-            "note": "docs.google.com"
+            "start": "21:27",
+            "title": "Untitled presentation - Google Slides"
           }
         ],
+        "key": "2026-6-21",
         "logged": 140,
-        "real": 42,
-        "deep": 42,
         "ratio": 0.2990738112904509,
+        "real": 42,
         "stats": {
           "contextSwitches": 9,
-          "tabsOpened": 45,
+          "justOneMoreThing": 1,
           "longestFocus": "23m",
-          "justOneMoreThing": 1
-        }
+          "tabsOpened": 45
+        },
+        "weekend": true
       },
       {
         "key": "2026-6-22",
@@ -14931,7 +14931,7 @@
         "dateShort": "Mon, Jun 22",
         "dateLong": "Monday, June 22",
         "dayStart": "10:04",
-        "dayEnd": "10:35",
+        "dayEnd": "22:02",
         "events": [
           {
             "start": "10:04",
@@ -14974,7 +14974,7 @@
             "note": "url.au.m.mimecastprotect.com"
           },
           {
-            "start": "10:24",
+            "start": "10:25",
             "end": "10:32",
             "cat": "research",
             "src": "chrome",
@@ -14988,17 +14988,329 @@
             "src": "chrome",
             "title": "Claude",
             "note": "claude.com"
+          },
+          {
+            "start": "10:36",
+            "end": "10:39",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Claude & Slack Integration | Slack Marketplace",
+            "note": "slack.com"
+          },
+          {
+            "start": "10:44",
+            "end": "10:55",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "sam altman dario amodei india - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "10:57",
+            "end": "10:59",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(41) Morning Fresh Start | Cozy Cafe Jazz BGM for Relaxing D",
+            "note": "youtube.com"
+          },
+          {
+            "start": "11:00",
+            "end": "11:02",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Emily Chang (journalist) - Wikipedia",
+            "note": "en.wikipedia.org"
+          },
+          {
+            "start": "11:04",
+            "end": "11:10",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(15) cluade - 搜索 / X",
+            "note": "x.com"
+          },
+          {
+            "start": "11:10",
+            "end": "11:30",
+            "cat": "research",
+            "src": "chrome",
+            "title": "ChatGPT",
+            "note": "chat.openai.com"
+          },
+          {
+            "start": "11:30",
+            "end": "11:32",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Authentication Error - OpenAI",
+            "note": "auth.openai.com"
+          },
+          {
+            "start": "11:32",
+            "end": "11:48",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Zhang et al. - 2024 - PsySafe A Comprehensive Framework for ",
+            "note": "file:///Users/ada/Zotero/storage/PB2F8B5"
+          },
+          {
+            "start": "13:10",
+            "end": "13:14",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Working...",
+            "note": "aka.ms"
+          },
+          {
+            "start": "13:14",
+            "end": "13:30",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Working...",
+            "note": "aka.ms"
+          },
+          {
+            "start": "13:30",
+            "end": "13:31",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "[AINews] GLM-5.2 is the real deal; Z.ai forecasts Open Fable",
+            "note": "google.com"
+          },
+          {
+            "start": "13:32",
+            "end": "13:32",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "[AINews] GLM-5.2 is the real deal; Z.ai forecasts Open Fable",
+            "note": "google.com"
+          },
+          {
+            "start": "13:32",
+            "end": "13:34",
+            "cat": "meeting",
+            "src": "chrome",
+            "title": "Z.ai - Advanced AI Chatbot & Agent powered by GLM-5.2",
+            "note": "z.ai"
+          },
+          {
+            "start": "13:36",
+            "end": "13:56",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Proximal — Advancing Coding Intelligence",
+            "note": "proximal.ai"
+          },
+          {
+            "start": "13:56",
+            "end": "14:10",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Get started with Claude in Chrome | Claude Help Center",
+            "note": "support.claude.com"
+          },
+          {
+            "start": "14:15",
+            "end": "14:29",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "THUDM/slime: slime is an LLM post-training framework for RL ",
+            "note": "github.com"
+          },
+          {
+            "start": "14:29",
+            "end": "14:42",
+            "cat": "meeting",
+            "src": "chrome",
+            "title": "Join from Zoom Workplace app - Zoom",
+            "note": "macquarie.zoom.us"
+          },
+          {
+            "start": "14:42",
+            "end": "14:44",
+            "cat": "writing",
+            "src": "chrome",
+            "title": "Juan (Ada) Ren – Résumé",
+            "note": "file:///Users/ada/Documents/reset/resume"
+          },
+          {
+            "start": "14:44",
+            "end": "15:04",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Slack",
+            "note": "mqcsh.slack.com"
+          },
+          {
+            "start": "15:08",
+            "end": "15:28",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "獻世 • Jordan Chan",
+            "note": "open.spotify.com"
+          },
+          {
+            "start": "15:33",
+            "end": "16:10",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Breaking Entropy Bounds: Accelerating RL Training via MTP wi",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "16:11",
+            "end": "16:37",
+            "cat": "research",
+            "src": "chrome",
+            "title": "[2502.13189] MoBA: Mixture of Block Attention for Long-Conte",
+            "note": "algoverseairesearch.org"
+          },
+          {
+            "start": "17:18",
+            "end": "17:26",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "二十世紀少年 - Unplugged • Kary Ng",
+            "note": "open.spotify.com"
+          },
+          {
+            "start": "17:26",
+            "end": "17:34",
+            "cat": "research",
+            "src": "chrome",
+            "title": "[2302.04761] Toolformer: Language Models Can Teach Themselve",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "17:35",
+            "end": "17:38",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "17:38",
+            "end": "17:59",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Make a Booking | Macquarie University Sport and Aquatic Cent",
+            "note": "musac.jonasleisure.com.au"
+          },
+          {
+            "start": "18:00",
+            "end": "18:20",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Alibaba: e-commerce revenue by region 2026| Statista",
+            "note": "statista.com"
+          },
+          {
+            "start": "18:20",
+            "end": "18:21",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Alibaba Stock Is a Compelling Buy as It Drifts Toward 52-Wee",
+            "note": "finance.yahoo.com"
+          },
+          {
+            "start": "18:21",
+            "end": "18:25",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "alibaba 市值 - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "19:47",
+            "end": "19:52",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Google",
+            "note": "google.com"
+          },
+          {
+            "start": "19:52",
+            "end": "19:57",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "19:57",
+            "end": "20:02",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "minecraft game - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "20:02",
+            "end": "20:18",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "minecraft game - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "20:18",
+            "end": "20:22",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "FSE Teaching Associate EOI - Power Apps",
+            "note": "aus01.safelinks.protection.outlook.com"
+          },
+          {
+            "start": "20:33",
+            "end": "20:46",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "20:47",
+            "end": "21:25",
+            "cat": "research",
+            "src": "chrome",
+            "title": "H$^2$R: Hierarchical Hindsight Reflection for Multi-Task LLM",
+            "note": "emergentmind.com"
+          },
+          {
+            "start": "21:25",
+            "end": "21:26",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Paper page - LLM Agents Making Agent Tools",
+            "note": "hf.co"
+          },
+          {
+            "start": "21:26",
+            "end": "21:45",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Paper page - LLM Agents Making Agent Tools",
+            "note": "hf.co"
+          },
+          {
+            "start": "21:45",
+            "end": "22:02",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "the meaning of contingent - Google Search",
+            "note": "google.com"
           }
         ],
-        "logged": 31,
-        "real": 16,
-        "deep": 16,
-        "ratio": 0.5147968383458298,
+        "logged": 469,
+        "real": 267,
+        "deep": 267,
+        "ratio": 0.5680549279813062,
         "stats": {
-          "contextSwitches": 3,
-          "tabsOpened": 15,
-          "longestFocus": "11m",
-          "justOneMoreThing": 1
+          "contextSwitches": 33,
+          "tabsOpened": 132,
+          "longestFocus": "1h 4m",
+          "justOneMoreThing": 4
         }
       },
       {
@@ -15008,17 +15320,66 @@
         "weekend": false,
         "dateShort": "Tue, Jun 23",
         "dateLong": "Tuesday, June 23",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "10:03",
+        "dayEnd": "10:38",
+        "events": [
+          {
+            "start": "10:03",
+            "end": "10:07",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "10:08",
+            "end": "10:18",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Paper page - SkillX: Automatically Constructing Skill Knowle",
+            "note": "hf.co"
+          },
+          {
+            "start": "10:19",
+            "end": "10:27",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Paper page - SkillX: Automatically Constructing Skill Knowle",
+            "note": "hf.co"
+          },
+          {
+            "start": "10:27",
+            "end": "10:29",
+            "cat": "research",
+            "src": "chrome",
+            "title": "SkillX: Automatically Constructing Skill Knowledge Bases for",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "10:29",
+            "end": "10:30",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Paper page - MUSE-Autoskill: Self-Evolving Agents via Skill ",
+            "note": "hf.co"
+          },
+          {
+            "start": "10:30",
+            "end": "10:38",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Our Research Changes Lives | University of Maryland",
+            "note": "umd.edu"
+          }
+        ],
+        "logged": 35,
+        "real": 23,
+        "deep": 23,
+        "ratio": 0.6527206315553057,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "0m",
+          "contextSwitches": 4,
+          "tabsOpened": 18,
+          "longestFocus": "23m",
           "justOneMoreThing": 0
         }
       },
@@ -20009,154 +20370,154 @@
       "weekend": true
     },
     {
-      "key": "2026-6-21",
-      "dayNum": 21,
-      "dow": 0,
-      "weekend": true,
-      "dateShort": "Sun, Jun 21",
       "dateLong": "Sunday, June 21",
-      "dayStart": "10:22",
+      "dateShort": "Sun, Jun 21",
       "dayEnd": "21:47",
+      "dayNum": 21,
+      "dayStart": "10:22",
+      "deep": 42,
+      "dow": 0,
       "events": [
         {
-          "start": "10:22",
+          "cat": "coding",
           "end": "10:27",
-          "cat": "coding",
+          "note": "2 hits",
           "src": "local",
-          "title": "snapshots.json",
-          "note": "2 hits"
+          "start": "10:22",
+          "title": "snapshots.json"
         },
         {
-          "start": "19:15",
+          "cat": "admin",
           "end": "19:24",
-          "cat": "admin",
+          "note": "url.au.m.mimecastprotect.com",
           "src": "chrome",
-          "title": "AWS Student Builder Group Leaders Application   Apply now to",
-          "note": "url.au.m.mimecastprotect.com"
+          "start": "19:15",
+          "title": "AWS Student Builder Group Leaders Application   Apply now to"
         },
         {
-          "start": "19:25",
+          "cat": "admin",
           "end": "19:28",
-          "cat": "admin",
+          "note": "url.au.m.mimecastprotect.com",
           "src": "chrome",
-          "title": "AWS Student Builder Group Leaders Application   Apply now to",
-          "note": "url.au.m.mimecastprotect.com"
+          "start": "19:25",
+          "title": "AWS Student Builder Group Leaders Application   Apply now to"
         },
         {
-          "start": "19:28",
+          "cat": "admin",
           "end": "19:37",
-          "cat": "admin",
+          "note": "url.au.m.mimecastprotect.com",
           "src": "chrome",
-          "title": "AWS Student Builder Group Leaders Application   Apply now to",
-          "note": "url.au.m.mimecastprotect.com"
+          "start": "19:28",
+          "title": "AWS Student Builder Group Leaders Application   Apply now to"
         },
         {
-          "start": "19:37",
+          "cat": "coding",
           "end": "19:44",
-          "cat": "coding",
+          "note": "aws.amazon.com",
           "src": "chrome",
-          "title": "AWS Academy | Training and Certification | AWS",
-          "note": "aws.amazon.com"
+          "start": "19:37",
+          "title": "AWS Academy | Training and Certification | AWS"
         },
         {
-          "start": "19:44",
+          "cat": "admin",
           "end": "19:48",
-          "cat": "admin",
+          "note": "pulse.aws",
           "src": "chrome",
-          "title": "AWS Student Builder Group Leaders Application   Apply now to",
-          "note": "pulse.aws"
+          "start": "19:44",
+          "title": "AWS Student Builder Group Leaders Application   Apply now to"
         },
         {
-          "start": "19:59",
-          "end": "20:05",
           "cat": "research",
+          "end": "20:05",
+          "note": "polar-semeval.github.io",
           "src": "chrome",
-          "title": "POLAR @ SemEval-2026",
-          "note": "polar-semeval.github.io"
+          "start": "19:59",
+          "title": "POLAR @ SemEval-2026"
         },
         {
-          "start": "20:05",
+          "cat": "admin",
           "end": "20:09",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "chrome",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "20:05",
+          "title": "Google Translate"
         },
         {
-          "start": "20:13",
+          "cat": "admin",
           "end": "20:36",
-          "cat": "admin",
+          "note": "pulse.aws",
           "src": "chrome",
-          "title": "AWS Student Builder Group Leaders Application   Apply now to",
-          "note": "pulse.aws"
+          "start": "20:13",
+          "title": "AWS Student Builder Group Leaders Application   Apply now to"
         },
         {
-          "start": "20:36",
+          "cat": "admin",
           "end": "20:38",
-          "cat": "admin",
+          "note": "pulse.aws",
           "src": "chrome",
-          "title": "AWS Student Builder Group Leaders Application   Apply now to",
-          "note": "pulse.aws"
+          "start": "20:36",
+          "title": "AWS Student Builder Group Leaders Application   Apply now to"
         },
         {
-          "start": "20:38",
+          "cat": "admin",
           "end": "20:53",
-          "cat": "admin",
+          "note": "pulse.aws",
           "src": "chrome",
-          "title": "AWS Student Builder Group Leaders Application   Apply now to",
-          "note": "pulse.aws"
+          "start": "20:38",
+          "title": "AWS Student Builder Group Leaders Application   Apply now to"
         },
         {
-          "start": "20:54",
+          "cat": "personal",
           "end": "20:56",
-          "cat": "personal",
+          "note": "google.com",
           "src": "chrome",
-          "title": "Amazon Web Services Sign-In",
-          "note": "google.com"
+          "start": "20:54",
+          "title": "Amazon Web Services Sign-In"
         },
         {
-          "start": "20:56",
+          "cat": "personal",
           "end": "20:58",
-          "cat": "personal",
+          "note": "google.com",
           "src": "chrome",
-          "title": "Amazon Web Services Sign-In",
-          "note": "google.com"
+          "start": "20:56",
+          "title": "Amazon Web Services Sign-In"
         },
         {
-          "start": "20:58",
-          "end": "21:23",
           "cat": "admin",
+          "end": "21:23",
+          "note": "w.amazon.com",
           "src": "chrome",
-          "title": "AWS Student Builder Group Leaders Application   Apply now to",
-          "note": "w.amazon.com"
+          "start": "20:58",
+          "title": "AWS Student Builder Group Leaders Application   Apply now to"
         },
         {
-          "start": "21:23",
-          "end": "21:27",
           "cat": "coding",
+          "end": "21:27",
+          "note": "builder.aws.com",
           "src": "chrome",
-          "title": "AWS Builder Center",
-          "note": "builder.aws.com"
+          "start": "21:23",
+          "title": "AWS Builder Center"
         },
         {
-          "start": "21:27",
-          "end": "21:47",
           "cat": "writing",
+          "end": "21:47",
+          "note": "docs.google.com",
           "src": "chrome",
-          "title": "Untitled presentation - Google Slides",
-          "note": "docs.google.com"
+          "start": "21:27",
+          "title": "Untitled presentation - Google Slides"
         }
       ],
+      "key": "2026-6-21",
       "logged": 140,
-      "real": 42,
-      "deep": 42,
       "ratio": 0.2990738112904509,
+      "real": 42,
       "stats": {
         "contextSwitches": 9,
-        "tabsOpened": 45,
+        "justOneMoreThing": 1,
         "longestFocus": "23m",
-        "justOneMoreThing": 1
-      }
+        "tabsOpened": 45
+      },
+      "weekend": true
     },
     {
       "key": "2026-6-22",
@@ -20166,7 +20527,7 @@
       "dateShort": "Mon, Jun 22",
       "dateLong": "Monday, June 22",
       "dayStart": "10:04",
-      "dayEnd": "10:35",
+      "dayEnd": "22:02",
       "events": [
         {
           "start": "10:04",
@@ -20209,7 +20570,7 @@
           "note": "url.au.m.mimecastprotect.com"
         },
         {
-          "start": "10:24",
+          "start": "10:25",
           "end": "10:32",
           "cat": "research",
           "src": "chrome",
@@ -20223,17 +20584,329 @@
           "src": "chrome",
           "title": "Claude",
           "note": "claude.com"
+        },
+        {
+          "start": "10:36",
+          "end": "10:39",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Claude & Slack Integration | Slack Marketplace",
+          "note": "slack.com"
+        },
+        {
+          "start": "10:44",
+          "end": "10:55",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "sam altman dario amodei india - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "10:57",
+          "end": "10:59",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(41) Morning Fresh Start | Cozy Cafe Jazz BGM for Relaxing D",
+          "note": "youtube.com"
+        },
+        {
+          "start": "11:00",
+          "end": "11:02",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Emily Chang (journalist) - Wikipedia",
+          "note": "en.wikipedia.org"
+        },
+        {
+          "start": "11:04",
+          "end": "11:10",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(15) cluade - 搜索 / X",
+          "note": "x.com"
+        },
+        {
+          "start": "11:10",
+          "end": "11:30",
+          "cat": "research",
+          "src": "chrome",
+          "title": "ChatGPT",
+          "note": "chat.openai.com"
+        },
+        {
+          "start": "11:30",
+          "end": "11:32",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Authentication Error - OpenAI",
+          "note": "auth.openai.com"
+        },
+        {
+          "start": "11:32",
+          "end": "11:48",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Zhang et al. - 2024 - PsySafe A Comprehensive Framework for ",
+          "note": "file:///Users/ada/Zotero/storage/PB2F8B5"
+        },
+        {
+          "start": "13:10",
+          "end": "13:14",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Working...",
+          "note": "aka.ms"
+        },
+        {
+          "start": "13:14",
+          "end": "13:30",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Working...",
+          "note": "aka.ms"
+        },
+        {
+          "start": "13:30",
+          "end": "13:31",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "[AINews] GLM-5.2 is the real deal; Z.ai forecasts Open Fable",
+          "note": "google.com"
+        },
+        {
+          "start": "13:32",
+          "end": "13:32",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "[AINews] GLM-5.2 is the real deal; Z.ai forecasts Open Fable",
+          "note": "google.com"
+        },
+        {
+          "start": "13:32",
+          "end": "13:34",
+          "cat": "meeting",
+          "src": "chrome",
+          "title": "Z.ai - Advanced AI Chatbot & Agent powered by GLM-5.2",
+          "note": "z.ai"
+        },
+        {
+          "start": "13:36",
+          "end": "13:56",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Proximal — Advancing Coding Intelligence",
+          "note": "proximal.ai"
+        },
+        {
+          "start": "13:56",
+          "end": "14:10",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Get started with Claude in Chrome | Claude Help Center",
+          "note": "support.claude.com"
+        },
+        {
+          "start": "14:15",
+          "end": "14:29",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "THUDM/slime: slime is an LLM post-training framework for RL ",
+          "note": "github.com"
+        },
+        {
+          "start": "14:29",
+          "end": "14:42",
+          "cat": "meeting",
+          "src": "chrome",
+          "title": "Join from Zoom Workplace app - Zoom",
+          "note": "macquarie.zoom.us"
+        },
+        {
+          "start": "14:42",
+          "end": "14:44",
+          "cat": "writing",
+          "src": "chrome",
+          "title": "Juan (Ada) Ren – Résumé",
+          "note": "file:///Users/ada/Documents/reset/resume"
+        },
+        {
+          "start": "14:44",
+          "end": "15:04",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Slack",
+          "note": "mqcsh.slack.com"
+        },
+        {
+          "start": "15:08",
+          "end": "15:28",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "獻世 • Jordan Chan",
+          "note": "open.spotify.com"
+        },
+        {
+          "start": "15:33",
+          "end": "16:10",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Breaking Entropy Bounds: Accelerating RL Training via MTP wi",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "16:11",
+          "end": "16:37",
+          "cat": "research",
+          "src": "chrome",
+          "title": "[2502.13189] MoBA: Mixture of Block Attention for Long-Conte",
+          "note": "algoverseairesearch.org"
+        },
+        {
+          "start": "17:18",
+          "end": "17:26",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "二十世紀少年 - Unplugged • Kary Ng",
+          "note": "open.spotify.com"
+        },
+        {
+          "start": "17:26",
+          "end": "17:34",
+          "cat": "research",
+          "src": "chrome",
+          "title": "[2302.04761] Toolformer: Language Models Can Teach Themselve",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "17:35",
+          "end": "17:38",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "17:38",
+          "end": "17:59",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Make a Booking | Macquarie University Sport and Aquatic Cent",
+          "note": "musac.jonasleisure.com.au"
+        },
+        {
+          "start": "18:00",
+          "end": "18:20",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Alibaba: e-commerce revenue by region 2026| Statista",
+          "note": "statista.com"
+        },
+        {
+          "start": "18:20",
+          "end": "18:21",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Alibaba Stock Is a Compelling Buy as It Drifts Toward 52-Wee",
+          "note": "finance.yahoo.com"
+        },
+        {
+          "start": "18:21",
+          "end": "18:25",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "alibaba 市值 - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "19:47",
+          "end": "19:52",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Google",
+          "note": "google.com"
+        },
+        {
+          "start": "19:52",
+          "end": "19:57",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "19:57",
+          "end": "20:02",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "minecraft game - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "20:02",
+          "end": "20:18",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "minecraft game - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "20:18",
+          "end": "20:22",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "FSE Teaching Associate EOI - Power Apps",
+          "note": "aus01.safelinks.protection.outlook.com"
+        },
+        {
+          "start": "20:33",
+          "end": "20:46",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "20:47",
+          "end": "21:25",
+          "cat": "research",
+          "src": "chrome",
+          "title": "H$^2$R: Hierarchical Hindsight Reflection for Multi-Task LLM",
+          "note": "emergentmind.com"
+        },
+        {
+          "start": "21:25",
+          "end": "21:26",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Paper page - LLM Agents Making Agent Tools",
+          "note": "hf.co"
+        },
+        {
+          "start": "21:26",
+          "end": "21:45",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Paper page - LLM Agents Making Agent Tools",
+          "note": "hf.co"
+        },
+        {
+          "start": "21:45",
+          "end": "22:02",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "the meaning of contingent - Google Search",
+          "note": "google.com"
         }
       ],
-      "logged": 31,
-      "real": 16,
-      "deep": 16,
-      "ratio": 0.5147968383458298,
+      "logged": 469,
+      "real": 267,
+      "deep": 267,
+      "ratio": 0.5680549279813062,
       "stats": {
-        "contextSwitches": 3,
-        "tabsOpened": 15,
-        "longestFocus": "11m",
-        "justOneMoreThing": 1
+        "contextSwitches": 33,
+        "tabsOpened": 132,
+        "longestFocus": "1h 4m",
+        "justOneMoreThing": 4
       }
     },
     {
@@ -20243,17 +20916,66 @@
       "weekend": false,
       "dateShort": "Tue, Jun 23",
       "dateLong": "Tuesday, June 23",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "10:03",
+      "dayEnd": "10:38",
+      "events": [
+        {
+          "start": "10:03",
+          "end": "10:07",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "10:08",
+          "end": "10:18",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Paper page - SkillX: Automatically Constructing Skill Knowle",
+          "note": "hf.co"
+        },
+        {
+          "start": "10:19",
+          "end": "10:27",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Paper page - SkillX: Automatically Constructing Skill Knowle",
+          "note": "hf.co"
+        },
+        {
+          "start": "10:27",
+          "end": "10:29",
+          "cat": "research",
+          "src": "chrome",
+          "title": "SkillX: Automatically Constructing Skill Knowledge Bases for",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "10:29",
+          "end": "10:30",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Paper page - MUSE-Autoskill: Self-Evolving Agents via Skill ",
+          "note": "hf.co"
+        },
+        {
+          "start": "10:30",
+          "end": "10:38",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Our Research Changes Lives | University of Maryland",
+          "note": "umd.edu"
+        }
+      ],
+      "logged": 35,
+      "real": 23,
+      "deep": 23,
+      "ratio": 0.6527206315553057,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "0m",
+        "contextSwitches": 4,
+        "tabsOpened": 18,
+        "longestFocus": "23m",
         "justOneMoreThing": 0
       }
     },
