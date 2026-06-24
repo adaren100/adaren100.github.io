@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-06-23T10:20:07+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-06-24T10:20:11+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -14924,394 +14924,394 @@
         "weekend": true
       },
       {
-        "key": "2026-6-22",
-        "dayNum": 22,
-        "dow": 1,
-        "weekend": false,
-        "dateShort": "Mon, Jun 22",
         "dateLong": "Monday, June 22",
-        "dayStart": "10:04",
+        "dateShort": "Mon, Jun 22",
         "dayEnd": "22:02",
+        "dayNum": 22,
+        "dayStart": "10:04",
+        "deep": 267,
+        "dow": 1,
         "events": [
           {
-            "start": "10:04",
+            "cat": "admin",
             "end": "10:09",
-            "cat": "admin",
+            "note": "url.au.m.mimecastprotect.com",
             "src": "chrome",
-            "title": "AWS Student Builder Group Leaders Application   Apply now to",
-            "note": "url.au.m.mimecastprotect.com"
+            "start": "10:04",
+            "title": "AWS Student Builder Group Leaders Application   Apply now to"
           },
           {
-            "start": "10:09",
+            "cat": "admin",
             "end": "10:11",
-            "cat": "admin",
+            "note": "url.au.m.mimecastprotect.com",
             "src": "chrome",
-            "title": "AWS Student Builder Group Leaders Application   Apply now to",
-            "note": "url.au.m.mimecastprotect.com"
+            "start": "10:09",
+            "title": "AWS Student Builder Group Leaders Application   Apply now to"
           },
           {
-            "start": "10:11",
+            "cat": "coding",
             "end": "10:14",
-            "cat": "coding",
+            "note": "1 hit",
             "src": "vscode",
-            "title": "VS Code · settings.json",
-            "note": "1 hit"
+            "start": "10:11",
+            "title": "VS Code · settings.json"
           },
           {
-            "start": "10:14",
+            "cat": "coding",
             "end": "10:16",
-            "cat": "coding",
+            "note": "1 hit",
             "src": "vscode",
-            "title": "VS Code · settings.json",
-            "note": "1 hit"
+            "start": "10:14",
+            "title": "VS Code · settings.json"
           },
           {
-            "start": "10:16",
+            "cat": "admin",
             "end": "10:24",
-            "cat": "admin",
+            "note": "url.au.m.mimecastprotect.com",
             "src": "chrome",
-            "title": "AWS Student Builder Group Leaders Application   Apply now to",
-            "note": "url.au.m.mimecastprotect.com"
+            "start": "10:16",
+            "title": "AWS Student Builder Group Leaders Application   Apply now to"
           },
           {
-            "start": "10:25",
+            "cat": "research",
             "end": "10:32",
-            "cat": "research",
+            "note": "claude.com",
             "src": "chrome",
-            "title": "Claude",
-            "note": "claude.com"
+            "start": "10:25",
+            "title": "Claude"
           },
           {
-            "start": "10:33",
+            "cat": "research",
             "end": "10:35",
-            "cat": "research",
+            "note": "claude.com",
             "src": "chrome",
-            "title": "Claude",
-            "note": "claude.com"
+            "start": "10:33",
+            "title": "Claude"
           },
           {
-            "start": "10:36",
+            "cat": "admin",
             "end": "10:39",
-            "cat": "admin",
+            "note": "slack.com",
             "src": "chrome",
-            "title": "Claude & Slack Integration | Slack Marketplace",
-            "note": "slack.com"
+            "start": "10:36",
+            "title": "Claude & Slack Integration | Slack Marketplace"
           },
           {
-            "start": "10:44",
+            "cat": "personal",
             "end": "10:55",
-            "cat": "personal",
+            "note": "google.com",
             "src": "chrome",
-            "title": "sam altman dario amodei india - Google Search",
-            "note": "google.com"
+            "start": "10:44",
+            "title": "sam altman dario amodei india - Google Search"
           },
           {
-            "start": "10:57",
+            "cat": "personal",
             "end": "10:59",
-            "cat": "personal",
+            "note": "youtube.com",
             "src": "chrome",
-            "title": "(41) Morning Fresh Start | Cozy Cafe Jazz BGM for Relaxing D",
-            "note": "youtube.com"
+            "start": "10:57",
+            "title": "(41) Morning Fresh Start | Cozy Cafe Jazz BGM for Relaxing D"
           },
           {
-            "start": "11:00",
+            "cat": "research",
             "end": "11:02",
-            "cat": "research",
+            "note": "en.wikipedia.org",
             "src": "chrome",
-            "title": "Emily Chang (journalist) - Wikipedia",
-            "note": "en.wikipedia.org"
+            "start": "11:00",
+            "title": "Emily Chang (journalist) - Wikipedia"
           },
           {
-            "start": "11:04",
+            "cat": "personal",
             "end": "11:10",
-            "cat": "personal",
+            "note": "x.com",
             "src": "chrome",
-            "title": "(15) cluade - 搜索 / X",
-            "note": "x.com"
+            "start": "11:04",
+            "title": "(15) cluade - 搜索 / X"
           },
           {
-            "start": "11:10",
+            "cat": "research",
             "end": "11:30",
-            "cat": "research",
+            "note": "chat.openai.com",
             "src": "chrome",
-            "title": "ChatGPT",
-            "note": "chat.openai.com"
+            "start": "11:10",
+            "title": "ChatGPT"
           },
           {
-            "start": "11:30",
+            "cat": "admin",
             "end": "11:32",
-            "cat": "admin",
+            "note": "auth.openai.com",
             "src": "chrome",
-            "title": "Authentication Error - OpenAI",
-            "note": "auth.openai.com"
+            "start": "11:30",
+            "title": "Authentication Error - OpenAI"
           },
           {
-            "start": "11:32",
+            "cat": "research",
             "end": "11:48",
-            "cat": "research",
+            "note": "file:///Users/ada/Zotero/storage/PB2F8B5",
             "src": "chrome",
-            "title": "Zhang et al. - 2024 - PsySafe A Comprehensive Framework for ",
-            "note": "file:///Users/ada/Zotero/storage/PB2F8B5"
+            "start": "11:32",
+            "title": "Zhang et al. - 2024 - PsySafe A Comprehensive Framework for "
           },
           {
-            "start": "13:10",
+            "cat": "admin",
             "end": "13:14",
-            "cat": "admin",
+            "note": "aka.ms",
             "src": "chrome",
-            "title": "Working...",
-            "note": "aka.ms"
+            "start": "13:10",
+            "title": "Working..."
           },
           {
-            "start": "13:14",
+            "cat": "admin",
             "end": "13:30",
-            "cat": "admin",
+            "note": "aka.ms",
             "src": "chrome",
-            "title": "Working...",
-            "note": "aka.ms"
+            "start": "13:14",
+            "title": "Working..."
           },
           {
-            "start": "13:30",
+            "cat": "personal",
             "end": "13:31",
-            "cat": "personal",
+            "note": "google.com",
             "src": "chrome",
-            "title": "[AINews] GLM-5.2 is the real deal; Z.ai forecasts Open Fable",
-            "note": "google.com"
+            "start": "13:30",
+            "title": "[AINews] GLM-5.2 is the real deal; Z.ai forecasts Open Fable"
           },
           {
-            "start": "13:32",
+            "cat": "personal",
             "end": "13:32",
-            "cat": "personal",
+            "note": "google.com",
             "src": "chrome",
-            "title": "[AINews] GLM-5.2 is the real deal; Z.ai forecasts Open Fable",
-            "note": "google.com"
-          },
-          {
             "start": "13:32",
+            "title": "[AINews] GLM-5.2 is the real deal; Z.ai forecasts Open Fable"
+          },
+          {
+            "cat": "meeting",
             "end": "13:34",
-            "cat": "meeting",
+            "note": "z.ai",
             "src": "chrome",
-            "title": "Z.ai - Advanced AI Chatbot & Agent powered by GLM-5.2",
-            "note": "z.ai"
+            "start": "13:32",
+            "title": "Z.ai - Advanced AI Chatbot & Agent powered by GLM-5.2"
           },
           {
-            "start": "13:36",
+            "cat": "research",
             "end": "13:56",
-            "cat": "research",
+            "note": "proximal.ai",
             "src": "chrome",
-            "title": "Proximal — Advancing Coding Intelligence",
-            "note": "proximal.ai"
+            "start": "13:36",
+            "title": "Proximal — Advancing Coding Intelligence"
           },
           {
-            "start": "13:56",
+            "cat": "coding",
             "end": "14:10",
-            "cat": "coding",
+            "note": "support.claude.com",
             "src": "chrome",
-            "title": "Get started with Claude in Chrome | Claude Help Center",
-            "note": "support.claude.com"
+            "start": "13:56",
+            "title": "Get started with Claude in Chrome | Claude Help Center"
           },
           {
-            "start": "14:15",
+            "cat": "coding",
             "end": "14:29",
-            "cat": "coding",
+            "note": "github.com",
             "src": "chrome",
-            "title": "THUDM/slime: slime is an LLM post-training framework for RL ",
-            "note": "github.com"
+            "start": "14:15",
+            "title": "THUDM/slime: slime is an LLM post-training framework for RL "
           },
           {
-            "start": "14:29",
-            "end": "14:42",
             "cat": "meeting",
+            "end": "14:42",
+            "note": "macquarie.zoom.us",
             "src": "chrome",
-            "title": "Join from Zoom Workplace app - Zoom",
-            "note": "macquarie.zoom.us"
+            "start": "14:29",
+            "title": "Join from Zoom Workplace app - Zoom"
           },
           {
-            "start": "14:42",
-            "end": "14:44",
             "cat": "writing",
+            "end": "14:44",
+            "note": "file:///Users/ada/Documents/reset/resume",
             "src": "chrome",
-            "title": "Juan (Ada) Ren – Résumé",
-            "note": "file:///Users/ada/Documents/reset/resume"
+            "start": "14:42",
+            "title": "Juan (Ada) Ren – Résumé"
           },
           {
-            "start": "14:44",
+            "cat": "admin",
             "end": "15:04",
-            "cat": "admin",
+            "note": "mqcsh.slack.com",
             "src": "chrome",
-            "title": "Slack",
-            "note": "mqcsh.slack.com"
+            "start": "14:44",
+            "title": "Slack"
           },
           {
-            "start": "15:08",
+            "cat": "personal",
             "end": "15:28",
-            "cat": "personal",
+            "note": "open.spotify.com",
             "src": "chrome",
-            "title": "獻世 • Jordan Chan",
-            "note": "open.spotify.com"
+            "start": "15:08",
+            "title": "獻世 • Jordan Chan"
           },
           {
-            "start": "15:33",
+            "cat": "research",
             "end": "16:10",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "chrome",
-            "title": "Breaking Entropy Bounds: Accelerating RL Training via MTP wi",
-            "note": "arxiv.org"
+            "start": "15:33",
+            "title": "Breaking Entropy Bounds: Accelerating RL Training via MTP wi"
           },
           {
-            "start": "16:11",
+            "cat": "research",
             "end": "16:37",
-            "cat": "research",
+            "note": "algoverseairesearch.org",
             "src": "chrome",
-            "title": "[2502.13189] MoBA: Mixture of Block Attention for Long-Conte",
-            "note": "algoverseairesearch.org"
+            "start": "16:11",
+            "title": "[2502.13189] MoBA: Mixture of Block Attention for Long-Conte"
           },
           {
-            "start": "17:18",
+            "cat": "personal",
             "end": "17:26",
-            "cat": "personal",
+            "note": "open.spotify.com",
             "src": "chrome",
-            "title": "二十世紀少年 - Unplugged • Kary Ng",
-            "note": "open.spotify.com"
+            "start": "17:18",
+            "title": "二十世紀少年 - Unplugged • Kary Ng"
           },
           {
-            "start": "17:26",
+            "cat": "research",
             "end": "17:34",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "chrome",
-            "title": "[2302.04761] Toolformer: Language Models Can Teach Themselve",
-            "note": "arxiv.org"
+            "start": "17:26",
+            "title": "[2302.04761] Toolformer: Language Models Can Teach Themselve"
           },
           {
-            "start": "17:35",
+            "cat": "admin",
             "end": "17:38",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "chrome",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "17:35",
+            "title": "Google Translate"
           },
           {
-            "start": "17:38",
+            "cat": "personal",
             "end": "17:59",
-            "cat": "personal",
+            "note": "musac.jonasleisure.com.au",
             "src": "chrome",
-            "title": "Make a Booking | Macquarie University Sport and Aquatic Cent",
-            "note": "musac.jonasleisure.com.au"
+            "start": "17:38",
+            "title": "Make a Booking | Macquarie University Sport and Aquatic Cent"
           },
           {
-            "start": "18:00",
+            "cat": "research",
             "end": "18:20",
-            "cat": "research",
+            "note": "statista.com",
             "src": "chrome",
-            "title": "Alibaba: e-commerce revenue by region 2026| Statista",
-            "note": "statista.com"
+            "start": "18:00",
+            "title": "Alibaba: e-commerce revenue by region 2026| Statista"
           },
           {
-            "start": "18:20",
+            "cat": "admin",
             "end": "18:21",
-            "cat": "admin",
+            "note": "finance.yahoo.com",
             "src": "chrome",
-            "title": "Alibaba Stock Is a Compelling Buy as It Drifts Toward 52-Wee",
-            "note": "finance.yahoo.com"
+            "start": "18:20",
+            "title": "Alibaba Stock Is a Compelling Buy as It Drifts Toward 52-Wee"
           },
           {
-            "start": "18:21",
+            "cat": "personal",
             "end": "18:25",
-            "cat": "personal",
+            "note": "google.com",
             "src": "chrome",
-            "title": "alibaba 市值 - Google Search",
-            "note": "google.com"
+            "start": "18:21",
+            "title": "alibaba 市值 - Google Search"
           },
           {
-            "start": "19:47",
+            "cat": "personal",
             "end": "19:52",
-            "cat": "personal",
+            "note": "google.com",
             "src": "chrome",
-            "title": "Google",
-            "note": "google.com"
+            "start": "19:47",
+            "title": "Google"
           },
           {
-            "start": "19:52",
+            "cat": "admin",
             "end": "19:57",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "chrome",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "19:52",
+            "title": "Google Translate"
           },
           {
-            "start": "19:57",
+            "cat": "personal",
             "end": "20:02",
-            "cat": "personal",
+            "note": "google.com",
             "src": "chrome",
-            "title": "minecraft game - Google Search",
-            "note": "google.com"
+            "start": "19:57",
+            "title": "minecraft game - Google Search"
           },
           {
-            "start": "20:02",
+            "cat": "personal",
             "end": "20:18",
-            "cat": "personal",
+            "note": "google.com",
             "src": "chrome",
-            "title": "minecraft game - Google Search",
-            "note": "google.com"
+            "start": "20:02",
+            "title": "minecraft game - Google Search"
           },
           {
-            "start": "20:18",
+            "cat": "admin",
             "end": "20:22",
-            "cat": "admin",
+            "note": "aus01.safelinks.protection.outlook.com",
             "src": "chrome",
-            "title": "FSE Teaching Associate EOI - Power Apps",
-            "note": "aus01.safelinks.protection.outlook.com"
+            "start": "20:18",
+            "title": "FSE Teaching Associate EOI - Power Apps"
           },
           {
-            "start": "20:33",
+            "cat": "admin",
             "end": "20:46",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "chrome",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "20:33",
+            "title": "Google Translate"
           },
           {
-            "start": "20:47",
-            "end": "21:25",
             "cat": "research",
+            "end": "21:25",
+            "note": "emergentmind.com",
             "src": "chrome",
-            "title": "H$^2$R: Hierarchical Hindsight Reflection for Multi-Task LLM",
-            "note": "emergentmind.com"
+            "start": "20:47",
+            "title": "H$^2$R: Hierarchical Hindsight Reflection for Multi-Task LLM"
           },
           {
-            "start": "21:25",
+            "cat": "coding",
             "end": "21:26",
-            "cat": "coding",
+            "note": "hf.co",
             "src": "chrome",
-            "title": "Paper page - LLM Agents Making Agent Tools",
-            "note": "hf.co"
+            "start": "21:25",
+            "title": "Paper page - LLM Agents Making Agent Tools"
           },
           {
-            "start": "21:26",
+            "cat": "coding",
             "end": "21:45",
-            "cat": "coding",
+            "note": "hf.co",
             "src": "chrome",
-            "title": "Paper page - LLM Agents Making Agent Tools",
-            "note": "hf.co"
+            "start": "21:26",
+            "title": "Paper page - LLM Agents Making Agent Tools"
           },
           {
-            "start": "21:45",
-            "end": "22:02",
             "cat": "personal",
+            "end": "22:02",
+            "note": "google.com",
             "src": "chrome",
-            "title": "the meaning of contingent - Google Search",
-            "note": "google.com"
+            "start": "21:45",
+            "title": "the meaning of contingent - Google Search"
           }
         ],
+        "key": "2026-6-22",
         "logged": 469,
-        "real": 267,
-        "deep": 267,
         "ratio": 0.5680549279813062,
+        "real": 267,
         "stats": {
           "contextSwitches": 33,
-          "tabsOpened": 132,
+          "justOneMoreThing": 4,
           "longestFocus": "1h 4m",
-          "justOneMoreThing": 4
-        }
+          "tabsOpened": 132
+        },
+        "weekend": false
       },
       {
         "key": "2026-6-23",
@@ -15321,7 +15321,7 @@
         "dateShort": "Tue, Jun 23",
         "dateLong": "Tuesday, June 23",
         "dayStart": "10:03",
-        "dayEnd": "10:38",
+        "dayEnd": "20:12",
         "events": [
           {
             "start": "10:03",
@@ -15370,17 +15370,273 @@
             "src": "chrome",
             "title": "Our Research Changes Lives | University of Maryland",
             "note": "umd.edu"
+          },
+          {
+            "start": "10:39",
+            "end": "10:41",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Salesloft Platform | Salesloft API",
+            "note": "developers.salesloft.com"
+          },
+          {
+            "start": "10:41",
+            "end": "11:00",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Talk to Sales | Salesloft",
+            "note": "google.com"
+          },
+          {
+            "start": "11:00",
+            "end": "11:01",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Talk to Sales | Salesloft",
+            "note": "google.com"
+          },
+          {
+            "start": "11:01",
+            "end": "11:09",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Codex-maxxing for long-running work | Ada's Notes",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "11:09",
+            "end": "11:16",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Codex-maxxing for long-running work | Ada's Notes",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "11:16",
+            "end": "11:20",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Codex-maxxing for long-running work | Ada's Notes",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "11:20",
+            "end": "11:34",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Codex-maxxing for long-running work | Ada's Notes",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "11:34",
+            "end": "11:37",
+            "cat": "coding",
+            "src": "vscode",
+            "title": "VS Code · toolsmith.py",
+            "note": "1 hit"
+          },
+          {
+            "start": "11:37",
+            "end": "11:39",
+            "cat": "coding",
+            "src": "vscode",
+            "title": "VS Code · toolsmith.py",
+            "note": "1 hit"
+          },
+          {
+            "start": "11:39",
+            "end": "12:24",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "13:08",
+            "end": "13:15",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "13:15",
+            "end": "13:20",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "France, 马赛 - Google Maps",
+            "note": "google.com"
+          },
+          {
+            "start": "13:20",
+            "end": "13:50",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Qualtrics Survey | Qualtrics Experience Management",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "13:52",
+            "end": "14:05",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "韩尚佑，抖音系一个打过仗的太子 - 知乎",
+            "note": "zhuanlan.zhihu.com"
+          },
+          {
+            "start": "14:05",
+            "end": "14:25",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "14:31",
+            "end": "14:54",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "14:54",
+            "end": "15:00",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Spotify - Web Player: Music for everyone",
+            "note": "open.spotify.com"
+          },
+          {
+            "start": "15:01",
+            "end": "15:05",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "15:07",
+            "end": "15:46",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "The 4 Properties of AI | Claude",
+            "note": "google.com"
+          },
+          {
+            "start": "15:46",
+            "end": "15:55",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "15:55",
+            "end": "16:15",
+            "cat": "research",
+            "src": "chrome",
+            "title": "google/bigbench · Datasets at Hugging Face",
+            "note": "huggingface.co"
+          },
+          {
+            "start": "16:24",
+            "end": "16:38",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Statement on the US government directive to suspend access t",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "16:38",
+            "end": "16:52",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Quantifying infrastructure noise in agentic coding evals \\ A",
+            "note": "developers.openai.com"
+          },
+          {
+            "start": "16:52",
+            "end": "16:59",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "16:59",
+            "end": "17:02",
+            "cat": "research",
+            "src": "chrome",
+            "title": "arxiv.org",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "17:02",
+            "end": "17:07",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "QiYuan-tech",
+            "note": "github.com"
+          },
+          {
+            "start": "17:07",
+            "end": "17:20",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "rochester institute of technology - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "17:20",
+            "end": "17:40",
+            "cat": "research",
+            "src": "chrome",
+            "title": "[2309.17428] CRAFT: Customizing LLMs by Creating and Retriev",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "17:40",
+            "end": "17:41",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "uiuc - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "17:52",
+            "end": "18:04",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "hoyeon jung - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "18:04",
+            "end": "18:24",
+            "cat": "research",
+            "src": "chrome",
+            "title": "China’s Dark New Trend: ‘Self-Discipline Challenges’",
+            "note": "sixthtone.com"
+          },
+          {
+            "start": "19:49",
+            "end": "20:12",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Temu Australia | Explore the Latest Clothing, Beauty, Home, ",
+            "note": "temu.com"
           }
         ],
-        "logged": 35,
-        "real": 23,
-        "deep": 23,
-        "ratio": 0.6527206315553057,
+        "logged": 449,
+        "real": 159,
+        "deep": 159,
+        "ratio": 0.35471420443484264,
         "stats": {
-          "contextSwitches": 4,
-          "tabsOpened": 18,
-          "longestFocus": "23m",
-          "justOneMoreThing": 0
+          "contextSwitches": 27,
+          "tabsOpened": 108,
+          "longestFocus": "48m",
+          "justOneMoreThing": 2
         }
       },
       {
@@ -15390,17 +15646,50 @@
         "weekend": false,
         "dateShort": "Wed, Jun 24",
         "dateLong": "Wednesday, June 24",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "10:00",
+        "dayEnd": "10:36",
+        "events": [
+          {
+            "start": "10:00",
+            "end": "10:09",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "奖金10万元？河池一男子交6500元参加“自律挑战”，结果……",
+            "note": "m.huanqiu.com"
+          },
+          {
+            "start": "10:12",
+            "end": "10:32",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Wirex | Login To Wirex",
+            "note": "google.com"
+          },
+          {
+            "start": "10:32",
+            "end": "10:33",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Wirex | Crypto-Friendly Currency Accounts",
+            "note": "app.wirexapp.com"
+          },
+          {
+            "start": "10:33",
+            "end": "10:36",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "New Device Login Detected on Your Wirex Account - ada.ren.cn",
+            "note": "mail.google.com"
+          }
+        ],
+        "logged": 33,
+        "real": 1,
+        "deep": 1,
+        "ratio": 0.03946571221392627,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "0m",
+          "contextSwitches": 2,
+          "tabsOpened": 12,
+          "longestFocus": "1m",
           "justOneMoreThing": 0
         }
       },
@@ -20520,394 +20809,394 @@
       "weekend": true
     },
     {
-      "key": "2026-6-22",
-      "dayNum": 22,
-      "dow": 1,
-      "weekend": false,
-      "dateShort": "Mon, Jun 22",
       "dateLong": "Monday, June 22",
-      "dayStart": "10:04",
+      "dateShort": "Mon, Jun 22",
       "dayEnd": "22:02",
+      "dayNum": 22,
+      "dayStart": "10:04",
+      "deep": 267,
+      "dow": 1,
       "events": [
         {
-          "start": "10:04",
+          "cat": "admin",
           "end": "10:09",
-          "cat": "admin",
+          "note": "url.au.m.mimecastprotect.com",
           "src": "chrome",
-          "title": "AWS Student Builder Group Leaders Application   Apply now to",
-          "note": "url.au.m.mimecastprotect.com"
+          "start": "10:04",
+          "title": "AWS Student Builder Group Leaders Application   Apply now to"
         },
         {
-          "start": "10:09",
+          "cat": "admin",
           "end": "10:11",
-          "cat": "admin",
+          "note": "url.au.m.mimecastprotect.com",
           "src": "chrome",
-          "title": "AWS Student Builder Group Leaders Application   Apply now to",
-          "note": "url.au.m.mimecastprotect.com"
+          "start": "10:09",
+          "title": "AWS Student Builder Group Leaders Application   Apply now to"
         },
         {
-          "start": "10:11",
+          "cat": "coding",
           "end": "10:14",
-          "cat": "coding",
+          "note": "1 hit",
           "src": "vscode",
-          "title": "VS Code · settings.json",
-          "note": "1 hit"
+          "start": "10:11",
+          "title": "VS Code · settings.json"
         },
         {
-          "start": "10:14",
+          "cat": "coding",
           "end": "10:16",
-          "cat": "coding",
+          "note": "1 hit",
           "src": "vscode",
-          "title": "VS Code · settings.json",
-          "note": "1 hit"
+          "start": "10:14",
+          "title": "VS Code · settings.json"
         },
         {
-          "start": "10:16",
+          "cat": "admin",
           "end": "10:24",
-          "cat": "admin",
+          "note": "url.au.m.mimecastprotect.com",
           "src": "chrome",
-          "title": "AWS Student Builder Group Leaders Application   Apply now to",
-          "note": "url.au.m.mimecastprotect.com"
+          "start": "10:16",
+          "title": "AWS Student Builder Group Leaders Application   Apply now to"
         },
         {
-          "start": "10:25",
+          "cat": "research",
           "end": "10:32",
-          "cat": "research",
+          "note": "claude.com",
           "src": "chrome",
-          "title": "Claude",
-          "note": "claude.com"
+          "start": "10:25",
+          "title": "Claude"
         },
         {
-          "start": "10:33",
+          "cat": "research",
           "end": "10:35",
-          "cat": "research",
+          "note": "claude.com",
           "src": "chrome",
-          "title": "Claude",
-          "note": "claude.com"
+          "start": "10:33",
+          "title": "Claude"
         },
         {
-          "start": "10:36",
+          "cat": "admin",
           "end": "10:39",
-          "cat": "admin",
+          "note": "slack.com",
           "src": "chrome",
-          "title": "Claude & Slack Integration | Slack Marketplace",
-          "note": "slack.com"
+          "start": "10:36",
+          "title": "Claude & Slack Integration | Slack Marketplace"
         },
         {
-          "start": "10:44",
+          "cat": "personal",
           "end": "10:55",
-          "cat": "personal",
+          "note": "google.com",
           "src": "chrome",
-          "title": "sam altman dario amodei india - Google Search",
-          "note": "google.com"
+          "start": "10:44",
+          "title": "sam altman dario amodei india - Google Search"
         },
         {
-          "start": "10:57",
+          "cat": "personal",
           "end": "10:59",
-          "cat": "personal",
+          "note": "youtube.com",
           "src": "chrome",
-          "title": "(41) Morning Fresh Start | Cozy Cafe Jazz BGM for Relaxing D",
-          "note": "youtube.com"
+          "start": "10:57",
+          "title": "(41) Morning Fresh Start | Cozy Cafe Jazz BGM for Relaxing D"
         },
         {
-          "start": "11:00",
+          "cat": "research",
           "end": "11:02",
-          "cat": "research",
+          "note": "en.wikipedia.org",
           "src": "chrome",
-          "title": "Emily Chang (journalist) - Wikipedia",
-          "note": "en.wikipedia.org"
+          "start": "11:00",
+          "title": "Emily Chang (journalist) - Wikipedia"
         },
         {
-          "start": "11:04",
+          "cat": "personal",
           "end": "11:10",
-          "cat": "personal",
+          "note": "x.com",
           "src": "chrome",
-          "title": "(15) cluade - 搜索 / X",
-          "note": "x.com"
+          "start": "11:04",
+          "title": "(15) cluade - 搜索 / X"
         },
         {
-          "start": "11:10",
+          "cat": "research",
           "end": "11:30",
-          "cat": "research",
+          "note": "chat.openai.com",
           "src": "chrome",
-          "title": "ChatGPT",
-          "note": "chat.openai.com"
+          "start": "11:10",
+          "title": "ChatGPT"
         },
         {
-          "start": "11:30",
+          "cat": "admin",
           "end": "11:32",
-          "cat": "admin",
+          "note": "auth.openai.com",
           "src": "chrome",
-          "title": "Authentication Error - OpenAI",
-          "note": "auth.openai.com"
+          "start": "11:30",
+          "title": "Authentication Error - OpenAI"
         },
         {
-          "start": "11:32",
+          "cat": "research",
           "end": "11:48",
-          "cat": "research",
+          "note": "file:///Users/ada/Zotero/storage/PB2F8B5",
           "src": "chrome",
-          "title": "Zhang et al. - 2024 - PsySafe A Comprehensive Framework for ",
-          "note": "file:///Users/ada/Zotero/storage/PB2F8B5"
+          "start": "11:32",
+          "title": "Zhang et al. - 2024 - PsySafe A Comprehensive Framework for "
         },
         {
-          "start": "13:10",
+          "cat": "admin",
           "end": "13:14",
-          "cat": "admin",
+          "note": "aka.ms",
           "src": "chrome",
-          "title": "Working...",
-          "note": "aka.ms"
+          "start": "13:10",
+          "title": "Working..."
         },
         {
-          "start": "13:14",
+          "cat": "admin",
           "end": "13:30",
-          "cat": "admin",
+          "note": "aka.ms",
           "src": "chrome",
-          "title": "Working...",
-          "note": "aka.ms"
+          "start": "13:14",
+          "title": "Working..."
         },
         {
-          "start": "13:30",
+          "cat": "personal",
           "end": "13:31",
-          "cat": "personal",
+          "note": "google.com",
           "src": "chrome",
-          "title": "[AINews] GLM-5.2 is the real deal; Z.ai forecasts Open Fable",
-          "note": "google.com"
+          "start": "13:30",
+          "title": "[AINews] GLM-5.2 is the real deal; Z.ai forecasts Open Fable"
         },
         {
-          "start": "13:32",
+          "cat": "personal",
           "end": "13:32",
-          "cat": "personal",
+          "note": "google.com",
           "src": "chrome",
-          "title": "[AINews] GLM-5.2 is the real deal; Z.ai forecasts Open Fable",
-          "note": "google.com"
-        },
-        {
           "start": "13:32",
+          "title": "[AINews] GLM-5.2 is the real deal; Z.ai forecasts Open Fable"
+        },
+        {
+          "cat": "meeting",
           "end": "13:34",
-          "cat": "meeting",
+          "note": "z.ai",
           "src": "chrome",
-          "title": "Z.ai - Advanced AI Chatbot & Agent powered by GLM-5.2",
-          "note": "z.ai"
+          "start": "13:32",
+          "title": "Z.ai - Advanced AI Chatbot & Agent powered by GLM-5.2"
         },
         {
-          "start": "13:36",
+          "cat": "research",
           "end": "13:56",
-          "cat": "research",
+          "note": "proximal.ai",
           "src": "chrome",
-          "title": "Proximal — Advancing Coding Intelligence",
-          "note": "proximal.ai"
+          "start": "13:36",
+          "title": "Proximal — Advancing Coding Intelligence"
         },
         {
-          "start": "13:56",
+          "cat": "coding",
           "end": "14:10",
-          "cat": "coding",
+          "note": "support.claude.com",
           "src": "chrome",
-          "title": "Get started with Claude in Chrome | Claude Help Center",
-          "note": "support.claude.com"
+          "start": "13:56",
+          "title": "Get started with Claude in Chrome | Claude Help Center"
         },
         {
-          "start": "14:15",
+          "cat": "coding",
           "end": "14:29",
-          "cat": "coding",
+          "note": "github.com",
           "src": "chrome",
-          "title": "THUDM/slime: slime is an LLM post-training framework for RL ",
-          "note": "github.com"
+          "start": "14:15",
+          "title": "THUDM/slime: slime is an LLM post-training framework for RL "
         },
         {
-          "start": "14:29",
-          "end": "14:42",
           "cat": "meeting",
+          "end": "14:42",
+          "note": "macquarie.zoom.us",
           "src": "chrome",
-          "title": "Join from Zoom Workplace app - Zoom",
-          "note": "macquarie.zoom.us"
+          "start": "14:29",
+          "title": "Join from Zoom Workplace app - Zoom"
         },
         {
-          "start": "14:42",
-          "end": "14:44",
           "cat": "writing",
+          "end": "14:44",
+          "note": "file:///Users/ada/Documents/reset/resume",
           "src": "chrome",
-          "title": "Juan (Ada) Ren – Résumé",
-          "note": "file:///Users/ada/Documents/reset/resume"
+          "start": "14:42",
+          "title": "Juan (Ada) Ren – Résumé"
         },
         {
-          "start": "14:44",
+          "cat": "admin",
           "end": "15:04",
-          "cat": "admin",
+          "note": "mqcsh.slack.com",
           "src": "chrome",
-          "title": "Slack",
-          "note": "mqcsh.slack.com"
+          "start": "14:44",
+          "title": "Slack"
         },
         {
-          "start": "15:08",
+          "cat": "personal",
           "end": "15:28",
-          "cat": "personal",
+          "note": "open.spotify.com",
           "src": "chrome",
-          "title": "獻世 • Jordan Chan",
-          "note": "open.spotify.com"
+          "start": "15:08",
+          "title": "獻世 • Jordan Chan"
         },
         {
-          "start": "15:33",
+          "cat": "research",
           "end": "16:10",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "chrome",
-          "title": "Breaking Entropy Bounds: Accelerating RL Training via MTP wi",
-          "note": "arxiv.org"
+          "start": "15:33",
+          "title": "Breaking Entropy Bounds: Accelerating RL Training via MTP wi"
         },
         {
-          "start": "16:11",
+          "cat": "research",
           "end": "16:37",
-          "cat": "research",
+          "note": "algoverseairesearch.org",
           "src": "chrome",
-          "title": "[2502.13189] MoBA: Mixture of Block Attention for Long-Conte",
-          "note": "algoverseairesearch.org"
+          "start": "16:11",
+          "title": "[2502.13189] MoBA: Mixture of Block Attention for Long-Conte"
         },
         {
-          "start": "17:18",
+          "cat": "personal",
           "end": "17:26",
-          "cat": "personal",
+          "note": "open.spotify.com",
           "src": "chrome",
-          "title": "二十世紀少年 - Unplugged • Kary Ng",
-          "note": "open.spotify.com"
+          "start": "17:18",
+          "title": "二十世紀少年 - Unplugged • Kary Ng"
         },
         {
-          "start": "17:26",
+          "cat": "research",
           "end": "17:34",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "chrome",
-          "title": "[2302.04761] Toolformer: Language Models Can Teach Themselve",
-          "note": "arxiv.org"
+          "start": "17:26",
+          "title": "[2302.04761] Toolformer: Language Models Can Teach Themselve"
         },
         {
-          "start": "17:35",
+          "cat": "admin",
           "end": "17:38",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "chrome",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "17:35",
+          "title": "Google Translate"
         },
         {
-          "start": "17:38",
+          "cat": "personal",
           "end": "17:59",
-          "cat": "personal",
+          "note": "musac.jonasleisure.com.au",
           "src": "chrome",
-          "title": "Make a Booking | Macquarie University Sport and Aquatic Cent",
-          "note": "musac.jonasleisure.com.au"
+          "start": "17:38",
+          "title": "Make a Booking | Macquarie University Sport and Aquatic Cent"
         },
         {
-          "start": "18:00",
+          "cat": "research",
           "end": "18:20",
-          "cat": "research",
+          "note": "statista.com",
           "src": "chrome",
-          "title": "Alibaba: e-commerce revenue by region 2026| Statista",
-          "note": "statista.com"
+          "start": "18:00",
+          "title": "Alibaba: e-commerce revenue by region 2026| Statista"
         },
         {
-          "start": "18:20",
+          "cat": "admin",
           "end": "18:21",
-          "cat": "admin",
+          "note": "finance.yahoo.com",
           "src": "chrome",
-          "title": "Alibaba Stock Is a Compelling Buy as It Drifts Toward 52-Wee",
-          "note": "finance.yahoo.com"
+          "start": "18:20",
+          "title": "Alibaba Stock Is a Compelling Buy as It Drifts Toward 52-Wee"
         },
         {
-          "start": "18:21",
+          "cat": "personal",
           "end": "18:25",
-          "cat": "personal",
+          "note": "google.com",
           "src": "chrome",
-          "title": "alibaba 市值 - Google Search",
-          "note": "google.com"
+          "start": "18:21",
+          "title": "alibaba 市值 - Google Search"
         },
         {
-          "start": "19:47",
+          "cat": "personal",
           "end": "19:52",
-          "cat": "personal",
+          "note": "google.com",
           "src": "chrome",
-          "title": "Google",
-          "note": "google.com"
+          "start": "19:47",
+          "title": "Google"
         },
         {
-          "start": "19:52",
+          "cat": "admin",
           "end": "19:57",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "chrome",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "19:52",
+          "title": "Google Translate"
         },
         {
-          "start": "19:57",
+          "cat": "personal",
           "end": "20:02",
-          "cat": "personal",
+          "note": "google.com",
           "src": "chrome",
-          "title": "minecraft game - Google Search",
-          "note": "google.com"
+          "start": "19:57",
+          "title": "minecraft game - Google Search"
         },
         {
-          "start": "20:02",
+          "cat": "personal",
           "end": "20:18",
-          "cat": "personal",
+          "note": "google.com",
           "src": "chrome",
-          "title": "minecraft game - Google Search",
-          "note": "google.com"
+          "start": "20:02",
+          "title": "minecraft game - Google Search"
         },
         {
-          "start": "20:18",
+          "cat": "admin",
           "end": "20:22",
-          "cat": "admin",
+          "note": "aus01.safelinks.protection.outlook.com",
           "src": "chrome",
-          "title": "FSE Teaching Associate EOI - Power Apps",
-          "note": "aus01.safelinks.protection.outlook.com"
+          "start": "20:18",
+          "title": "FSE Teaching Associate EOI - Power Apps"
         },
         {
-          "start": "20:33",
+          "cat": "admin",
           "end": "20:46",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "chrome",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "20:33",
+          "title": "Google Translate"
         },
         {
-          "start": "20:47",
-          "end": "21:25",
           "cat": "research",
+          "end": "21:25",
+          "note": "emergentmind.com",
           "src": "chrome",
-          "title": "H$^2$R: Hierarchical Hindsight Reflection for Multi-Task LLM",
-          "note": "emergentmind.com"
+          "start": "20:47",
+          "title": "H$^2$R: Hierarchical Hindsight Reflection for Multi-Task LLM"
         },
         {
-          "start": "21:25",
+          "cat": "coding",
           "end": "21:26",
-          "cat": "coding",
+          "note": "hf.co",
           "src": "chrome",
-          "title": "Paper page - LLM Agents Making Agent Tools",
-          "note": "hf.co"
+          "start": "21:25",
+          "title": "Paper page - LLM Agents Making Agent Tools"
         },
         {
-          "start": "21:26",
+          "cat": "coding",
           "end": "21:45",
-          "cat": "coding",
+          "note": "hf.co",
           "src": "chrome",
-          "title": "Paper page - LLM Agents Making Agent Tools",
-          "note": "hf.co"
+          "start": "21:26",
+          "title": "Paper page - LLM Agents Making Agent Tools"
         },
         {
-          "start": "21:45",
-          "end": "22:02",
           "cat": "personal",
+          "end": "22:02",
+          "note": "google.com",
           "src": "chrome",
-          "title": "the meaning of contingent - Google Search",
-          "note": "google.com"
+          "start": "21:45",
+          "title": "the meaning of contingent - Google Search"
         }
       ],
+      "key": "2026-6-22",
       "logged": 469,
-      "real": 267,
-      "deep": 267,
       "ratio": 0.5680549279813062,
+      "real": 267,
       "stats": {
         "contextSwitches": 33,
-        "tabsOpened": 132,
+        "justOneMoreThing": 4,
         "longestFocus": "1h 4m",
-        "justOneMoreThing": 4
-      }
+        "tabsOpened": 132
+      },
+      "weekend": false
     },
     {
       "key": "2026-6-23",
@@ -20917,7 +21206,7 @@
       "dateShort": "Tue, Jun 23",
       "dateLong": "Tuesday, June 23",
       "dayStart": "10:03",
-      "dayEnd": "10:38",
+      "dayEnd": "20:12",
       "events": [
         {
           "start": "10:03",
@@ -20966,17 +21255,273 @@
           "src": "chrome",
           "title": "Our Research Changes Lives | University of Maryland",
           "note": "umd.edu"
+        },
+        {
+          "start": "10:39",
+          "end": "10:41",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Salesloft Platform | Salesloft API",
+          "note": "developers.salesloft.com"
+        },
+        {
+          "start": "10:41",
+          "end": "11:00",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Talk to Sales | Salesloft",
+          "note": "google.com"
+        },
+        {
+          "start": "11:00",
+          "end": "11:01",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Talk to Sales | Salesloft",
+          "note": "google.com"
+        },
+        {
+          "start": "11:01",
+          "end": "11:09",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Codex-maxxing for long-running work | Ada's Notes",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "11:09",
+          "end": "11:16",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Codex-maxxing for long-running work | Ada's Notes",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "11:16",
+          "end": "11:20",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Codex-maxxing for long-running work | Ada's Notes",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "11:20",
+          "end": "11:34",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Codex-maxxing for long-running work | Ada's Notes",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "11:34",
+          "end": "11:37",
+          "cat": "coding",
+          "src": "vscode",
+          "title": "VS Code · toolsmith.py",
+          "note": "1 hit"
+        },
+        {
+          "start": "11:37",
+          "end": "11:39",
+          "cat": "coding",
+          "src": "vscode",
+          "title": "VS Code · toolsmith.py",
+          "note": "1 hit"
+        },
+        {
+          "start": "11:39",
+          "end": "12:24",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "13:08",
+          "end": "13:15",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "13:15",
+          "end": "13:20",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "France, 马赛 - Google Maps",
+          "note": "google.com"
+        },
+        {
+          "start": "13:20",
+          "end": "13:50",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Qualtrics Survey | Qualtrics Experience Management",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "13:52",
+          "end": "14:05",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "韩尚佑，抖音系一个打过仗的太子 - 知乎",
+          "note": "zhuanlan.zhihu.com"
+        },
+        {
+          "start": "14:05",
+          "end": "14:25",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "14:31",
+          "end": "14:54",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "14:54",
+          "end": "15:00",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Spotify - Web Player: Music for everyone",
+          "note": "open.spotify.com"
+        },
+        {
+          "start": "15:01",
+          "end": "15:05",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "15:07",
+          "end": "15:46",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "The 4 Properties of AI | Claude",
+          "note": "google.com"
+        },
+        {
+          "start": "15:46",
+          "end": "15:55",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "15:55",
+          "end": "16:15",
+          "cat": "research",
+          "src": "chrome",
+          "title": "google/bigbench · Datasets at Hugging Face",
+          "note": "huggingface.co"
+        },
+        {
+          "start": "16:24",
+          "end": "16:38",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Statement on the US government directive to suspend access t",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "16:38",
+          "end": "16:52",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Quantifying infrastructure noise in agentic coding evals \\ A",
+          "note": "developers.openai.com"
+        },
+        {
+          "start": "16:52",
+          "end": "16:59",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "16:59",
+          "end": "17:02",
+          "cat": "research",
+          "src": "chrome",
+          "title": "arxiv.org",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "17:02",
+          "end": "17:07",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "QiYuan-tech",
+          "note": "github.com"
+        },
+        {
+          "start": "17:07",
+          "end": "17:20",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "rochester institute of technology - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "17:20",
+          "end": "17:40",
+          "cat": "research",
+          "src": "chrome",
+          "title": "[2309.17428] CRAFT: Customizing LLMs by Creating and Retriev",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "17:40",
+          "end": "17:41",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "uiuc - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "17:52",
+          "end": "18:04",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "hoyeon jung - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "18:04",
+          "end": "18:24",
+          "cat": "research",
+          "src": "chrome",
+          "title": "China’s Dark New Trend: ‘Self-Discipline Challenges’",
+          "note": "sixthtone.com"
+        },
+        {
+          "start": "19:49",
+          "end": "20:12",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Temu Australia | Explore the Latest Clothing, Beauty, Home, ",
+          "note": "temu.com"
         }
       ],
-      "logged": 35,
-      "real": 23,
-      "deep": 23,
-      "ratio": 0.6527206315553057,
+      "logged": 449,
+      "real": 159,
+      "deep": 159,
+      "ratio": 0.35471420443484264,
       "stats": {
-        "contextSwitches": 4,
-        "tabsOpened": 18,
-        "longestFocus": "23m",
-        "justOneMoreThing": 0
+        "contextSwitches": 27,
+        "tabsOpened": 108,
+        "longestFocus": "48m",
+        "justOneMoreThing": 2
       }
     },
     {
@@ -20986,17 +21531,50 @@
       "weekend": false,
       "dateShort": "Wed, Jun 24",
       "dateLong": "Wednesday, June 24",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "10:00",
+      "dayEnd": "10:36",
+      "events": [
+        {
+          "start": "10:00",
+          "end": "10:09",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "奖金10万元？河池一男子交6500元参加“自律挑战”，结果……",
+          "note": "m.huanqiu.com"
+        },
+        {
+          "start": "10:12",
+          "end": "10:32",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Wirex | Login To Wirex",
+          "note": "google.com"
+        },
+        {
+          "start": "10:32",
+          "end": "10:33",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Wirex | Crypto-Friendly Currency Accounts",
+          "note": "app.wirexapp.com"
+        },
+        {
+          "start": "10:33",
+          "end": "10:36",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "New Device Login Detected on Your Wirex Account - ada.ren.cn",
+          "note": "mail.google.com"
+        }
+      ],
+      "logged": 33,
+      "real": 1,
+      "deep": 1,
+      "ratio": 0.03946571221392627,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "0m",
+        "contextSwitches": 2,
+        "tabsOpened": 12,
+        "longestFocus": "1m",
         "justOneMoreThing": 0
       }
     },
