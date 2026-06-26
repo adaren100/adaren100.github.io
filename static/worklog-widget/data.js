@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-06-26T12:00:05+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-06-26T12:28:50+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -47,35 +47,155 @@
         "weekend": false,
         "dateShort": "Mon, Jun 1",
         "dateLong": "Monday, June 1",
-        "dayStart": "10:02",
-        "dayEnd": "00:57",
+        "dayStart": "06:00",
+        "dayEnd": "05:49",
         "events": [
           {
-            "start": "10:02",
+            "start": "06:00",
+            "end": "06:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "06:18",
+            "end": "06:21",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
+          },
+          {
+            "start": "06:34",
+            "end": "06:37",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "06:51",
+            "end": "06:54",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "07:07",
+            "end": "07:10",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "07:17",
+            "end": "07:20",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "07:34",
+            "end": "07:37",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
+          },
+          {
+            "start": "07:51",
+            "end": "07:54",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "08:07",
+            "end": "08:10",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "08:26",
+            "end": "08:29",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "08:42",
+            "end": "08:45",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "08:57",
+            "end": "09:00",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
+          },
+          {
+            "start": "09:15",
+            "end": "09:18",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "09:33",
+            "end": "09:36",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "09:50",
+            "end": "09:57",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "15 hits"
+          },
+          {
+            "start": "10:00",
             "end": "10:05",
             "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "363 hits"
           },
           {
             "start": "10:06",
-            "end": "10:12",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
-          },
-          {
-            "start": "10:12",
             "end": "10:17",
             "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "363 hits"
           },
           {
             "start": "10:17",
+            "end": "10:20",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "363 hits"
+          },
+          {
+            "start": "10:20",
             "end": "10:24",
             "cat": "research",
             "src": "macos",
@@ -85,82 +205,26 @@
           {
             "start": "10:24",
             "end": "10:25",
-            "cat": "personal",
-            "src": "chrome",
-            "title": "7 Things I Did to Fix My Unfocused, Overstimulated Brain | b",
-            "note": "google.com"
-          },
-          {
-            "start": "10:25",
-            "end": "10:25",
             "cat": "coding",
             "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
+            "title": "iterm2",
+            "note": "com.googlecode.iterm2"
           },
           {
             "start": "10:26",
-            "end": "10:26",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
-          },
-          {
-            "start": "10:26",
-            "end": "10:28",
-            "cat": "research",
-            "src": "chrome",
-            "title": "How Well Do Models Follow Their Constitutions?",
-            "note": "google.com"
-          },
-          {
-            "start": "10:28",
-            "end": "10:31",
-            "cat": "personal",
-            "src": "chrome",
-            "title": "(21) 主页 / X",
-            "note": "x.com"
-          },
-          {
-            "start": "10:31",
-            "end": "10:33",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
-          },
-          {
-            "start": "10:33",
-            "end": "10:34",
-            "cat": "personal",
-            "src": "chrome",
-            "title": "(21) 主页 / X",
-            "note": "x.com"
-          },
-          {
-            "start": "10:34",
-            "end": "10:40",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
-          },
-          {
-            "start": "10:40",
             "end": "10:43",
-            "cat": "research",
+            "cat": "coding",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "title": "iterm2",
+            "note": "com.googlecode.iterm2"
           },
           {
             "start": "10:43",
             "end": "10:46",
-            "cat": "personal",
-            "src": "chrome",
-            "title": "cluade character - Google Search",
-            "note": "google.com"
+            "cat": "coding",
+            "src": "claude",
+            "title": "PhD daily log tracker",
+            "note": "411 hits"
           },
           {
             "start": "10:46",
@@ -174,12 +238,20 @@
             "start": "10:49",
             "end": "12:01",
             "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
+            "src": "claude",
+            "title": "PhD daily log tracker",
+            "note": "152 hits"
           },
           {
             "start": "12:01",
+            "end": "12:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · log",
+            "note": "56 hits"
+          },
+          {
+            "start": "12:03",
             "end": "12:06",
             "cat": "research",
             "src": "chrome",
@@ -190,20 +262,44 @@
             "start": "12:06",
             "end": "12:44",
             "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
+            "src": "chrome",
+            "title": "Honest Worklog",
+            "note": "localhost:1314"
+          },
+          {
+            "start": "13:00",
+            "end": "13:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "13:30",
+            "end": "13:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "14:00",
+            "end": "14:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
           },
           {
             "start": "14:06",
-            "end": "14:12",
+            "end": "14:15",
             "cat": "coding",
             "src": "chrome",
             "title": "Honest Worklog",
             "note": "localhost:1314"
           },
           {
-            "start": "14:12",
+            "start": "14:15",
             "end": "14:24",
             "cat": "research",
             "src": "chrome",
@@ -219,103 +315,79 @@
             "note": "localhost:1314"
           },
           {
-            "start": "14:29",
-            "end": "14:55",
+            "start": "14:30",
+            "end": "14:33",
             "cat": "coding",
-            "src": "chrome",
-            "title": "rasbt/reasoning-from-scratch: Implement a reasoning LLM in P",
-            "note": "localhost:1314"
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "13 hits"
           },
           {
-            "start": "14:55",
-            "end": "14:59",
+            "start": "14:33",
+            "end": "14:55",
             "cat": "coding",
             "src": "macos",
             "title": "VSCode",
             "note": "com.microsoft.VSCode"
           },
           {
+            "start": "14:55",
+            "end": "14:55",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "14:56",
+            "end": "14:59",
+            "cat": "coding",
+            "src": "claude",
+            "title": "PhD daily log tracker",
+            "note": "519 hits"
+          },
+          {
             "start": "15:00",
-            "end": "15:03",
+            "end": "15:35",
             "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
+            "src": "claude",
+            "title": "PhD daily log tracker",
+            "note": "519 hits"
           },
           {
-            "start": "15:05",
-            "end": "15:08",
-            "cat": "personal",
-            "src": "chrome",
-            "title": "SkillOpt: Executive Strategy for Self-Evolving Agent Skills ",
-            "note": "google.com"
-          },
-          {
-            "start": "15:08",
-            "end": "15:30",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
-          },
-          {
-            "start": "15:30",
+            "start": "15:35",
             "end": "16:02",
             "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
+            "src": "claude",
+            "title": "PhD daily log tracker",
+            "note": "519 hits"
           },
           {
-            "start": "16:54",
-            "end": "16:56",
-            "cat": "research",
-            "src": "chrome",
-            "title": "Do Language Models Need Sleep? Offline Recurrence for Improv",
-            "note": "alphaxiv.org"
+            "start": "16:53",
+            "end": "16:54",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "385 hits"
           },
           {
-            "start": "16:56",
+            "start": "16:55",
             "end": "16:57",
             "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "385 hits"
           },
           {
             "start": "16:57",
-            "end": "17:04",
+            "end": "17:33",
             "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "385 hits"
           },
           {
-            "start": "17:04",
-            "end": "17:07",
-            "cat": "research",
-            "src": "chrome",
-            "title": "Do Language Models Need Sleep? Offline Recurrence for Improv",
-            "note": "alphaxiv.org"
-          },
-          {
-            "start": "17:07",
-            "end": "17:14",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
-          },
-          {
-            "start": "17:15",
-            "end": "17:32",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
-          },
-          {
-            "start": "17:32",
+            "start": "17:33",
             "end": "17:34",
             "cat": "admin",
             "src": "macos",
@@ -364,11 +436,43 @@
           },
           {
             "start": "18:09",
-            "end": "19:18",
+            "end": "18:30",
             "cat": "admin",
             "src": "chrome",
             "title": "Research Compute & Storage Allocation Request - Employee",
             "note": "translate.google.com"
+          },
+          {
+            "start": "18:30",
+            "end": "18:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "26 hits"
+          },
+          {
+            "start": "18:33",
+            "end": "19:00",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Research Compute & Storage Allocation Request - Employee",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "19:00",
+            "end": "19:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "29 hits"
+          },
+          {
+            "start": "19:03",
+            "end": "19:18",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Unit: Graduate Research Induction | iLearn",
+            "note": "ilearn.mq.edu.au"
           },
           {
             "start": "19:18",
@@ -379,23 +483,311 @@
             "note": "musac.jonasleisure.com.au"
           },
           {
+            "start": "19:38",
+            "end": "19:41",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "13 hits"
+          },
+          {
+            "start": "19:56",
+            "end": "19:59",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "20:11",
+            "end": "20:14",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "20:28",
+            "end": "20:31",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
+          },
+          {
+            "start": "20:44",
+            "end": "20:49",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "21:00",
+            "end": "21:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "3 hits"
+          },
+          {
+            "start": "21:22",
+            "end": "21:25",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "21:37",
+            "end": "21:40",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "21:54",
+            "end": "21:57",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "22:04",
+            "end": "22:07",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "21 hits"
+          },
+          {
+            "start": "22:36",
+            "end": "22:39",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
+          },
+          {
+            "start": "22:51",
+            "end": "22:54",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "23:05",
+            "end": "23:08",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "23:21",
+            "end": "23:24",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "23:39",
+            "end": "23:42",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "23:55",
+            "end": "23:58",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
+          },
+          {
+            "start": "00:06",
+            "end": "00:09",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
             "start": "00:10",
+            "end": "00:30",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "EasyFive Low-Rise Classic Wide-Leg Pant *Short | Lululemon A",
+            "note": "googleadservices.com"
+          },
+          {
+            "start": "00:30",
+            "end": "00:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "00:33",
             "end": "00:57",
             "cat": "personal",
             "src": "chrome",
             "title": "EasyFive Low-Rise Classic Wide-Leg Pant *Short | Lululemon A",
             "note": "googleadservices.com"
+          },
+          {
+            "start": "01:10",
+            "end": "01:13",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "3 hits"
+          },
+          {
+            "start": "01:28",
+            "end": "01:31",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "01:45",
+            "end": "01:48",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "02:03",
+            "end": "02:06",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "02:20",
+            "end": "02:23",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "02:38",
+            "end": "02:41",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "02:57",
+            "end": "03:00",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "03:14",
+            "end": "03:17",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "03:32",
+            "end": "03:35",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "03:48",
+            "end": "03:51",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
+          },
+          {
+            "start": "04:06",
+            "end": "04:09",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
+          },
+          {
+            "start": "04:21",
+            "end": "04:24",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "04:39",
+            "end": "04:42",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "04:56",
+            "end": "04:59",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "05:12",
+            "end": "05:15",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "05:28",
+            "end": "05:31",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "05:46",
+            "end": "05:49",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
           }
         ],
-        "logged": 466,
-        "real": 320,
-        "deep": 320,
-        "ratio": 0.686269247320832,
+        "logged": 634,
+        "real": 509,
+        "deep": 509,
+        "ratio": 0.803093684649875,
         "stats": {
-          "contextSwitches": 30,
-          "tabsOpened": 60,
-          "longestFocus": "2h 54m",
-          "justOneMoreThing": 7
+          "contextSwitches": 25,
+          "tabsOpened": 45,
+          "longestFocus": "6h 15m",
+          "justOneMoreThing": 2
         }
       },
       {
@@ -405,16 +797,144 @@
         "weekend": false,
         "dateShort": "Tue, Jun 2",
         "dateLong": "Tuesday, June 2",
-        "dayStart": "10:07",
-        "dayEnd": "00:36",
+        "dayStart": "06:03",
+        "dayEnd": "03:27",
         "events": [
           {
-            "start": "10:07",
+            "start": "06:03",
+            "end": "06:06",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "06:20",
+            "end": "06:23",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "06:34",
+            "end": "06:37",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
+          },
+          {
+            "start": "06:52",
+            "end": "06:55",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
+          },
+          {
+            "start": "07:07",
+            "end": "07:10",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
+          },
+          {
+            "start": "07:25",
+            "end": "07:28",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "07:43",
+            "end": "07:46",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "07:58",
+            "end": "08:01",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "08:15",
+            "end": "08:22",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "10 hits"
+          },
+          {
+            "start": "08:35",
+            "end": "08:38",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "08:53",
+            "end": "08:56",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "09:00",
+            "end": "09:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
+          },
+          {
+            "start": "09:18",
+            "end": "09:21",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "09:36",
+            "end": "09:39",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "09:52",
+            "end": "09:55",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
+          },
+          {
+            "start": "10:03",
+            "end": "10:07",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "14 hits"
+          },
+          {
+            "start": "10:08",
             "end": "10:22",
             "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
+            "src": "chrome",
+            "title": "Honest Worklog",
+            "note": "localhost:1314"
           },
           {
             "start": "10:23",
@@ -426,22 +946,22 @@
           },
           {
             "start": "10:27",
-            "end": "10:50",
+            "end": "10:30",
             "cat": "research",
             "src": "chrome",
             "title": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com",
             "note": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com"
           },
           {
-            "start": "10:50",
-            "end": "10:52",
+            "start": "10:30",
+            "end": "10:35",
             "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
+            "src": "claude",
+            "title": "Claude session · ada",
+            "note": "26 hits"
           },
           {
-            "start": "10:52",
+            "start": "10:35",
             "end": "10:53",
             "cat": "research",
             "src": "chrome",
@@ -450,14 +970,6 @@
           },
           {
             "start": "10:53",
-            "end": "10:54",
-            "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
-          },
-          {
-            "start": "10:55",
             "end": "11:00",
             "cat": "coding",
             "src": "macos",
@@ -466,22 +978,14 @@
           },
           {
             "start": "11:01",
-            "end": "11:12",
+            "end": "11:14",
             "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "src": "claude",
+            "title": "Claude session · log",
+            "note": "155 hits"
           },
           {
-            "start": "11:12",
-            "end": "11:13",
-            "cat": "research",
-            "src": "chrome",
-            "title": "Inspect Petri",
-            "note": "meridianlabs-ai.github.io"
-          },
-          {
-            "start": "11:13",
+            "start": "11:14",
             "end": "11:15",
             "cat": "admin",
             "src": "macos",
@@ -490,22 +994,38 @@
           },
           {
             "start": "11:15",
-            "end": "11:32",
+            "end": "11:30",
             "cat": "research",
             "src": "chrome",
             "title": "Inspect Petri",
             "note": "meridianlabs-ai.github.io"
           },
           {
-            "start": "11:32",
+            "start": "11:30",
             "end": "11:43",
             "cat": "coding",
-            "src": "chrome",
-            "title": "meridianlabs-ai/inspect_petri: An alignment auditing agent c",
-            "note": "github.com"
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "13 hits"
           },
           {
             "start": "11:43",
+            "end": "12:00",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "12:00",
+            "end": "12:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "13 hits"
+          },
+          {
+            "start": "12:03",
             "end": "12:04",
             "cat": "admin",
             "src": "chrome",
@@ -530,6 +1050,22 @@
           },
           {
             "start": "12:24",
+            "end": "12:30",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(1) Thariq (@trq212) / X",
+            "note": "x.com"
+          },
+          {
+            "start": "12:30",
+            "end": "12:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "20 hits"
+          },
+          {
+            "start": "12:33",
             "end": "12:39",
             "cat": "personal",
             "src": "chrome",
@@ -538,6 +1074,22 @@
           },
           {
             "start": "12:53",
+            "end": "13:00",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Inbox (2,433) - ada.ren.cn@gmail.com - Gmail",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "13:00",
+            "end": "13:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "13 hits"
+          },
+          {
+            "start": "13:03",
             "end": "13:08",
             "cat": "admin",
             "src": "chrome",
@@ -562,14 +1114,22 @@
           },
           {
             "start": "13:25",
-            "end": "13:32",
+            "end": "13:30",
             "cat": "personal",
             "src": "chrome",
             "title": "Home | Nan Tien Temple",
             "note": "baidu.com"
           },
           {
-            "start": "13:32",
+            "start": "13:30",
+            "end": "13:32",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "13 hits"
+          },
+          {
+            "start": "13:33",
             "end": "13:50",
             "cat": "coding",
             "src": "chrome",
@@ -585,7 +1145,15 @@
             "note": "mail.google.com"
           },
           {
-            "start": "14:02",
+            "start": "14:00",
+            "end": "14:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "13 hits"
+          },
+          {
+            "start": "14:03",
             "end": "14:05",
             "cat": "personal",
             "src": "chrome",
@@ -610,11 +1178,27 @@
           },
           {
             "start": "14:13",
-            "end": "14:43",
+            "end": "14:30",
             "cat": "research",
             "src": "macos",
             "title": "zotero",
             "note": "org.zotero.zotero"
+          },
+          {
+            "start": "14:30",
+            "end": "14:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "20 hits"
+          },
+          {
+            "start": "14:33",
+            "end": "14:43",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Trade Crypto, Predict Outcomes & Earn — All in One Platform ",
+            "note": "gemini.com"
           },
           {
             "start": "14:44",
@@ -652,12 +1236,20 @@
             "start": "15:00",
             "end": "15:29",
             "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "172 hits"
           },
           {
             "start": "15:30",
+            "end": "15:50",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "172 hits"
+          },
+          {
+            "start": "15:50",
             "end": "17:08",
             "cat": "coding",
             "src": "macos",
@@ -668,17 +1260,33 @@
             "start": "17:09",
             "end": "17:23",
             "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "src": "claude",
+            "title": "Claude session · log",
+            "note": "164 hits"
           },
           {
             "start": "17:23",
-            "end": "17:36",
+            "end": "17:30",
             "cat": "research",
             "src": "chrome",
             "title": "Ada's Notes",
             "note": "adaren100.github.io"
+          },
+          {
+            "start": "17:30",
+            "end": "17:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "28 hits"
+          },
+          {
+            "start": "17:33",
+            "end": "17:36",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
           },
           {
             "start": "17:37",
@@ -714,11 +1322,19 @@
           },
           {
             "start": "17:48",
-            "end": "18:03",
+            "end": "18:00",
             "cat": "research",
             "src": "macos",
             "title": "zotero",
             "note": "org.zotero.zotero"
+          },
+          {
+            "start": "18:00",
+            "end": "18:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "28 hits"
           },
           {
             "start": "18:04",
@@ -745,55 +1361,159 @@
             "note": "gemini.google.com"
           },
           {
+            "start": "18:30",
+            "end": "18:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "28 hits"
+          },
+          {
+            "start": "19:12",
+            "end": "19:15",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "28 hits"
+          },
+          {
+            "start": "19:36",
+            "end": "19:39",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "29 hits"
+          },
+          {
+            "start": "20:00",
+            "end": "20:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "8 hits"
+          },
+          {
+            "start": "20:30",
+            "end": "20:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "21:14",
+            "end": "21:17",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "21:32",
+            "end": "21:35",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "3 hits"
+          },
+          {
+            "start": "21:48",
+            "end": "21:51",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "22:05",
+            "end": "22:08",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "22:15",
+            "end": "22:18",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "22:31",
+            "end": "22:34",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "22:47",
+            "end": "22:50",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "23:04",
+            "end": "23:07",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "23:16",
+            "end": "23:19",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "13 hits"
+          },
+          {
+            "start": "23:33",
+            "end": "23:36",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
             "start": "23:42",
             "end": "23:55",
             "cat": "coding",
-            "src": "chrome",
-            "title": "New chat - Claude",
-            "note": "claude.ai"
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "256 hits"
           },
           {
-            "start": "23:56",
+            "start": "23:55",
             "end": "23:57",
             "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "256 hits"
           },
           {
             "start": "23:57",
-            "end": "00:11",
-            "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
-          },
-          {
-            "start": "00:11",
             "end": "00:12",
-            "cat": "research",
-            "src": "chrome",
-            "title": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com",
-            "note": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com"
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "256 hits"
           },
           {
             "start": "00:12",
-            "end": "00:13",
-            "cat": "writing",
-            "src": "chrome",
-            "title": "Claude Design feedback",
-            "note": "docs.google.com"
-          },
-          {
-            "start": "00:13",
-            "end": "00:15",
+            "end": "00:16",
             "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "256 hits"
           },
           {
-            "start": "00:15",
+            "start": "00:17",
             "end": "00:32",
             "cat": "writing",
             "src": "chrome",
@@ -807,17 +1527,57 @@
             "src": "chrome",
             "title": "Ada's Notes",
             "note": "adaren100.github.io"
+          },
+          {
+            "start": "00:45",
+            "end": "00:48",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "01:19",
+            "end": "01:22",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "02:18",
+            "end": "02:21",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "02:51",
+            "end": "02:54",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "03:24",
+            "end": "03:27",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
           }
         ],
-        "logged": 524,
-        "real": 413,
-        "deep": 413,
-        "ratio": 0.7887099324889932,
+        "logged": 637,
+        "real": 540,
+        "deep": 540,
+        "ratio": 0.8480234880195973,
         "stats": {
-          "contextSwitches": 39,
+          "contextSwitches": 49,
           "tabsOpened": 84,
-          "longestFocus": "5h 1m",
-          "justOneMoreThing": 4
+          "longestFocus": "6h 1m",
+          "justOneMoreThing": 6
         }
       },
       {
@@ -827,75 +1587,67 @@
         "weekend": false,
         "dateShort": "Wed, Jun 3",
         "dateLong": "Wednesday, June 3",
-        "dayStart": "09:16",
-        "dayEnd": "21:04",
+        "dayStart": "06:14",
+        "dayEnd": "05:58",
         "events": [
           {
-            "start": "09:16",
-            "end": "09:36",
+            "start": "06:14",
+            "end": "06:17",
             "cat": "coding",
-            "src": "chrome",
-            "title": "phd_worklog",
-            "note": "claude.ai"
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "06:48",
+            "end": "06:51",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "07:23",
+            "end": "07:26",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "08:15",
+            "end": "08:18",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "09:00",
+            "end": "09:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "09:16",
+            "end": "09:37",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "09:50",
+            "end": "09:54",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
           },
           {
             "start": "09:59",
-            "end": "10:00",
-            "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
-          },
-          {
-            "start": "10:01",
-            "end": "10:07",
-            "cat": "coding",
-            "src": "chrome",
-            "title": "Ai-Digests | Ada's Notes",
-            "note": "localhost:1313"
-          },
-          {
-            "start": "10:08",
-            "end": "10:09",
-            "cat": "research",
-            "src": "chrome",
-            "title": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com",
-            "note": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com"
-          },
-          {
-            "start": "10:09",
-            "end": "10:10",
-            "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
-          },
-          {
-            "start": "10:10",
-            "end": "10:14",
-            "cat": "research",
-            "src": "chrome",
-            "title": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com",
-            "note": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com"
-          },
-          {
-            "start": "10:14",
-            "end": "10:16",
-            "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
-          },
-          {
-            "start": "10:16",
-            "end": "10:17",
-            "cat": "research",
-            "src": "chrome",
-            "title": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com",
-            "note": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com"
-          },
-          {
-            "start": "10:17",
             "end": "10:22",
             "cat": "coding",
             "src": "macos",
@@ -906,44 +1658,36 @@
             "start": "10:22",
             "end": "10:24",
             "cat": "coding",
-            "src": "chrome",
-            "title": "Claude",
-            "note": "claude.ai"
+            "src": "claude",
+            "title": "Claude session · log",
+            "note": "293 hits"
           },
           {
             "start": "10:24",
-            "end": "10:29",
-            "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
-          },
-          {
-            "start": "10:29",
             "end": "10:31",
-            "cat": "research",
-            "src": "chrome",
-            "title": "Where the time actually went | Ada's Notes",
-            "note": "adaren100.github.io"
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · log",
+            "note": "293 hits"
           },
           {
             "start": "10:32",
-            "end": "10:33",
-            "cat": "research",
-            "src": "macos",
-            "title": "Preview",
-            "note": "com.apple.Preview"
-          },
-          {
-            "start": "10:33",
             "end": "10:38",
             "cat": "coding",
-            "src": "chrome",
-            "title": "New repository",
-            "note": "localhost:1313"
+            "src": "claude",
+            "title": "Claude session · log",
+            "note": "293 hits"
           },
           {
             "start": "10:38",
+            "end": "10:39",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · log",
+            "note": "293 hits"
+          },
+          {
+            "start": "10:39",
             "end": "10:41",
             "cat": "admin",
             "src": "chrome",
@@ -954,21 +1698,37 @@
             "start": "10:42",
             "end": "10:50",
             "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "src": "claude",
+            "title": "Claude session · log",
+            "note": "85 hits"
+          },
+          {
+            "start": "10:50",
+            "end": "10:51",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · log",
+            "note": "85 hits"
           },
           {
             "start": "10:51",
             "end": "10:54",
             "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "src": "claude",
+            "title": "Claude session · log",
+            "note": "85 hits"
+          },
+          {
+            "start": "10:54",
+            "end": "10:56",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · log",
+            "note": "85 hits"
           },
           {
             "start": "10:58",
-            "end": "11:00",
+            "end": "10:59",
             "cat": "coding",
             "src": "macos",
             "title": "VSCode",
@@ -976,22 +1736,22 @@
           },
           {
             "start": "11:00",
-            "end": "11:01",
-            "cat": "research",
-            "src": "chrome",
-            "title": "Where the time actually went | Ada's Notes",
-            "note": "adaren100.github.io"
+            "end": "11:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · log",
+            "note": "120 hits"
           },
           {
             "start": "11:03",
-            "end": "11:13",
+            "end": "11:16",
             "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "src": "claude",
+            "title": "Claude session · log",
+            "note": "120 hits"
           },
           {
-            "start": "11:13",
+            "start": "11:16",
             "end": "11:21",
             "cat": "research",
             "src": "chrome",
@@ -1008,14 +1768,14 @@
           },
           {
             "start": "11:36",
-            "end": "11:37",
+            "end": "11:42",
             "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "src": "claude",
+            "title": "Claude session · log",
+            "note": "118 hits"
           },
           {
-            "start": "11:37",
+            "start": "11:42",
             "end": "11:44",
             "cat": "research",
             "src": "chrome",
@@ -1033,10 +1793,10 @@
           {
             "start": "11:48",
             "end": "11:49",
-            "cat": "admin",
-            "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · log",
+            "note": "12 hits"
           },
           {
             "start": "11:51",
@@ -1048,6 +1808,22 @@
           },
           {
             "start": "11:58",
+            "end": "12:00",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(3) OpenAI on X: \"From question to model. The public equity ",
+            "note": "x.com"
+          },
+          {
+            "start": "12:00",
+            "end": "12:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "12:03",
             "end": "12:06",
             "cat": "personal",
             "src": "chrome",
@@ -1061,6 +1837,22 @@
             "src": "chrome",
             "title": "Blog | Claude",
             "note": "claude.com"
+          },
+          {
+            "start": "12:30",
+            "end": "12:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "13:00",
+            "end": "13:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
           },
           {
             "start": "13:04",
@@ -1088,11 +1880,27 @@
           },
           {
             "start": "13:10",
-            "end": "13:40",
+            "end": "13:30",
             "cat": "admin",
             "src": "chrome",
             "title": "SemEval 2026 - Track Manager Console",
             "note": "softconf.com"
+          },
+          {
+            "start": "13:30",
+            "end": "13:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "13:33",
+            "end": "13:40",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
           },
           {
             "start": "13:46",
@@ -1112,27 +1920,27 @@
           },
           {
             "start": "13:57",
-            "end": "14:04",
+            "end": "14:00",
             "cat": "admin",
             "src": "chrome",
             "title": "Google Translate",
             "note": "translate.google.com"
           },
           {
-            "start": "14:04",
+            "start": "14:00",
             "end": "14:05",
             "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "39 hits"
           },
           {
             "start": "14:05",
             "end": "14:13",
             "cat": "coding",
-            "src": "chrome",
-            "title": "Claude",
-            "note": "claude.ai"
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "39 hits"
           },
           {
             "start": "14:13",
@@ -1144,75 +1952,27 @@
           },
           {
             "start": "14:28",
-            "end": "14:31",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
-          },
-          {
-            "start": "14:31",
-            "end": "14:32",
-            "cat": "personal",
-            "src": "chrome",
-            "title": "Perisher Australia's Largest and Favourite Ski and Snowboard",
-            "note": "google.com"
-          },
-          {
-            "start": "14:32",
-            "end": "14:33",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
-          },
-          {
-            "start": "14:33",
-            "end": "14:34",
-            "cat": "personal",
-            "src": "chrome",
-            "title": "Perisher Australia's Largest and Favourite Ski and Snowboard",
-            "note": "google.com"
-          },
-          {
-            "start": "14:34",
-            "end": "14:40",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
-          },
-          {
-            "start": "14:46",
-            "end": "15:04",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
-          },
-          {
-            "start": "15:04",
-            "end": "15:09",
-            "cat": "research",
-            "src": "chrome",
-            "title": "Claude Opus 4.8; OpenAI on evals and biodefense | Ada's Note",
-            "note": "adaren100.github.io"
-          },
-          {
-            "start": "15:09",
             "end": "15:11",
             "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
+            "src": "claude",
+            "title": "AI research digest issue",
+            "note": "249 hits"
           },
           {
             "start": "15:12",
+            "end": "15:14",
+            "cat": "coding",
+            "src": "claude",
+            "title": "AI research digest issue",
+            "note": "249 hits"
+          },
+          {
+            "start": "15:14",
             "end": "15:20",
             "cat": "admin",
-            "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "src": "chrome",
+            "title": "Data Management Plan v1.7 - FoRA",
+            "note": "fora-form.mq.edu.au"
           },
           {
             "start": "15:20",
@@ -1224,14 +1984,22 @@
           },
           {
             "start": "15:25",
-            "end": "15:32",
+            "end": "15:30",
             "cat": "admin",
             "src": "chrome",
             "title": "Data Management Plan v1.7 - FoRA",
             "note": "fora-form.mq.edu.au"
           },
           {
-            "start": "15:32",
+            "start": "15:30",
+            "end": "15:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "15:33",
             "end": "15:39",
             "cat": "research",
             "src": "chrome",
@@ -1280,78 +2048,70 @@
           },
           {
             "start": "15:56",
-            "end": "16:02",
+            "end": "16:00",
             "cat": "writing",
             "src": "macos",
             "title": "obsidian",
             "note": "md.obsidian"
           },
           {
-            "start": "16:02",
+            "start": "16:00",
             "end": "16:03",
             "cat": "coding",
-            "src": "chrome",
-            "title": "Claude",
-            "note": "claude.ai"
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
           },
           {
             "start": "16:04",
-            "end": "16:08",
+            "end": "16:07",
             "cat": "coding",
             "src": "macos",
             "title": "VSCode",
             "note": "com.microsoft.VSCode"
           },
           {
-            "start": "16:08",
-            "end": "16:11",
-            "cat": "writing",
-            "src": "chrome",
-            "title": "Ada's Notes",
-            "note": "file:///Users/ada/Documents/MQ/blog/blog"
-          },
-          {
-            "start": "16:11",
-            "end": "16:12",
-            "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
-          },
-          {
-            "start": "16:12",
+            "start": "16:07",
             "end": "16:14",
-            "cat": "writing",
-            "src": "chrome",
-            "title": "Ada's Notes",
-            "note": "file:///Users/ada/Documents/MQ/blog/blog"
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · log",
+            "note": "150 hits"
           },
           {
             "start": "16:14",
             "end": "16:15",
             "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "src": "claude",
+            "title": "Claude session · log",
+            "note": "150 hits"
           },
           {
             "start": "16:15",
-            "end": "16:17",
+            "end": "16:24",
             "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "src": "claude",
+            "title": "Claude session · log",
+            "note": "150 hits"
           },
           {
-            "start": "16:17",
-            "end": "16:20",
-            "cat": "research",
+            "start": "16:24",
+            "end": "16:30",
+            "cat": "admin",
             "src": "chrome",
-            "title": "Where the time actually went | Ada's Notes",
-            "note": "adaren100.github.io"
+            "title": "Data Management Plan v1.7 - FoRA",
+            "note": "fora-form.mq.edu.au"
           },
           {
-            "start": "16:21",
+            "start": "16:30",
+            "end": "16:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "16:33",
             "end": "16:34",
             "cat": "admin",
             "src": "chrome",
@@ -1360,14 +2120,14 @@
           },
           {
             "start": "16:35",
-            "end": "16:41",
+            "end": "16:44",
             "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "src": "claude",
+            "title": "Claude session · log",
+            "note": "32 hits"
           },
           {
-            "start": "16:41",
+            "start": "16:44",
             "end": "16:49",
             "cat": "admin",
             "src": "chrome",
@@ -1376,14 +2136,38 @@
           },
           {
             "start": "16:49",
-            "end": "16:55",
+            "end": "16:50",
             "cat": "coding",
             "src": "macos",
             "title": "VSCode",
             "note": "com.microsoft.VSCode"
           },
           {
-            "start": "16:55",
+            "start": "16:51",
+            "end": "16:56",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · log",
+            "note": "53 hits"
+          },
+          {
+            "start": "16:57",
+            "end": "17:00",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Data Management Plan v1.7 - FoRA",
+            "note": "fora-form.mq.edu.au"
+          },
+          {
+            "start": "17:00",
+            "end": "17:04",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "17:04",
             "end": "17:07",
             "cat": "admin",
             "src": "chrome",
@@ -1399,6 +2183,30 @@
             "note": "google.com"
           },
           {
+            "start": "17:44",
+            "end": "17:47",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "18:02",
+            "end": "18:05",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "18:40",
+            "end": "18:43",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
             "start": "18:46",
             "end": "18:49",
             "cat": "personal",
@@ -1408,6 +2216,22 @@
           },
           {
             "start": "18:49",
+            "end": "19:00",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Uno-Orchestra: Parsimonious Agent Routing via Selective Dele",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "19:00",
+            "end": "19:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "19:03",
             "end": "19:09",
             "cat": "research",
             "src": "chrome",
@@ -1416,11 +2240,35 @@
           },
           {
             "start": "19:10",
+            "end": "19:30",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "19:30",
+            "end": "19:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "19:33",
             "end": "19:37",
             "cat": "admin",
             "src": "chrome",
             "title": "Google Translate",
             "note": "translate.google.com"
+          },
+          {
+            "start": "20:00",
+            "end": "20:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
           },
           {
             "start": "20:08",
@@ -1431,23 +2279,215 @@
             "note": "open.spotify.com"
           },
           {
+            "start": "20:30",
+            "end": "20:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
             "start": "20:44",
             "end": "21:04",
             "cat": "coding",
             "src": "chrome",
             "title": "CuiZHIQ/Uno-Orchestra: Uno-Orchestra: Parsimonious Agent Rou",
             "note": "github.com"
+          },
+          {
+            "start": "21:30",
+            "end": "21:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "23:12",
+            "end": "23:15",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "23:30",
+            "end": "23:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "23:48",
+            "end": "23:51",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "00:03",
+            "end": "00:06",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "00:13",
+            "end": "00:16",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "8 hits"
+          },
+          {
+            "start": "00:31",
+            "end": "00:34",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "00:48",
+            "end": "00:51",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "01:05",
+            "end": "01:08",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "01:42",
+            "end": "01:45",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "01:59",
+            "end": "02:02",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
+          },
+          {
+            "start": "02:15",
+            "end": "02:48",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "43 hits"
+          },
+          {
+            "start": "03:00",
+            "end": "03:15",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "25 hits"
+          },
+          {
+            "start": "03:31",
+            "end": "03:34",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "03:47",
+            "end": "03:50",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "04:03",
+            "end": "04:06",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "04:19",
+            "end": "04:22",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "04:34",
+            "end": "04:37",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
+          },
+          {
+            "start": "04:49",
+            "end": "04:52",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "05:04",
+            "end": "05:07",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "05:22",
+            "end": "05:25",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "05:38",
+            "end": "05:41",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "05:55",
+            "end": "05:58",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
           }
         ],
-        "logged": 494,
-        "real": 288,
-        "deep": 288,
-        "ratio": 0.5832740801851647,
+        "logged": 657,
+        "real": 489,
+        "deep": 489,
+        "ratio": 0.7442640211503474,
         "stats": {
-          "contextSwitches": 59,
-          "tabsOpened": 129,
-          "longestFocus": "59m",
-          "justOneMoreThing": 9
+          "contextSwitches": 56,
+          "tabsOpened": 96,
+          "longestFocus": "2h 14m",
+          "justOneMoreThing": 13
         }
       },
       {
@@ -1457,11 +2497,107 @@
         "weekend": false,
         "dateShort": "Thu, Jun 4",
         "dateLong": "Thursday, June 4",
-        "dayStart": "09:00",
-        "dayEnd": "00:19",
+        "dayStart": "06:09",
+        "dayEnd": "02:23",
         "events": [
           {
+            "start": "06:09",
+            "end": "06:12",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "06:26",
+            "end": "06:29",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "06:42",
+            "end": "06:45",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "06:58",
+            "end": "07:01",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "07:14",
+            "end": "07:17",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
+          },
+          {
+            "start": "07:30",
+            "end": "07:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "07:46",
+            "end": "07:49",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "08:03",
+            "end": "08:06",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "08:26",
+            "end": "08:29",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "08:42",
+            "end": "08:45",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
+          },
+          {
+            "start": "08:57",
+            "end": "09:00",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "14 hits"
+          },
+          {
             "start": "09:00",
+            "end": "09:04",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "14 hits"
+          },
+          {
+            "start": "09:04",
             "end": "09:07",
             "cat": "meeting",
             "src": "macos",
@@ -1526,6 +2662,22 @@
           },
           {
             "start": "09:29",
+            "end": "09:30",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Denis Peskoff’s Personal Website | Denis Peskoff",
+            "note": "scholar.google.com"
+          },
+          {
+            "start": "09:30",
+            "end": "09:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "09:33",
             "end": "09:37",
             "cat": "research",
             "src": "chrome",
@@ -1549,15 +2701,23 @@
             "note": "scholar.google.com"
           },
           {
-            "start": "09:59",
-            "end": "10:01",
-            "cat": "meeting",
-            "src": "macos",
-            "title": "xos",
-            "note": "us.zoom.xos"
+            "start": "10:00",
+            "end": "10:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
           },
           {
-            "start": "10:32",
+            "start": "10:30",
+            "end": "10:35",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · ada",
+            "note": "25 hits"
+          },
+          {
+            "start": "10:35",
             "end": "10:36",
             "cat": "writing",
             "src": "local",
@@ -1582,6 +2742,14 @@
           },
           {
             "start": "10:46",
+            "end": "10:50",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · log",
+            "note": "52 hits"
+          },
+          {
+            "start": "10:50",
             "end": "10:56",
             "cat": "personal",
             "src": "chrome",
@@ -1590,19 +2758,11 @@
           },
           {
             "start": "10:56",
-            "end": "11:07",
+            "end": "11:09",
             "cat": "coding",
             "src": "macos",
             "title": "VSCode",
             "note": "com.microsoft.VSCode"
-          },
-          {
-            "start": "11:07",
-            "end": "11:09",
-            "cat": "personal",
-            "src": "chrome",
-            "title": "(7) Josh Woodward on X: \"A short backstory on this one: A sm",
-            "note": "x.com"
           },
           {
             "start": "11:09",
@@ -1615,53 +2775,45 @@
           {
             "start": "11:12",
             "end": "11:15",
-            "cat": "personal",
-            "src": "chrome",
-            "title": "(7) Josh Woodward on X: \"A short backstory on this one: A sm",
-            "note": "x.com"
-          },
-          {
-            "start": "11:15",
-            "end": "11:15",
-            "cat": "research",
-            "src": "chrome",
-            "title": "ViBench — A Benchmark on Vibe Coding",
-            "note": "vibench.ai"
-          },
-          {
-            "start": "11:15",
-            "end": "11:19",
             "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "src": "claude",
+            "title": "Claude session · log",
+            "note": "36 hits"
           },
           {
-            "start": "11:19",
-            "end": "11:31",
+            "start": "11:15",
+            "end": "11:26",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · log",
+            "note": "36 hits"
+          },
+          {
+            "start": "11:26",
+            "end": "11:30",
             "cat": "research",
             "src": "chrome",
             "title": "ViBench — A Benchmark on Vibe Coding",
             "note": "vibench.ai"
           },
           {
-            "start": "11:31",
+            "start": "11:30",
             "end": "11:51",
             "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "193 hits"
           },
           {
             "start": "11:51",
-            "end": "11:52",
-            "cat": "writing",
-            "src": "macos",
-            "title": "obsidian",
-            "note": "md.obsidian"
+            "end": "11:56",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "193 hits"
           },
           {
-            "start": "11:52",
+            "start": "11:56",
             "end": "12:00",
             "cat": "research",
             "src": "chrome",
@@ -1670,14 +2822,14 @@
           },
           {
             "start": "12:00",
-            "end": "12:03",
+            "end": "12:09",
             "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "56 hits"
           },
           {
-            "start": "12:03",
+            "start": "12:09",
             "end": "12:35",
             "cat": "research",
             "src": "chrome",
@@ -1685,28 +2837,52 @@
             "note": "adaren100.github.io"
           },
           {
+            "start": "12:41",
+            "end": "12:44",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "13:02",
+            "end": "13:05",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
             "start": "13:11",
-            "end": "13:16",
+            "end": "13:22",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · log",
+            "note": "65 hits"
+          },
+          {
+            "start": "13:22",
+            "end": "13:30",
             "cat": "research",
             "src": "chrome",
             "title": "ViBench: A Benchmark on Vibe Coding | Proceedings of the ACM",
             "note": "adaren100.github.io"
           },
           {
-            "start": "13:16",
-            "end": "13:19",
+            "start": "13:30",
+            "end": "13:33",
             "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
           },
           {
-            "start": "13:19",
+            "start": "13:33",
             "end": "13:37",
             "cat": "research",
-            "src": "chrome",
-            "title": "ViBench: A Benchmark on Vibe Coding | Proceedings of the ACM",
-            "note": "adaren100.github.io"
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
           },
           {
             "start": "13:38",
@@ -1750,6 +2926,22 @@
           },
           {
             "start": "13:56",
+            "end": "14:00",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "which year is it? is it 2027 next year - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "14:00",
+            "end": "14:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "14:03",
             "end": "14:04",
             "cat": "personal",
             "src": "chrome",
@@ -1789,15 +2981,15 @@
             "note": "google.com"
           },
           {
-            "start": "14:22",
-            "end": "14:31",
+            "start": "14:30",
+            "end": "14:32",
             "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
           },
           {
-            "start": "14:31",
+            "start": "14:33",
             "end": "14:34",
             "cat": "admin",
             "src": "macos",
@@ -1821,12 +3013,12 @@
             "note": "md.obsidian"
           },
           {
-            "start": "14:39",
+            "start": "14:38",
             "end": "14:52",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Google Translate",
+            "note": "translate.google.com"
           },
           {
             "start": "14:53",
@@ -1848,17 +3040,17 @@
             "start": "14:57",
             "end": "15:13",
             "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
+            "src": "chrome",
+            "title": "Sign in - Google Accounts",
+            "note": "claude.ai"
           },
           {
             "start": "15:13",
             "end": "15:15",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
+            "cat": "research",
+            "src": "chrome",
+            "title": "[2507.20534] Kimi K2: Open Agentic Intelligence",
+            "note": "arxiv.org"
           },
           {
             "start": "15:15",
@@ -1886,43 +3078,51 @@
           },
           {
             "start": "15:28",
-            "end": "15:33",
+            "end": "15:30",
             "cat": "research",
             "src": "macos",
             "title": "zotero",
             "note": "org.zotero.zotero"
+          },
+          {
+            "start": "15:30",
+            "end": "15:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
           },
           {
             "start": "15:33",
             "end": "15:35",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
+            "cat": "writing",
+            "src": "chrome",
+            "title": "Zotero | Your personal research assistant",
+            "note": "zotero.org"
           },
           {
             "start": "15:36",
-            "end": "15:42",
+            "end": "15:43",
             "cat": "research",
             "src": "macos",
             "title": "zotero",
             "note": "org.zotero.zotero"
           },
           {
-            "start": "15:42",
-            "end": "15:43",
+            "start": "15:43",
+            "end": "15:46",
             "cat": "admin",
             "src": "chrome",
             "title": "Google Translate",
             "note": "translate.google.com"
           },
           {
-            "start": "15:43",
+            "start": "16:00",
             "end": "16:03",
             "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
           },
           {
             "start": "16:03",
@@ -1933,100 +3133,68 @@
             "note": "org.zotero.zotero"
           },
           {
-            "start": "16:05",
-            "end": "16:10",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
-          },
-          {
             "start": "16:10",
-            "end": "16:12",
+            "end": "16:16",
             "cat": "research",
             "src": "macos",
             "title": "zotero",
             "note": "org.zotero.zotero"
-          },
-          {
-            "start": "16:13",
-            "end": "16:14",
-            "cat": "research",
-            "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
-          },
-          {
-            "start": "16:14",
-            "end": "16:15",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
-          },
-          {
-            "start": "16:16",
-            "end": "16:28",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
           },
           {
             "start": "16:29",
-            "end": "16:32",
+            "end": "16:30",
             "cat": "admin",
             "src": "chrome",
             "title": "(14) Discord | #emnlp-paper | Online Polarization",
             "note": "discord.com"
           },
           {
-            "start": "16:32",
+            "start": "16:30",
+            "end": "16:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "16:33",
             "end": "16:44",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
+            "cat": "admin",
+            "src": "chrome",
+            "title": "(14) Discord | #emnlp-paper | Online Polarization",
+            "note": "discord.com"
           },
           {
-            "start": "16:45",
+            "start": "16:44",
             "end": "16:46",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
-          },
-          {
-            "start": "16:46",
-            "end": "16:52",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
-          },
-          {
-            "start": "16:53",
-            "end": "16:59",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
-          },
-          {
-            "start": "16:59",
-            "end": "17:01",
             "cat": "research",
             "src": "macos",
             "title": "zotero",
             "note": "org.zotero.zotero"
           },
           {
-            "start": "17:01",
-            "end": "17:06",
-            "cat": "coding",
+            "start": "16:46",
+            "end": "16:52",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "(14) Discord | #emnlp-paper | Online Polarization",
+            "note": "discord.com"
+          },
+          {
+            "start": "16:59",
+            "end": "17:00",
+            "cat": "research",
             "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "17:00",
+            "end": "17:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
           },
           {
             "start": "17:06",
@@ -2037,20 +3205,12 @@
             "note": "com.tinyspeck.slackmacgap"
           },
           {
-            "start": "17:08",
-            "end": "17:14",
+            "start": "17:30",
+            "end": "17:33",
             "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
-          },
-          {
-            "start": "17:14",
-            "end": "17:25",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
           },
           {
             "start": "17:35",
@@ -2085,7 +3245,23 @@
             "note": "neurips.cc"
           },
           {
+            "start": "18:00",
+            "end": "18:00",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
             "start": "18:01",
+            "end": "18:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "18:03",
             "end": "18:10",
             "cat": "personal",
             "src": "chrome",
@@ -2109,7 +3285,31 @@
             "note": "google.com"
           },
           {
+            "start": "18:36",
+            "end": "18:39",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
             "start": "18:40",
+            "end": "19:00",
+            "cat": "writing",
+            "src": "chrome",
+            "title": "SemEval_Task Description Paper - Online LaTeX Editor Overlea",
+            "note": "overleaf.com"
+          },
+          {
+            "start": "19:00",
+            "end": "19:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "19:03",
             "end": "19:09",
             "cat": "writing",
             "src": "chrome",
@@ -2126,38 +3326,30 @@
           },
           {
             "start": "19:13",
-            "end": "19:40",
+            "end": "19:30",
             "cat": "writing",
             "src": "chrome",
             "title": "SemEval2026-task 9 - POLAR - Google Slides",
             "note": "docs.google.com"
           },
           {
-            "start": "19:40",
-            "end": "19:43",
+            "start": "19:30",
+            "end": "19:33",
             "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "19:33",
+            "end": "19:42",
+            "cat": "writing",
+            "src": "chrome",
+            "title": "SemEval2026-task 9 - POLAR - Google Slides",
+            "note": "docs.google.com"
           },
           {
             "start": "19:43",
-            "end": "19:49",
-            "cat": "writing",
-            "src": "chrome",
-            "title": "SemEval2026-task 9 - POLAR - Google Slides",
-            "note": "docs.google.com"
-          },
-          {
-            "start": "19:49",
-            "end": "19:52",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
-          },
-          {
-            "start": "19:52",
             "end": "19:56",
             "cat": "writing",
             "src": "chrome",
@@ -2166,38 +3358,30 @@
           },
           {
             "start": "20:00",
-            "end": "20:32",
+            "end": "20:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "20:03",
+            "end": "20:30",
             "cat": "writing",
             "src": "chrome",
             "title": "SemEval2026-task 9 - POLAR - Google Slides",
             "note": "docs.google.com"
           },
           {
-            "start": "20:32",
+            "start": "20:30",
             "end": "20:33",
             "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
           },
           {
             "start": "20:33",
-            "end": "20:44",
-            "cat": "writing",
-            "src": "chrome",
-            "title": "SemEval2026-task 9 - POLAR - Google Slides",
-            "note": "docs.google.com"
-          },
-          {
-            "start": "20:44",
-            "end": "20:45",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
-          },
-          {
-            "start": "20:45",
             "end": "20:50",
             "cat": "writing",
             "src": "chrome",
@@ -2206,6 +3390,22 @@
           },
           {
             "start": "20:52",
+            "end": "21:00",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Search results for First place - Flaticon",
+            "note": "flaticon.com"
+          },
+          {
+            "start": "21:00",
+            "end": "21:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "21:03",
             "end": "21:12",
             "cat": "personal",
             "src": "chrome",
@@ -2222,6 +3422,22 @@
           },
           {
             "start": "21:15",
+            "end": "21:30",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "(23) Discord | #technical-general | POLAR-Internal",
+            "note": "discord.com"
+          },
+          {
+            "start": "21:30",
+            "end": "21:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "21:33",
             "end": "21:35",
             "cat": "admin",
             "src": "chrome",
@@ -2229,7 +3445,47 @@
             "note": "discord.com"
           },
           {
+            "start": "22:08",
+            "end": "22:11",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "3 hits"
+          },
+          {
+            "start": "22:24",
+            "end": "22:27",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "22:41",
+            "end": "22:44",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "22:57",
+            "end": "23:00",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
             "start": "23:08",
+            "end": "23:11",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "21 hits"
+          },
+          {
+            "start": "23:11",
             "end": "23:28",
             "cat": "writing",
             "src": "chrome",
@@ -2237,12 +3493,20 @@
             "note": "docs.google.com"
           },
           {
-            "start": "23:53",
+            "start": "23:44",
+            "end": "23:47",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "23:52",
             "end": "23:55",
-            "cat": "research",
-            "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "2 hits"
           },
           {
             "start": "23:55",
@@ -2254,22 +3518,86 @@
           },
           {
             "start": "23:59",
-            "end": "00:19",
+            "end": "00:16",
             "cat": "writing",
             "src": "chrome",
             "title": "SemEval2026-task 9 - POLAR - Google Slides",
             "note": "docs.google.com"
+          },
+          {
+            "start": "00:16",
+            "end": "00:19",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "3 hits"
+          },
+          {
+            "start": "00:35",
+            "end": "00:38",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "00:51",
+            "end": "00:54",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "01:08",
+            "end": "01:11",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "01:25",
+            "end": "01:28",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "01:41",
+            "end": "01:44",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "01:58",
+            "end": "02:01",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "02:20",
+            "end": "02:23",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
           }
         ],
-        "logged": 678,
-        "real": 542,
-        "deep": 542,
-        "ratio": 0.7986533506994682,
+        "logged": 702,
+        "real": 557,
+        "deep": 557,
+        "ratio": 0.7938980322937976,
         "stats": {
-          "contextSwitches": 84,
-          "tabsOpened": 135,
-          "longestFocus": "2h 5m",
-          "justOneMoreThing": 11
+          "contextSwitches": 97,
+          "tabsOpened": 153,
+          "longestFocus": "2h 23m",
+          "justOneMoreThing": 14
         }
       },
       {
@@ -2284,6 +3612,22 @@
         "events": [
           {
             "start": "10:21",
+            "end": "10:30",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "10:30",
+            "end": "10:35",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · ada",
+            "note": "7 hits"
+          },
+          {
+            "start": "10:35",
             "end": "11:14",
             "cat": "research",
             "src": "macos",
@@ -2304,7 +3648,7 @@
         "deep": 120,
         "ratio": 1.0,
         "stats": {
-          "contextSwitches": 0,
+          "contextSwitches": 2,
           "tabsOpened": 0,
           "longestFocus": "2h",
           "justOneMoreThing": 0
@@ -2317,17 +3661,42 @@
         "weekend": true,
         "dateShort": "Sat, Jun 6",
         "dateLong": "Saturday, June 6",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "10:13",
+        "dayEnd": "11:48",
+        "events": [
+          {
+            "start": "10:13",
+            "end": "10:16",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · ada",
+            "note": "6 hits"
+          },
+          {
+            "start": "10:30",
+            "end": "10:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · ada",
+            "note": "6 hits"
+          },
+          {
+            "start": "11:43",
+            "end": "11:48",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · ada",
+            "note": "2 hits"
+          }
+        ],
+        "logged": 11,
+        "real": 11,
+        "deep": 11,
+        "ratio": 1.0,
         "stats": {
           "contextSwitches": 0,
           "tabsOpened": 0,
-          "longestFocus": "0m",
+          "longestFocus": "11m",
           "justOneMoreThing": 0
         }
       },
@@ -2338,17 +3707,50 @@
         "weekend": true,
         "dateShort": "Sun, Jun 7",
         "dateLong": "Sunday, June 7",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "10:08",
+        "dayEnd": "11:57",
+        "events": [
+          {
+            "start": "10:08",
+            "end": "10:11",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · ada",
+            "note": "6 hits"
+          },
+          {
+            "start": "10:42",
+            "end": "10:45",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · ada",
+            "note": "6 hits"
+          },
+          {
+            "start": "11:48",
+            "end": "11:51",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · ada",
+            "note": "1 hit"
+          },
+          {
+            "start": "11:54",
+            "end": "11:57",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · ada",
+            "note": "1 hit"
+          }
+        ],
+        "logged": 12,
+        "real": 12,
+        "deep": 12,
+        "ratio": 1.0,
         "stats": {
           "contextSwitches": 0,
           "tabsOpened": 0,
-          "longestFocus": "0m",
+          "longestFocus": "12m",
           "justOneMoreThing": 0
         }
       },
@@ -2359,17 +3761,58 @@
         "weekend": false,
         "dateShort": "Mon, Jun 8",
         "dateLong": "Monday, June 8",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "10:07",
+        "dayEnd": "12:12",
+        "events": [
+          {
+            "start": "10:07",
+            "end": "10:10",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · ada",
+            "note": "6 hits"
+          },
+          {
+            "start": "10:42",
+            "end": "10:45",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · ada",
+            "note": "6 hits"
+          },
+          {
+            "start": "11:08",
+            "end": "11:12",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "12:00",
+            "end": "12:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · ada",
+            "note": "1 hit"
+          },
+          {
+            "start": "12:09",
+            "end": "12:12",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "1 hit"
+          }
+        ],
+        "logged": 15,
+        "real": 15,
+        "deep": 15,
+        "ratio": 1.0,
         "stats": {
           "contextSwitches": 0,
           "tabsOpened": 0,
-          "longestFocus": "0m",
+          "longestFocus": "15m",
           "justOneMoreThing": 0
         }
       },
@@ -2380,19 +3823,59 @@
         "weekend": false,
         "dateShort": "Tue, Jun 9",
         "dateLong": "Tuesday, June 9",
-        "dayStart": "11:24",
-        "dayEnd": "16:59",
+        "dayStart": "10:03",
+        "dayEnd": "05:35",
         "events": [
           {
-            "start": "11:24",
-            "end": "11:29",
-            "cat": "admin",
-            "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "start": "10:03",
+            "end": "10:06",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · ada",
+            "note": "6 hits"
           },
           {
-            "start": "11:29",
+            "start": "10:41",
+            "end": "10:44",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · ada",
+            "note": "6 hits"
+          },
+          {
+            "start": "11:06",
+            "end": "11:09",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · ada",
+            "note": "1 hit"
+          },
+          {
+            "start": "11:24",
+            "end": "11:34",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · ada",
+            "note": "15 hits"
+          },
+          {
+            "start": "11:34",
+            "end": "11:37",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Ada's Notes",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "11:37",
+            "end": "11:40",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "50 hits"
+          },
+          {
+            "start": "11:40",
             "end": "11:44",
             "cat": "research",
             "src": "chrome",
@@ -2427,9 +3910,9 @@
             "start": "12:00",
             "end": "12:06",
             "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "34 hits"
           },
           {
             "start": "12:06",
@@ -2465,6 +3948,22 @@
           },
           {
             "start": "12:23",
+            "end": "12:30",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(41) Morning Fresh Start | Cozy Cafe Jazz BGM for Relaxing D",
+            "note": "youtube.com"
+          },
+          {
+            "start": "12:30",
+            "end": "12:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "29 hits"
+          },
+          {
+            "start": "12:33",
             "end": "12:34",
             "cat": "personal",
             "src": "chrome",
@@ -2489,6 +3988,14 @@
           },
           {
             "start": "12:46",
+            "end": "13:03",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "13:03",
             "end": "13:44",
             "cat": "coding",
             "src": "macos",
@@ -2520,12 +4027,28 @@
             "note": "com.microsoft.VSCode"
           },
           {
+            "start": "14:30",
+            "end": "14:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "3 hits"
+          },
+          {
+            "start": "14:49",
+            "end": "14:52",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
+          },
+          {
             "start": "14:57",
             "end": "15:04",
             "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "56 hits"
           },
           {
             "start": "15:14",
@@ -2536,20 +4059,20 @@
             "note": "com.microsoft.VSCode"
           },
           {
-            "start": "15:33",
-            "end": "15:37",
-            "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
-          },
-          {
-            "start": "15:38",
+            "start": "15:30",
             "end": "15:58",
             "cat": "coding",
-            "src": "chrome",
-            "title": "Attention Scaling Explanation - DeepSeek",
-            "note": "chat.deepseek.com"
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "34 hits"
+          },
+          {
+            "start": "16:00",
+            "end": "16:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "32 hits"
           },
           {
             "start": "16:03",
@@ -2568,23 +4091,263 @@
             "note": "com.microsoft.VSCode"
           },
           {
-            "start": "16:32",
+            "start": "16:30",
             "end": "16:59",
             "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "32 hits"
+          },
+          {
+            "start": "17:08",
+            "end": "17:15",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "9 hits"
+          },
+          {
+            "start": "17:28",
+            "end": "17:36",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "54 hits"
+          },
+          {
+            "start": "18:04",
+            "end": "18:07",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "3 hits"
+          },
+          {
+            "start": "18:21",
+            "end": "18:26",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "26 hits"
+          },
+          {
+            "start": "18:40",
+            "end": "18:43",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "3 hits"
+          },
+          {
+            "start": "18:57",
+            "end": "19:04",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "61 hits"
+          },
+          {
+            "start": "19:41",
+            "end": "19:45",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "26 hits"
+          },
+          {
+            "start": "20:00",
+            "end": "20:04",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "35 hits"
+          },
+          {
+            "start": "20:40",
+            "end": "20:43",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
+          },
+          {
+            "start": "20:57",
+            "end": "21:00",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "21:16",
+            "end": "21:24",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "54 hits"
+          },
+          {
+            "start": "21:40",
+            "end": "21:43",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "29 hits"
+          },
+          {
+            "start": "22:16",
+            "end": "22:24",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "10 hits"
+          },
+          {
+            "start": "22:40",
+            "end": "22:43",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "3 hits"
+          },
+          {
+            "start": "22:56",
+            "end": "22:59",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "23:13",
+            "end": "23:16",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
+          },
+          {
+            "start": "23:29",
+            "end": "23:40",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "19 hits"
+          },
+          {
+            "start": "23:54",
+            "end": "23:57",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "3 hits"
+          },
+          {
+            "start": "00:13",
+            "end": "00:21",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "33 hits"
+          },
+          {
+            "start": "00:37",
+            "end": "00:40",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "32 hits"
+          },
+          {
+            "start": "01:00",
+            "end": "01:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "32 hits"
+          },
+          {
+            "start": "01:43",
+            "end": "01:46",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "3 hits"
+          },
+          {
+            "start": "01:58",
+            "end": "02:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "63 hits"
+          },
+          {
+            "start": "02:43",
+            "end": "02:46",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "33 hits"
+          },
+          {
+            "start": "03:00",
+            "end": "03:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "29 hits"
+          },
+          {
+            "start": "03:40",
+            "end": "03:44",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "33 hits"
+          },
+          {
+            "start": "04:13",
+            "end": "04:16",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "31 hits"
+          },
+          {
+            "start": "04:30",
+            "end": "04:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "29 hits"
+          },
+          {
+            "start": "05:04",
+            "end": "05:07",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "32 hits"
+          },
+          {
+            "start": "05:32",
+            "end": "05:35",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "29 hits"
           }
         ],
-        "logged": 240,
-        "real": 208,
-        "deep": 208,
-        "ratio": 0.8671291779149881,
+        "logged": 400,
+        "real": 376,
+        "deep": 376,
+        "ratio": 0.941474224272296,
         "stats": {
-          "contextSwitches": 15,
-          "tabsOpened": 21,
-          "longestFocus": "1h 43m",
-          "justOneMoreThing": 4
+          "contextSwitches": 19,
+          "tabsOpened": 24,
+          "longestFocus": "4h 14m",
+          "justOneMoreThing": 6
         }
       },
       {
@@ -2594,9 +4357,97 @@
         "weekend": false,
         "dateShort": "Wed, Jun 10",
         "dateLong": "Wednesday, June 10",
-        "dayStart": "10:14",
-        "dayEnd": "20:29",
+        "dayStart": "06:09",
+        "dayEnd": "00:21",
         "events": [
+          {
+            "start": "06:09",
+            "end": "06:12",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "3 hits"
+          },
+          {
+            "start": "06:27",
+            "end": "06:30",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
+          },
+          {
+            "start": "06:44",
+            "end": "06:49",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "55 hits"
+          },
+          {
+            "start": "07:09",
+            "end": "07:13",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "29 hits"
+          },
+          {
+            "start": "07:43",
+            "end": "07:46",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "29 hits"
+          },
+          {
+            "start": "08:09",
+            "end": "08:12",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "3 hits"
+          },
+          {
+            "start": "08:26",
+            "end": "08:30",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
+          },
+          {
+            "start": "08:42",
+            "end": "08:46",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "32 hits"
+          },
+          {
+            "start": "08:59",
+            "end": "09:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "46 hits"
+          },
+          {
+            "start": "09:41",
+            "end": "09:44",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "09:58",
+            "end": "10:12",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "69 hits"
+          },
           {
             "start": "10:14",
             "end": "10:23",
@@ -2607,11 +4458,19 @@
           },
           {
             "start": "10:25",
-            "end": "10:35",
+            "end": "10:30",
             "cat": "admin",
             "src": "chrome",
             "title": "Inbox (2,517) - ada.ren.cn@gmail.com - Gmail",
             "note": "accounts.google.com"
+          },
+          {
+            "start": "10:30",
+            "end": "10:35",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · ada",
+            "note": "23 hits"
           },
           {
             "start": "10:35",
@@ -2655,19 +4514,19 @@
           },
           {
             "start": "10:58",
-            "end": "11:01",
+            "end": "11:00",
             "cat": "admin",
             "src": "chrome",
             "title": "908/112 TALAVERA ROAD, MACQUARIE PARK, - ada.ren.cn@gmail.co",
             "note": "accounts.google.com"
           },
           {
-            "start": "11:01",
+            "start": "11:00",
             "end": "11:06",
             "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "9 hits"
           },
           {
             "start": "11:06",
@@ -2679,7 +4538,7 @@
           },
           {
             "start": "11:11",
-            "end": "11:32",
+            "end": "11:33",
             "cat": "coding",
             "src": "macos",
             "title": "VSCode",
@@ -2743,67 +4602,171 @@
           },
           {
             "start": "11:56",
-            "end": "12:01",
+            "end": "12:00",
             "cat": "admin",
             "src": "chrome",
             "title": "Daily papers of 9 Jun 2026 - ada.ren.cn@gmail.com - Gmail",
             "note": "mail.google.com"
           },
           {
-            "start": "12:01",
-            "end": "12:34",
+            "start": "12:00",
+            "end": "12:37",
             "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "32 hits"
           },
           {
             "start": "12:37",
-            "end": "13:14",
+            "end": "13:18",
             "cat": "coding",
             "src": "macos",
             "title": "VSCode",
             "note": "com.microsoft.VSCode"
           },
           {
-            "start": "13:14",
+            "start": "13:18",
             "end": "13:34",
             "cat": "admin",
             "src": "chrome",
-            "title": "Inbox (2,517) - ada.ren.cn@gmail.com - Gmail",
+            "title": "Inbox (2,541) - ada.ren.cn@gmail.com - Gmail",
             "note": "mail.google.com"
           },
           {
-            "start": "14:38",
+            "start": "13:43",
+            "end": "13:46",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "3 hits"
+          },
+          {
+            "start": "14:02",
+            "end": "14:17",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "32 hits"
+          },
+          {
+            "start": "14:32",
             "end": "15:06",
             "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "60 hits"
+          },
+          {
+            "start": "15:13",
+            "end": "15:16",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "3 hits"
+          },
+          {
+            "start": "15:29",
+            "end": "15:32",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "15:45",
+            "end": "15:48",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "16:03",
+            "end": "16:12",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "19 hits"
+          },
+          {
+            "start": "16:27",
+            "end": "16:30",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
+          },
+          {
+            "start": "16:44",
+            "end": "16:47",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "16:56",
+            "end": "16:59",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "17:11",
+            "end": "17:14",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "17:30",
+            "end": "17:42",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "25 hits"
+          },
+          {
+            "start": "17:55",
+            "end": "18:00",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "18:13",
+            "end": "18:16",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "3 hits"
+          },
+          {
+            "start": "18:21",
+            "end": "18:24",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "28 hits"
+          },
+          {
+            "start": "18:37",
+            "end": "18:40",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
           },
           {
             "start": "18:48",
-            "end": "18:56",
-            "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
-          },
-          {
-            "start": "19:03",
-            "end": "19:17",
-            "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
-          },
-          {
-            "start": "19:17",
             "end": "19:19",
-            "cat": "personal",
-            "src": "chrome",
-            "title": "Build a Large Language Model (From Scratch) - 搬书匠 - 电子书下载",
-            "note": "dumate.cn"
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "63 hits"
           },
           {
             "start": "19:19",
@@ -2815,6 +4778,22 @@
           },
           {
             "start": "19:23",
+            "end": "19:30",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Build a Large Language Model (From Scratch) - 搬书匠 - 电子书下载",
+            "note": "dumate.cn"
+          },
+          {
+            "start": "19:30",
+            "end": "19:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "8 hits"
+          },
+          {
+            "start": "19:33",
             "end": "19:36",
             "cat": "personal",
             "src": "chrome",
@@ -2876,17 +4855,57 @@
             "src": "chrome",
             "title": "Big-Tech-Researches | Ada's Notes",
             "note": "adaren100.github.io"
+          },
+          {
+            "start": "20:30",
+            "end": "20:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "21:00",
+            "end": "21:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "21:33",
+            "end": "21:36",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "23:17",
+            "end": "23:20",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "00:18",
+            "end": "00:21",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
           }
         ],
-        "logged": 312,
-        "real": 226,
-        "deep": 226,
-        "ratio": 0.7262410131926412,
+        "logged": 470,
+        "real": 403,
+        "deep": 403,
+        "ratio": 0.85660534003277,
         "stats": {
-          "contextSwitches": 26,
+          "contextSwitches": 28,
           "tabsOpened": 51,
-          "longestFocus": "1h 9m",
-          "justOneMoreThing": 5
+          "longestFocus": "2h 24m",
+          "justOneMoreThing": 7
         }
       },
       {
@@ -2896,16 +4915,56 @@
         "weekend": false,
         "dateShort": "Thu, Jun 11",
         "dateLong": "Thursday, June 11",
-        "dayStart": "10:48",
-        "dayEnd": "20:10",
+        "dayStart": "06:11",
+        "dayEnd": "23:15",
         "events": [
+          {
+            "start": "06:11",
+            "end": "06:14",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "10:02",
+            "end": "10:05",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · ada",
+            "note": "6 hits"
+          },
+          {
+            "start": "10:07",
+            "end": "10:10",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "10:40",
+            "end": "10:43",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · ada",
+            "note": "6 hits"
+          },
+          {
+            "start": "10:46",
+            "end": "10:48",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "9 hits"
+          },
           {
             "start": "10:48",
             "end": "11:08",
             "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "9 hits"
           },
           {
             "start": "11:09",
@@ -2924,20 +4983,20 @@
             "note": "com.microsoft.VSCode"
           },
           {
-            "start": "11:32",
+            "start": "11:30",
             "end": "11:37",
             "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "21 hits"
           },
           {
-            "start": "12:01",
+            "start": "12:00",
             "end": "12:13",
             "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "21 hits"
           },
           {
             "start": "12:17",
@@ -2964,6 +5023,22 @@
             "note": "chat.deepseek.com"
           },
           {
+            "start": "13:30",
+            "end": "13:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "21 hits"
+          },
+          {
+            "start": "14:00",
+            "end": "14:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "21 hits"
+          },
+          {
             "start": "14:19",
             "end": "14:39",
             "cat": "coding",
@@ -2972,24 +5047,56 @@
             "note": "chat.deepseek.com"
           },
           {
-            "start": "17:47",
-            "end": "17:54",
+            "start": "15:05",
+            "end": "15:08",
             "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
           },
           {
-            "start": "17:58",
+            "start": "15:40",
+            "end": "15:43",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "16:00",
+            "end": "16:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "16:34",
+            "end": "16:37",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "17:34",
+            "end": "17:37",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "17:47",
             "end": "18:23",
             "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "64 hits"
           },
           {
             "start": "18:27",
-            "end": "18:34",
+            "end": "18:36",
             "cat": "coding",
             "src": "macos",
             "title": "VSCode",
@@ -3004,22 +5111,70 @@
             "note": "com.microsoft.VSCode"
           },
           {
+            "start": "19:31",
+            "end": "19:34",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
             "start": "19:46",
-            "end": "20:10",
+            "end": "20:12",
             "cat": "coding",
             "src": "macos",
             "title": "VSCode",
             "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "21:00",
+            "end": "21:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "22:11",
+            "end": "22:14",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "22:37",
+            "end": "22:40",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "23:00",
+            "end": "23:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "23:12",
+            "end": "23:15",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
           }
         ],
-        "logged": 203,
-        "real": 199,
-        "deep": 199,
-        "ratio": 0.9800942402496081,
+        "logged": 268,
+        "real": 264,
+        "deep": 264,
+        "ratio": 0.9848899639381491,
         "stats": {
           "contextSwitches": 4,
           "tabsOpened": 6,
-          "longestFocus": "2h 30m",
+          "longestFocus": "3h 17m",
           "justOneMoreThing": 2
         }
       },
@@ -3030,24 +5185,56 @@
         "weekend": false,
         "dateShort": "Fri, Jun 12",
         "dateLong": "Friday, June 12",
-        "dayStart": "10:43",
+        "dayStart": "06:50",
         "dayEnd": "21:08",
         "events": [
+          {
+            "start": "06:50",
+            "end": "06:53",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "09:00",
+            "end": "09:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "10:01",
+            "end": "10:04",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · ada",
+            "note": "12 hits"
+          },
+          {
+            "start": "10:35",
+            "end": "10:38",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · ada",
+            "note": "6 hits"
+          },
           {
             "start": "10:43",
             "end": "10:56",
             "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "16 hits"
           },
           {
-            "start": "11:12",
+            "start": "11:00",
             "end": "11:28",
             "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "35 hits"
           },
           {
             "start": "11:29",
@@ -3069,17 +5256,17 @@
             "start": "12:00",
             "end": "12:15",
             "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "21 hits"
           },
           {
             "start": "12:40",
             "end": "12:43",
             "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "14 hits"
           },
           {
             "start": "12:50",
@@ -3091,19 +5278,19 @@
           },
           {
             "start": "12:57",
-            "end": "13:01",
+            "end": "13:00",
             "cat": "personal",
             "src": "chrome",
             "title": "飙升榜 - 排行榜 - 网易云音乐",
             "note": "music.163.com"
           },
           {
-            "start": "13:01",
+            "start": "13:00",
             "end": "13:06",
             "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "28 hits"
           },
           {
             "start": "13:06",
@@ -3130,7 +5317,79 @@
             "note": "com.microsoft.VSCode"
           },
           {
+            "start": "14:30",
+            "end": "14:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "15:03",
+            "end": "15:06",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "15:51",
+            "end": "15:54",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "17:01",
+            "end": "17:04",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "18:02",
+            "end": "18:05",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "19:03",
+            "end": "19:06",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "20:04",
+            "end": "20:07",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "35 hits"
+          },
+          {
             "start": "20:22",
+            "end": "20:30",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "20:30",
+            "end": "20:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "21 hits"
+          },
+          {
+            "start": "20:33",
             "end": "20:49",
             "cat": "research",
             "src": "macos",
@@ -3162,14 +5421,14 @@
             "note": "chat.deepseek.com"
           }
         ],
-        "logged": 170,
-        "real": 162,
-        "deep": 162,
-        "ratio": 0.952716652723232,
+        "logged": 216,
+        "real": 209,
+        "deep": 209,
+        "ratio": 0.9693553430671793,
         "stats": {
-          "contextSwitches": 8,
+          "contextSwitches": 10,
           "tabsOpened": 12,
-          "longestFocus": "1h 18m",
+          "longestFocus": "1h 43m",
           "justOneMoreThing": 2
         }
       },
@@ -3180,11 +5439,35 @@
         "weekend": true,
         "dateShort": "Sat, Jun 13",
         "dateLong": "Saturday, June 13",
-        "dayStart": "10:56",
-        "dayEnd": "13:37",
+        "dayStart": "10:55",
+        "dayEnd": "05:44",
         "events": [
           {
-            "start": "10:56",
+            "start": "10:55",
+            "end": "11:00",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · ada",
+            "note": "53 hits"
+          },
+          {
+            "start": "11:00",
+            "end": "11:12",
+            "cat": "writing",
+            "src": "local",
+            "title": "2026-06-13.md",
+            "note": "29 hits"
+          },
+          {
+            "start": "11:12",
+            "end": "11:23",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "77 hits"
+          },
+          {
+            "start": "11:23",
             "end": "11:25",
             "cat": "writing",
             "src": "local",
@@ -3192,7 +5475,39 @@
             "note": "29 hits"
           },
           {
-            "start": "12:39",
+            "start": "11:39",
+            "end": "11:42",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
+          },
+          {
+            "start": "11:45",
+            "end": "11:48",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "29 hits"
+          },
+          {
+            "start": "12:07",
+            "end": "12:10",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "12:38",
+            "end": "12:41",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "12:41",
             "end": "12:51",
             "cat": "research",
             "src": "chrome",
@@ -3217,6 +5532,22 @@
           },
           {
             "start": "12:55",
+            "end": "13:00",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Mythos Begets Fable, Cursor's Composer 2.5, Agents Building ",
+            "note": "accounts.google.com"
+          },
+          {
+            "start": "13:00",
+            "end": "13:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "13:03",
             "end": "13:11",
             "cat": "admin",
             "src": "chrome",
@@ -3225,22 +5556,294 @@
           },
           {
             "start": "13:11",
+            "end": "13:30",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(21) vivek (@itsreallyvivek) / X",
+            "note": "x.com"
+          },
+          {
+            "start": "13:30",
+            "end": "13:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "13:33",
             "end": "13:37",
             "cat": "personal",
             "src": "chrome",
             "title": "(21) vivek (@itsreallyvivek) / X",
             "note": "x.com"
+          },
+          {
+            "start": "14:10",
+            "end": "14:13",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "14:35",
+            "end": "14:38",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "15:07",
+            "end": "15:10",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "15:30",
+            "end": "15:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "16:05",
+            "end": "16:08",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "16:30",
+            "end": "16:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "17:12",
+            "end": "17:15",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "17:37",
+            "end": "17:40",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "18:00",
+            "end": "18:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "18:39",
+            "end": "18:42",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "19:00",
+            "end": "19:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "19:40",
+            "end": "19:43",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "20:00",
+            "end": "20:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "20:38",
+            "end": "20:41",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "21:00",
+            "end": "21:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "21:41",
+            "end": "21:44",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "22:01",
+            "end": "22:04",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "22:42",
+            "end": "22:45",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "23:00",
+            "end": "23:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "23:39",
+            "end": "23:42",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "00:12",
+            "end": "00:15",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "00:30",
+            "end": "00:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "01:02",
+            "end": "01:05",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "01:35",
+            "end": "01:38",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "02:00",
+            "end": "02:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "02:30",
+            "end": "02:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "03:07",
+            "end": "03:10",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "03:30",
+            "end": "03:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "04:02",
+            "end": "04:06",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "04:44",
+            "end": "04:47",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "05:00",
+            "end": "05:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "05:41",
+            "end": "05:44",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
           }
         ],
-        "logged": 86,
-        "real": 43,
-        "deep": 43,
-        "ratio": 0.5023831635154673,
+        "logged": 197,
+        "real": 160,
+        "deep": 160,
+        "ratio": 0.81612887002844,
         "stats": {
-          "contextSwitches": 5,
-          "tabsOpened": 12,
-          "longestFocus": "40m",
-          "justOneMoreThing": 1
+          "contextSwitches": 14,
+          "tabsOpened": 18,
+          "longestFocus": "1h 39m",
+          "justOneMoreThing": 3
         }
       },
       {
@@ -3250,26 +5853,522 @@
         "weekend": true,
         "dateShort": "Sun, Jun 14",
         "dateLong": "Sunday, June 14",
-        "dayStart": "15:02",
-        "dayEnd": "15:22",
+        "dayStart": "06:14",
+        "dayEnd": "05:44",
         "events": [
           {
+            "start": "06:14",
+            "end": "06:17",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "06:34",
+            "end": "06:37",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "07:08",
+            "end": "07:11",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "07:34",
+            "end": "07:37",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "08:01",
+            "end": "08:04",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "08:35",
+            "end": "08:38",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "09:08",
+            "end": "09:11",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "09:32",
+            "end": "09:35",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "10:08",
+            "end": "10:12",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · ada",
+            "note": "20 hits"
+          },
+          {
+            "start": "10:33",
+            "end": "10:36",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "17 hits"
+          },
+          {
+            "start": "11:00",
+            "end": "11:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "11:30",
+            "end": "11:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "12:57",
+            "end": "13:00",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "3 hits"
+          },
+          {
+            "start": "13:15",
+            "end": "13:18",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "13:31",
+            "end": "13:34",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "13:37",
+            "end": "13:40",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "14:16",
+            "end": "14:19",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "15 hits"
+          },
+          {
+            "start": "14:31",
+            "end": "14:35",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "23 hits"
+          },
+          {
             "start": "15:02",
+            "end": "15:05",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "26 hits"
+          },
+          {
+            "start": "15:05",
             "end": "15:22",
             "cat": "personal",
             "src": "chrome",
             "title": "(11) Movez (@0xMovez) / X",
             "note": "x.com"
+          },
+          {
+            "start": "15:37",
+            "end": "15:40",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "16:01",
+            "end": "16:04",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "17:08",
+            "end": "17:11",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "17:40",
+            "end": "17:43",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "18:12",
+            "end": "18:15",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "18:44",
+            "end": "18:47",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "19:13",
+            "end": "19:16",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "19:29",
+            "end": "19:32",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "19:46",
+            "end": "19:49",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "19:58",
+            "end": "20:01",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "3 hits"
+          },
+          {
+            "start": "20:14",
+            "end": "20:17",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "20:31",
+            "end": "20:34",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "20:49",
+            "end": "20:52",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "21:15",
+            "end": "21:18",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "21:32",
+            "end": "21:35",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "21:50",
+            "end": "21:53",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "22:17",
+            "end": "22:20",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "22:33",
+            "end": "22:36",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "22:51",
+            "end": "22:54",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "23:08",
+            "end": "23:11",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "23:24",
+            "end": "23:27",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "23:39",
+            "end": "23:42",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "00:01",
+            "end": "00:04",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "00:17",
+            "end": "00:20",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "00:35",
+            "end": "00:38",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "00:50",
+            "end": "00:53",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "01:08",
+            "end": "01:11",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "01:24",
+            "end": "01:27",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "01:40",
+            "end": "01:43",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "01:55",
+            "end": "01:58",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "02:11",
+            "end": "02:14",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "02:26",
+            "end": "02:29",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "02:44",
+            "end": "02:47",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "03:01",
+            "end": "03:04",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "03:18",
+            "end": "03:21",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "03:36",
+            "end": "03:39",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "03:52",
+            "end": "03:55",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "04:15",
+            "end": "04:18",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "04:31",
+            "end": "04:34",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "04:49",
+            "end": "04:52",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "05:07",
+            "end": "05:10",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "05:25",
+            "end": "05:28",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "05:41",
+            "end": "05:44",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
           }
         ],
-        "logged": 20,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0.0,
+        "logged": 206,
+        "real": 189,
+        "deep": 189,
+        "ratio": 0.9175857835639661,
         "stats": {
-          "contextSwitches": 0,
+          "contextSwitches": 2,
           "tabsOpened": 3,
-          "longestFocus": "0m",
+          "longestFocus": "2h 10m",
           "justOneMoreThing": 0
         }
       },
@@ -3280,19 +6379,459 @@
         "weekend": false,
         "dateShort": "Mon, Jun 15",
         "dateLong": "Monday, June 15",
-        "dayStart": "12:47",
-        "dayEnd": "23:13",
+        "dayStart": "06:05",
+        "dayEnd": "05:50",
         "events": [
           {
-            "start": "12:47",
+            "start": "06:05",
+            "end": "06:08",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "06:22",
+            "end": "06:25",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "06:38",
+            "end": "06:41",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "06:53",
+            "end": "06:56",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "07:11",
+            "end": "07:14",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "07:27",
+            "end": "07:30",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "07:44",
+            "end": "07:47",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "08:06",
+            "end": "08:09",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "08:22",
+            "end": "08:25",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "08:40",
+            "end": "08:43",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "08:51",
+            "end": "08:54",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "09:07",
+            "end": "09:10",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "09:24",
+            "end": "09:27",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "09:41",
+            "end": "09:44",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "09:52",
+            "end": "09:55",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "10:09",
+            "end": "10:12",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · ada",
+            "note": "12 hits"
+          },
+          {
+            "start": "10:26",
+            "end": "10:29",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "10:43",
+            "end": "10:46",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · ada",
+            "note": "12 hits"
+          },
+          {
+            "start": "11:16",
+            "end": "11:19",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · ada",
+            "note": "7 hits"
+          },
+          {
+            "start": "11:34",
+            "end": "11:37",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · ada",
+            "note": "7 hits"
+          },
+          {
+            "start": "11:51",
+            "end": "11:54",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "12:08",
+            "end": "12:11",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "12:31",
+            "end": "12:34",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "12:46",
             "end": "13:07",
             "cat": "coding",
-            "src": "chrome",
-            "title": "DeepSeek - Into the Unknown",
-            "note": "chat.deepseek.com"
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "13:11",
+            "end": "13:14",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "13:28",
+            "end": "13:31",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "13:46",
+            "end": "13:49",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "14:12",
+            "end": "14:15",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "14:29",
+            "end": "14:32",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "14:45",
+            "end": "14:48",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "14:56",
+            "end": "14:59",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "15:13",
+            "end": "15:16",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "15:31",
+            "end": "15:34",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "15:47",
+            "end": "15:50",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "16:13",
+            "end": "16:16",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "16:29",
+            "end": "16:32",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "16:45",
+            "end": "16:48",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "16:58",
+            "end": "17:01",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "17:15",
+            "end": "17:18",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "17:33",
+            "end": "17:36",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "17:49",
+            "end": "17:52",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "17:59",
+            "end": "18:02",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "18:17",
+            "end": "18:20",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "18:33",
+            "end": "18:36",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "18:50",
+            "end": "18:53",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "19:00",
+            "end": "19:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "8 hits"
+          },
+          {
+            "start": "19:35",
+            "end": "19:38",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "19:52",
+            "end": "19:55",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "20:18",
+            "end": "20:21",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "20:26",
+            "end": "20:29",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "8 hits"
+          },
+          {
+            "start": "20:42",
+            "end": "20:45",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "20:57",
+            "end": "21:00",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "21:16",
+            "end": "21:19",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "21:32",
+            "end": "21:35",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "21:48",
+            "end": "21:51",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
           },
           {
             "start": "22:01",
+            "end": "22:04",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "22:04",
             "end": "22:14",
             "cat": "personal",
             "src": "chrome",
@@ -3309,6 +6848,22 @@
           },
           {
             "start": "22:28",
+            "end": "22:30",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "lululemon Align™ High-Rise Pants 24\" *Asia Fit | Lululemon A",
+            "note": "google.com"
+          },
+          {
+            "start": "22:30",
+            "end": "22:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "22:33",
             "end": "22:53",
             "cat": "personal",
             "src": "chrome",
@@ -3317,21 +6872,213 @@
           },
           {
             "start": "22:53",
-            "end": "23:13",
+            "end": "23:11",
             "cat": "personal",
             "src": "chrome",
             "title": "lululemon Align™ High-Rise Pants 24\" *Asia Fit | Lululemon A",
             "note": "google.com"
+          },
+          {
+            "start": "23:11",
+            "end": "23:14",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "3 hits"
+          },
+          {
+            "start": "23:29",
+            "end": "23:32",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "23:47",
+            "end": "23:50",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "00:02",
+            "end": "00:05",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "00:19",
+            "end": "00:22",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "00:36",
+            "end": "00:39",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "00:52",
+            "end": "00:59",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "10 hits"
+          },
+          {
+            "start": "01:14",
+            "end": "01:17",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "01:31",
+            "end": "01:34",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "01:46",
+            "end": "01:49",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
+          },
+          {
+            "start": "02:03",
+            "end": "02:06",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
+          },
+          {
+            "start": "02:21",
+            "end": "02:24",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "02:36",
+            "end": "02:39",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "02:54",
+            "end": "02:57",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "03:12",
+            "end": "03:15",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "03:29",
+            "end": "03:32",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "03:45",
+            "end": "03:48",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "04:00",
+            "end": "04:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "04:18",
+            "end": "04:21",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "04:36",
+            "end": "04:39",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
+          },
+          {
+            "start": "04:57",
+            "end": "05:00",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
+          },
+          {
+            "start": "05:12",
+            "end": "05:15",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "05:30",
+            "end": "05:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "05:47",
+            "end": "05:50",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
           }
         ],
-        "logged": 91,
-        "real": 20,
-        "deep": 20,
-        "ratio": 0.2197178317067339,
+        "logged": 328,
+        "real": 265,
+        "deep": 265,
+        "ratio": 0.8077959673546307,
         "stats": {
-          "contextSwitches": 3,
+          "contextSwitches": 6,
           "tabsOpened": 15,
-          "longestFocus": "20m",
+          "longestFocus": "3h 6m",
           "justOneMoreThing": 0
         }
       },
@@ -3342,11 +7089,139 @@
         "weekend": false,
         "dateShort": "Tue, Jun 16",
         "dateLong": "Tuesday, June 16",
-        "dayStart": "10:03",
-        "dayEnd": "21:21",
+        "dayStart": "06:03",
+        "dayEnd": "05:53",
         "events": [
           {
-            "start": "10:03",
+            "start": "06:03",
+            "end": "06:06",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "06:20",
+            "end": "06:23",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "06:38",
+            "end": "06:41",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "06:56",
+            "end": "06:59",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "07:12",
+            "end": "07:15",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "07:30",
+            "end": "07:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
+          },
+          {
+            "start": "07:45",
+            "end": "07:48",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
+          },
+          {
+            "start": "08:01",
+            "end": "08:04",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "08:19",
+            "end": "08:22",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "08:35",
+            "end": "08:38",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "08:50",
+            "end": "08:53",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "09:00",
+            "end": "09:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "09:16",
+            "end": "09:19",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "09:32",
+            "end": "09:35",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "09:47",
+            "end": "09:50",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "10:02",
+            "end": "10:06",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · ada",
+            "note": "24 hits"
+          },
+          {
+            "start": "10:06",
             "end": "10:08",
             "cat": "writing",
             "src": "local",
@@ -3387,22 +7262,6 @@
           },
           {
             "start": "10:18",
-            "end": "10:20",
-            "cat": "research",
-            "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
-          },
-          {
-            "start": "10:21",
-            "end": "10:22",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Google Translate",
-            "note": "mqoutlook-my.sharepoint.com"
-          },
-          {
-            "start": "10:22",
             "end": "10:28",
             "cat": "research",
             "src": "macos",
@@ -3418,20 +7277,12 @@
             "note": "mqoutlook-my.sharepoint.com"
           },
           {
-            "start": "10:29",
-            "end": "10:30",
-            "cat": "coding",
-            "src": "chrome",
-            "title": "Projects - Claude",
-            "note": "claude.ai"
-          },
-          {
             "start": "10:30",
             "end": "10:33",
-            "cat": "research",
-            "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · ada",
+            "note": "18 hits"
           },
           {
             "start": "10:34",
@@ -3467,14 +7318,14 @@
           },
           {
             "start": "11:02",
-            "end": "11:04",
-            "cat": "research",
-            "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "end": "11:05",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
           },
           {
-            "start": "11:04",
+            "start": "11:05",
             "end": "11:12",
             "cat": "admin",
             "src": "chrome",
@@ -3499,11 +7350,19 @@
           },
           {
             "start": "11:26",
-            "end": "11:32",
+            "end": "11:30",
             "cat": "research",
             "src": "macos",
             "title": "zotero",
             "note": "org.zotero.zotero"
+          },
+          {
+            "start": "11:30",
+            "end": "11:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
           },
           {
             "start": "11:37",
@@ -3539,19 +7398,19 @@
           },
           {
             "start": "11:59",
-            "end": "12:01",
+            "end": "12:00",
             "cat": "admin",
             "src": "macos",
             "title": "Outlook",
             "note": "com.microsoft.Outlook"
           },
           {
-            "start": "12:01",
+            "start": "12:00",
             "end": "12:06",
             "cat": "coding",
-            "src": "chrome",
-            "title": "Login - Mistral AI",
-            "note": "v2.auth.mistral.ai"
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
           },
           {
             "start": "12:06",
@@ -3571,11 +7430,43 @@
           },
           {
             "start": "12:26",
+            "end": "12:30",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "CommSec Financial Services Guide",
+            "note": "commsec.com.au"
+          },
+          {
+            "start": "12:30",
+            "end": "12:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "12:33",
             "end": "12:39",
             "cat": "admin",
             "src": "chrome",
             "title": "CommSec Financial Services Guide",
             "note": "commsec.com.au"
+          },
+          {
+            "start": "13:00",
+            "end": "13:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "13:30",
+            "end": "13:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
           },
           {
             "start": "13:35",
@@ -3604,13 +7495,13 @@
           {
             "start": "14:00",
             "end": "14:02",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Application",
-            "note": "interactivebrokers.com.au"
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
           },
           {
-            "start": "14:02",
+            "start": "14:03",
             "end": "14:29",
             "cat": "admin",
             "src": "chrome",
@@ -3618,15 +7509,15 @@
             "note": "mail.google.com"
           },
           {
-            "start": "14:29",
-            "end": "14:32",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Consular Electronic Application Center - Confirm Application",
-            "note": "mail.google.com"
+            "start": "14:30",
+            "end": "14:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
           },
           {
-            "start": "14:32",
+            "start": "14:33",
             "end": "14:49",
             "cat": "personal",
             "src": "chrome",
@@ -3635,38 +7526,30 @@
           },
           {
             "start": "14:49",
-            "end": "14:52",
+            "end": "14:57",
             "cat": "admin",
             "src": "chrome",
             "title": "Nonimmigrant Visa - U.S. Point of Contact Information",
             "note": "ceac.state.gov"
           },
           {
-            "start": "14:52",
+            "start": "14:57",
             "end": "14:59",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
-          },
-          {
-            "start": "14:59",
-            "end": "15:01",
             "cat": "personal",
             "src": "chrome",
             "title": "(11) X 上的 Mike Solana：“the purpose is not to remove young pe",
             "note": "x.com"
           },
           {
-            "start": "15:01",
-            "end": "15:07",
+            "start": "14:59",
+            "end": "15:06",
             "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
+            "src": "claude",
+            "title": "AI research digest failure",
+            "note": "57 hits"
           },
           {
-            "start": "15:07",
+            "start": "15:06",
             "end": "15:11",
             "cat": "personal",
             "src": "chrome",
@@ -3683,54 +7566,46 @@
           },
           {
             "start": "15:18",
-            "end": "15:34",
+            "end": "15:30",
             "cat": "research",
             "src": "chrome",
             "title": "Introducing the OpenAI Partner Network | Ada's Notes",
             "note": "adaren100.github.io"
           },
           {
-            "start": "15:34",
-            "end": "15:45",
+            "start": "15:30",
+            "end": "15:32",
             "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "9 hits"
           },
           {
-            "start": "15:45",
-            "end": "15:46",
+            "start": "15:33",
+            "end": "15:47",
             "cat": "research",
             "src": "chrome",
             "title": "How we monitor internal coding agents for misalignment | Ope",
             "note": "openai.com"
           },
           {
-            "start": "15:46",
-            "end": "15:57",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
-          },
-          {
-            "start": "15:59",
-            "end": "16:00",
-            "cat": "writing",
-            "src": "chrome",
-            "title": "Zotero | Your personal research assistant",
-            "note": "zotero.org"
-          },
-          {
             "start": "16:00",
             "end": "16:02",
-            "cat": "research",
-            "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
           },
           {
             "start": "16:02",
+            "end": "16:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "16:03",
             "end": "16:08",
             "cat": "research",
             "src": "macos",
@@ -3762,15 +7637,15 @@
             "note": "org.zotero.zotero"
           },
           {
-            "start": "16:31",
+            "start": "16:30",
             "end": "16:32",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
           },
           {
-            "start": "16:32",
+            "start": "16:33",
             "end": "16:48",
             "cat": "research",
             "src": "macos",
@@ -3779,11 +7654,27 @@
           },
           {
             "start": "16:49",
-            "end": "17:15",
+            "end": "17:00",
             "cat": "research",
             "src": "macos",
             "title": "zotero",
             "note": "org.zotero.zotero"
+          },
+          {
+            "start": "17:00",
+            "end": "17:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "17:03",
+            "end": "17:15",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Agentic DraCor and the Art of Docstring Engineering: Evaluat",
+            "note": "researchgate.net"
           },
           {
             "start": "17:15",
@@ -3795,14 +7686,14 @@
           },
           {
             "start": "17:28",
-            "end": "17:31",
+            "end": "17:33",
             "cat": "coding",
             "src": "chrome",
             "title": "OpenAPI Specification - Version 3.1.0 | Swagger",
             "note": "swagger.io"
           },
           {
-            "start": "17:31",
+            "start": "17:33",
             "end": "17:34",
             "cat": "research",
             "src": "macos",
@@ -3834,6 +7725,46 @@
             "note": "peps.python.org"
           },
           {
+            "start": "18:42",
+            "end": "18:45",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "19:00",
+            "end": "19:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "19:30",
+            "end": "19:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "19:46",
+            "end": "19:49",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "20:00",
+            "end": "20:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
             "start": "20:07",
             "end": "20:10",
             "cat": "personal",
@@ -3843,22 +7774,294 @@
           },
           {
             "start": "20:10",
+            "end": "20:30",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "20:30",
+            "end": "20:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "20:33",
+            "end": "21:00",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "21:00",
+            "end": "21:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "21:03",
             "end": "21:21",
             "cat": "admin",
             "src": "chrome",
             "title": "Google Translate",
             "note": "translate.google.com"
+          },
+          {
+            "start": "21:30",
+            "end": "21:34",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "11 hits"
+          },
+          {
+            "start": "22:07",
+            "end": "22:10",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "22:24",
+            "end": "22:27",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "22:40",
+            "end": "22:43",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "22:58",
+            "end": "23:01",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "23:15",
+            "end": "23:18",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "23:26",
+            "end": "23:29",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "3 hits"
+          },
+          {
+            "start": "23:44",
+            "end": "23:47",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "00:00",
+            "end": "00:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "00:18",
+            "end": "00:21",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "00:27",
+            "end": "00:30",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "8 hits"
+          },
+          {
+            "start": "00:45",
+            "end": "00:48",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "01:01",
+            "end": "01:04",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "01:19",
+            "end": "01:22",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "01:35",
+            "end": "01:38",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "01:50",
+            "end": "01:53",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "02:07",
+            "end": "02:10",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "02:23",
+            "end": "02:26",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "02:38",
+            "end": "02:41",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "02:54",
+            "end": "02:57",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "03:10",
+            "end": "03:13",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "03:28",
+            "end": "03:31",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "03:45",
+            "end": "03:48",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "04:01",
+            "end": "04:04",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "04:17",
+            "end": "04:20",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "04:38",
+            "end": "04:41",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "04:56",
+            "end": "04:59",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "05:11",
+            "end": "05:14",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "05:34",
+            "end": "05:37",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "05:50",
+            "end": "05:53",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
           }
         ],
-        "logged": 479,
-        "real": 267,
-        "deep": 267,
-        "ratio": 0.5566258831506175,
+        "logged": 626,
+        "real": 427,
+        "deep": 427,
+        "ratio": 0.6819878673233052,
         "stats": {
-          "contextSwitches": 47,
-          "tabsOpened": 108,
-          "longestFocus": "1h 15m",
-          "justOneMoreThing": 13
+          "contextSwitches": 59,
+          "tabsOpened": 99,
+          "longestFocus": "2h 7m",
+          "justOneMoreThing": 11
         }
       },
       {
@@ -3868,9 +8071,113 @@
         "weekend": false,
         "dateShort": "Wed, Jun 17",
         "dateLong": "Wednesday, June 17",
-        "dayStart": "09:49",
-        "dayEnd": "17:49",
+        "dayStart": "06:07",
+        "dayEnd": "05:59",
         "events": [
+          {
+            "start": "06:07",
+            "end": "06:10",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "06:22",
+            "end": "06:25",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "06:38",
+            "end": "06:41",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "06:56",
+            "end": "06:59",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "07:11",
+            "end": "07:14",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "07:23",
+            "end": "07:26",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "3 hits"
+          },
+          {
+            "start": "07:40",
+            "end": "07:43",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "07:56",
+            "end": "07:59",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "08:12",
+            "end": "08:15",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "08:24",
+            "end": "08:27",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "08:41",
+            "end": "08:44",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "08:58",
+            "end": "09:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "14 hits"
+          },
+          {
+            "start": "09:42",
+            "end": "09:46",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
           {
             "start": "09:49",
             "end": "09:51",
@@ -3889,6 +8196,22 @@
           },
           {
             "start": "09:57",
+            "end": "10:00",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "FW: 908/112 Talavera Road Macquarie Park overpaid rent - ada",
+            "note": "accounts.google.com"
+          },
+          {
+            "start": "10:00",
+            "end": "10:05",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · ada",
+            "note": "35 hits"
+          },
+          {
+            "start": "10:05",
             "end": "10:25",
             "cat": "admin",
             "src": "chrome",
@@ -3897,30 +8220,30 @@
           },
           {
             "start": "10:25",
-            "end": "10:32",
+            "end": "10:29",
             "cat": "personal",
             "src": "chrome",
             "title": "Origin Energy",
             "note": "google.com"
           },
           {
-            "start": "10:32",
-            "end": "10:36",
+            "start": "10:30",
+            "end": "10:33",
             "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
+            "src": "claude",
+            "title": "Claude session · ada",
+            "note": "18 hits"
+          },
+          {
+            "start": "10:33",
+            "end": "10:36",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Origin Energy",
+            "note": "google.com"
           },
           {
             "start": "10:36",
-            "end": "10:40",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
-          },
-          {
-            "start": "10:40",
             "end": "10:42",
             "cat": "admin",
             "src": "chrome",
@@ -3952,7 +8275,15 @@
             "note": "claude.com"
           },
           {
-            "start": "11:01",
+            "start": "11:00",
+            "end": "11:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "11:03",
             "end": "11:06",
             "cat": "research",
             "src": "chrome",
@@ -3969,6 +8300,22 @@
           },
           {
             "start": "11:16",
+            "end": "11:30",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Paper page - Data Journalist Agent: Transforming Data into V",
+            "note": "google.com"
+          },
+          {
+            "start": "11:30",
+            "end": "11:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "11:33",
             "end": "11:36",
             "cat": "research",
             "src": "chrome",
@@ -4009,11 +8356,35 @@
           },
           {
             "start": "12:08",
+            "end": "12:30",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "12:30",
+            "end": "12:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "12:33",
             "end": "12:35",
             "cat": "admin",
             "src": "chrome",
             "title": "Google Translate",
             "note": "translate.google.com"
+          },
+          {
+            "start": "13:00",
+            "end": "13:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
           },
           {
             "start": "13:20",
@@ -4049,6 +8420,14 @@
           },
           {
             "start": "13:30",
+            "end": "13:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "13:33",
             "end": "13:35",
             "cat": "admin",
             "src": "macos",
@@ -4065,14 +8444,22 @@
           },
           {
             "start": "13:40",
-            "end": "14:02",
+            "end": "14:00",
             "cat": "admin",
             "src": "macos",
             "title": "Outlook",
             "note": "com.microsoft.Outlook"
           },
           {
-            "start": "14:02",
+            "start": "14:00",
+            "end": "14:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "14:03",
             "end": "14:05",
             "cat": "research",
             "src": "macos",
@@ -4145,6 +8532,22 @@
           },
           {
             "start": "14:27",
+            "end": "14:30",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "14:30",
+            "end": "14:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "14:33",
             "end": "14:39",
             "cat": "research",
             "src": "macos",
@@ -4169,6 +8572,22 @@
           },
           {
             "start": "14:57",
+            "end": "15:00",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "15:00",
+            "end": "15:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "15:03",
             "end": "15:04",
             "cat": "research",
             "src": "macos",
@@ -4201,6 +8620,22 @@
           },
           {
             "start": "15:10",
+            "end": "15:30",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "15:30",
+            "end": "15:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "15:33",
             "end": "15:36",
             "cat": "research",
             "src": "macos",
@@ -4234,10 +8669,10 @@
           {
             "start": "16:00",
             "end": "16:03",
-            "cat": "research",
-            "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
           },
           {
             "start": "16:03",
@@ -4257,6 +8692,22 @@
           },
           {
             "start": "16:17",
+            "end": "16:30",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "16:30",
+            "end": "16:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "16:33",
             "end": "16:35",
             "cat": "research",
             "src": "macos",
@@ -4289,6 +8740,22 @@
           },
           {
             "start": "16:54",
+            "end": "17:00",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "SemEval 2026 - Track Manager Console",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "17:00",
+            "end": "17:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "17:03",
             "end": "17:04",
             "cat": "admin",
             "src": "chrome",
@@ -4321,6 +8788,22 @@
           },
           {
             "start": "17:29",
+            "end": "17:30",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "17:30",
+            "end": "17:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "17:33",
             "end": "17:35",
             "cat": "admin",
             "src": "macos",
@@ -4334,17 +8817,297 @@
             "src": "chrome",
             "title": "Paper Update: UNED Citation Error - Google Gemini",
             "note": "gemini.google.com"
+          },
+          {
+            "start": "19:52",
+            "end": "19:55",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "20:10",
+            "end": "20:13",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "20:28",
+            "end": "20:31",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "20:43",
+            "end": "20:46",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "21:00",
+            "end": "21:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "19 hits"
+          },
+          {
+            "start": "21:31",
+            "end": "21:34",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "21:44",
+            "end": "21:47",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "22:11",
+            "end": "22:14",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "22:28",
+            "end": "22:31",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "22:44",
+            "end": "22:47",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "23:12",
+            "end": "23:18",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "23:33",
+            "end": "23:36",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "3 hits"
+          },
+          {
+            "start": "23:46",
+            "end": "23:49",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "00:00",
+            "end": "00:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "00:34",
+            "end": "00:37",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "00:50",
+            "end": "00:53",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "01:07",
+            "end": "01:10",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "01:23",
+            "end": "01:26",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "01:40",
+            "end": "01:43",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "01:55",
+            "end": "01:58",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "02:11",
+            "end": "02:14",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "02:28",
+            "end": "02:31",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "02:45",
+            "end": "02:48",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "3 hits"
+          },
+          {
+            "start": "03:01",
+            "end": "03:04",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "03:17",
+            "end": "03:20",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "03:35",
+            "end": "03:38",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "03:52",
+            "end": "03:55",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "04:08",
+            "end": "04:11",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "04:26",
+            "end": "04:29",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "04:42",
+            "end": "04:45",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "05:00",
+            "end": "05:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "05:17",
+            "end": "05:20",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
+          },
+          {
+            "start": "05:34",
+            "end": "05:37",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
+          },
+          {
+            "start": "05:51",
+            "end": "05:54",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "05:57",
+            "end": "05:59",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
           }
         ],
-        "logged": 419,
-        "real": 237,
-        "deep": 237,
-        "ratio": 0.5653156368780904,
+        "logged": 575,
+        "real": 408,
+        "deep": 408,
+        "ratio": 0.7100537821878656,
         "stats": {
-          "contextSwitches": 47,
-          "tabsOpened": 102,
-          "longestFocus": "46m",
-          "justOneMoreThing": 11
+          "contextSwitches": 74,
+          "tabsOpened": 117,
+          "longestFocus": "2h 3m",
+          "justOneMoreThing": 15
         }
       },
       {
@@ -4354,11 +9117,139 @@
         "weekend": false,
         "dateShort": "Thu, Jun 18",
         "dateLong": "Thursday, June 18",
-        "dayStart": "10:02",
-        "dayEnd": "17:23",
+        "dayStart": "06:00",
+        "dayEnd": "05:52",
         "events": [
           {
+            "start": "06:00",
+            "end": "06:00",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "06:12",
+            "end": "06:15",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "06:29",
+            "end": "06:32",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "06:45",
+            "end": "06:48",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "07:01",
+            "end": "07:04",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "07:16",
+            "end": "07:19",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "07:34",
+            "end": "07:37",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "07:44",
+            "end": "07:47",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "08:02",
+            "end": "08:05",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "08:34",
+            "end": "08:37",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "3 hits"
+          },
+          {
+            "start": "08:52",
+            "end": "08:55",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "09:00",
+            "end": "09:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "13 hits"
+          },
+          {
+            "start": "09:36",
+            "end": "09:39",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "09:44",
+            "end": "09:47",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "1 hit"
+          },
+          {
+            "start": "10:01",
+            "end": "10:02",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "37 hits"
+          },
+          {
             "start": "10:02",
+            "end": "10:06",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "37 hits"
+          },
+          {
+            "start": "10:06",
             "end": "10:13",
             "cat": "personal",
             "src": "chrome",
@@ -4390,12 +9281,12 @@
             "note": "open.spotify.com"
           },
           {
-            "start": "10:31",
+            "start": "10:30",
             "end": "10:38",
             "cat": "coding",
-            "src": "chrome",
-            "title": "Chrome Web Store - Extensions",
-            "note": "chromewebstore.google.com"
+            "src": "claude",
+            "title": "Claude session · ada",
+            "note": "18 hits"
           },
           {
             "start": "10:38",
@@ -4407,22 +9298,46 @@
           },
           {
             "start": "10:42",
-            "end": "10:44",
+            "end": "10:45",
             "cat": "coding",
             "src": "chrome",
             "title": "Chrome Web Store - Extensions",
             "note": "chromewebstore.google.com"
           },
           {
-            "start": "10:44",
+            "start": "10:45",
+            "end": "10:49",
+            "cat": "research",
+            "src": "claude",
+            "title": "Worklog Zotero reading",
+            "note": "36 hits"
+          },
+          {
+            "start": "10:49",
             "end": "10:51",
             "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
+            "src": "chrome",
+            "title": "Chrome Web Store - Extensions",
+            "note": "chromewebstore.google.com"
           },
           {
             "start": "10:51",
+            "end": "10:55",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Author Page for SemEval 2026:The 20th International Workshop",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "10:55",
+            "end": "10:56",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "10:56",
             "end": "10:58",
             "cat": "admin",
             "src": "chrome",
@@ -4433,9 +9348,9 @@
             "start": "10:58",
             "end": "11:06",
             "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "src": "claude",
+            "title": "Claude session · log",
+            "note": "59 hits"
           },
           {
             "start": "11:06",
@@ -4456,66 +9371,58 @@
           {
             "start": "11:10",
             "end": "11:13",
-            "cat": "personal",
-            "src": "chrome",
-            "title": "Choose a top-up type | Macquarie University Sport and Aquati",
-            "note": "musac.jonasleisure.com.au"
-          },
-          {
-            "start": "11:14",
-            "end": "11:14",
-            "cat": "research",
-            "src": "chrome",
-            "title": "Where the time actually went | Ada's Notes",
-            "note": "adaren100.github.io"
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · log",
+            "note": "208 hits"
           },
           {
             "start": "11:14",
             "end": "11:16",
             "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "src": "claude",
+            "title": "Claude session · log",
+            "note": "208 hits"
           },
           {
-            "start": "11:18",
-            "end": "11:23",
-            "cat": "research",
-            "src": "chrome",
-            "title": "Where the time actually went | Ada's Notes",
-            "note": "baike.baidu.com"
+            "start": "11:17",
+            "end": "11:51",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · log",
+            "note": "208 hits"
           },
           {
-            "start": "11:23",
-            "end": "11:31",
+            "start": "11:51",
+            "end": "12:16",
             "cat": "coding",
             "src": "macos",
             "title": "VSCode",
             "note": "com.microsoft.VSCode"
           },
           {
-            "start": "11:31",
-            "end": "11:40",
-            "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
-          },
-          {
-            "start": "11:40",
-            "end": "11:44",
-            "cat": "research",
-            "src": "chrome",
-            "title": "Where the time actually went | Ada's Notes",
-            "note": "baike.baidu.com"
-          },
-          {
-            "start": "11:44",
+            "start": "12:16",
             "end": "12:18",
             "cat": "coding",
             "src": "macos",
             "title": "VSCode",
             "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "12:30",
+            "end": "12:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "13:00",
+            "end": "13:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
           },
           {
             "start": "13:06",
@@ -4543,38 +9450,38 @@
           },
           {
             "start": "13:35",
-            "end": "13:42",
+            "end": "13:36",
             "cat": "research",
             "src": "chrome",
             "title": "Ada's Notes",
             "note": "adaren100.github.io"
           },
           {
-            "start": "13:42",
-            "end": "13:44",
-            "cat": "personal",
-            "src": "chrome",
-            "title": "(21) 主页 / X",
-            "note": "x.com"
+            "start": "13:36",
+            "end": "13:51",
+            "cat": "coding",
+            "src": "claude",
+            "title": "AI Digest empty post handling",
+            "note": "46 hits"
           },
           {
-            "start": "13:44",
-            "end": "13:49",
+            "start": "13:51",
+            "end": "14:00",
             "cat": "research",
-            "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "src": "chrome",
+            "title": "Where the time actually went | Ada's Notes",
+            "note": "adaren100.github.io"
           },
           {
-            "start": "13:49",
-            "end": "13:50",
-            "cat": "admin",
-            "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "14:00",
+            "end": "14:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
           },
           {
-            "start": "13:50",
+            "start": "14:03",
             "end": "14:06",
             "cat": "research",
             "src": "chrome",
@@ -4583,11 +9490,19 @@
           },
           {
             "start": "14:29",
-            "end": "14:33",
+            "end": "14:30",
             "cat": "research",
             "src": "macos",
             "title": "zotero",
             "note": "org.zotero.zotero"
+          },
+          {
+            "start": "14:30",
+            "end": "14:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
           },
           {
             "start": "14:35",
@@ -4615,6 +9530,22 @@
           },
           {
             "start": "14:56",
+            "end": "15:00",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "15:00",
+            "end": "15:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "15:03",
             "end": "15:27",
             "cat": "research",
             "src": "macos",
@@ -4630,7 +9561,15 @@
             "note": "translate.google.com"
           },
           {
-            "start": "15:29",
+            "start": "15:30",
+            "end": "15:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "15:33",
             "end": "15:37",
             "cat": "research",
             "src": "macos",
@@ -4663,19 +9602,19 @@
           },
           {
             "start": "15:56",
-            "end": "16:01",
+            "end": "16:00",
             "cat": "personal",
             "src": "chrome",
             "title": "飄向北方 - Live • Leehom Wang, Namewee",
             "note": "open.spotify.com"
           },
           {
-            "start": "16:01",
+            "start": "16:00",
             "end": "16:02",
-            "cat": "research",
-            "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
           },
           {
             "start": "16:03",
@@ -4727,6 +9666,14 @@
           },
           {
             "start": "16:30",
+            "end": "16:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "16:33",
             "end": "16:35",
             "cat": "research",
             "src": "macos",
@@ -4759,6 +9706,22 @@
           },
           {
             "start": "16:53",
+            "end": "17:00",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "17:00",
+            "end": "17:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "17:03",
             "end": "17:09",
             "cat": "research",
             "src": "macos",
@@ -4772,17 +9735,337 @@
             "src": "chrome",
             "title": "Google Translate",
             "note": "translate.google.com"
+          },
+          {
+            "start": "17:30",
+            "end": "17:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "18:00",
+            "end": "18:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "18:30",
+            "end": "18:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "19:00",
+            "end": "19:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "3 hits"
+          },
+          {
+            "start": "19:10",
+            "end": "19:14",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "19:44",
+            "end": "19:47",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "19:59",
+            "end": "20:02",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "20:11",
+            "end": "20:15",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "20:45",
+            "end": "20:48",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "21:30",
+            "end": "21:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "21:48",
+            "end": "21:51",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "22:05",
+            "end": "22:08",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "22:14",
+            "end": "22:17",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "8 hits"
+          },
+          {
+            "start": "22:40",
+            "end": "22:43",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "22:58",
+            "end": "23:01",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "23:14",
+            "end": "23:17",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "23:31",
+            "end": "23:34",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "23:48",
+            "end": "23:51",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "00:05",
+            "end": "00:08",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "00:23",
+            "end": "00:26",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "00:38",
+            "end": "00:41",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "00:55",
+            "end": "00:58",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "01:12",
+            "end": "01:15",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "01:27",
+            "end": "01:30",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "01:43",
+            "end": "01:46",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "01:59",
+            "end": "02:02",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "02:14",
+            "end": "02:17",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "02:31",
+            "end": "02:34",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "02:48",
+            "end": "02:51",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "03:04",
+            "end": "03:07",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "03:20",
+            "end": "03:23",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "03:37",
+            "end": "03:40",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "03:54",
+            "end": "03:57",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "04:12",
+            "end": "04:15",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "04:27",
+            "end": "04:30",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "04:43",
+            "end": "04:46",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "05:01",
+            "end": "05:04",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "05:17",
+            "end": "05:20",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "05:33",
+            "end": "05:36",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "05:49",
+            "end": "05:52",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
           }
         ],
-        "logged": 353,
-        "real": 272,
-        "deep": 272,
-        "ratio": 0.7698631902118709,
+        "logged": 522,
+        "real": 454,
+        "deep": 454,
+        "ratio": 0.870261605997455,
         "stats": {
-          "contextSwitches": 42,
-          "tabsOpened": 81,
-          "longestFocus": "1h 37m",
-          "justOneMoreThing": 12
+          "contextSwitches": 51,
+          "tabsOpened": 72,
+          "longestFocus": "2h 22m",
+          "justOneMoreThing": 10
         }
       },
       {
@@ -4792,27 +10075,123 @@
         "weekend": false,
         "dateShort": "Fri, Jun 19",
         "dateLong": "Friday, June 19",
-        "dayStart": "10:02",
-        "dayEnd": "16:57",
+        "dayStart": "06:04",
+        "dayEnd": "05:49",
         "events": [
           {
-            "start": "10:02",
-            "end": "10:04",
-            "cat": "research",
-            "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "06:04",
+            "end": "06:07",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
           },
           {
-            "start": "10:04",
-            "end": "10:07",
-            "cat": "writing",
-            "src": "local",
-            "title": "2026-06-19-chatgpt-enterprise-spend-controls.md",
-            "note": "5 hits"
+            "start": "06:22",
+            "end": "06:25",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
           },
           {
-            "start": "10:07",
+            "start": "06:36",
+            "end": "06:39",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "3 hits"
+          },
+          {
+            "start": "06:51",
+            "end": "06:54",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "07:05",
+            "end": "07:08",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "07:23",
+            "end": "07:26",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "07:38",
+            "end": "07:41",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "07:54",
+            "end": "07:57",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "08:11",
+            "end": "08:14",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "08:28",
+            "end": "08:31",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "08:44",
+            "end": "08:47",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "09:00",
+            "end": "09:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "14 hits"
+          },
+          {
+            "start": "09:38",
+            "end": "09:41",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "09:56",
+            "end": "10:08",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "58 hits"
+          },
+          {
+            "start": "10:08",
             "end": "10:10",
             "cat": "research",
             "src": "chrome",
@@ -4877,19 +10256,19 @@
           },
           {
             "start": "10:28",
-            "end": "10:33",
+            "end": "10:30",
             "cat": "research",
             "src": "macos",
             "title": "zotero",
             "note": "org.zotero.zotero"
           },
           {
-            "start": "10:33",
+            "start": "10:30",
             "end": "10:35",
             "cat": "coding",
-            "src": "chrome",
-            "title": "Understanding incrimination - Claude",
-            "note": "claude.ai"
+            "src": "claude",
+            "title": "Claude session · ada",
+            "note": "31 hits"
           },
           {
             "start": "10:35",
@@ -4925,11 +10304,27 @@
           },
           {
             "start": "10:54",
-            "end": "11:18",
+            "end": "11:00",
             "cat": "research",
             "src": "macos",
             "title": "zotero",
             "note": "org.zotero.zotero"
+          },
+          {
+            "start": "11:00",
+            "end": "11:02",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "9 hits"
+          },
+          {
+            "start": "11:03",
+            "end": "11:18",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Translating \"Task-Success Oracle\" in Chinese - Google Gemini",
+            "note": "gemini.google.com"
           },
           {
             "start": "11:18",
@@ -4941,6 +10336,22 @@
           },
           {
             "start": "11:24",
+            "end": "11:30",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "11:30",
+            "end": "11:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "11:33",
             "end": "11:40",
             "cat": "research",
             "src": "macos",
@@ -4973,19 +10384,11 @@
           },
           {
             "start": "11:59",
-            "end": "12:02",
+            "end": "12:03",
             "cat": "coding",
             "src": "chrome",
             "title": "Snapshot-replay attribution for persistent state debugging -",
             "note": "claude.ai"
-          },
-          {
-            "start": "12:02",
-            "end": "12:03",
-            "cat": "research",
-            "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
           },
           {
             "start": "12:03",
@@ -5012,7 +10415,31 @@
             "note": "translate.google.com"
           },
           {
-            "start": "12:45",
+            "start": "12:43",
+            "end": "12:45",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "12:46",
+            "end": "13:00",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Inbox (2,517) - ada.ren.cn@gmail.com - Gmail",
+            "note": "accounts.google.com"
+          },
+          {
+            "start": "13:00",
+            "end": "13:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "13:03",
             "end": "13:05",
             "cat": "admin",
             "src": "chrome",
@@ -5037,6 +10464,22 @@
           },
           {
             "start": "13:14",
+            "end": "13:30",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(2) X 上的 Claude：“New in Claude Code: Artifacts. Interactive ",
+            "note": "open.spotify.com"
+          },
+          {
+            "start": "13:30",
+            "end": "13:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "13:33",
             "end": "13:36",
             "cat": "personal",
             "src": "chrome",
@@ -5077,6 +10520,22 @@
           },
           {
             "start": "13:47",
+            "end": "14:00",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Andrew Mayne | AI Keynote Speaker, Author, Former OpenAI Pro",
+            "note": "andrewmayne.com"
+          },
+          {
+            "start": "14:00",
+            "end": "14:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "14:03",
             "end": "14:03",
             "cat": "personal",
             "src": "chrome",
@@ -5085,6 +10544,22 @@
           },
           {
             "start": "14:03",
+            "end": "14:30",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "14:30",
+            "end": "14:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "14:33",
             "end": "14:36",
             "cat": "admin",
             "src": "chrome",
@@ -5125,11 +10600,19 @@
           },
           {
             "start": "15:13",
-            "end": "15:36",
+            "end": "15:33",
             "cat": "coding",
             "src": "chrome",
             "title": "myRDC - Researcher Development Calendar - Macquarie Universi",
             "note": "myrdc.mq.edu.au"
+          },
+          {
+            "start": "15:33",
+            "end": "15:36",
+            "cat": "coding",
+            "src": "macos",
+            "title": "iterm2",
+            "note": "com.googlecode.iterm2"
           },
           {
             "start": "15:36",
@@ -5146,6 +10629,14 @@
             "src": "macos",
             "title": "iterm2",
             "note": "com.googlecode.iterm2"
+          },
+          {
+            "start": "16:00",
+            "end": "16:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
           },
           {
             "start": "16:04",
@@ -5173,6 +10664,22 @@
           },
           {
             "start": "16:28",
+            "end": "16:30",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Securing internal systems against increasingly capable and i",
+            "note": "goo.gle"
+          },
+          {
+            "start": "16:30",
+            "end": "16:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "8 hits"
+          },
+          {
+            "start": "16:33",
             "end": "16:37",
             "cat": "admin",
             "src": "chrome",
@@ -5202,17 +10709,361 @@
             "src": "chrome",
             "title": "(4) X 上的 Sebastian Raschka：“Just caught up with the recent G",
             "note": "x.com"
+          },
+          {
+            "start": "17:05",
+            "end": "17:08",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "17:30",
+            "end": "17:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "18:11",
+            "end": "18:14",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "18:30",
+            "end": "18:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "8 hits"
+          },
+          {
+            "start": "19:07",
+            "end": "19:10",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "3 hits"
+          },
+          {
+            "start": "19:23",
+            "end": "19:26",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "19:41",
+            "end": "19:44",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "19:51",
+            "end": "19:54",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "17 hits"
+          },
+          {
+            "start": "20:08",
+            "end": "20:11",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "20:26",
+            "end": "20:29",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "20:41",
+            "end": "20:44",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "20:52",
+            "end": "20:55",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "18 hits"
+          },
+          {
+            "start": "21:00",
+            "end": "21:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "3 hits"
+          },
+          {
+            "start": "21:18",
+            "end": "21:21",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "21:35",
+            "end": "21:38",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "21:51",
+            "end": "21:54",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "22:11",
+            "end": "22:14",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "22:27",
+            "end": "22:30",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "22:45",
+            "end": "22:48",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "23:18",
+            "end": "23:21",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "23:35",
+            "end": "23:38",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "23:52",
+            "end": "23:55",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "00:10",
+            "end": "00:13",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "00:27",
+            "end": "00:30",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "00:43",
+            "end": "00:46",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "00:58",
+            "end": "01:01",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "01:15",
+            "end": "01:18",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "01:31",
+            "end": "01:34",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "01:47",
+            "end": "01:50",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "02:04",
+            "end": "02:07",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "02:21",
+            "end": "02:24",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "02:39",
+            "end": "02:42",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "02:55",
+            "end": "02:58",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "03:12",
+            "end": "03:15",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "03:30",
+            "end": "03:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "03:47",
+            "end": "03:50",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "04:05",
+            "end": "04:08",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "04:22",
+            "end": "04:25",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "04:37",
+            "end": "04:40",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "04:54",
+            "end": "04:57",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "05:12",
+            "end": "05:15",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "05:29",
+            "end": "05:32",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "05:46",
+            "end": "05:49",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
           }
         ],
-        "logged": 365,
-        "real": 183,
-        "deep": 183,
-        "ratio": 0.5008106097032992,
+        "logged": 545,
+        "real": 379,
+        "deep": 379,
+        "ratio": 0.6956820826837496,
         "stats": {
-          "contextSwitches": 44,
-          "tabsOpened": 81,
-          "longestFocus": "1h 17m",
-          "justOneMoreThing": 5
+          "contextSwitches": 58,
+          "tabsOpened": 96,
+          "longestFocus": "2h 10m",
+          "justOneMoreThing": 8
         }
       },
       {
@@ -5222,17 +11073,682 @@
         "weekend": true,
         "dateShort": "Sat, Jun 20",
         "dateLong": "Saturday, June 20",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "06:02",
+        "dayEnd": "05:50",
+        "events": [
+          {
+            "start": "06:02",
+            "end": "06:05",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "06:18",
+            "end": "06:21",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "06:34",
+            "end": "06:37",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "06:53",
+            "end": "06:56",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "07:08",
+            "end": "07:11",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "07:31",
+            "end": "07:34",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "07:49",
+            "end": "07:52",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "08:05",
+            "end": "08:08",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "08:22",
+            "end": "08:25",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "08:37",
+            "end": "08:40",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "08:57",
+            "end": "09:00",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "09:17",
+            "end": "09:20",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "09:35",
+            "end": "09:38",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "09:55",
+            "end": "09:58",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "10:12",
+            "end": "10:15",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "10:28",
+            "end": "10:31",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "10:40",
+            "end": "10:43",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
+          },
+          {
+            "start": "10:57",
+            "end": "11:00",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "11:15",
+            "end": "11:18",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "11:31",
+            "end": "11:34",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "11:59",
+            "end": "12:02",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "12:14",
+            "end": "12:17",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "12:30",
+            "end": "12:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "12:42",
+            "end": "12:45",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
+          },
+          {
+            "start": "12:57",
+            "end": "13:00",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "13:13",
+            "end": "13:16",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "13:28",
+            "end": "13:31",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "13:43",
+            "end": "13:46",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "14:02",
+            "end": "14:05",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "14:19",
+            "end": "14:22",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "14:36",
+            "end": "14:39",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "15:01",
+            "end": "15:04",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "15:18",
+            "end": "15:21",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "15:44",
+            "end": "15:47",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "16:02",
+            "end": "16:05",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "16:19",
+            "end": "16:22",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "16:37",
+            "end": "16:40",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "17:07",
+            "end": "17:10",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "17:24",
+            "end": "17:27",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "17:42",
+            "end": "17:45",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "18:03",
+            "end": "18:06",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "18:21",
+            "end": "18:24",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "18:37",
+            "end": "18:40",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "18:54",
+            "end": "18:57",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "19:10",
+            "end": "19:13",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "19:28",
+            "end": "19:31",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "19:45",
+            "end": "19:48",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "20:01",
+            "end": "20:04",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "20:18",
+            "end": "20:21",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "20:36",
+            "end": "20:39",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "20:53",
+            "end": "20:56",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "21:17",
+            "end": "21:20",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "21:35",
+            "end": "21:38",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "21:51",
+            "end": "21:54",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "22:08",
+            "end": "22:11",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "22:24",
+            "end": "22:27",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "22:41",
+            "end": "22:44",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "22:57",
+            "end": "23:00",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "23:12",
+            "end": "23:15",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "23:29",
+            "end": "23:32",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "23:41",
+            "end": "23:44",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "23:58",
+            "end": "00:01",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "00:14",
+            "end": "00:17",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "00:30",
+            "end": "00:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "00:47",
+            "end": "00:50",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "01:05",
+            "end": "01:08",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "01:22",
+            "end": "01:25",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "01:33",
+            "end": "01:36",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "01:50",
+            "end": "01:53",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "02:05",
+            "end": "02:08",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "02:23",
+            "end": "02:26",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "02:41",
+            "end": "02:44",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "02:58",
+            "end": "03:01",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "03:14",
+            "end": "03:17",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "03:32",
+            "end": "03:35",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "03:50",
+            "end": "03:53",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "04:08",
+            "end": "04:11",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "04:23",
+            "end": "04:26",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "04:39",
+            "end": "04:42",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "04:57",
+            "end": "05:00",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "05:13",
+            "end": "05:16",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "05:29",
+            "end": "05:32",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "05:47",
+            "end": "05:50",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          }
+        ],
+        "logged": 249,
+        "real": 249,
+        "deep": 249,
+        "ratio": 1.0,
         "stats": {
           "contextSwitches": 0,
           "tabsOpened": 0,
-          "longestFocus": "0m",
+          "longestFocus": "4h 9m",
           "justOneMoreThing": 0
         }
       },
@@ -5243,24 +11759,400 @@
         "weekend": true,
         "dateShort": "Sun, Jun 21",
         "dateLong": "Sunday, June 21",
-        "dayStart": "19:15",
-        "dayEnd": "21:47",
+        "dayStart": "06:05",
+        "dayEnd": "05:55",
         "events": [
           {
-            "start": "19:15",
+            "start": "06:05",
+            "end": "06:08",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "06:23",
+            "end": "06:26",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "06:41",
+            "end": "06:44",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "06:58",
+            "end": "07:01",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "07:14",
+            "end": "07:17",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "07:29",
+            "end": "07:32",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "07:46",
+            "end": "07:49",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "08:10",
+            "end": "08:13",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "08:27",
+            "end": "08:30",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "08:44",
+            "end": "08:47",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "09:00",
+            "end": "09:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "09:18",
+            "end": "09:21",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "09:30",
+            "end": "09:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
+          },
+          {
+            "start": "09:48",
+            "end": "09:51",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "10:05",
+            "end": "10:08",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "10:22",
+            "end": "10:25",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "10:48",
+            "end": "10:51",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "11:05",
+            "end": "11:08",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "11:20",
+            "end": "11:23",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "11:32",
+            "end": "11:36",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "15 hits"
+          },
+          {
+            "start": "11:48",
+            "end": "11:51",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "12:03",
+            "end": "12:06",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "12:20",
+            "end": "12:23",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "12:33",
+            "end": "12:36",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
+          },
+          {
+            "start": "12:51",
+            "end": "12:54",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "13:08",
+            "end": "13:11",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "13:25",
+            "end": "13:28",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "13:34",
+            "end": "13:37",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "17 hits"
+          },
+          {
+            "start": "13:51",
+            "end": "13:54",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "14:06",
+            "end": "14:09",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "14:24",
+            "end": "14:27",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "14:35",
+            "end": "14:38",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "14:51",
+            "end": "14:54",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "15:06",
+            "end": "15:09",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "15:23",
+            "end": "15:26",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "15:36",
+            "end": "15:39",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "15 hits"
+          },
+          {
+            "start": "15:52",
+            "end": "15:55",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "16:07",
+            "end": "16:10",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "16:24",
+            "end": "16:27",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "16:37",
+            "end": "16:40",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
+          },
+          {
+            "start": "16:54",
+            "end": "16:57",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "17:12",
+            "end": "17:15",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "17:30",
+            "end": "17:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "17:56",
+            "end": "17:59",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "18:14",
+            "end": "18:17",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "18:37",
+            "end": "18:40",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "18:55",
+            "end": "18:58",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "19:12",
+            "end": "19:19",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "38 hits"
+          },
+          {
+            "start": "19:19",
             "end": "19:24",
             "cat": "admin",
             "src": "chrome",
             "title": "AWS Student Builder Group Leaders Application   Apply now to",
             "note": "url.au.m.mimecastprotect.com"
-          },
-          {
-            "start": "19:25",
-            "end": "19:25",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
           },
           {
             "start": "19:25",
@@ -5272,19 +12164,35 @@
           },
           {
             "start": "19:28",
-            "end": "19:34",
+            "end": "19:30",
             "cat": "admin",
             "src": "chrome",
             "title": "AWS Student Builder Group Leaders Application   Apply now to",
             "note": "url.au.m.mimecastprotect.com"
           },
           {
-            "start": "19:34",
+            "start": "19:30",
+            "end": "19:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "29 hits"
+          },
+          {
+            "start": "19:33",
+            "end": "19:37",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "AWS Student Builder Group Leaders Application   Apply now to",
+            "note": "url.au.m.mimecastprotect.com"
+          },
+          {
+            "start": "19:37",
             "end": "19:44",
             "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
+            "src": "chrome",
+            "title": "AWS Academy | Training and Certification | AWS",
+            "note": "aws.amazon.com"
           },
           {
             "start": "19:44",
@@ -5296,6 +12204,22 @@
           },
           {
             "start": "19:59",
+            "end": "20:00",
+            "cat": "research",
+            "src": "chrome",
+            "title": "POLAR @ SemEval-2026",
+            "note": "polar-semeval.github.io"
+          },
+          {
+            "start": "20:00",
+            "end": "20:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "26 hits"
+          },
+          {
+            "start": "20:03",
             "end": "20:05",
             "cat": "research",
             "src": "chrome",
@@ -5320,14 +12244,14 @@
           },
           {
             "start": "20:30",
-            "end": "20:31",
+            "end": "20:33",
             "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "26 hits"
           },
           {
-            "start": "20:31",
+            "start": "20:33",
             "end": "20:36",
             "cat": "admin",
             "src": "chrome",
@@ -5344,22 +12268,6 @@
           },
           {
             "start": "20:38",
-            "end": "20:40",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "AWS Student Builder Group Leaders Application   Apply now to",
-            "note": "pulse.aws"
-          },
-          {
-            "start": "20:40",
-            "end": "20:49",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
-          },
-          {
-            "start": "20:49",
             "end": "20:53",
             "cat": "admin",
             "src": "chrome",
@@ -5384,22 +12292,22 @@
           },
           {
             "start": "20:58",
-            "end": "21:07",
+            "end": "21:00",
             "cat": "admin",
             "src": "chrome",
             "title": "AWS Student Builder Group Leaders Application   Apply now to",
             "note": "w.amazon.com"
           },
           {
-            "start": "21:08",
-            "end": "21:10",
+            "start": "21:00",
+            "end": "21:03",
             "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "29 hits"
           },
           {
-            "start": "21:10",
+            "start": "21:03",
             "end": "21:23",
             "cat": "admin",
             "src": "chrome",
@@ -5416,22 +12324,262 @@
           },
           {
             "start": "21:27",
-            "end": "21:47",
+            "end": "21:45",
             "cat": "writing",
             "src": "chrome",
             "title": "Application of AWS Student Builder Group Leader - Google Sli",
             "note": "docs.google.com"
+          },
+          {
+            "start": "21:45",
+            "end": "21:48",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "22:02",
+            "end": "22:05",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "22:19",
+            "end": "22:22",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "22:36",
+            "end": "22:39",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "22:52",
+            "end": "22:55",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "23:10",
+            "end": "23:13",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "23:27",
+            "end": "23:30",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "23:44",
+            "end": "23:47",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "00:00",
+            "end": "00:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "00:17",
+            "end": "00:20",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "00:37",
+            "end": "00:40",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "00:53",
+            "end": "00:56",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "01:08",
+            "end": "01:11",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "01:26",
+            "end": "01:29",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "01:43",
+            "end": "01:46",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "02:00",
+            "end": "02:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "02:15",
+            "end": "02:18",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "02:32",
+            "end": "02:35",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "02:50",
+            "end": "02:53",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "03:06",
+            "end": "03:09",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "03:23",
+            "end": "03:26",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "03:38",
+            "end": "03:41",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "03:55",
+            "end": "03:58",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "04:13",
+            "end": "04:16",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "04:30",
+            "end": "04:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "04:48",
+            "end": "04:51",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "05:04",
+            "end": "05:07",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "05:20",
+            "end": "05:23",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "05:36",
+            "end": "05:39",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "05:52",
+            "end": "05:55",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
           }
         ],
-        "logged": 134,
-        "real": 53,
-        "deep": 53,
-        "ratio": 0.393980775484952,
+        "logged": 369,
+        "real": 284,
+        "deep": 284,
+        "ratio": 0.7705713313114412,
         "stats": {
-          "contextSwitches": 16,
-          "tabsOpened": 51,
-          "longestFocus": "23m",
-          "justOneMoreThing": 1
+          "contextSwitches": 18,
+          "tabsOpened": 57,
+          "longestFocus": "2h 29m",
+          "justOneMoreThing": 2
         }
       },
       {
@@ -5441,11 +12589,123 @@
         "weekend": false,
         "dateShort": "Mon, Jun 22",
         "dateLong": "Monday, June 22",
-        "dayStart": "10:04",
-        "dayEnd": "22:02",
+        "dayStart": "06:10",
+        "dayEnd": "05:45",
         "events": [
           {
-            "start": "10:04",
+            "start": "06:10",
+            "end": "06:13",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "06:27",
+            "end": "06:30",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "06:43",
+            "end": "06:46",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "06:59",
+            "end": "07:02",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "07:19",
+            "end": "07:22",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "07:37",
+            "end": "07:40",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "07:55",
+            "end": "07:58",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "08:10",
+            "end": "08:13",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "08:27",
+            "end": "08:30",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "08:51",
+            "end": "08:54",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "09:18",
+            "end": "09:21",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "09:35",
+            "end": "09:38",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "09:51",
+            "end": "09:54",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "09:58",
+            "end": "10:07",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "65 hits"
+          },
+          {
+            "start": "10:07",
             "end": "10:09",
             "cat": "admin",
             "src": "chrome",
@@ -5472,25 +12732,17 @@
             "start": "10:12",
             "end": "10:14",
             "cat": "coding",
-            "src": "vscode",
-            "title": "VS Code · settings.json",
-            "note": "1 hit"
+            "src": "claude",
+            "title": "Claude session · DeLM",
+            "note": "29 hits"
           },
           {
             "start": "10:14",
-            "end": "10:17",
-            "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
-          },
-          {
-            "start": "10:17",
             "end": "10:20",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "AWS Student Builder Group Leaders Application   Apply now to",
-            "note": "url.au.m.mimecastprotect.com"
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · DeLM",
+            "note": "29 hits"
           },
           {
             "start": "10:20",
@@ -5510,27 +12762,35 @@
           },
           {
             "start": "10:27",
-            "end": "10:32",
+            "end": "10:29",
             "cat": "research",
             "src": "chrome",
             "title": "Claude",
             "note": "claude.com"
           },
           {
-            "start": "10:33",
-            "end": "10:34",
+            "start": "10:30",
+            "end": "10:32",
             "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "14 hits"
+          },
+          {
+            "start": "10:33",
+            "end": "10:35",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "14 hits"
           },
           {
             "start": "10:35",
             "end": "10:35",
-            "cat": "admin",
-            "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "14 hits"
           },
           {
             "start": "10:36",
@@ -5542,35 +12802,11 @@
           },
           {
             "start": "10:44",
-            "end": "10:45",
-            "cat": "personal",
-            "src": "chrome",
-            "title": "sam altman dario amodei india - Google Search",
-            "note": "google.com"
-          },
-          {
-            "start": "10:45",
-            "end": "10:51",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
-          },
-          {
-            "start": "10:51",
-            "end": "10:53",
-            "cat": "personal",
-            "src": "chrome",
-            "title": "sam altman dario amodei india - Google Search",
-            "note": "google.com"
-          },
-          {
-            "start": "10:53",
             "end": "10:55",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
+            "cat": "personal",
+            "src": "chrome",
+            "title": "sam altman dario amodei india - Google Search",
+            "note": "google.com"
           },
           {
             "start": "10:57",
@@ -5583,10 +12819,10 @@
           {
             "start": "11:00",
             "end": "11:02",
-            "cat": "research",
-            "src": "chrome",
-            "title": "Emily Chang (journalist) - Wikipedia",
-            "note": "en.wikipedia.org"
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
           },
           {
             "start": "11:04",
@@ -5637,12 +12873,20 @@
             "note": "chat.openai.com"
           },
           {
-            "start": "11:29",
+            "start": "11:30",
             "end": "12:17",
             "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "12:30",
+            "end": "12:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
           },
           {
             "start": "12:59",
@@ -5686,22 +12930,30 @@
           },
           {
             "start": "13:30",
+            "end": "13:30",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "13:30",
             "end": "13:31",
-            "cat": "personal",
-            "src": "chrome",
-            "title": "[AINews] GLM-5.2 is the real deal; Z.ai forecasts Open Fable",
-            "note": "google.com"
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
           },
           {
             "start": "13:32",
             "end": "13:32",
-            "cat": "personal",
-            "src": "chrome",
-            "title": "[AINews] GLM-5.2 is the real deal; Z.ai forecasts Open Fable",
-            "note": "google.com"
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
           },
           {
-            "start": "13:32",
+            "start": "13:33",
             "end": "13:34",
             "cat": "meeting",
             "src": "chrome",
@@ -5710,22 +12962,6 @@
           },
           {
             "start": "13:36",
-            "end": "13:40",
-            "cat": "research",
-            "src": "chrome",
-            "title": "Proximal — Advancing Coding Intelligence",
-            "note": "proximal.ai"
-          },
-          {
-            "start": "13:40",
-            "end": "13:42",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
-          },
-          {
-            "start": "13:42",
             "end": "13:56",
             "cat": "research",
             "src": "chrome",
@@ -5742,19 +12978,19 @@
           },
           {
             "start": "13:59",
-            "end": "14:01",
+            "end": "14:00",
             "cat": "writing",
             "src": "macos",
             "title": "obsidian",
             "note": "md.obsidian"
           },
           {
-            "start": "14:01",
+            "start": "14:00",
             "end": "14:03",
             "cat": "coding",
-            "src": "chrome",
-            "title": "Get started with Claude in Chrome | Claude Help Center",
-            "note": "support.claude.com"
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
           },
           {
             "start": "14:03",
@@ -5798,14 +13034,22 @@
           },
           {
             "start": "14:29",
-            "end": "14:32",
+            "end": "14:30",
             "cat": "admin",
             "src": "macos",
             "title": "Outlook",
             "note": "com.microsoft.Outlook"
           },
           {
-            "start": "14:32",
+            "start": "14:30",
+            "end": "14:32",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "14:33",
             "end": "14:35",
             "cat": "meeting",
             "src": "chrome",
@@ -5822,6 +13066,22 @@
           },
           {
             "start": "14:44",
+            "end": "15:00",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Slack",
+            "note": "mqcsh.slack.com"
+          },
+          {
+            "start": "15:00",
+            "end": "15:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "15:03",
             "end": "15:04",
             "cat": "admin",
             "src": "chrome",
@@ -5837,20 +13097,36 @@
             "note": "open.spotify.com"
           },
           {
+            "start": "15:30",
+            "end": "15:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
+          },
+          {
             "start": "15:33",
-            "end": "16:07",
+            "end": "16:00",
             "cat": "research",
             "src": "chrome",
             "title": "Breaking Entropy Bounds: Accelerating RL Training via MTP wi",
             "note": "arxiv.org"
           },
           {
-            "start": "16:08",
+            "start": "16:00",
+            "end": "16:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "16:03",
             "end": "16:10",
             "cat": "research",
-            "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "src": "chrome",
+            "title": "Breaking Entropy Bounds: Accelerating RL Training via MTP wi",
+            "note": "arxiv.org"
           },
           {
             "start": "16:11",
@@ -5870,6 +13146,22 @@
           },
           {
             "start": "16:17",
+            "end": "16:30",
+            "cat": "research",
+            "src": "chrome",
+            "title": "[2502.13189] MoBA: Mixture of Block Attention for Long-Conte",
+            "note": "algoverseairesearch.org"
+          },
+          {
+            "start": "16:30",
+            "end": "16:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "16:33",
             "end": "16:37",
             "cat": "research",
             "src": "chrome",
@@ -5886,43 +13178,51 @@
           },
           {
             "start": "16:46",
-            "end": "17:17",
+            "end": "17:00",
             "cat": "research",
             "src": "macos",
             "title": "zotero",
             "note": "org.zotero.zotero"
           },
           {
-            "start": "17:18",
-            "end": "17:19",
-            "cat": "personal",
-            "src": "chrome",
-            "title": "二十世紀少年 - Unplugged • Kary Ng",
-            "note": "open.spotify.com"
+            "start": "17:00",
+            "end": "17:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
           },
           {
-            "start": "17:19",
-            "end": "17:25",
-            "cat": "research",
-            "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
-          },
-          {
-            "start": "17:25",
+            "start": "17:03",
             "end": "17:26",
-            "cat": "personal",
-            "src": "chrome",
-            "title": "二十世紀少年 - Unplugged • Kary Ng",
-            "note": "open.spotify.com"
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
           },
           {
-            "start": "17:27",
+            "start": "17:26",
+            "end": "17:30",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "17:30",
+            "end": "17:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "17:33",
             "end": "17:34",
             "cat": "research",
-            "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "src": "chrome",
+            "title": "[2302.04761] Toolformer: Language Models Can Teach Themselve",
+            "note": "arxiv.org"
           },
           {
             "start": "17:35",
@@ -5958,6 +13258,14 @@
           },
           {
             "start": "18:00",
+            "end": "18:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "18:03",
             "end": "18:20",
             "cat": "research",
             "src": "chrome",
@@ -5981,6 +13289,30 @@
             "note": "google.com"
           },
           {
+            "start": "18:30",
+            "end": "18:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "19:00",
+            "end": "19:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "19:30",
+            "end": "19:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
             "start": "19:45",
             "end": "19:54",
             "cat": "research",
@@ -5998,22 +13330,30 @@
           },
           {
             "start": "19:57",
-            "end": "20:01",
+            "end": "20:00",
             "cat": "personal",
             "src": "chrome",
             "title": "minecraft game - Google Search",
             "note": "google.com"
           },
           {
-            "start": "20:01",
+            "start": "20:00",
             "end": "20:02",
-            "cat": "admin",
-            "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
           },
           {
             "start": "20:02",
+            "end": "20:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "20:03",
             "end": "20:08",
             "cat": "personal",
             "src": "chrome",
@@ -6054,14 +13394,30 @@
           },
           {
             "start": "20:22",
-            "end": "20:32",
+            "end": "20:30",
             "cat": "research",
             "src": "macos",
             "title": "zotero",
             "note": "org.zotero.zotero"
           },
           {
+            "start": "20:30",
+            "end": "20:32",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
+          },
+          {
             "start": "20:32",
+            "end": "20:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
+          },
+          {
+            "start": "20:33",
             "end": "20:45",
             "cat": "research",
             "src": "macos",
@@ -6086,11 +13442,27 @@
           },
           {
             "start": "20:56",
-            "end": "21:04",
+            "end": "21:00",
             "cat": "research",
             "src": "macos",
             "title": "zotero",
             "note": "org.zotero.zotero"
+          },
+          {
+            "start": "21:00",
+            "end": "21:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "21:03",
+            "end": "21:04",
+            "cat": "research",
+            "src": "chrome",
+            "title": "H$^2$R: Hierarchical Hindsight Reflection for Multi-Task LLM",
+            "note": "emergentmind.com"
           },
           {
             "start": "21:04",
@@ -6102,38 +13474,38 @@
           },
           {
             "start": "21:05",
-            "end": "21:21",
-            "cat": "research",
-            "src": "chrome",
-            "title": "H$^2$R: Hierarchical Hindsight Reflection for Multi-Task LLM",
-            "note": "emergentmind.com"
-          },
-          {
-            "start": "21:21",
-            "end": "21:28",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
-          },
-          {
-            "start": "21:28",
-            "end": "21:34",
+            "end": "21:25",
             "cat": "research",
             "src": "macos",
             "title": "zotero",
             "note": "org.zotero.zotero"
           },
           {
-            "start": "21:34",
-            "end": "21:35",
+            "start": "21:25",
+            "end": "21:28",
             "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
+            "src": "chrome",
+            "title": "Paper page - LLM Agents Making Agent Tools",
+            "note": "hf.co"
           },
           {
-            "start": "21:35",
+            "start": "21:28",
+            "end": "21:30",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "21:30",
+            "end": "21:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "21:33",
             "end": "21:39",
             "cat": "research",
             "src": "macos",
@@ -6142,14 +13514,14 @@
           },
           {
             "start": "21:39",
-            "end": "21:44",
+            "end": "21:41",
             "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
+            "src": "chrome",
+            "title": "Paper page - LLM Agents Making Agent Tools",
+            "note": "hf.co"
           },
           {
-            "start": "21:44",
+            "start": "21:41",
             "end": "21:48",
             "cat": "research",
             "src": "macos",
@@ -6158,30 +13530,246 @@
           },
           {
             "start": "21:48",
-            "end": "21:52",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
-          },
-          {
-            "start": "21:52",
-            "end": "22:02",
+            "end": "22:00",
             "cat": "personal",
             "src": "chrome",
             "title": "the meaning of contingent - Google Search",
             "note": "google.com"
+          },
+          {
+            "start": "22:00",
+            "end": "22:02",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "22:38",
+            "end": "22:41",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "3 hits"
+          },
+          {
+            "start": "22:55",
+            "end": "22:58",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "23:10",
+            "end": "23:13",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "23:27",
+            "end": "23:30",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "23:43",
+            "end": "23:46",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "23:53",
+            "end": "23:56",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "00:11",
+            "end": "00:14",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "00:26",
+            "end": "00:29",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
+          },
+          {
+            "start": "00:44",
+            "end": "00:47",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
+          },
+          {
+            "start": "00:59",
+            "end": "01:02",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "01:16",
+            "end": "01:19",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "01:33",
+            "end": "01:36",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "01:48",
+            "end": "01:51",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "02:03",
+            "end": "02:06",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "02:21",
+            "end": "02:24",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "02:38",
+            "end": "02:41",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "02:54",
+            "end": "02:57",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "03:09",
+            "end": "03:12",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "03:27",
+            "end": "03:30",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
+          },
+          {
+            "start": "03:45",
+            "end": "03:48",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
+          },
+          {
+            "start": "04:01",
+            "end": "04:04",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "04:18",
+            "end": "04:21",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "04:35",
+            "end": "04:38",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "04:52",
+            "end": "04:55",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "05:10",
+            "end": "05:13",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "05:27",
+            "end": "05:30",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "05:42",
+            "end": "05:45",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
           }
         ],
-        "logged": 552,
-        "real": 415,
-        "deep": 415,
-        "ratio": 0.7522793003509256,
+        "logged": 692,
+        "real": 565,
+        "deep": 565,
+        "ratio": 0.8174079817932566,
         "stats": {
-          "contextSwitches": 73,
-          "tabsOpened": 132,
-          "longestFocus": "1h 31m",
-          "justOneMoreThing": 12
+          "contextSwitches": 81,
+          "tabsOpened": 123,
+          "longestFocus": "1h 27m",
+          "justOneMoreThing": 9
         }
       },
       {
@@ -6191,16 +13779,136 @@
         "weekend": false,
         "dateShort": "Tue, Jun 23",
         "dateLong": "Tuesday, June 23",
-        "dayStart": "10:03",
-        "dayEnd": "23:53",
+        "dayStart": "06:00",
+        "dayEnd": "05:54",
         "events": [
           {
-            "start": "10:03",
-            "end": "10:07",
+            "start": "06:00",
+            "end": "06:03",
             "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "06:17",
+            "end": "06:20",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
+          },
+          {
+            "start": "06:34",
+            "end": "06:37",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
+          },
+          {
+            "start": "06:50",
+            "end": "06:53",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "07:08",
+            "end": "07:11",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "07:23",
+            "end": "07:26",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "07:39",
+            "end": "07:45",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "10 hits"
+          },
+          {
+            "start": "07:59",
+            "end": "08:02",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "08:14",
+            "end": "08:17",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "08:31",
+            "end": "08:34",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "08:46",
+            "end": "08:49",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "09:00",
+            "end": "09:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "09:12",
+            "end": "09:15",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "09:43",
+            "end": "09:46",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "10:02",
+            "end": "10:06",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "10:06",
+            "end": "10:07",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Google Translate",
+            "note": "translate.google.com"
           },
           {
             "start": "10:08",
@@ -6236,14 +13944,22 @@
           },
           {
             "start": "10:21",
-            "end": "10:32",
+            "end": "10:29",
             "cat": "research",
             "src": "macos",
             "title": "zotero",
             "note": "org.zotero.zotero"
           },
           {
-            "start": "10:32",
+            "start": "10:30",
+            "end": "10:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "10:33",
             "end": "10:38",
             "cat": "admin",
             "src": "chrome",
@@ -6251,12 +13967,28 @@
             "note": "umd.edu"
           },
           {
+            "start": "10:38",
+            "end": "10:38",
+            "cat": "coding",
+            "src": "claude",
+            "title": "AI builders/research digest missing posts",
+            "note": "21 hits"
+          },
+          {
             "start": "10:39",
             "end": "10:41",
             "cat": "coding",
-            "src": "chrome",
-            "title": "Salesloft Platform | Salesloft API",
-            "note": "developers.salesloft.com"
+            "src": "claude",
+            "title": "AI builders/research digest missing posts",
+            "note": "21 hits"
+          },
+          {
+            "start": "10:41",
+            "end": "10:41",
+            "cat": "coding",
+            "src": "claude",
+            "title": "AI builders/research digest missing posts",
+            "note": "21 hits"
           },
           {
             "start": "10:41",
@@ -6278,28 +14010,20 @@
             "start": "10:44",
             "end": "10:47",
             "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
+            "src": "claude",
+            "title": "AI builders/research digest missing posts",
+            "note": "93 hits"
           },
           {
             "start": "10:47",
-            "end": "10:49",
-            "cat": "personal",
-            "src": "chrome",
-            "title": "Talk to Sales | Salesloft",
-            "note": "google.com"
-          },
-          {
-            "start": "10:49",
-            "end": "10:54",
+            "end": "10:53",
             "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
+            "src": "claude",
+            "title": "AI builders/research digest missing posts",
+            "note": "93 hits"
           },
           {
-            "start": "10:54",
+            "start": "10:53",
             "end": "11:00",
             "cat": "personal",
             "src": "chrome",
@@ -6308,14 +14032,14 @@
           },
           {
             "start": "11:00",
-            "end": "11:01",
-            "cat": "personal",
-            "src": "chrome",
-            "title": "Talk to Sales | Salesloft",
-            "note": "google.com"
+            "end": "11:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
           },
           {
-            "start": "11:01",
+            "start": "11:03",
             "end": "11:05",
             "cat": "research",
             "src": "chrome",
@@ -6356,43 +14080,19 @@
           },
           {
             "start": "11:20",
-            "end": "11:22",
+            "end": "11:30",
             "cat": "research",
             "src": "chrome",
             "title": "Codex-maxxing for long-running work | Ada's Notes",
             "note": "adaren100.github.io"
           },
           {
-            "start": "11:22",
-            "end": "11:24",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
-          },
-          {
-            "start": "11:24",
-            "end": "11:28",
-            "cat": "research",
-            "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
-          },
-          {
-            "start": "11:28",
-            "end": "11:32",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
-          },
-          {
-            "start": "11:32",
+            "start": "11:30",
             "end": "11:33",
-            "cat": "research",
-            "src": "chrome",
-            "title": "pdf",
-            "note": "openreview.net"
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
           },
           {
             "start": "11:33",
@@ -6404,94 +14104,62 @@
           },
           {
             "start": "11:34",
-            "end": "11:36",
+            "end": "11:37",
             "cat": "coding",
             "src": "macos",
             "title": "VSCode",
             "note": "com.microsoft.VSCode"
           },
           {
-            "start": "11:36",
-            "end": "11:37",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
-          },
-          {
             "start": "11:37",
             "end": "11:39",
             "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
+            "src": "vscode",
+            "title": "VS Code · toolsmith.py",
+            "note": "1 hit"
           },
           {
             "start": "11:39",
             "end": "11:52",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
-          },
-          {
-            "start": "11:52",
-            "end": "11:56",
-            "cat": "research",
-            "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
-          },
-          {
-            "start": "11:56",
-            "end": "11:57",
             "cat": "admin",
             "src": "chrome",
             "title": "Google Translate",
             "note": "translate.google.com"
           },
           {
-            "start": "11:57",
-            "end": "12:03",
+            "start": "11:52",
+            "end": "12:00",
             "cat": "research",
             "src": "macos",
             "title": "zotero",
             "note": "org.zotero.zotero"
+          },
+          {
+            "start": "12:00",
+            "end": "12:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
           },
           {
             "start": "12:03",
             "end": "12:05",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Google Translate",
-            "note": "translate.google.com"
-          },
-          {
-            "start": "12:05",
-            "end": "12:10",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
-          },
-          {
-            "start": "12:10",
-            "end": "12:12",
             "cat": "research",
             "src": "macos",
             "title": "zotero",
             "note": "org.zotero.zotero"
           },
           {
-            "start": "12:12",
-            "end": "12:13",
+            "start": "12:05",
+            "end": "12:10",
             "cat": "admin",
             "src": "chrome",
             "title": "Google Translate",
             "note": "translate.google.com"
           },
           {
-            "start": "12:13",
+            "start": "12:10",
             "end": "12:15",
             "cat": "research",
             "src": "macos",
@@ -6501,10 +14169,10 @@
           {
             "start": "12:15",
             "end": "12:17",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Google Translate",
+            "note": "translate.google.com"
           },
           {
             "start": "12:17",
@@ -6521,6 +14189,22 @@
             "src": "chrome",
             "title": "Google Translate",
             "note": "translate.google.com"
+          },
+          {
+            "start": "12:30",
+            "end": "12:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "13:00",
+            "end": "13:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
           },
           {
             "start": "13:03",
@@ -6564,59 +14248,43 @@
           },
           {
             "start": "13:28",
-            "end": "13:29",
+            "end": "13:30",
             "cat": "research",
             "src": "macos",
             "title": "zotero",
             "note": "org.zotero.zotero"
-          },
-          {
-            "start": "13:29",
-            "end": "13:30",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Qualtrics Survey | Qualtrics Experience Management",
-            "note": "translate.google.com"
           },
           {
             "start": "13:30",
+            "end": "13:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
+          },
+          {
+            "start": "13:33",
             "end": "13:35",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
-          },
-          {
-            "start": "13:35",
-            "end": "13:46",
-            "cat": "research",
-            "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
-          },
-          {
-            "start": "13:46",
-            "end": "13:48",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
-          },
-          {
-            "start": "13:48",
-            "end": "13:48",
             "cat": "admin",
             "src": "chrome",
             "title": "Qualtrics Survey | Qualtrics Experience Management",
             "note": "translate.google.com"
+          },
+          {
+            "start": "13:35",
+            "end": "13:48",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
           },
           {
             "start": "13:48",
             "end": "13:50",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Qualtrics Survey | Qualtrics Experience Management",
+            "note": "translate.google.com"
           },
           {
             "start": "13:52",
@@ -6636,14 +14304,22 @@
           },
           {
             "start": "13:59",
-            "end": "14:02",
+            "end": "14:00",
             "cat": "personal",
             "src": "chrome",
             "title": "韩尚佑，抖音系一个打过仗的太子 - 知乎",
             "note": "zhuanlan.zhihu.com"
           },
           {
-            "start": "14:02",
+            "start": "14:00",
+            "end": "14:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "14:03",
             "end": "14:05",
             "cat": "research",
             "src": "macos",
@@ -6659,79 +14335,63 @@
             "note": "translate.google.com"
           },
           {
+            "start": "14:30",
+            "end": "14:31",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
             "start": "14:31",
             "end": "14:33",
-            "cat": "research",
-            "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
           },
           {
             "start": "14:33",
-            "end": "14:34",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
-          },
-          {
-            "start": "14:34",
-            "end": "14:46",
+            "end": "14:54",
             "cat": "research",
             "src": "macos",
             "title": "zotero",
             "note": "org.zotero.zotero"
           },
           {
-            "start": "14:46",
-            "end": "14:47",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
-          },
-          {
-            "start": "14:47",
-            "end": "14:48",
+            "start": "14:54",
+            "end": "14:54",
             "cat": "admin",
             "src": "chrome",
             "title": "Google Translate",
             "note": "translate.google.com"
           },
           {
-            "start": "14:48",
-            "end": "14:54",
-            "cat": "research",
-            "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
-          },
-          {
-            "start": "14:54",
-            "end": "14:54",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
-          },
-          {
             "start": "14:54",
             "end": "14:59",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
+            "cat": "personal",
+            "src": "chrome",
+            "title": "下半輩子 • Jordan Chan",
+            "note": "open.spotify.com"
           },
           {
-            "start": "14:59",
+            "start": "15:00",
             "end": "15:00",
-            "cat": "research",
-            "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
           },
           {
             "start": "15:01",
+            "end": "15:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "15:03",
             "end": "15:05",
             "cat": "research",
             "src": "macos",
@@ -6740,62 +14400,30 @@
           },
           {
             "start": "15:07",
-            "end": "15:18",
+            "end": "15:16",
             "cat": "personal",
             "src": "chrome",
             "title": "The 4 Properties of AI | Claude",
             "note": "google.com"
           },
           {
-            "start": "15:18",
-            "end": "15:19",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
-          },
-          {
-            "start": "15:20",
-            "end": "15:25",
+            "start": "15:16",
+            "end": "15:30",
             "cat": "research",
             "src": "macos",
             "title": "zotero",
             "note": "org.zotero.zotero"
           },
           {
-            "start": "15:25",
-            "end": "15:26",
-            "cat": "personal",
-            "src": "chrome",
-            "title": "The 4 Properties of AI | Claude",
-            "note": "google.com"
-          },
-          {
-            "start": "15:26",
-            "end": "15:27",
+            "start": "15:30",
+            "end": "15:33",
             "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
           },
           {
-            "start": "15:27",
-            "end": "15:32",
-            "cat": "research",
-            "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
-          },
-          {
-            "start": "15:32",
-            "end": "15:34",
-            "cat": "personal",
-            "src": "chrome",
-            "title": "(42) How steerability affects generative AI outputs - YouTub",
-            "note": "youtube.com"
-          },
-          {
-            "start": "15:34",
+            "start": "15:33",
             "end": "15:35",
             "cat": "research",
             "src": "macos",
@@ -6804,14 +14432,6 @@
           },
           {
             "start": "15:35",
-            "end": "15:37",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
-          },
-          {
-            "start": "15:37",
             "end": "15:39",
             "cat": "personal",
             "src": "chrome",
@@ -6836,94 +14456,110 @@
           },
           {
             "start": "15:55",
-            "end": "16:11",
+            "end": "16:00",
             "cat": "research",
             "src": "chrome",
             "title": "google/bigbench · Datasets at Hugging Face",
             "note": "huggingface.co"
           },
           {
-            "start": "16:11",
-            "end": "16:13",
+            "start": "16:00",
+            "end": "16:03",
             "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
           },
           {
-            "start": "16:13",
-            "end": "16:17",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
+            "start": "16:03",
+            "end": "16:15",
+            "cat": "research",
+            "src": "chrome",
+            "title": "google/bigbench · Datasets at Hugging Face",
+            "note": "huggingface.co"
           },
           {
-            "start": "16:17",
-            "end": "16:25",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
-          },
-          {
-            "start": "16:25",
-            "end": "16:29",
+            "start": "16:24",
+            "end": "16:30",
             "cat": "research",
             "src": "chrome",
             "title": "Statement on the US government directive to suspend access t",
             "note": "arxiv.org"
           },
           {
-            "start": "16:29",
+            "start": "16:30",
+            "end": "16:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "16:33",
             "end": "16:38",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
-          },
-          {
-            "start": "16:38",
-            "end": "16:59",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
-          },
-          {
-            "start": "16:59",
-            "end": "17:02",
             "cat": "research",
             "src": "chrome",
-            "title": "arxiv.org",
+            "title": "Statement on the US government directive to suspend access t",
             "note": "arxiv.org"
           },
           {
-            "start": "17:02",
-            "end": "17:07",
+            "start": "16:38",
+            "end": "16:42",
             "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
-          },
-          {
-            "start": "17:07",
-            "end": "17:08",
-            "cat": "personal",
             "src": "chrome",
-            "title": "rochester institute of technology - Google Search",
-            "note": "google.com"
+            "title": "Quantifying infrastructure noise in agentic coding evals \\ A",
+            "note": "developers.openai.com"
           },
           {
-            "start": "17:08",
-            "end": "17:14",
+            "start": "16:42",
+            "end": "16:44",
             "cat": "research",
             "src": "macos",
             "title": "zotero",
             "note": "org.zotero.zotero"
           },
           {
-            "start": "17:15",
+            "start": "16:44",
+            "end": "16:52",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Quantifying infrastructure noise in agentic coding evals \\ A",
+            "note": "developers.openai.com"
+          },
+          {
+            "start": "16:52",
+            "end": "16:59",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "16:59",
+            "end": "17:00",
+            "cat": "research",
+            "src": "chrome",
+            "title": "arxiv.org",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "17:00",
+            "end": "17:02",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "17:02",
+            "end": "17:07",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "17:07",
             "end": "17:20",
             "cat": "research",
             "src": "macos",
@@ -6932,11 +14568,27 @@
           },
           {
             "start": "17:20",
-            "end": "17:40",
+            "end": "17:30",
             "cat": "research",
             "src": "chrome",
             "title": "[2309.17428] CRAFT: Customizing LLMs by Creating and Retriev",
             "note": "arxiv.org"
+          },
+          {
+            "start": "17:30",
+            "end": "17:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "17:33",
+            "end": "17:40",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
           },
           {
             "start": "17:40",
@@ -6948,14 +14600,22 @@
           },
           {
             "start": "17:52",
-            "end": "18:02",
+            "end": "18:00",
             "cat": "personal",
             "src": "chrome",
             "title": "hoyeon jung - Google Search",
             "note": "google.com"
           },
           {
-            "start": "18:02",
+            "start": "18:00",
+            "end": "18:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "18:03",
             "end": "18:04",
             "cat": "research",
             "src": "macos",
@@ -6971,12 +14631,124 @@
             "note": "sixthtone.com"
           },
           {
+            "start": "18:30",
+            "end": "18:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
+          },
+          {
+            "start": "19:00",
+            "end": "19:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "19:30",
+            "end": "19:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
             "start": "19:49",
+            "end": "20:01",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Temu Australia | Explore the Latest Clothing, Beauty, Home, ",
+            "note": "temu.com"
+          },
+          {
+            "start": "20:01",
+            "end": "20:04",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "20:04",
             "end": "20:12",
             "cat": "personal",
             "src": "chrome",
             "title": "Temu Australia | Explore the Latest Clothing, Beauty, Home, ",
             "note": "temu.com"
+          },
+          {
+            "start": "20:42",
+            "end": "20:45",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "3 hits"
+          },
+          {
+            "start": "20:58",
+            "end": "21:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "12 hits"
+          },
+          {
+            "start": "21:32",
+            "end": "21:35",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "21:49",
+            "end": "21:52",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "21:59",
+            "end": "22:02",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "3 hits"
+          },
+          {
+            "start": "22:18",
+            "end": "22:21",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "22:35",
+            "end": "22:38",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "22:52",
+            "end": "22:55",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "23:01",
+            "end": "23:04",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "8 hits"
           },
           {
             "start": "23:20",
@@ -6996,19 +14768,27 @@
           },
           {
             "start": "23:24",
-            "end": "23:33",
+            "end": "23:30",
             "cat": "research",
             "src": "macos",
             "title": "zotero",
             "note": "org.zotero.zotero"
           },
           {
-            "start": "23:33",
-            "end": "23:35",
+            "start": "23:30",
+            "end": "23:33",
             "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "23:33",
+            "end": "23:33",
+            "cat": "research",
             "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
+            "title": "zotero",
+            "note": "org.zotero.zotero"
           },
           {
             "start": "23:35",
@@ -7017,17 +14797,201 @@
             "src": "macos",
             "title": "zotero",
             "note": "org.zotero.zotero"
+          },
+          {
+            "start": "00:09",
+            "end": "00:12",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "3 hits"
+          },
+          {
+            "start": "00:26",
+            "end": "00:29",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "00:43",
+            "end": "00:46",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "00:59",
+            "end": "01:02",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "01:15",
+            "end": "01:18",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "01:30",
+            "end": "01:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "01:38",
+            "end": "01:41",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "01:54",
+            "end": "01:57",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "02:12",
+            "end": "02:15",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "02:29",
+            "end": "02:32",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "02:46",
+            "end": "02:49",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
+          },
+          {
+            "start": "03:03",
+            "end": "03:06",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
+          },
+          {
+            "start": "03:18",
+            "end": "03:21",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "03:33",
+            "end": "03:36",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "03:51",
+            "end": "03:54",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "04:09",
+            "end": "04:12",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "04:26",
+            "end": "04:29",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "04:42",
+            "end": "04:45",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "04:59",
+            "end": "05:02",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "05:14",
+            "end": "05:17",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "05:30",
+            "end": "05:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
+          },
+          {
+            "start": "05:46",
+            "end": "05:49",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
+          },
+          {
+            "start": "05:51",
+            "end": "05:54",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
           }
         ],
-        "logged": 500,
-        "real": 389,
-        "deep": 389,
-        "ratio": 0.7778950071209764,
+        "logged": 655,
+        "real": 527,
+        "deep": 527,
+        "ratio": 0.8050948342139171,
         "stats": {
-          "contextSwitches": 80,
-          "tabsOpened": 117,
-          "longestFocus": "1h 10m",
-          "justOneMoreThing": 20
+          "contextSwitches": 81,
+          "tabsOpened": 120,
+          "longestFocus": "2h 10m",
+          "justOneMoreThing": 18
         }
       },
       {
@@ -7037,11 +15001,123 @@
         "weekend": false,
         "dateShort": "Wed, Jun 24",
         "dateLong": "Wednesday, June 24",
-        "dayStart": "09:53",
-        "dayEnd": "18:29",
+        "dayStart": "06:09",
+        "dayEnd": "05:58",
         "events": [
           {
-            "start": "09:53",
+            "start": "06:09",
+            "end": "06:12",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "06:25",
+            "end": "06:28",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "06:42",
+            "end": "06:45",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "07:00",
+            "end": "07:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "07:15",
+            "end": "07:19",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "07:32",
+            "end": "07:35",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "07:48",
+            "end": "07:55",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "10 hits"
+          },
+          {
+            "start": "08:11",
+            "end": "08:14",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "08:27",
+            "end": "08:30",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
+          },
+          {
+            "start": "08:44",
+            "end": "08:47",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
+          },
+          {
+            "start": "08:53",
+            "end": "08:56",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "09:16",
+            "end": "09:19",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "09:34",
+            "end": "09:37",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "09:49",
+            "end": "09:54",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "16 hits"
+          },
+          {
+            "start": "09:54",
             "end": "10:00",
             "cat": "research",
             "src": "macos",
@@ -7050,14 +15126,14 @@
           },
           {
             "start": "10:00",
-            "end": "10:02",
-            "cat": "personal",
-            "src": "chrome",
-            "title": "奖金10万元？河池一男子交6500元参加“自律挑战”，结果……",
-            "note": "m.huanqiu.com"
+            "end": "10:04",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · ada",
+            "note": "41 hits"
           },
           {
-            "start": "10:02",
+            "start": "10:04",
             "end": "10:06",
             "cat": "admin",
             "src": "macos",
@@ -7074,22 +15150,22 @@
           },
           {
             "start": "10:12",
-            "end": "10:16",
+            "end": "10:19",
             "cat": "personal",
             "src": "chrome",
             "title": "Wirex | Login To Wirex",
             "note": "google.com"
           },
           {
-            "start": "10:16",
-            "end": "10:19",
+            "start": "10:19",
+            "end": "10:20",
             "cat": "coding",
             "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
+            "title": "iterm2",
+            "note": "com.googlecode.iterm2"
           },
           {
-            "start": "10:19",
+            "start": "10:20",
             "end": "10:23",
             "cat": "personal",
             "src": "chrome",
@@ -7106,27 +15182,43 @@
           },
           {
             "start": "10:28",
-            "end": "10:32",
+            "end": "10:30",
             "cat": "personal",
             "src": "chrome",
             "title": "Wirex | Login To Wirex",
             "note": "google.com"
           },
           {
-            "start": "10:32",
-            "end": "10:33",
+            "start": "10:30",
+            "end": "10:34",
             "cat": "coding",
-            "src": "chrome",
-            "title": "Wirex | Crypto-Friendly Currency Accounts",
-            "note": "app.wirexapp.com"
+            "src": "claude",
+            "title": "Claude session · ada",
+            "note": "29 hits"
           },
           {
-            "start": "10:33",
-            "end": "10:36",
+            "start": "10:34",
+            "end": "10:35",
             "cat": "admin",
             "src": "chrome",
             "title": "New Device Login Detected on Your Wirex Account - ada.ren.cn",
             "note": "mail.google.com"
+          },
+          {
+            "start": "10:35",
+            "end": "10:36",
+            "cat": "writing",
+            "src": "macos",
+            "title": "obsidian",
+            "note": "md.obsidian"
+          },
+          {
+            "start": "10:36",
+            "end": "10:36",
+            "cat": "writing",
+            "src": "macos",
+            "title": "obsidian",
+            "note": "md.obsidian"
           },
           {
             "start": "10:36",
@@ -7146,14 +15238,6 @@
           },
           {
             "start": "10:44",
-            "end": "10:47",
-            "cat": "research",
-            "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
-          },
-          {
-            "start": "10:48",
             "end": "10:49",
             "cat": "research",
             "src": "macos",
@@ -7161,7 +15245,15 @@
             "note": "org.zotero.zotero"
           },
           {
-            "start": "11:02",
+            "start": "11:00",
+            "end": "11:02",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "9 hits"
+          },
+          {
+            "start": "11:03",
             "end": "11:05",
             "cat": "admin",
             "src": "chrome",
@@ -7194,6 +15286,14 @@
           },
           {
             "start": "11:30",
+            "end": "11:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "8 hits"
+          },
+          {
+            "start": "11:33",
             "end": "11:47",
             "cat": "meeting",
             "src": "macos",
@@ -7218,14 +15318,22 @@
           },
           {
             "start": "11:54",
-            "end": "12:02",
+            "end": "12:00",
             "cat": "meeting",
             "src": "macos",
             "title": "xos",
             "note": "us.zoom.xos"
           },
           {
-            "start": "12:02",
+            "start": "12:00",
+            "end": "12:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "12:03",
             "end": "12:05",
             "cat": "research",
             "src": "chrome",
@@ -7250,14 +15358,30 @@
           },
           {
             "start": "12:23",
-            "end": "12:32",
+            "end": "12:30",
             "cat": "meeting",
             "src": "macos",
             "title": "xos",
             "note": "us.zoom.xos"
           },
           {
+            "start": "12:30",
+            "end": "12:32",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "8 hits"
+          },
+          {
             "start": "12:32",
+            "end": "12:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "8 hits"
+          },
+          {
+            "start": "12:33",
             "end": "12:37",
             "cat": "research",
             "src": "chrome",
@@ -7266,6 +15390,22 @@
           },
           {
             "start": "12:37",
+            "end": "13:00",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "xos",
+            "note": "us.zoom.xos"
+          },
+          {
+            "start": "13:00",
+            "end": "13:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "13:03",
             "end": "13:04",
             "cat": "meeting",
             "src": "macos",
@@ -7282,6 +15422,22 @@
           },
           {
             "start": "13:19",
+            "end": "13:30",
+            "cat": "research",
+            "src": "chrome",
+            "title": "RISER: Orchestrating Latent Reasoning Skills for Adaptive Ac",
+            "note": "sakana.ai"
+          },
+          {
+            "start": "13:30",
+            "end": "13:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "13:33",
             "end": "13:39",
             "cat": "research",
             "src": "chrome",
@@ -7297,7 +15453,15 @@
             "note": "us.zoom.xos"
           },
           {
-            "start": "14:01",
+            "start": "14:00",
+            "end": "14:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "14:03",
             "end": "14:24",
             "cat": "meeting",
             "src": "macos",
@@ -7313,7 +15477,47 @@
             "note": "transformer-circuits.pub"
           },
           {
-            "start": "16:01",
+            "start": "14:34",
+            "end": "14:37",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "8 hits"
+          },
+          {
+            "start": "15:12",
+            "end": "15:15",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "15:29",
+            "end": "15:32",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "15:45",
+            "end": "15:48",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "3 hits"
+          },
+          {
+            "start": "15:55",
+            "end": "16:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "13 hits"
+          },
+          {
+            "start": "16:03",
             "end": "16:04",
             "cat": "research",
             "src": "chrome",
@@ -7337,12 +15541,20 @@
             "note": "aclanthology.org"
           },
           {
+            "start": "16:30",
+            "end": "16:30",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
             "start": "16:31",
             "end": "16:32",
-            "cat": "research",
-            "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
           },
           {
             "start": "16:33",
@@ -7394,38 +15606,38 @@
           },
           {
             "start": "16:49",
-            "end": "16:55",
+            "end": "17:00",
             "cat": "research",
             "src": "chrome",
             "title": "Sentient Labs: The home for open-source AI reasoning",
             "note": "sentient.xyz"
           },
           {
-            "start": "16:55",
+            "start": "17:00",
             "end": "17:01",
             "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
           },
           {
             "start": "17:01",
             "end": "17:03",
             "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
+            "start": "17:03",
+            "end": "17:03",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Sentient Labs: The home for open-source AI reasoning",
+            "note": "sentient.xyz"
           },
           {
             "start": "17:04",
-            "end": "17:05",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Yahoo Finance - Stock Market Live, Quotes, Business & Financ",
-            "note": "finance.yahoo.com"
-          },
-          {
-            "start": "17:05",
             "end": "17:13",
             "cat": "coding",
             "src": "macos",
@@ -7442,15 +15654,7 @@
           },
           {
             "start": "17:18",
-            "end": "17:19",
-            "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
-          },
-          {
-            "start": "17:20",
-            "end": "17:33",
+            "end": "17:32",
             "cat": "coding",
             "src": "macos",
             "title": "VSCode",
@@ -7466,31 +15670,31 @@
           },
           {
             "start": "17:49",
-            "end": "17:54",
+            "end": "17:56",
             "cat": "research",
             "src": "chrome",
             "title": "tool-genesis/Tool-Genesis-Benchmark · Datasets at Hugging Fa",
             "note": "huggingface.co"
           },
           {
-            "start": "17:54",
-            "end": "17:58",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
-          },
-          {
-            "start": "17:58",
-            "end": "18:03",
+            "start": "17:56",
+            "end": "18:00",
             "cat": "coding",
             "src": "macos",
             "title": "VSCode",
             "note": "com.microsoft.VSCode"
           },
           {
+            "start": "18:00",
+            "end": "18:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "7 hits"
+          },
+          {
             "start": "18:03",
-            "end": "18:06",
+            "end": "18:05",
             "cat": "coding",
             "src": "macos",
             "title": "VSCode",
@@ -7499,18 +15703,18 @@
           {
             "start": "18:06",
             "end": "18:07",
-            "cat": "admin",
-            "src": "macos",
-            "title": "Excel",
-            "note": "com.microsoft.Excel"
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · spreadsheet",
+            "note": "17 hits"
           },
           {
             "start": "18:08",
             "end": "18:09",
             "cat": "coding",
-            "src": "chrome",
-            "title": "RUCKBReasoning/SpreadsheetBench: SpreadsheetBench: Towards C",
-            "note": "github.com"
+            "src": "claude",
+            "title": "Claude session · spreadsheet",
+            "note": "17 hits"
           },
           {
             "start": "18:09",
@@ -7519,17 +15723,329 @@
             "src": "macos",
             "title": "Excel",
             "note": "com.microsoft.Excel"
+          },
+          {
+            "start": "18:34",
+            "end": "18:37",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "3 hits"
+          },
+          {
+            "start": "18:49",
+            "end": "18:52",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "19:05",
+            "end": "19:08",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
+          },
+          {
+            "start": "19:21",
+            "end": "19:24",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
+          },
+          {
+            "start": "19:38",
+            "end": "19:41",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "19:55",
+            "end": "19:58",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "20:11",
+            "end": "20:14",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "20:29",
+            "end": "20:32",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "13 hits"
+          },
+          {
+            "start": "20:45",
+            "end": "20:48",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "21:00",
+            "end": "21:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "11 hits"
+          },
+          {
+            "start": "21:46",
+            "end": "21:49",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "22:04",
+            "end": "22:07",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "22:30",
+            "end": "22:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "22:47",
+            "end": "22:50",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "23:04",
+            "end": "23:07",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "23:32",
+            "end": "23:35",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "23:50",
+            "end": "23:53",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "00:06",
+            "end": "00:09",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "00:22",
+            "end": "00:25",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "00:38",
+            "end": "00:41",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "00:56",
+            "end": "00:59",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "01:11",
+            "end": "01:14",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "01:27",
+            "end": "01:30",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "01:44",
+            "end": "01:47",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "02:01",
+            "end": "02:04",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "02:17",
+            "end": "02:20",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "02:33",
+            "end": "02:36",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "02:49",
+            "end": "02:52",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "03:05",
+            "end": "03:08",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "03:22",
+            "end": "03:25",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "03:40",
+            "end": "03:43",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "03:56",
+            "end": "03:59",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "04:14",
+            "end": "04:17",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "04:32",
+            "end": "04:35",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "04:48",
+            "end": "04:51",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "05:04",
+            "end": "05:07",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "05:21",
+            "end": "05:24",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "05:37",
+            "end": "05:40",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "05:55",
+            "end": "05:58",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
           }
         ],
-        "logged": 384,
-        "real": 327,
-        "deep": 327,
-        "ratio": 0.8517177827672381,
+        "logged": 569,
+        "real": 522,
+        "deep": 522,
+        "ratio": 0.9167236468208912,
         "stats": {
-          "contextSwitches": 44,
-          "tabsOpened": 72,
-          "longestFocus": "1h 56m",
-          "justOneMoreThing": 9
+          "contextSwitches": 58,
+          "tabsOpened": 66,
+          "longestFocus": "2h 15m",
+          "justOneMoreThing": 10
         }
       },
       {
@@ -7539,16 +16055,136 @@
         "weekend": false,
         "dateShort": "Thu, Jun 25",
         "dateLong": "Thursday, June 25",
-        "dayStart": "10:12",
-        "dayEnd": "18:09",
+        "dayStart": "06:10",
+        "dayEnd": "05:59",
         "events": [
+          {
+            "start": "06:10",
+            "end": "06:13",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "06:27",
+            "end": "06:30",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "06:45",
+            "end": "06:48",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "07:00",
+            "end": "07:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "07:16",
+            "end": "07:19",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "07:33",
+            "end": "07:36",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "07:49",
+            "end": "07:52",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "08:05",
+            "end": "08:08",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "08:22",
+            "end": "08:25",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "08:38",
+            "end": "08:41",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "08:54",
+            "end": "08:57",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "09:16",
+            "end": "09:19",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "09:34",
+            "end": "09:37",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "09:51",
+            "end": "09:54",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "10:01",
+            "end": "10:04",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · ada",
+            "note": "6 hits"
+          },
           {
             "start": "10:12",
             "end": "10:20",
             "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "50 hits"
           },
           {
             "start": "10:20",
@@ -7576,19 +16212,19 @@
           },
           {
             "start": "10:28",
-            "end": "10:31",
+            "end": "10:30",
             "cat": "research",
             "src": "chrome",
             "title": "LLM2CLIP: Powerful Language Model Unlocks Richer Cross-Modal",
             "note": "scholar.google.com"
           },
           {
-            "start": "10:31",
+            "start": "10:30",
             "end": "10:34",
             "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "src": "claude",
+            "title": "Claude session · ada",
+            "note": "29 hits"
           },
           {
             "start": "10:34",
@@ -7624,19 +16260,27 @@
           },
           {
             "start": "10:59",
-            "end": "11:01",
+            "end": "11:03",
             "cat": "coding",
             "src": "macos",
             "title": "VSCode",
             "note": "com.microsoft.VSCode"
           },
           {
-            "start": "11:01",
+            "start": "11:03",
             "end": "11:04",
             "cat": "writing",
             "src": "local",
             "title": "Paper Reading.md",
             "note": "1 hit"
+          },
+          {
+            "start": "11:30",
+            "end": "11:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
           },
           {
             "start": "11:35",
@@ -7687,6 +16331,14 @@
             "note": "youtube.com"
           },
           {
+            "start": "12:30",
+            "end": "12:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
             "start": "12:36",
             "end": "12:45",
             "cat": "coding",
@@ -7720,14 +16372,14 @@
           },
           {
             "start": "12:57",
-            "end": "13:44",
+            "end": "13:33",
             "cat": "coding",
             "src": "macos",
             "title": "VSCode",
             "note": "com.microsoft.VSCode"
           },
           {
-            "start": "13:44",
+            "start": "13:33",
             "end": "13:53",
             "cat": "coding",
             "src": "macos",
@@ -7744,206 +16396,110 @@
           },
           {
             "start": "13:54",
-            "end": "13:57",
-            "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
-          },
-          {
-            "start": "13:57",
-            "end": "14:02",
-            "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
-          },
-          {
-            "start": "14:02",
-            "end": "14:17",
-            "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
-          },
-          {
-            "start": "14:18",
-            "end": "14:19",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
-          },
-          {
-            "start": "14:20",
             "end": "14:22",
             "cat": "coding",
             "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
           },
           {
             "start": "14:22",
-            "end": "14:25",
+            "end": "14:40",
             "cat": "coding",
-            "src": "chrome",
-            "title": "New chat - Claude",
-            "note": "claude.ai"
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "318 hits"
           },
           {
-            "start": "14:25",
-            "end": "14:26",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
-          },
-          {
-            "start": "14:26",
-            "end": "14:29",
-            "cat": "research",
-            "src": "chrome",
-            "title": "OpenAI and Broadcom unveil LLM-optimized inference chip | Op",
-            "note": "adaren100.github.io"
-          },
-          {
-            "start": "14:29",
-            "end": "14:31",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
-          },
-          {
-            "start": "14:31",
-            "end": "14:34",
-            "cat": "research",
-            "src": "chrome",
-            "title": "OpenAI and Broadcom unveil LLM-optimized inference chip | Op",
-            "note": "adaren100.github.io"
-          },
-          {
-            "start": "14:34",
-            "end": "14:35",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
-          },
-          {
-            "start": "14:35",
-            "end": "14:37",
-            "cat": "research",
-            "src": "chrome",
-            "title": "OpenAI and Broadcom unveil LLM-optimized inference chip | Op",
-            "note": "adaren100.github.io"
-          },
-          {
-            "start": "14:37",
+            "start": "14:40",
             "end": "14:49",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
+            "cat": "research",
+            "src": "chrome",
+            "title": "OpenAI and Broadcom unveil LLM-optimized inference chip | Op",
+            "note": "adaren100.github.io"
           },
           {
             "start": "14:49",
-            "end": "14:52",
-            "cat": "research",
-            "src": "chrome",
-            "title": "OpenAI and Broadcom unveil LLM-optimized inference chip | Op",
-            "note": "adaren100.github.io"
-          },
-          {
-            "start": "14:52",
-            "end": "14:59",
+            "end": "14:57",
             "cat": "coding",
             "src": "macos",
             "title": "VSCode",
             "note": "com.microsoft.VSCode"
           },
           {
-            "start": "15:22",
-            "end": "15:49",
+            "start": "15:00",
+            "end": "15:03",
             "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
           },
           {
-            "start": "15:53",
-            "end": "15:53",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
-          },
-          {
-            "start": "15:54",
-            "end": "15:56",
-            "cat": "writing",
-            "src": "local",
-            "title": "__probe__.txt",
-            "note": "1 hit"
-          },
-          {
-            "start": "15:56",
+            "start": "15:30",
             "end": "15:58",
             "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
           },
           {
             "start": "15:58",
+            "end": "16:02",
+            "cat": "coding",
+            "src": "local",
+            "title": "build_output.py",
+            "note": "4 hits"
+          },
+          {
+            "start": "16:04",
             "end": "16:10",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
-          },
-          {
-            "start": "16:11",
-            "end": "16:12",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Google Translate",
-            "note": "translate.google.com"
-          },
-          {
-            "start": "16:12",
-            "end": "16:19",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
-          },
-          {
-            "start": "16:19",
-            "end": "16:19",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Google Translate",
-            "note": "translate.google.com"
-          },
-          {
-            "start": "16:19",
-            "end": "16:31",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
-          },
-          {
-            "start": "16:31",
-            "end": "16:42",
             "cat": "coding",
             "src": "macos",
             "title": "VSCode",
             "note": "com.microsoft.VSCode"
           },
           {
-            "start": "16:43",
+            "start": "16:11",
+            "end": "16:19",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "16:19",
+            "end": "16:24",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:24",
+            "end": "16:30",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "16:30",
+            "end": "16:31",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "16:31",
+            "end": "16:34",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "16:42",
             "end": "16:49",
             "cat": "coding",
             "src": "macos",
@@ -7952,70 +16508,30 @@
           },
           {
             "start": "16:53",
-            "end": "16:57",
+            "end": "16:54",
             "cat": "coding",
             "src": "macos",
             "title": "VSCode",
             "note": "com.microsoft.VSCode"
           },
           {
-            "start": "16:57",
-            "end": "17:00",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
-          },
-          {
             "start": "17:00",
-            "end": "17:13",
+            "end": "17:19",
             "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
           },
           {
-            "start": "17:14",
-            "end": "17:16",
+            "start": "17:21",
+            "end": "17:36",
             "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
-          },
-          {
-            "start": "17:17",
-            "end": "17:30",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
-          },
-          {
-            "start": "17:31",
-            "end": "17:37",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
-          },
-          {
-            "start": "17:38",
-            "end": "17:44",
-            "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
+            "src": "local",
+            "title": "naturalistic_runner.py",
+            "note": "3 hits"
           },
           {
             "start": "17:44",
-            "end": "17:45",
-            "cat": "writing",
-            "src": "local",
-            "title": "finance_benchmarks_compare.md",
-            "note": "2 hits"
-          },
-          {
-            "start": "17:45",
             "end": "17:47",
             "cat": "coding",
             "src": "macos",
@@ -8037,16 +16553,360 @@
             "src": "chrome",
             "title": "czyssrs/FinQA: Data and code for EMNLP 2021 paper \"FinQA: A ",
             "note": "github.com"
+          },
+          {
+            "start": "18:14",
+            "end": "18:17",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "3 hits"
+          },
+          {
+            "start": "18:30",
+            "end": "18:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "18:43",
+            "end": "18:46",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "15 hits"
+          },
+          {
+            "start": "19:17",
+            "end": "19:20",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "19:34",
+            "end": "19:37",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "19:51",
+            "end": "19:57",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "14 hits"
+          },
+          {
+            "start": "20:10",
+            "end": "20:13",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "20:28",
+            "end": "20:31",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "20:45",
+            "end": "20:48",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "20:55",
+            "end": "21:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "14 hits"
+          },
+          {
+            "start": "21:33",
+            "end": "21:36",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "21:50",
+            "end": "21:53",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "21:56",
+            "end": "21:59",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "1 hit"
+          },
+          {
+            "start": "22:13",
+            "end": "22:16",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "3 hits"
+          },
+          {
+            "start": "22:28",
+            "end": "22:31",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "22:46",
+            "end": "22:49",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "22:57",
+            "end": "23:00",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "23:15",
+            "end": "23:18",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "23:30",
+            "end": "23:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "23:46",
+            "end": "23:49",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "00:02",
+            "end": "00:05",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "00:18",
+            "end": "00:21",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "00:33",
+            "end": "00:36",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "00:51",
+            "end": "00:54",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
+          },
+          {
+            "start": "01:06",
+            "end": "01:09",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
+          },
+          {
+            "start": "01:23",
+            "end": "01:26",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "01:40",
+            "end": "01:43",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "01:58",
+            "end": "02:01",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "02:14",
+            "end": "02:17",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "02:30",
+            "end": "02:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "02:47",
+            "end": "02:50",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "02:56",
+            "end": "02:59",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "03:13",
+            "end": "03:16",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "03:30",
+            "end": "03:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "03:47",
+            "end": "03:50",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
+          },
+          {
+            "start": "04:03",
+            "end": "04:06",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
+          },
+          {
+            "start": "04:18",
+            "end": "04:21",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "04:34",
+            "end": "04:37",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "04:50",
+            "end": "04:53",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "05:07",
+            "end": "05:10",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "05:25",
+            "end": "05:28",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "05:42",
+            "end": "05:45",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "05:59",
+            "end": "05:59",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
           }
         ],
-        "logged": 381,
-        "real": 365,
-        "deep": 365,
-        "ratio": 0.956726341578441,
+        "logged": 546,
+        "real": 518,
+        "deep": 518,
+        "ratio": 0.9484932384619337,
         "stats": {
-          "contextSwitches": 41,
-          "tabsOpened": 48,
-          "longestFocus": "1h 46m",
+          "contextSwitches": 31,
+          "tabsOpened": 36,
+          "longestFocus": "3h 25m",
           "justOneMoreThing": 8
         }
       },
@@ -8057,16 +16917,168 @@
         "weekend": false,
         "dateShort": "Fri, Jun 26",
         "dateLong": "Friday, June 26",
-        "dayStart": "11:00",
-        "dayEnd": "12:04",
+        "dayStart": "06:00",
+        "dayEnd": "12:40",
         "events": [
+          {
+            "start": "06:00",
+            "end": "06:02",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "06:17",
+            "end": "06:20",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "06:35",
+            "end": "06:38",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
+          },
+          {
+            "start": "06:43",
+            "end": "06:46",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "07:01",
+            "end": "07:04",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
+          },
+          {
+            "start": "07:18",
+            "end": "07:21",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "07:35",
+            "end": "07:38",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "07:52",
+            "end": "07:55",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "08:08",
+            "end": "08:11",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "08:26",
+            "end": "08:29",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "08:42",
+            "end": "08:45",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "09:00",
+            "end": "09:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "09:16",
+            "end": "09:19",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "09:32",
+            "end": "09:35",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "5 hits"
+          },
+          {
+            "start": "09:45",
+            "end": "09:48",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
+          {
+            "start": "10:02",
+            "end": "10:05",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · ada",
+            "note": "11 hits"
+          },
+          {
+            "start": "10:17",
+            "end": "10:20",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "4 hits"
+          },
+          {
+            "start": "10:33",
+            "end": "10:36",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · ada",
+            "note": "10 hits"
+          },
+          {
+            "start": "10:46",
+            "end": "10:49",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "6 hits"
+          },
           {
             "start": "11:00",
             "end": "11:07",
             "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "58 hits"
           },
           {
             "start": "11:07",
@@ -8086,61 +17098,69 @@
           },
           {
             "start": "11:29",
-            "end": "11:39",
+            "end": "11:30",
             "cat": "research",
             "src": "chrome",
             "title": "[2508.00217] Tabular Data Understanding with LLMs: A Survey ",
             "note": "app.litmaps.com"
           },
           {
-            "start": "11:39",
+            "start": "11:30",
+            "end": "11:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · workspace",
+            "note": "9 hits"
+          },
+          {
+            "start": "11:33",
+            "end": "11:40",
+            "cat": "research",
+            "src": "chrome",
+            "title": "[2508.00217] Tabular Data Understanding with LLMs: A Survey ",
+            "note": "app.litmaps.com"
+          },
+          {
+            "start": "11:40",
             "end": "11:41",
             "cat": "coding",
             "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
           },
           {
             "start": "11:41",
-            "end": "11:43",
+            "end": "11:42",
             "cat": "research",
             "src": "chrome",
             "title": "[2508.00217] Tabular Data Understanding with LLMs: A Survey ",
             "note": "app.litmaps.com"
           },
           {
-            "start": "11:43",
-            "end": "11:47",
+            "start": "11:42",
+            "end": "12:31",
             "cat": "coding",
-            "src": "macos",
-            "title": "claudefordesktop",
-            "note": "com.anthropic.claudefordesktop"
+            "src": "claude",
+            "title": "PhD worklog June 25th coding duration",
+            "note": "365 hits"
           },
           {
-            "start": "11:47",
-            "end": "11:56",
-            "cat": "research",
+            "start": "12:31",
+            "end": "12:40",
+            "cat": "personal",
             "src": "chrome",
-            "title": "[2508.00217] Tabular Data Understanding with LLMs: A Survey ",
-            "note": "app.litmaps.com"
-          },
-          {
-            "start": "11:56",
-            "end": "12:04",
-            "cat": "coding",
-            "src": "local",
-            "title": "domain_cats.json",
-            "note": "3 hits"
+            "title": "Groove Foldover Mid-Rise Short 4\" | Shorts | Lululemon AU",
+            "note": "google.com"
           }
         ],
-        "logged": 63,
-        "real": 63,
-        "deep": 63,
-        "ratio": 1.0,
+        "logged": 156,
+        "real": 148,
+        "deep": 148,
+        "ratio": 0.9441835037260832,
         "stats": {
-          "contextSwitches": 8,
-          "tabsOpened": 12,
-          "longestFocus": "1h 3m",
+          "contextSwitches": 9,
+          "tabsOpened": 15,
+          "longestFocus": "2h 28m",
           "justOneMoreThing": 0
         }
       },
@@ -8277,35 +17297,155 @@
       "weekend": false,
       "dateShort": "Mon, Jun 1",
       "dateLong": "Monday, June 1",
-      "dayStart": "10:02",
-      "dayEnd": "00:57",
+      "dayStart": "06:00",
+      "dayEnd": "05:49",
       "events": [
         {
-          "start": "10:02",
+          "start": "06:00",
+          "end": "06:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "06:18",
+          "end": "06:21",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
+        },
+        {
+          "start": "06:34",
+          "end": "06:37",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "06:51",
+          "end": "06:54",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "07:07",
+          "end": "07:10",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "07:17",
+          "end": "07:20",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "07:34",
+          "end": "07:37",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
+        },
+        {
+          "start": "07:51",
+          "end": "07:54",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "08:07",
+          "end": "08:10",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "08:26",
+          "end": "08:29",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "08:42",
+          "end": "08:45",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "08:57",
+          "end": "09:00",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
+        },
+        {
+          "start": "09:15",
+          "end": "09:18",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "09:33",
+          "end": "09:36",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "09:50",
+          "end": "09:57",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "15 hits"
+        },
+        {
+          "start": "10:00",
           "end": "10:05",
           "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "363 hits"
         },
         {
           "start": "10:06",
-          "end": "10:12",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
-        },
-        {
-          "start": "10:12",
           "end": "10:17",
           "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "363 hits"
         },
         {
           "start": "10:17",
+          "end": "10:20",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "363 hits"
+        },
+        {
+          "start": "10:20",
           "end": "10:24",
           "cat": "research",
           "src": "macos",
@@ -8315,82 +17455,26 @@
         {
           "start": "10:24",
           "end": "10:25",
-          "cat": "personal",
-          "src": "chrome",
-          "title": "7 Things I Did to Fix My Unfocused, Overstimulated Brain | b",
-          "note": "google.com"
-        },
-        {
-          "start": "10:25",
-          "end": "10:25",
           "cat": "coding",
           "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
+          "title": "iterm2",
+          "note": "com.googlecode.iterm2"
         },
         {
           "start": "10:26",
-          "end": "10:26",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
-        },
-        {
-          "start": "10:26",
-          "end": "10:28",
-          "cat": "research",
-          "src": "chrome",
-          "title": "How Well Do Models Follow Their Constitutions?",
-          "note": "google.com"
-        },
-        {
-          "start": "10:28",
-          "end": "10:31",
-          "cat": "personal",
-          "src": "chrome",
-          "title": "(21) 主页 / X",
-          "note": "x.com"
-        },
-        {
-          "start": "10:31",
-          "end": "10:33",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
-        },
-        {
-          "start": "10:33",
-          "end": "10:34",
-          "cat": "personal",
-          "src": "chrome",
-          "title": "(21) 主页 / X",
-          "note": "x.com"
-        },
-        {
-          "start": "10:34",
-          "end": "10:40",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
-        },
-        {
-          "start": "10:40",
           "end": "10:43",
-          "cat": "research",
+          "cat": "coding",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "title": "iterm2",
+          "note": "com.googlecode.iterm2"
         },
         {
           "start": "10:43",
           "end": "10:46",
-          "cat": "personal",
-          "src": "chrome",
-          "title": "cluade character - Google Search",
-          "note": "google.com"
+          "cat": "coding",
+          "src": "claude",
+          "title": "PhD daily log tracker",
+          "note": "411 hits"
         },
         {
           "start": "10:46",
@@ -8404,12 +17488,20 @@
           "start": "10:49",
           "end": "12:01",
           "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
+          "src": "claude",
+          "title": "PhD daily log tracker",
+          "note": "152 hits"
         },
         {
           "start": "12:01",
+          "end": "12:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · log",
+          "note": "56 hits"
+        },
+        {
+          "start": "12:03",
           "end": "12:06",
           "cat": "research",
           "src": "chrome",
@@ -8420,20 +17512,44 @@
           "start": "12:06",
           "end": "12:44",
           "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
+          "src": "chrome",
+          "title": "Honest Worklog",
+          "note": "localhost:1314"
+        },
+        {
+          "start": "13:00",
+          "end": "13:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "13:30",
+          "end": "13:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "14:00",
+          "end": "14:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
         },
         {
           "start": "14:06",
-          "end": "14:12",
+          "end": "14:15",
           "cat": "coding",
           "src": "chrome",
           "title": "Honest Worklog",
           "note": "localhost:1314"
         },
         {
-          "start": "14:12",
+          "start": "14:15",
           "end": "14:24",
           "cat": "research",
           "src": "chrome",
@@ -8449,103 +17565,79 @@
           "note": "localhost:1314"
         },
         {
-          "start": "14:29",
-          "end": "14:55",
+          "start": "14:30",
+          "end": "14:33",
           "cat": "coding",
-          "src": "chrome",
-          "title": "rasbt/reasoning-from-scratch: Implement a reasoning LLM in P",
-          "note": "localhost:1314"
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "13 hits"
         },
         {
-          "start": "14:55",
-          "end": "14:59",
+          "start": "14:33",
+          "end": "14:55",
           "cat": "coding",
           "src": "macos",
           "title": "VSCode",
           "note": "com.microsoft.VSCode"
         },
         {
+          "start": "14:55",
+          "end": "14:55",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "14:56",
+          "end": "14:59",
+          "cat": "coding",
+          "src": "claude",
+          "title": "PhD daily log tracker",
+          "note": "519 hits"
+        },
+        {
           "start": "15:00",
-          "end": "15:03",
+          "end": "15:35",
           "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
+          "src": "claude",
+          "title": "PhD daily log tracker",
+          "note": "519 hits"
         },
         {
-          "start": "15:05",
-          "end": "15:08",
-          "cat": "personal",
-          "src": "chrome",
-          "title": "SkillOpt: Executive Strategy for Self-Evolving Agent Skills ",
-          "note": "google.com"
-        },
-        {
-          "start": "15:08",
-          "end": "15:30",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
-        },
-        {
-          "start": "15:30",
+          "start": "15:35",
           "end": "16:02",
           "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
+          "src": "claude",
+          "title": "PhD daily log tracker",
+          "note": "519 hits"
         },
         {
-          "start": "16:54",
-          "end": "16:56",
-          "cat": "research",
-          "src": "chrome",
-          "title": "Do Language Models Need Sleep? Offline Recurrence for Improv",
-          "note": "alphaxiv.org"
+          "start": "16:53",
+          "end": "16:54",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "385 hits"
         },
         {
-          "start": "16:56",
+          "start": "16:55",
           "end": "16:57",
           "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "385 hits"
         },
         {
           "start": "16:57",
-          "end": "17:04",
+          "end": "17:33",
           "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "385 hits"
         },
         {
-          "start": "17:04",
-          "end": "17:07",
-          "cat": "research",
-          "src": "chrome",
-          "title": "Do Language Models Need Sleep? Offline Recurrence for Improv",
-          "note": "alphaxiv.org"
-        },
-        {
-          "start": "17:07",
-          "end": "17:14",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
-        },
-        {
-          "start": "17:15",
-          "end": "17:32",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
-        },
-        {
-          "start": "17:32",
+          "start": "17:33",
           "end": "17:34",
           "cat": "admin",
           "src": "macos",
@@ -8594,11 +17686,43 @@
         },
         {
           "start": "18:09",
-          "end": "19:18",
+          "end": "18:30",
           "cat": "admin",
           "src": "chrome",
           "title": "Research Compute & Storage Allocation Request - Employee",
           "note": "translate.google.com"
+        },
+        {
+          "start": "18:30",
+          "end": "18:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "26 hits"
+        },
+        {
+          "start": "18:33",
+          "end": "19:00",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Research Compute & Storage Allocation Request - Employee",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "19:00",
+          "end": "19:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "29 hits"
+        },
+        {
+          "start": "19:03",
+          "end": "19:18",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Unit: Graduate Research Induction | iLearn",
+          "note": "ilearn.mq.edu.au"
         },
         {
           "start": "19:18",
@@ -8609,23 +17733,311 @@
           "note": "musac.jonasleisure.com.au"
         },
         {
+          "start": "19:38",
+          "end": "19:41",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "13 hits"
+        },
+        {
+          "start": "19:56",
+          "end": "19:59",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "20:11",
+          "end": "20:14",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "20:28",
+          "end": "20:31",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
+        },
+        {
+          "start": "20:44",
+          "end": "20:49",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "21:00",
+          "end": "21:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "3 hits"
+        },
+        {
+          "start": "21:22",
+          "end": "21:25",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "21:37",
+          "end": "21:40",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "21:54",
+          "end": "21:57",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "22:04",
+          "end": "22:07",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "21 hits"
+        },
+        {
+          "start": "22:36",
+          "end": "22:39",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
+        },
+        {
+          "start": "22:51",
+          "end": "22:54",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "23:05",
+          "end": "23:08",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "23:21",
+          "end": "23:24",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "23:39",
+          "end": "23:42",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "23:55",
+          "end": "23:58",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
+        },
+        {
+          "start": "00:06",
+          "end": "00:09",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
           "start": "00:10",
+          "end": "00:30",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "EasyFive Low-Rise Classic Wide-Leg Pant *Short | Lululemon A",
+          "note": "googleadservices.com"
+        },
+        {
+          "start": "00:30",
+          "end": "00:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "00:33",
           "end": "00:57",
           "cat": "personal",
           "src": "chrome",
           "title": "EasyFive Low-Rise Classic Wide-Leg Pant *Short | Lululemon A",
           "note": "googleadservices.com"
+        },
+        {
+          "start": "01:10",
+          "end": "01:13",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "3 hits"
+        },
+        {
+          "start": "01:28",
+          "end": "01:31",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "01:45",
+          "end": "01:48",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "02:03",
+          "end": "02:06",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "02:20",
+          "end": "02:23",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "02:38",
+          "end": "02:41",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "02:57",
+          "end": "03:00",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "03:14",
+          "end": "03:17",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "03:32",
+          "end": "03:35",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "03:48",
+          "end": "03:51",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
+        },
+        {
+          "start": "04:06",
+          "end": "04:09",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
+        },
+        {
+          "start": "04:21",
+          "end": "04:24",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "04:39",
+          "end": "04:42",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "04:56",
+          "end": "04:59",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "05:12",
+          "end": "05:15",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "05:28",
+          "end": "05:31",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "05:46",
+          "end": "05:49",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
         }
       ],
-      "logged": 466,
-      "real": 320,
-      "deep": 320,
-      "ratio": 0.686269247320832,
+      "logged": 634,
+      "real": 509,
+      "deep": 509,
+      "ratio": 0.803093684649875,
       "stats": {
-        "contextSwitches": 30,
-        "tabsOpened": 60,
-        "longestFocus": "2h 54m",
-        "justOneMoreThing": 7
+        "contextSwitches": 25,
+        "tabsOpened": 45,
+        "longestFocus": "6h 15m",
+        "justOneMoreThing": 2
       }
     },
     {
@@ -8635,16 +18047,144 @@
       "weekend": false,
       "dateShort": "Tue, Jun 2",
       "dateLong": "Tuesday, June 2",
-      "dayStart": "10:07",
-      "dayEnd": "00:36",
+      "dayStart": "06:03",
+      "dayEnd": "03:27",
       "events": [
         {
-          "start": "10:07",
+          "start": "06:03",
+          "end": "06:06",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "06:20",
+          "end": "06:23",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "06:34",
+          "end": "06:37",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
+        },
+        {
+          "start": "06:52",
+          "end": "06:55",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
+        },
+        {
+          "start": "07:07",
+          "end": "07:10",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
+        },
+        {
+          "start": "07:25",
+          "end": "07:28",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "07:43",
+          "end": "07:46",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "07:58",
+          "end": "08:01",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "08:15",
+          "end": "08:22",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "10 hits"
+        },
+        {
+          "start": "08:35",
+          "end": "08:38",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "08:53",
+          "end": "08:56",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "09:00",
+          "end": "09:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
+        },
+        {
+          "start": "09:18",
+          "end": "09:21",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "09:36",
+          "end": "09:39",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "09:52",
+          "end": "09:55",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
+        },
+        {
+          "start": "10:03",
+          "end": "10:07",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "14 hits"
+        },
+        {
+          "start": "10:08",
           "end": "10:22",
           "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
+          "src": "chrome",
+          "title": "Honest Worklog",
+          "note": "localhost:1314"
         },
         {
           "start": "10:23",
@@ -8656,22 +18196,22 @@
         },
         {
           "start": "10:27",
-          "end": "10:50",
+          "end": "10:30",
           "cat": "research",
           "src": "chrome",
           "title": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com",
           "note": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com"
         },
         {
-          "start": "10:50",
-          "end": "10:52",
+          "start": "10:30",
+          "end": "10:35",
           "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
+          "src": "claude",
+          "title": "Claude session · ada",
+          "note": "26 hits"
         },
         {
-          "start": "10:52",
+          "start": "10:35",
           "end": "10:53",
           "cat": "research",
           "src": "chrome",
@@ -8680,14 +18220,6 @@
         },
         {
           "start": "10:53",
-          "end": "10:54",
-          "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
-        },
-        {
-          "start": "10:55",
           "end": "11:00",
           "cat": "coding",
           "src": "macos",
@@ -8696,22 +18228,14 @@
         },
         {
           "start": "11:01",
-          "end": "11:12",
+          "end": "11:14",
           "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "src": "claude",
+          "title": "Claude session · log",
+          "note": "155 hits"
         },
         {
-          "start": "11:12",
-          "end": "11:13",
-          "cat": "research",
-          "src": "chrome",
-          "title": "Inspect Petri",
-          "note": "meridianlabs-ai.github.io"
-        },
-        {
-          "start": "11:13",
+          "start": "11:14",
           "end": "11:15",
           "cat": "admin",
           "src": "macos",
@@ -8720,22 +18244,38 @@
         },
         {
           "start": "11:15",
-          "end": "11:32",
+          "end": "11:30",
           "cat": "research",
           "src": "chrome",
           "title": "Inspect Petri",
           "note": "meridianlabs-ai.github.io"
         },
         {
-          "start": "11:32",
+          "start": "11:30",
           "end": "11:43",
           "cat": "coding",
-          "src": "chrome",
-          "title": "meridianlabs-ai/inspect_petri: An alignment auditing agent c",
-          "note": "github.com"
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "13 hits"
         },
         {
           "start": "11:43",
+          "end": "12:00",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "12:00",
+          "end": "12:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "13 hits"
+        },
+        {
+          "start": "12:03",
           "end": "12:04",
           "cat": "admin",
           "src": "chrome",
@@ -8760,6 +18300,22 @@
         },
         {
           "start": "12:24",
+          "end": "12:30",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(1) Thariq (@trq212) / X",
+          "note": "x.com"
+        },
+        {
+          "start": "12:30",
+          "end": "12:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "20 hits"
+        },
+        {
+          "start": "12:33",
           "end": "12:39",
           "cat": "personal",
           "src": "chrome",
@@ -8768,6 +18324,22 @@
         },
         {
           "start": "12:53",
+          "end": "13:00",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Inbox (2,433) - ada.ren.cn@gmail.com - Gmail",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "13:00",
+          "end": "13:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "13 hits"
+        },
+        {
+          "start": "13:03",
           "end": "13:08",
           "cat": "admin",
           "src": "chrome",
@@ -8792,14 +18364,22 @@
         },
         {
           "start": "13:25",
-          "end": "13:32",
+          "end": "13:30",
           "cat": "personal",
           "src": "chrome",
           "title": "Home | Nan Tien Temple",
           "note": "baidu.com"
         },
         {
-          "start": "13:32",
+          "start": "13:30",
+          "end": "13:32",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "13 hits"
+        },
+        {
+          "start": "13:33",
           "end": "13:50",
           "cat": "coding",
           "src": "chrome",
@@ -8815,7 +18395,15 @@
           "note": "mail.google.com"
         },
         {
-          "start": "14:02",
+          "start": "14:00",
+          "end": "14:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "13 hits"
+        },
+        {
+          "start": "14:03",
           "end": "14:05",
           "cat": "personal",
           "src": "chrome",
@@ -8840,11 +18428,27 @@
         },
         {
           "start": "14:13",
-          "end": "14:43",
+          "end": "14:30",
           "cat": "research",
           "src": "macos",
           "title": "zotero",
           "note": "org.zotero.zotero"
+        },
+        {
+          "start": "14:30",
+          "end": "14:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "20 hits"
+        },
+        {
+          "start": "14:33",
+          "end": "14:43",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Trade Crypto, Predict Outcomes & Earn — All in One Platform ",
+          "note": "gemini.com"
         },
         {
           "start": "14:44",
@@ -8882,12 +18486,20 @@
           "start": "15:00",
           "end": "15:29",
           "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "172 hits"
         },
         {
           "start": "15:30",
+          "end": "15:50",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "172 hits"
+        },
+        {
+          "start": "15:50",
           "end": "17:08",
           "cat": "coding",
           "src": "macos",
@@ -8898,17 +18510,33 @@
           "start": "17:09",
           "end": "17:23",
           "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "src": "claude",
+          "title": "Claude session · log",
+          "note": "164 hits"
         },
         {
           "start": "17:23",
-          "end": "17:36",
+          "end": "17:30",
           "cat": "research",
           "src": "chrome",
           "title": "Ada's Notes",
           "note": "adaren100.github.io"
+        },
+        {
+          "start": "17:30",
+          "end": "17:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "28 hits"
+        },
+        {
+          "start": "17:33",
+          "end": "17:36",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
         },
         {
           "start": "17:37",
@@ -8944,11 +18572,19 @@
         },
         {
           "start": "17:48",
-          "end": "18:03",
+          "end": "18:00",
           "cat": "research",
           "src": "macos",
           "title": "zotero",
           "note": "org.zotero.zotero"
+        },
+        {
+          "start": "18:00",
+          "end": "18:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "28 hits"
         },
         {
           "start": "18:04",
@@ -8975,55 +18611,159 @@
           "note": "gemini.google.com"
         },
         {
+          "start": "18:30",
+          "end": "18:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "28 hits"
+        },
+        {
+          "start": "19:12",
+          "end": "19:15",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "28 hits"
+        },
+        {
+          "start": "19:36",
+          "end": "19:39",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "29 hits"
+        },
+        {
+          "start": "20:00",
+          "end": "20:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "8 hits"
+        },
+        {
+          "start": "20:30",
+          "end": "20:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "21:14",
+          "end": "21:17",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "21:32",
+          "end": "21:35",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "3 hits"
+        },
+        {
+          "start": "21:48",
+          "end": "21:51",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "22:05",
+          "end": "22:08",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "22:15",
+          "end": "22:18",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "22:31",
+          "end": "22:34",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "22:47",
+          "end": "22:50",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "23:04",
+          "end": "23:07",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "23:16",
+          "end": "23:19",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "13 hits"
+        },
+        {
+          "start": "23:33",
+          "end": "23:36",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
           "start": "23:42",
           "end": "23:55",
           "cat": "coding",
-          "src": "chrome",
-          "title": "New chat - Claude",
-          "note": "claude.ai"
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "256 hits"
         },
         {
-          "start": "23:56",
+          "start": "23:55",
           "end": "23:57",
           "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "256 hits"
         },
         {
           "start": "23:57",
-          "end": "00:11",
-          "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
-        },
-        {
-          "start": "00:11",
           "end": "00:12",
-          "cat": "research",
-          "src": "chrome",
-          "title": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com",
-          "note": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com"
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "256 hits"
         },
         {
           "start": "00:12",
-          "end": "00:13",
-          "cat": "writing",
-          "src": "chrome",
-          "title": "Claude Design feedback",
-          "note": "docs.google.com"
-        },
-        {
-          "start": "00:13",
-          "end": "00:15",
+          "end": "00:16",
           "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "256 hits"
         },
         {
-          "start": "00:15",
+          "start": "00:17",
           "end": "00:32",
           "cat": "writing",
           "src": "chrome",
@@ -9037,17 +18777,57 @@
           "src": "chrome",
           "title": "Ada's Notes",
           "note": "adaren100.github.io"
+        },
+        {
+          "start": "00:45",
+          "end": "00:48",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "01:19",
+          "end": "01:22",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "02:18",
+          "end": "02:21",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "02:51",
+          "end": "02:54",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "03:24",
+          "end": "03:27",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
         }
       ],
-      "logged": 524,
-      "real": 413,
-      "deep": 413,
-      "ratio": 0.7887099324889932,
+      "logged": 637,
+      "real": 540,
+      "deep": 540,
+      "ratio": 0.8480234880195973,
       "stats": {
-        "contextSwitches": 39,
+        "contextSwitches": 49,
         "tabsOpened": 84,
-        "longestFocus": "5h 1m",
-        "justOneMoreThing": 4
+        "longestFocus": "6h 1m",
+        "justOneMoreThing": 6
       }
     },
     {
@@ -9057,75 +18837,67 @@
       "weekend": false,
       "dateShort": "Wed, Jun 3",
       "dateLong": "Wednesday, June 3",
-      "dayStart": "09:16",
-      "dayEnd": "21:04",
+      "dayStart": "06:14",
+      "dayEnd": "05:58",
       "events": [
         {
-          "start": "09:16",
-          "end": "09:36",
+          "start": "06:14",
+          "end": "06:17",
           "cat": "coding",
-          "src": "chrome",
-          "title": "phd_worklog",
-          "note": "claude.ai"
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "06:48",
+          "end": "06:51",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "07:23",
+          "end": "07:26",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "08:15",
+          "end": "08:18",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "09:00",
+          "end": "09:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "09:16",
+          "end": "09:37",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "09:50",
+          "end": "09:54",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
         },
         {
           "start": "09:59",
-          "end": "10:00",
-          "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
-        },
-        {
-          "start": "10:01",
-          "end": "10:07",
-          "cat": "coding",
-          "src": "chrome",
-          "title": "Ai-Digests | Ada's Notes",
-          "note": "localhost:1313"
-        },
-        {
-          "start": "10:08",
-          "end": "10:09",
-          "cat": "research",
-          "src": "chrome",
-          "title": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com",
-          "note": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com"
-        },
-        {
-          "start": "10:09",
-          "end": "10:10",
-          "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
-        },
-        {
-          "start": "10:10",
-          "end": "10:14",
-          "cat": "research",
-          "src": "chrome",
-          "title": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com",
-          "note": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com"
-        },
-        {
-          "start": "10:14",
-          "end": "10:16",
-          "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
-        },
-        {
-          "start": "10:16",
-          "end": "10:17",
-          "cat": "research",
-          "src": "chrome",
-          "title": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com",
-          "note": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com"
-        },
-        {
-          "start": "10:17",
           "end": "10:22",
           "cat": "coding",
           "src": "macos",
@@ -9136,44 +18908,36 @@
           "start": "10:22",
           "end": "10:24",
           "cat": "coding",
-          "src": "chrome",
-          "title": "Claude",
-          "note": "claude.ai"
+          "src": "claude",
+          "title": "Claude session · log",
+          "note": "293 hits"
         },
         {
           "start": "10:24",
-          "end": "10:29",
-          "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
-        },
-        {
-          "start": "10:29",
           "end": "10:31",
-          "cat": "research",
-          "src": "chrome",
-          "title": "Where the time actually went | Ada's Notes",
-          "note": "adaren100.github.io"
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · log",
+          "note": "293 hits"
         },
         {
           "start": "10:32",
-          "end": "10:33",
-          "cat": "research",
-          "src": "macos",
-          "title": "Preview",
-          "note": "com.apple.Preview"
-        },
-        {
-          "start": "10:33",
           "end": "10:38",
           "cat": "coding",
-          "src": "chrome",
-          "title": "New repository",
-          "note": "localhost:1313"
+          "src": "claude",
+          "title": "Claude session · log",
+          "note": "293 hits"
         },
         {
           "start": "10:38",
+          "end": "10:39",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · log",
+          "note": "293 hits"
+        },
+        {
+          "start": "10:39",
           "end": "10:41",
           "cat": "admin",
           "src": "chrome",
@@ -9184,21 +18948,37 @@
           "start": "10:42",
           "end": "10:50",
           "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "src": "claude",
+          "title": "Claude session · log",
+          "note": "85 hits"
+        },
+        {
+          "start": "10:50",
+          "end": "10:51",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · log",
+          "note": "85 hits"
         },
         {
           "start": "10:51",
           "end": "10:54",
           "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "src": "claude",
+          "title": "Claude session · log",
+          "note": "85 hits"
+        },
+        {
+          "start": "10:54",
+          "end": "10:56",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · log",
+          "note": "85 hits"
         },
         {
           "start": "10:58",
-          "end": "11:00",
+          "end": "10:59",
           "cat": "coding",
           "src": "macos",
           "title": "VSCode",
@@ -9206,22 +18986,22 @@
         },
         {
           "start": "11:00",
-          "end": "11:01",
-          "cat": "research",
-          "src": "chrome",
-          "title": "Where the time actually went | Ada's Notes",
-          "note": "adaren100.github.io"
+          "end": "11:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · log",
+          "note": "120 hits"
         },
         {
           "start": "11:03",
-          "end": "11:13",
+          "end": "11:16",
           "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "src": "claude",
+          "title": "Claude session · log",
+          "note": "120 hits"
         },
         {
-          "start": "11:13",
+          "start": "11:16",
           "end": "11:21",
           "cat": "research",
           "src": "chrome",
@@ -9238,14 +19018,14 @@
         },
         {
           "start": "11:36",
-          "end": "11:37",
+          "end": "11:42",
           "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "src": "claude",
+          "title": "Claude session · log",
+          "note": "118 hits"
         },
         {
-          "start": "11:37",
+          "start": "11:42",
           "end": "11:44",
           "cat": "research",
           "src": "chrome",
@@ -9263,10 +19043,10 @@
         {
           "start": "11:48",
           "end": "11:49",
-          "cat": "admin",
-          "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · log",
+          "note": "12 hits"
         },
         {
           "start": "11:51",
@@ -9278,6 +19058,22 @@
         },
         {
           "start": "11:58",
+          "end": "12:00",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(3) OpenAI on X: \"From question to model. The public equity ",
+          "note": "x.com"
+        },
+        {
+          "start": "12:00",
+          "end": "12:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "12:03",
           "end": "12:06",
           "cat": "personal",
           "src": "chrome",
@@ -9291,6 +19087,22 @@
           "src": "chrome",
           "title": "Blog | Claude",
           "note": "claude.com"
+        },
+        {
+          "start": "12:30",
+          "end": "12:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "13:00",
+          "end": "13:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
         },
         {
           "start": "13:04",
@@ -9318,11 +19130,27 @@
         },
         {
           "start": "13:10",
-          "end": "13:40",
+          "end": "13:30",
           "cat": "admin",
           "src": "chrome",
           "title": "SemEval 2026 - Track Manager Console",
           "note": "softconf.com"
+        },
+        {
+          "start": "13:30",
+          "end": "13:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "13:33",
+          "end": "13:40",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
         },
         {
           "start": "13:46",
@@ -9342,27 +19170,27 @@
         },
         {
           "start": "13:57",
-          "end": "14:04",
+          "end": "14:00",
           "cat": "admin",
           "src": "chrome",
           "title": "Google Translate",
           "note": "translate.google.com"
         },
         {
-          "start": "14:04",
+          "start": "14:00",
           "end": "14:05",
           "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "39 hits"
         },
         {
           "start": "14:05",
           "end": "14:13",
           "cat": "coding",
-          "src": "chrome",
-          "title": "Claude",
-          "note": "claude.ai"
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "39 hits"
         },
         {
           "start": "14:13",
@@ -9374,75 +19202,27 @@
         },
         {
           "start": "14:28",
-          "end": "14:31",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
-        },
-        {
-          "start": "14:31",
-          "end": "14:32",
-          "cat": "personal",
-          "src": "chrome",
-          "title": "Perisher Australia's Largest and Favourite Ski and Snowboard",
-          "note": "google.com"
-        },
-        {
-          "start": "14:32",
-          "end": "14:33",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
-        },
-        {
-          "start": "14:33",
-          "end": "14:34",
-          "cat": "personal",
-          "src": "chrome",
-          "title": "Perisher Australia's Largest and Favourite Ski and Snowboard",
-          "note": "google.com"
-        },
-        {
-          "start": "14:34",
-          "end": "14:40",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
-        },
-        {
-          "start": "14:46",
-          "end": "15:04",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
-        },
-        {
-          "start": "15:04",
-          "end": "15:09",
-          "cat": "research",
-          "src": "chrome",
-          "title": "Claude Opus 4.8; OpenAI on evals and biodefense | Ada's Note",
-          "note": "adaren100.github.io"
-        },
-        {
-          "start": "15:09",
           "end": "15:11",
           "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
+          "src": "claude",
+          "title": "AI research digest issue",
+          "note": "249 hits"
         },
         {
           "start": "15:12",
+          "end": "15:14",
+          "cat": "coding",
+          "src": "claude",
+          "title": "AI research digest issue",
+          "note": "249 hits"
+        },
+        {
+          "start": "15:14",
           "end": "15:20",
           "cat": "admin",
-          "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "src": "chrome",
+          "title": "Data Management Plan v1.7 - FoRA",
+          "note": "fora-form.mq.edu.au"
         },
         {
           "start": "15:20",
@@ -9454,14 +19234,22 @@
         },
         {
           "start": "15:25",
-          "end": "15:32",
+          "end": "15:30",
           "cat": "admin",
           "src": "chrome",
           "title": "Data Management Plan v1.7 - FoRA",
           "note": "fora-form.mq.edu.au"
         },
         {
-          "start": "15:32",
+          "start": "15:30",
+          "end": "15:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "15:33",
           "end": "15:39",
           "cat": "research",
           "src": "chrome",
@@ -9510,78 +19298,70 @@
         },
         {
           "start": "15:56",
-          "end": "16:02",
+          "end": "16:00",
           "cat": "writing",
           "src": "macos",
           "title": "obsidian",
           "note": "md.obsidian"
         },
         {
-          "start": "16:02",
+          "start": "16:00",
           "end": "16:03",
           "cat": "coding",
-          "src": "chrome",
-          "title": "Claude",
-          "note": "claude.ai"
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
         },
         {
           "start": "16:04",
-          "end": "16:08",
+          "end": "16:07",
           "cat": "coding",
           "src": "macos",
           "title": "VSCode",
           "note": "com.microsoft.VSCode"
         },
         {
-          "start": "16:08",
-          "end": "16:11",
-          "cat": "writing",
-          "src": "chrome",
-          "title": "Ada's Notes",
-          "note": "file:///Users/ada/Documents/MQ/blog/blog"
-        },
-        {
-          "start": "16:11",
-          "end": "16:12",
-          "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
-        },
-        {
-          "start": "16:12",
+          "start": "16:07",
           "end": "16:14",
-          "cat": "writing",
-          "src": "chrome",
-          "title": "Ada's Notes",
-          "note": "file:///Users/ada/Documents/MQ/blog/blog"
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · log",
+          "note": "150 hits"
         },
         {
           "start": "16:14",
           "end": "16:15",
           "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "src": "claude",
+          "title": "Claude session · log",
+          "note": "150 hits"
         },
         {
           "start": "16:15",
-          "end": "16:17",
+          "end": "16:24",
           "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "src": "claude",
+          "title": "Claude session · log",
+          "note": "150 hits"
         },
         {
-          "start": "16:17",
-          "end": "16:20",
-          "cat": "research",
+          "start": "16:24",
+          "end": "16:30",
+          "cat": "admin",
           "src": "chrome",
-          "title": "Where the time actually went | Ada's Notes",
-          "note": "adaren100.github.io"
+          "title": "Data Management Plan v1.7 - FoRA",
+          "note": "fora-form.mq.edu.au"
         },
         {
-          "start": "16:21",
+          "start": "16:30",
+          "end": "16:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "16:33",
           "end": "16:34",
           "cat": "admin",
           "src": "chrome",
@@ -9590,14 +19370,14 @@
         },
         {
           "start": "16:35",
-          "end": "16:41",
+          "end": "16:44",
           "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "src": "claude",
+          "title": "Claude session · log",
+          "note": "32 hits"
         },
         {
-          "start": "16:41",
+          "start": "16:44",
           "end": "16:49",
           "cat": "admin",
           "src": "chrome",
@@ -9606,14 +19386,38 @@
         },
         {
           "start": "16:49",
-          "end": "16:55",
+          "end": "16:50",
           "cat": "coding",
           "src": "macos",
           "title": "VSCode",
           "note": "com.microsoft.VSCode"
         },
         {
-          "start": "16:55",
+          "start": "16:51",
+          "end": "16:56",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · log",
+          "note": "53 hits"
+        },
+        {
+          "start": "16:57",
+          "end": "17:00",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Data Management Plan v1.7 - FoRA",
+          "note": "fora-form.mq.edu.au"
+        },
+        {
+          "start": "17:00",
+          "end": "17:04",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "17:04",
           "end": "17:07",
           "cat": "admin",
           "src": "chrome",
@@ -9629,6 +19433,30 @@
           "note": "google.com"
         },
         {
+          "start": "17:44",
+          "end": "17:47",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "18:02",
+          "end": "18:05",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "18:40",
+          "end": "18:43",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
           "start": "18:46",
           "end": "18:49",
           "cat": "personal",
@@ -9638,6 +19466,22 @@
         },
         {
           "start": "18:49",
+          "end": "19:00",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Uno-Orchestra: Parsimonious Agent Routing via Selective Dele",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "19:00",
+          "end": "19:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "19:03",
           "end": "19:09",
           "cat": "research",
           "src": "chrome",
@@ -9646,11 +19490,35 @@
         },
         {
           "start": "19:10",
+          "end": "19:30",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "19:30",
+          "end": "19:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "19:33",
           "end": "19:37",
           "cat": "admin",
           "src": "chrome",
           "title": "Google Translate",
           "note": "translate.google.com"
+        },
+        {
+          "start": "20:00",
+          "end": "20:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
         },
         {
           "start": "20:08",
@@ -9661,23 +19529,215 @@
           "note": "open.spotify.com"
         },
         {
+          "start": "20:30",
+          "end": "20:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
           "start": "20:44",
           "end": "21:04",
           "cat": "coding",
           "src": "chrome",
           "title": "CuiZHIQ/Uno-Orchestra: Uno-Orchestra: Parsimonious Agent Rou",
           "note": "github.com"
+        },
+        {
+          "start": "21:30",
+          "end": "21:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "23:12",
+          "end": "23:15",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "23:30",
+          "end": "23:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "23:48",
+          "end": "23:51",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "00:03",
+          "end": "00:06",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "00:13",
+          "end": "00:16",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "8 hits"
+        },
+        {
+          "start": "00:31",
+          "end": "00:34",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "00:48",
+          "end": "00:51",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "01:05",
+          "end": "01:08",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "01:42",
+          "end": "01:45",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "01:59",
+          "end": "02:02",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
+        },
+        {
+          "start": "02:15",
+          "end": "02:48",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "43 hits"
+        },
+        {
+          "start": "03:00",
+          "end": "03:15",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "25 hits"
+        },
+        {
+          "start": "03:31",
+          "end": "03:34",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "03:47",
+          "end": "03:50",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "04:03",
+          "end": "04:06",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "04:19",
+          "end": "04:22",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "04:34",
+          "end": "04:37",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
+        },
+        {
+          "start": "04:49",
+          "end": "04:52",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "05:04",
+          "end": "05:07",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "05:22",
+          "end": "05:25",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "05:38",
+          "end": "05:41",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "05:55",
+          "end": "05:58",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
         }
       ],
-      "logged": 494,
-      "real": 288,
-      "deep": 288,
-      "ratio": 0.5832740801851647,
+      "logged": 657,
+      "real": 489,
+      "deep": 489,
+      "ratio": 0.7442640211503474,
       "stats": {
-        "contextSwitches": 59,
-        "tabsOpened": 129,
-        "longestFocus": "59m",
-        "justOneMoreThing": 9
+        "contextSwitches": 56,
+        "tabsOpened": 96,
+        "longestFocus": "2h 14m",
+        "justOneMoreThing": 13
       }
     },
     {
@@ -9687,11 +19747,107 @@
       "weekend": false,
       "dateShort": "Thu, Jun 4",
       "dateLong": "Thursday, June 4",
-      "dayStart": "09:00",
-      "dayEnd": "00:19",
+      "dayStart": "06:09",
+      "dayEnd": "02:23",
       "events": [
         {
+          "start": "06:09",
+          "end": "06:12",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "06:26",
+          "end": "06:29",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "06:42",
+          "end": "06:45",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "06:58",
+          "end": "07:01",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "07:14",
+          "end": "07:17",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
+        },
+        {
+          "start": "07:30",
+          "end": "07:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "07:46",
+          "end": "07:49",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "08:03",
+          "end": "08:06",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "08:26",
+          "end": "08:29",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "08:42",
+          "end": "08:45",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
+        },
+        {
+          "start": "08:57",
+          "end": "09:00",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "14 hits"
+        },
+        {
           "start": "09:00",
+          "end": "09:04",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "14 hits"
+        },
+        {
+          "start": "09:04",
           "end": "09:07",
           "cat": "meeting",
           "src": "macos",
@@ -9756,6 +19912,22 @@
         },
         {
           "start": "09:29",
+          "end": "09:30",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Denis Peskoff’s Personal Website | Denis Peskoff",
+          "note": "scholar.google.com"
+        },
+        {
+          "start": "09:30",
+          "end": "09:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "09:33",
           "end": "09:37",
           "cat": "research",
           "src": "chrome",
@@ -9779,15 +19951,23 @@
           "note": "scholar.google.com"
         },
         {
-          "start": "09:59",
-          "end": "10:01",
-          "cat": "meeting",
-          "src": "macos",
-          "title": "xos",
-          "note": "us.zoom.xos"
+          "start": "10:00",
+          "end": "10:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
         },
         {
-          "start": "10:32",
+          "start": "10:30",
+          "end": "10:35",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · ada",
+          "note": "25 hits"
+        },
+        {
+          "start": "10:35",
           "end": "10:36",
           "cat": "writing",
           "src": "local",
@@ -9812,6 +19992,14 @@
         },
         {
           "start": "10:46",
+          "end": "10:50",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · log",
+          "note": "52 hits"
+        },
+        {
+          "start": "10:50",
           "end": "10:56",
           "cat": "personal",
           "src": "chrome",
@@ -9820,19 +20008,11 @@
         },
         {
           "start": "10:56",
-          "end": "11:07",
+          "end": "11:09",
           "cat": "coding",
           "src": "macos",
           "title": "VSCode",
           "note": "com.microsoft.VSCode"
-        },
-        {
-          "start": "11:07",
-          "end": "11:09",
-          "cat": "personal",
-          "src": "chrome",
-          "title": "(7) Josh Woodward on X: \"A short backstory on this one: A sm",
-          "note": "x.com"
         },
         {
           "start": "11:09",
@@ -9845,53 +20025,45 @@
         {
           "start": "11:12",
           "end": "11:15",
-          "cat": "personal",
-          "src": "chrome",
-          "title": "(7) Josh Woodward on X: \"A short backstory on this one: A sm",
-          "note": "x.com"
-        },
-        {
-          "start": "11:15",
-          "end": "11:15",
-          "cat": "research",
-          "src": "chrome",
-          "title": "ViBench — A Benchmark on Vibe Coding",
-          "note": "vibench.ai"
-        },
-        {
-          "start": "11:15",
-          "end": "11:19",
           "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "src": "claude",
+          "title": "Claude session · log",
+          "note": "36 hits"
         },
         {
-          "start": "11:19",
-          "end": "11:31",
+          "start": "11:15",
+          "end": "11:26",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · log",
+          "note": "36 hits"
+        },
+        {
+          "start": "11:26",
+          "end": "11:30",
           "cat": "research",
           "src": "chrome",
           "title": "ViBench — A Benchmark on Vibe Coding",
           "note": "vibench.ai"
         },
         {
-          "start": "11:31",
+          "start": "11:30",
           "end": "11:51",
           "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "193 hits"
         },
         {
           "start": "11:51",
-          "end": "11:52",
-          "cat": "writing",
-          "src": "macos",
-          "title": "obsidian",
-          "note": "md.obsidian"
+          "end": "11:56",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "193 hits"
         },
         {
-          "start": "11:52",
+          "start": "11:56",
           "end": "12:00",
           "cat": "research",
           "src": "chrome",
@@ -9900,14 +20072,14 @@
         },
         {
           "start": "12:00",
-          "end": "12:03",
+          "end": "12:09",
           "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "56 hits"
         },
         {
-          "start": "12:03",
+          "start": "12:09",
           "end": "12:35",
           "cat": "research",
           "src": "chrome",
@@ -9915,28 +20087,52 @@
           "note": "adaren100.github.io"
         },
         {
+          "start": "12:41",
+          "end": "12:44",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "13:02",
+          "end": "13:05",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
           "start": "13:11",
-          "end": "13:16",
+          "end": "13:22",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · log",
+          "note": "65 hits"
+        },
+        {
+          "start": "13:22",
+          "end": "13:30",
           "cat": "research",
           "src": "chrome",
           "title": "ViBench: A Benchmark on Vibe Coding | Proceedings of the ACM",
           "note": "adaren100.github.io"
         },
         {
-          "start": "13:16",
-          "end": "13:19",
+          "start": "13:30",
+          "end": "13:33",
           "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
         },
         {
-          "start": "13:19",
+          "start": "13:33",
           "end": "13:37",
           "cat": "research",
-          "src": "chrome",
-          "title": "ViBench: A Benchmark on Vibe Coding | Proceedings of the ACM",
-          "note": "adaren100.github.io"
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
         },
         {
           "start": "13:38",
@@ -9980,6 +20176,22 @@
         },
         {
           "start": "13:56",
+          "end": "14:00",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "which year is it? is it 2027 next year - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "14:00",
+          "end": "14:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "14:03",
           "end": "14:04",
           "cat": "personal",
           "src": "chrome",
@@ -10019,15 +20231,15 @@
           "note": "google.com"
         },
         {
-          "start": "14:22",
-          "end": "14:31",
+          "start": "14:30",
+          "end": "14:32",
           "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
         },
         {
-          "start": "14:31",
+          "start": "14:33",
           "end": "14:34",
           "cat": "admin",
           "src": "macos",
@@ -10051,12 +20263,12 @@
           "note": "md.obsidian"
         },
         {
-          "start": "14:39",
+          "start": "14:38",
           "end": "14:52",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Google Translate",
+          "note": "translate.google.com"
         },
         {
           "start": "14:53",
@@ -10078,17 +20290,17 @@
           "start": "14:57",
           "end": "15:13",
           "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
+          "src": "chrome",
+          "title": "Sign in - Google Accounts",
+          "note": "claude.ai"
         },
         {
           "start": "15:13",
           "end": "15:15",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
+          "cat": "research",
+          "src": "chrome",
+          "title": "[2507.20534] Kimi K2: Open Agentic Intelligence",
+          "note": "arxiv.org"
         },
         {
           "start": "15:15",
@@ -10116,43 +20328,51 @@
         },
         {
           "start": "15:28",
-          "end": "15:33",
+          "end": "15:30",
           "cat": "research",
           "src": "macos",
           "title": "zotero",
           "note": "org.zotero.zotero"
+        },
+        {
+          "start": "15:30",
+          "end": "15:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
         },
         {
           "start": "15:33",
           "end": "15:35",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
+          "cat": "writing",
+          "src": "chrome",
+          "title": "Zotero | Your personal research assistant",
+          "note": "zotero.org"
         },
         {
           "start": "15:36",
-          "end": "15:42",
+          "end": "15:43",
           "cat": "research",
           "src": "macos",
           "title": "zotero",
           "note": "org.zotero.zotero"
         },
         {
-          "start": "15:42",
-          "end": "15:43",
+          "start": "15:43",
+          "end": "15:46",
           "cat": "admin",
           "src": "chrome",
           "title": "Google Translate",
           "note": "translate.google.com"
         },
         {
-          "start": "15:43",
+          "start": "16:00",
           "end": "16:03",
           "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
         },
         {
           "start": "16:03",
@@ -10163,100 +20383,68 @@
           "note": "org.zotero.zotero"
         },
         {
-          "start": "16:05",
-          "end": "16:10",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
-        },
-        {
           "start": "16:10",
-          "end": "16:12",
+          "end": "16:16",
           "cat": "research",
           "src": "macos",
           "title": "zotero",
           "note": "org.zotero.zotero"
-        },
-        {
-          "start": "16:13",
-          "end": "16:14",
-          "cat": "research",
-          "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
-        },
-        {
-          "start": "16:14",
-          "end": "16:15",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
-        },
-        {
-          "start": "16:16",
-          "end": "16:28",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
         },
         {
           "start": "16:29",
-          "end": "16:32",
+          "end": "16:30",
           "cat": "admin",
           "src": "chrome",
           "title": "(14) Discord | #emnlp-paper | Online Polarization",
           "note": "discord.com"
         },
         {
-          "start": "16:32",
+          "start": "16:30",
+          "end": "16:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "16:33",
           "end": "16:44",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
+          "cat": "admin",
+          "src": "chrome",
+          "title": "(14) Discord | #emnlp-paper | Online Polarization",
+          "note": "discord.com"
         },
         {
-          "start": "16:45",
+          "start": "16:44",
           "end": "16:46",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
-        },
-        {
-          "start": "16:46",
-          "end": "16:52",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
-        },
-        {
-          "start": "16:53",
-          "end": "16:59",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
-        },
-        {
-          "start": "16:59",
-          "end": "17:01",
           "cat": "research",
           "src": "macos",
           "title": "zotero",
           "note": "org.zotero.zotero"
         },
         {
-          "start": "17:01",
-          "end": "17:06",
-          "cat": "coding",
+          "start": "16:46",
+          "end": "16:52",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "(14) Discord | #emnlp-paper | Online Polarization",
+          "note": "discord.com"
+        },
+        {
+          "start": "16:59",
+          "end": "17:00",
+          "cat": "research",
           "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "17:00",
+          "end": "17:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
         },
         {
           "start": "17:06",
@@ -10267,20 +20455,12 @@
           "note": "com.tinyspeck.slackmacgap"
         },
         {
-          "start": "17:08",
-          "end": "17:14",
+          "start": "17:30",
+          "end": "17:33",
           "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
-        },
-        {
-          "start": "17:14",
-          "end": "17:25",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
         },
         {
           "start": "17:35",
@@ -10315,7 +20495,23 @@
           "note": "neurips.cc"
         },
         {
+          "start": "18:00",
+          "end": "18:00",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
           "start": "18:01",
+          "end": "18:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "18:03",
           "end": "18:10",
           "cat": "personal",
           "src": "chrome",
@@ -10339,7 +20535,31 @@
           "note": "google.com"
         },
         {
+          "start": "18:36",
+          "end": "18:39",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
           "start": "18:40",
+          "end": "19:00",
+          "cat": "writing",
+          "src": "chrome",
+          "title": "SemEval_Task Description Paper - Online LaTeX Editor Overlea",
+          "note": "overleaf.com"
+        },
+        {
+          "start": "19:00",
+          "end": "19:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "19:03",
           "end": "19:09",
           "cat": "writing",
           "src": "chrome",
@@ -10356,38 +20576,30 @@
         },
         {
           "start": "19:13",
-          "end": "19:40",
+          "end": "19:30",
           "cat": "writing",
           "src": "chrome",
           "title": "SemEval2026-task 9 - POLAR - Google Slides",
           "note": "docs.google.com"
         },
         {
-          "start": "19:40",
-          "end": "19:43",
+          "start": "19:30",
+          "end": "19:33",
           "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "19:33",
+          "end": "19:42",
+          "cat": "writing",
+          "src": "chrome",
+          "title": "SemEval2026-task 9 - POLAR - Google Slides",
+          "note": "docs.google.com"
         },
         {
           "start": "19:43",
-          "end": "19:49",
-          "cat": "writing",
-          "src": "chrome",
-          "title": "SemEval2026-task 9 - POLAR - Google Slides",
-          "note": "docs.google.com"
-        },
-        {
-          "start": "19:49",
-          "end": "19:52",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
-        },
-        {
-          "start": "19:52",
           "end": "19:56",
           "cat": "writing",
           "src": "chrome",
@@ -10396,38 +20608,30 @@
         },
         {
           "start": "20:00",
-          "end": "20:32",
+          "end": "20:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "20:03",
+          "end": "20:30",
           "cat": "writing",
           "src": "chrome",
           "title": "SemEval2026-task 9 - POLAR - Google Slides",
           "note": "docs.google.com"
         },
         {
-          "start": "20:32",
+          "start": "20:30",
           "end": "20:33",
           "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
         },
         {
           "start": "20:33",
-          "end": "20:44",
-          "cat": "writing",
-          "src": "chrome",
-          "title": "SemEval2026-task 9 - POLAR - Google Slides",
-          "note": "docs.google.com"
-        },
-        {
-          "start": "20:44",
-          "end": "20:45",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
-        },
-        {
-          "start": "20:45",
           "end": "20:50",
           "cat": "writing",
           "src": "chrome",
@@ -10436,6 +20640,22 @@
         },
         {
           "start": "20:52",
+          "end": "21:00",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Search results for First place - Flaticon",
+          "note": "flaticon.com"
+        },
+        {
+          "start": "21:00",
+          "end": "21:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "21:03",
           "end": "21:12",
           "cat": "personal",
           "src": "chrome",
@@ -10452,6 +20672,22 @@
         },
         {
           "start": "21:15",
+          "end": "21:30",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "(23) Discord | #technical-general | POLAR-Internal",
+          "note": "discord.com"
+        },
+        {
+          "start": "21:30",
+          "end": "21:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "21:33",
           "end": "21:35",
           "cat": "admin",
           "src": "chrome",
@@ -10459,7 +20695,47 @@
           "note": "discord.com"
         },
         {
+          "start": "22:08",
+          "end": "22:11",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "3 hits"
+        },
+        {
+          "start": "22:24",
+          "end": "22:27",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "22:41",
+          "end": "22:44",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "22:57",
+          "end": "23:00",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
           "start": "23:08",
+          "end": "23:11",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "21 hits"
+        },
+        {
+          "start": "23:11",
           "end": "23:28",
           "cat": "writing",
           "src": "chrome",
@@ -10467,12 +20743,20 @@
           "note": "docs.google.com"
         },
         {
-          "start": "23:53",
+          "start": "23:44",
+          "end": "23:47",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "23:52",
           "end": "23:55",
-          "cat": "research",
-          "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "2 hits"
         },
         {
           "start": "23:55",
@@ -10484,22 +20768,86 @@
         },
         {
           "start": "23:59",
-          "end": "00:19",
+          "end": "00:16",
           "cat": "writing",
           "src": "chrome",
           "title": "SemEval2026-task 9 - POLAR - Google Slides",
           "note": "docs.google.com"
+        },
+        {
+          "start": "00:16",
+          "end": "00:19",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "3 hits"
+        },
+        {
+          "start": "00:35",
+          "end": "00:38",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "00:51",
+          "end": "00:54",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "01:08",
+          "end": "01:11",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "01:25",
+          "end": "01:28",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "01:41",
+          "end": "01:44",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "01:58",
+          "end": "02:01",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "02:20",
+          "end": "02:23",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
         }
       ],
-      "logged": 678,
-      "real": 542,
-      "deep": 542,
-      "ratio": 0.7986533506994682,
+      "logged": 702,
+      "real": 557,
+      "deep": 557,
+      "ratio": 0.7938980322937976,
       "stats": {
-        "contextSwitches": 84,
-        "tabsOpened": 135,
-        "longestFocus": "2h 5m",
-        "justOneMoreThing": 11
+        "contextSwitches": 97,
+        "tabsOpened": 153,
+        "longestFocus": "2h 23m",
+        "justOneMoreThing": 14
       }
     },
     {
@@ -10514,6 +20862,22 @@
       "events": [
         {
           "start": "10:21",
+          "end": "10:30",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "10:30",
+          "end": "10:35",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · ada",
+          "note": "7 hits"
+        },
+        {
+          "start": "10:35",
           "end": "11:14",
           "cat": "research",
           "src": "macos",
@@ -10534,7 +20898,7 @@
       "deep": 120,
       "ratio": 1.0,
       "stats": {
-        "contextSwitches": 0,
+        "contextSwitches": 2,
         "tabsOpened": 0,
         "longestFocus": "2h",
         "justOneMoreThing": 0
@@ -10547,17 +20911,42 @@
       "weekend": true,
       "dateShort": "Sat, Jun 6",
       "dateLong": "Saturday, June 6",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "10:13",
+      "dayEnd": "11:48",
+      "events": [
+        {
+          "start": "10:13",
+          "end": "10:16",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · ada",
+          "note": "6 hits"
+        },
+        {
+          "start": "10:30",
+          "end": "10:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · ada",
+          "note": "6 hits"
+        },
+        {
+          "start": "11:43",
+          "end": "11:48",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · ada",
+          "note": "2 hits"
+        }
+      ],
+      "logged": 11,
+      "real": 11,
+      "deep": 11,
+      "ratio": 1.0,
       "stats": {
         "contextSwitches": 0,
         "tabsOpened": 0,
-        "longestFocus": "0m",
+        "longestFocus": "11m",
         "justOneMoreThing": 0
       }
     },
@@ -10568,17 +20957,50 @@
       "weekend": true,
       "dateShort": "Sun, Jun 7",
       "dateLong": "Sunday, June 7",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "10:08",
+      "dayEnd": "11:57",
+      "events": [
+        {
+          "start": "10:08",
+          "end": "10:11",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · ada",
+          "note": "6 hits"
+        },
+        {
+          "start": "10:42",
+          "end": "10:45",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · ada",
+          "note": "6 hits"
+        },
+        {
+          "start": "11:48",
+          "end": "11:51",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · ada",
+          "note": "1 hit"
+        },
+        {
+          "start": "11:54",
+          "end": "11:57",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · ada",
+          "note": "1 hit"
+        }
+      ],
+      "logged": 12,
+      "real": 12,
+      "deep": 12,
+      "ratio": 1.0,
       "stats": {
         "contextSwitches": 0,
         "tabsOpened": 0,
-        "longestFocus": "0m",
+        "longestFocus": "12m",
         "justOneMoreThing": 0
       }
     },
@@ -10589,17 +21011,58 @@
       "weekend": false,
       "dateShort": "Mon, Jun 8",
       "dateLong": "Monday, June 8",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "10:07",
+      "dayEnd": "12:12",
+      "events": [
+        {
+          "start": "10:07",
+          "end": "10:10",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · ada",
+          "note": "6 hits"
+        },
+        {
+          "start": "10:42",
+          "end": "10:45",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · ada",
+          "note": "6 hits"
+        },
+        {
+          "start": "11:08",
+          "end": "11:12",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "12:00",
+          "end": "12:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · ada",
+          "note": "1 hit"
+        },
+        {
+          "start": "12:09",
+          "end": "12:12",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "1 hit"
+        }
+      ],
+      "logged": 15,
+      "real": 15,
+      "deep": 15,
+      "ratio": 1.0,
       "stats": {
         "contextSwitches": 0,
         "tabsOpened": 0,
-        "longestFocus": "0m",
+        "longestFocus": "15m",
         "justOneMoreThing": 0
       }
     },
@@ -10610,19 +21073,59 @@
       "weekend": false,
       "dateShort": "Tue, Jun 9",
       "dateLong": "Tuesday, June 9",
-      "dayStart": "11:24",
-      "dayEnd": "16:59",
+      "dayStart": "10:03",
+      "dayEnd": "05:35",
       "events": [
         {
-          "start": "11:24",
-          "end": "11:29",
-          "cat": "admin",
-          "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "start": "10:03",
+          "end": "10:06",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · ada",
+          "note": "6 hits"
         },
         {
-          "start": "11:29",
+          "start": "10:41",
+          "end": "10:44",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · ada",
+          "note": "6 hits"
+        },
+        {
+          "start": "11:06",
+          "end": "11:09",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · ada",
+          "note": "1 hit"
+        },
+        {
+          "start": "11:24",
+          "end": "11:34",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · ada",
+          "note": "15 hits"
+        },
+        {
+          "start": "11:34",
+          "end": "11:37",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Ada's Notes",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "11:37",
+          "end": "11:40",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "50 hits"
+        },
+        {
+          "start": "11:40",
           "end": "11:44",
           "cat": "research",
           "src": "chrome",
@@ -10657,9 +21160,9 @@
           "start": "12:00",
           "end": "12:06",
           "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "34 hits"
         },
         {
           "start": "12:06",
@@ -10695,6 +21198,22 @@
         },
         {
           "start": "12:23",
+          "end": "12:30",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(41) Morning Fresh Start | Cozy Cafe Jazz BGM for Relaxing D",
+          "note": "youtube.com"
+        },
+        {
+          "start": "12:30",
+          "end": "12:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "29 hits"
+        },
+        {
+          "start": "12:33",
           "end": "12:34",
           "cat": "personal",
           "src": "chrome",
@@ -10719,6 +21238,14 @@
         },
         {
           "start": "12:46",
+          "end": "13:03",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "13:03",
           "end": "13:44",
           "cat": "coding",
           "src": "macos",
@@ -10750,12 +21277,28 @@
           "note": "com.microsoft.VSCode"
         },
         {
+          "start": "14:30",
+          "end": "14:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "3 hits"
+        },
+        {
+          "start": "14:49",
+          "end": "14:52",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
+        },
+        {
           "start": "14:57",
           "end": "15:04",
           "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "56 hits"
         },
         {
           "start": "15:14",
@@ -10766,20 +21309,20 @@
           "note": "com.microsoft.VSCode"
         },
         {
-          "start": "15:33",
-          "end": "15:37",
-          "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
-        },
-        {
-          "start": "15:38",
+          "start": "15:30",
           "end": "15:58",
           "cat": "coding",
-          "src": "chrome",
-          "title": "Attention Scaling Explanation - DeepSeek",
-          "note": "chat.deepseek.com"
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "34 hits"
+        },
+        {
+          "start": "16:00",
+          "end": "16:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "32 hits"
         },
         {
           "start": "16:03",
@@ -10798,23 +21341,263 @@
           "note": "com.microsoft.VSCode"
         },
         {
-          "start": "16:32",
+          "start": "16:30",
           "end": "16:59",
           "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "32 hits"
+        },
+        {
+          "start": "17:08",
+          "end": "17:15",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "9 hits"
+        },
+        {
+          "start": "17:28",
+          "end": "17:36",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "54 hits"
+        },
+        {
+          "start": "18:04",
+          "end": "18:07",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "3 hits"
+        },
+        {
+          "start": "18:21",
+          "end": "18:26",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "26 hits"
+        },
+        {
+          "start": "18:40",
+          "end": "18:43",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "3 hits"
+        },
+        {
+          "start": "18:57",
+          "end": "19:04",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "61 hits"
+        },
+        {
+          "start": "19:41",
+          "end": "19:45",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "26 hits"
+        },
+        {
+          "start": "20:00",
+          "end": "20:04",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "35 hits"
+        },
+        {
+          "start": "20:40",
+          "end": "20:43",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
+        },
+        {
+          "start": "20:57",
+          "end": "21:00",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "21:16",
+          "end": "21:24",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "54 hits"
+        },
+        {
+          "start": "21:40",
+          "end": "21:43",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "29 hits"
+        },
+        {
+          "start": "22:16",
+          "end": "22:24",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "10 hits"
+        },
+        {
+          "start": "22:40",
+          "end": "22:43",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "3 hits"
+        },
+        {
+          "start": "22:56",
+          "end": "22:59",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "23:13",
+          "end": "23:16",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
+        },
+        {
+          "start": "23:29",
+          "end": "23:40",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "19 hits"
+        },
+        {
+          "start": "23:54",
+          "end": "23:57",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "3 hits"
+        },
+        {
+          "start": "00:13",
+          "end": "00:21",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "33 hits"
+        },
+        {
+          "start": "00:37",
+          "end": "00:40",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "32 hits"
+        },
+        {
+          "start": "01:00",
+          "end": "01:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "32 hits"
+        },
+        {
+          "start": "01:43",
+          "end": "01:46",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "3 hits"
+        },
+        {
+          "start": "01:58",
+          "end": "02:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "63 hits"
+        },
+        {
+          "start": "02:43",
+          "end": "02:46",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "33 hits"
+        },
+        {
+          "start": "03:00",
+          "end": "03:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "29 hits"
+        },
+        {
+          "start": "03:40",
+          "end": "03:44",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "33 hits"
+        },
+        {
+          "start": "04:13",
+          "end": "04:16",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "31 hits"
+        },
+        {
+          "start": "04:30",
+          "end": "04:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "29 hits"
+        },
+        {
+          "start": "05:04",
+          "end": "05:07",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "32 hits"
+        },
+        {
+          "start": "05:32",
+          "end": "05:35",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "29 hits"
         }
       ],
-      "logged": 240,
-      "real": 208,
-      "deep": 208,
-      "ratio": 0.8671291779149881,
+      "logged": 400,
+      "real": 376,
+      "deep": 376,
+      "ratio": 0.941474224272296,
       "stats": {
-        "contextSwitches": 15,
-        "tabsOpened": 21,
-        "longestFocus": "1h 43m",
-        "justOneMoreThing": 4
+        "contextSwitches": 19,
+        "tabsOpened": 24,
+        "longestFocus": "4h 14m",
+        "justOneMoreThing": 6
       }
     },
     {
@@ -10824,9 +21607,97 @@
       "weekend": false,
       "dateShort": "Wed, Jun 10",
       "dateLong": "Wednesday, June 10",
-      "dayStart": "10:14",
-      "dayEnd": "20:29",
+      "dayStart": "06:09",
+      "dayEnd": "00:21",
       "events": [
+        {
+          "start": "06:09",
+          "end": "06:12",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "3 hits"
+        },
+        {
+          "start": "06:27",
+          "end": "06:30",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
+        },
+        {
+          "start": "06:44",
+          "end": "06:49",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "55 hits"
+        },
+        {
+          "start": "07:09",
+          "end": "07:13",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "29 hits"
+        },
+        {
+          "start": "07:43",
+          "end": "07:46",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "29 hits"
+        },
+        {
+          "start": "08:09",
+          "end": "08:12",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "3 hits"
+        },
+        {
+          "start": "08:26",
+          "end": "08:30",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
+        },
+        {
+          "start": "08:42",
+          "end": "08:46",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "32 hits"
+        },
+        {
+          "start": "08:59",
+          "end": "09:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "46 hits"
+        },
+        {
+          "start": "09:41",
+          "end": "09:44",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "09:58",
+          "end": "10:12",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "69 hits"
+        },
         {
           "start": "10:14",
           "end": "10:23",
@@ -10837,11 +21708,19 @@
         },
         {
           "start": "10:25",
-          "end": "10:35",
+          "end": "10:30",
           "cat": "admin",
           "src": "chrome",
           "title": "Inbox (2,517) - ada.ren.cn@gmail.com - Gmail",
           "note": "accounts.google.com"
+        },
+        {
+          "start": "10:30",
+          "end": "10:35",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · ada",
+          "note": "23 hits"
         },
         {
           "start": "10:35",
@@ -10885,19 +21764,19 @@
         },
         {
           "start": "10:58",
-          "end": "11:01",
+          "end": "11:00",
           "cat": "admin",
           "src": "chrome",
           "title": "908/112 TALAVERA ROAD, MACQUARIE PARK, - ada.ren.cn@gmail.co",
           "note": "accounts.google.com"
         },
         {
-          "start": "11:01",
+          "start": "11:00",
           "end": "11:06",
           "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "9 hits"
         },
         {
           "start": "11:06",
@@ -10909,7 +21788,7 @@
         },
         {
           "start": "11:11",
-          "end": "11:32",
+          "end": "11:33",
           "cat": "coding",
           "src": "macos",
           "title": "VSCode",
@@ -10973,67 +21852,171 @@
         },
         {
           "start": "11:56",
-          "end": "12:01",
+          "end": "12:00",
           "cat": "admin",
           "src": "chrome",
           "title": "Daily papers of 9 Jun 2026 - ada.ren.cn@gmail.com - Gmail",
           "note": "mail.google.com"
         },
         {
-          "start": "12:01",
-          "end": "12:34",
+          "start": "12:00",
+          "end": "12:37",
           "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "32 hits"
         },
         {
           "start": "12:37",
-          "end": "13:14",
+          "end": "13:18",
           "cat": "coding",
           "src": "macos",
           "title": "VSCode",
           "note": "com.microsoft.VSCode"
         },
         {
-          "start": "13:14",
+          "start": "13:18",
           "end": "13:34",
           "cat": "admin",
           "src": "chrome",
-          "title": "Inbox (2,517) - ada.ren.cn@gmail.com - Gmail",
+          "title": "Inbox (2,541) - ada.ren.cn@gmail.com - Gmail",
           "note": "mail.google.com"
         },
         {
-          "start": "14:38",
+          "start": "13:43",
+          "end": "13:46",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "3 hits"
+        },
+        {
+          "start": "14:02",
+          "end": "14:17",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "32 hits"
+        },
+        {
+          "start": "14:32",
           "end": "15:06",
           "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "60 hits"
+        },
+        {
+          "start": "15:13",
+          "end": "15:16",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "3 hits"
+        },
+        {
+          "start": "15:29",
+          "end": "15:32",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "15:45",
+          "end": "15:48",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "16:03",
+          "end": "16:12",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "19 hits"
+        },
+        {
+          "start": "16:27",
+          "end": "16:30",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
+        },
+        {
+          "start": "16:44",
+          "end": "16:47",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "16:56",
+          "end": "16:59",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "17:11",
+          "end": "17:14",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "17:30",
+          "end": "17:42",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "25 hits"
+        },
+        {
+          "start": "17:55",
+          "end": "18:00",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "18:13",
+          "end": "18:16",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "3 hits"
+        },
+        {
+          "start": "18:21",
+          "end": "18:24",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "28 hits"
+        },
+        {
+          "start": "18:37",
+          "end": "18:40",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
         },
         {
           "start": "18:48",
-          "end": "18:56",
-          "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
-        },
-        {
-          "start": "19:03",
-          "end": "19:17",
-          "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
-        },
-        {
-          "start": "19:17",
           "end": "19:19",
-          "cat": "personal",
-          "src": "chrome",
-          "title": "Build a Large Language Model (From Scratch) - 搬书匠 - 电子书下载",
-          "note": "dumate.cn"
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "63 hits"
         },
         {
           "start": "19:19",
@@ -11045,6 +22028,22 @@
         },
         {
           "start": "19:23",
+          "end": "19:30",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Build a Large Language Model (From Scratch) - 搬书匠 - 电子书下载",
+          "note": "dumate.cn"
+        },
+        {
+          "start": "19:30",
+          "end": "19:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "8 hits"
+        },
+        {
+          "start": "19:33",
           "end": "19:36",
           "cat": "personal",
           "src": "chrome",
@@ -11106,17 +22105,57 @@
           "src": "chrome",
           "title": "Big-Tech-Researches | Ada's Notes",
           "note": "adaren100.github.io"
+        },
+        {
+          "start": "20:30",
+          "end": "20:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "21:00",
+          "end": "21:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "21:33",
+          "end": "21:36",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "23:17",
+          "end": "23:20",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "00:18",
+          "end": "00:21",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
         }
       ],
-      "logged": 312,
-      "real": 226,
-      "deep": 226,
-      "ratio": 0.7262410131926412,
+      "logged": 470,
+      "real": 403,
+      "deep": 403,
+      "ratio": 0.85660534003277,
       "stats": {
-        "contextSwitches": 26,
+        "contextSwitches": 28,
         "tabsOpened": 51,
-        "longestFocus": "1h 9m",
-        "justOneMoreThing": 5
+        "longestFocus": "2h 24m",
+        "justOneMoreThing": 7
       }
     },
     {
@@ -11126,16 +22165,56 @@
       "weekend": false,
       "dateShort": "Thu, Jun 11",
       "dateLong": "Thursday, June 11",
-      "dayStart": "10:48",
-      "dayEnd": "20:10",
+      "dayStart": "06:11",
+      "dayEnd": "23:15",
       "events": [
+        {
+          "start": "06:11",
+          "end": "06:14",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "10:02",
+          "end": "10:05",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · ada",
+          "note": "6 hits"
+        },
+        {
+          "start": "10:07",
+          "end": "10:10",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "10:40",
+          "end": "10:43",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · ada",
+          "note": "6 hits"
+        },
+        {
+          "start": "10:46",
+          "end": "10:48",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "9 hits"
+        },
         {
           "start": "10:48",
           "end": "11:08",
           "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "9 hits"
         },
         {
           "start": "11:09",
@@ -11154,20 +22233,20 @@
           "note": "com.microsoft.VSCode"
         },
         {
-          "start": "11:32",
+          "start": "11:30",
           "end": "11:37",
           "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "21 hits"
         },
         {
-          "start": "12:01",
+          "start": "12:00",
           "end": "12:13",
           "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "21 hits"
         },
         {
           "start": "12:17",
@@ -11194,6 +22273,22 @@
           "note": "chat.deepseek.com"
         },
         {
+          "start": "13:30",
+          "end": "13:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "21 hits"
+        },
+        {
+          "start": "14:00",
+          "end": "14:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "21 hits"
+        },
+        {
           "start": "14:19",
           "end": "14:39",
           "cat": "coding",
@@ -11202,24 +22297,56 @@
           "note": "chat.deepseek.com"
         },
         {
-          "start": "17:47",
-          "end": "17:54",
+          "start": "15:05",
+          "end": "15:08",
           "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
         },
         {
-          "start": "17:58",
+          "start": "15:40",
+          "end": "15:43",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "16:00",
+          "end": "16:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "16:34",
+          "end": "16:37",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "17:34",
+          "end": "17:37",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "17:47",
           "end": "18:23",
           "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "64 hits"
         },
         {
           "start": "18:27",
-          "end": "18:34",
+          "end": "18:36",
           "cat": "coding",
           "src": "macos",
           "title": "VSCode",
@@ -11234,22 +22361,70 @@
           "note": "com.microsoft.VSCode"
         },
         {
+          "start": "19:31",
+          "end": "19:34",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
           "start": "19:46",
-          "end": "20:10",
+          "end": "20:12",
           "cat": "coding",
           "src": "macos",
           "title": "VSCode",
           "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "21:00",
+          "end": "21:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "22:11",
+          "end": "22:14",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "22:37",
+          "end": "22:40",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "23:00",
+          "end": "23:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "23:12",
+          "end": "23:15",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
         }
       ],
-      "logged": 203,
-      "real": 199,
-      "deep": 199,
-      "ratio": 0.9800942402496081,
+      "logged": 268,
+      "real": 264,
+      "deep": 264,
+      "ratio": 0.9848899639381491,
       "stats": {
         "contextSwitches": 4,
         "tabsOpened": 6,
-        "longestFocus": "2h 30m",
+        "longestFocus": "3h 17m",
         "justOneMoreThing": 2
       }
     },
@@ -11260,24 +22435,56 @@
       "weekend": false,
       "dateShort": "Fri, Jun 12",
       "dateLong": "Friday, June 12",
-      "dayStart": "10:43",
+      "dayStart": "06:50",
       "dayEnd": "21:08",
       "events": [
+        {
+          "start": "06:50",
+          "end": "06:53",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "09:00",
+          "end": "09:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "10:01",
+          "end": "10:04",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · ada",
+          "note": "12 hits"
+        },
+        {
+          "start": "10:35",
+          "end": "10:38",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · ada",
+          "note": "6 hits"
+        },
         {
           "start": "10:43",
           "end": "10:56",
           "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "16 hits"
         },
         {
-          "start": "11:12",
+          "start": "11:00",
           "end": "11:28",
           "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "35 hits"
         },
         {
           "start": "11:29",
@@ -11299,17 +22506,17 @@
           "start": "12:00",
           "end": "12:15",
           "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "21 hits"
         },
         {
           "start": "12:40",
           "end": "12:43",
           "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "14 hits"
         },
         {
           "start": "12:50",
@@ -11321,19 +22528,19 @@
         },
         {
           "start": "12:57",
-          "end": "13:01",
+          "end": "13:00",
           "cat": "personal",
           "src": "chrome",
           "title": "飙升榜 - 排行榜 - 网易云音乐",
           "note": "music.163.com"
         },
         {
-          "start": "13:01",
+          "start": "13:00",
           "end": "13:06",
           "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "28 hits"
         },
         {
           "start": "13:06",
@@ -11360,7 +22567,79 @@
           "note": "com.microsoft.VSCode"
         },
         {
+          "start": "14:30",
+          "end": "14:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "15:03",
+          "end": "15:06",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "15:51",
+          "end": "15:54",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "17:01",
+          "end": "17:04",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "18:02",
+          "end": "18:05",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "19:03",
+          "end": "19:06",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "20:04",
+          "end": "20:07",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "35 hits"
+        },
+        {
           "start": "20:22",
+          "end": "20:30",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "20:30",
+          "end": "20:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "21 hits"
+        },
+        {
+          "start": "20:33",
           "end": "20:49",
           "cat": "research",
           "src": "macos",
@@ -11392,14 +22671,14 @@
           "note": "chat.deepseek.com"
         }
       ],
-      "logged": 170,
-      "real": 162,
-      "deep": 162,
-      "ratio": 0.952716652723232,
+      "logged": 216,
+      "real": 209,
+      "deep": 209,
+      "ratio": 0.9693553430671793,
       "stats": {
-        "contextSwitches": 8,
+        "contextSwitches": 10,
         "tabsOpened": 12,
-        "longestFocus": "1h 18m",
+        "longestFocus": "1h 43m",
         "justOneMoreThing": 2
       }
     },
@@ -11410,11 +22689,35 @@
       "weekend": true,
       "dateShort": "Sat, Jun 13",
       "dateLong": "Saturday, June 13",
-      "dayStart": "10:56",
-      "dayEnd": "13:37",
+      "dayStart": "10:55",
+      "dayEnd": "05:44",
       "events": [
         {
-          "start": "10:56",
+          "start": "10:55",
+          "end": "11:00",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · ada",
+          "note": "53 hits"
+        },
+        {
+          "start": "11:00",
+          "end": "11:12",
+          "cat": "writing",
+          "src": "local",
+          "title": "2026-06-13.md",
+          "note": "29 hits"
+        },
+        {
+          "start": "11:12",
+          "end": "11:23",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "77 hits"
+        },
+        {
+          "start": "11:23",
           "end": "11:25",
           "cat": "writing",
           "src": "local",
@@ -11422,7 +22725,39 @@
           "note": "29 hits"
         },
         {
-          "start": "12:39",
+          "start": "11:39",
+          "end": "11:42",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
+        },
+        {
+          "start": "11:45",
+          "end": "11:48",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "29 hits"
+        },
+        {
+          "start": "12:07",
+          "end": "12:10",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "12:38",
+          "end": "12:41",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "12:41",
           "end": "12:51",
           "cat": "research",
           "src": "chrome",
@@ -11447,6 +22782,22 @@
         },
         {
           "start": "12:55",
+          "end": "13:00",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Mythos Begets Fable, Cursor's Composer 2.5, Agents Building ",
+          "note": "accounts.google.com"
+        },
+        {
+          "start": "13:00",
+          "end": "13:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "13:03",
           "end": "13:11",
           "cat": "admin",
           "src": "chrome",
@@ -11455,22 +22806,294 @@
         },
         {
           "start": "13:11",
+          "end": "13:30",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(21) vivek (@itsreallyvivek) / X",
+          "note": "x.com"
+        },
+        {
+          "start": "13:30",
+          "end": "13:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "13:33",
           "end": "13:37",
           "cat": "personal",
           "src": "chrome",
           "title": "(21) vivek (@itsreallyvivek) / X",
           "note": "x.com"
+        },
+        {
+          "start": "14:10",
+          "end": "14:13",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "14:35",
+          "end": "14:38",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "15:07",
+          "end": "15:10",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "15:30",
+          "end": "15:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "16:05",
+          "end": "16:08",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "16:30",
+          "end": "16:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "17:12",
+          "end": "17:15",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "17:37",
+          "end": "17:40",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "18:00",
+          "end": "18:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "18:39",
+          "end": "18:42",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "19:00",
+          "end": "19:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "19:40",
+          "end": "19:43",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "20:00",
+          "end": "20:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "20:38",
+          "end": "20:41",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "21:00",
+          "end": "21:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "21:41",
+          "end": "21:44",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "22:01",
+          "end": "22:04",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "22:42",
+          "end": "22:45",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "23:00",
+          "end": "23:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "23:39",
+          "end": "23:42",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "00:12",
+          "end": "00:15",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "00:30",
+          "end": "00:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "01:02",
+          "end": "01:05",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "01:35",
+          "end": "01:38",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "02:00",
+          "end": "02:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "02:30",
+          "end": "02:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "03:07",
+          "end": "03:10",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "03:30",
+          "end": "03:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "04:02",
+          "end": "04:06",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "04:44",
+          "end": "04:47",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "05:00",
+          "end": "05:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "05:41",
+          "end": "05:44",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
         }
       ],
-      "logged": 86,
-      "real": 43,
-      "deep": 43,
-      "ratio": 0.5023831635154673,
+      "logged": 197,
+      "real": 160,
+      "deep": 160,
+      "ratio": 0.81612887002844,
       "stats": {
-        "contextSwitches": 5,
-        "tabsOpened": 12,
-        "longestFocus": "40m",
-        "justOneMoreThing": 1
+        "contextSwitches": 14,
+        "tabsOpened": 18,
+        "longestFocus": "1h 39m",
+        "justOneMoreThing": 3
       }
     },
     {
@@ -11480,26 +23103,522 @@
       "weekend": true,
       "dateShort": "Sun, Jun 14",
       "dateLong": "Sunday, June 14",
-      "dayStart": "15:02",
-      "dayEnd": "15:22",
+      "dayStart": "06:14",
+      "dayEnd": "05:44",
       "events": [
         {
+          "start": "06:14",
+          "end": "06:17",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "06:34",
+          "end": "06:37",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "07:08",
+          "end": "07:11",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "07:34",
+          "end": "07:37",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "08:01",
+          "end": "08:04",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "08:35",
+          "end": "08:38",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "09:08",
+          "end": "09:11",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "09:32",
+          "end": "09:35",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "10:08",
+          "end": "10:12",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · ada",
+          "note": "20 hits"
+        },
+        {
+          "start": "10:33",
+          "end": "10:36",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "17 hits"
+        },
+        {
+          "start": "11:00",
+          "end": "11:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "11:30",
+          "end": "11:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "12:57",
+          "end": "13:00",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "3 hits"
+        },
+        {
+          "start": "13:15",
+          "end": "13:18",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "13:31",
+          "end": "13:34",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "13:37",
+          "end": "13:40",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "14:16",
+          "end": "14:19",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "15 hits"
+        },
+        {
+          "start": "14:31",
+          "end": "14:35",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "23 hits"
+        },
+        {
           "start": "15:02",
+          "end": "15:05",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "26 hits"
+        },
+        {
+          "start": "15:05",
           "end": "15:22",
           "cat": "personal",
           "src": "chrome",
           "title": "(11) Movez (@0xMovez) / X",
           "note": "x.com"
+        },
+        {
+          "start": "15:37",
+          "end": "15:40",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "16:01",
+          "end": "16:04",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "17:08",
+          "end": "17:11",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "17:40",
+          "end": "17:43",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "18:12",
+          "end": "18:15",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "18:44",
+          "end": "18:47",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "19:13",
+          "end": "19:16",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "19:29",
+          "end": "19:32",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "19:46",
+          "end": "19:49",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "19:58",
+          "end": "20:01",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "3 hits"
+        },
+        {
+          "start": "20:14",
+          "end": "20:17",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "20:31",
+          "end": "20:34",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "20:49",
+          "end": "20:52",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "21:15",
+          "end": "21:18",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "21:32",
+          "end": "21:35",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "21:50",
+          "end": "21:53",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "22:17",
+          "end": "22:20",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "22:33",
+          "end": "22:36",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "22:51",
+          "end": "22:54",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "23:08",
+          "end": "23:11",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "23:24",
+          "end": "23:27",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "23:39",
+          "end": "23:42",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "00:01",
+          "end": "00:04",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "00:17",
+          "end": "00:20",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "00:35",
+          "end": "00:38",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "00:50",
+          "end": "00:53",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "01:08",
+          "end": "01:11",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "01:24",
+          "end": "01:27",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "01:40",
+          "end": "01:43",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "01:55",
+          "end": "01:58",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "02:11",
+          "end": "02:14",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "02:26",
+          "end": "02:29",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "02:44",
+          "end": "02:47",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "03:01",
+          "end": "03:04",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "03:18",
+          "end": "03:21",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "03:36",
+          "end": "03:39",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "03:52",
+          "end": "03:55",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "04:15",
+          "end": "04:18",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "04:31",
+          "end": "04:34",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "04:49",
+          "end": "04:52",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "05:07",
+          "end": "05:10",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "05:25",
+          "end": "05:28",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "05:41",
+          "end": "05:44",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
         }
       ],
-      "logged": 20,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0.0,
+      "logged": 206,
+      "real": 189,
+      "deep": 189,
+      "ratio": 0.9175857835639661,
       "stats": {
-        "contextSwitches": 0,
+        "contextSwitches": 2,
         "tabsOpened": 3,
-        "longestFocus": "0m",
+        "longestFocus": "2h 10m",
         "justOneMoreThing": 0
       }
     },
@@ -11510,19 +23629,459 @@
       "weekend": false,
       "dateShort": "Mon, Jun 15",
       "dateLong": "Monday, June 15",
-      "dayStart": "12:47",
-      "dayEnd": "23:13",
+      "dayStart": "06:05",
+      "dayEnd": "05:50",
       "events": [
         {
-          "start": "12:47",
+          "start": "06:05",
+          "end": "06:08",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "06:22",
+          "end": "06:25",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "06:38",
+          "end": "06:41",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "06:53",
+          "end": "06:56",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "07:11",
+          "end": "07:14",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "07:27",
+          "end": "07:30",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "07:44",
+          "end": "07:47",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "08:06",
+          "end": "08:09",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "08:22",
+          "end": "08:25",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "08:40",
+          "end": "08:43",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "08:51",
+          "end": "08:54",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "09:07",
+          "end": "09:10",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "09:24",
+          "end": "09:27",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "09:41",
+          "end": "09:44",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "09:52",
+          "end": "09:55",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "10:09",
+          "end": "10:12",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · ada",
+          "note": "12 hits"
+        },
+        {
+          "start": "10:26",
+          "end": "10:29",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "10:43",
+          "end": "10:46",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · ada",
+          "note": "12 hits"
+        },
+        {
+          "start": "11:16",
+          "end": "11:19",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · ada",
+          "note": "7 hits"
+        },
+        {
+          "start": "11:34",
+          "end": "11:37",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · ada",
+          "note": "7 hits"
+        },
+        {
+          "start": "11:51",
+          "end": "11:54",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "12:08",
+          "end": "12:11",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "12:31",
+          "end": "12:34",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "12:46",
           "end": "13:07",
           "cat": "coding",
-          "src": "chrome",
-          "title": "DeepSeek - Into the Unknown",
-          "note": "chat.deepseek.com"
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "13:11",
+          "end": "13:14",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "13:28",
+          "end": "13:31",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "13:46",
+          "end": "13:49",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "14:12",
+          "end": "14:15",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "14:29",
+          "end": "14:32",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "14:45",
+          "end": "14:48",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "14:56",
+          "end": "14:59",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "15:13",
+          "end": "15:16",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "15:31",
+          "end": "15:34",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "15:47",
+          "end": "15:50",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "16:13",
+          "end": "16:16",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "16:29",
+          "end": "16:32",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "16:45",
+          "end": "16:48",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "16:58",
+          "end": "17:01",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "17:15",
+          "end": "17:18",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "17:33",
+          "end": "17:36",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "17:49",
+          "end": "17:52",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "17:59",
+          "end": "18:02",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "18:17",
+          "end": "18:20",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "18:33",
+          "end": "18:36",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "18:50",
+          "end": "18:53",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "19:00",
+          "end": "19:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "8 hits"
+        },
+        {
+          "start": "19:35",
+          "end": "19:38",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "19:52",
+          "end": "19:55",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "20:18",
+          "end": "20:21",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "20:26",
+          "end": "20:29",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "8 hits"
+        },
+        {
+          "start": "20:42",
+          "end": "20:45",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "20:57",
+          "end": "21:00",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "21:16",
+          "end": "21:19",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "21:32",
+          "end": "21:35",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "21:48",
+          "end": "21:51",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
         },
         {
           "start": "22:01",
+          "end": "22:04",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "22:04",
           "end": "22:14",
           "cat": "personal",
           "src": "chrome",
@@ -11539,6 +24098,22 @@
         },
         {
           "start": "22:28",
+          "end": "22:30",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "lululemon Align™ High-Rise Pants 24\" *Asia Fit | Lululemon A",
+          "note": "google.com"
+        },
+        {
+          "start": "22:30",
+          "end": "22:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "22:33",
           "end": "22:53",
           "cat": "personal",
           "src": "chrome",
@@ -11547,21 +24122,213 @@
         },
         {
           "start": "22:53",
-          "end": "23:13",
+          "end": "23:11",
           "cat": "personal",
           "src": "chrome",
           "title": "lululemon Align™ High-Rise Pants 24\" *Asia Fit | Lululemon A",
           "note": "google.com"
+        },
+        {
+          "start": "23:11",
+          "end": "23:14",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "3 hits"
+        },
+        {
+          "start": "23:29",
+          "end": "23:32",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "23:47",
+          "end": "23:50",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "00:02",
+          "end": "00:05",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "00:19",
+          "end": "00:22",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "00:36",
+          "end": "00:39",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "00:52",
+          "end": "00:59",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "10 hits"
+        },
+        {
+          "start": "01:14",
+          "end": "01:17",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "01:31",
+          "end": "01:34",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "01:46",
+          "end": "01:49",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
+        },
+        {
+          "start": "02:03",
+          "end": "02:06",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
+        },
+        {
+          "start": "02:21",
+          "end": "02:24",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "02:36",
+          "end": "02:39",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "02:54",
+          "end": "02:57",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "03:12",
+          "end": "03:15",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "03:29",
+          "end": "03:32",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "03:45",
+          "end": "03:48",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "04:00",
+          "end": "04:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "04:18",
+          "end": "04:21",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "04:36",
+          "end": "04:39",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
+        },
+        {
+          "start": "04:57",
+          "end": "05:00",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
+        },
+        {
+          "start": "05:12",
+          "end": "05:15",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "05:30",
+          "end": "05:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "05:47",
+          "end": "05:50",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
         }
       ],
-      "logged": 91,
-      "real": 20,
-      "deep": 20,
-      "ratio": 0.2197178317067339,
+      "logged": 328,
+      "real": 265,
+      "deep": 265,
+      "ratio": 0.8077959673546307,
       "stats": {
-        "contextSwitches": 3,
+        "contextSwitches": 6,
         "tabsOpened": 15,
-        "longestFocus": "20m",
+        "longestFocus": "3h 6m",
         "justOneMoreThing": 0
       }
     },
@@ -11572,11 +24339,139 @@
       "weekend": false,
       "dateShort": "Tue, Jun 16",
       "dateLong": "Tuesday, June 16",
-      "dayStart": "10:03",
-      "dayEnd": "21:21",
+      "dayStart": "06:03",
+      "dayEnd": "05:53",
       "events": [
         {
-          "start": "10:03",
+          "start": "06:03",
+          "end": "06:06",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "06:20",
+          "end": "06:23",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "06:38",
+          "end": "06:41",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "06:56",
+          "end": "06:59",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "07:12",
+          "end": "07:15",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "07:30",
+          "end": "07:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
+        },
+        {
+          "start": "07:45",
+          "end": "07:48",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
+        },
+        {
+          "start": "08:01",
+          "end": "08:04",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "08:19",
+          "end": "08:22",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "08:35",
+          "end": "08:38",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "08:50",
+          "end": "08:53",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "09:00",
+          "end": "09:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "09:16",
+          "end": "09:19",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "09:32",
+          "end": "09:35",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "09:47",
+          "end": "09:50",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "10:02",
+          "end": "10:06",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · ada",
+          "note": "24 hits"
+        },
+        {
+          "start": "10:06",
           "end": "10:08",
           "cat": "writing",
           "src": "local",
@@ -11617,22 +24512,6 @@
         },
         {
           "start": "10:18",
-          "end": "10:20",
-          "cat": "research",
-          "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
-        },
-        {
-          "start": "10:21",
-          "end": "10:22",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Google Translate",
-          "note": "mqoutlook-my.sharepoint.com"
-        },
-        {
-          "start": "10:22",
           "end": "10:28",
           "cat": "research",
           "src": "macos",
@@ -11648,20 +24527,12 @@
           "note": "mqoutlook-my.sharepoint.com"
         },
         {
-          "start": "10:29",
-          "end": "10:30",
-          "cat": "coding",
-          "src": "chrome",
-          "title": "Projects - Claude",
-          "note": "claude.ai"
-        },
-        {
           "start": "10:30",
           "end": "10:33",
-          "cat": "research",
-          "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · ada",
+          "note": "18 hits"
         },
         {
           "start": "10:34",
@@ -11697,14 +24568,14 @@
         },
         {
           "start": "11:02",
-          "end": "11:04",
-          "cat": "research",
-          "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "end": "11:05",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
         },
         {
-          "start": "11:04",
+          "start": "11:05",
           "end": "11:12",
           "cat": "admin",
           "src": "chrome",
@@ -11729,11 +24600,19 @@
         },
         {
           "start": "11:26",
-          "end": "11:32",
+          "end": "11:30",
           "cat": "research",
           "src": "macos",
           "title": "zotero",
           "note": "org.zotero.zotero"
+        },
+        {
+          "start": "11:30",
+          "end": "11:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
         },
         {
           "start": "11:37",
@@ -11769,19 +24648,19 @@
         },
         {
           "start": "11:59",
-          "end": "12:01",
+          "end": "12:00",
           "cat": "admin",
           "src": "macos",
           "title": "Outlook",
           "note": "com.microsoft.Outlook"
         },
         {
-          "start": "12:01",
+          "start": "12:00",
           "end": "12:06",
           "cat": "coding",
-          "src": "chrome",
-          "title": "Login - Mistral AI",
-          "note": "v2.auth.mistral.ai"
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
         },
         {
           "start": "12:06",
@@ -11801,11 +24680,43 @@
         },
         {
           "start": "12:26",
+          "end": "12:30",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "CommSec Financial Services Guide",
+          "note": "commsec.com.au"
+        },
+        {
+          "start": "12:30",
+          "end": "12:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "12:33",
           "end": "12:39",
           "cat": "admin",
           "src": "chrome",
           "title": "CommSec Financial Services Guide",
           "note": "commsec.com.au"
+        },
+        {
+          "start": "13:00",
+          "end": "13:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "13:30",
+          "end": "13:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
         },
         {
           "start": "13:35",
@@ -11834,13 +24745,13 @@
         {
           "start": "14:00",
           "end": "14:02",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Application",
-          "note": "interactivebrokers.com.au"
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
         },
         {
-          "start": "14:02",
+          "start": "14:03",
           "end": "14:29",
           "cat": "admin",
           "src": "chrome",
@@ -11848,15 +24759,15 @@
           "note": "mail.google.com"
         },
         {
-          "start": "14:29",
-          "end": "14:32",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Consular Electronic Application Center - Confirm Application",
-          "note": "mail.google.com"
+          "start": "14:30",
+          "end": "14:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
         },
         {
-          "start": "14:32",
+          "start": "14:33",
           "end": "14:49",
           "cat": "personal",
           "src": "chrome",
@@ -11865,38 +24776,30 @@
         },
         {
           "start": "14:49",
-          "end": "14:52",
+          "end": "14:57",
           "cat": "admin",
           "src": "chrome",
           "title": "Nonimmigrant Visa - U.S. Point of Contact Information",
           "note": "ceac.state.gov"
         },
         {
-          "start": "14:52",
+          "start": "14:57",
           "end": "14:59",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
-        },
-        {
-          "start": "14:59",
-          "end": "15:01",
           "cat": "personal",
           "src": "chrome",
           "title": "(11) X 上的 Mike Solana：“the purpose is not to remove young pe",
           "note": "x.com"
         },
         {
-          "start": "15:01",
-          "end": "15:07",
+          "start": "14:59",
+          "end": "15:06",
           "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
+          "src": "claude",
+          "title": "AI research digest failure",
+          "note": "57 hits"
         },
         {
-          "start": "15:07",
+          "start": "15:06",
           "end": "15:11",
           "cat": "personal",
           "src": "chrome",
@@ -11913,54 +24816,46 @@
         },
         {
           "start": "15:18",
-          "end": "15:34",
+          "end": "15:30",
           "cat": "research",
           "src": "chrome",
           "title": "Introducing the OpenAI Partner Network | Ada's Notes",
           "note": "adaren100.github.io"
         },
         {
-          "start": "15:34",
-          "end": "15:45",
+          "start": "15:30",
+          "end": "15:32",
           "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "9 hits"
         },
         {
-          "start": "15:45",
-          "end": "15:46",
+          "start": "15:33",
+          "end": "15:47",
           "cat": "research",
           "src": "chrome",
           "title": "How we monitor internal coding agents for misalignment | Ope",
           "note": "openai.com"
         },
         {
-          "start": "15:46",
-          "end": "15:57",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
-        },
-        {
-          "start": "15:59",
-          "end": "16:00",
-          "cat": "writing",
-          "src": "chrome",
-          "title": "Zotero | Your personal research assistant",
-          "note": "zotero.org"
-        },
-        {
           "start": "16:00",
           "end": "16:02",
-          "cat": "research",
-          "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
         },
         {
           "start": "16:02",
+          "end": "16:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "16:03",
           "end": "16:08",
           "cat": "research",
           "src": "macos",
@@ -11992,15 +24887,15 @@
           "note": "org.zotero.zotero"
         },
         {
-          "start": "16:31",
+          "start": "16:30",
           "end": "16:32",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
         },
         {
-          "start": "16:32",
+          "start": "16:33",
           "end": "16:48",
           "cat": "research",
           "src": "macos",
@@ -12009,11 +24904,27 @@
         },
         {
           "start": "16:49",
-          "end": "17:15",
+          "end": "17:00",
           "cat": "research",
           "src": "macos",
           "title": "zotero",
           "note": "org.zotero.zotero"
+        },
+        {
+          "start": "17:00",
+          "end": "17:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "17:03",
+          "end": "17:15",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Agentic DraCor and the Art of Docstring Engineering: Evaluat",
+          "note": "researchgate.net"
         },
         {
           "start": "17:15",
@@ -12025,14 +24936,14 @@
         },
         {
           "start": "17:28",
-          "end": "17:31",
+          "end": "17:33",
           "cat": "coding",
           "src": "chrome",
           "title": "OpenAPI Specification - Version 3.1.0 | Swagger",
           "note": "swagger.io"
         },
         {
-          "start": "17:31",
+          "start": "17:33",
           "end": "17:34",
           "cat": "research",
           "src": "macos",
@@ -12064,6 +24975,46 @@
           "note": "peps.python.org"
         },
         {
+          "start": "18:42",
+          "end": "18:45",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "19:00",
+          "end": "19:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "19:30",
+          "end": "19:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "19:46",
+          "end": "19:49",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "20:00",
+          "end": "20:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
           "start": "20:07",
           "end": "20:10",
           "cat": "personal",
@@ -12073,22 +25024,294 @@
         },
         {
           "start": "20:10",
+          "end": "20:30",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "20:30",
+          "end": "20:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "20:33",
+          "end": "21:00",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "21:00",
+          "end": "21:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "21:03",
           "end": "21:21",
           "cat": "admin",
           "src": "chrome",
           "title": "Google Translate",
           "note": "translate.google.com"
+        },
+        {
+          "start": "21:30",
+          "end": "21:34",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "11 hits"
+        },
+        {
+          "start": "22:07",
+          "end": "22:10",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "22:24",
+          "end": "22:27",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "22:40",
+          "end": "22:43",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "22:58",
+          "end": "23:01",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "23:15",
+          "end": "23:18",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "23:26",
+          "end": "23:29",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "3 hits"
+        },
+        {
+          "start": "23:44",
+          "end": "23:47",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "00:00",
+          "end": "00:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "00:18",
+          "end": "00:21",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "00:27",
+          "end": "00:30",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "8 hits"
+        },
+        {
+          "start": "00:45",
+          "end": "00:48",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "01:01",
+          "end": "01:04",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "01:19",
+          "end": "01:22",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "01:35",
+          "end": "01:38",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "01:50",
+          "end": "01:53",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "02:07",
+          "end": "02:10",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "02:23",
+          "end": "02:26",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "02:38",
+          "end": "02:41",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "02:54",
+          "end": "02:57",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "03:10",
+          "end": "03:13",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "03:28",
+          "end": "03:31",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "03:45",
+          "end": "03:48",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "04:01",
+          "end": "04:04",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "04:17",
+          "end": "04:20",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "04:38",
+          "end": "04:41",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "04:56",
+          "end": "04:59",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "05:11",
+          "end": "05:14",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "05:34",
+          "end": "05:37",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "05:50",
+          "end": "05:53",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
         }
       ],
-      "logged": 479,
-      "real": 267,
-      "deep": 267,
-      "ratio": 0.5566258831506175,
+      "logged": 626,
+      "real": 427,
+      "deep": 427,
+      "ratio": 0.6819878673233052,
       "stats": {
-        "contextSwitches": 47,
-        "tabsOpened": 108,
-        "longestFocus": "1h 15m",
-        "justOneMoreThing": 13
+        "contextSwitches": 59,
+        "tabsOpened": 99,
+        "longestFocus": "2h 7m",
+        "justOneMoreThing": 11
       }
     },
     {
@@ -12098,9 +25321,113 @@
       "weekend": false,
       "dateShort": "Wed, Jun 17",
       "dateLong": "Wednesday, June 17",
-      "dayStart": "09:49",
-      "dayEnd": "17:49",
+      "dayStart": "06:07",
+      "dayEnd": "05:59",
       "events": [
+        {
+          "start": "06:07",
+          "end": "06:10",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "06:22",
+          "end": "06:25",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "06:38",
+          "end": "06:41",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "06:56",
+          "end": "06:59",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "07:11",
+          "end": "07:14",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "07:23",
+          "end": "07:26",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "3 hits"
+        },
+        {
+          "start": "07:40",
+          "end": "07:43",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "07:56",
+          "end": "07:59",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "08:12",
+          "end": "08:15",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "08:24",
+          "end": "08:27",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "08:41",
+          "end": "08:44",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "08:58",
+          "end": "09:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "14 hits"
+        },
+        {
+          "start": "09:42",
+          "end": "09:46",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
         {
           "start": "09:49",
           "end": "09:51",
@@ -12119,6 +25446,22 @@
         },
         {
           "start": "09:57",
+          "end": "10:00",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "FW: 908/112 Talavera Road Macquarie Park overpaid rent - ada",
+          "note": "accounts.google.com"
+        },
+        {
+          "start": "10:00",
+          "end": "10:05",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · ada",
+          "note": "35 hits"
+        },
+        {
+          "start": "10:05",
           "end": "10:25",
           "cat": "admin",
           "src": "chrome",
@@ -12127,30 +25470,30 @@
         },
         {
           "start": "10:25",
-          "end": "10:32",
+          "end": "10:29",
           "cat": "personal",
           "src": "chrome",
           "title": "Origin Energy",
           "note": "google.com"
         },
         {
-          "start": "10:32",
-          "end": "10:36",
+          "start": "10:30",
+          "end": "10:33",
           "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
+          "src": "claude",
+          "title": "Claude session · ada",
+          "note": "18 hits"
+        },
+        {
+          "start": "10:33",
+          "end": "10:36",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Origin Energy",
+          "note": "google.com"
         },
         {
           "start": "10:36",
-          "end": "10:40",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
-        },
-        {
-          "start": "10:40",
           "end": "10:42",
           "cat": "admin",
           "src": "chrome",
@@ -12182,7 +25525,15 @@
           "note": "claude.com"
         },
         {
-          "start": "11:01",
+          "start": "11:00",
+          "end": "11:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "11:03",
           "end": "11:06",
           "cat": "research",
           "src": "chrome",
@@ -12199,6 +25550,22 @@
         },
         {
           "start": "11:16",
+          "end": "11:30",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Paper page - Data Journalist Agent: Transforming Data into V",
+          "note": "google.com"
+        },
+        {
+          "start": "11:30",
+          "end": "11:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "11:33",
           "end": "11:36",
           "cat": "research",
           "src": "chrome",
@@ -12239,11 +25606,35 @@
         },
         {
           "start": "12:08",
+          "end": "12:30",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "12:30",
+          "end": "12:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "12:33",
           "end": "12:35",
           "cat": "admin",
           "src": "chrome",
           "title": "Google Translate",
           "note": "translate.google.com"
+        },
+        {
+          "start": "13:00",
+          "end": "13:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
         },
         {
           "start": "13:20",
@@ -12279,6 +25670,14 @@
         },
         {
           "start": "13:30",
+          "end": "13:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "13:33",
           "end": "13:35",
           "cat": "admin",
           "src": "macos",
@@ -12295,14 +25694,22 @@
         },
         {
           "start": "13:40",
-          "end": "14:02",
+          "end": "14:00",
           "cat": "admin",
           "src": "macos",
           "title": "Outlook",
           "note": "com.microsoft.Outlook"
         },
         {
-          "start": "14:02",
+          "start": "14:00",
+          "end": "14:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "14:03",
           "end": "14:05",
           "cat": "research",
           "src": "macos",
@@ -12375,6 +25782,22 @@
         },
         {
           "start": "14:27",
+          "end": "14:30",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "14:30",
+          "end": "14:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "14:33",
           "end": "14:39",
           "cat": "research",
           "src": "macos",
@@ -12399,6 +25822,22 @@
         },
         {
           "start": "14:57",
+          "end": "15:00",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "15:00",
+          "end": "15:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "15:03",
           "end": "15:04",
           "cat": "research",
           "src": "macos",
@@ -12431,6 +25870,22 @@
         },
         {
           "start": "15:10",
+          "end": "15:30",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "15:30",
+          "end": "15:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "15:33",
           "end": "15:36",
           "cat": "research",
           "src": "macos",
@@ -12464,10 +25919,10 @@
         {
           "start": "16:00",
           "end": "16:03",
-          "cat": "research",
-          "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
         },
         {
           "start": "16:03",
@@ -12487,6 +25942,22 @@
         },
         {
           "start": "16:17",
+          "end": "16:30",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "16:30",
+          "end": "16:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "16:33",
           "end": "16:35",
           "cat": "research",
           "src": "macos",
@@ -12519,6 +25990,22 @@
         },
         {
           "start": "16:54",
+          "end": "17:00",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "SemEval 2026 - Track Manager Console",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "17:00",
+          "end": "17:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "17:03",
           "end": "17:04",
           "cat": "admin",
           "src": "chrome",
@@ -12551,6 +26038,22 @@
         },
         {
           "start": "17:29",
+          "end": "17:30",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "17:30",
+          "end": "17:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "17:33",
           "end": "17:35",
           "cat": "admin",
           "src": "macos",
@@ -12564,17 +26067,297 @@
           "src": "chrome",
           "title": "Paper Update: UNED Citation Error - Google Gemini",
           "note": "gemini.google.com"
+        },
+        {
+          "start": "19:52",
+          "end": "19:55",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "20:10",
+          "end": "20:13",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "20:28",
+          "end": "20:31",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "20:43",
+          "end": "20:46",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "21:00",
+          "end": "21:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "19 hits"
+        },
+        {
+          "start": "21:31",
+          "end": "21:34",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "21:44",
+          "end": "21:47",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "22:11",
+          "end": "22:14",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "22:28",
+          "end": "22:31",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "22:44",
+          "end": "22:47",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "23:12",
+          "end": "23:18",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "23:33",
+          "end": "23:36",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "3 hits"
+        },
+        {
+          "start": "23:46",
+          "end": "23:49",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "00:00",
+          "end": "00:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "00:34",
+          "end": "00:37",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "00:50",
+          "end": "00:53",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "01:07",
+          "end": "01:10",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "01:23",
+          "end": "01:26",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "01:40",
+          "end": "01:43",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "01:55",
+          "end": "01:58",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "02:11",
+          "end": "02:14",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "02:28",
+          "end": "02:31",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "02:45",
+          "end": "02:48",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "3 hits"
+        },
+        {
+          "start": "03:01",
+          "end": "03:04",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "03:17",
+          "end": "03:20",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "03:35",
+          "end": "03:38",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "03:52",
+          "end": "03:55",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "04:08",
+          "end": "04:11",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "04:26",
+          "end": "04:29",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "04:42",
+          "end": "04:45",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "05:00",
+          "end": "05:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "05:17",
+          "end": "05:20",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
+        },
+        {
+          "start": "05:34",
+          "end": "05:37",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
+        },
+        {
+          "start": "05:51",
+          "end": "05:54",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "05:57",
+          "end": "05:59",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
         }
       ],
-      "logged": 419,
-      "real": 237,
-      "deep": 237,
-      "ratio": 0.5653156368780904,
+      "logged": 575,
+      "real": 408,
+      "deep": 408,
+      "ratio": 0.7100537821878656,
       "stats": {
-        "contextSwitches": 47,
-        "tabsOpened": 102,
-        "longestFocus": "46m",
-        "justOneMoreThing": 11
+        "contextSwitches": 74,
+        "tabsOpened": 117,
+        "longestFocus": "2h 3m",
+        "justOneMoreThing": 15
       }
     },
     {
@@ -12584,11 +26367,139 @@
       "weekend": false,
       "dateShort": "Thu, Jun 18",
       "dateLong": "Thursday, June 18",
-      "dayStart": "10:02",
-      "dayEnd": "17:23",
+      "dayStart": "06:00",
+      "dayEnd": "05:52",
       "events": [
         {
+          "start": "06:00",
+          "end": "06:00",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "06:12",
+          "end": "06:15",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "06:29",
+          "end": "06:32",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "06:45",
+          "end": "06:48",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "07:01",
+          "end": "07:04",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "07:16",
+          "end": "07:19",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "07:34",
+          "end": "07:37",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "07:44",
+          "end": "07:47",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "08:02",
+          "end": "08:05",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "08:34",
+          "end": "08:37",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "3 hits"
+        },
+        {
+          "start": "08:52",
+          "end": "08:55",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "09:00",
+          "end": "09:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "13 hits"
+        },
+        {
+          "start": "09:36",
+          "end": "09:39",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "09:44",
+          "end": "09:47",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "1 hit"
+        },
+        {
+          "start": "10:01",
+          "end": "10:02",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "37 hits"
+        },
+        {
           "start": "10:02",
+          "end": "10:06",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "37 hits"
+        },
+        {
+          "start": "10:06",
           "end": "10:13",
           "cat": "personal",
           "src": "chrome",
@@ -12620,12 +26531,12 @@
           "note": "open.spotify.com"
         },
         {
-          "start": "10:31",
+          "start": "10:30",
           "end": "10:38",
           "cat": "coding",
-          "src": "chrome",
-          "title": "Chrome Web Store - Extensions",
-          "note": "chromewebstore.google.com"
+          "src": "claude",
+          "title": "Claude session · ada",
+          "note": "18 hits"
         },
         {
           "start": "10:38",
@@ -12637,22 +26548,46 @@
         },
         {
           "start": "10:42",
-          "end": "10:44",
+          "end": "10:45",
           "cat": "coding",
           "src": "chrome",
           "title": "Chrome Web Store - Extensions",
           "note": "chromewebstore.google.com"
         },
         {
-          "start": "10:44",
+          "start": "10:45",
+          "end": "10:49",
+          "cat": "research",
+          "src": "claude",
+          "title": "Worklog Zotero reading",
+          "note": "36 hits"
+        },
+        {
+          "start": "10:49",
           "end": "10:51",
           "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
+          "src": "chrome",
+          "title": "Chrome Web Store - Extensions",
+          "note": "chromewebstore.google.com"
         },
         {
           "start": "10:51",
+          "end": "10:55",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Author Page for SemEval 2026:The 20th International Workshop",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "10:55",
+          "end": "10:56",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "10:56",
           "end": "10:58",
           "cat": "admin",
           "src": "chrome",
@@ -12663,9 +26598,9 @@
           "start": "10:58",
           "end": "11:06",
           "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "src": "claude",
+          "title": "Claude session · log",
+          "note": "59 hits"
         },
         {
           "start": "11:06",
@@ -12686,66 +26621,58 @@
         {
           "start": "11:10",
           "end": "11:13",
-          "cat": "personal",
-          "src": "chrome",
-          "title": "Choose a top-up type | Macquarie University Sport and Aquati",
-          "note": "musac.jonasleisure.com.au"
-        },
-        {
-          "start": "11:14",
-          "end": "11:14",
-          "cat": "research",
-          "src": "chrome",
-          "title": "Where the time actually went | Ada's Notes",
-          "note": "adaren100.github.io"
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · log",
+          "note": "208 hits"
         },
         {
           "start": "11:14",
           "end": "11:16",
           "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "src": "claude",
+          "title": "Claude session · log",
+          "note": "208 hits"
         },
         {
-          "start": "11:18",
-          "end": "11:23",
-          "cat": "research",
-          "src": "chrome",
-          "title": "Where the time actually went | Ada's Notes",
-          "note": "baike.baidu.com"
+          "start": "11:17",
+          "end": "11:51",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · log",
+          "note": "208 hits"
         },
         {
-          "start": "11:23",
-          "end": "11:31",
+          "start": "11:51",
+          "end": "12:16",
           "cat": "coding",
           "src": "macos",
           "title": "VSCode",
           "note": "com.microsoft.VSCode"
         },
         {
-          "start": "11:31",
-          "end": "11:40",
-          "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
-        },
-        {
-          "start": "11:40",
-          "end": "11:44",
-          "cat": "research",
-          "src": "chrome",
-          "title": "Where the time actually went | Ada's Notes",
-          "note": "baike.baidu.com"
-        },
-        {
-          "start": "11:44",
+          "start": "12:16",
           "end": "12:18",
           "cat": "coding",
           "src": "macos",
           "title": "VSCode",
           "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "12:30",
+          "end": "12:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "13:00",
+          "end": "13:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
         },
         {
           "start": "13:06",
@@ -12773,38 +26700,38 @@
         },
         {
           "start": "13:35",
-          "end": "13:42",
+          "end": "13:36",
           "cat": "research",
           "src": "chrome",
           "title": "Ada's Notes",
           "note": "adaren100.github.io"
         },
         {
-          "start": "13:42",
-          "end": "13:44",
-          "cat": "personal",
-          "src": "chrome",
-          "title": "(21) 主页 / X",
-          "note": "x.com"
+          "start": "13:36",
+          "end": "13:51",
+          "cat": "coding",
+          "src": "claude",
+          "title": "AI Digest empty post handling",
+          "note": "46 hits"
         },
         {
-          "start": "13:44",
-          "end": "13:49",
+          "start": "13:51",
+          "end": "14:00",
           "cat": "research",
-          "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "src": "chrome",
+          "title": "Where the time actually went | Ada's Notes",
+          "note": "adaren100.github.io"
         },
         {
-          "start": "13:49",
-          "end": "13:50",
-          "cat": "admin",
-          "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "14:00",
+          "end": "14:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
         },
         {
-          "start": "13:50",
+          "start": "14:03",
           "end": "14:06",
           "cat": "research",
           "src": "chrome",
@@ -12813,11 +26740,19 @@
         },
         {
           "start": "14:29",
-          "end": "14:33",
+          "end": "14:30",
           "cat": "research",
           "src": "macos",
           "title": "zotero",
           "note": "org.zotero.zotero"
+        },
+        {
+          "start": "14:30",
+          "end": "14:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
         },
         {
           "start": "14:35",
@@ -12845,6 +26780,22 @@
         },
         {
           "start": "14:56",
+          "end": "15:00",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "15:00",
+          "end": "15:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "15:03",
           "end": "15:27",
           "cat": "research",
           "src": "macos",
@@ -12860,7 +26811,15 @@
           "note": "translate.google.com"
         },
         {
-          "start": "15:29",
+          "start": "15:30",
+          "end": "15:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "15:33",
           "end": "15:37",
           "cat": "research",
           "src": "macos",
@@ -12893,19 +26852,19 @@
         },
         {
           "start": "15:56",
-          "end": "16:01",
+          "end": "16:00",
           "cat": "personal",
           "src": "chrome",
           "title": "飄向北方 - Live • Leehom Wang, Namewee",
           "note": "open.spotify.com"
         },
         {
-          "start": "16:01",
+          "start": "16:00",
           "end": "16:02",
-          "cat": "research",
-          "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
         },
         {
           "start": "16:03",
@@ -12957,6 +26916,14 @@
         },
         {
           "start": "16:30",
+          "end": "16:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "16:33",
           "end": "16:35",
           "cat": "research",
           "src": "macos",
@@ -12989,6 +26956,22 @@
         },
         {
           "start": "16:53",
+          "end": "17:00",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "17:00",
+          "end": "17:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "17:03",
           "end": "17:09",
           "cat": "research",
           "src": "macos",
@@ -13002,17 +26985,337 @@
           "src": "chrome",
           "title": "Google Translate",
           "note": "translate.google.com"
+        },
+        {
+          "start": "17:30",
+          "end": "17:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "18:00",
+          "end": "18:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "18:30",
+          "end": "18:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "19:00",
+          "end": "19:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "3 hits"
+        },
+        {
+          "start": "19:10",
+          "end": "19:14",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "19:44",
+          "end": "19:47",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "19:59",
+          "end": "20:02",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "20:11",
+          "end": "20:15",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "20:45",
+          "end": "20:48",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "21:30",
+          "end": "21:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "21:48",
+          "end": "21:51",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "22:05",
+          "end": "22:08",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "22:14",
+          "end": "22:17",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "8 hits"
+        },
+        {
+          "start": "22:40",
+          "end": "22:43",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "22:58",
+          "end": "23:01",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "23:14",
+          "end": "23:17",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "23:31",
+          "end": "23:34",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "23:48",
+          "end": "23:51",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "00:05",
+          "end": "00:08",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "00:23",
+          "end": "00:26",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "00:38",
+          "end": "00:41",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "00:55",
+          "end": "00:58",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "01:12",
+          "end": "01:15",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "01:27",
+          "end": "01:30",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "01:43",
+          "end": "01:46",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "01:59",
+          "end": "02:02",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "02:14",
+          "end": "02:17",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "02:31",
+          "end": "02:34",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "02:48",
+          "end": "02:51",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "03:04",
+          "end": "03:07",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "03:20",
+          "end": "03:23",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "03:37",
+          "end": "03:40",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "03:54",
+          "end": "03:57",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "04:12",
+          "end": "04:15",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "04:27",
+          "end": "04:30",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "04:43",
+          "end": "04:46",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "05:01",
+          "end": "05:04",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "05:17",
+          "end": "05:20",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "05:33",
+          "end": "05:36",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "05:49",
+          "end": "05:52",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
         }
       ],
-      "logged": 353,
-      "real": 272,
-      "deep": 272,
-      "ratio": 0.7698631902118709,
+      "logged": 522,
+      "real": 454,
+      "deep": 454,
+      "ratio": 0.870261605997455,
       "stats": {
-        "contextSwitches": 42,
-        "tabsOpened": 81,
-        "longestFocus": "1h 37m",
-        "justOneMoreThing": 12
+        "contextSwitches": 51,
+        "tabsOpened": 72,
+        "longestFocus": "2h 22m",
+        "justOneMoreThing": 10
       }
     },
     {
@@ -13022,27 +27325,123 @@
       "weekend": false,
       "dateShort": "Fri, Jun 19",
       "dateLong": "Friday, June 19",
-      "dayStart": "10:02",
-      "dayEnd": "16:57",
+      "dayStart": "06:04",
+      "dayEnd": "05:49",
       "events": [
         {
-          "start": "10:02",
-          "end": "10:04",
-          "cat": "research",
-          "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "06:04",
+          "end": "06:07",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
         },
         {
-          "start": "10:04",
-          "end": "10:07",
-          "cat": "writing",
-          "src": "local",
-          "title": "2026-06-19-chatgpt-enterprise-spend-controls.md",
-          "note": "5 hits"
+          "start": "06:22",
+          "end": "06:25",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
         },
         {
-          "start": "10:07",
+          "start": "06:36",
+          "end": "06:39",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "3 hits"
+        },
+        {
+          "start": "06:51",
+          "end": "06:54",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "07:05",
+          "end": "07:08",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "07:23",
+          "end": "07:26",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "07:38",
+          "end": "07:41",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "07:54",
+          "end": "07:57",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "08:11",
+          "end": "08:14",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "08:28",
+          "end": "08:31",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "08:44",
+          "end": "08:47",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "09:00",
+          "end": "09:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "14 hits"
+        },
+        {
+          "start": "09:38",
+          "end": "09:41",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "09:56",
+          "end": "10:08",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "58 hits"
+        },
+        {
+          "start": "10:08",
           "end": "10:10",
           "cat": "research",
           "src": "chrome",
@@ -13107,19 +27506,19 @@
         },
         {
           "start": "10:28",
-          "end": "10:33",
+          "end": "10:30",
           "cat": "research",
           "src": "macos",
           "title": "zotero",
           "note": "org.zotero.zotero"
         },
         {
-          "start": "10:33",
+          "start": "10:30",
           "end": "10:35",
           "cat": "coding",
-          "src": "chrome",
-          "title": "Understanding incrimination - Claude",
-          "note": "claude.ai"
+          "src": "claude",
+          "title": "Claude session · ada",
+          "note": "31 hits"
         },
         {
           "start": "10:35",
@@ -13155,11 +27554,27 @@
         },
         {
           "start": "10:54",
-          "end": "11:18",
+          "end": "11:00",
           "cat": "research",
           "src": "macos",
           "title": "zotero",
           "note": "org.zotero.zotero"
+        },
+        {
+          "start": "11:00",
+          "end": "11:02",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "9 hits"
+        },
+        {
+          "start": "11:03",
+          "end": "11:18",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Translating \"Task-Success Oracle\" in Chinese - Google Gemini",
+          "note": "gemini.google.com"
         },
         {
           "start": "11:18",
@@ -13171,6 +27586,22 @@
         },
         {
           "start": "11:24",
+          "end": "11:30",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "11:30",
+          "end": "11:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "11:33",
           "end": "11:40",
           "cat": "research",
           "src": "macos",
@@ -13203,19 +27634,11 @@
         },
         {
           "start": "11:59",
-          "end": "12:02",
+          "end": "12:03",
           "cat": "coding",
           "src": "chrome",
           "title": "Snapshot-replay attribution for persistent state debugging -",
           "note": "claude.ai"
-        },
-        {
-          "start": "12:02",
-          "end": "12:03",
-          "cat": "research",
-          "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
         },
         {
           "start": "12:03",
@@ -13242,7 +27665,31 @@
           "note": "translate.google.com"
         },
         {
-          "start": "12:45",
+          "start": "12:43",
+          "end": "12:45",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "12:46",
+          "end": "13:00",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Inbox (2,517) - ada.ren.cn@gmail.com - Gmail",
+          "note": "accounts.google.com"
+        },
+        {
+          "start": "13:00",
+          "end": "13:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "13:03",
           "end": "13:05",
           "cat": "admin",
           "src": "chrome",
@@ -13267,6 +27714,22 @@
         },
         {
           "start": "13:14",
+          "end": "13:30",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(2) X 上的 Claude：“New in Claude Code: Artifacts. Interactive ",
+          "note": "open.spotify.com"
+        },
+        {
+          "start": "13:30",
+          "end": "13:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "13:33",
           "end": "13:36",
           "cat": "personal",
           "src": "chrome",
@@ -13307,6 +27770,22 @@
         },
         {
           "start": "13:47",
+          "end": "14:00",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Andrew Mayne | AI Keynote Speaker, Author, Former OpenAI Pro",
+          "note": "andrewmayne.com"
+        },
+        {
+          "start": "14:00",
+          "end": "14:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "14:03",
           "end": "14:03",
           "cat": "personal",
           "src": "chrome",
@@ -13315,6 +27794,22 @@
         },
         {
           "start": "14:03",
+          "end": "14:30",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "14:30",
+          "end": "14:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "14:33",
           "end": "14:36",
           "cat": "admin",
           "src": "chrome",
@@ -13355,11 +27850,19 @@
         },
         {
           "start": "15:13",
-          "end": "15:36",
+          "end": "15:33",
           "cat": "coding",
           "src": "chrome",
           "title": "myRDC - Researcher Development Calendar - Macquarie Universi",
           "note": "myrdc.mq.edu.au"
+        },
+        {
+          "start": "15:33",
+          "end": "15:36",
+          "cat": "coding",
+          "src": "macos",
+          "title": "iterm2",
+          "note": "com.googlecode.iterm2"
         },
         {
           "start": "15:36",
@@ -13376,6 +27879,14 @@
           "src": "macos",
           "title": "iterm2",
           "note": "com.googlecode.iterm2"
+        },
+        {
+          "start": "16:00",
+          "end": "16:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
         },
         {
           "start": "16:04",
@@ -13403,6 +27914,22 @@
         },
         {
           "start": "16:28",
+          "end": "16:30",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Securing internal systems against increasingly capable and i",
+          "note": "goo.gle"
+        },
+        {
+          "start": "16:30",
+          "end": "16:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "8 hits"
+        },
+        {
+          "start": "16:33",
           "end": "16:37",
           "cat": "admin",
           "src": "chrome",
@@ -13432,17 +27959,361 @@
           "src": "chrome",
           "title": "(4) X 上的 Sebastian Raschka：“Just caught up with the recent G",
           "note": "x.com"
+        },
+        {
+          "start": "17:05",
+          "end": "17:08",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "17:30",
+          "end": "17:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "18:11",
+          "end": "18:14",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "18:30",
+          "end": "18:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "8 hits"
+        },
+        {
+          "start": "19:07",
+          "end": "19:10",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "3 hits"
+        },
+        {
+          "start": "19:23",
+          "end": "19:26",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "19:41",
+          "end": "19:44",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "19:51",
+          "end": "19:54",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "17 hits"
+        },
+        {
+          "start": "20:08",
+          "end": "20:11",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "20:26",
+          "end": "20:29",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "20:41",
+          "end": "20:44",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "20:52",
+          "end": "20:55",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "18 hits"
+        },
+        {
+          "start": "21:00",
+          "end": "21:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "3 hits"
+        },
+        {
+          "start": "21:18",
+          "end": "21:21",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "21:35",
+          "end": "21:38",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "21:51",
+          "end": "21:54",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "22:11",
+          "end": "22:14",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "22:27",
+          "end": "22:30",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "22:45",
+          "end": "22:48",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "23:18",
+          "end": "23:21",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "23:35",
+          "end": "23:38",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "23:52",
+          "end": "23:55",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "00:10",
+          "end": "00:13",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "00:27",
+          "end": "00:30",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "00:43",
+          "end": "00:46",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "00:58",
+          "end": "01:01",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "01:15",
+          "end": "01:18",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "01:31",
+          "end": "01:34",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "01:47",
+          "end": "01:50",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "02:04",
+          "end": "02:07",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "02:21",
+          "end": "02:24",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "02:39",
+          "end": "02:42",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "02:55",
+          "end": "02:58",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "03:12",
+          "end": "03:15",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "03:30",
+          "end": "03:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "03:47",
+          "end": "03:50",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "04:05",
+          "end": "04:08",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "04:22",
+          "end": "04:25",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "04:37",
+          "end": "04:40",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "04:54",
+          "end": "04:57",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "05:12",
+          "end": "05:15",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "05:29",
+          "end": "05:32",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "05:46",
+          "end": "05:49",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
         }
       ],
-      "logged": 365,
-      "real": 183,
-      "deep": 183,
-      "ratio": 0.5008106097032992,
+      "logged": 545,
+      "real": 379,
+      "deep": 379,
+      "ratio": 0.6956820826837496,
       "stats": {
-        "contextSwitches": 44,
-        "tabsOpened": 81,
-        "longestFocus": "1h 17m",
-        "justOneMoreThing": 5
+        "contextSwitches": 58,
+        "tabsOpened": 96,
+        "longestFocus": "2h 10m",
+        "justOneMoreThing": 8
       }
     },
     {
@@ -13452,17 +28323,682 @@
       "weekend": true,
       "dateShort": "Sat, Jun 20",
       "dateLong": "Saturday, June 20",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "06:02",
+      "dayEnd": "05:50",
+      "events": [
+        {
+          "start": "06:02",
+          "end": "06:05",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "06:18",
+          "end": "06:21",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "06:34",
+          "end": "06:37",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "06:53",
+          "end": "06:56",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "07:08",
+          "end": "07:11",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "07:31",
+          "end": "07:34",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "07:49",
+          "end": "07:52",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "08:05",
+          "end": "08:08",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "08:22",
+          "end": "08:25",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "08:37",
+          "end": "08:40",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "08:57",
+          "end": "09:00",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "09:17",
+          "end": "09:20",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "09:35",
+          "end": "09:38",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "09:55",
+          "end": "09:58",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "10:12",
+          "end": "10:15",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "10:28",
+          "end": "10:31",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "10:40",
+          "end": "10:43",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
+        },
+        {
+          "start": "10:57",
+          "end": "11:00",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "11:15",
+          "end": "11:18",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "11:31",
+          "end": "11:34",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "11:59",
+          "end": "12:02",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "12:14",
+          "end": "12:17",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "12:30",
+          "end": "12:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "12:42",
+          "end": "12:45",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
+        },
+        {
+          "start": "12:57",
+          "end": "13:00",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "13:13",
+          "end": "13:16",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "13:28",
+          "end": "13:31",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "13:43",
+          "end": "13:46",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "14:02",
+          "end": "14:05",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "14:19",
+          "end": "14:22",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "14:36",
+          "end": "14:39",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "15:01",
+          "end": "15:04",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "15:18",
+          "end": "15:21",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "15:44",
+          "end": "15:47",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "16:02",
+          "end": "16:05",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "16:19",
+          "end": "16:22",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "16:37",
+          "end": "16:40",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "17:07",
+          "end": "17:10",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "17:24",
+          "end": "17:27",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "17:42",
+          "end": "17:45",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "18:03",
+          "end": "18:06",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "18:21",
+          "end": "18:24",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "18:37",
+          "end": "18:40",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "18:54",
+          "end": "18:57",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "19:10",
+          "end": "19:13",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "19:28",
+          "end": "19:31",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "19:45",
+          "end": "19:48",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "20:01",
+          "end": "20:04",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "20:18",
+          "end": "20:21",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "20:36",
+          "end": "20:39",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "20:53",
+          "end": "20:56",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "21:17",
+          "end": "21:20",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "21:35",
+          "end": "21:38",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "21:51",
+          "end": "21:54",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "22:08",
+          "end": "22:11",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "22:24",
+          "end": "22:27",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "22:41",
+          "end": "22:44",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "22:57",
+          "end": "23:00",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "23:12",
+          "end": "23:15",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "23:29",
+          "end": "23:32",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "23:41",
+          "end": "23:44",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "23:58",
+          "end": "00:01",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "00:14",
+          "end": "00:17",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "00:30",
+          "end": "00:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "00:47",
+          "end": "00:50",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "01:05",
+          "end": "01:08",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "01:22",
+          "end": "01:25",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "01:33",
+          "end": "01:36",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "01:50",
+          "end": "01:53",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "02:05",
+          "end": "02:08",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "02:23",
+          "end": "02:26",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "02:41",
+          "end": "02:44",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "02:58",
+          "end": "03:01",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "03:14",
+          "end": "03:17",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "03:32",
+          "end": "03:35",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "03:50",
+          "end": "03:53",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "04:08",
+          "end": "04:11",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "04:23",
+          "end": "04:26",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "04:39",
+          "end": "04:42",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "04:57",
+          "end": "05:00",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "05:13",
+          "end": "05:16",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "05:29",
+          "end": "05:32",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "05:47",
+          "end": "05:50",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        }
+      ],
+      "logged": 249,
+      "real": 249,
+      "deep": 249,
+      "ratio": 1.0,
       "stats": {
         "contextSwitches": 0,
         "tabsOpened": 0,
-        "longestFocus": "0m",
+        "longestFocus": "4h 9m",
         "justOneMoreThing": 0
       }
     },
@@ -13473,24 +29009,400 @@
       "weekend": true,
       "dateShort": "Sun, Jun 21",
       "dateLong": "Sunday, June 21",
-      "dayStart": "19:15",
-      "dayEnd": "21:47",
+      "dayStart": "06:05",
+      "dayEnd": "05:55",
       "events": [
         {
-          "start": "19:15",
+          "start": "06:05",
+          "end": "06:08",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "06:23",
+          "end": "06:26",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "06:41",
+          "end": "06:44",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "06:58",
+          "end": "07:01",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "07:14",
+          "end": "07:17",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "07:29",
+          "end": "07:32",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "07:46",
+          "end": "07:49",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "08:10",
+          "end": "08:13",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "08:27",
+          "end": "08:30",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "08:44",
+          "end": "08:47",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "09:00",
+          "end": "09:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "09:18",
+          "end": "09:21",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "09:30",
+          "end": "09:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
+        },
+        {
+          "start": "09:48",
+          "end": "09:51",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "10:05",
+          "end": "10:08",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "10:22",
+          "end": "10:25",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "10:48",
+          "end": "10:51",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "11:05",
+          "end": "11:08",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "11:20",
+          "end": "11:23",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "11:32",
+          "end": "11:36",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "15 hits"
+        },
+        {
+          "start": "11:48",
+          "end": "11:51",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "12:03",
+          "end": "12:06",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "12:20",
+          "end": "12:23",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "12:33",
+          "end": "12:36",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
+        },
+        {
+          "start": "12:51",
+          "end": "12:54",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "13:08",
+          "end": "13:11",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "13:25",
+          "end": "13:28",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "13:34",
+          "end": "13:37",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "17 hits"
+        },
+        {
+          "start": "13:51",
+          "end": "13:54",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "14:06",
+          "end": "14:09",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "14:24",
+          "end": "14:27",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "14:35",
+          "end": "14:38",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "14:51",
+          "end": "14:54",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "15:06",
+          "end": "15:09",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "15:23",
+          "end": "15:26",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "15:36",
+          "end": "15:39",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "15 hits"
+        },
+        {
+          "start": "15:52",
+          "end": "15:55",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "16:07",
+          "end": "16:10",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "16:24",
+          "end": "16:27",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "16:37",
+          "end": "16:40",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
+        },
+        {
+          "start": "16:54",
+          "end": "16:57",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "17:12",
+          "end": "17:15",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "17:30",
+          "end": "17:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "17:56",
+          "end": "17:59",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "18:14",
+          "end": "18:17",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "18:37",
+          "end": "18:40",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "18:55",
+          "end": "18:58",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "19:12",
+          "end": "19:19",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "38 hits"
+        },
+        {
+          "start": "19:19",
           "end": "19:24",
           "cat": "admin",
           "src": "chrome",
           "title": "AWS Student Builder Group Leaders Application   Apply now to",
           "note": "url.au.m.mimecastprotect.com"
-        },
-        {
-          "start": "19:25",
-          "end": "19:25",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
         },
         {
           "start": "19:25",
@@ -13502,19 +29414,35 @@
         },
         {
           "start": "19:28",
-          "end": "19:34",
+          "end": "19:30",
           "cat": "admin",
           "src": "chrome",
           "title": "AWS Student Builder Group Leaders Application   Apply now to",
           "note": "url.au.m.mimecastprotect.com"
         },
         {
-          "start": "19:34",
+          "start": "19:30",
+          "end": "19:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "29 hits"
+        },
+        {
+          "start": "19:33",
+          "end": "19:37",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "AWS Student Builder Group Leaders Application   Apply now to",
+          "note": "url.au.m.mimecastprotect.com"
+        },
+        {
+          "start": "19:37",
           "end": "19:44",
           "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
+          "src": "chrome",
+          "title": "AWS Academy | Training and Certification | AWS",
+          "note": "aws.amazon.com"
         },
         {
           "start": "19:44",
@@ -13526,6 +29454,22 @@
         },
         {
           "start": "19:59",
+          "end": "20:00",
+          "cat": "research",
+          "src": "chrome",
+          "title": "POLAR @ SemEval-2026",
+          "note": "polar-semeval.github.io"
+        },
+        {
+          "start": "20:00",
+          "end": "20:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "26 hits"
+        },
+        {
+          "start": "20:03",
           "end": "20:05",
           "cat": "research",
           "src": "chrome",
@@ -13550,14 +29494,14 @@
         },
         {
           "start": "20:30",
-          "end": "20:31",
+          "end": "20:33",
           "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "26 hits"
         },
         {
-          "start": "20:31",
+          "start": "20:33",
           "end": "20:36",
           "cat": "admin",
           "src": "chrome",
@@ -13574,22 +29518,6 @@
         },
         {
           "start": "20:38",
-          "end": "20:40",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "AWS Student Builder Group Leaders Application   Apply now to",
-          "note": "pulse.aws"
-        },
-        {
-          "start": "20:40",
-          "end": "20:49",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
-        },
-        {
-          "start": "20:49",
           "end": "20:53",
           "cat": "admin",
           "src": "chrome",
@@ -13614,22 +29542,22 @@
         },
         {
           "start": "20:58",
-          "end": "21:07",
+          "end": "21:00",
           "cat": "admin",
           "src": "chrome",
           "title": "AWS Student Builder Group Leaders Application   Apply now to",
           "note": "w.amazon.com"
         },
         {
-          "start": "21:08",
-          "end": "21:10",
+          "start": "21:00",
+          "end": "21:03",
           "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "29 hits"
         },
         {
-          "start": "21:10",
+          "start": "21:03",
           "end": "21:23",
           "cat": "admin",
           "src": "chrome",
@@ -13646,22 +29574,262 @@
         },
         {
           "start": "21:27",
-          "end": "21:47",
+          "end": "21:45",
           "cat": "writing",
           "src": "chrome",
           "title": "Application of AWS Student Builder Group Leader - Google Sli",
           "note": "docs.google.com"
+        },
+        {
+          "start": "21:45",
+          "end": "21:48",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "22:02",
+          "end": "22:05",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "22:19",
+          "end": "22:22",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "22:36",
+          "end": "22:39",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "22:52",
+          "end": "22:55",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "23:10",
+          "end": "23:13",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "23:27",
+          "end": "23:30",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "23:44",
+          "end": "23:47",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "00:00",
+          "end": "00:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "00:17",
+          "end": "00:20",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "00:37",
+          "end": "00:40",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "00:53",
+          "end": "00:56",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "01:08",
+          "end": "01:11",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "01:26",
+          "end": "01:29",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "01:43",
+          "end": "01:46",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "02:00",
+          "end": "02:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "02:15",
+          "end": "02:18",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "02:32",
+          "end": "02:35",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "02:50",
+          "end": "02:53",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "03:06",
+          "end": "03:09",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "03:23",
+          "end": "03:26",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "03:38",
+          "end": "03:41",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "03:55",
+          "end": "03:58",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "04:13",
+          "end": "04:16",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "04:30",
+          "end": "04:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "04:48",
+          "end": "04:51",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "05:04",
+          "end": "05:07",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "05:20",
+          "end": "05:23",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "05:36",
+          "end": "05:39",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "05:52",
+          "end": "05:55",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
         }
       ],
-      "logged": 134,
-      "real": 53,
-      "deep": 53,
-      "ratio": 0.393980775484952,
+      "logged": 369,
+      "real": 284,
+      "deep": 284,
+      "ratio": 0.7705713313114412,
       "stats": {
-        "contextSwitches": 16,
-        "tabsOpened": 51,
-        "longestFocus": "23m",
-        "justOneMoreThing": 1
+        "contextSwitches": 18,
+        "tabsOpened": 57,
+        "longestFocus": "2h 29m",
+        "justOneMoreThing": 2
       }
     },
     {
@@ -13671,11 +29839,123 @@
       "weekend": false,
       "dateShort": "Mon, Jun 22",
       "dateLong": "Monday, June 22",
-      "dayStart": "10:04",
-      "dayEnd": "22:02",
+      "dayStart": "06:10",
+      "dayEnd": "05:45",
       "events": [
         {
-          "start": "10:04",
+          "start": "06:10",
+          "end": "06:13",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "06:27",
+          "end": "06:30",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "06:43",
+          "end": "06:46",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "06:59",
+          "end": "07:02",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "07:19",
+          "end": "07:22",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "07:37",
+          "end": "07:40",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "07:55",
+          "end": "07:58",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "08:10",
+          "end": "08:13",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "08:27",
+          "end": "08:30",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "08:51",
+          "end": "08:54",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "09:18",
+          "end": "09:21",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "09:35",
+          "end": "09:38",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "09:51",
+          "end": "09:54",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "09:58",
+          "end": "10:07",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "65 hits"
+        },
+        {
+          "start": "10:07",
           "end": "10:09",
           "cat": "admin",
           "src": "chrome",
@@ -13702,25 +29982,17 @@
           "start": "10:12",
           "end": "10:14",
           "cat": "coding",
-          "src": "vscode",
-          "title": "VS Code · settings.json",
-          "note": "1 hit"
+          "src": "claude",
+          "title": "Claude session · DeLM",
+          "note": "29 hits"
         },
         {
           "start": "10:14",
-          "end": "10:17",
-          "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
-        },
-        {
-          "start": "10:17",
           "end": "10:20",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "AWS Student Builder Group Leaders Application   Apply now to",
-          "note": "url.au.m.mimecastprotect.com"
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · DeLM",
+          "note": "29 hits"
         },
         {
           "start": "10:20",
@@ -13740,27 +30012,35 @@
         },
         {
           "start": "10:27",
-          "end": "10:32",
+          "end": "10:29",
           "cat": "research",
           "src": "chrome",
           "title": "Claude",
           "note": "claude.com"
         },
         {
-          "start": "10:33",
-          "end": "10:34",
+          "start": "10:30",
+          "end": "10:32",
           "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "14 hits"
+        },
+        {
+          "start": "10:33",
+          "end": "10:35",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "14 hits"
         },
         {
           "start": "10:35",
           "end": "10:35",
-          "cat": "admin",
-          "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "14 hits"
         },
         {
           "start": "10:36",
@@ -13772,35 +30052,11 @@
         },
         {
           "start": "10:44",
-          "end": "10:45",
-          "cat": "personal",
-          "src": "chrome",
-          "title": "sam altman dario amodei india - Google Search",
-          "note": "google.com"
-        },
-        {
-          "start": "10:45",
-          "end": "10:51",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
-        },
-        {
-          "start": "10:51",
-          "end": "10:53",
-          "cat": "personal",
-          "src": "chrome",
-          "title": "sam altman dario amodei india - Google Search",
-          "note": "google.com"
-        },
-        {
-          "start": "10:53",
           "end": "10:55",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
+          "cat": "personal",
+          "src": "chrome",
+          "title": "sam altman dario amodei india - Google Search",
+          "note": "google.com"
         },
         {
           "start": "10:57",
@@ -13813,10 +30069,10 @@
         {
           "start": "11:00",
           "end": "11:02",
-          "cat": "research",
-          "src": "chrome",
-          "title": "Emily Chang (journalist) - Wikipedia",
-          "note": "en.wikipedia.org"
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
         },
         {
           "start": "11:04",
@@ -13867,12 +30123,20 @@
           "note": "chat.openai.com"
         },
         {
-          "start": "11:29",
+          "start": "11:30",
           "end": "12:17",
           "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "12:30",
+          "end": "12:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
         },
         {
           "start": "12:59",
@@ -13916,22 +30180,30 @@
         },
         {
           "start": "13:30",
+          "end": "13:30",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "13:30",
           "end": "13:31",
-          "cat": "personal",
-          "src": "chrome",
-          "title": "[AINews] GLM-5.2 is the real deal; Z.ai forecasts Open Fable",
-          "note": "google.com"
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
         },
         {
           "start": "13:32",
           "end": "13:32",
-          "cat": "personal",
-          "src": "chrome",
-          "title": "[AINews] GLM-5.2 is the real deal; Z.ai forecasts Open Fable",
-          "note": "google.com"
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
         },
         {
-          "start": "13:32",
+          "start": "13:33",
           "end": "13:34",
           "cat": "meeting",
           "src": "chrome",
@@ -13940,22 +30212,6 @@
         },
         {
           "start": "13:36",
-          "end": "13:40",
-          "cat": "research",
-          "src": "chrome",
-          "title": "Proximal — Advancing Coding Intelligence",
-          "note": "proximal.ai"
-        },
-        {
-          "start": "13:40",
-          "end": "13:42",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
-        },
-        {
-          "start": "13:42",
           "end": "13:56",
           "cat": "research",
           "src": "chrome",
@@ -13972,19 +30228,19 @@
         },
         {
           "start": "13:59",
-          "end": "14:01",
+          "end": "14:00",
           "cat": "writing",
           "src": "macos",
           "title": "obsidian",
           "note": "md.obsidian"
         },
         {
-          "start": "14:01",
+          "start": "14:00",
           "end": "14:03",
           "cat": "coding",
-          "src": "chrome",
-          "title": "Get started with Claude in Chrome | Claude Help Center",
-          "note": "support.claude.com"
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
         },
         {
           "start": "14:03",
@@ -14028,14 +30284,22 @@
         },
         {
           "start": "14:29",
-          "end": "14:32",
+          "end": "14:30",
           "cat": "admin",
           "src": "macos",
           "title": "Outlook",
           "note": "com.microsoft.Outlook"
         },
         {
-          "start": "14:32",
+          "start": "14:30",
+          "end": "14:32",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "14:33",
           "end": "14:35",
           "cat": "meeting",
           "src": "chrome",
@@ -14052,6 +30316,22 @@
         },
         {
           "start": "14:44",
+          "end": "15:00",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Slack",
+          "note": "mqcsh.slack.com"
+        },
+        {
+          "start": "15:00",
+          "end": "15:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "15:03",
           "end": "15:04",
           "cat": "admin",
           "src": "chrome",
@@ -14067,20 +30347,36 @@
           "note": "open.spotify.com"
         },
         {
+          "start": "15:30",
+          "end": "15:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
+        },
+        {
           "start": "15:33",
-          "end": "16:07",
+          "end": "16:00",
           "cat": "research",
           "src": "chrome",
           "title": "Breaking Entropy Bounds: Accelerating RL Training via MTP wi",
           "note": "arxiv.org"
         },
         {
-          "start": "16:08",
+          "start": "16:00",
+          "end": "16:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "16:03",
           "end": "16:10",
           "cat": "research",
-          "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "src": "chrome",
+          "title": "Breaking Entropy Bounds: Accelerating RL Training via MTP wi",
+          "note": "arxiv.org"
         },
         {
           "start": "16:11",
@@ -14100,6 +30396,22 @@
         },
         {
           "start": "16:17",
+          "end": "16:30",
+          "cat": "research",
+          "src": "chrome",
+          "title": "[2502.13189] MoBA: Mixture of Block Attention for Long-Conte",
+          "note": "algoverseairesearch.org"
+        },
+        {
+          "start": "16:30",
+          "end": "16:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "16:33",
           "end": "16:37",
           "cat": "research",
           "src": "chrome",
@@ -14116,43 +30428,51 @@
         },
         {
           "start": "16:46",
-          "end": "17:17",
+          "end": "17:00",
           "cat": "research",
           "src": "macos",
           "title": "zotero",
           "note": "org.zotero.zotero"
         },
         {
-          "start": "17:18",
-          "end": "17:19",
-          "cat": "personal",
-          "src": "chrome",
-          "title": "二十世紀少年 - Unplugged • Kary Ng",
-          "note": "open.spotify.com"
+          "start": "17:00",
+          "end": "17:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
         },
         {
-          "start": "17:19",
-          "end": "17:25",
-          "cat": "research",
-          "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
-        },
-        {
-          "start": "17:25",
+          "start": "17:03",
           "end": "17:26",
-          "cat": "personal",
-          "src": "chrome",
-          "title": "二十世紀少年 - Unplugged • Kary Ng",
-          "note": "open.spotify.com"
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
         },
         {
-          "start": "17:27",
+          "start": "17:26",
+          "end": "17:30",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "17:30",
+          "end": "17:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "17:33",
           "end": "17:34",
           "cat": "research",
-          "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "src": "chrome",
+          "title": "[2302.04761] Toolformer: Language Models Can Teach Themselve",
+          "note": "arxiv.org"
         },
         {
           "start": "17:35",
@@ -14188,6 +30508,14 @@
         },
         {
           "start": "18:00",
+          "end": "18:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "18:03",
           "end": "18:20",
           "cat": "research",
           "src": "chrome",
@@ -14211,6 +30539,30 @@
           "note": "google.com"
         },
         {
+          "start": "18:30",
+          "end": "18:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "19:00",
+          "end": "19:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "19:30",
+          "end": "19:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
           "start": "19:45",
           "end": "19:54",
           "cat": "research",
@@ -14228,22 +30580,30 @@
         },
         {
           "start": "19:57",
-          "end": "20:01",
+          "end": "20:00",
           "cat": "personal",
           "src": "chrome",
           "title": "minecraft game - Google Search",
           "note": "google.com"
         },
         {
-          "start": "20:01",
+          "start": "20:00",
           "end": "20:02",
-          "cat": "admin",
-          "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
         },
         {
           "start": "20:02",
+          "end": "20:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "20:03",
           "end": "20:08",
           "cat": "personal",
           "src": "chrome",
@@ -14284,14 +30644,30 @@
         },
         {
           "start": "20:22",
-          "end": "20:32",
+          "end": "20:30",
           "cat": "research",
           "src": "macos",
           "title": "zotero",
           "note": "org.zotero.zotero"
         },
         {
+          "start": "20:30",
+          "end": "20:32",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
+        },
+        {
           "start": "20:32",
+          "end": "20:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
+        },
+        {
+          "start": "20:33",
           "end": "20:45",
           "cat": "research",
           "src": "macos",
@@ -14316,11 +30692,27 @@
         },
         {
           "start": "20:56",
-          "end": "21:04",
+          "end": "21:00",
           "cat": "research",
           "src": "macos",
           "title": "zotero",
           "note": "org.zotero.zotero"
+        },
+        {
+          "start": "21:00",
+          "end": "21:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "21:03",
+          "end": "21:04",
+          "cat": "research",
+          "src": "chrome",
+          "title": "H$^2$R: Hierarchical Hindsight Reflection for Multi-Task LLM",
+          "note": "emergentmind.com"
         },
         {
           "start": "21:04",
@@ -14332,38 +30724,38 @@
         },
         {
           "start": "21:05",
-          "end": "21:21",
-          "cat": "research",
-          "src": "chrome",
-          "title": "H$^2$R: Hierarchical Hindsight Reflection for Multi-Task LLM",
-          "note": "emergentmind.com"
-        },
-        {
-          "start": "21:21",
-          "end": "21:28",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
-        },
-        {
-          "start": "21:28",
-          "end": "21:34",
+          "end": "21:25",
           "cat": "research",
           "src": "macos",
           "title": "zotero",
           "note": "org.zotero.zotero"
         },
         {
-          "start": "21:34",
-          "end": "21:35",
+          "start": "21:25",
+          "end": "21:28",
           "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
+          "src": "chrome",
+          "title": "Paper page - LLM Agents Making Agent Tools",
+          "note": "hf.co"
         },
         {
-          "start": "21:35",
+          "start": "21:28",
+          "end": "21:30",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "21:30",
+          "end": "21:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "21:33",
           "end": "21:39",
           "cat": "research",
           "src": "macos",
@@ -14372,14 +30764,14 @@
         },
         {
           "start": "21:39",
-          "end": "21:44",
+          "end": "21:41",
           "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
+          "src": "chrome",
+          "title": "Paper page - LLM Agents Making Agent Tools",
+          "note": "hf.co"
         },
         {
-          "start": "21:44",
+          "start": "21:41",
           "end": "21:48",
           "cat": "research",
           "src": "macos",
@@ -14388,30 +30780,246 @@
         },
         {
           "start": "21:48",
-          "end": "21:52",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
-        },
-        {
-          "start": "21:52",
-          "end": "22:02",
+          "end": "22:00",
           "cat": "personal",
           "src": "chrome",
           "title": "the meaning of contingent - Google Search",
           "note": "google.com"
+        },
+        {
+          "start": "22:00",
+          "end": "22:02",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "22:38",
+          "end": "22:41",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "3 hits"
+        },
+        {
+          "start": "22:55",
+          "end": "22:58",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "23:10",
+          "end": "23:13",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "23:27",
+          "end": "23:30",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "23:43",
+          "end": "23:46",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "23:53",
+          "end": "23:56",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "00:11",
+          "end": "00:14",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "00:26",
+          "end": "00:29",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
+        },
+        {
+          "start": "00:44",
+          "end": "00:47",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
+        },
+        {
+          "start": "00:59",
+          "end": "01:02",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "01:16",
+          "end": "01:19",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "01:33",
+          "end": "01:36",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "01:48",
+          "end": "01:51",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "02:03",
+          "end": "02:06",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "02:21",
+          "end": "02:24",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "02:38",
+          "end": "02:41",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "02:54",
+          "end": "02:57",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "03:09",
+          "end": "03:12",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "03:27",
+          "end": "03:30",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
+        },
+        {
+          "start": "03:45",
+          "end": "03:48",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
+        },
+        {
+          "start": "04:01",
+          "end": "04:04",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "04:18",
+          "end": "04:21",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "04:35",
+          "end": "04:38",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "04:52",
+          "end": "04:55",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "05:10",
+          "end": "05:13",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "05:27",
+          "end": "05:30",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "05:42",
+          "end": "05:45",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
         }
       ],
-      "logged": 552,
-      "real": 415,
-      "deep": 415,
-      "ratio": 0.7522793003509256,
+      "logged": 692,
+      "real": 565,
+      "deep": 565,
+      "ratio": 0.8174079817932566,
       "stats": {
-        "contextSwitches": 73,
-        "tabsOpened": 132,
-        "longestFocus": "1h 31m",
-        "justOneMoreThing": 12
+        "contextSwitches": 81,
+        "tabsOpened": 123,
+        "longestFocus": "1h 27m",
+        "justOneMoreThing": 9
       }
     },
     {
@@ -14421,16 +31029,136 @@
       "weekend": false,
       "dateShort": "Tue, Jun 23",
       "dateLong": "Tuesday, June 23",
-      "dayStart": "10:03",
-      "dayEnd": "23:53",
+      "dayStart": "06:00",
+      "dayEnd": "05:54",
       "events": [
         {
-          "start": "10:03",
-          "end": "10:07",
+          "start": "06:00",
+          "end": "06:03",
           "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "06:17",
+          "end": "06:20",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
+        },
+        {
+          "start": "06:34",
+          "end": "06:37",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
+        },
+        {
+          "start": "06:50",
+          "end": "06:53",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "07:08",
+          "end": "07:11",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "07:23",
+          "end": "07:26",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "07:39",
+          "end": "07:45",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "10 hits"
+        },
+        {
+          "start": "07:59",
+          "end": "08:02",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "08:14",
+          "end": "08:17",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "08:31",
+          "end": "08:34",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "08:46",
+          "end": "08:49",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "09:00",
+          "end": "09:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "09:12",
+          "end": "09:15",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "09:43",
+          "end": "09:46",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "10:02",
+          "end": "10:06",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "10:06",
+          "end": "10:07",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Google Translate",
+          "note": "translate.google.com"
         },
         {
           "start": "10:08",
@@ -14466,14 +31194,22 @@
         },
         {
           "start": "10:21",
-          "end": "10:32",
+          "end": "10:29",
           "cat": "research",
           "src": "macos",
           "title": "zotero",
           "note": "org.zotero.zotero"
         },
         {
-          "start": "10:32",
+          "start": "10:30",
+          "end": "10:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "10:33",
           "end": "10:38",
           "cat": "admin",
           "src": "chrome",
@@ -14481,12 +31217,28 @@
           "note": "umd.edu"
         },
         {
+          "start": "10:38",
+          "end": "10:38",
+          "cat": "coding",
+          "src": "claude",
+          "title": "AI builders/research digest missing posts",
+          "note": "21 hits"
+        },
+        {
           "start": "10:39",
           "end": "10:41",
           "cat": "coding",
-          "src": "chrome",
-          "title": "Salesloft Platform | Salesloft API",
-          "note": "developers.salesloft.com"
+          "src": "claude",
+          "title": "AI builders/research digest missing posts",
+          "note": "21 hits"
+        },
+        {
+          "start": "10:41",
+          "end": "10:41",
+          "cat": "coding",
+          "src": "claude",
+          "title": "AI builders/research digest missing posts",
+          "note": "21 hits"
         },
         {
           "start": "10:41",
@@ -14508,28 +31260,20 @@
           "start": "10:44",
           "end": "10:47",
           "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
+          "src": "claude",
+          "title": "AI builders/research digest missing posts",
+          "note": "93 hits"
         },
         {
           "start": "10:47",
-          "end": "10:49",
-          "cat": "personal",
-          "src": "chrome",
-          "title": "Talk to Sales | Salesloft",
-          "note": "google.com"
-        },
-        {
-          "start": "10:49",
-          "end": "10:54",
+          "end": "10:53",
           "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
+          "src": "claude",
+          "title": "AI builders/research digest missing posts",
+          "note": "93 hits"
         },
         {
-          "start": "10:54",
+          "start": "10:53",
           "end": "11:00",
           "cat": "personal",
           "src": "chrome",
@@ -14538,14 +31282,14 @@
         },
         {
           "start": "11:00",
-          "end": "11:01",
-          "cat": "personal",
-          "src": "chrome",
-          "title": "Talk to Sales | Salesloft",
-          "note": "google.com"
+          "end": "11:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
         },
         {
-          "start": "11:01",
+          "start": "11:03",
           "end": "11:05",
           "cat": "research",
           "src": "chrome",
@@ -14586,43 +31330,19 @@
         },
         {
           "start": "11:20",
-          "end": "11:22",
+          "end": "11:30",
           "cat": "research",
           "src": "chrome",
           "title": "Codex-maxxing for long-running work | Ada's Notes",
           "note": "adaren100.github.io"
         },
         {
-          "start": "11:22",
-          "end": "11:24",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
-        },
-        {
-          "start": "11:24",
-          "end": "11:28",
-          "cat": "research",
-          "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
-        },
-        {
-          "start": "11:28",
-          "end": "11:32",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
-        },
-        {
-          "start": "11:32",
+          "start": "11:30",
           "end": "11:33",
-          "cat": "research",
-          "src": "chrome",
-          "title": "pdf",
-          "note": "openreview.net"
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
         },
         {
           "start": "11:33",
@@ -14634,94 +31354,62 @@
         },
         {
           "start": "11:34",
-          "end": "11:36",
+          "end": "11:37",
           "cat": "coding",
           "src": "macos",
           "title": "VSCode",
           "note": "com.microsoft.VSCode"
         },
         {
-          "start": "11:36",
-          "end": "11:37",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
-        },
-        {
           "start": "11:37",
           "end": "11:39",
           "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
+          "src": "vscode",
+          "title": "VS Code · toolsmith.py",
+          "note": "1 hit"
         },
         {
           "start": "11:39",
           "end": "11:52",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
-        },
-        {
-          "start": "11:52",
-          "end": "11:56",
-          "cat": "research",
-          "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
-        },
-        {
-          "start": "11:56",
-          "end": "11:57",
           "cat": "admin",
           "src": "chrome",
           "title": "Google Translate",
           "note": "translate.google.com"
         },
         {
-          "start": "11:57",
-          "end": "12:03",
+          "start": "11:52",
+          "end": "12:00",
           "cat": "research",
           "src": "macos",
           "title": "zotero",
           "note": "org.zotero.zotero"
+        },
+        {
+          "start": "12:00",
+          "end": "12:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
         },
         {
           "start": "12:03",
           "end": "12:05",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Google Translate",
-          "note": "translate.google.com"
-        },
-        {
-          "start": "12:05",
-          "end": "12:10",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
-        },
-        {
-          "start": "12:10",
-          "end": "12:12",
           "cat": "research",
           "src": "macos",
           "title": "zotero",
           "note": "org.zotero.zotero"
         },
         {
-          "start": "12:12",
-          "end": "12:13",
+          "start": "12:05",
+          "end": "12:10",
           "cat": "admin",
           "src": "chrome",
           "title": "Google Translate",
           "note": "translate.google.com"
         },
         {
-          "start": "12:13",
+          "start": "12:10",
           "end": "12:15",
           "cat": "research",
           "src": "macos",
@@ -14731,10 +31419,10 @@
         {
           "start": "12:15",
           "end": "12:17",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Google Translate",
+          "note": "translate.google.com"
         },
         {
           "start": "12:17",
@@ -14751,6 +31439,22 @@
           "src": "chrome",
           "title": "Google Translate",
           "note": "translate.google.com"
+        },
+        {
+          "start": "12:30",
+          "end": "12:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "13:00",
+          "end": "13:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
         },
         {
           "start": "13:03",
@@ -14794,59 +31498,43 @@
         },
         {
           "start": "13:28",
-          "end": "13:29",
+          "end": "13:30",
           "cat": "research",
           "src": "macos",
           "title": "zotero",
           "note": "org.zotero.zotero"
-        },
-        {
-          "start": "13:29",
-          "end": "13:30",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Qualtrics Survey | Qualtrics Experience Management",
-          "note": "translate.google.com"
         },
         {
           "start": "13:30",
+          "end": "13:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
+        },
+        {
+          "start": "13:33",
           "end": "13:35",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
-        },
-        {
-          "start": "13:35",
-          "end": "13:46",
-          "cat": "research",
-          "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
-        },
-        {
-          "start": "13:46",
-          "end": "13:48",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
-        },
-        {
-          "start": "13:48",
-          "end": "13:48",
           "cat": "admin",
           "src": "chrome",
           "title": "Qualtrics Survey | Qualtrics Experience Management",
           "note": "translate.google.com"
+        },
+        {
+          "start": "13:35",
+          "end": "13:48",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
         },
         {
           "start": "13:48",
           "end": "13:50",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Qualtrics Survey | Qualtrics Experience Management",
+          "note": "translate.google.com"
         },
         {
           "start": "13:52",
@@ -14866,14 +31554,22 @@
         },
         {
           "start": "13:59",
-          "end": "14:02",
+          "end": "14:00",
           "cat": "personal",
           "src": "chrome",
           "title": "韩尚佑，抖音系一个打过仗的太子 - 知乎",
           "note": "zhuanlan.zhihu.com"
         },
         {
-          "start": "14:02",
+          "start": "14:00",
+          "end": "14:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "14:03",
           "end": "14:05",
           "cat": "research",
           "src": "macos",
@@ -14889,79 +31585,63 @@
           "note": "translate.google.com"
         },
         {
+          "start": "14:30",
+          "end": "14:31",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
           "start": "14:31",
           "end": "14:33",
-          "cat": "research",
-          "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
         },
         {
           "start": "14:33",
-          "end": "14:34",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
-        },
-        {
-          "start": "14:34",
-          "end": "14:46",
+          "end": "14:54",
           "cat": "research",
           "src": "macos",
           "title": "zotero",
           "note": "org.zotero.zotero"
         },
         {
-          "start": "14:46",
-          "end": "14:47",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
-        },
-        {
-          "start": "14:47",
-          "end": "14:48",
+          "start": "14:54",
+          "end": "14:54",
           "cat": "admin",
           "src": "chrome",
           "title": "Google Translate",
           "note": "translate.google.com"
         },
         {
-          "start": "14:48",
-          "end": "14:54",
-          "cat": "research",
-          "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
-        },
-        {
-          "start": "14:54",
-          "end": "14:54",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
-        },
-        {
           "start": "14:54",
           "end": "14:59",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
+          "cat": "personal",
+          "src": "chrome",
+          "title": "下半輩子 • Jordan Chan",
+          "note": "open.spotify.com"
         },
         {
-          "start": "14:59",
+          "start": "15:00",
           "end": "15:00",
-          "cat": "research",
-          "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
         },
         {
           "start": "15:01",
+          "end": "15:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "15:03",
           "end": "15:05",
           "cat": "research",
           "src": "macos",
@@ -14970,62 +31650,30 @@
         },
         {
           "start": "15:07",
-          "end": "15:18",
+          "end": "15:16",
           "cat": "personal",
           "src": "chrome",
           "title": "The 4 Properties of AI | Claude",
           "note": "google.com"
         },
         {
-          "start": "15:18",
-          "end": "15:19",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
-        },
-        {
-          "start": "15:20",
-          "end": "15:25",
+          "start": "15:16",
+          "end": "15:30",
           "cat": "research",
           "src": "macos",
           "title": "zotero",
           "note": "org.zotero.zotero"
         },
         {
-          "start": "15:25",
-          "end": "15:26",
-          "cat": "personal",
-          "src": "chrome",
-          "title": "The 4 Properties of AI | Claude",
-          "note": "google.com"
-        },
-        {
-          "start": "15:26",
-          "end": "15:27",
+          "start": "15:30",
+          "end": "15:33",
           "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
         },
         {
-          "start": "15:27",
-          "end": "15:32",
-          "cat": "research",
-          "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
-        },
-        {
-          "start": "15:32",
-          "end": "15:34",
-          "cat": "personal",
-          "src": "chrome",
-          "title": "(42) How steerability affects generative AI outputs - YouTub",
-          "note": "youtube.com"
-        },
-        {
-          "start": "15:34",
+          "start": "15:33",
           "end": "15:35",
           "cat": "research",
           "src": "macos",
@@ -15034,14 +31682,6 @@
         },
         {
           "start": "15:35",
-          "end": "15:37",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
-        },
-        {
-          "start": "15:37",
           "end": "15:39",
           "cat": "personal",
           "src": "chrome",
@@ -15066,94 +31706,110 @@
         },
         {
           "start": "15:55",
-          "end": "16:11",
+          "end": "16:00",
           "cat": "research",
           "src": "chrome",
           "title": "google/bigbench · Datasets at Hugging Face",
           "note": "huggingface.co"
         },
         {
-          "start": "16:11",
-          "end": "16:13",
+          "start": "16:00",
+          "end": "16:03",
           "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
         },
         {
-          "start": "16:13",
-          "end": "16:17",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
+          "start": "16:03",
+          "end": "16:15",
+          "cat": "research",
+          "src": "chrome",
+          "title": "google/bigbench · Datasets at Hugging Face",
+          "note": "huggingface.co"
         },
         {
-          "start": "16:17",
-          "end": "16:25",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
-        },
-        {
-          "start": "16:25",
-          "end": "16:29",
+          "start": "16:24",
+          "end": "16:30",
           "cat": "research",
           "src": "chrome",
           "title": "Statement on the US government directive to suspend access t",
           "note": "arxiv.org"
         },
         {
-          "start": "16:29",
+          "start": "16:30",
+          "end": "16:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "16:33",
           "end": "16:38",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
-        },
-        {
-          "start": "16:38",
-          "end": "16:59",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
-        },
-        {
-          "start": "16:59",
-          "end": "17:02",
           "cat": "research",
           "src": "chrome",
-          "title": "arxiv.org",
+          "title": "Statement on the US government directive to suspend access t",
           "note": "arxiv.org"
         },
         {
-          "start": "17:02",
-          "end": "17:07",
+          "start": "16:38",
+          "end": "16:42",
           "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
-        },
-        {
-          "start": "17:07",
-          "end": "17:08",
-          "cat": "personal",
           "src": "chrome",
-          "title": "rochester institute of technology - Google Search",
-          "note": "google.com"
+          "title": "Quantifying infrastructure noise in agentic coding evals \\ A",
+          "note": "developers.openai.com"
         },
         {
-          "start": "17:08",
-          "end": "17:14",
+          "start": "16:42",
+          "end": "16:44",
           "cat": "research",
           "src": "macos",
           "title": "zotero",
           "note": "org.zotero.zotero"
         },
         {
-          "start": "17:15",
+          "start": "16:44",
+          "end": "16:52",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Quantifying infrastructure noise in agentic coding evals \\ A",
+          "note": "developers.openai.com"
+        },
+        {
+          "start": "16:52",
+          "end": "16:59",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "16:59",
+          "end": "17:00",
+          "cat": "research",
+          "src": "chrome",
+          "title": "arxiv.org",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "17:00",
+          "end": "17:02",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "17:02",
+          "end": "17:07",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "17:07",
           "end": "17:20",
           "cat": "research",
           "src": "macos",
@@ -15162,11 +31818,27 @@
         },
         {
           "start": "17:20",
-          "end": "17:40",
+          "end": "17:30",
           "cat": "research",
           "src": "chrome",
           "title": "[2309.17428] CRAFT: Customizing LLMs by Creating and Retriev",
           "note": "arxiv.org"
+        },
+        {
+          "start": "17:30",
+          "end": "17:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "17:33",
+          "end": "17:40",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
         },
         {
           "start": "17:40",
@@ -15178,14 +31850,22 @@
         },
         {
           "start": "17:52",
-          "end": "18:02",
+          "end": "18:00",
           "cat": "personal",
           "src": "chrome",
           "title": "hoyeon jung - Google Search",
           "note": "google.com"
         },
         {
-          "start": "18:02",
+          "start": "18:00",
+          "end": "18:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "18:03",
           "end": "18:04",
           "cat": "research",
           "src": "macos",
@@ -15201,12 +31881,124 @@
           "note": "sixthtone.com"
         },
         {
+          "start": "18:30",
+          "end": "18:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
+        },
+        {
+          "start": "19:00",
+          "end": "19:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "19:30",
+          "end": "19:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
           "start": "19:49",
+          "end": "20:01",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Temu Australia | Explore the Latest Clothing, Beauty, Home, ",
+          "note": "temu.com"
+        },
+        {
+          "start": "20:01",
+          "end": "20:04",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "20:04",
           "end": "20:12",
           "cat": "personal",
           "src": "chrome",
           "title": "Temu Australia | Explore the Latest Clothing, Beauty, Home, ",
           "note": "temu.com"
+        },
+        {
+          "start": "20:42",
+          "end": "20:45",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "3 hits"
+        },
+        {
+          "start": "20:58",
+          "end": "21:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "12 hits"
+        },
+        {
+          "start": "21:32",
+          "end": "21:35",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "21:49",
+          "end": "21:52",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "21:59",
+          "end": "22:02",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "3 hits"
+        },
+        {
+          "start": "22:18",
+          "end": "22:21",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "22:35",
+          "end": "22:38",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "22:52",
+          "end": "22:55",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "23:01",
+          "end": "23:04",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "8 hits"
         },
         {
           "start": "23:20",
@@ -15226,19 +32018,27 @@
         },
         {
           "start": "23:24",
-          "end": "23:33",
+          "end": "23:30",
           "cat": "research",
           "src": "macos",
           "title": "zotero",
           "note": "org.zotero.zotero"
         },
         {
-          "start": "23:33",
-          "end": "23:35",
+          "start": "23:30",
+          "end": "23:33",
           "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "23:33",
+          "end": "23:33",
+          "cat": "research",
           "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
+          "title": "zotero",
+          "note": "org.zotero.zotero"
         },
         {
           "start": "23:35",
@@ -15247,17 +32047,201 @@
           "src": "macos",
           "title": "zotero",
           "note": "org.zotero.zotero"
+        },
+        {
+          "start": "00:09",
+          "end": "00:12",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "3 hits"
+        },
+        {
+          "start": "00:26",
+          "end": "00:29",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "00:43",
+          "end": "00:46",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "00:59",
+          "end": "01:02",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "01:15",
+          "end": "01:18",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "01:30",
+          "end": "01:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "01:38",
+          "end": "01:41",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "01:54",
+          "end": "01:57",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "02:12",
+          "end": "02:15",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "02:29",
+          "end": "02:32",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "02:46",
+          "end": "02:49",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
+        },
+        {
+          "start": "03:03",
+          "end": "03:06",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
+        },
+        {
+          "start": "03:18",
+          "end": "03:21",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "03:33",
+          "end": "03:36",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "03:51",
+          "end": "03:54",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "04:09",
+          "end": "04:12",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "04:26",
+          "end": "04:29",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "04:42",
+          "end": "04:45",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "04:59",
+          "end": "05:02",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "05:14",
+          "end": "05:17",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "05:30",
+          "end": "05:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
+        },
+        {
+          "start": "05:46",
+          "end": "05:49",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
+        },
+        {
+          "start": "05:51",
+          "end": "05:54",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
         }
       ],
-      "logged": 500,
-      "real": 389,
-      "deep": 389,
-      "ratio": 0.7778950071209764,
+      "logged": 655,
+      "real": 527,
+      "deep": 527,
+      "ratio": 0.8050948342139171,
       "stats": {
-        "contextSwitches": 80,
-        "tabsOpened": 117,
-        "longestFocus": "1h 10m",
-        "justOneMoreThing": 20
+        "contextSwitches": 81,
+        "tabsOpened": 120,
+        "longestFocus": "2h 10m",
+        "justOneMoreThing": 18
       }
     },
     {
@@ -15267,11 +32251,123 @@
       "weekend": false,
       "dateShort": "Wed, Jun 24",
       "dateLong": "Wednesday, June 24",
-      "dayStart": "09:53",
-      "dayEnd": "18:29",
+      "dayStart": "06:09",
+      "dayEnd": "05:58",
       "events": [
         {
-          "start": "09:53",
+          "start": "06:09",
+          "end": "06:12",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "06:25",
+          "end": "06:28",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "06:42",
+          "end": "06:45",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "07:00",
+          "end": "07:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "07:15",
+          "end": "07:19",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "07:32",
+          "end": "07:35",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "07:48",
+          "end": "07:55",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "10 hits"
+        },
+        {
+          "start": "08:11",
+          "end": "08:14",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "08:27",
+          "end": "08:30",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
+        },
+        {
+          "start": "08:44",
+          "end": "08:47",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
+        },
+        {
+          "start": "08:53",
+          "end": "08:56",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "09:16",
+          "end": "09:19",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "09:34",
+          "end": "09:37",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "09:49",
+          "end": "09:54",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "16 hits"
+        },
+        {
+          "start": "09:54",
           "end": "10:00",
           "cat": "research",
           "src": "macos",
@@ -15280,14 +32376,14 @@
         },
         {
           "start": "10:00",
-          "end": "10:02",
-          "cat": "personal",
-          "src": "chrome",
-          "title": "奖金10万元？河池一男子交6500元参加“自律挑战”，结果……",
-          "note": "m.huanqiu.com"
+          "end": "10:04",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · ada",
+          "note": "41 hits"
         },
         {
-          "start": "10:02",
+          "start": "10:04",
           "end": "10:06",
           "cat": "admin",
           "src": "macos",
@@ -15304,22 +32400,22 @@
         },
         {
           "start": "10:12",
-          "end": "10:16",
+          "end": "10:19",
           "cat": "personal",
           "src": "chrome",
           "title": "Wirex | Login To Wirex",
           "note": "google.com"
         },
         {
-          "start": "10:16",
-          "end": "10:19",
+          "start": "10:19",
+          "end": "10:20",
           "cat": "coding",
           "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
+          "title": "iterm2",
+          "note": "com.googlecode.iterm2"
         },
         {
-          "start": "10:19",
+          "start": "10:20",
           "end": "10:23",
           "cat": "personal",
           "src": "chrome",
@@ -15336,27 +32432,43 @@
         },
         {
           "start": "10:28",
-          "end": "10:32",
+          "end": "10:30",
           "cat": "personal",
           "src": "chrome",
           "title": "Wirex | Login To Wirex",
           "note": "google.com"
         },
         {
-          "start": "10:32",
-          "end": "10:33",
+          "start": "10:30",
+          "end": "10:34",
           "cat": "coding",
-          "src": "chrome",
-          "title": "Wirex | Crypto-Friendly Currency Accounts",
-          "note": "app.wirexapp.com"
+          "src": "claude",
+          "title": "Claude session · ada",
+          "note": "29 hits"
         },
         {
-          "start": "10:33",
-          "end": "10:36",
+          "start": "10:34",
+          "end": "10:35",
           "cat": "admin",
           "src": "chrome",
           "title": "New Device Login Detected on Your Wirex Account - ada.ren.cn",
           "note": "mail.google.com"
+        },
+        {
+          "start": "10:35",
+          "end": "10:36",
+          "cat": "writing",
+          "src": "macos",
+          "title": "obsidian",
+          "note": "md.obsidian"
+        },
+        {
+          "start": "10:36",
+          "end": "10:36",
+          "cat": "writing",
+          "src": "macos",
+          "title": "obsidian",
+          "note": "md.obsidian"
         },
         {
           "start": "10:36",
@@ -15376,14 +32488,6 @@
         },
         {
           "start": "10:44",
-          "end": "10:47",
-          "cat": "research",
-          "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
-        },
-        {
-          "start": "10:48",
           "end": "10:49",
           "cat": "research",
           "src": "macos",
@@ -15391,7 +32495,15 @@
           "note": "org.zotero.zotero"
         },
         {
-          "start": "11:02",
+          "start": "11:00",
+          "end": "11:02",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "9 hits"
+        },
+        {
+          "start": "11:03",
           "end": "11:05",
           "cat": "admin",
           "src": "chrome",
@@ -15424,6 +32536,14 @@
         },
         {
           "start": "11:30",
+          "end": "11:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "8 hits"
+        },
+        {
+          "start": "11:33",
           "end": "11:47",
           "cat": "meeting",
           "src": "macos",
@@ -15448,14 +32568,22 @@
         },
         {
           "start": "11:54",
-          "end": "12:02",
+          "end": "12:00",
           "cat": "meeting",
           "src": "macos",
           "title": "xos",
           "note": "us.zoom.xos"
         },
         {
-          "start": "12:02",
+          "start": "12:00",
+          "end": "12:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "12:03",
           "end": "12:05",
           "cat": "research",
           "src": "chrome",
@@ -15480,14 +32608,30 @@
         },
         {
           "start": "12:23",
-          "end": "12:32",
+          "end": "12:30",
           "cat": "meeting",
           "src": "macos",
           "title": "xos",
           "note": "us.zoom.xos"
         },
         {
+          "start": "12:30",
+          "end": "12:32",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "8 hits"
+        },
+        {
           "start": "12:32",
+          "end": "12:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "8 hits"
+        },
+        {
+          "start": "12:33",
           "end": "12:37",
           "cat": "research",
           "src": "chrome",
@@ -15496,6 +32640,22 @@
         },
         {
           "start": "12:37",
+          "end": "13:00",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "xos",
+          "note": "us.zoom.xos"
+        },
+        {
+          "start": "13:00",
+          "end": "13:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "13:03",
           "end": "13:04",
           "cat": "meeting",
           "src": "macos",
@@ -15512,6 +32672,22 @@
         },
         {
           "start": "13:19",
+          "end": "13:30",
+          "cat": "research",
+          "src": "chrome",
+          "title": "RISER: Orchestrating Latent Reasoning Skills for Adaptive Ac",
+          "note": "sakana.ai"
+        },
+        {
+          "start": "13:30",
+          "end": "13:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "13:33",
           "end": "13:39",
           "cat": "research",
           "src": "chrome",
@@ -15527,7 +32703,15 @@
           "note": "us.zoom.xos"
         },
         {
-          "start": "14:01",
+          "start": "14:00",
+          "end": "14:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "14:03",
           "end": "14:24",
           "cat": "meeting",
           "src": "macos",
@@ -15543,7 +32727,47 @@
           "note": "transformer-circuits.pub"
         },
         {
-          "start": "16:01",
+          "start": "14:34",
+          "end": "14:37",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "8 hits"
+        },
+        {
+          "start": "15:12",
+          "end": "15:15",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "15:29",
+          "end": "15:32",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "15:45",
+          "end": "15:48",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "3 hits"
+        },
+        {
+          "start": "15:55",
+          "end": "16:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "13 hits"
+        },
+        {
+          "start": "16:03",
           "end": "16:04",
           "cat": "research",
           "src": "chrome",
@@ -15567,12 +32791,20 @@
           "note": "aclanthology.org"
         },
         {
+          "start": "16:30",
+          "end": "16:30",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
           "start": "16:31",
           "end": "16:32",
-          "cat": "research",
-          "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
         },
         {
           "start": "16:33",
@@ -15624,38 +32856,38 @@
         },
         {
           "start": "16:49",
-          "end": "16:55",
+          "end": "17:00",
           "cat": "research",
           "src": "chrome",
           "title": "Sentient Labs: The home for open-source AI reasoning",
           "note": "sentient.xyz"
         },
         {
-          "start": "16:55",
+          "start": "17:00",
           "end": "17:01",
           "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
         },
         {
           "start": "17:01",
           "end": "17:03",
           "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
+          "start": "17:03",
+          "end": "17:03",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Sentient Labs: The home for open-source AI reasoning",
+          "note": "sentient.xyz"
         },
         {
           "start": "17:04",
-          "end": "17:05",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Yahoo Finance - Stock Market Live, Quotes, Business & Financ",
-          "note": "finance.yahoo.com"
-        },
-        {
-          "start": "17:05",
           "end": "17:13",
           "cat": "coding",
           "src": "macos",
@@ -15672,15 +32904,7 @@
         },
         {
           "start": "17:18",
-          "end": "17:19",
-          "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
-        },
-        {
-          "start": "17:20",
-          "end": "17:33",
+          "end": "17:32",
           "cat": "coding",
           "src": "macos",
           "title": "VSCode",
@@ -15696,31 +32920,31 @@
         },
         {
           "start": "17:49",
-          "end": "17:54",
+          "end": "17:56",
           "cat": "research",
           "src": "chrome",
           "title": "tool-genesis/Tool-Genesis-Benchmark · Datasets at Hugging Fa",
           "note": "huggingface.co"
         },
         {
-          "start": "17:54",
-          "end": "17:58",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
-        },
-        {
-          "start": "17:58",
-          "end": "18:03",
+          "start": "17:56",
+          "end": "18:00",
           "cat": "coding",
           "src": "macos",
           "title": "VSCode",
           "note": "com.microsoft.VSCode"
         },
         {
+          "start": "18:00",
+          "end": "18:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "7 hits"
+        },
+        {
           "start": "18:03",
-          "end": "18:06",
+          "end": "18:05",
           "cat": "coding",
           "src": "macos",
           "title": "VSCode",
@@ -15729,18 +32953,18 @@
         {
           "start": "18:06",
           "end": "18:07",
-          "cat": "admin",
-          "src": "macos",
-          "title": "Excel",
-          "note": "com.microsoft.Excel"
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · spreadsheet",
+          "note": "17 hits"
         },
         {
           "start": "18:08",
           "end": "18:09",
           "cat": "coding",
-          "src": "chrome",
-          "title": "RUCKBReasoning/SpreadsheetBench: SpreadsheetBench: Towards C",
-          "note": "github.com"
+          "src": "claude",
+          "title": "Claude session · spreadsheet",
+          "note": "17 hits"
         },
         {
           "start": "18:09",
@@ -15749,17 +32973,329 @@
           "src": "macos",
           "title": "Excel",
           "note": "com.microsoft.Excel"
+        },
+        {
+          "start": "18:34",
+          "end": "18:37",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "3 hits"
+        },
+        {
+          "start": "18:49",
+          "end": "18:52",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "19:05",
+          "end": "19:08",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
+        },
+        {
+          "start": "19:21",
+          "end": "19:24",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
+        },
+        {
+          "start": "19:38",
+          "end": "19:41",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "19:55",
+          "end": "19:58",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "20:11",
+          "end": "20:14",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "20:29",
+          "end": "20:32",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "13 hits"
+        },
+        {
+          "start": "20:45",
+          "end": "20:48",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "21:00",
+          "end": "21:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "11 hits"
+        },
+        {
+          "start": "21:46",
+          "end": "21:49",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "22:04",
+          "end": "22:07",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "22:30",
+          "end": "22:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "22:47",
+          "end": "22:50",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "23:04",
+          "end": "23:07",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "23:32",
+          "end": "23:35",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "23:50",
+          "end": "23:53",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "00:06",
+          "end": "00:09",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "00:22",
+          "end": "00:25",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "00:38",
+          "end": "00:41",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "00:56",
+          "end": "00:59",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "01:11",
+          "end": "01:14",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "01:27",
+          "end": "01:30",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "01:44",
+          "end": "01:47",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "02:01",
+          "end": "02:04",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "02:17",
+          "end": "02:20",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "02:33",
+          "end": "02:36",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "02:49",
+          "end": "02:52",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "03:05",
+          "end": "03:08",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "03:22",
+          "end": "03:25",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "03:40",
+          "end": "03:43",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "03:56",
+          "end": "03:59",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "04:14",
+          "end": "04:17",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "04:32",
+          "end": "04:35",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "04:48",
+          "end": "04:51",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "05:04",
+          "end": "05:07",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "05:21",
+          "end": "05:24",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "05:37",
+          "end": "05:40",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "05:55",
+          "end": "05:58",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
         }
       ],
-      "logged": 384,
-      "real": 327,
-      "deep": 327,
-      "ratio": 0.8517177827672381,
+      "logged": 569,
+      "real": 522,
+      "deep": 522,
+      "ratio": 0.9167236468208912,
       "stats": {
-        "contextSwitches": 44,
-        "tabsOpened": 72,
-        "longestFocus": "1h 56m",
-        "justOneMoreThing": 9
+        "contextSwitches": 58,
+        "tabsOpened": 66,
+        "longestFocus": "2h 15m",
+        "justOneMoreThing": 10
       }
     },
     {
@@ -15769,16 +33305,136 @@
       "weekend": false,
       "dateShort": "Thu, Jun 25",
       "dateLong": "Thursday, June 25",
-      "dayStart": "10:12",
-      "dayEnd": "18:09",
+      "dayStart": "06:10",
+      "dayEnd": "05:59",
       "events": [
+        {
+          "start": "06:10",
+          "end": "06:13",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "06:27",
+          "end": "06:30",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "06:45",
+          "end": "06:48",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "07:00",
+          "end": "07:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "07:16",
+          "end": "07:19",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "07:33",
+          "end": "07:36",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "07:49",
+          "end": "07:52",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "08:05",
+          "end": "08:08",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "08:22",
+          "end": "08:25",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "08:38",
+          "end": "08:41",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "08:54",
+          "end": "08:57",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "09:16",
+          "end": "09:19",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "09:34",
+          "end": "09:37",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "09:51",
+          "end": "09:54",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "10:01",
+          "end": "10:04",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · ada",
+          "note": "6 hits"
+        },
         {
           "start": "10:12",
           "end": "10:20",
           "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "50 hits"
         },
         {
           "start": "10:20",
@@ -15806,19 +33462,19 @@
         },
         {
           "start": "10:28",
-          "end": "10:31",
+          "end": "10:30",
           "cat": "research",
           "src": "chrome",
           "title": "LLM2CLIP: Powerful Language Model Unlocks Richer Cross-Modal",
           "note": "scholar.google.com"
         },
         {
-          "start": "10:31",
+          "start": "10:30",
           "end": "10:34",
           "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "src": "claude",
+          "title": "Claude session · ada",
+          "note": "29 hits"
         },
         {
           "start": "10:34",
@@ -15854,19 +33510,27 @@
         },
         {
           "start": "10:59",
-          "end": "11:01",
+          "end": "11:03",
           "cat": "coding",
           "src": "macos",
           "title": "VSCode",
           "note": "com.microsoft.VSCode"
         },
         {
-          "start": "11:01",
+          "start": "11:03",
           "end": "11:04",
           "cat": "writing",
           "src": "local",
           "title": "Paper Reading.md",
           "note": "1 hit"
+        },
+        {
+          "start": "11:30",
+          "end": "11:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
         },
         {
           "start": "11:35",
@@ -15917,6 +33581,14 @@
           "note": "youtube.com"
         },
         {
+          "start": "12:30",
+          "end": "12:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
           "start": "12:36",
           "end": "12:45",
           "cat": "coding",
@@ -15950,14 +33622,14 @@
         },
         {
           "start": "12:57",
-          "end": "13:44",
+          "end": "13:33",
           "cat": "coding",
           "src": "macos",
           "title": "VSCode",
           "note": "com.microsoft.VSCode"
         },
         {
-          "start": "13:44",
+          "start": "13:33",
           "end": "13:53",
           "cat": "coding",
           "src": "macos",
@@ -15974,206 +33646,110 @@
         },
         {
           "start": "13:54",
-          "end": "13:57",
-          "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
-        },
-        {
-          "start": "13:57",
-          "end": "14:02",
-          "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
-        },
-        {
-          "start": "14:02",
-          "end": "14:17",
-          "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
-        },
-        {
-          "start": "14:18",
-          "end": "14:19",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
-        },
-        {
-          "start": "14:20",
           "end": "14:22",
           "cat": "coding",
           "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
         },
         {
           "start": "14:22",
-          "end": "14:25",
+          "end": "14:40",
           "cat": "coding",
-          "src": "chrome",
-          "title": "New chat - Claude",
-          "note": "claude.ai"
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "318 hits"
         },
         {
-          "start": "14:25",
-          "end": "14:26",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
-        },
-        {
-          "start": "14:26",
-          "end": "14:29",
-          "cat": "research",
-          "src": "chrome",
-          "title": "OpenAI and Broadcom unveil LLM-optimized inference chip | Op",
-          "note": "adaren100.github.io"
-        },
-        {
-          "start": "14:29",
-          "end": "14:31",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
-        },
-        {
-          "start": "14:31",
-          "end": "14:34",
-          "cat": "research",
-          "src": "chrome",
-          "title": "OpenAI and Broadcom unveil LLM-optimized inference chip | Op",
-          "note": "adaren100.github.io"
-        },
-        {
-          "start": "14:34",
-          "end": "14:35",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
-        },
-        {
-          "start": "14:35",
-          "end": "14:37",
-          "cat": "research",
-          "src": "chrome",
-          "title": "OpenAI and Broadcom unveil LLM-optimized inference chip | Op",
-          "note": "adaren100.github.io"
-        },
-        {
-          "start": "14:37",
+          "start": "14:40",
           "end": "14:49",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
+          "cat": "research",
+          "src": "chrome",
+          "title": "OpenAI and Broadcom unveil LLM-optimized inference chip | Op",
+          "note": "adaren100.github.io"
         },
         {
           "start": "14:49",
-          "end": "14:52",
-          "cat": "research",
-          "src": "chrome",
-          "title": "OpenAI and Broadcom unveil LLM-optimized inference chip | Op",
-          "note": "adaren100.github.io"
-        },
-        {
-          "start": "14:52",
-          "end": "14:59",
+          "end": "14:57",
           "cat": "coding",
           "src": "macos",
           "title": "VSCode",
           "note": "com.microsoft.VSCode"
         },
         {
-          "start": "15:22",
-          "end": "15:49",
+          "start": "15:00",
+          "end": "15:03",
           "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
         },
         {
-          "start": "15:53",
-          "end": "15:53",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
-        },
-        {
-          "start": "15:54",
-          "end": "15:56",
-          "cat": "writing",
-          "src": "local",
-          "title": "__probe__.txt",
-          "note": "1 hit"
-        },
-        {
-          "start": "15:56",
+          "start": "15:30",
           "end": "15:58",
           "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
         },
         {
           "start": "15:58",
+          "end": "16:02",
+          "cat": "coding",
+          "src": "local",
+          "title": "build_output.py",
+          "note": "4 hits"
+        },
+        {
+          "start": "16:04",
           "end": "16:10",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
-        },
-        {
-          "start": "16:11",
-          "end": "16:12",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Google Translate",
-          "note": "translate.google.com"
-        },
-        {
-          "start": "16:12",
-          "end": "16:19",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
-        },
-        {
-          "start": "16:19",
-          "end": "16:19",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Google Translate",
-          "note": "translate.google.com"
-        },
-        {
-          "start": "16:19",
-          "end": "16:31",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
-        },
-        {
-          "start": "16:31",
-          "end": "16:42",
           "cat": "coding",
           "src": "macos",
           "title": "VSCode",
           "note": "com.microsoft.VSCode"
         },
         {
-          "start": "16:43",
+          "start": "16:11",
+          "end": "16:19",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "16:19",
+          "end": "16:24",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:24",
+          "end": "16:30",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "16:30",
+          "end": "16:31",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "16:31",
+          "end": "16:34",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "16:42",
           "end": "16:49",
           "cat": "coding",
           "src": "macos",
@@ -16182,70 +33758,30 @@
         },
         {
           "start": "16:53",
-          "end": "16:57",
+          "end": "16:54",
           "cat": "coding",
           "src": "macos",
           "title": "VSCode",
           "note": "com.microsoft.VSCode"
         },
         {
-          "start": "16:57",
-          "end": "17:00",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
-        },
-        {
           "start": "17:00",
-          "end": "17:13",
+          "end": "17:19",
           "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
         },
         {
-          "start": "17:14",
-          "end": "17:16",
+          "start": "17:21",
+          "end": "17:36",
           "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
-        },
-        {
-          "start": "17:17",
-          "end": "17:30",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
-        },
-        {
-          "start": "17:31",
-          "end": "17:37",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
-        },
-        {
-          "start": "17:38",
-          "end": "17:44",
-          "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
+          "src": "local",
+          "title": "naturalistic_runner.py",
+          "note": "3 hits"
         },
         {
           "start": "17:44",
-          "end": "17:45",
-          "cat": "writing",
-          "src": "local",
-          "title": "finance_benchmarks_compare.md",
-          "note": "2 hits"
-        },
-        {
-          "start": "17:45",
           "end": "17:47",
           "cat": "coding",
           "src": "macos",
@@ -16267,16 +33803,360 @@
           "src": "chrome",
           "title": "czyssrs/FinQA: Data and code for EMNLP 2021 paper \"FinQA: A ",
           "note": "github.com"
+        },
+        {
+          "start": "18:14",
+          "end": "18:17",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "3 hits"
+        },
+        {
+          "start": "18:30",
+          "end": "18:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "18:43",
+          "end": "18:46",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "15 hits"
+        },
+        {
+          "start": "19:17",
+          "end": "19:20",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "19:34",
+          "end": "19:37",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "19:51",
+          "end": "19:57",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "14 hits"
+        },
+        {
+          "start": "20:10",
+          "end": "20:13",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "20:28",
+          "end": "20:31",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "20:45",
+          "end": "20:48",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "20:55",
+          "end": "21:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "14 hits"
+        },
+        {
+          "start": "21:33",
+          "end": "21:36",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "21:50",
+          "end": "21:53",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "21:56",
+          "end": "21:59",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "1 hit"
+        },
+        {
+          "start": "22:13",
+          "end": "22:16",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "3 hits"
+        },
+        {
+          "start": "22:28",
+          "end": "22:31",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "22:46",
+          "end": "22:49",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "22:57",
+          "end": "23:00",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "23:15",
+          "end": "23:18",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "23:30",
+          "end": "23:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "23:46",
+          "end": "23:49",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "00:02",
+          "end": "00:05",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "00:18",
+          "end": "00:21",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "00:33",
+          "end": "00:36",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "00:51",
+          "end": "00:54",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
+        },
+        {
+          "start": "01:06",
+          "end": "01:09",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
+        },
+        {
+          "start": "01:23",
+          "end": "01:26",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "01:40",
+          "end": "01:43",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "01:58",
+          "end": "02:01",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "02:14",
+          "end": "02:17",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "02:30",
+          "end": "02:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "02:47",
+          "end": "02:50",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "02:56",
+          "end": "02:59",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "03:13",
+          "end": "03:16",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "03:30",
+          "end": "03:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "03:47",
+          "end": "03:50",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
+        },
+        {
+          "start": "04:03",
+          "end": "04:06",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
+        },
+        {
+          "start": "04:18",
+          "end": "04:21",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "04:34",
+          "end": "04:37",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "04:50",
+          "end": "04:53",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "05:07",
+          "end": "05:10",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "05:25",
+          "end": "05:28",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "05:42",
+          "end": "05:45",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "05:59",
+          "end": "05:59",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
         }
       ],
-      "logged": 381,
-      "real": 365,
-      "deep": 365,
-      "ratio": 0.956726341578441,
+      "logged": 546,
+      "real": 518,
+      "deep": 518,
+      "ratio": 0.9484932384619337,
       "stats": {
-        "contextSwitches": 41,
-        "tabsOpened": 48,
-        "longestFocus": "1h 46m",
+        "contextSwitches": 31,
+        "tabsOpened": 36,
+        "longestFocus": "3h 25m",
         "justOneMoreThing": 8
       }
     },
@@ -16287,16 +34167,168 @@
       "weekend": false,
       "dateShort": "Fri, Jun 26",
       "dateLong": "Friday, June 26",
-      "dayStart": "11:00",
-      "dayEnd": "12:04",
+      "dayStart": "06:00",
+      "dayEnd": "12:40",
       "events": [
+        {
+          "start": "06:00",
+          "end": "06:02",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "06:17",
+          "end": "06:20",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "06:35",
+          "end": "06:38",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
+        },
+        {
+          "start": "06:43",
+          "end": "06:46",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "07:01",
+          "end": "07:04",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
+        },
+        {
+          "start": "07:18",
+          "end": "07:21",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "07:35",
+          "end": "07:38",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "07:52",
+          "end": "07:55",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "08:08",
+          "end": "08:11",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "08:26",
+          "end": "08:29",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "08:42",
+          "end": "08:45",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "09:00",
+          "end": "09:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "09:16",
+          "end": "09:19",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "09:32",
+          "end": "09:35",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "5 hits"
+        },
+        {
+          "start": "09:45",
+          "end": "09:48",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
+        {
+          "start": "10:02",
+          "end": "10:05",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · ada",
+          "note": "11 hits"
+        },
+        {
+          "start": "10:17",
+          "end": "10:20",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "4 hits"
+        },
+        {
+          "start": "10:33",
+          "end": "10:36",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · ada",
+          "note": "10 hits"
+        },
+        {
+          "start": "10:46",
+          "end": "10:49",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "6 hits"
+        },
         {
           "start": "11:00",
           "end": "11:07",
           "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "58 hits"
         },
         {
           "start": "11:07",
@@ -16316,61 +34348,69 @@
         },
         {
           "start": "11:29",
-          "end": "11:39",
+          "end": "11:30",
           "cat": "research",
           "src": "chrome",
           "title": "[2508.00217] Tabular Data Understanding with LLMs: A Survey ",
           "note": "app.litmaps.com"
         },
         {
-          "start": "11:39",
+          "start": "11:30",
+          "end": "11:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · workspace",
+          "note": "9 hits"
+        },
+        {
+          "start": "11:33",
+          "end": "11:40",
+          "cat": "research",
+          "src": "chrome",
+          "title": "[2508.00217] Tabular Data Understanding with LLMs: A Survey ",
+          "note": "app.litmaps.com"
+        },
+        {
+          "start": "11:40",
           "end": "11:41",
           "cat": "coding",
           "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
         },
         {
           "start": "11:41",
-          "end": "11:43",
+          "end": "11:42",
           "cat": "research",
           "src": "chrome",
           "title": "[2508.00217] Tabular Data Understanding with LLMs: A Survey ",
           "note": "app.litmaps.com"
         },
         {
-          "start": "11:43",
-          "end": "11:47",
+          "start": "11:42",
+          "end": "12:31",
           "cat": "coding",
-          "src": "macos",
-          "title": "claudefordesktop",
-          "note": "com.anthropic.claudefordesktop"
+          "src": "claude",
+          "title": "PhD worklog June 25th coding duration",
+          "note": "365 hits"
         },
         {
-          "start": "11:47",
-          "end": "11:56",
-          "cat": "research",
+          "start": "12:31",
+          "end": "12:40",
+          "cat": "personal",
           "src": "chrome",
-          "title": "[2508.00217] Tabular Data Understanding with LLMs: A Survey ",
-          "note": "app.litmaps.com"
-        },
-        {
-          "start": "11:56",
-          "end": "12:04",
-          "cat": "coding",
-          "src": "local",
-          "title": "domain_cats.json",
-          "note": "3 hits"
+          "title": "Groove Foldover Mid-Rise Short 4\" | Shorts | Lululemon AU",
+          "note": "google.com"
         }
       ],
-      "logged": 63,
-      "real": 63,
-      "deep": 63,
-      "ratio": 1.0,
+      "logged": 156,
+      "real": 148,
+      "deep": 148,
+      "ratio": 0.9441835037260832,
       "stats": {
-        "contextSwitches": 8,
-        "tabsOpened": 12,
-        "longestFocus": "1h 3m",
+        "contextSwitches": 9,
+        "tabsOpened": 15,
+        "longestFocus": "2h 28m",
         "justOneMoreThing": 0
       }
     },
