@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-06-27T10:29:05+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-06-28T10:20:06+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -7027,474 +7027,474 @@
         "weekend": false
       },
       {
-        "key": "2026-6-26",
-        "dayNum": 26,
-        "dow": 5,
-        "weekend": false,
-        "dateShort": "Fri, Jun 26",
         "dateLong": "Friday, June 26",
-        "dayStart": "11:03",
+        "dateShort": "Fri, Jun 26",
         "dayEnd": "22:35",
+        "dayNum": 26,
+        "dayStart": "11:03",
+        "deep": 403,
+        "dow": 5,
         "events": [
           {
-            "start": "11:03",
+            "cat": "writing",
             "end": "11:09",
-            "cat": "writing",
+            "note": "2 hits",
             "src": "local",
-            "title": "2026-06-26-how-agents-are-transforming-work.md",
-            "note": "2 hits"
+            "start": "11:03",
+            "title": "2026-06-26-how-agents-are-transforming-work.md"
           },
           {
-            "start": "11:09",
+            "cat": "coding",
             "end": "11:29",
-            "cat": "coding",
+            "note": "litmaps-alpha.auth.us-east-1.amazoncognito.com",
             "src": "chrome",
-            "title": "Sign in - Google Accounts",
-            "note": "litmaps-alpha.auth.us-east-1.amazoncognito.com"
+            "start": "11:09",
+            "title": "Sign in - Google Accounts"
           },
           {
-            "start": "11:29",
+            "cat": "research",
             "end": "11:40",
-            "cat": "research",
+            "note": "app.litmaps.com",
             "src": "chrome",
-            "title": "[2508.00217] Tabular Data Understanding with LLMs: A Survey ",
-            "note": "app.litmaps.com"
+            "start": "11:29",
+            "title": "[2508.00217] Tabular Data Understanding with LLMs: A Survey "
           },
           {
-            "start": "11:40",
+            "cat": "coding",
             "end": "11:41",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "11:40",
+            "title": "VSCode"
           },
           {
-            "start": "11:41",
+            "cat": "research",
             "end": "11:42",
-            "cat": "research",
+            "note": "app.litmaps.com",
             "src": "chrome",
-            "title": "[2508.00217] Tabular Data Understanding with LLMs: A Survey ",
-            "note": "app.litmaps.com"
+            "start": "11:41",
+            "title": "[2508.00217] Tabular Data Understanding with LLMs: A Survey "
           },
           {
-            "start": "11:42",
+            "cat": "coding",
             "end": "11:49",
-            "cat": "coding",
+            "note": "476 hits",
             "src": "claude",
-            "title": "PhD worklog June 25th coding duration",
-            "note": "476 hits"
+            "start": "11:42",
+            "title": "PhD worklog June 25th coding duration"
           },
           {
-            "start": "11:49",
+            "cat": "coding",
             "end": "12:43",
-            "cat": "coding",
+            "note": "476 hits",
             "src": "claude",
-            "title": "PhD worklog June 25th coding duration",
-            "note": "476 hits"
+            "start": "11:49",
+            "title": "PhD worklog June 25th coding duration"
           },
           {
-            "start": "12:43",
+            "cat": "coding",
             "end": "12:45",
-            "cat": "coding",
+            "note": "476 hits",
             "src": "claude",
-            "title": "PhD worklog June 25th coding duration",
-            "note": "476 hits"
+            "start": "12:43",
+            "title": "PhD worklog June 25th coding duration"
           },
           {
-            "start": "12:45",
+            "cat": "research",
             "end": "13:04",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "chrome",
-            "title": "Where the time actually went | Ada's Notes",
-            "note": "adaren100.github.io"
+            "start": "12:45",
+            "title": "Where the time actually went | Ada's Notes"
           },
           {
-            "start": "14:03",
+            "cat": "admin",
             "end": "14:05",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "14:03",
+            "title": "Outlook"
           },
           {
-            "start": "14:05",
+            "cat": "admin",
             "end": "14:14",
-            "cat": "admin",
+            "note": "accounts.google.com",
             "src": "chrome",
-            "title": "Perplexity",
-            "note": "accounts.google.com"
+            "start": "14:05",
+            "title": "Perplexity"
           },
           {
-            "start": "14:14",
+            "cat": "admin",
             "end": "14:22",
-            "cat": "admin",
+            "note": "accounts.google.com",
             "src": "chrome",
-            "title": "Perplexity",
-            "note": "accounts.google.com"
+            "start": "14:14",
+            "title": "Perplexity"
           },
           {
-            "start": "14:23",
+            "cat": "coding",
             "end": "14:38",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "14:23",
+            "title": "VSCode"
           },
           {
-            "start": "14:39",
+            "cat": "coding",
             "end": "14:40",
-            "cat": "coding",
+            "note": "1 hit",
             "src": "vscode",
-            "title": "VS Code · notebook.ipynb",
-            "note": "1 hit"
+            "start": "14:39",
+            "title": "VS Code · notebook.ipynb"
           },
           {
-            "start": "14:40",
+            "cat": "admin",
             "end": "14:41",
-            "cat": "admin",
+            "note": "com.microsoft.Excel",
             "src": "macos",
-            "title": "Excel",
-            "note": "com.microsoft.Excel"
+            "start": "14:40",
+            "title": "Excel"
           },
           {
-            "start": "14:41",
+            "cat": "coding",
             "end": "14:42",
-            "cat": "coding",
+            "note": "1 hit",
             "src": "vscode",
-            "title": "VS Code · notebook.ipynb",
-            "note": "1 hit"
+            "start": "14:41",
+            "title": "VS Code · notebook.ipynb"
           },
           {
-            "start": "14:43",
+            "cat": "coding",
             "end": "14:44",
-            "cat": "coding",
+            "note": "1 hit",
             "src": "vscode",
-            "title": "VS Code · notebook.ipynb",
-            "note": "1 hit"
+            "start": "14:43",
+            "title": "VS Code · notebook.ipynb"
           },
           {
-            "start": "14:44",
+            "cat": "personal",
             "end": "14:45",
-            "cat": "personal",
+            "note": "spreadsheetbench.github.io",
             "src": "chrome",
-            "title": "SpreadsheetBench",
-            "note": "spreadsheetbench.github.io"
+            "start": "14:44",
+            "title": "SpreadsheetBench"
           },
           {
-            "start": "14:45",
+            "cat": "research",
             "end": "15:05",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "chrome",
-            "title": "WorkstreamBench: Evaluating LLM Agents on End-to-End Spreads",
-            "note": "arxiv.org"
+            "start": "14:45",
+            "title": "WorkstreamBench: Evaluating LLM Agents on End-to-End Spreads"
           },
           {
-            "start": "15:05",
+            "cat": "research",
             "end": "15:10",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "15:05",
+            "title": "zotero"
           },
           {
-            "start": "15:10",
+            "cat": "personal",
             "end": "15:13",
-            "cat": "personal",
+            "note": "fmworldcup.com",
             "src": "chrome",
-            "title": "FMWC - Financial Modeling World Cup | $120,000 Prize Fund",
-            "note": "fmworldcup.com"
+            "start": "15:10",
+            "title": "FMWC - Financial Modeling World Cup | $120,000 Prize Fund"
           },
           {
-            "start": "15:13",
+            "cat": "research",
             "end": "15:15",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "15:13",
+            "title": "zotero"
           },
           {
-            "start": "15:15",
+            "cat": "personal",
             "end": "15:24",
-            "cat": "personal",
+            "note": "fmworldcup.com",
             "src": "chrome",
-            "title": "FMWC - Financial Modeling World Cup | $120,000 Prize Fund",
-            "note": "fmworldcup.com"
+            "start": "15:15",
+            "title": "FMWC - Financial Modeling World Cup | $120,000 Prize Fund"
           },
           {
-            "start": "15:24",
+            "cat": "research",
             "end": "15:26",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "15:24",
+            "title": "zotero"
           },
           {
-            "start": "15:26",
+            "cat": "personal",
             "end": "15:39",
-            "cat": "personal",
+            "note": "fmworldcup.com",
             "src": "chrome",
-            "title": "FMWC - Financial Modeling World Cup | $120,000 Prize Fund",
-            "note": "fmworldcup.com"
+            "start": "15:26",
+            "title": "FMWC - Financial Modeling World Cup | $120,000 Prize Fund"
           },
           {
-            "start": "15:39",
-            "end": "15:45",
             "cat": "admin",
+            "end": "15:45",
+            "note": "accounts.google.com",
             "src": "chrome",
-            "title": "A New Generation Studies AI, Apple's Recipe for On-Device Mo",
-            "note": "accounts.google.com"
+            "start": "15:39",
+            "title": "A New Generation Studies AI, Apple's Recipe for On-Device Mo"
           },
           {
-            "start": "15:45",
+            "cat": "research",
             "end": "16:01",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "15:45",
+            "title": "zotero"
           },
           {
-            "start": "16:01",
+            "cat": "coding",
             "end": "16:05",
-            "cat": "coding",
+            "note": "github.com",
             "src": "chrome",
-            "title": "Trustworthy-ML-Lab/when2tool",
-            "note": "github.com"
+            "start": "16:01",
+            "title": "Trustworthy-ML-Lab/when2tool"
           },
           {
-            "start": "16:05",
+            "cat": "research",
             "end": "16:09",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "16:05",
+            "title": "zotero"
           },
           {
-            "start": "16:09",
+            "cat": "coding",
             "end": "16:11",
-            "cat": "coding",
+            "note": "github.com",
             "src": "chrome",
-            "title": "Trustworthy-ML-Lab/when2tool",
-            "note": "github.com"
+            "start": "16:09",
+            "title": "Trustworthy-ML-Lab/when2tool"
           },
           {
-            "start": "16:12",
+            "cat": "research",
             "end": "16:17",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "chrome",
-            "title": "EvolveTool-Bench: Evaluating the Quality of LLM-Generated To",
-            "note": "arxiv.org"
+            "start": "16:12",
+            "title": "EvolveTool-Bench: Evaluating the Quality of LLM-Generated To"
           },
           {
-            "start": "16:17",
+            "cat": "coding",
             "end": "16:19",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "16:17",
+            "title": "VSCode"
           },
           {
-            "start": "16:19",
+            "cat": "research",
             "end": "16:32",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "chrome",
-            "title": "EvolveTool-Bench: Evaluating the Quality of LLM-Generated To",
-            "note": "arxiv.org"
+            "start": "16:19",
+            "title": "EvolveTool-Bench: Evaluating the Quality of LLM-Generated To"
           },
           {
-            "start": "16:47",
+            "cat": "research",
             "end": "16:49",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "16:47",
+            "title": "zotero"
           },
           {
-            "start": "16:49",
+            "cat": "coding",
             "end": "16:50",
-            "cat": "coding",
+            "note": "github.com",
             "src": "chrome",
-            "title": "sambanova/toolbench: ToolBench, an evaluation suite for LLM ",
-            "note": "github.com"
+            "start": "16:49",
+            "title": "sambanova/toolbench: ToolBench, an evaluation suite for LLM "
           },
           {
-            "start": "16:50",
+            "cat": "coding",
             "end": "16:53",
-            "cat": "coding",
+            "note": "github.com",
             "src": "chrome",
-            "title": "sambanova/toolbench: ToolBench, an evaluation suite for LLM ",
-            "note": "github.com"
+            "start": "16:50",
+            "title": "sambanova/toolbench: ToolBench, an evaluation suite for LLM "
           },
           {
-            "start": "16:53",
+            "cat": "personal",
             "end": "16:55",
-            "cat": "personal",
+            "note": "thecatapi.com",
             "src": "chrome",
-            "title": "The Cat API - Cat as a Service",
-            "note": "thecatapi.com"
+            "start": "16:53",
+            "title": "The Cat API - Cat as a Service"
           },
           {
-            "start": "16:55",
+            "cat": "personal",
             "end": "17:03",
-            "cat": "personal",
+            "note": "thecatapi.com",
             "src": "chrome",
-            "title": "The Cat API - Cat as a Service",
-            "note": "thecatapi.com"
+            "start": "16:55",
+            "title": "The Cat API - Cat as a Service"
           },
           {
-            "start": "17:03",
+            "cat": "research",
             "end": "17:09",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "17:03",
+            "title": "zotero"
           },
           {
-            "start": "17:09",
+            "cat": "personal",
             "end": "17:11",
-            "cat": "personal",
+            "note": "thecatapi.com",
             "src": "chrome",
-            "title": "The Cat API - Cat as a Service",
-            "note": "thecatapi.com"
+            "start": "17:09",
+            "title": "The Cat API - Cat as a Service"
           },
           {
-            "start": "17:12",
+            "cat": "research",
             "end": "17:23",
-            "cat": "research",
+            "note": "huggingface.co",
             "src": "chrome",
-            "title": "tuandunghcmut/toolbench-v1 · Datasets at Hugging Face",
-            "note": "huggingface.co"
+            "start": "17:12",
+            "title": "tuandunghcmut/toolbench-v1 · Datasets at Hugging Face"
           },
           {
-            "start": "17:23",
+            "cat": "coding",
             "end": "17:24",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "17:23",
+            "title": "VSCode"
           },
           {
-            "start": "17:24",
+            "cat": "research",
             "end": "17:40",
-            "cat": "research",
+            "note": "huggingface.co",
             "src": "chrome",
-            "title": "tuandunghcmut/toolbench-v1 · Datasets at Hugging Face",
-            "note": "huggingface.co"
+            "start": "17:24",
+            "title": "tuandunghcmut/toolbench-v1 · Datasets at Hugging Face"
           },
           {
-            "start": "17:40",
+            "cat": "coding",
             "end": "17:43",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "17:40",
+            "title": "VSCode"
           },
           {
-            "start": "17:43",
+            "cat": "coding",
             "end": "17:48",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "17:43",
+            "title": "VSCode"
           },
           {
-            "start": "17:48",
+            "cat": "coding",
             "end": "18:25",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "17:48",
+            "title": "VSCode"
           },
           {
-            "start": "18:30",
+            "cat": "coding",
             "end": "19:17",
-            "cat": "coding",
+            "note": "76 hits",
             "src": "local",
-            "title": "booking_eval.py",
-            "note": "76 hits"
+            "start": "18:30",
+            "title": "booking_eval.py"
           },
           {
-            "start": "20:18",
-            "end": "20:19",
             "cat": "writing",
+            "end": "20:19",
+            "note": "1 hit",
             "src": "local",
-            "title": "README.md",
-            "note": "1 hit"
+            "start": "20:18",
+            "title": "README.md"
           },
           {
-            "start": "20:19",
+            "cat": "coding",
             "end": "20:21",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "20:19",
+            "title": "VSCode"
           },
           {
-            "start": "20:21",
+            "cat": "research",
             "end": "20:24",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "20:21",
+            "title": "zotero"
           },
           {
-            "start": "20:27",
+            "cat": "research",
             "end": "20:47",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "20:27",
+            "title": "zotero"
           },
           {
-            "start": "21:04",
+            "cat": "research",
             "end": "21:06",
-            "cat": "research",
+            "note": "huggingface.co",
             "src": "chrome",
-            "title": "gorilla-llm/Berkeley-Function-Calling-Leaderboard · Datasets",
-            "note": "huggingface.co"
+            "start": "21:04",
+            "title": "gorilla-llm/Berkeley-Function-Calling-Leaderboard · Datasets"
           },
           {
-            "start": "21:06",
+            "cat": "personal",
             "end": "21:14",
-            "cat": "personal",
+            "note": "gorilla.cs.berkeley.edu",
             "src": "chrome",
-            "title": "Berkeley Function Calling Leaderboard (BFCL) V4",
-            "note": "gorilla.cs.berkeley.edu"
+            "start": "21:06",
+            "title": "Berkeley Function Calling Leaderboard (BFCL) V4"
           },
           {
-            "start": "21:14",
+            "cat": "personal",
             "end": "21:26",
-            "cat": "personal",
+            "note": "gorilla.cs.berkeley.edu",
             "src": "chrome",
-            "title": "Berkeley Function Calling Leaderboard (BFCL) V4",
-            "note": "gorilla.cs.berkeley.edu"
+            "start": "21:14",
+            "title": "Berkeley Function Calling Leaderboard (BFCL) V4"
           },
           {
-            "start": "21:26",
-            "end": "21:34",
             "cat": "coding",
+            "end": "21:34",
+            "note": "github.com",
             "src": "chrome",
-            "title": "when2tool/data_generators at main · Trustworthy-ML-Lab/when2",
-            "note": "github.com"
+            "start": "21:26",
+            "title": "when2tool/data_generators at main · Trustworthy-ML-Lab/when2"
           },
           {
-            "start": "22:15",
-            "end": "22:35",
             "cat": "research",
+            "end": "22:35",
+            "note": "arxiv.org",
             "src": "chrome",
-            "title": "2503.06708",
-            "note": "arxiv.org"
+            "start": "22:15",
+            "title": "2503.06708"
           }
         ],
+        "key": "2026-6-26",
         "logged": 487,
-        "real": 403,
-        "deep": 403,
         "ratio": 0.8269123327474599,
+        "real": 403,
         "stats": {
           "contextSwitches": 39,
-          "tabsOpened": 84,
+          "justOneMoreThing": 5,
           "longestFocus": "2h 29m",
-          "justOneMoreThing": 5
-        }
+          "tabsOpened": 84
+        },
+        "weekend": false
       },
       {
         "key": "2026-6-27",
@@ -7504,25 +7504,57 @@
         "dateShort": "Sat, Jun 27",
         "dateLong": "Saturday, June 27",
         "dayStart": "10:06",
-        "dayEnd": "10:09",
+        "dayEnd": "15:43",
         "events": [
           {
             "start": "10:06",
-            "end": "10:09",
+            "end": "10:26",
             "cat": "personal",
             "src": "chrome",
             "title": "Admission Docket | Macquarie University Sport and Aquatic Ce",
             "note": "musac.jonasleisure.com.au"
+          },
+          {
+            "start": "10:29",
+            "end": "10:34",
+            "cat": "coding",
+            "src": "local",
+            "title": "snapshots.json",
+            "note": "2 hits"
+          },
+          {
+            "start": "13:36",
+            "end": "13:57",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "redotpay - Google Search",
+            "note": "web.wechat.com"
+          },
+          {
+            "start": "13:57",
+            "end": "14:25",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "New Agent - 908/112 Talavera Road, Macquarie Park - ada.ren.",
+            "note": "accounts.google.com"
+          },
+          {
+            "start": "15:23",
+            "end": "15:43",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "WeChat/Weixin for Web",
+            "note": "wx.qq.com"
           }
         ],
-        "logged": 3,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0.0,
+        "logged": 94,
+        "real": 5,
+        "deep": 5,
+        "ratio": 0.05291557144424661,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 3,
-          "longestFocus": "0m",
+          "contextSwitches": 4,
+          "tabsOpened": 12,
+          "longestFocus": "5m",
           "justOneMoreThing": 0
         }
       },
@@ -14618,474 +14650,474 @@
       "weekend": false
     },
     {
-      "key": "2026-6-26",
-      "dayNum": 26,
-      "dow": 5,
-      "weekend": false,
-      "dateShort": "Fri, Jun 26",
       "dateLong": "Friday, June 26",
-      "dayStart": "11:03",
+      "dateShort": "Fri, Jun 26",
       "dayEnd": "22:35",
+      "dayNum": 26,
+      "dayStart": "11:03",
+      "deep": 403,
+      "dow": 5,
       "events": [
         {
-          "start": "11:03",
+          "cat": "writing",
           "end": "11:09",
-          "cat": "writing",
+          "note": "2 hits",
           "src": "local",
-          "title": "2026-06-26-how-agents-are-transforming-work.md",
-          "note": "2 hits"
+          "start": "11:03",
+          "title": "2026-06-26-how-agents-are-transforming-work.md"
         },
         {
-          "start": "11:09",
+          "cat": "coding",
           "end": "11:29",
-          "cat": "coding",
+          "note": "litmaps-alpha.auth.us-east-1.amazoncognito.com",
           "src": "chrome",
-          "title": "Sign in - Google Accounts",
-          "note": "litmaps-alpha.auth.us-east-1.amazoncognito.com"
+          "start": "11:09",
+          "title": "Sign in - Google Accounts"
         },
         {
-          "start": "11:29",
+          "cat": "research",
           "end": "11:40",
-          "cat": "research",
+          "note": "app.litmaps.com",
           "src": "chrome",
-          "title": "[2508.00217] Tabular Data Understanding with LLMs: A Survey ",
-          "note": "app.litmaps.com"
+          "start": "11:29",
+          "title": "[2508.00217] Tabular Data Understanding with LLMs: A Survey "
         },
         {
-          "start": "11:40",
+          "cat": "coding",
           "end": "11:41",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "11:40",
+          "title": "VSCode"
         },
         {
-          "start": "11:41",
+          "cat": "research",
           "end": "11:42",
-          "cat": "research",
+          "note": "app.litmaps.com",
           "src": "chrome",
-          "title": "[2508.00217] Tabular Data Understanding with LLMs: A Survey ",
-          "note": "app.litmaps.com"
+          "start": "11:41",
+          "title": "[2508.00217] Tabular Data Understanding with LLMs: A Survey "
         },
         {
-          "start": "11:42",
+          "cat": "coding",
           "end": "11:49",
-          "cat": "coding",
+          "note": "476 hits",
           "src": "claude",
-          "title": "PhD worklog June 25th coding duration",
-          "note": "476 hits"
+          "start": "11:42",
+          "title": "PhD worklog June 25th coding duration"
         },
         {
-          "start": "11:49",
+          "cat": "coding",
           "end": "12:43",
-          "cat": "coding",
+          "note": "476 hits",
           "src": "claude",
-          "title": "PhD worklog June 25th coding duration",
-          "note": "476 hits"
+          "start": "11:49",
+          "title": "PhD worklog June 25th coding duration"
         },
         {
-          "start": "12:43",
+          "cat": "coding",
           "end": "12:45",
-          "cat": "coding",
+          "note": "476 hits",
           "src": "claude",
-          "title": "PhD worklog June 25th coding duration",
-          "note": "476 hits"
+          "start": "12:43",
+          "title": "PhD worklog June 25th coding duration"
         },
         {
-          "start": "12:45",
+          "cat": "research",
           "end": "13:04",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "chrome",
-          "title": "Where the time actually went | Ada's Notes",
-          "note": "adaren100.github.io"
+          "start": "12:45",
+          "title": "Where the time actually went | Ada's Notes"
         },
         {
-          "start": "14:03",
+          "cat": "admin",
           "end": "14:05",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "14:03",
+          "title": "Outlook"
         },
         {
-          "start": "14:05",
+          "cat": "admin",
           "end": "14:14",
-          "cat": "admin",
+          "note": "accounts.google.com",
           "src": "chrome",
-          "title": "Perplexity",
-          "note": "accounts.google.com"
+          "start": "14:05",
+          "title": "Perplexity"
         },
         {
-          "start": "14:14",
+          "cat": "admin",
           "end": "14:22",
-          "cat": "admin",
+          "note": "accounts.google.com",
           "src": "chrome",
-          "title": "Perplexity",
-          "note": "accounts.google.com"
+          "start": "14:14",
+          "title": "Perplexity"
         },
         {
-          "start": "14:23",
+          "cat": "coding",
           "end": "14:38",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "14:23",
+          "title": "VSCode"
         },
         {
-          "start": "14:39",
+          "cat": "coding",
           "end": "14:40",
-          "cat": "coding",
+          "note": "1 hit",
           "src": "vscode",
-          "title": "VS Code · notebook.ipynb",
-          "note": "1 hit"
+          "start": "14:39",
+          "title": "VS Code · notebook.ipynb"
         },
         {
-          "start": "14:40",
+          "cat": "admin",
           "end": "14:41",
-          "cat": "admin",
+          "note": "com.microsoft.Excel",
           "src": "macos",
-          "title": "Excel",
-          "note": "com.microsoft.Excel"
+          "start": "14:40",
+          "title": "Excel"
         },
         {
-          "start": "14:41",
+          "cat": "coding",
           "end": "14:42",
-          "cat": "coding",
+          "note": "1 hit",
           "src": "vscode",
-          "title": "VS Code · notebook.ipynb",
-          "note": "1 hit"
+          "start": "14:41",
+          "title": "VS Code · notebook.ipynb"
         },
         {
-          "start": "14:43",
+          "cat": "coding",
           "end": "14:44",
-          "cat": "coding",
+          "note": "1 hit",
           "src": "vscode",
-          "title": "VS Code · notebook.ipynb",
-          "note": "1 hit"
+          "start": "14:43",
+          "title": "VS Code · notebook.ipynb"
         },
         {
-          "start": "14:44",
+          "cat": "personal",
           "end": "14:45",
-          "cat": "personal",
+          "note": "spreadsheetbench.github.io",
           "src": "chrome",
-          "title": "SpreadsheetBench",
-          "note": "spreadsheetbench.github.io"
+          "start": "14:44",
+          "title": "SpreadsheetBench"
         },
         {
-          "start": "14:45",
+          "cat": "research",
           "end": "15:05",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "chrome",
-          "title": "WorkstreamBench: Evaluating LLM Agents on End-to-End Spreads",
-          "note": "arxiv.org"
+          "start": "14:45",
+          "title": "WorkstreamBench: Evaluating LLM Agents on End-to-End Spreads"
         },
         {
-          "start": "15:05",
+          "cat": "research",
           "end": "15:10",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "15:05",
+          "title": "zotero"
         },
         {
-          "start": "15:10",
+          "cat": "personal",
           "end": "15:13",
-          "cat": "personal",
+          "note": "fmworldcup.com",
           "src": "chrome",
-          "title": "FMWC - Financial Modeling World Cup | $120,000 Prize Fund",
-          "note": "fmworldcup.com"
+          "start": "15:10",
+          "title": "FMWC - Financial Modeling World Cup | $120,000 Prize Fund"
         },
         {
-          "start": "15:13",
+          "cat": "research",
           "end": "15:15",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "15:13",
+          "title": "zotero"
         },
         {
-          "start": "15:15",
+          "cat": "personal",
           "end": "15:24",
-          "cat": "personal",
+          "note": "fmworldcup.com",
           "src": "chrome",
-          "title": "FMWC - Financial Modeling World Cup | $120,000 Prize Fund",
-          "note": "fmworldcup.com"
+          "start": "15:15",
+          "title": "FMWC - Financial Modeling World Cup | $120,000 Prize Fund"
         },
         {
-          "start": "15:24",
+          "cat": "research",
           "end": "15:26",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "15:24",
+          "title": "zotero"
         },
         {
-          "start": "15:26",
+          "cat": "personal",
           "end": "15:39",
-          "cat": "personal",
+          "note": "fmworldcup.com",
           "src": "chrome",
-          "title": "FMWC - Financial Modeling World Cup | $120,000 Prize Fund",
-          "note": "fmworldcup.com"
+          "start": "15:26",
+          "title": "FMWC - Financial Modeling World Cup | $120,000 Prize Fund"
         },
         {
-          "start": "15:39",
-          "end": "15:45",
           "cat": "admin",
+          "end": "15:45",
+          "note": "accounts.google.com",
           "src": "chrome",
-          "title": "A New Generation Studies AI, Apple's Recipe for On-Device Mo",
-          "note": "accounts.google.com"
+          "start": "15:39",
+          "title": "A New Generation Studies AI, Apple's Recipe for On-Device Mo"
         },
         {
-          "start": "15:45",
+          "cat": "research",
           "end": "16:01",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "15:45",
+          "title": "zotero"
         },
         {
-          "start": "16:01",
+          "cat": "coding",
           "end": "16:05",
-          "cat": "coding",
+          "note": "github.com",
           "src": "chrome",
-          "title": "Trustworthy-ML-Lab/when2tool",
-          "note": "github.com"
+          "start": "16:01",
+          "title": "Trustworthy-ML-Lab/when2tool"
         },
         {
-          "start": "16:05",
+          "cat": "research",
           "end": "16:09",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "16:05",
+          "title": "zotero"
         },
         {
-          "start": "16:09",
+          "cat": "coding",
           "end": "16:11",
-          "cat": "coding",
+          "note": "github.com",
           "src": "chrome",
-          "title": "Trustworthy-ML-Lab/when2tool",
-          "note": "github.com"
+          "start": "16:09",
+          "title": "Trustworthy-ML-Lab/when2tool"
         },
         {
-          "start": "16:12",
+          "cat": "research",
           "end": "16:17",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "chrome",
-          "title": "EvolveTool-Bench: Evaluating the Quality of LLM-Generated To",
-          "note": "arxiv.org"
+          "start": "16:12",
+          "title": "EvolveTool-Bench: Evaluating the Quality of LLM-Generated To"
         },
         {
-          "start": "16:17",
+          "cat": "coding",
           "end": "16:19",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "16:17",
+          "title": "VSCode"
         },
         {
-          "start": "16:19",
+          "cat": "research",
           "end": "16:32",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "chrome",
-          "title": "EvolveTool-Bench: Evaluating the Quality of LLM-Generated To",
-          "note": "arxiv.org"
+          "start": "16:19",
+          "title": "EvolveTool-Bench: Evaluating the Quality of LLM-Generated To"
         },
         {
-          "start": "16:47",
+          "cat": "research",
           "end": "16:49",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "16:47",
+          "title": "zotero"
         },
         {
-          "start": "16:49",
+          "cat": "coding",
           "end": "16:50",
-          "cat": "coding",
+          "note": "github.com",
           "src": "chrome",
-          "title": "sambanova/toolbench: ToolBench, an evaluation suite for LLM ",
-          "note": "github.com"
+          "start": "16:49",
+          "title": "sambanova/toolbench: ToolBench, an evaluation suite for LLM "
         },
         {
-          "start": "16:50",
+          "cat": "coding",
           "end": "16:53",
-          "cat": "coding",
+          "note": "github.com",
           "src": "chrome",
-          "title": "sambanova/toolbench: ToolBench, an evaluation suite for LLM ",
-          "note": "github.com"
+          "start": "16:50",
+          "title": "sambanova/toolbench: ToolBench, an evaluation suite for LLM "
         },
         {
-          "start": "16:53",
+          "cat": "personal",
           "end": "16:55",
-          "cat": "personal",
+          "note": "thecatapi.com",
           "src": "chrome",
-          "title": "The Cat API - Cat as a Service",
-          "note": "thecatapi.com"
+          "start": "16:53",
+          "title": "The Cat API - Cat as a Service"
         },
         {
-          "start": "16:55",
+          "cat": "personal",
           "end": "17:03",
-          "cat": "personal",
+          "note": "thecatapi.com",
           "src": "chrome",
-          "title": "The Cat API - Cat as a Service",
-          "note": "thecatapi.com"
+          "start": "16:55",
+          "title": "The Cat API - Cat as a Service"
         },
         {
-          "start": "17:03",
+          "cat": "research",
           "end": "17:09",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "17:03",
+          "title": "zotero"
         },
         {
-          "start": "17:09",
+          "cat": "personal",
           "end": "17:11",
-          "cat": "personal",
+          "note": "thecatapi.com",
           "src": "chrome",
-          "title": "The Cat API - Cat as a Service",
-          "note": "thecatapi.com"
+          "start": "17:09",
+          "title": "The Cat API - Cat as a Service"
         },
         {
-          "start": "17:12",
+          "cat": "research",
           "end": "17:23",
-          "cat": "research",
+          "note": "huggingface.co",
           "src": "chrome",
-          "title": "tuandunghcmut/toolbench-v1 · Datasets at Hugging Face",
-          "note": "huggingface.co"
+          "start": "17:12",
+          "title": "tuandunghcmut/toolbench-v1 · Datasets at Hugging Face"
         },
         {
-          "start": "17:23",
+          "cat": "coding",
           "end": "17:24",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "17:23",
+          "title": "VSCode"
         },
         {
-          "start": "17:24",
+          "cat": "research",
           "end": "17:40",
-          "cat": "research",
+          "note": "huggingface.co",
           "src": "chrome",
-          "title": "tuandunghcmut/toolbench-v1 · Datasets at Hugging Face",
-          "note": "huggingface.co"
+          "start": "17:24",
+          "title": "tuandunghcmut/toolbench-v1 · Datasets at Hugging Face"
         },
         {
-          "start": "17:40",
+          "cat": "coding",
           "end": "17:43",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "17:40",
+          "title": "VSCode"
         },
         {
-          "start": "17:43",
+          "cat": "coding",
           "end": "17:48",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "17:43",
+          "title": "VSCode"
         },
         {
-          "start": "17:48",
+          "cat": "coding",
           "end": "18:25",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "17:48",
+          "title": "VSCode"
         },
         {
-          "start": "18:30",
+          "cat": "coding",
           "end": "19:17",
-          "cat": "coding",
+          "note": "76 hits",
           "src": "local",
-          "title": "booking_eval.py",
-          "note": "76 hits"
+          "start": "18:30",
+          "title": "booking_eval.py"
         },
         {
-          "start": "20:18",
-          "end": "20:19",
           "cat": "writing",
+          "end": "20:19",
+          "note": "1 hit",
           "src": "local",
-          "title": "README.md",
-          "note": "1 hit"
+          "start": "20:18",
+          "title": "README.md"
         },
         {
-          "start": "20:19",
+          "cat": "coding",
           "end": "20:21",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "20:19",
+          "title": "VSCode"
         },
         {
-          "start": "20:21",
+          "cat": "research",
           "end": "20:24",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "20:21",
+          "title": "zotero"
         },
         {
-          "start": "20:27",
+          "cat": "research",
           "end": "20:47",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "20:27",
+          "title": "zotero"
         },
         {
-          "start": "21:04",
+          "cat": "research",
           "end": "21:06",
-          "cat": "research",
+          "note": "huggingface.co",
           "src": "chrome",
-          "title": "gorilla-llm/Berkeley-Function-Calling-Leaderboard · Datasets",
-          "note": "huggingface.co"
+          "start": "21:04",
+          "title": "gorilla-llm/Berkeley-Function-Calling-Leaderboard · Datasets"
         },
         {
-          "start": "21:06",
+          "cat": "personal",
           "end": "21:14",
-          "cat": "personal",
+          "note": "gorilla.cs.berkeley.edu",
           "src": "chrome",
-          "title": "Berkeley Function Calling Leaderboard (BFCL) V4",
-          "note": "gorilla.cs.berkeley.edu"
+          "start": "21:06",
+          "title": "Berkeley Function Calling Leaderboard (BFCL) V4"
         },
         {
-          "start": "21:14",
+          "cat": "personal",
           "end": "21:26",
-          "cat": "personal",
+          "note": "gorilla.cs.berkeley.edu",
           "src": "chrome",
-          "title": "Berkeley Function Calling Leaderboard (BFCL) V4",
-          "note": "gorilla.cs.berkeley.edu"
+          "start": "21:14",
+          "title": "Berkeley Function Calling Leaderboard (BFCL) V4"
         },
         {
-          "start": "21:26",
-          "end": "21:34",
           "cat": "coding",
+          "end": "21:34",
+          "note": "github.com",
           "src": "chrome",
-          "title": "when2tool/data_generators at main · Trustworthy-ML-Lab/when2",
-          "note": "github.com"
+          "start": "21:26",
+          "title": "when2tool/data_generators at main · Trustworthy-ML-Lab/when2"
         },
         {
-          "start": "22:15",
-          "end": "22:35",
           "cat": "research",
+          "end": "22:35",
+          "note": "arxiv.org",
           "src": "chrome",
-          "title": "2503.06708",
-          "note": "arxiv.org"
+          "start": "22:15",
+          "title": "2503.06708"
         }
       ],
+      "key": "2026-6-26",
       "logged": 487,
-      "real": 403,
-      "deep": 403,
       "ratio": 0.8269123327474599,
+      "real": 403,
       "stats": {
         "contextSwitches": 39,
-        "tabsOpened": 84,
+        "justOneMoreThing": 5,
         "longestFocus": "2h 29m",
-        "justOneMoreThing": 5
-      }
+        "tabsOpened": 84
+      },
+      "weekend": false
     },
     {
       "key": "2026-6-27",
@@ -15095,25 +15127,57 @@
       "dateShort": "Sat, Jun 27",
       "dateLong": "Saturday, June 27",
       "dayStart": "10:06",
-      "dayEnd": "10:09",
+      "dayEnd": "15:43",
       "events": [
         {
           "start": "10:06",
-          "end": "10:09",
+          "end": "10:26",
           "cat": "personal",
           "src": "chrome",
           "title": "Admission Docket | Macquarie University Sport and Aquatic Ce",
           "note": "musac.jonasleisure.com.au"
+        },
+        {
+          "start": "10:29",
+          "end": "10:34",
+          "cat": "coding",
+          "src": "local",
+          "title": "snapshots.json",
+          "note": "2 hits"
+        },
+        {
+          "start": "13:36",
+          "end": "13:57",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "redotpay - Google Search",
+          "note": "web.wechat.com"
+        },
+        {
+          "start": "13:57",
+          "end": "14:25",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "New Agent - 908/112 Talavera Road, Macquarie Park - ada.ren.",
+          "note": "accounts.google.com"
+        },
+        {
+          "start": "15:23",
+          "end": "15:43",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "WeChat/Weixin for Web",
+          "note": "wx.qq.com"
         }
       ],
-      "logged": 3,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0.0,
+      "logged": 94,
+      "real": 5,
+      "deep": 5,
+      "ratio": 0.05291557144424661,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 3,
-        "longestFocus": "0m",
+        "contextSwitches": 4,
+        "tabsOpened": 12,
+        "longestFocus": "5m",
         "justOneMoreThing": 0
       }
     },
