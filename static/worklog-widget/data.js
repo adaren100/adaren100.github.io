@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-06-28T10:20:06+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-06-29T10:20:10+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -7497,66 +7497,66 @@
         "weekend": false
       },
       {
-        "key": "2026-6-27",
-        "dayNum": 27,
-        "dow": 6,
-        "weekend": true,
-        "dateShort": "Sat, Jun 27",
         "dateLong": "Saturday, June 27",
-        "dayStart": "10:06",
+        "dateShort": "Sat, Jun 27",
         "dayEnd": "15:43",
+        "dayNum": 27,
+        "dayStart": "10:06",
+        "deep": 5,
+        "dow": 6,
         "events": [
           {
-            "start": "10:06",
+            "cat": "personal",
             "end": "10:26",
-            "cat": "personal",
+            "note": "musac.jonasleisure.com.au",
             "src": "chrome",
-            "title": "Admission Docket | Macquarie University Sport and Aquatic Ce",
-            "note": "musac.jonasleisure.com.au"
+            "start": "10:06",
+            "title": "Admission Docket | Macquarie University Sport and Aquatic Ce"
           },
           {
-            "start": "10:29",
-            "end": "10:34",
             "cat": "coding",
+            "end": "10:34",
+            "note": "2 hits",
             "src": "local",
-            "title": "snapshots.json",
-            "note": "2 hits"
+            "start": "10:29",
+            "title": "snapshots.json"
           },
           {
-            "start": "13:36",
+            "cat": "personal",
             "end": "13:57",
-            "cat": "personal",
+            "note": "web.wechat.com",
             "src": "chrome",
-            "title": "redotpay - Google Search",
-            "note": "web.wechat.com"
+            "start": "13:36",
+            "title": "redotpay - Google Search"
           },
           {
-            "start": "13:57",
-            "end": "14:25",
             "cat": "admin",
+            "end": "14:25",
+            "note": "accounts.google.com",
             "src": "chrome",
-            "title": "New Agent - 908/112 Talavera Road, Macquarie Park - ada.ren.",
-            "note": "accounts.google.com"
+            "start": "13:57",
+            "title": "New Agent - 908/112 Talavera Road, Macquarie Park - ada.ren."
           },
           {
-            "start": "15:23",
-            "end": "15:43",
             "cat": "personal",
+            "end": "15:43",
+            "note": "wx.qq.com",
             "src": "chrome",
-            "title": "WeChat/Weixin for Web",
-            "note": "wx.qq.com"
+            "start": "15:23",
+            "title": "WeChat/Weixin for Web"
           }
         ],
+        "key": "2026-6-27",
         "logged": 94,
-        "real": 5,
-        "deep": 5,
         "ratio": 0.05291557144424661,
+        "real": 5,
         "stats": {
           "contextSwitches": 4,
-          "tabsOpened": 12,
+          "justOneMoreThing": 0,
           "longestFocus": "5m",
-          "justOneMoreThing": 0
-        }
+          "tabsOpened": 12
+        },
+        "weekend": true
       },
       {
         "key": "2026-6-28",
@@ -7565,17 +7565,26 @@
         "weekend": true,
         "dateShort": "Sun, Jun 28",
         "dateLong": "Sunday, June 28",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "10:20",
+        "dayEnd": "10:25",
+        "events": [
+          {
+            "start": "10:20",
+            "end": "10:25",
+            "cat": "coding",
+            "src": "local",
+            "title": "snapshots.json",
+            "note": "2 hits"
+          }
+        ],
+        "logged": 5,
+        "real": 5,
+        "deep": 5,
+        "ratio": 1.0,
         "stats": {
           "contextSwitches": 0,
           "tabsOpened": 0,
-          "longestFocus": "0m",
+          "longestFocus": "5m",
           "justOneMoreThing": 0
         }
       },
@@ -7586,16 +7595,33 @@
         "weekend": false,
         "dateShort": "Mon, Jun 29",
         "dateLong": "Monday, June 29",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
+        "dayStart": "10:05",
+        "dayEnd": "10:36",
+        "events": [
+          {
+            "start": "10:05",
+            "end": "10:08",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "What people misunderstand about building in public - ada.ren",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "10:08",
+            "end": "10:36",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Introducing the Substack app",
+            "note": "google.com"
+          }
+        ],
+        "logged": 30,
         "real": 0,
         "deep": 0,
-        "ratio": 0,
+        "ratio": 0.0,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
+          "contextSwitches": 1,
+          "tabsOpened": 6,
           "longestFocus": "0m",
           "justOneMoreThing": 0
         }
@@ -15120,66 +15146,66 @@
       "weekend": false
     },
     {
-      "key": "2026-6-27",
-      "dayNum": 27,
-      "dow": 6,
-      "weekend": true,
-      "dateShort": "Sat, Jun 27",
       "dateLong": "Saturday, June 27",
-      "dayStart": "10:06",
+      "dateShort": "Sat, Jun 27",
       "dayEnd": "15:43",
+      "dayNum": 27,
+      "dayStart": "10:06",
+      "deep": 5,
+      "dow": 6,
       "events": [
         {
-          "start": "10:06",
+          "cat": "personal",
           "end": "10:26",
-          "cat": "personal",
+          "note": "musac.jonasleisure.com.au",
           "src": "chrome",
-          "title": "Admission Docket | Macquarie University Sport and Aquatic Ce",
-          "note": "musac.jonasleisure.com.au"
+          "start": "10:06",
+          "title": "Admission Docket | Macquarie University Sport and Aquatic Ce"
         },
         {
-          "start": "10:29",
-          "end": "10:34",
           "cat": "coding",
+          "end": "10:34",
+          "note": "2 hits",
           "src": "local",
-          "title": "snapshots.json",
-          "note": "2 hits"
+          "start": "10:29",
+          "title": "snapshots.json"
         },
         {
-          "start": "13:36",
+          "cat": "personal",
           "end": "13:57",
-          "cat": "personal",
+          "note": "web.wechat.com",
           "src": "chrome",
-          "title": "redotpay - Google Search",
-          "note": "web.wechat.com"
+          "start": "13:36",
+          "title": "redotpay - Google Search"
         },
         {
-          "start": "13:57",
-          "end": "14:25",
           "cat": "admin",
+          "end": "14:25",
+          "note": "accounts.google.com",
           "src": "chrome",
-          "title": "New Agent - 908/112 Talavera Road, Macquarie Park - ada.ren.",
-          "note": "accounts.google.com"
+          "start": "13:57",
+          "title": "New Agent - 908/112 Talavera Road, Macquarie Park - ada.ren."
         },
         {
-          "start": "15:23",
-          "end": "15:43",
           "cat": "personal",
+          "end": "15:43",
+          "note": "wx.qq.com",
           "src": "chrome",
-          "title": "WeChat/Weixin for Web",
-          "note": "wx.qq.com"
+          "start": "15:23",
+          "title": "WeChat/Weixin for Web"
         }
       ],
+      "key": "2026-6-27",
       "logged": 94,
-      "real": 5,
-      "deep": 5,
       "ratio": 0.05291557144424661,
+      "real": 5,
       "stats": {
         "contextSwitches": 4,
-        "tabsOpened": 12,
+        "justOneMoreThing": 0,
         "longestFocus": "5m",
-        "justOneMoreThing": 0
-      }
+        "tabsOpened": 12
+      },
+      "weekend": true
     },
     {
       "key": "2026-6-28",
@@ -15188,17 +15214,26 @@
       "weekend": true,
       "dateShort": "Sun, Jun 28",
       "dateLong": "Sunday, June 28",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "10:20",
+      "dayEnd": "10:25",
+      "events": [
+        {
+          "start": "10:20",
+          "end": "10:25",
+          "cat": "coding",
+          "src": "local",
+          "title": "snapshots.json",
+          "note": "2 hits"
+        }
+      ],
+      "logged": 5,
+      "real": 5,
+      "deep": 5,
+      "ratio": 1.0,
       "stats": {
         "contextSwitches": 0,
         "tabsOpened": 0,
-        "longestFocus": "0m",
+        "longestFocus": "5m",
         "justOneMoreThing": 0
       }
     },
@@ -15209,16 +15244,33 @@
       "weekend": false,
       "dateShort": "Mon, Jun 29",
       "dateLong": "Monday, June 29",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
+      "dayStart": "10:05",
+      "dayEnd": "10:36",
+      "events": [
+        {
+          "start": "10:05",
+          "end": "10:08",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "What people misunderstand about building in public - ada.ren",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "10:08",
+          "end": "10:36",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Introducing the Substack app",
+          "note": "google.com"
+        }
+      ],
+      "logged": 30,
       "real": 0,
       "deep": 0,
-      "ratio": 0,
+      "ratio": 0.0,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
+        "contextSwitches": 1,
+        "tabsOpened": 6,
         "longestFocus": "0m",
         "justOneMoreThing": 0
       }
