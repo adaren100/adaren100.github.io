@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-06-29T10:20:10+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-06-30T10:20:06+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -7559,34 +7559,34 @@
         "weekend": true
       },
       {
-        "key": "2026-6-28",
-        "dayNum": 28,
-        "dow": 0,
-        "weekend": true,
-        "dateShort": "Sun, Jun 28",
         "dateLong": "Sunday, June 28",
-        "dayStart": "10:20",
+        "dateShort": "Sun, Jun 28",
         "dayEnd": "10:25",
+        "dayNum": 28,
+        "dayStart": "10:20",
+        "deep": 5,
+        "dow": 0,
         "events": [
           {
-            "start": "10:20",
-            "end": "10:25",
             "cat": "coding",
+            "end": "10:25",
+            "note": "2 hits",
             "src": "local",
-            "title": "snapshots.json",
-            "note": "2 hits"
+            "start": "10:20",
+            "title": "snapshots.json"
           }
         ],
+        "key": "2026-6-28",
         "logged": 5,
-        "real": 5,
-        "deep": 5,
         "ratio": 1.0,
+        "real": 5,
         "stats": {
           "contextSwitches": 0,
-          "tabsOpened": 0,
+          "justOneMoreThing": 0,
           "longestFocus": "5m",
-          "justOneMoreThing": 0
-        }
+          "tabsOpened": 0
+        },
+        "weekend": true
       },
       {
         "key": "2026-6-29",
@@ -7596,7 +7596,7 @@
         "dateShort": "Mon, Jun 29",
         "dateLong": "Monday, June 29",
         "dayStart": "10:05",
-        "dayEnd": "10:36",
+        "dayEnd": "18:06",
         "events": [
           {
             "start": "10:05",
@@ -7608,22 +7608,342 @@
           },
           {
             "start": "10:08",
-            "end": "10:36",
+            "end": "10:31",
             "cat": "personal",
             "src": "chrome",
             "title": "Introducing the Substack app",
             "note": "google.com"
+          },
+          {
+            "start": "10:31",
+            "end": "10:36",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Make a Booking | Macquarie University Sport and Aquatic Cent",
+            "note": "musac.jonasleisure.com.au"
+          },
+          {
+            "start": "10:36",
+            "end": "10:45",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Account recovery To help keep your account safe, Google want",
+            "note": "linkedin.com"
+          },
+          {
+            "start": "10:45",
+            "end": "10:46",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "10:46",
+            "end": "10:50",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Account recovery To help keep your account safe, Google want",
+            "note": "linkedin.com"
+          },
+          {
+            "start": "10:50",
+            "end": "10:56",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "10:56",
+            "end": "10:58",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Account recovery To help keep your account safe, Google want",
+            "note": "linkedin.com"
+          },
+          {
+            "start": "10:58",
+            "end": "10:59",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Mike Taylor - Every",
+            "note": "google.com"
+          },
+          {
+            "start": "10:59",
+            "end": "11:15",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Learning to Orchestrate Agents in Natural Language with the ",
+            "note": "sakana.ai"
+          },
+          {
+            "start": "11:16",
+            "end": "11:55",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "11:59",
+            "end": "12:14",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "12:49",
+            "end": "13:00",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "13:01",
+            "end": "13:08",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Inbox (2,555) - ada.ren.cn@gmail.com - Gmail",
+            "note": "accounts.google.com"
+          },
+          {
+            "start": "13:08",
+            "end": "13:11",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "13:11",
+            "end": "13:16",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "13:16",
+            "end": "13:48",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "13:58",
+            "end": "14:02",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "14:02",
+            "end": "14:18",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "14:29",
+            "end": "14:31",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "14:31",
+            "end": "14:47",
+            "cat": "research",
+            "src": "chrome",
+            "title": "pdf",
+            "note": "openreview.net"
+          },
+          {
+            "start": "14:47",
+            "end": "15:07",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Tax Compliance Services in China | Acclime China",
+            "note": "google.com"
+          },
+          {
+            "start": "15:07",
+            "end": "15:48",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Futu | Welcome reward worth up to $1900",
+            "note": "etax.chinatax.gov.cn"
+          },
+          {
+            "start": "15:48",
+            "end": "15:51",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "立即下载富途牛牛！投资首选应用程式",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "15:52",
+            "end": "15:56",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Excel",
+            "note": "com.microsoft.Excel"
+          },
+          {
+            "start": "15:56",
+            "end": "15:57",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "usd to rmb - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "15:57",
+            "end": "16:03",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Inbox (2,555) - ada.ren.cn@gmail.com - Gmail",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "16:03",
+            "end": "16:08",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "16:08",
+            "end": "16:10",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Inbox (2,555) - ada.ren.cn@gmail.com - Gmail",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "16:10",
+            "end": "16:11",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "16:11",
+            "end": "16:12",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "16:12",
+            "end": "16:17",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Group Sessions | Macquarie University Sport and Aquatic Cent",
+            "note": "musac.jonasleisure.com.au"
+          },
+          {
+            "start": "16:17",
+            "end": "16:20",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "16:21",
+            "end": "16:22",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "16:23",
+            "end": "16:25",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Spotify - Web Player: Music for everyone",
+            "note": "open.spotify.com"
+          },
+          {
+            "start": "16:25",
+            "end": "16:28",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "16:28",
+            "end": "16:34",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Spotify - Web Player: Music for everyone",
+            "note": "open.spotify.com"
+          },
+          {
+            "start": "16:34",
+            "end": "16:41",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "16:41",
+            "end": "16:43",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Spotify - Web Player: Music for everyone",
+            "note": "open.spotify.com"
+          },
+          {
+            "start": "16:43",
+            "end": "17:12",
+            "cat": "writing",
+            "src": "macos",
+            "title": "obsidian",
+            "note": "md.obsidian"
+          },
+          {
+            "start": "17:36",
+            "end": "17:45",
+            "cat": "writing",
+            "src": "macos",
+            "title": "obsidian",
+            "note": "md.obsidian"
+          },
+          {
+            "start": "17:46",
+            "end": "18:06",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Google Translate",
+            "note": "translate.google.com"
           }
         ],
-        "logged": 30,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0.0,
+        "logged": 393,
+        "real": 219,
+        "deep": 219,
+        "ratio": 0.5580708209674586,
         "stats": {
-          "contextSwitches": 1,
-          "tabsOpened": 6,
-          "longestFocus": "0m",
-          "justOneMoreThing": 0
+          "contextSwitches": 30,
+          "tabsOpened": 66,
+          "longestFocus": "1h 22m",
+          "justOneMoreThing": 9
         }
       },
       {
@@ -7633,16 +7953,33 @@
         "weekend": false,
         "dateShort": "Tue, Jun 30",
         "dateLong": "Tuesday, June 30",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
+        "dayStart": "10:02",
+        "dayEnd": "10:33",
+        "events": [
+          {
+            "start": "10:02",
+            "end": "10:21",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "会赚钱的股民都在用",
+            "note": "google.com"
+          },
+          {
+            "start": "10:21",
+            "end": "10:33",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "富途证券 | FUTU极速开户，美股港股无缝交易",
+            "note": "futuhk.com"
+          }
+        ],
+        "logged": 32,
         "real": 0,
         "deep": 0,
-        "ratio": 0,
+        "ratio": 0.0,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
+          "contextSwitches": 1,
+          "tabsOpened": 6,
           "longestFocus": "0m",
           "justOneMoreThing": 0
         }
@@ -15208,34 +15545,34 @@
       "weekend": true
     },
     {
-      "key": "2026-6-28",
-      "dayNum": 28,
-      "dow": 0,
-      "weekend": true,
-      "dateShort": "Sun, Jun 28",
       "dateLong": "Sunday, June 28",
-      "dayStart": "10:20",
+      "dateShort": "Sun, Jun 28",
       "dayEnd": "10:25",
+      "dayNum": 28,
+      "dayStart": "10:20",
+      "deep": 5,
+      "dow": 0,
       "events": [
         {
-          "start": "10:20",
-          "end": "10:25",
           "cat": "coding",
+          "end": "10:25",
+          "note": "2 hits",
           "src": "local",
-          "title": "snapshots.json",
-          "note": "2 hits"
+          "start": "10:20",
+          "title": "snapshots.json"
         }
       ],
+      "key": "2026-6-28",
       "logged": 5,
-      "real": 5,
-      "deep": 5,
       "ratio": 1.0,
+      "real": 5,
       "stats": {
         "contextSwitches": 0,
-        "tabsOpened": 0,
+        "justOneMoreThing": 0,
         "longestFocus": "5m",
-        "justOneMoreThing": 0
-      }
+        "tabsOpened": 0
+      },
+      "weekend": true
     },
     {
       "key": "2026-6-29",
@@ -15245,7 +15582,7 @@
       "dateShort": "Mon, Jun 29",
       "dateLong": "Monday, June 29",
       "dayStart": "10:05",
-      "dayEnd": "10:36",
+      "dayEnd": "18:06",
       "events": [
         {
           "start": "10:05",
@@ -15257,22 +15594,342 @@
         },
         {
           "start": "10:08",
-          "end": "10:36",
+          "end": "10:31",
           "cat": "personal",
           "src": "chrome",
           "title": "Introducing the Substack app",
           "note": "google.com"
+        },
+        {
+          "start": "10:31",
+          "end": "10:36",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Make a Booking | Macquarie University Sport and Aquatic Cent",
+          "note": "musac.jonasleisure.com.au"
+        },
+        {
+          "start": "10:36",
+          "end": "10:45",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Account recovery To help keep your account safe, Google want",
+          "note": "linkedin.com"
+        },
+        {
+          "start": "10:45",
+          "end": "10:46",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "10:46",
+          "end": "10:50",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Account recovery To help keep your account safe, Google want",
+          "note": "linkedin.com"
+        },
+        {
+          "start": "10:50",
+          "end": "10:56",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "10:56",
+          "end": "10:58",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Account recovery To help keep your account safe, Google want",
+          "note": "linkedin.com"
+        },
+        {
+          "start": "10:58",
+          "end": "10:59",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Mike Taylor - Every",
+          "note": "google.com"
+        },
+        {
+          "start": "10:59",
+          "end": "11:15",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Learning to Orchestrate Agents in Natural Language with the ",
+          "note": "sakana.ai"
+        },
+        {
+          "start": "11:16",
+          "end": "11:55",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "11:59",
+          "end": "12:14",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "12:49",
+          "end": "13:00",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "13:01",
+          "end": "13:08",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Inbox (2,555) - ada.ren.cn@gmail.com - Gmail",
+          "note": "accounts.google.com"
+        },
+        {
+          "start": "13:08",
+          "end": "13:11",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "13:11",
+          "end": "13:16",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "13:16",
+          "end": "13:48",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "13:58",
+          "end": "14:02",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "14:02",
+          "end": "14:18",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "14:29",
+          "end": "14:31",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "14:31",
+          "end": "14:47",
+          "cat": "research",
+          "src": "chrome",
+          "title": "pdf",
+          "note": "openreview.net"
+        },
+        {
+          "start": "14:47",
+          "end": "15:07",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Tax Compliance Services in China | Acclime China",
+          "note": "google.com"
+        },
+        {
+          "start": "15:07",
+          "end": "15:48",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Futu | Welcome reward worth up to $1900",
+          "note": "etax.chinatax.gov.cn"
+        },
+        {
+          "start": "15:48",
+          "end": "15:51",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "立即下载富途牛牛！投资首选应用程式",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "15:52",
+          "end": "15:56",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Excel",
+          "note": "com.microsoft.Excel"
+        },
+        {
+          "start": "15:56",
+          "end": "15:57",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "usd to rmb - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "15:57",
+          "end": "16:03",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Inbox (2,555) - ada.ren.cn@gmail.com - Gmail",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "16:03",
+          "end": "16:08",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "16:08",
+          "end": "16:10",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Inbox (2,555) - ada.ren.cn@gmail.com - Gmail",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "16:10",
+          "end": "16:11",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "16:11",
+          "end": "16:12",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "16:12",
+          "end": "16:17",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Group Sessions | Macquarie University Sport and Aquatic Cent",
+          "note": "musac.jonasleisure.com.au"
+        },
+        {
+          "start": "16:17",
+          "end": "16:20",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "16:21",
+          "end": "16:22",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "16:23",
+          "end": "16:25",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Spotify - Web Player: Music for everyone",
+          "note": "open.spotify.com"
+        },
+        {
+          "start": "16:25",
+          "end": "16:28",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "16:28",
+          "end": "16:34",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Spotify - Web Player: Music for everyone",
+          "note": "open.spotify.com"
+        },
+        {
+          "start": "16:34",
+          "end": "16:41",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "16:41",
+          "end": "16:43",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Spotify - Web Player: Music for everyone",
+          "note": "open.spotify.com"
+        },
+        {
+          "start": "16:43",
+          "end": "17:12",
+          "cat": "writing",
+          "src": "macos",
+          "title": "obsidian",
+          "note": "md.obsidian"
+        },
+        {
+          "start": "17:36",
+          "end": "17:45",
+          "cat": "writing",
+          "src": "macos",
+          "title": "obsidian",
+          "note": "md.obsidian"
+        },
+        {
+          "start": "17:46",
+          "end": "18:06",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Google Translate",
+          "note": "translate.google.com"
         }
       ],
-      "logged": 30,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0.0,
+      "logged": 393,
+      "real": 219,
+      "deep": 219,
+      "ratio": 0.5580708209674586,
       "stats": {
-        "contextSwitches": 1,
-        "tabsOpened": 6,
-        "longestFocus": "0m",
-        "justOneMoreThing": 0
+        "contextSwitches": 30,
+        "tabsOpened": 66,
+        "longestFocus": "1h 22m",
+        "justOneMoreThing": 9
       }
     },
     {
@@ -15282,16 +15939,33 @@
       "weekend": false,
       "dateShort": "Tue, Jun 30",
       "dateLong": "Tuesday, June 30",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
+      "dayStart": "10:02",
+      "dayEnd": "10:33",
+      "events": [
+        {
+          "start": "10:02",
+          "end": "10:21",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "会赚钱的股民都在用",
+          "note": "google.com"
+        },
+        {
+          "start": "10:21",
+          "end": "10:33",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "富途证券 | FUTU极速开户，美股港股无缝交易",
+          "note": "futuhk.com"
+        }
+      ],
+      "logged": 32,
       "real": 0,
       "deep": 0,
-      "ratio": 0,
+      "ratio": 0.0,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
+        "contextSwitches": 1,
+        "tabsOpened": 6,
         "longestFocus": "0m",
         "justOneMoreThing": 0
       }
