@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-07-01T10:20:07+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-07-02T10:30:18+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -8015,7 +8015,7 @@
         "dateShort": "Wed, Jul 1",
         "dateLong": "Wednesday, July 1",
         "dayStart": "10:00",
-        "dayEnd": "10:38",
+        "dayEnd": "00:33",
         "events": [
           {
             "start": "10:00",
@@ -8027,6 +8027,14 @@
           },
           {
             "start": "10:02",
+            "end": "10:09",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Excel",
+            "note": "com.microsoft.Excel"
+          },
+          {
+            "start": "10:09",
             "end": "10:12",
             "cat": "admin",
             "src": "chrome",
@@ -8035,30 +8043,550 @@
           },
           {
             "start": "10:12",
-            "end": "10:29",
+            "end": "10:20",
             "cat": "admin",
             "src": "chrome",
             "title": "IRD : Average Exchange Rates of Major Foreign Currencies for",
             "note": "ird.gov.hk"
           },
           {
+            "start": "10:20",
+            "end": "10:20",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "IRD : Average Exchange Rates of Major Foreign Currencies for",
+            "note": "ird.gov.hk"
+          },
+          {
+            "start": "10:21",
+            "end": "10:29",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
             "start": "10:29",
-            "end": "10:38",
+            "end": "10:31",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · OpenFugu",
+            "note": "26 hits"
+          },
+          {
+            "start": "10:31",
+            "end": "10:35",
             "cat": "research",
             "src": "chrome",
             "title": "[2605.29563] Planning with the Views",
             "note": "ui.adsabs.harvard.edu"
+          },
+          {
+            "start": "10:36",
+            "end": "10:37",
+            "cat": "research",
+            "src": "chrome",
+            "title": "[2605.29563] Planning with the Views",
+            "note": "ui.adsabs.harvard.edu"
+          },
+          {
+            "start": "10:38",
+            "end": "10:39",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "teams2",
+            "note": "com.microsoft.teams2"
+          },
+          {
+            "start": "10:39",
+            "end": "10:40",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Student Builder Groups | Community | AWS Builder Center",
+            "note": "google.com"
+          },
+          {
+            "start": "10:40",
+            "end": "10:47",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Dates and Venues – ACL Rolling Review – A peer review platfo",
+            "note": "aaai.org"
+          },
+          {
+            "start": "10:47",
+            "end": "10:57",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "10:57",
+            "end": "11:10",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · OpenFugu",
+            "note": "29 hits"
+          },
+          {
+            "start": "11:11",
+            "end": "11:19",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:19",
+            "end": "12:19",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "13:21",
+            "end": "13:22",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "13:26",
+            "end": "13:31",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "11:59 PM UTC-12 - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "13:31",
+            "end": "13:42",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "13:42",
+            "end": "13:43",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "11:59 PM UTC-12 - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "13:43",
+            "end": "13:49",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "13:49",
+            "end": "13:50",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "(21) Discord | #general | POLAR-SemEval2026",
+            "note": "discord.com"
+          },
+          {
+            "start": "13:50",
+            "end": "14:42",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · OpenFugu",
+            "note": "15 hits"
+          },
+          {
+            "start": "14:42",
+            "end": "14:49",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "14:49",
+            "end": "14:54",
+            "cat": "research",
+            "src": "chrome",
+            "title": "AI Digest — July 1, 2026 | Ada's Notes",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "14:54",
+            "end": "14:58",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "boris cherny - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "15:00",
+            "end": "15:01",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Excel",
+            "note": "com.microsoft.Excel"
+          },
+          {
+            "start": "15:01",
+            "end": "15:05",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Edit spreadsheets online for free | Microsoft Excel for the ",
+            "note": "office.live.com"
+          },
+          {
+            "start": "15:05",
+            "end": "15:07",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "15:07",
+            "end": "15:12",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Edit spreadsheets online for free | Microsoft Excel for the ",
+            "note": "office.live.com"
+          },
+          {
+            "start": "15:12",
+            "end": "15:16",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "15:16",
+            "end": "15:20",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Edit spreadsheets online for free | Microsoft Excel for the ",
+            "note": "office.live.com"
+          },
+          {
+            "start": "15:21",
+            "end": "15:22",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:22",
+            "end": "15:38",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:38",
+            "end": "15:43",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:43",
+            "end": "15:53",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · SpreadsheetBench",
+            "note": "23 hits"
+          },
+          {
+            "start": "15:53",
+            "end": "16:27",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "16:27",
+            "end": "16:29",
+            "cat": "research",
+            "src": "chrome",
+            "title": "SOCIA-EVO: Automated Simulator Construction via Dual-Anchore",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "16:29",
+            "end": "16:32",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:36",
+            "end": "16:39",
+            "cat": "research",
+            "src": "chrome",
+            "title": "‪Kaiser Sun‬ - ‪Google Scholar‬",
+            "note": "scholar.google.com"
+          },
+          {
+            "start": "16:41",
+            "end": "16:50",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Reading, Not Thinking: Understanding and Bridging the Modali",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "16:50",
+            "end": "16:57",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:58",
+            "end": "17:00",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "17:01",
+            "end": "17:12",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "17:12",
+            "end": "17:15",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "BYD HYROX Sydney | HYROX",
+            "note": "australia.hyrox.com"
+          },
+          {
+            "start": "17:15",
+            "end": "17:26",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "17:27",
+            "end": "17:39",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Proceedings of the The 20th International Workshop on Semant",
+            "note": "aclanthology.org"
+          },
+          {
+            "start": "17:39",
+            "end": "17:41",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "17:41",
+            "end": "17:47",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Proceedings of the The 20th International Workshop on Semant",
+            "note": "aclanthology.org"
+          },
+          {
+            "start": "17:47",
+            "end": "18:01",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Google Account",
+            "note": "myaccount.google.com"
+          },
+          {
+            "start": "18:01",
+            "end": "18:08",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Naseem: SemEval-2026 Task 9: Detecting Multilingual,... - Go",
+            "note": "scholar.google.com"
+          },
+          {
+            "start": "18:08",
+            "end": "18:17",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "semeval 2026 task 9 acl paper - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "19:25",
+            "end": "19:28",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "POLAR a benchmark for multilingual, multicultural and multi ",
+            "note": "google.com"
+          },
+          {
+            "start": "19:30",
+            "end": "19:34",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "semeval-2026 task 9 - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "19:34",
+            "end": "19:39",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Annual Meeting of the Association for Computational Linguist",
+            "note": "aclanthology.org"
+          },
+          {
+            "start": "19:39",
+            "end": "19:41",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "19:41",
+            "end": "19:43",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Excel",
+            "note": "com.microsoft.Excel"
+          },
+          {
+            "start": "19:43",
+            "end": "19:58",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Annual Meeting of the Association for Computational Linguist",
+            "note": "aclanthology.org"
+          },
+          {
+            "start": "19:58",
+            "end": "20:02",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "20:02",
+            "end": "20:04",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · SpreadsheetBench",
+            "note": "10 hits"
+          },
+          {
+            "start": "20:04",
+            "end": "20:14",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Annual Meeting of the Association for Computational Linguist",
+            "note": "aclanthology.org"
+          },
+          {
+            "start": "20:14",
+            "end": "20:15",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · SpreadsheetBench",
+            "note": "6 hits"
+          },
+          {
+            "start": "20:16",
+            "end": "20:17",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · SpreadsheetBench",
+            "note": "6 hits"
+          },
+          {
+            "start": "20:17",
+            "end": "20:18",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "IKEA 365+ food container with lid, square glass/plastic, 600",
+            "note": "ikea.com.au"
+          },
+          {
+            "start": "20:18",
+            "end": "20:35",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "20:35",
+            "end": "20:37",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "需要人陪 • Leehom Wang",
+            "note": "open.spotify.com"
+          },
+          {
+            "start": "20:37",
+            "end": "21:17",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "21:18",
+            "end": "21:29",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · SpreadsheetBench",
+            "note": "103 hits"
+          },
+          {
+            "start": "21:29",
+            "end": "21:49",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "adaren100/EduAgentBench",
+            "note": "github.com"
+          },
+          {
+            "start": "23:43",
+            "end": "00:33",
+            "cat": "research",
+            "src": "chrome",
+            "title": "[2603.09095] Reading, Not Thinking: Understanding and Bridgi",
+            "note": "arxiv.org"
           }
         ],
-        "logged": 38,
-        "real": 8,
-        "deep": 8,
-        "ratio": 0.21540948857215012,
+        "logged": 605,
+        "real": 498,
+        "deep": 498,
+        "ratio": 0.8218179152966066,
         "stats": {
-          "contextSwitches": 1,
-          "tabsOpened": 9,
-          "longestFocus": "8m",
-          "justOneMoreThing": 0
+          "contextSwitches": 44,
+          "tabsOpened": 99,
+          "longestFocus": "2h 1m",
+          "justOneMoreThing": 8
         }
       },
       {
@@ -8068,18 +8596,139 @@
         "weekend": false,
         "dateShort": "Thu, Jul 2",
         "dateLong": "Thursday, July 2",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "08:53",
+        "dayEnd": "10:06",
+        "events": [
+          {
+            "start": "08:53",
+            "end": "08:55",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "08:55",
+            "end": "08:57",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Join from Zoom Workplace app - Zoom",
+            "note": "tinyurl.com"
+          },
+          {
+            "start": "08:57",
+            "end": "08:58",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "08:58",
+            "end": "08:59",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Join from Zoom Workplace app - Zoom",
+            "note": "tinyurl.com"
+          },
+          {
+            "start": "08:59",
+            "end": "09:01",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "09:01",
+            "end": "09:06",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "xos",
+            "note": "us.zoom.xos"
+          },
+          {
+            "start": "09:06",
+            "end": "09:07",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Join from Zoom Workplace app - Zoom",
+            "note": "tinyurl.com"
+          },
+          {
+            "start": "09:07",
+            "end": "09:14",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "xos",
+            "note": "us.zoom.xos"
+          },
+          {
+            "start": "09:14",
+            "end": "09:15",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Join from Zoom Workplace app - Zoom",
+            "note": "tinyurl.com"
+          },
+          {
+            "start": "09:16",
+            "end": "09:19",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "xos",
+            "note": "us.zoom.xos"
+          },
+          {
+            "start": "09:19",
+            "end": "09:24",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "xos",
+            "note": "us.zoom.xos"
+          },
+          {
+            "start": "09:24",
+            "end": "09:28",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "xos",
+            "note": "us.zoom.xos"
+          },
+          {
+            "start": "09:28",
+            "end": "09:30",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "09:58",
+            "end": "10:03",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Inbox (2,583) - ada.ren.cn@gmail.com - Gmail",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "10:03",
+            "end": "10:06",
+            "cat": "writing",
+            "src": "local",
+            "title": "2026-06-30-redeploying-fable-5.md",
+            "note": "1 hit"
+          }
+        ],
+        "logged": 43,
+        "real": 26,
+        "deep": 26,
+        "ratio": 0.6064271042742484,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "0m",
-          "justOneMoreThing": 0
+          "contextSwitches": 11,
+          "tabsOpened": 18,
+          "longestFocus": "12m",
+          "justOneMoreThing": 2
         }
       },
       {
@@ -8741,7 +9390,7 @@
       "dateShort": "Wed, Jul 1",
       "dateLong": "Wednesday, July 1",
       "dayStart": "10:00",
-      "dayEnd": "10:38",
+      "dayEnd": "00:33",
       "events": [
         {
           "start": "10:00",
@@ -8753,6 +9402,14 @@
         },
         {
           "start": "10:02",
+          "end": "10:09",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Excel",
+          "note": "com.microsoft.Excel"
+        },
+        {
+          "start": "10:09",
           "end": "10:12",
           "cat": "admin",
           "src": "chrome",
@@ -8761,30 +9418,550 @@
         },
         {
           "start": "10:12",
-          "end": "10:29",
+          "end": "10:20",
           "cat": "admin",
           "src": "chrome",
           "title": "IRD : Average Exchange Rates of Major Foreign Currencies for",
           "note": "ird.gov.hk"
         },
         {
+          "start": "10:20",
+          "end": "10:20",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "IRD : Average Exchange Rates of Major Foreign Currencies for",
+          "note": "ird.gov.hk"
+        },
+        {
+          "start": "10:21",
+          "end": "10:29",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
           "start": "10:29",
-          "end": "10:38",
+          "end": "10:31",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · OpenFugu",
+          "note": "26 hits"
+        },
+        {
+          "start": "10:31",
+          "end": "10:35",
           "cat": "research",
           "src": "chrome",
           "title": "[2605.29563] Planning with the Views",
           "note": "ui.adsabs.harvard.edu"
+        },
+        {
+          "start": "10:36",
+          "end": "10:37",
+          "cat": "research",
+          "src": "chrome",
+          "title": "[2605.29563] Planning with the Views",
+          "note": "ui.adsabs.harvard.edu"
+        },
+        {
+          "start": "10:38",
+          "end": "10:39",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "teams2",
+          "note": "com.microsoft.teams2"
+        },
+        {
+          "start": "10:39",
+          "end": "10:40",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Student Builder Groups | Community | AWS Builder Center",
+          "note": "google.com"
+        },
+        {
+          "start": "10:40",
+          "end": "10:47",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Dates and Venues – ACL Rolling Review – A peer review platfo",
+          "note": "aaai.org"
+        },
+        {
+          "start": "10:47",
+          "end": "10:57",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "10:57",
+          "end": "11:10",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · OpenFugu",
+          "note": "29 hits"
+        },
+        {
+          "start": "11:11",
+          "end": "11:19",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:19",
+          "end": "12:19",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "13:21",
+          "end": "13:22",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "13:26",
+          "end": "13:31",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "11:59 PM UTC-12 - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "13:31",
+          "end": "13:42",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "13:42",
+          "end": "13:43",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "11:59 PM UTC-12 - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "13:43",
+          "end": "13:49",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "13:49",
+          "end": "13:50",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "(21) Discord | #general | POLAR-SemEval2026",
+          "note": "discord.com"
+        },
+        {
+          "start": "13:50",
+          "end": "14:42",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · OpenFugu",
+          "note": "15 hits"
+        },
+        {
+          "start": "14:42",
+          "end": "14:49",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "14:49",
+          "end": "14:54",
+          "cat": "research",
+          "src": "chrome",
+          "title": "AI Digest — July 1, 2026 | Ada's Notes",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "14:54",
+          "end": "14:58",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "boris cherny - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "15:00",
+          "end": "15:01",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Excel",
+          "note": "com.microsoft.Excel"
+        },
+        {
+          "start": "15:01",
+          "end": "15:05",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Edit spreadsheets online for free | Microsoft Excel for the ",
+          "note": "office.live.com"
+        },
+        {
+          "start": "15:05",
+          "end": "15:07",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "15:07",
+          "end": "15:12",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Edit spreadsheets online for free | Microsoft Excel for the ",
+          "note": "office.live.com"
+        },
+        {
+          "start": "15:12",
+          "end": "15:16",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "15:16",
+          "end": "15:20",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Edit spreadsheets online for free | Microsoft Excel for the ",
+          "note": "office.live.com"
+        },
+        {
+          "start": "15:21",
+          "end": "15:22",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:22",
+          "end": "15:38",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:38",
+          "end": "15:43",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:43",
+          "end": "15:53",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · SpreadsheetBench",
+          "note": "23 hits"
+        },
+        {
+          "start": "15:53",
+          "end": "16:27",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "16:27",
+          "end": "16:29",
+          "cat": "research",
+          "src": "chrome",
+          "title": "SOCIA-EVO: Automated Simulator Construction via Dual-Anchore",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "16:29",
+          "end": "16:32",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:36",
+          "end": "16:39",
+          "cat": "research",
+          "src": "chrome",
+          "title": "‪Kaiser Sun‬ - ‪Google Scholar‬",
+          "note": "scholar.google.com"
+        },
+        {
+          "start": "16:41",
+          "end": "16:50",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Reading, Not Thinking: Understanding and Bridging the Modali",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "16:50",
+          "end": "16:57",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:58",
+          "end": "17:00",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "17:01",
+          "end": "17:12",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "17:12",
+          "end": "17:15",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "BYD HYROX Sydney | HYROX",
+          "note": "australia.hyrox.com"
+        },
+        {
+          "start": "17:15",
+          "end": "17:26",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "17:27",
+          "end": "17:39",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Proceedings of the The 20th International Workshop on Semant",
+          "note": "aclanthology.org"
+        },
+        {
+          "start": "17:39",
+          "end": "17:41",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "17:41",
+          "end": "17:47",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Proceedings of the The 20th International Workshop on Semant",
+          "note": "aclanthology.org"
+        },
+        {
+          "start": "17:47",
+          "end": "18:01",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Google Account",
+          "note": "myaccount.google.com"
+        },
+        {
+          "start": "18:01",
+          "end": "18:08",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Naseem: SemEval-2026 Task 9: Detecting Multilingual,... - Go",
+          "note": "scholar.google.com"
+        },
+        {
+          "start": "18:08",
+          "end": "18:17",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "semeval 2026 task 9 acl paper - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "19:25",
+          "end": "19:28",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "POLAR a benchmark for multilingual, multicultural and multi ",
+          "note": "google.com"
+        },
+        {
+          "start": "19:30",
+          "end": "19:34",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "semeval-2026 task 9 - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "19:34",
+          "end": "19:39",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Annual Meeting of the Association for Computational Linguist",
+          "note": "aclanthology.org"
+        },
+        {
+          "start": "19:39",
+          "end": "19:41",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "19:41",
+          "end": "19:43",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Excel",
+          "note": "com.microsoft.Excel"
+        },
+        {
+          "start": "19:43",
+          "end": "19:58",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Annual Meeting of the Association for Computational Linguist",
+          "note": "aclanthology.org"
+        },
+        {
+          "start": "19:58",
+          "end": "20:02",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "20:02",
+          "end": "20:04",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · SpreadsheetBench",
+          "note": "10 hits"
+        },
+        {
+          "start": "20:04",
+          "end": "20:14",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Annual Meeting of the Association for Computational Linguist",
+          "note": "aclanthology.org"
+        },
+        {
+          "start": "20:14",
+          "end": "20:15",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · SpreadsheetBench",
+          "note": "6 hits"
+        },
+        {
+          "start": "20:16",
+          "end": "20:17",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · SpreadsheetBench",
+          "note": "6 hits"
+        },
+        {
+          "start": "20:17",
+          "end": "20:18",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "IKEA 365+ food container with lid, square glass/plastic, 600",
+          "note": "ikea.com.au"
+        },
+        {
+          "start": "20:18",
+          "end": "20:35",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "20:35",
+          "end": "20:37",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "需要人陪 • Leehom Wang",
+          "note": "open.spotify.com"
+        },
+        {
+          "start": "20:37",
+          "end": "21:17",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "21:18",
+          "end": "21:29",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · SpreadsheetBench",
+          "note": "103 hits"
+        },
+        {
+          "start": "21:29",
+          "end": "21:49",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "adaren100/EduAgentBench",
+          "note": "github.com"
+        },
+        {
+          "start": "23:43",
+          "end": "00:33",
+          "cat": "research",
+          "src": "chrome",
+          "title": "[2603.09095] Reading, Not Thinking: Understanding and Bridgi",
+          "note": "arxiv.org"
         }
       ],
-      "logged": 38,
-      "real": 8,
-      "deep": 8,
-      "ratio": 0.21540948857215012,
+      "logged": 605,
+      "real": 498,
+      "deep": 498,
+      "ratio": 0.8218179152966066,
       "stats": {
-        "contextSwitches": 1,
-        "tabsOpened": 9,
-        "longestFocus": "8m",
-        "justOneMoreThing": 0
+        "contextSwitches": 44,
+        "tabsOpened": 99,
+        "longestFocus": "2h 1m",
+        "justOneMoreThing": 8
       }
     },
     {
@@ -8794,18 +9971,139 @@
       "weekend": false,
       "dateShort": "Thu, Jul 2",
       "dateLong": "Thursday, July 2",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "08:53",
+      "dayEnd": "10:06",
+      "events": [
+        {
+          "start": "08:53",
+          "end": "08:55",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "08:55",
+          "end": "08:57",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Join from Zoom Workplace app - Zoom",
+          "note": "tinyurl.com"
+        },
+        {
+          "start": "08:57",
+          "end": "08:58",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "08:58",
+          "end": "08:59",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Join from Zoom Workplace app - Zoom",
+          "note": "tinyurl.com"
+        },
+        {
+          "start": "08:59",
+          "end": "09:01",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "09:01",
+          "end": "09:06",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "xos",
+          "note": "us.zoom.xos"
+        },
+        {
+          "start": "09:06",
+          "end": "09:07",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Join from Zoom Workplace app - Zoom",
+          "note": "tinyurl.com"
+        },
+        {
+          "start": "09:07",
+          "end": "09:14",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "xos",
+          "note": "us.zoom.xos"
+        },
+        {
+          "start": "09:14",
+          "end": "09:15",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Join from Zoom Workplace app - Zoom",
+          "note": "tinyurl.com"
+        },
+        {
+          "start": "09:16",
+          "end": "09:19",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "xos",
+          "note": "us.zoom.xos"
+        },
+        {
+          "start": "09:19",
+          "end": "09:24",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "xos",
+          "note": "us.zoom.xos"
+        },
+        {
+          "start": "09:24",
+          "end": "09:28",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "xos",
+          "note": "us.zoom.xos"
+        },
+        {
+          "start": "09:28",
+          "end": "09:30",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "09:58",
+          "end": "10:03",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Inbox (2,583) - ada.ren.cn@gmail.com - Gmail",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "10:03",
+          "end": "10:06",
+          "cat": "writing",
+          "src": "local",
+          "title": "2026-06-30-redeploying-fable-5.md",
+          "note": "1 hit"
+        }
+      ],
+      "logged": 43,
+      "real": 26,
+      "deep": 26,
+      "ratio": 0.6064271042742484,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "0m",
-        "justOneMoreThing": 0
+        "contextSwitches": 11,
+        "tabsOpened": 18,
+        "longestFocus": "12m",
+        "justOneMoreThing": 2
       }
     },
     {
