@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-07-03T10:20:13+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-07-04T10:20:11+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -8590,874 +8590,874 @@
         "weekend": false
       },
       {
-        "key": "2026-7-2",
-        "dayNum": 2,
-        "dow": 4,
-        "weekend": false,
-        "dateShort": "Thu, Jul 2",
         "dateLong": "Thursday, July 2",
-        "dayStart": "08:53",
+        "dateShort": "Thu, Jul 2",
         "dayEnd": "22:22",
+        "dayNum": 2,
+        "dayStart": "08:53",
+        "deep": 302,
+        "dow": 4,
         "events": [
           {
-            "start": "08:53",
+            "cat": "admin",
             "end": "08:55",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "chrome",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "08:53",
+            "title": "Google Translate"
           },
           {
-            "start": "08:55",
+            "cat": "personal",
             "end": "08:57",
-            "cat": "personal",
+            "note": "tinyurl.com",
             "src": "chrome",
-            "title": "Join from Zoom Workplace app - Zoom",
-            "note": "tinyurl.com"
+            "start": "08:55",
+            "title": "Join from Zoom Workplace app - Zoom"
           },
           {
-            "start": "08:57",
+            "cat": "admin",
             "end": "08:58",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "08:57",
+            "title": "Outlook"
           },
           {
-            "start": "08:58",
+            "cat": "personal",
             "end": "08:59",
-            "cat": "personal",
+            "note": "tinyurl.com",
             "src": "chrome",
-            "title": "Join from Zoom Workplace app - Zoom",
-            "note": "tinyurl.com"
+            "start": "08:58",
+            "title": "Join from Zoom Workplace app - Zoom"
           },
           {
-            "start": "08:59",
+            "cat": "admin",
             "end": "09:01",
-            "cat": "admin",
+            "note": "com.tinyspeck.slackmacgap",
             "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "start": "08:59",
+            "title": "slackmacgap"
           },
           {
-            "start": "09:01",
+            "cat": "meeting",
             "end": "09:06",
-            "cat": "meeting",
+            "note": "us.zoom.xos",
             "src": "macos",
-            "title": "xos",
-            "note": "us.zoom.xos"
+            "start": "09:01",
+            "title": "xos"
           },
           {
-            "start": "09:06",
+            "cat": "personal",
             "end": "09:07",
-            "cat": "personal",
+            "note": "tinyurl.com",
             "src": "chrome",
-            "title": "Join from Zoom Workplace app - Zoom",
-            "note": "tinyurl.com"
+            "start": "09:06",
+            "title": "Join from Zoom Workplace app - Zoom"
           },
           {
-            "start": "09:07",
+            "cat": "meeting",
             "end": "09:14",
-            "cat": "meeting",
+            "note": "us.zoom.xos",
             "src": "macos",
-            "title": "xos",
-            "note": "us.zoom.xos"
+            "start": "09:07",
+            "title": "xos"
           },
           {
-            "start": "09:14",
+            "cat": "personal",
             "end": "09:15",
-            "cat": "personal",
+            "note": "tinyurl.com",
             "src": "chrome",
-            "title": "Join from Zoom Workplace app - Zoom",
-            "note": "tinyurl.com"
+            "start": "09:14",
+            "title": "Join from Zoom Workplace app - Zoom"
           },
           {
-            "start": "09:16",
+            "cat": "meeting",
             "end": "09:19",
-            "cat": "meeting",
+            "note": "us.zoom.xos",
             "src": "macos",
-            "title": "xos",
-            "note": "us.zoom.xos"
+            "start": "09:16",
+            "title": "xos"
           },
           {
-            "start": "09:19",
+            "cat": "meeting",
             "end": "09:24",
-            "cat": "meeting",
+            "note": "us.zoom.xos",
             "src": "macos",
-            "title": "xos",
-            "note": "us.zoom.xos"
+            "start": "09:19",
+            "title": "xos"
           },
           {
-            "start": "09:24",
+            "cat": "meeting",
             "end": "09:28",
-            "cat": "meeting",
+            "note": "us.zoom.xos",
             "src": "macos",
-            "title": "xos",
-            "note": "us.zoom.xos"
+            "start": "09:24",
+            "title": "xos"
           },
           {
-            "start": "09:28",
+            "cat": "admin",
             "end": "09:30",
-            "cat": "admin",
+            "note": "com.tinyspeck.slackmacgap",
             "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "start": "09:28",
+            "title": "slackmacgap"
           },
           {
-            "start": "09:53",
+            "cat": "coding",
             "end": "09:58",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "09:53",
+            "title": "VSCode"
           },
           {
-            "start": "09:58",
+            "cat": "admin",
             "end": "10:20",
-            "cat": "admin",
+            "note": "mail.google.com",
             "src": "chrome",
-            "title": "Inbox (2,584) - ada.ren.cn@gmail.com - Gmail",
-            "note": "mail.google.com"
+            "start": "09:58",
+            "title": "Inbox (2,584) - ada.ren.cn@gmail.com - Gmail"
           },
           {
-            "start": "10:30",
+            "cat": "coding",
             "end": "10:35",
-            "cat": "coding",
+            "note": "3 hits",
             "src": "local",
-            "title": "domain_cats.json",
-            "note": "3 hits"
+            "start": "10:30",
+            "title": "domain_cats.json"
           },
           {
-            "start": "11:54",
+            "cat": "writing",
             "end": "11:59",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "2026-07-02.md",
-            "note": "1 hit"
+            "start": "11:54",
+            "title": "2026-07-02.md"
           },
           {
-            "start": "13:04",
+            "cat": "admin",
             "end": "13:23",
-            "cat": "admin",
+            "note": "mail.google.com",
             "src": "chrome",
-            "title": "Inbox (2,584) - ada.ren.cn@gmail.com - Gmail",
-            "note": "mail.google.com"
+            "start": "13:04",
+            "title": "Inbox (2,584) - ada.ren.cn@gmail.com - Gmail"
           },
           {
-            "start": "13:23",
+            "cat": "coding",
             "end": "13:24",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "13:23",
+            "title": "VSCode"
           },
           {
-            "start": "13:24",
+            "cat": "admin",
             "end": "13:28",
-            "cat": "admin",
+            "note": "mail.google.com",
             "src": "chrome",
-            "title": "Inbox (2,584) - ada.ren.cn@gmail.com - Gmail",
-            "note": "mail.google.com"
+            "start": "13:24",
+            "title": "Inbox (2,584) - ada.ren.cn@gmail.com - Gmail"
           },
           {
-            "start": "13:28",
+            "cat": "admin",
             "end": "13:29",
-            "cat": "admin",
+            "note": "accounts.google.com",
             "src": "chrome",
-            "title": "Trending Papers + alphaXiv x marimo Competition - ada.ren.cn",
-            "note": "accounts.google.com"
+            "start": "13:28",
+            "title": "Trending Papers + alphaXiv x marimo Competition - ada.ren.cn"
           },
           {
-            "start": "13:29",
+            "cat": "admin",
             "end": "13:34",
-            "cat": "admin",
+            "note": "accounts.google.com",
             "src": "chrome",
-            "title": "Trending Papers + alphaXiv x marimo Competition - ada.ren.cn",
-            "note": "accounts.google.com"
+            "start": "13:29",
+            "title": "Trending Papers + alphaXiv x marimo Competition - ada.ren.cn"
           },
           {
-            "start": "13:34",
+            "cat": "admin",
             "end": "13:36",
-            "cat": "admin",
+            "note": "accounts.google.com",
             "src": "chrome",
-            "title": "Trending Papers + alphaXiv x marimo Competition - ada.ren.cn",
-            "note": "accounts.google.com"
+            "start": "13:34",
+            "title": "Trending Papers + alphaXiv x marimo Competition - ada.ren.cn"
           },
           {
-            "start": "13:37",
+            "cat": "coding",
             "end": "13:48",
-            "cat": "coding",
+            "note": "199 hits",
             "src": "claude",
-            "title": "Claude session · SkillFlow",
-            "note": "199 hits"
+            "start": "13:37",
+            "title": "Claude session · SkillFlow"
           },
           {
-            "start": "13:49",
+            "cat": "coding",
             "end": "13:51",
-            "cat": "coding",
+            "note": "199 hits",
             "src": "claude",
-            "title": "Claude session · SkillFlow",
-            "note": "199 hits"
+            "start": "13:49",
+            "title": "Claude session · SkillFlow"
           },
           {
-            "start": "14:00",
+            "cat": "coding",
             "end": "14:03",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "14:00",
+            "title": "VSCode"
           },
           {
-            "start": "14:03",
+            "cat": "coding",
             "end": "14:06",
-            "cat": "coding",
+            "note": "262 hits",
             "src": "claude",
-            "title": "Claude session · SkillFlow",
-            "note": "262 hits"
+            "start": "14:03",
+            "title": "Claude session · SkillFlow"
           },
           {
-            "start": "14:06",
+            "cat": "coding",
             "end": "14:26",
-            "cat": "coding",
+            "note": "262 hits",
             "src": "claude",
-            "title": "Claude session · SkillFlow",
-            "note": "262 hits"
+            "start": "14:06",
+            "title": "Claude session · SkillFlow"
           },
           {
-            "start": "14:26",
+            "cat": "coding",
             "end": "14:30",
-            "cat": "coding",
+            "note": "262 hits",
             "src": "claude",
-            "title": "Claude session · SkillFlow",
-            "note": "262 hits"
+            "start": "14:26",
+            "title": "Claude session · SkillFlow"
           },
           {
-            "start": "14:30",
+            "cat": "personal",
             "end": "14:37",
-            "cat": "personal",
+            "note": "x.com",
             "src": "chrome",
-            "title": "(21) Diyi Yang (@Diyi_Yang) / X",
-            "note": "x.com"
+            "start": "14:30",
+            "title": "(21) Diyi Yang (@Diyi_Yang) / X"
           },
           {
-            "start": "14:37",
+            "cat": "coding",
             "end": "14:48",
-            "cat": "coding",
+            "note": "118 hits",
             "src": "claude",
-            "title": "Claude session · SkillFlow",
-            "note": "118 hits"
+            "start": "14:37",
+            "title": "Claude session · SkillFlow"
           },
           {
-            "start": "14:48",
+            "cat": "personal",
             "end": "14:51",
-            "cat": "personal",
+            "note": "googleadservices.com",
             "src": "chrome",
-            "title": "101 AI Use Cases That Are Redefining Procurement | GEP",
-            "note": "googleadservices.com"
+            "start": "14:48",
+            "title": "101 AI Use Cases That Are Redefining Procurement | GEP"
           },
           {
-            "start": "14:51",
+            "cat": "coding",
             "end": "14:52",
-            "cat": "coding",
+            "note": "54 hits",
             "src": "claude",
-            "title": "Claude session · SkillFlow",
-            "note": "54 hits"
+            "start": "14:51",
+            "title": "Claude session · SkillFlow"
           },
           {
-            "start": "14:52",
+            "cat": "coding",
             "end": "14:57",
-            "cat": "coding",
+            "note": "54 hits",
             "src": "claude",
-            "title": "Claude session · SkillFlow",
-            "note": "54 hits"
+            "start": "14:52",
+            "title": "Claude session · SkillFlow"
           },
           {
-            "start": "14:57",
+            "cat": "personal",
             "end": "14:58",
-            "cat": "personal",
+            "note": "googleadservices.com",
             "src": "chrome",
-            "title": "101 AI Use Cases That Are Redefining Procurement | GEP",
-            "note": "googleadservices.com"
+            "start": "14:57",
+            "title": "101 AI Use Cases That Are Redefining Procurement | GEP"
           },
           {
-            "start": "14:58",
+            "cat": "admin",
             "end": "15:01",
-            "cat": "admin",
+            "note": "com.tinyspeck.slackmacgap",
             "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "start": "14:58",
+            "title": "slackmacgap"
           },
           {
-            "start": "15:02",
+            "cat": "coding",
             "end": "15:02",
-            "cat": "coding",
+            "note": "50 hits",
             "src": "claude",
-            "title": "Claude session · SkillFlow",
-            "note": "50 hits"
-          },
-          {
             "start": "15:02",
+            "title": "Claude session · SkillFlow"
+          },
+          {
+            "cat": "coding",
             "end": "15:06",
-            "cat": "coding",
+            "note": "50 hits",
             "src": "claude",
-            "title": "Claude session · SkillFlow",
-            "note": "50 hits"
+            "start": "15:02",
+            "title": "Claude session · SkillFlow"
           },
           {
-            "start": "15:08",
+            "cat": "coding",
             "end": "15:09",
-            "cat": "coding",
+            "note": "50 hits",
             "src": "claude",
-            "title": "Claude session · SkillFlow",
-            "note": "50 hits"
+            "start": "15:08",
+            "title": "Claude session · SkillFlow"
           },
           {
-            "start": "15:09",
+            "cat": "coding",
             "end": "15:10",
-            "cat": "coding",
+            "note": "50 hits",
             "src": "claude",
-            "title": "Claude session · SkillFlow",
-            "note": "50 hits"
+            "start": "15:09",
+            "title": "Claude session · SkillFlow"
           },
           {
+            "cat": "coding",
+            "end": "15:11",
+            "note": "50 hits",
+            "src": "claude",
             "start": "15:10",
-            "end": "15:11",
-            "cat": "coding",
-            "src": "claude",
-            "title": "Claude session · SkillFlow",
-            "note": "50 hits"
+            "title": "Claude session · SkillFlow"
           },
           {
+            "cat": "coding",
+            "end": "15:11",
+            "note": "50 hits",
+            "src": "claude",
             "start": "15:11",
-            "end": "15:11",
-            "cat": "coding",
-            "src": "claude",
-            "title": "Claude session · SkillFlow",
-            "note": "50 hits"
+            "title": "Claude session · SkillFlow"
           },
           {
-            "start": "15:12",
+            "cat": "coding",
             "end": "15:13",
-            "cat": "coding",
+            "note": "5 hits",
             "src": "local",
-            "title": "task.toml",
-            "note": "5 hits"
+            "start": "15:12",
+            "title": "task.toml"
           },
           {
-            "start": "15:13",
+            "cat": "research",
             "end": "15:14",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "15:13",
+            "title": "zotero"
           },
           {
-            "start": "15:14",
+            "cat": "research",
             "end": "15:16",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "15:14",
+            "title": "zotero"
           },
           {
-            "start": "15:16",
+            "cat": "research",
             "end": "15:17",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "15:16",
+            "title": "zotero"
           },
           {
-            "start": "15:17",
+            "cat": "research",
             "end": "15:18",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "15:17",
+            "title": "zotero"
           },
           {
-            "start": "15:18",
+            "cat": "research",
             "end": "15:19",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "15:18",
+            "title": "zotero"
           },
           {
+            "cat": "research",
+            "end": "15:20",
+            "note": "org.zotero.zotero",
+            "src": "macos",
             "start": "15:19",
-            "end": "15:20",
-            "cat": "research",
-            "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "title": "zotero"
           },
           {
-            "start": "15:20",
-            "end": "15:20",
             "cat": "writing",
+            "end": "15:20",
+            "note": "3 hits",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "3 hits"
+            "start": "15:20",
+            "title": "claude-code.txt"
           },
           {
-            "start": "15:21",
+            "cat": "coding",
             "end": "15:22",
-            "cat": "coding",
+            "note": "52 hits",
             "src": "claude",
-            "title": "Claude session · SkillFlow",
-            "note": "52 hits"
+            "start": "15:21",
+            "title": "Claude session · SkillFlow"
           },
           {
-            "start": "15:22",
+            "cat": "coding",
             "end": "15:23",
-            "cat": "coding",
+            "note": "52 hits",
             "src": "claude",
-            "title": "Claude session · SkillFlow",
-            "note": "52 hits"
+            "start": "15:22",
+            "title": "Claude session · SkillFlow"
           },
           {
-            "start": "15:23",
+            "cat": "coding",
             "end": "15:24",
-            "cat": "coding",
+            "note": "52 hits",
             "src": "claude",
-            "title": "Claude session · SkillFlow",
-            "note": "52 hits"
+            "start": "15:23",
+            "title": "Claude session · SkillFlow"
           },
           {
-            "start": "15:24",
+            "cat": "coding",
             "end": "15:25",
-            "cat": "coding",
+            "note": "52 hits",
             "src": "claude",
-            "title": "Claude session · SkillFlow",
-            "note": "52 hits"
+            "start": "15:24",
+            "title": "Claude session · SkillFlow"
           },
           {
-            "start": "15:25",
+            "cat": "coding",
             "end": "15:26",
-            "cat": "coding",
+            "note": "52 hits",
             "src": "claude",
-            "title": "Claude session · SkillFlow",
-            "note": "52 hits"
+            "start": "15:25",
+            "title": "Claude session · SkillFlow"
           },
           {
-            "start": "15:26",
+            "cat": "coding",
             "end": "15:27",
-            "cat": "coding",
+            "note": "52 hits",
             "src": "claude",
-            "title": "Claude session · SkillFlow",
-            "note": "52 hits"
+            "start": "15:26",
+            "title": "Claude session · SkillFlow"
           },
           {
-            "start": "15:27",
+            "cat": "coding",
             "end": "15:30",
-            "cat": "coding",
+            "note": "52 hits",
             "src": "claude",
-            "title": "Claude session · SkillFlow",
-            "note": "52 hits"
+            "start": "15:27",
+            "title": "Claude session · SkillFlow"
           },
           {
-            "start": "15:34",
+            "cat": "coding",
             "end": "15:57",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "15:34",
+            "title": "VSCode"
           },
           {
-            "start": "15:57",
+            "cat": "admin",
             "end": "16:01",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "chrome",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "15:57",
+            "title": "Google Translate"
           },
           {
-            "start": "16:01",
+            "cat": "coding",
             "end": "16:05",
-            "cat": "coding",
+            "note": "6 hits",
             "src": "claude",
-            "title": "Claude session · SkillFlow",
-            "note": "6 hits"
+            "start": "16:01",
+            "title": "Claude session · SkillFlow"
           },
           {
-            "start": "16:05",
+            "cat": "admin",
             "end": "16:06",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "chrome",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "16:05",
+            "title": "Google Translate"
           },
           {
-            "start": "16:08",
+            "cat": "coding",
             "end": "16:11",
-            "cat": "coding",
+            "note": "6 hits",
             "src": "claude",
-            "title": "Claude session · SkillFlow",
-            "note": "6 hits"
+            "start": "16:08",
+            "title": "Claude session · SkillFlow"
           },
           {
-            "start": "16:15",
+            "cat": "coding",
             "end": "16:19",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "16:15",
+            "title": "VSCode"
           },
           {
-            "start": "16:20",
+            "cat": "coding",
             "end": "16:20",
-            "cat": "coding",
+            "note": "260 hits",
             "src": "claude",
-            "title": "Claude session · SkillFlow",
-            "note": "260 hits"
-          },
-          {
             "start": "16:20",
+            "title": "Claude session · SkillFlow"
+          },
+          {
+            "cat": "coding",
             "end": "16:21",
-            "cat": "coding",
+            "note": "260 hits",
             "src": "claude",
-            "title": "Claude session · SkillFlow",
-            "note": "260 hits"
+            "start": "16:20",
+            "title": "Claude session · SkillFlow"
           },
           {
+            "cat": "coding",
+            "end": "16:23",
+            "note": "260 hits",
+            "src": "claude",
             "start": "16:22",
+            "title": "Claude session · SkillFlow"
+          },
+          {
+            "cat": "coding",
             "end": "16:23",
-            "cat": "coding",
+            "note": "260 hits",
             "src": "claude",
-            "title": "Claude session · SkillFlow",
-            "note": "260 hits"
-          },
-          {
             "start": "16:23",
-            "end": "16:23",
-            "cat": "coding",
-            "src": "claude",
-            "title": "Claude session · SkillFlow",
-            "note": "260 hits"
+            "title": "Claude session · SkillFlow"
           },
           {
+            "cat": "coding",
+            "end": "16:25",
+            "note": "260 hits",
+            "src": "claude",
             "start": "16:23",
-            "end": "16:25",
-            "cat": "coding",
-            "src": "claude",
-            "title": "Claude session · SkillFlow",
-            "note": "260 hits"
+            "title": "Claude session · SkillFlow"
           },
           {
-            "start": "16:25",
-            "end": "16:25",
             "cat": "coding",
+            "end": "16:25",
+            "note": "260 hits",
             "src": "claude",
-            "title": "Claude session · SkillFlow",
-            "note": "260 hits"
+            "start": "16:25",
+            "title": "Claude session · SkillFlow"
           },
           {
-            "start": "16:25",
+            "cat": "coding",
             "end": "16:26",
-            "cat": "coding",
+            "note": "260 hits",
             "src": "claude",
-            "title": "Claude session · SkillFlow",
-            "note": "260 hits"
+            "start": "16:25",
+            "title": "Claude session · SkillFlow"
           },
           {
+            "cat": "coding",
+            "end": "16:28",
+            "note": "260 hits",
+            "src": "claude",
             "start": "16:27",
-            "end": "16:28",
-            "cat": "coding",
-            "src": "claude",
-            "title": "Claude session · SkillFlow",
-            "note": "260 hits"
+            "title": "Claude session · SkillFlow"
           },
           {
-            "start": "16:28",
-            "end": "16:28",
             "cat": "coding",
+            "end": "16:28",
+            "note": "260 hits",
             "src": "claude",
-            "title": "Claude session · SkillFlow",
-            "note": "260 hits"
+            "start": "16:28",
+            "title": "Claude session · SkillFlow"
           },
           {
-            "start": "16:28",
+            "cat": "coding",
             "end": "16:29",
-            "cat": "coding",
+            "note": "260 hits",
             "src": "claude",
-            "title": "Claude session · SkillFlow",
-            "note": "260 hits"
+            "start": "16:28",
+            "title": "Claude session · SkillFlow"
           },
           {
-            "start": "16:29",
+            "cat": "coding",
             "end": "16:30",
-            "cat": "coding",
+            "note": "260 hits",
             "src": "claude",
-            "title": "Claude session · SkillFlow",
-            "note": "260 hits"
+            "start": "16:29",
+            "title": "Claude session · SkillFlow"
           },
           {
-            "start": "16:30",
+            "cat": "coding",
             "end": "16:31",
-            "cat": "coding",
+            "note": "260 hits",
             "src": "claude",
-            "title": "Claude session · SkillFlow",
-            "note": "260 hits"
+            "start": "16:30",
+            "title": "Claude session · SkillFlow"
           },
           {
+            "cat": "coding",
+            "end": "16:33",
+            "note": "260 hits",
+            "src": "claude",
             "start": "16:31",
-            "end": "16:33",
-            "cat": "coding",
-            "src": "claude",
-            "title": "Claude session · SkillFlow",
-            "note": "260 hits"
+            "title": "Claude session · SkillFlow"
           },
           {
-            "start": "16:33",
-            "end": "16:33",
             "cat": "coding",
+            "end": "16:33",
+            "note": "260 hits",
             "src": "claude",
-            "title": "Claude session · SkillFlow",
-            "note": "260 hits"
+            "start": "16:33",
+            "title": "Claude session · SkillFlow"
           },
           {
-            "start": "16:33",
+            "cat": "coding",
             "end": "16:34",
-            "cat": "coding",
+            "note": "260 hits",
             "src": "claude",
-            "title": "Claude session · SkillFlow",
-            "note": "260 hits"
+            "start": "16:33",
+            "title": "Claude session · SkillFlow"
           },
           {
-            "start": "16:34",
+            "cat": "coding",
             "end": "16:35",
-            "cat": "coding",
+            "note": "260 hits",
             "src": "claude",
-            "title": "Claude session · SkillFlow",
-            "note": "260 hits"
+            "start": "16:34",
+            "title": "Claude session · SkillFlow"
           },
           {
-            "start": "16:35",
+            "cat": "coding",
             "end": "16:36",
-            "cat": "coding",
+            "note": "260 hits",
             "src": "claude",
-            "title": "Claude session · SkillFlow",
-            "note": "260 hits"
+            "start": "16:35",
+            "title": "Claude session · SkillFlow"
           },
           {
-            "start": "16:36",
+            "cat": "coding",
             "end": "17:08",
-            "cat": "coding",
+            "note": "260 hits",
             "src": "claude",
-            "title": "Claude session · SkillFlow",
-            "note": "260 hits"
+            "start": "16:36",
+            "title": "Claude session · SkillFlow"
           },
           {
-            "start": "17:08",
+            "cat": "coding",
             "end": "17:14",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "17:08",
+            "title": "VSCode"
           },
           {
-            "start": "17:14",
+            "cat": "coding",
             "end": "17:30",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "17:14",
+            "title": "VSCode"
           },
           {
-            "start": "17:30",
+            "cat": "personal",
             "end": "17:35",
-            "cat": "personal",
+            "note": "musac.jonasleisure.com.au",
             "src": "chrome",
-            "title": "Group Sessions | Macquarie University Sport and Aquatic Cent",
-            "note": "musac.jonasleisure.com.au"
+            "start": "17:30",
+            "title": "Group Sessions | Macquarie University Sport and Aquatic Cent"
           },
           {
-            "start": "17:35",
+            "cat": "coding",
             "end": "17:37",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "17:35",
+            "title": "VSCode"
           },
           {
-            "start": "17:37",
+            "cat": "personal",
             "end": "17:45",
-            "cat": "personal",
+            "note": "musac.jonasleisure.com.au",
             "src": "chrome",
-            "title": "Group Sessions | Macquarie University Sport and Aquatic Cent",
-            "note": "musac.jonasleisure.com.au"
+            "start": "17:37",
+            "title": "Group Sessions | Macquarie University Sport and Aquatic Cent"
           },
           {
-            "start": "17:45",
+            "cat": "research",
             "end": "17:46",
-            "cat": "research",
+            "note": "openreview.net",
             "src": "chrome",
-            "title": "Verifying your browser | OpenReview",
-            "note": "openreview.net"
+            "start": "17:45",
+            "title": "Verifying your browser | OpenReview"
           },
           {
-            "start": "17:46",
+            "cat": "coding",
             "end": "17:48",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "17:46",
+            "title": "VSCode"
           },
           {
-            "start": "17:49",
+            "cat": "coding",
             "end": "17:50",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "17:49",
+            "title": "VSCode"
           },
           {
-            "start": "17:50",
+            "cat": "coding",
             "end": "17:51",
-            "cat": "coding",
+            "note": "1 hit",
             "src": "vscode",
-            "title": "VS Code · iter.yaml",
-            "note": "1 hit"
+            "start": "17:50",
+            "title": "VS Code · iter.yaml"
           },
           {
-            "start": "17:51",
+            "cat": "research",
             "end": "17:53",
-            "cat": "research",
+            "note": "openreview.net",
             "src": "chrome",
-            "title": "Verifying your browser | OpenReview",
-            "note": "openreview.net"
+            "start": "17:51",
+            "title": "Verifying your browser | OpenReview"
           },
           {
-            "start": "17:54",
+            "cat": "research",
             "end": "17:57",
-            "cat": "research",
+            "note": "openreview.net",
             "src": "chrome",
-            "title": "Verifying your browser | OpenReview",
-            "note": "openreview.net"
+            "start": "17:54",
+            "title": "Verifying your browser | OpenReview"
           },
           {
-            "start": "17:57",
+            "cat": "coding",
             "end": "18:05",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "17:57",
+            "title": "VSCode"
           },
           {
-            "start": "18:05",
+            "cat": "research",
             "end": "18:07",
-            "cat": "research",
+            "note": "baike.baidu.com",
             "src": "chrome",
-            "title": "Dawn Song（Professor at the University of California, Berkele",
-            "note": "baike.baidu.com"
+            "start": "18:05",
+            "title": "Dawn Song（Professor at the University of California, Berkele"
           },
           {
-            "start": "18:07",
+            "cat": "coding",
             "end": "18:11",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "18:07",
+            "title": "VSCode"
           },
           {
-            "start": "18:11",
+            "cat": "coding",
             "end": "18:12",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "18:11",
+            "title": "VSCode"
           },
           {
-            "start": "18:12",
-            "end": "18:15",
             "cat": "admin",
+            "end": "18:15",
+            "note": "mail.google.com",
             "src": "chrome",
-            "title": "Inbox (2,584) - ada.ren.cn@gmail.com - Gmail",
-            "note": "mail.google.com"
+            "start": "18:12",
+            "title": "Inbox (2,584) - ada.ren.cn@gmail.com - Gmail"
           },
           {
-            "start": "18:15",
+            "cat": "coding",
             "end": "18:39",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "18:15",
+            "title": "VSCode"
           },
           {
-            "start": "18:40",
+            "cat": "research",
             "end": "18:43",
-            "cat": "research",
+            "note": "en.wikipedia.org",
             "src": "chrome",
-            "title": "List of political parties in Australia - Wikipedia",
-            "note": "en.wikipedia.org"
+            "start": "18:40",
+            "title": "List of political parties in Australia - Wikipedia"
           },
           {
-            "start": "18:45",
+            "cat": "coding",
             "end": "18:49",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "18:45",
+            "title": "VSCode"
           },
           {
-            "start": "18:49",
+            "cat": "research",
             "end": "18:50",
-            "cat": "research",
+            "note": "openreview.net",
             "src": "chrome",
-            "title": "pdf",
-            "note": "openreview.net"
+            "start": "18:49",
+            "title": "pdf"
           },
           {
-            "start": "18:50",
-            "end": "18:53",
             "cat": "coding",
+            "end": "18:53",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "18:50",
+            "title": "VSCode"
           },
           {
-            "start": "18:53",
+            "cat": "research",
             "end": "19:05",
-            "cat": "research",
+            "note": "openreview.net",
             "src": "chrome",
-            "title": "pdf",
-            "note": "openreview.net"
+            "start": "18:53",
+            "title": "pdf"
           },
           {
-            "start": "19:05",
+            "cat": "personal",
             "end": "19:09",
-            "cat": "personal",
+            "note": "x.com",
             "src": "chrome",
-            "title": "(21) #ACL2026 - 搜索 / X",
-            "note": "x.com"
+            "start": "19:05",
+            "title": "(21) #ACL2026 - 搜索 / X"
           },
           {
-            "start": "22:10",
+            "cat": "personal",
             "end": "22:11",
-            "cat": "personal",
+            "note": "x.com",
             "src": "chrome",
-            "title": "(21) 主页 / X",
-            "note": "x.com"
+            "start": "22:10",
+            "title": "(21) 主页 / X"
           },
           {
-            "start": "22:11",
-            "end": "22:22",
             "cat": "research",
+            "end": "22:22",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "22:11",
+            "title": "zotero"
           }
         ],
+        "key": "2026-7-2",
         "logged": 411,
-        "real": 302,
-        "deep": 302,
         "ratio": 0.7351401352999094,
+        "real": 302,
         "stats": {
           "contextSwitches": 50,
-          "tabsOpened": 84,
+          "justOneMoreThing": 10,
           "longestFocus": "1h 14m",
-          "justOneMoreThing": 10
-        }
+          "tabsOpened": 84
+        },
+        "weekend": false
       },
       {
         "key": "2026-7-3",
@@ -9466,18 +9466,379 @@
         "weekend": false,
         "dateShort": "Fri, Jul 3",
         "dateLong": "Friday, July 3",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "10:18",
+        "dayEnd": "21:53",
+        "events": [
+          {
+            "start": "10:18",
+            "end": "10:21",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "10:21",
+            "end": "10:22",
+            "cat": "coding",
+            "src": "local",
+            "title": "domain_cats.json",
+            "note": "3 hits"
+          },
+          {
+            "start": "10:22",
+            "end": "10:25",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "代际公不公平不知道，同代你肯定公平不了 - 税务相关 - 门户 - 新足迹 - Powered by Discuz!",
+            "note": "youtube.com"
+          },
+          {
+            "start": "10:25",
+            "end": "10:35",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "10:35",
+            "end": "10:36",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "代际公不公平不知道，同代你肯定公平不了 - 税务相关 - 门户 - 新足迹 - Powered by Discuz!",
+            "note": "youtube.com"
+          },
+          {
+            "start": "10:37",
+            "end": "10:40",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "10:40",
+            "end": "10:47",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "代际公不公平不知道，同代你肯定公平不了 - 税务相关 - 门户 - 新足迹 - Powered by Discuz!",
+            "note": "youtube.com"
+          },
+          {
+            "start": "10:47",
+            "end": "11:10",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "11:10",
+            "end": "11:14",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:24",
+            "end": "11:25",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Inbox (2,588) - ada.ren.cn@gmail.com - Gmail",
+            "note": "accounts.google.com"
+          },
+          {
+            "start": "11:25",
+            "end": "11:26",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:26",
+            "end": "11:37",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Inbox (2,588) - ada.ren.cn@gmail.com - Gmail",
+            "note": "accounts.google.com"
+          },
+          {
+            "start": "11:37",
+            "end": "11:47",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "11:47",
+            "end": "11:49",
+            "cat": "meeting",
+            "src": "chrome",
+            "title": "Join from Zoom Workplace app - Zoom",
+            "note": "us06web.zoom.us"
+          },
+          {
+            "start": "11:51",
+            "end": "11:56",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "11:56",
+            "end": "12:00",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Beyond Accuracy: Unveiling Inefficiency Patterns in Tool-Int",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "12:01",
+            "end": "12:24",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Amazon.com.au: Shop online for Electronics, Apparel, Toys, B",
+            "note": "amazon.com.au"
+          },
+          {
+            "start": "13:21",
+            "end": "13:31",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "希望與絕望: 對抗恐懼社會的盼望精神（《倦怠社會》作者韓炳哲新作） - 韓炳哲(Byung-Chul Han) - Go",
+            "note": "airitibooks.com"
+          },
+          {
+            "start": "13:31",
+            "end": "13:35",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "13:35",
+            "end": "13:38",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "希望與絕望: 對抗恐懼社會的盼望精神（《倦怠社會》作者韓炳哲新作） - 韓炳哲(Byung-Chul Han) - Go",
+            "note": "airitibooks.com"
+          },
+          {
+            "start": "13:38",
+            "end": "13:40",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "希望與絕望: 對抗恐懼社會的盼望精神（《倦怠社會》作者韓炳哲新作） - 韓炳哲(Byung-Chul Han) - Go",
+            "note": "airitibooks.com"
+          },
+          {
+            "start": "13:40",
+            "end": "13:42",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "13:42",
+            "end": "13:45",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "希望與絕望: 對抗恐懼社會的盼望精神（《倦怠社會》作者韓炳哲新作） - 韓炳哲(Byung-Chul Han) - Go",
+            "note": "airitibooks.com"
+          },
+          {
+            "start": "13:45",
+            "end": "13:46",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "13:47",
+            "end": "13:52",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "13:52",
+            "end": "13:55",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Affordable Furniture and Home Inspiration - IKEA Australia",
+            "note": "amazon.com.au"
+          },
+          {
+            "start": "13:55",
+            "end": "14:00",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "14:00",
+            "end": "14:03",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "14:03",
+            "end": "14:04",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "14:05",
+            "end": "14:06",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "希望與絕望, 對抗恐懼社會的盼望精神（《倦怠社會》作者韓炳哲新作） - Google Play Books",
+            "note": "play.google.com"
+          },
+          {
+            "start": "14:06",
+            "end": "14:08",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "14:08",
+            "end": "14:21",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "希望與絕望, 對抗恐懼社會的盼望精神（《倦怠社會》作者韓炳哲新作） - Google Play Books",
+            "note": "play.google.com"
+          },
+          {
+            "start": "14:21",
+            "end": "14:23",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "14:23",
+            "end": "14:25",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "希望與絕望, 對抗恐懼社會的盼望精神（《倦怠社會》作者韓炳哲新作） - Google Play Books",
+            "note": "play.google.com"
+          },
+          {
+            "start": "14:27",
+            "end": "14:30",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "14:38",
+            "end": "15:47",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "15:55",
+            "end": "16:20",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "16:23",
+            "end": "16:24",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "16:25",
+            "end": "16:29",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "2000年代華語金曲 | Spotify Playlist",
+            "note": "open.spotify.com"
+          },
+          {
+            "start": "16:29",
+            "end": "16:30",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "16:30",
+            "end": "16:34",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "2000年代華語金曲 | Spotify Playlist",
+            "note": "open.spotify.com"
+          },
+          {
+            "start": "16:34",
+            "end": "16:44",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "16:44",
+            "end": "16:44",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "2000年代華語金曲 | Spotify Playlist",
+            "note": "open.spotify.com"
+          },
+          {
+            "start": "20:34",
+            "end": "21:21",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "IKEA Sale – Discover Deals on Stylish, Affordable Products -",
+            "note": "ikea.com.au"
+          },
+          {
+            "start": "21:50",
+            "end": "21:53",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Ask Gemini - Options Page",
+            "note": "chrome-extension://daeaddalijienfjkhigbi"
+          }
+        ],
+        "logged": 344,
+        "real": 200,
+        "deep": 200,
+        "ratio": 0.5833238529227269,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "0m",
-          "justOneMoreThing": 0
+          "contextSwitches": 36,
+          "tabsOpened": 66,
+          "longestFocus": "1h 38m",
+          "justOneMoreThing": 11
         }
       },
       {
@@ -10693,874 +11054,874 @@
       "weekend": false
     },
     {
-      "key": "2026-7-2",
-      "dayNum": 2,
-      "dow": 4,
-      "weekend": false,
-      "dateShort": "Thu, Jul 2",
       "dateLong": "Thursday, July 2",
-      "dayStart": "08:53",
+      "dateShort": "Thu, Jul 2",
       "dayEnd": "22:22",
+      "dayNum": 2,
+      "dayStart": "08:53",
+      "deep": 302,
+      "dow": 4,
       "events": [
         {
-          "start": "08:53",
+          "cat": "admin",
           "end": "08:55",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "chrome",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "08:53",
+          "title": "Google Translate"
         },
         {
-          "start": "08:55",
+          "cat": "personal",
           "end": "08:57",
-          "cat": "personal",
+          "note": "tinyurl.com",
           "src": "chrome",
-          "title": "Join from Zoom Workplace app - Zoom",
-          "note": "tinyurl.com"
+          "start": "08:55",
+          "title": "Join from Zoom Workplace app - Zoom"
         },
         {
-          "start": "08:57",
+          "cat": "admin",
           "end": "08:58",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "08:57",
+          "title": "Outlook"
         },
         {
-          "start": "08:58",
+          "cat": "personal",
           "end": "08:59",
-          "cat": "personal",
+          "note": "tinyurl.com",
           "src": "chrome",
-          "title": "Join from Zoom Workplace app - Zoom",
-          "note": "tinyurl.com"
+          "start": "08:58",
+          "title": "Join from Zoom Workplace app - Zoom"
         },
         {
-          "start": "08:59",
+          "cat": "admin",
           "end": "09:01",
-          "cat": "admin",
+          "note": "com.tinyspeck.slackmacgap",
           "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "start": "08:59",
+          "title": "slackmacgap"
         },
         {
-          "start": "09:01",
+          "cat": "meeting",
           "end": "09:06",
-          "cat": "meeting",
+          "note": "us.zoom.xos",
           "src": "macos",
-          "title": "xos",
-          "note": "us.zoom.xos"
+          "start": "09:01",
+          "title": "xos"
         },
         {
-          "start": "09:06",
+          "cat": "personal",
           "end": "09:07",
-          "cat": "personal",
+          "note": "tinyurl.com",
           "src": "chrome",
-          "title": "Join from Zoom Workplace app - Zoom",
-          "note": "tinyurl.com"
+          "start": "09:06",
+          "title": "Join from Zoom Workplace app - Zoom"
         },
         {
-          "start": "09:07",
+          "cat": "meeting",
           "end": "09:14",
-          "cat": "meeting",
+          "note": "us.zoom.xos",
           "src": "macos",
-          "title": "xos",
-          "note": "us.zoom.xos"
+          "start": "09:07",
+          "title": "xos"
         },
         {
-          "start": "09:14",
+          "cat": "personal",
           "end": "09:15",
-          "cat": "personal",
+          "note": "tinyurl.com",
           "src": "chrome",
-          "title": "Join from Zoom Workplace app - Zoom",
-          "note": "tinyurl.com"
+          "start": "09:14",
+          "title": "Join from Zoom Workplace app - Zoom"
         },
         {
-          "start": "09:16",
+          "cat": "meeting",
           "end": "09:19",
-          "cat": "meeting",
+          "note": "us.zoom.xos",
           "src": "macos",
-          "title": "xos",
-          "note": "us.zoom.xos"
+          "start": "09:16",
+          "title": "xos"
         },
         {
-          "start": "09:19",
+          "cat": "meeting",
           "end": "09:24",
-          "cat": "meeting",
+          "note": "us.zoom.xos",
           "src": "macos",
-          "title": "xos",
-          "note": "us.zoom.xos"
+          "start": "09:19",
+          "title": "xos"
         },
         {
-          "start": "09:24",
+          "cat": "meeting",
           "end": "09:28",
-          "cat": "meeting",
+          "note": "us.zoom.xos",
           "src": "macos",
-          "title": "xos",
-          "note": "us.zoom.xos"
+          "start": "09:24",
+          "title": "xos"
         },
         {
-          "start": "09:28",
+          "cat": "admin",
           "end": "09:30",
-          "cat": "admin",
+          "note": "com.tinyspeck.slackmacgap",
           "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "start": "09:28",
+          "title": "slackmacgap"
         },
         {
-          "start": "09:53",
+          "cat": "coding",
           "end": "09:58",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "09:53",
+          "title": "VSCode"
         },
         {
-          "start": "09:58",
+          "cat": "admin",
           "end": "10:20",
-          "cat": "admin",
+          "note": "mail.google.com",
           "src": "chrome",
-          "title": "Inbox (2,584) - ada.ren.cn@gmail.com - Gmail",
-          "note": "mail.google.com"
+          "start": "09:58",
+          "title": "Inbox (2,584) - ada.ren.cn@gmail.com - Gmail"
         },
         {
-          "start": "10:30",
+          "cat": "coding",
           "end": "10:35",
-          "cat": "coding",
+          "note": "3 hits",
           "src": "local",
-          "title": "domain_cats.json",
-          "note": "3 hits"
+          "start": "10:30",
+          "title": "domain_cats.json"
         },
         {
-          "start": "11:54",
+          "cat": "writing",
           "end": "11:59",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "2026-07-02.md",
-          "note": "1 hit"
+          "start": "11:54",
+          "title": "2026-07-02.md"
         },
         {
-          "start": "13:04",
+          "cat": "admin",
           "end": "13:23",
-          "cat": "admin",
+          "note": "mail.google.com",
           "src": "chrome",
-          "title": "Inbox (2,584) - ada.ren.cn@gmail.com - Gmail",
-          "note": "mail.google.com"
+          "start": "13:04",
+          "title": "Inbox (2,584) - ada.ren.cn@gmail.com - Gmail"
         },
         {
-          "start": "13:23",
+          "cat": "coding",
           "end": "13:24",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "13:23",
+          "title": "VSCode"
         },
         {
-          "start": "13:24",
+          "cat": "admin",
           "end": "13:28",
-          "cat": "admin",
+          "note": "mail.google.com",
           "src": "chrome",
-          "title": "Inbox (2,584) - ada.ren.cn@gmail.com - Gmail",
-          "note": "mail.google.com"
+          "start": "13:24",
+          "title": "Inbox (2,584) - ada.ren.cn@gmail.com - Gmail"
         },
         {
-          "start": "13:28",
+          "cat": "admin",
           "end": "13:29",
-          "cat": "admin",
+          "note": "accounts.google.com",
           "src": "chrome",
-          "title": "Trending Papers + alphaXiv x marimo Competition - ada.ren.cn",
-          "note": "accounts.google.com"
+          "start": "13:28",
+          "title": "Trending Papers + alphaXiv x marimo Competition - ada.ren.cn"
         },
         {
-          "start": "13:29",
+          "cat": "admin",
           "end": "13:34",
-          "cat": "admin",
+          "note": "accounts.google.com",
           "src": "chrome",
-          "title": "Trending Papers + alphaXiv x marimo Competition - ada.ren.cn",
-          "note": "accounts.google.com"
+          "start": "13:29",
+          "title": "Trending Papers + alphaXiv x marimo Competition - ada.ren.cn"
         },
         {
-          "start": "13:34",
+          "cat": "admin",
           "end": "13:36",
-          "cat": "admin",
+          "note": "accounts.google.com",
           "src": "chrome",
-          "title": "Trending Papers + alphaXiv x marimo Competition - ada.ren.cn",
-          "note": "accounts.google.com"
+          "start": "13:34",
+          "title": "Trending Papers + alphaXiv x marimo Competition - ada.ren.cn"
         },
         {
-          "start": "13:37",
+          "cat": "coding",
           "end": "13:48",
-          "cat": "coding",
+          "note": "199 hits",
           "src": "claude",
-          "title": "Claude session · SkillFlow",
-          "note": "199 hits"
+          "start": "13:37",
+          "title": "Claude session · SkillFlow"
         },
         {
-          "start": "13:49",
+          "cat": "coding",
           "end": "13:51",
-          "cat": "coding",
+          "note": "199 hits",
           "src": "claude",
-          "title": "Claude session · SkillFlow",
-          "note": "199 hits"
+          "start": "13:49",
+          "title": "Claude session · SkillFlow"
         },
         {
-          "start": "14:00",
+          "cat": "coding",
           "end": "14:03",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "14:00",
+          "title": "VSCode"
         },
         {
-          "start": "14:03",
+          "cat": "coding",
           "end": "14:06",
-          "cat": "coding",
+          "note": "262 hits",
           "src": "claude",
-          "title": "Claude session · SkillFlow",
-          "note": "262 hits"
+          "start": "14:03",
+          "title": "Claude session · SkillFlow"
         },
         {
-          "start": "14:06",
+          "cat": "coding",
           "end": "14:26",
-          "cat": "coding",
+          "note": "262 hits",
           "src": "claude",
-          "title": "Claude session · SkillFlow",
-          "note": "262 hits"
+          "start": "14:06",
+          "title": "Claude session · SkillFlow"
         },
         {
-          "start": "14:26",
+          "cat": "coding",
           "end": "14:30",
-          "cat": "coding",
+          "note": "262 hits",
           "src": "claude",
-          "title": "Claude session · SkillFlow",
-          "note": "262 hits"
+          "start": "14:26",
+          "title": "Claude session · SkillFlow"
         },
         {
-          "start": "14:30",
+          "cat": "personal",
           "end": "14:37",
-          "cat": "personal",
+          "note": "x.com",
           "src": "chrome",
-          "title": "(21) Diyi Yang (@Diyi_Yang) / X",
-          "note": "x.com"
+          "start": "14:30",
+          "title": "(21) Diyi Yang (@Diyi_Yang) / X"
         },
         {
-          "start": "14:37",
+          "cat": "coding",
           "end": "14:48",
-          "cat": "coding",
+          "note": "118 hits",
           "src": "claude",
-          "title": "Claude session · SkillFlow",
-          "note": "118 hits"
+          "start": "14:37",
+          "title": "Claude session · SkillFlow"
         },
         {
-          "start": "14:48",
+          "cat": "personal",
           "end": "14:51",
-          "cat": "personal",
+          "note": "googleadservices.com",
           "src": "chrome",
-          "title": "101 AI Use Cases That Are Redefining Procurement | GEP",
-          "note": "googleadservices.com"
+          "start": "14:48",
+          "title": "101 AI Use Cases That Are Redefining Procurement | GEP"
         },
         {
-          "start": "14:51",
+          "cat": "coding",
           "end": "14:52",
-          "cat": "coding",
+          "note": "54 hits",
           "src": "claude",
-          "title": "Claude session · SkillFlow",
-          "note": "54 hits"
+          "start": "14:51",
+          "title": "Claude session · SkillFlow"
         },
         {
-          "start": "14:52",
+          "cat": "coding",
           "end": "14:57",
-          "cat": "coding",
+          "note": "54 hits",
           "src": "claude",
-          "title": "Claude session · SkillFlow",
-          "note": "54 hits"
+          "start": "14:52",
+          "title": "Claude session · SkillFlow"
         },
         {
-          "start": "14:57",
+          "cat": "personal",
           "end": "14:58",
-          "cat": "personal",
+          "note": "googleadservices.com",
           "src": "chrome",
-          "title": "101 AI Use Cases That Are Redefining Procurement | GEP",
-          "note": "googleadservices.com"
+          "start": "14:57",
+          "title": "101 AI Use Cases That Are Redefining Procurement | GEP"
         },
         {
-          "start": "14:58",
+          "cat": "admin",
           "end": "15:01",
-          "cat": "admin",
+          "note": "com.tinyspeck.slackmacgap",
           "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "start": "14:58",
+          "title": "slackmacgap"
         },
         {
-          "start": "15:02",
+          "cat": "coding",
           "end": "15:02",
-          "cat": "coding",
+          "note": "50 hits",
           "src": "claude",
-          "title": "Claude session · SkillFlow",
-          "note": "50 hits"
-        },
-        {
           "start": "15:02",
+          "title": "Claude session · SkillFlow"
+        },
+        {
+          "cat": "coding",
           "end": "15:06",
-          "cat": "coding",
+          "note": "50 hits",
           "src": "claude",
-          "title": "Claude session · SkillFlow",
-          "note": "50 hits"
+          "start": "15:02",
+          "title": "Claude session · SkillFlow"
         },
         {
-          "start": "15:08",
+          "cat": "coding",
           "end": "15:09",
-          "cat": "coding",
+          "note": "50 hits",
           "src": "claude",
-          "title": "Claude session · SkillFlow",
-          "note": "50 hits"
+          "start": "15:08",
+          "title": "Claude session · SkillFlow"
         },
         {
-          "start": "15:09",
+          "cat": "coding",
           "end": "15:10",
-          "cat": "coding",
+          "note": "50 hits",
           "src": "claude",
-          "title": "Claude session · SkillFlow",
-          "note": "50 hits"
+          "start": "15:09",
+          "title": "Claude session · SkillFlow"
         },
         {
+          "cat": "coding",
+          "end": "15:11",
+          "note": "50 hits",
+          "src": "claude",
           "start": "15:10",
-          "end": "15:11",
-          "cat": "coding",
-          "src": "claude",
-          "title": "Claude session · SkillFlow",
-          "note": "50 hits"
+          "title": "Claude session · SkillFlow"
         },
         {
+          "cat": "coding",
+          "end": "15:11",
+          "note": "50 hits",
+          "src": "claude",
           "start": "15:11",
-          "end": "15:11",
-          "cat": "coding",
-          "src": "claude",
-          "title": "Claude session · SkillFlow",
-          "note": "50 hits"
+          "title": "Claude session · SkillFlow"
         },
         {
-          "start": "15:12",
+          "cat": "coding",
           "end": "15:13",
-          "cat": "coding",
+          "note": "5 hits",
           "src": "local",
-          "title": "task.toml",
-          "note": "5 hits"
+          "start": "15:12",
+          "title": "task.toml"
         },
         {
-          "start": "15:13",
+          "cat": "research",
           "end": "15:14",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "15:13",
+          "title": "zotero"
         },
         {
-          "start": "15:14",
+          "cat": "research",
           "end": "15:16",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "15:14",
+          "title": "zotero"
         },
         {
-          "start": "15:16",
+          "cat": "research",
           "end": "15:17",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "15:16",
+          "title": "zotero"
         },
         {
-          "start": "15:17",
+          "cat": "research",
           "end": "15:18",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "15:17",
+          "title": "zotero"
         },
         {
-          "start": "15:18",
+          "cat": "research",
           "end": "15:19",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "15:18",
+          "title": "zotero"
         },
         {
+          "cat": "research",
+          "end": "15:20",
+          "note": "org.zotero.zotero",
+          "src": "macos",
           "start": "15:19",
-          "end": "15:20",
-          "cat": "research",
-          "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "title": "zotero"
         },
         {
-          "start": "15:20",
-          "end": "15:20",
           "cat": "writing",
+          "end": "15:20",
+          "note": "3 hits",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "3 hits"
+          "start": "15:20",
+          "title": "claude-code.txt"
         },
         {
-          "start": "15:21",
+          "cat": "coding",
           "end": "15:22",
-          "cat": "coding",
+          "note": "52 hits",
           "src": "claude",
-          "title": "Claude session · SkillFlow",
-          "note": "52 hits"
+          "start": "15:21",
+          "title": "Claude session · SkillFlow"
         },
         {
-          "start": "15:22",
+          "cat": "coding",
           "end": "15:23",
-          "cat": "coding",
+          "note": "52 hits",
           "src": "claude",
-          "title": "Claude session · SkillFlow",
-          "note": "52 hits"
+          "start": "15:22",
+          "title": "Claude session · SkillFlow"
         },
         {
-          "start": "15:23",
+          "cat": "coding",
           "end": "15:24",
-          "cat": "coding",
+          "note": "52 hits",
           "src": "claude",
-          "title": "Claude session · SkillFlow",
-          "note": "52 hits"
+          "start": "15:23",
+          "title": "Claude session · SkillFlow"
         },
         {
-          "start": "15:24",
+          "cat": "coding",
           "end": "15:25",
-          "cat": "coding",
+          "note": "52 hits",
           "src": "claude",
-          "title": "Claude session · SkillFlow",
-          "note": "52 hits"
+          "start": "15:24",
+          "title": "Claude session · SkillFlow"
         },
         {
-          "start": "15:25",
+          "cat": "coding",
           "end": "15:26",
-          "cat": "coding",
+          "note": "52 hits",
           "src": "claude",
-          "title": "Claude session · SkillFlow",
-          "note": "52 hits"
+          "start": "15:25",
+          "title": "Claude session · SkillFlow"
         },
         {
-          "start": "15:26",
+          "cat": "coding",
           "end": "15:27",
-          "cat": "coding",
+          "note": "52 hits",
           "src": "claude",
-          "title": "Claude session · SkillFlow",
-          "note": "52 hits"
+          "start": "15:26",
+          "title": "Claude session · SkillFlow"
         },
         {
-          "start": "15:27",
+          "cat": "coding",
           "end": "15:30",
-          "cat": "coding",
+          "note": "52 hits",
           "src": "claude",
-          "title": "Claude session · SkillFlow",
-          "note": "52 hits"
+          "start": "15:27",
+          "title": "Claude session · SkillFlow"
         },
         {
-          "start": "15:34",
+          "cat": "coding",
           "end": "15:57",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "15:34",
+          "title": "VSCode"
         },
         {
-          "start": "15:57",
+          "cat": "admin",
           "end": "16:01",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "chrome",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "15:57",
+          "title": "Google Translate"
         },
         {
-          "start": "16:01",
+          "cat": "coding",
           "end": "16:05",
-          "cat": "coding",
+          "note": "6 hits",
           "src": "claude",
-          "title": "Claude session · SkillFlow",
-          "note": "6 hits"
+          "start": "16:01",
+          "title": "Claude session · SkillFlow"
         },
         {
-          "start": "16:05",
+          "cat": "admin",
           "end": "16:06",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "chrome",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "16:05",
+          "title": "Google Translate"
         },
         {
-          "start": "16:08",
+          "cat": "coding",
           "end": "16:11",
-          "cat": "coding",
+          "note": "6 hits",
           "src": "claude",
-          "title": "Claude session · SkillFlow",
-          "note": "6 hits"
+          "start": "16:08",
+          "title": "Claude session · SkillFlow"
         },
         {
-          "start": "16:15",
+          "cat": "coding",
           "end": "16:19",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "16:15",
+          "title": "VSCode"
         },
         {
-          "start": "16:20",
+          "cat": "coding",
           "end": "16:20",
-          "cat": "coding",
+          "note": "260 hits",
           "src": "claude",
-          "title": "Claude session · SkillFlow",
-          "note": "260 hits"
-        },
-        {
           "start": "16:20",
+          "title": "Claude session · SkillFlow"
+        },
+        {
+          "cat": "coding",
           "end": "16:21",
-          "cat": "coding",
+          "note": "260 hits",
           "src": "claude",
-          "title": "Claude session · SkillFlow",
-          "note": "260 hits"
+          "start": "16:20",
+          "title": "Claude session · SkillFlow"
         },
         {
+          "cat": "coding",
+          "end": "16:23",
+          "note": "260 hits",
+          "src": "claude",
           "start": "16:22",
+          "title": "Claude session · SkillFlow"
+        },
+        {
+          "cat": "coding",
           "end": "16:23",
-          "cat": "coding",
+          "note": "260 hits",
           "src": "claude",
-          "title": "Claude session · SkillFlow",
-          "note": "260 hits"
-        },
-        {
           "start": "16:23",
-          "end": "16:23",
-          "cat": "coding",
-          "src": "claude",
-          "title": "Claude session · SkillFlow",
-          "note": "260 hits"
+          "title": "Claude session · SkillFlow"
         },
         {
+          "cat": "coding",
+          "end": "16:25",
+          "note": "260 hits",
+          "src": "claude",
           "start": "16:23",
-          "end": "16:25",
-          "cat": "coding",
-          "src": "claude",
-          "title": "Claude session · SkillFlow",
-          "note": "260 hits"
+          "title": "Claude session · SkillFlow"
         },
         {
-          "start": "16:25",
-          "end": "16:25",
           "cat": "coding",
+          "end": "16:25",
+          "note": "260 hits",
           "src": "claude",
-          "title": "Claude session · SkillFlow",
-          "note": "260 hits"
+          "start": "16:25",
+          "title": "Claude session · SkillFlow"
         },
         {
-          "start": "16:25",
+          "cat": "coding",
           "end": "16:26",
-          "cat": "coding",
+          "note": "260 hits",
           "src": "claude",
-          "title": "Claude session · SkillFlow",
-          "note": "260 hits"
+          "start": "16:25",
+          "title": "Claude session · SkillFlow"
         },
         {
+          "cat": "coding",
+          "end": "16:28",
+          "note": "260 hits",
+          "src": "claude",
           "start": "16:27",
-          "end": "16:28",
-          "cat": "coding",
-          "src": "claude",
-          "title": "Claude session · SkillFlow",
-          "note": "260 hits"
+          "title": "Claude session · SkillFlow"
         },
         {
-          "start": "16:28",
-          "end": "16:28",
           "cat": "coding",
+          "end": "16:28",
+          "note": "260 hits",
           "src": "claude",
-          "title": "Claude session · SkillFlow",
-          "note": "260 hits"
+          "start": "16:28",
+          "title": "Claude session · SkillFlow"
         },
         {
-          "start": "16:28",
+          "cat": "coding",
           "end": "16:29",
-          "cat": "coding",
+          "note": "260 hits",
           "src": "claude",
-          "title": "Claude session · SkillFlow",
-          "note": "260 hits"
+          "start": "16:28",
+          "title": "Claude session · SkillFlow"
         },
         {
-          "start": "16:29",
+          "cat": "coding",
           "end": "16:30",
-          "cat": "coding",
+          "note": "260 hits",
           "src": "claude",
-          "title": "Claude session · SkillFlow",
-          "note": "260 hits"
+          "start": "16:29",
+          "title": "Claude session · SkillFlow"
         },
         {
-          "start": "16:30",
+          "cat": "coding",
           "end": "16:31",
-          "cat": "coding",
+          "note": "260 hits",
           "src": "claude",
-          "title": "Claude session · SkillFlow",
-          "note": "260 hits"
+          "start": "16:30",
+          "title": "Claude session · SkillFlow"
         },
         {
+          "cat": "coding",
+          "end": "16:33",
+          "note": "260 hits",
+          "src": "claude",
           "start": "16:31",
-          "end": "16:33",
-          "cat": "coding",
-          "src": "claude",
-          "title": "Claude session · SkillFlow",
-          "note": "260 hits"
+          "title": "Claude session · SkillFlow"
         },
         {
-          "start": "16:33",
-          "end": "16:33",
           "cat": "coding",
+          "end": "16:33",
+          "note": "260 hits",
           "src": "claude",
-          "title": "Claude session · SkillFlow",
-          "note": "260 hits"
+          "start": "16:33",
+          "title": "Claude session · SkillFlow"
         },
         {
-          "start": "16:33",
+          "cat": "coding",
           "end": "16:34",
-          "cat": "coding",
+          "note": "260 hits",
           "src": "claude",
-          "title": "Claude session · SkillFlow",
-          "note": "260 hits"
+          "start": "16:33",
+          "title": "Claude session · SkillFlow"
         },
         {
-          "start": "16:34",
+          "cat": "coding",
           "end": "16:35",
-          "cat": "coding",
+          "note": "260 hits",
           "src": "claude",
-          "title": "Claude session · SkillFlow",
-          "note": "260 hits"
+          "start": "16:34",
+          "title": "Claude session · SkillFlow"
         },
         {
-          "start": "16:35",
+          "cat": "coding",
           "end": "16:36",
-          "cat": "coding",
+          "note": "260 hits",
           "src": "claude",
-          "title": "Claude session · SkillFlow",
-          "note": "260 hits"
+          "start": "16:35",
+          "title": "Claude session · SkillFlow"
         },
         {
-          "start": "16:36",
+          "cat": "coding",
           "end": "17:08",
-          "cat": "coding",
+          "note": "260 hits",
           "src": "claude",
-          "title": "Claude session · SkillFlow",
-          "note": "260 hits"
+          "start": "16:36",
+          "title": "Claude session · SkillFlow"
         },
         {
-          "start": "17:08",
+          "cat": "coding",
           "end": "17:14",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "17:08",
+          "title": "VSCode"
         },
         {
-          "start": "17:14",
+          "cat": "coding",
           "end": "17:30",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "17:14",
+          "title": "VSCode"
         },
         {
-          "start": "17:30",
+          "cat": "personal",
           "end": "17:35",
-          "cat": "personal",
+          "note": "musac.jonasleisure.com.au",
           "src": "chrome",
-          "title": "Group Sessions | Macquarie University Sport and Aquatic Cent",
-          "note": "musac.jonasleisure.com.au"
+          "start": "17:30",
+          "title": "Group Sessions | Macquarie University Sport and Aquatic Cent"
         },
         {
-          "start": "17:35",
+          "cat": "coding",
           "end": "17:37",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "17:35",
+          "title": "VSCode"
         },
         {
-          "start": "17:37",
+          "cat": "personal",
           "end": "17:45",
-          "cat": "personal",
+          "note": "musac.jonasleisure.com.au",
           "src": "chrome",
-          "title": "Group Sessions | Macquarie University Sport and Aquatic Cent",
-          "note": "musac.jonasleisure.com.au"
+          "start": "17:37",
+          "title": "Group Sessions | Macquarie University Sport and Aquatic Cent"
         },
         {
-          "start": "17:45",
+          "cat": "research",
           "end": "17:46",
-          "cat": "research",
+          "note": "openreview.net",
           "src": "chrome",
-          "title": "Verifying your browser | OpenReview",
-          "note": "openreview.net"
+          "start": "17:45",
+          "title": "Verifying your browser | OpenReview"
         },
         {
-          "start": "17:46",
+          "cat": "coding",
           "end": "17:48",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "17:46",
+          "title": "VSCode"
         },
         {
-          "start": "17:49",
+          "cat": "coding",
           "end": "17:50",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "17:49",
+          "title": "VSCode"
         },
         {
-          "start": "17:50",
+          "cat": "coding",
           "end": "17:51",
-          "cat": "coding",
+          "note": "1 hit",
           "src": "vscode",
-          "title": "VS Code · iter.yaml",
-          "note": "1 hit"
+          "start": "17:50",
+          "title": "VS Code · iter.yaml"
         },
         {
-          "start": "17:51",
+          "cat": "research",
           "end": "17:53",
-          "cat": "research",
+          "note": "openreview.net",
           "src": "chrome",
-          "title": "Verifying your browser | OpenReview",
-          "note": "openreview.net"
+          "start": "17:51",
+          "title": "Verifying your browser | OpenReview"
         },
         {
-          "start": "17:54",
+          "cat": "research",
           "end": "17:57",
-          "cat": "research",
+          "note": "openreview.net",
           "src": "chrome",
-          "title": "Verifying your browser | OpenReview",
-          "note": "openreview.net"
+          "start": "17:54",
+          "title": "Verifying your browser | OpenReview"
         },
         {
-          "start": "17:57",
+          "cat": "coding",
           "end": "18:05",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "17:57",
+          "title": "VSCode"
         },
         {
-          "start": "18:05",
+          "cat": "research",
           "end": "18:07",
-          "cat": "research",
+          "note": "baike.baidu.com",
           "src": "chrome",
-          "title": "Dawn Song（Professor at the University of California, Berkele",
-          "note": "baike.baidu.com"
+          "start": "18:05",
+          "title": "Dawn Song（Professor at the University of California, Berkele"
         },
         {
-          "start": "18:07",
+          "cat": "coding",
           "end": "18:11",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "18:07",
+          "title": "VSCode"
         },
         {
-          "start": "18:11",
+          "cat": "coding",
           "end": "18:12",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "18:11",
+          "title": "VSCode"
         },
         {
-          "start": "18:12",
-          "end": "18:15",
           "cat": "admin",
+          "end": "18:15",
+          "note": "mail.google.com",
           "src": "chrome",
-          "title": "Inbox (2,584) - ada.ren.cn@gmail.com - Gmail",
-          "note": "mail.google.com"
+          "start": "18:12",
+          "title": "Inbox (2,584) - ada.ren.cn@gmail.com - Gmail"
         },
         {
-          "start": "18:15",
+          "cat": "coding",
           "end": "18:39",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "18:15",
+          "title": "VSCode"
         },
         {
-          "start": "18:40",
+          "cat": "research",
           "end": "18:43",
-          "cat": "research",
+          "note": "en.wikipedia.org",
           "src": "chrome",
-          "title": "List of political parties in Australia - Wikipedia",
-          "note": "en.wikipedia.org"
+          "start": "18:40",
+          "title": "List of political parties in Australia - Wikipedia"
         },
         {
-          "start": "18:45",
+          "cat": "coding",
           "end": "18:49",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "18:45",
+          "title": "VSCode"
         },
         {
-          "start": "18:49",
+          "cat": "research",
           "end": "18:50",
-          "cat": "research",
+          "note": "openreview.net",
           "src": "chrome",
-          "title": "pdf",
-          "note": "openreview.net"
+          "start": "18:49",
+          "title": "pdf"
         },
         {
-          "start": "18:50",
-          "end": "18:53",
           "cat": "coding",
+          "end": "18:53",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "18:50",
+          "title": "VSCode"
         },
         {
-          "start": "18:53",
+          "cat": "research",
           "end": "19:05",
-          "cat": "research",
+          "note": "openreview.net",
           "src": "chrome",
-          "title": "pdf",
-          "note": "openreview.net"
+          "start": "18:53",
+          "title": "pdf"
         },
         {
-          "start": "19:05",
+          "cat": "personal",
           "end": "19:09",
-          "cat": "personal",
+          "note": "x.com",
           "src": "chrome",
-          "title": "(21) #ACL2026 - 搜索 / X",
-          "note": "x.com"
+          "start": "19:05",
+          "title": "(21) #ACL2026 - 搜索 / X"
         },
         {
-          "start": "22:10",
+          "cat": "personal",
           "end": "22:11",
-          "cat": "personal",
+          "note": "x.com",
           "src": "chrome",
-          "title": "(21) 主页 / X",
-          "note": "x.com"
+          "start": "22:10",
+          "title": "(21) 主页 / X"
         },
         {
-          "start": "22:11",
-          "end": "22:22",
           "cat": "research",
+          "end": "22:22",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "22:11",
+          "title": "zotero"
         }
       ],
+      "key": "2026-7-2",
       "logged": 411,
-      "real": 302,
-      "deep": 302,
       "ratio": 0.7351401352999094,
+      "real": 302,
       "stats": {
         "contextSwitches": 50,
-        "tabsOpened": 84,
+        "justOneMoreThing": 10,
         "longestFocus": "1h 14m",
-        "justOneMoreThing": 10
-      }
+        "tabsOpened": 84
+      },
+      "weekend": false
     },
     {
       "key": "2026-7-3",
@@ -11569,18 +11930,379 @@
       "weekend": false,
       "dateShort": "Fri, Jul 3",
       "dateLong": "Friday, July 3",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "10:18",
+      "dayEnd": "21:53",
+      "events": [
+        {
+          "start": "10:18",
+          "end": "10:21",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "10:21",
+          "end": "10:22",
+          "cat": "coding",
+          "src": "local",
+          "title": "domain_cats.json",
+          "note": "3 hits"
+        },
+        {
+          "start": "10:22",
+          "end": "10:25",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "代际公不公平不知道，同代你肯定公平不了 - 税务相关 - 门户 - 新足迹 - Powered by Discuz!",
+          "note": "youtube.com"
+        },
+        {
+          "start": "10:25",
+          "end": "10:35",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "10:35",
+          "end": "10:36",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "代际公不公平不知道，同代你肯定公平不了 - 税务相关 - 门户 - 新足迹 - Powered by Discuz!",
+          "note": "youtube.com"
+        },
+        {
+          "start": "10:37",
+          "end": "10:40",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "10:40",
+          "end": "10:47",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "代际公不公平不知道，同代你肯定公平不了 - 税务相关 - 门户 - 新足迹 - Powered by Discuz!",
+          "note": "youtube.com"
+        },
+        {
+          "start": "10:47",
+          "end": "11:10",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "11:10",
+          "end": "11:14",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:24",
+          "end": "11:25",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Inbox (2,588) - ada.ren.cn@gmail.com - Gmail",
+          "note": "accounts.google.com"
+        },
+        {
+          "start": "11:25",
+          "end": "11:26",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:26",
+          "end": "11:37",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Inbox (2,588) - ada.ren.cn@gmail.com - Gmail",
+          "note": "accounts.google.com"
+        },
+        {
+          "start": "11:37",
+          "end": "11:47",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "11:47",
+          "end": "11:49",
+          "cat": "meeting",
+          "src": "chrome",
+          "title": "Join from Zoom Workplace app - Zoom",
+          "note": "us06web.zoom.us"
+        },
+        {
+          "start": "11:51",
+          "end": "11:56",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "11:56",
+          "end": "12:00",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Beyond Accuracy: Unveiling Inefficiency Patterns in Tool-Int",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "12:01",
+          "end": "12:24",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Amazon.com.au: Shop online for Electronics, Apparel, Toys, B",
+          "note": "amazon.com.au"
+        },
+        {
+          "start": "13:21",
+          "end": "13:31",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "希望與絕望: 對抗恐懼社會的盼望精神（《倦怠社會》作者韓炳哲新作） - 韓炳哲(Byung-Chul Han) - Go",
+          "note": "airitibooks.com"
+        },
+        {
+          "start": "13:31",
+          "end": "13:35",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "13:35",
+          "end": "13:38",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "希望與絕望: 對抗恐懼社會的盼望精神（《倦怠社會》作者韓炳哲新作） - 韓炳哲(Byung-Chul Han) - Go",
+          "note": "airitibooks.com"
+        },
+        {
+          "start": "13:38",
+          "end": "13:40",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "希望與絕望: 對抗恐懼社會的盼望精神（《倦怠社會》作者韓炳哲新作） - 韓炳哲(Byung-Chul Han) - Go",
+          "note": "airitibooks.com"
+        },
+        {
+          "start": "13:40",
+          "end": "13:42",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "13:42",
+          "end": "13:45",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "希望與絕望: 對抗恐懼社會的盼望精神（《倦怠社會》作者韓炳哲新作） - 韓炳哲(Byung-Chul Han) - Go",
+          "note": "airitibooks.com"
+        },
+        {
+          "start": "13:45",
+          "end": "13:46",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "13:47",
+          "end": "13:52",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "13:52",
+          "end": "13:55",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Affordable Furniture and Home Inspiration - IKEA Australia",
+          "note": "amazon.com.au"
+        },
+        {
+          "start": "13:55",
+          "end": "14:00",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "14:00",
+          "end": "14:03",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "14:03",
+          "end": "14:04",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "14:05",
+          "end": "14:06",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "希望與絕望, 對抗恐懼社會的盼望精神（《倦怠社會》作者韓炳哲新作） - Google Play Books",
+          "note": "play.google.com"
+        },
+        {
+          "start": "14:06",
+          "end": "14:08",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "14:08",
+          "end": "14:21",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "希望與絕望, 對抗恐懼社會的盼望精神（《倦怠社會》作者韓炳哲新作） - Google Play Books",
+          "note": "play.google.com"
+        },
+        {
+          "start": "14:21",
+          "end": "14:23",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "14:23",
+          "end": "14:25",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "希望與絕望, 對抗恐懼社會的盼望精神（《倦怠社會》作者韓炳哲新作） - Google Play Books",
+          "note": "play.google.com"
+        },
+        {
+          "start": "14:27",
+          "end": "14:30",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "14:38",
+          "end": "15:47",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "15:55",
+          "end": "16:20",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "16:23",
+          "end": "16:24",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "16:25",
+          "end": "16:29",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "2000年代華語金曲 | Spotify Playlist",
+          "note": "open.spotify.com"
+        },
+        {
+          "start": "16:29",
+          "end": "16:30",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "16:30",
+          "end": "16:34",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "2000年代華語金曲 | Spotify Playlist",
+          "note": "open.spotify.com"
+        },
+        {
+          "start": "16:34",
+          "end": "16:44",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "16:44",
+          "end": "16:44",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "2000年代華語金曲 | Spotify Playlist",
+          "note": "open.spotify.com"
+        },
+        {
+          "start": "20:34",
+          "end": "21:21",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "IKEA Sale – Discover Deals on Stylish, Affordable Products -",
+          "note": "ikea.com.au"
+        },
+        {
+          "start": "21:50",
+          "end": "21:53",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Ask Gemini - Options Page",
+          "note": "chrome-extension://daeaddalijienfjkhigbi"
+        }
+      ],
+      "logged": 344,
+      "real": 200,
+      "deep": 200,
+      "ratio": 0.5833238529227269,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "0m",
-        "justOneMoreThing": 0
+        "contextSwitches": 36,
+        "tabsOpened": 66,
+        "longestFocus": "1h 38m",
+        "justOneMoreThing": 11
       }
     },
     {
