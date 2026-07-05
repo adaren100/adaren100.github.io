@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-07-04T10:20:11+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-07-05T10:38:20+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -9460,386 +9460,386 @@
         "weekend": false
       },
       {
-        "key": "2026-7-3",
-        "dayNum": 3,
-        "dow": 5,
-        "weekend": false,
-        "dateShort": "Fri, Jul 3",
         "dateLong": "Friday, July 3",
-        "dayStart": "10:18",
+        "dateShort": "Fri, Jul 3",
         "dayEnd": "21:53",
+        "dayNum": 3,
+        "dayStart": "10:18",
+        "deep": 200,
+        "dow": 5,
         "events": [
           {
-            "start": "10:18",
+            "cat": "research",
             "end": "10:21",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "10:18",
+            "title": "zotero"
           },
           {
-            "start": "10:21",
+            "cat": "coding",
             "end": "10:22",
-            "cat": "coding",
+            "note": "3 hits",
             "src": "local",
-            "title": "domain_cats.json",
-            "note": "3 hits"
+            "start": "10:21",
+            "title": "domain_cats.json"
           },
           {
-            "start": "10:22",
+            "cat": "personal",
             "end": "10:25",
-            "cat": "personal",
+            "note": "youtube.com",
             "src": "chrome",
-            "title": "代际公不公平不知道，同代你肯定公平不了 - 税务相关 - 门户 - 新足迹 - Powered by Discuz!",
-            "note": "youtube.com"
+            "start": "10:22",
+            "title": "代际公不公平不知道，同代你肯定公平不了 - 税务相关 - 门户 - 新足迹 - Powered by Discuz!"
           },
           {
-            "start": "10:25",
+            "cat": "coding",
             "end": "10:35",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "10:25",
+            "title": "VSCode"
           },
           {
-            "start": "10:35",
+            "cat": "personal",
             "end": "10:36",
-            "cat": "personal",
+            "note": "youtube.com",
             "src": "chrome",
-            "title": "代际公不公平不知道，同代你肯定公平不了 - 税务相关 - 门户 - 新足迹 - Powered by Discuz!",
-            "note": "youtube.com"
+            "start": "10:35",
+            "title": "代际公不公平不知道，同代你肯定公平不了 - 税务相关 - 门户 - 新足迹 - Powered by Discuz!"
           },
           {
-            "start": "10:37",
+            "cat": "research",
             "end": "10:40",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "10:37",
+            "title": "zotero"
           },
           {
-            "start": "10:40",
+            "cat": "personal",
             "end": "10:47",
-            "cat": "personal",
+            "note": "youtube.com",
             "src": "chrome",
-            "title": "代际公不公平不知道，同代你肯定公平不了 - 税务相关 - 门户 - 新足迹 - Powered by Discuz!",
-            "note": "youtube.com"
+            "start": "10:40",
+            "title": "代际公不公平不知道，同代你肯定公平不了 - 税务相关 - 门户 - 新足迹 - Powered by Discuz!"
           },
           {
-            "start": "10:47",
+            "cat": "research",
             "end": "11:10",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "10:47",
+            "title": "zotero"
           },
           {
-            "start": "11:10",
+            "cat": "coding",
             "end": "11:14",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "11:10",
+            "title": "VSCode"
           },
           {
-            "start": "11:24",
+            "cat": "admin",
             "end": "11:25",
-            "cat": "admin",
+            "note": "accounts.google.com",
             "src": "chrome",
-            "title": "Inbox (2,588) - ada.ren.cn@gmail.com - Gmail",
-            "note": "accounts.google.com"
+            "start": "11:24",
+            "title": "Inbox (2,588) - ada.ren.cn@gmail.com - Gmail"
           },
           {
-            "start": "11:25",
+            "cat": "coding",
             "end": "11:26",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "11:25",
+            "title": "VSCode"
           },
           {
-            "start": "11:26",
+            "cat": "admin",
             "end": "11:37",
-            "cat": "admin",
+            "note": "accounts.google.com",
             "src": "chrome",
-            "title": "Inbox (2,588) - ada.ren.cn@gmail.com - Gmail",
-            "note": "accounts.google.com"
+            "start": "11:26",
+            "title": "Inbox (2,588) - ada.ren.cn@gmail.com - Gmail"
           },
           {
-            "start": "11:37",
+            "cat": "research",
             "end": "11:47",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "11:37",
+            "title": "zotero"
           },
           {
-            "start": "11:47",
-            "end": "11:49",
             "cat": "meeting",
+            "end": "11:49",
+            "note": "us06web.zoom.us",
             "src": "chrome",
-            "title": "Join from Zoom Workplace app - Zoom",
-            "note": "us06web.zoom.us"
+            "start": "11:47",
+            "title": "Join from Zoom Workplace app - Zoom"
           },
           {
-            "start": "11:51",
+            "cat": "research",
             "end": "11:56",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "11:51",
+            "title": "zotero"
           },
           {
-            "start": "11:56",
+            "cat": "research",
             "end": "12:00",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "chrome",
-            "title": "Beyond Accuracy: Unveiling Inefficiency Patterns in Tool-Int",
-            "note": "arxiv.org"
+            "start": "11:56",
+            "title": "Beyond Accuracy: Unveiling Inefficiency Patterns in Tool-Int"
           },
           {
-            "start": "12:01",
+            "cat": "personal",
             "end": "12:24",
-            "cat": "personal",
+            "note": "amazon.com.au",
             "src": "chrome",
-            "title": "Amazon.com.au: Shop online for Electronics, Apparel, Toys, B",
-            "note": "amazon.com.au"
+            "start": "12:01",
+            "title": "Amazon.com.au: Shop online for Electronics, Apparel, Toys, B"
           },
           {
-            "start": "13:21",
+            "cat": "personal",
             "end": "13:31",
-            "cat": "personal",
+            "note": "airitibooks.com",
             "src": "chrome",
-            "title": "希望與絕望: 對抗恐懼社會的盼望精神（《倦怠社會》作者韓炳哲新作） - 韓炳哲(Byung-Chul Han) - Go",
-            "note": "airitibooks.com"
+            "start": "13:21",
+            "title": "希望與絕望: 對抗恐懼社會的盼望精神（《倦怠社會》作者韓炳哲新作） - 韓炳哲(Byung-Chul Han) - Go"
           },
           {
-            "start": "13:31",
+            "cat": "research",
             "end": "13:35",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "13:31",
+            "title": "zotero"
           },
           {
-            "start": "13:35",
+            "cat": "personal",
             "end": "13:38",
-            "cat": "personal",
+            "note": "airitibooks.com",
             "src": "chrome",
-            "title": "希望與絕望: 對抗恐懼社會的盼望精神（《倦怠社會》作者韓炳哲新作） - 韓炳哲(Byung-Chul Han) - Go",
-            "note": "airitibooks.com"
+            "start": "13:35",
+            "title": "希望與絕望: 對抗恐懼社會的盼望精神（《倦怠社會》作者韓炳哲新作） - 韓炳哲(Byung-Chul Han) - Go"
           },
           {
-            "start": "13:38",
+            "cat": "personal",
             "end": "13:40",
-            "cat": "personal",
+            "note": "airitibooks.com",
             "src": "chrome",
-            "title": "希望與絕望: 對抗恐懼社會的盼望精神（《倦怠社會》作者韓炳哲新作） - 韓炳哲(Byung-Chul Han) - Go",
-            "note": "airitibooks.com"
+            "start": "13:38",
+            "title": "希望與絕望: 對抗恐懼社會的盼望精神（《倦怠社會》作者韓炳哲新作） - 韓炳哲(Byung-Chul Han) - Go"
           },
           {
-            "start": "13:40",
+            "cat": "research",
             "end": "13:42",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "13:40",
+            "title": "zotero"
           },
           {
-            "start": "13:42",
+            "cat": "personal",
             "end": "13:45",
-            "cat": "personal",
+            "note": "airitibooks.com",
             "src": "chrome",
-            "title": "希望與絕望: 對抗恐懼社會的盼望精神（《倦怠社會》作者韓炳哲新作） - 韓炳哲(Byung-Chul Han) - Go",
-            "note": "airitibooks.com"
+            "start": "13:42",
+            "title": "希望與絕望: 對抗恐懼社會的盼望精神（《倦怠社會》作者韓炳哲新作） - 韓炳哲(Byung-Chul Han) - Go"
           },
           {
-            "start": "13:45",
+            "cat": "research",
             "end": "13:46",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "13:45",
+            "title": "zotero"
           },
           {
-            "start": "13:47",
+            "cat": "research",
             "end": "13:52",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "13:47",
+            "title": "zotero"
           },
           {
-            "start": "13:52",
+            "cat": "personal",
             "end": "13:55",
-            "cat": "personal",
+            "note": "amazon.com.au",
             "src": "chrome",
-            "title": "Affordable Furniture and Home Inspiration - IKEA Australia",
-            "note": "amazon.com.au"
+            "start": "13:52",
+            "title": "Affordable Furniture and Home Inspiration - IKEA Australia"
           },
           {
-            "start": "13:55",
+            "cat": "research",
             "end": "14:00",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "13:55",
+            "title": "zotero"
           },
           {
-            "start": "14:00",
-            "end": "14:03",
             "cat": "admin",
+            "end": "14:03",
+            "note": "translate.google.com",
             "src": "chrome",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "14:00",
+            "title": "Google Translate"
           },
           {
-            "start": "14:03",
+            "cat": "research",
             "end": "14:04",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "14:03",
+            "title": "zotero"
           },
           {
-            "start": "14:05",
+            "cat": "personal",
             "end": "14:06",
-            "cat": "personal",
+            "note": "play.google.com",
             "src": "chrome",
-            "title": "希望與絕望, 對抗恐懼社會的盼望精神（《倦怠社會》作者韓炳哲新作） - Google Play Books",
-            "note": "play.google.com"
+            "start": "14:05",
+            "title": "希望與絕望, 對抗恐懼社會的盼望精神（《倦怠社會》作者韓炳哲新作） - Google Play Books"
           },
           {
-            "start": "14:06",
+            "cat": "research",
             "end": "14:08",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "14:06",
+            "title": "zotero"
           },
           {
-            "start": "14:08",
+            "cat": "personal",
             "end": "14:21",
-            "cat": "personal",
+            "note": "play.google.com",
             "src": "chrome",
-            "title": "希望與絕望, 對抗恐懼社會的盼望精神（《倦怠社會》作者韓炳哲新作） - Google Play Books",
-            "note": "play.google.com"
+            "start": "14:08",
+            "title": "希望與絕望, 對抗恐懼社會的盼望精神（《倦怠社會》作者韓炳哲新作） - Google Play Books"
           },
           {
-            "start": "14:21",
+            "cat": "research",
             "end": "14:23",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "14:21",
+            "title": "zotero"
           },
           {
-            "start": "14:23",
+            "cat": "personal",
             "end": "14:25",
-            "cat": "personal",
+            "note": "play.google.com",
             "src": "chrome",
-            "title": "希望與絕望, 對抗恐懼社會的盼望精神（《倦怠社會》作者韓炳哲新作） - Google Play Books",
-            "note": "play.google.com"
+            "start": "14:23",
+            "title": "希望與絕望, 對抗恐懼社會的盼望精神（《倦怠社會》作者韓炳哲新作） - Google Play Books"
           },
           {
-            "start": "14:27",
+            "cat": "research",
             "end": "14:30",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "14:27",
+            "title": "zotero"
           },
           {
-            "start": "14:38",
+            "cat": "research",
             "end": "15:47",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "14:38",
+            "title": "zotero"
           },
           {
-            "start": "15:55",
+            "cat": "research",
             "end": "16:20",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "15:55",
+            "title": "zotero"
           },
           {
-            "start": "16:23",
+            "cat": "research",
             "end": "16:24",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "16:23",
+            "title": "zotero"
           },
           {
-            "start": "16:25",
+            "cat": "personal",
             "end": "16:29",
-            "cat": "personal",
+            "note": "open.spotify.com",
             "src": "chrome",
-            "title": "2000年代華語金曲 | Spotify Playlist",
-            "note": "open.spotify.com"
+            "start": "16:25",
+            "title": "2000年代華語金曲 | Spotify Playlist"
           },
           {
-            "start": "16:29",
+            "cat": "research",
             "end": "16:30",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "16:29",
+            "title": "zotero"
           },
           {
-            "start": "16:30",
+            "cat": "personal",
             "end": "16:34",
-            "cat": "personal",
+            "note": "open.spotify.com",
             "src": "chrome",
-            "title": "2000年代華語金曲 | Spotify Playlist",
-            "note": "open.spotify.com"
+            "start": "16:30",
+            "title": "2000年代華語金曲 | Spotify Playlist"
           },
           {
-            "start": "16:34",
-            "end": "16:44",
             "cat": "research",
-            "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
-          },
-          {
-            "start": "16:44",
             "end": "16:44",
-            "cat": "personal",
-            "src": "chrome",
-            "title": "2000年代華語金曲 | Spotify Playlist",
-            "note": "open.spotify.com"
+            "note": "org.zotero.zotero",
+            "src": "macos",
+            "start": "16:34",
+            "title": "zotero"
           },
           {
-            "start": "20:34",
+            "cat": "personal",
+            "end": "16:44",
+            "note": "open.spotify.com",
+            "src": "chrome",
+            "start": "16:44",
+            "title": "2000年代華語金曲 | Spotify Playlist"
+          },
+          {
+            "cat": "personal",
             "end": "21:21",
-            "cat": "personal",
+            "note": "ikea.com.au",
             "src": "chrome",
-            "title": "IKEA Sale – Discover Deals on Stylish, Affordable Products -",
-            "note": "ikea.com.au"
+            "start": "20:34",
+            "title": "IKEA Sale – Discover Deals on Stylish, Affordable Products -"
           },
           {
-            "start": "21:50",
-            "end": "21:53",
             "cat": "coding",
+            "end": "21:53",
+            "note": "chrome-extension://daeaddalijienfjkhigbi",
             "src": "chrome",
-            "title": "Ask Gemini - Options Page",
-            "note": "chrome-extension://daeaddalijienfjkhigbi"
+            "start": "21:50",
+            "title": "Ask Gemini - Options Page"
           }
         ],
+        "key": "2026-7-3",
         "logged": 344,
-        "real": 200,
-        "deep": 200,
         "ratio": 0.5833238529227269,
+        "real": 200,
         "stats": {
           "contextSwitches": 36,
-          "tabsOpened": 66,
+          "justOneMoreThing": 11,
           "longestFocus": "1h 38m",
-          "justOneMoreThing": 11
-        }
+          "tabsOpened": 66
+        },
+        "weekend": false
       },
       {
         "key": "2026-7-4",
@@ -9848,18 +9848,115 @@
         "weekend": true,
         "dateShort": "Sat, Jul 4",
         "dateLong": "Saturday, July 4",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "10:20",
+        "dayEnd": "13:41",
+        "events": [
+          {
+            "start": "10:20",
+            "end": "10:25",
+            "cat": "coding",
+            "src": "local",
+            "title": "snapshots.json",
+            "note": "2 hits"
+          },
+          {
+            "start": "10:25",
+            "end": "10:26",
+            "cat": "writing",
+            "src": "local",
+            "title": "2026-07-04-deepmind-a24-research-partnership.md",
+            "note": "1 hit"
+          },
+          {
+            "start": "11:25",
+            "end": "11:27",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Search for \"container with lid\" - IKEA",
+            "note": "ikea.com"
+          },
+          {
+            "start": "11:27",
+            "end": "11:30",
+            "cat": "writing",
+            "src": "local",
+            "title": "2026-07-04.md",
+            "note": "1 hit"
+          },
+          {
+            "start": "11:31",
+            "end": "11:36",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "(22) Discord | #general | POLAR-Internal",
+            "note": "discord.com"
+          },
+          {
+            "start": "11:36",
+            "end": "11:48",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "11:48",
+            "end": "11:51",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "(22) Discord | #general | POLAR-Internal",
+            "note": "discord.com"
+          },
+          {
+            "start": "11:52",
+            "end": "11:55",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "11:58",
+            "end": "12:00",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "12:04",
+            "end": "12:25",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "12:29",
+            "end": "13:21",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "13:25",
+            "end": "13:41",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          }
+        ],
+        "logged": 125,
+        "real": 116,
+        "deep": 116,
+        "ratio": 0.9238597082089558,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "0m",
-          "justOneMoreThing": 0
+          "contextSwitches": 7,
+          "tabsOpened": 9,
+          "longestFocus": "1h 34m",
+          "justOneMoreThing": 3
         }
       },
       {
@@ -11924,386 +12021,386 @@
       "weekend": false
     },
     {
-      "key": "2026-7-3",
-      "dayNum": 3,
-      "dow": 5,
-      "weekend": false,
-      "dateShort": "Fri, Jul 3",
       "dateLong": "Friday, July 3",
-      "dayStart": "10:18",
+      "dateShort": "Fri, Jul 3",
       "dayEnd": "21:53",
+      "dayNum": 3,
+      "dayStart": "10:18",
+      "deep": 200,
+      "dow": 5,
       "events": [
         {
-          "start": "10:18",
+          "cat": "research",
           "end": "10:21",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "10:18",
+          "title": "zotero"
         },
         {
-          "start": "10:21",
+          "cat": "coding",
           "end": "10:22",
-          "cat": "coding",
+          "note": "3 hits",
           "src": "local",
-          "title": "domain_cats.json",
-          "note": "3 hits"
+          "start": "10:21",
+          "title": "domain_cats.json"
         },
         {
-          "start": "10:22",
+          "cat": "personal",
           "end": "10:25",
-          "cat": "personal",
+          "note": "youtube.com",
           "src": "chrome",
-          "title": "代际公不公平不知道，同代你肯定公平不了 - 税务相关 - 门户 - 新足迹 - Powered by Discuz!",
-          "note": "youtube.com"
+          "start": "10:22",
+          "title": "代际公不公平不知道，同代你肯定公平不了 - 税务相关 - 门户 - 新足迹 - Powered by Discuz!"
         },
         {
-          "start": "10:25",
+          "cat": "coding",
           "end": "10:35",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "10:25",
+          "title": "VSCode"
         },
         {
-          "start": "10:35",
+          "cat": "personal",
           "end": "10:36",
-          "cat": "personal",
+          "note": "youtube.com",
           "src": "chrome",
-          "title": "代际公不公平不知道，同代你肯定公平不了 - 税务相关 - 门户 - 新足迹 - Powered by Discuz!",
-          "note": "youtube.com"
+          "start": "10:35",
+          "title": "代际公不公平不知道，同代你肯定公平不了 - 税务相关 - 门户 - 新足迹 - Powered by Discuz!"
         },
         {
-          "start": "10:37",
+          "cat": "research",
           "end": "10:40",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "10:37",
+          "title": "zotero"
         },
         {
-          "start": "10:40",
+          "cat": "personal",
           "end": "10:47",
-          "cat": "personal",
+          "note": "youtube.com",
           "src": "chrome",
-          "title": "代际公不公平不知道，同代你肯定公平不了 - 税务相关 - 门户 - 新足迹 - Powered by Discuz!",
-          "note": "youtube.com"
+          "start": "10:40",
+          "title": "代际公不公平不知道，同代你肯定公平不了 - 税务相关 - 门户 - 新足迹 - Powered by Discuz!"
         },
         {
-          "start": "10:47",
+          "cat": "research",
           "end": "11:10",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "10:47",
+          "title": "zotero"
         },
         {
-          "start": "11:10",
+          "cat": "coding",
           "end": "11:14",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "11:10",
+          "title": "VSCode"
         },
         {
-          "start": "11:24",
+          "cat": "admin",
           "end": "11:25",
-          "cat": "admin",
+          "note": "accounts.google.com",
           "src": "chrome",
-          "title": "Inbox (2,588) - ada.ren.cn@gmail.com - Gmail",
-          "note": "accounts.google.com"
+          "start": "11:24",
+          "title": "Inbox (2,588) - ada.ren.cn@gmail.com - Gmail"
         },
         {
-          "start": "11:25",
+          "cat": "coding",
           "end": "11:26",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "11:25",
+          "title": "VSCode"
         },
         {
-          "start": "11:26",
+          "cat": "admin",
           "end": "11:37",
-          "cat": "admin",
+          "note": "accounts.google.com",
           "src": "chrome",
-          "title": "Inbox (2,588) - ada.ren.cn@gmail.com - Gmail",
-          "note": "accounts.google.com"
+          "start": "11:26",
+          "title": "Inbox (2,588) - ada.ren.cn@gmail.com - Gmail"
         },
         {
-          "start": "11:37",
+          "cat": "research",
           "end": "11:47",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "11:37",
+          "title": "zotero"
         },
         {
-          "start": "11:47",
-          "end": "11:49",
           "cat": "meeting",
+          "end": "11:49",
+          "note": "us06web.zoom.us",
           "src": "chrome",
-          "title": "Join from Zoom Workplace app - Zoom",
-          "note": "us06web.zoom.us"
+          "start": "11:47",
+          "title": "Join from Zoom Workplace app - Zoom"
         },
         {
-          "start": "11:51",
+          "cat": "research",
           "end": "11:56",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "11:51",
+          "title": "zotero"
         },
         {
-          "start": "11:56",
+          "cat": "research",
           "end": "12:00",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "chrome",
-          "title": "Beyond Accuracy: Unveiling Inefficiency Patterns in Tool-Int",
-          "note": "arxiv.org"
+          "start": "11:56",
+          "title": "Beyond Accuracy: Unveiling Inefficiency Patterns in Tool-Int"
         },
         {
-          "start": "12:01",
+          "cat": "personal",
           "end": "12:24",
-          "cat": "personal",
+          "note": "amazon.com.au",
           "src": "chrome",
-          "title": "Amazon.com.au: Shop online for Electronics, Apparel, Toys, B",
-          "note": "amazon.com.au"
+          "start": "12:01",
+          "title": "Amazon.com.au: Shop online for Electronics, Apparel, Toys, B"
         },
         {
-          "start": "13:21",
+          "cat": "personal",
           "end": "13:31",
-          "cat": "personal",
+          "note": "airitibooks.com",
           "src": "chrome",
-          "title": "希望與絕望: 對抗恐懼社會的盼望精神（《倦怠社會》作者韓炳哲新作） - 韓炳哲(Byung-Chul Han) - Go",
-          "note": "airitibooks.com"
+          "start": "13:21",
+          "title": "希望與絕望: 對抗恐懼社會的盼望精神（《倦怠社會》作者韓炳哲新作） - 韓炳哲(Byung-Chul Han) - Go"
         },
         {
-          "start": "13:31",
+          "cat": "research",
           "end": "13:35",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "13:31",
+          "title": "zotero"
         },
         {
-          "start": "13:35",
+          "cat": "personal",
           "end": "13:38",
-          "cat": "personal",
+          "note": "airitibooks.com",
           "src": "chrome",
-          "title": "希望與絕望: 對抗恐懼社會的盼望精神（《倦怠社會》作者韓炳哲新作） - 韓炳哲(Byung-Chul Han) - Go",
-          "note": "airitibooks.com"
+          "start": "13:35",
+          "title": "希望與絕望: 對抗恐懼社會的盼望精神（《倦怠社會》作者韓炳哲新作） - 韓炳哲(Byung-Chul Han) - Go"
         },
         {
-          "start": "13:38",
+          "cat": "personal",
           "end": "13:40",
-          "cat": "personal",
+          "note": "airitibooks.com",
           "src": "chrome",
-          "title": "希望與絕望: 對抗恐懼社會的盼望精神（《倦怠社會》作者韓炳哲新作） - 韓炳哲(Byung-Chul Han) - Go",
-          "note": "airitibooks.com"
+          "start": "13:38",
+          "title": "希望與絕望: 對抗恐懼社會的盼望精神（《倦怠社會》作者韓炳哲新作） - 韓炳哲(Byung-Chul Han) - Go"
         },
         {
-          "start": "13:40",
+          "cat": "research",
           "end": "13:42",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "13:40",
+          "title": "zotero"
         },
         {
-          "start": "13:42",
+          "cat": "personal",
           "end": "13:45",
-          "cat": "personal",
+          "note": "airitibooks.com",
           "src": "chrome",
-          "title": "希望與絕望: 對抗恐懼社會的盼望精神（《倦怠社會》作者韓炳哲新作） - 韓炳哲(Byung-Chul Han) - Go",
-          "note": "airitibooks.com"
+          "start": "13:42",
+          "title": "希望與絕望: 對抗恐懼社會的盼望精神（《倦怠社會》作者韓炳哲新作） - 韓炳哲(Byung-Chul Han) - Go"
         },
         {
-          "start": "13:45",
+          "cat": "research",
           "end": "13:46",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "13:45",
+          "title": "zotero"
         },
         {
-          "start": "13:47",
+          "cat": "research",
           "end": "13:52",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "13:47",
+          "title": "zotero"
         },
         {
-          "start": "13:52",
+          "cat": "personal",
           "end": "13:55",
-          "cat": "personal",
+          "note": "amazon.com.au",
           "src": "chrome",
-          "title": "Affordable Furniture and Home Inspiration - IKEA Australia",
-          "note": "amazon.com.au"
+          "start": "13:52",
+          "title": "Affordable Furniture and Home Inspiration - IKEA Australia"
         },
         {
-          "start": "13:55",
+          "cat": "research",
           "end": "14:00",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "13:55",
+          "title": "zotero"
         },
         {
-          "start": "14:00",
-          "end": "14:03",
           "cat": "admin",
+          "end": "14:03",
+          "note": "translate.google.com",
           "src": "chrome",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "14:00",
+          "title": "Google Translate"
         },
         {
-          "start": "14:03",
+          "cat": "research",
           "end": "14:04",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "14:03",
+          "title": "zotero"
         },
         {
-          "start": "14:05",
+          "cat": "personal",
           "end": "14:06",
-          "cat": "personal",
+          "note": "play.google.com",
           "src": "chrome",
-          "title": "希望與絕望, 對抗恐懼社會的盼望精神（《倦怠社會》作者韓炳哲新作） - Google Play Books",
-          "note": "play.google.com"
+          "start": "14:05",
+          "title": "希望與絕望, 對抗恐懼社會的盼望精神（《倦怠社會》作者韓炳哲新作） - Google Play Books"
         },
         {
-          "start": "14:06",
+          "cat": "research",
           "end": "14:08",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "14:06",
+          "title": "zotero"
         },
         {
-          "start": "14:08",
+          "cat": "personal",
           "end": "14:21",
-          "cat": "personal",
+          "note": "play.google.com",
           "src": "chrome",
-          "title": "希望與絕望, 對抗恐懼社會的盼望精神（《倦怠社會》作者韓炳哲新作） - Google Play Books",
-          "note": "play.google.com"
+          "start": "14:08",
+          "title": "希望與絕望, 對抗恐懼社會的盼望精神（《倦怠社會》作者韓炳哲新作） - Google Play Books"
         },
         {
-          "start": "14:21",
+          "cat": "research",
           "end": "14:23",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "14:21",
+          "title": "zotero"
         },
         {
-          "start": "14:23",
+          "cat": "personal",
           "end": "14:25",
-          "cat": "personal",
+          "note": "play.google.com",
           "src": "chrome",
-          "title": "希望與絕望, 對抗恐懼社會的盼望精神（《倦怠社會》作者韓炳哲新作） - Google Play Books",
-          "note": "play.google.com"
+          "start": "14:23",
+          "title": "希望與絕望, 對抗恐懼社會的盼望精神（《倦怠社會》作者韓炳哲新作） - Google Play Books"
         },
         {
-          "start": "14:27",
+          "cat": "research",
           "end": "14:30",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "14:27",
+          "title": "zotero"
         },
         {
-          "start": "14:38",
+          "cat": "research",
           "end": "15:47",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "14:38",
+          "title": "zotero"
         },
         {
-          "start": "15:55",
+          "cat": "research",
           "end": "16:20",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "15:55",
+          "title": "zotero"
         },
         {
-          "start": "16:23",
+          "cat": "research",
           "end": "16:24",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "16:23",
+          "title": "zotero"
         },
         {
-          "start": "16:25",
+          "cat": "personal",
           "end": "16:29",
-          "cat": "personal",
+          "note": "open.spotify.com",
           "src": "chrome",
-          "title": "2000年代華語金曲 | Spotify Playlist",
-          "note": "open.spotify.com"
+          "start": "16:25",
+          "title": "2000年代華語金曲 | Spotify Playlist"
         },
         {
-          "start": "16:29",
+          "cat": "research",
           "end": "16:30",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "16:29",
+          "title": "zotero"
         },
         {
-          "start": "16:30",
+          "cat": "personal",
           "end": "16:34",
-          "cat": "personal",
+          "note": "open.spotify.com",
           "src": "chrome",
-          "title": "2000年代華語金曲 | Spotify Playlist",
-          "note": "open.spotify.com"
+          "start": "16:30",
+          "title": "2000年代華語金曲 | Spotify Playlist"
         },
         {
-          "start": "16:34",
-          "end": "16:44",
           "cat": "research",
-          "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
-        },
-        {
-          "start": "16:44",
           "end": "16:44",
-          "cat": "personal",
-          "src": "chrome",
-          "title": "2000年代華語金曲 | Spotify Playlist",
-          "note": "open.spotify.com"
+          "note": "org.zotero.zotero",
+          "src": "macos",
+          "start": "16:34",
+          "title": "zotero"
         },
         {
-          "start": "20:34",
+          "cat": "personal",
+          "end": "16:44",
+          "note": "open.spotify.com",
+          "src": "chrome",
+          "start": "16:44",
+          "title": "2000年代華語金曲 | Spotify Playlist"
+        },
+        {
+          "cat": "personal",
           "end": "21:21",
-          "cat": "personal",
+          "note": "ikea.com.au",
           "src": "chrome",
-          "title": "IKEA Sale – Discover Deals on Stylish, Affordable Products -",
-          "note": "ikea.com.au"
+          "start": "20:34",
+          "title": "IKEA Sale – Discover Deals on Stylish, Affordable Products -"
         },
         {
-          "start": "21:50",
-          "end": "21:53",
           "cat": "coding",
+          "end": "21:53",
+          "note": "chrome-extension://daeaddalijienfjkhigbi",
           "src": "chrome",
-          "title": "Ask Gemini - Options Page",
-          "note": "chrome-extension://daeaddalijienfjkhigbi"
+          "start": "21:50",
+          "title": "Ask Gemini - Options Page"
         }
       ],
+      "key": "2026-7-3",
       "logged": 344,
-      "real": 200,
-      "deep": 200,
       "ratio": 0.5833238529227269,
+      "real": 200,
       "stats": {
         "contextSwitches": 36,
-        "tabsOpened": 66,
+        "justOneMoreThing": 11,
         "longestFocus": "1h 38m",
-        "justOneMoreThing": 11
-      }
+        "tabsOpened": 66
+      },
+      "weekend": false
     },
     {
       "key": "2026-7-4",
@@ -12312,18 +12409,115 @@
       "weekend": true,
       "dateShort": "Sat, Jul 4",
       "dateLong": "Saturday, July 4",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "10:20",
+      "dayEnd": "13:41",
+      "events": [
+        {
+          "start": "10:20",
+          "end": "10:25",
+          "cat": "coding",
+          "src": "local",
+          "title": "snapshots.json",
+          "note": "2 hits"
+        },
+        {
+          "start": "10:25",
+          "end": "10:26",
+          "cat": "writing",
+          "src": "local",
+          "title": "2026-07-04-deepmind-a24-research-partnership.md",
+          "note": "1 hit"
+        },
+        {
+          "start": "11:25",
+          "end": "11:27",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Search for \"container with lid\" - IKEA",
+          "note": "ikea.com"
+        },
+        {
+          "start": "11:27",
+          "end": "11:30",
+          "cat": "writing",
+          "src": "local",
+          "title": "2026-07-04.md",
+          "note": "1 hit"
+        },
+        {
+          "start": "11:31",
+          "end": "11:36",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "(22) Discord | #general | POLAR-Internal",
+          "note": "discord.com"
+        },
+        {
+          "start": "11:36",
+          "end": "11:48",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "11:48",
+          "end": "11:51",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "(22) Discord | #general | POLAR-Internal",
+          "note": "discord.com"
+        },
+        {
+          "start": "11:52",
+          "end": "11:55",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "11:58",
+          "end": "12:00",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "12:04",
+          "end": "12:25",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "12:29",
+          "end": "13:21",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "13:25",
+          "end": "13:41",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        }
+      ],
+      "logged": 125,
+      "real": 116,
+      "deep": 116,
+      "ratio": 0.9238597082089558,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "0m",
-        "justOneMoreThing": 0
+        "contextSwitches": 7,
+        "tabsOpened": 9,
+        "longestFocus": "1h 34m",
+        "justOneMoreThing": 3
       }
     },
     {
