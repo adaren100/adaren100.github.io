@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-07-05T10:38:20+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-07-06T10:20:06+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -9842,122 +9842,122 @@
         "weekend": false
       },
       {
-        "key": "2026-7-4",
-        "dayNum": 4,
-        "dow": 6,
-        "weekend": true,
-        "dateShort": "Sat, Jul 4",
         "dateLong": "Saturday, July 4",
-        "dayStart": "10:20",
+        "dateShort": "Sat, Jul 4",
         "dayEnd": "13:41",
+        "dayNum": 4,
+        "dayStart": "10:20",
+        "deep": 116,
+        "dow": 6,
         "events": [
           {
-            "start": "10:20",
-            "end": "10:25",
             "cat": "coding",
+            "end": "10:25",
+            "note": "2 hits",
             "src": "local",
-            "title": "snapshots.json",
-            "note": "2 hits"
+            "start": "10:20",
+            "title": "snapshots.json"
           },
           {
-            "start": "10:25",
+            "cat": "writing",
             "end": "10:26",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "2026-07-04-deepmind-a24-research-partnership.md",
-            "note": "1 hit"
+            "start": "10:25",
+            "title": "2026-07-04-deepmind-a24-research-partnership.md"
           },
           {
-            "start": "11:25",
-            "end": "11:27",
             "cat": "personal",
+            "end": "11:27",
+            "note": "ikea.com",
             "src": "chrome",
-            "title": "Search for \"container with lid\" - IKEA",
-            "note": "ikea.com"
+            "start": "11:25",
+            "title": "Search for \"container with lid\" - IKEA"
           },
           {
-            "start": "11:27",
-            "end": "11:30",
             "cat": "writing",
+            "end": "11:30",
+            "note": "1 hit",
             "src": "local",
-            "title": "2026-07-04.md",
-            "note": "1 hit"
+            "start": "11:27",
+            "title": "2026-07-04.md"
           },
           {
-            "start": "11:31",
+            "cat": "admin",
             "end": "11:36",
-            "cat": "admin",
+            "note": "discord.com",
             "src": "chrome",
-            "title": "(22) Discord | #general | POLAR-Internal",
-            "note": "discord.com"
+            "start": "11:31",
+            "title": "(22) Discord | #general | POLAR-Internal"
           },
           {
-            "start": "11:36",
+            "cat": "research",
             "end": "11:48",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "11:36",
+            "title": "zotero"
           },
           {
-            "start": "11:48",
-            "end": "11:51",
             "cat": "admin",
+            "end": "11:51",
+            "note": "discord.com",
             "src": "chrome",
-            "title": "(22) Discord | #general | POLAR-Internal",
-            "note": "discord.com"
+            "start": "11:48",
+            "title": "(22) Discord | #general | POLAR-Internal"
           },
           {
-            "start": "11:52",
+            "cat": "research",
             "end": "11:55",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "11:52",
+            "title": "zotero"
           },
           {
-            "start": "11:58",
+            "cat": "research",
             "end": "12:00",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "11:58",
+            "title": "zotero"
           },
           {
-            "start": "12:04",
+            "cat": "research",
             "end": "12:25",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "12:04",
+            "title": "zotero"
           },
           {
-            "start": "12:29",
+            "cat": "research",
             "end": "13:21",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "12:29",
+            "title": "zotero"
           },
           {
-            "start": "13:25",
-            "end": "13:41",
             "cat": "research",
+            "end": "13:41",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "13:25",
+            "title": "zotero"
           }
         ],
+        "key": "2026-7-4",
         "logged": 125,
-        "real": 116,
-        "deep": 116,
         "ratio": 0.9238597082089558,
+        "real": 116,
         "stats": {
           "contextSwitches": 7,
-          "tabsOpened": 9,
+          "justOneMoreThing": 3,
           "longestFocus": "1h 34m",
-          "justOneMoreThing": 3
-        }
+          "tabsOpened": 9
+        },
+        "weekend": true
       },
       {
         "key": "2026-7-5",
@@ -9966,17 +9966,90 @@
         "weekend": true,
         "dateShort": "Sun, Jul 5",
         "dateLong": "Sunday, July 5",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "20:48",
+        "dayEnd": "00:59",
+        "events": [
+          {
+            "start": "20:48",
+            "end": "20:51",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "(22) Discord | #general | POLAR-Internal",
+            "note": "discord.com"
+          },
+          {
+            "start": "20:52",
+            "end": "22:10",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Groove Wide-Leg High-Rise Pant *Regular | Pants | Lululemon ",
+            "note": "lululemon.com.au"
+          },
+          {
+            "start": "22:10",
+            "end": "22:14",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Ada's Notes",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "22:14",
+            "end": "22:37",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(52) Running an AI-native engineering org - YouTube",
+            "note": "youtube.com"
+          },
+          {
+            "start": "23:45",
+            "end": "00:10",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "ZhangZi-a/SkillFlow",
+            "note": "github.com"
+          },
+          {
+            "start": "00:11",
+            "end": "00:14",
+            "cat": "coding",
+            "src": "local",
+            "title": "test.sh",
+            "note": "5 hits"
+          },
+          {
+            "start": "00:14",
+            "end": "00:18",
+            "cat": "coding",
+            "src": "local",
+            "title": "test.sh",
+            "note": "5 hits"
+          },
+          {
+            "start": "00:18",
+            "end": "00:19",
+            "cat": "writing",
+            "src": "local",
+            "title": "instruction.md",
+            "note": "1 hit"
+          },
+          {
+            "start": "00:26",
+            "end": "00:59",
+            "cat": "writing",
+            "src": "chrome",
+            "title": "tool_economy_benchmark_draft - Google Docs",
+            "note": "docs.google.com"
+          }
+        ],
+        "logged": 175,
+        "real": 70,
+        "deep": 70,
+        "ratio": 0.4026828375539788,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "0m",
+          "contextSwitches": 5,
+          "tabsOpened": 18,
+          "longestFocus": "1h 7m",
           "justOneMoreThing": 0
         }
       },
@@ -9987,18 +10060,67 @@
         "weekend": false,
         "dateShort": "Mon, Jul 6",
         "dateLong": "Monday, July 6",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "09:58",
+        "dayEnd": "10:39",
+        "events": [
+          {
+            "start": "09:58",
+            "end": "10:09",
+            "cat": "admin",
+            "src": "claude",
+            "title": "PhD worklog review",
+            "note": "148 hits"
+          },
+          {
+            "start": "10:10",
+            "end": "10:12",
+            "cat": "research",
+            "src": "chrome",
+            "title": "The-Effect-of-Forecasting-and-Budgeting-Practices-on-Long-Te",
+            "note": "google.com"
+          },
+          {
+            "start": "10:12",
+            "end": "10:15",
+            "cat": "research",
+            "src": "chrome",
+            "title": "The-Effect-of-Forecasting-and-Budgeting-Practices-on-Long-Te",
+            "note": "google.com"
+          },
+          {
+            "start": "10:15",
+            "end": "10:21",
+            "cat": "admin",
+            "src": "claude",
+            "title": "PhD worklog review",
+            "note": "25 hits"
+          },
+          {
+            "start": "10:21",
+            "end": "10:32",
+            "cat": "writing",
+            "src": "chrome",
+            "title": "AAAI Press LaTeX Template - Online LaTeX Editor Overleaf",
+            "note": "overleaf.com"
+          },
+          {
+            "start": "10:32",
+            "end": "10:39",
+            "cat": "research",
+            "src": "chrome",
+            "title": "The-Effect-of-Forecasting-and-Budgeting-Practices-on-Long-Te",
+            "note": "researchgate.net"
+          }
+        ],
+        "logged": 40,
+        "real": 23,
+        "deep": 23,
+        "ratio": 0.5771317646346557,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "0m",
-          "justOneMoreThing": 0
+          "contextSwitches": 4,
+          "tabsOpened": 12,
+          "longestFocus": "18m",
+          "justOneMoreThing": 1
         }
       },
       {
@@ -12403,122 +12525,122 @@
       "weekend": false
     },
     {
-      "key": "2026-7-4",
-      "dayNum": 4,
-      "dow": 6,
-      "weekend": true,
-      "dateShort": "Sat, Jul 4",
       "dateLong": "Saturday, July 4",
-      "dayStart": "10:20",
+      "dateShort": "Sat, Jul 4",
       "dayEnd": "13:41",
+      "dayNum": 4,
+      "dayStart": "10:20",
+      "deep": 116,
+      "dow": 6,
       "events": [
         {
-          "start": "10:20",
-          "end": "10:25",
           "cat": "coding",
+          "end": "10:25",
+          "note": "2 hits",
           "src": "local",
-          "title": "snapshots.json",
-          "note": "2 hits"
+          "start": "10:20",
+          "title": "snapshots.json"
         },
         {
-          "start": "10:25",
+          "cat": "writing",
           "end": "10:26",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "2026-07-04-deepmind-a24-research-partnership.md",
-          "note": "1 hit"
+          "start": "10:25",
+          "title": "2026-07-04-deepmind-a24-research-partnership.md"
         },
         {
-          "start": "11:25",
-          "end": "11:27",
           "cat": "personal",
+          "end": "11:27",
+          "note": "ikea.com",
           "src": "chrome",
-          "title": "Search for \"container with lid\" - IKEA",
-          "note": "ikea.com"
+          "start": "11:25",
+          "title": "Search for \"container with lid\" - IKEA"
         },
         {
-          "start": "11:27",
-          "end": "11:30",
           "cat": "writing",
+          "end": "11:30",
+          "note": "1 hit",
           "src": "local",
-          "title": "2026-07-04.md",
-          "note": "1 hit"
+          "start": "11:27",
+          "title": "2026-07-04.md"
         },
         {
-          "start": "11:31",
+          "cat": "admin",
           "end": "11:36",
-          "cat": "admin",
+          "note": "discord.com",
           "src": "chrome",
-          "title": "(22) Discord | #general | POLAR-Internal",
-          "note": "discord.com"
+          "start": "11:31",
+          "title": "(22) Discord | #general | POLAR-Internal"
         },
         {
-          "start": "11:36",
+          "cat": "research",
           "end": "11:48",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "11:36",
+          "title": "zotero"
         },
         {
-          "start": "11:48",
-          "end": "11:51",
           "cat": "admin",
+          "end": "11:51",
+          "note": "discord.com",
           "src": "chrome",
-          "title": "(22) Discord | #general | POLAR-Internal",
-          "note": "discord.com"
+          "start": "11:48",
+          "title": "(22) Discord | #general | POLAR-Internal"
         },
         {
-          "start": "11:52",
+          "cat": "research",
           "end": "11:55",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "11:52",
+          "title": "zotero"
         },
         {
-          "start": "11:58",
+          "cat": "research",
           "end": "12:00",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "11:58",
+          "title": "zotero"
         },
         {
-          "start": "12:04",
+          "cat": "research",
           "end": "12:25",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "12:04",
+          "title": "zotero"
         },
         {
-          "start": "12:29",
+          "cat": "research",
           "end": "13:21",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "12:29",
+          "title": "zotero"
         },
         {
-          "start": "13:25",
-          "end": "13:41",
           "cat": "research",
+          "end": "13:41",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "13:25",
+          "title": "zotero"
         }
       ],
+      "key": "2026-7-4",
       "logged": 125,
-      "real": 116,
-      "deep": 116,
       "ratio": 0.9238597082089558,
+      "real": 116,
       "stats": {
         "contextSwitches": 7,
-        "tabsOpened": 9,
+        "justOneMoreThing": 3,
         "longestFocus": "1h 34m",
-        "justOneMoreThing": 3
-      }
+        "tabsOpened": 9
+      },
+      "weekend": true
     },
     {
       "key": "2026-7-5",
@@ -12527,17 +12649,90 @@
       "weekend": true,
       "dateShort": "Sun, Jul 5",
       "dateLong": "Sunday, July 5",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "20:48",
+      "dayEnd": "00:59",
+      "events": [
+        {
+          "start": "20:48",
+          "end": "20:51",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "(22) Discord | #general | POLAR-Internal",
+          "note": "discord.com"
+        },
+        {
+          "start": "20:52",
+          "end": "22:10",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Groove Wide-Leg High-Rise Pant *Regular | Pants | Lululemon ",
+          "note": "lululemon.com.au"
+        },
+        {
+          "start": "22:10",
+          "end": "22:14",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Ada's Notes",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "22:14",
+          "end": "22:37",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(52) Running an AI-native engineering org - YouTube",
+          "note": "youtube.com"
+        },
+        {
+          "start": "23:45",
+          "end": "00:10",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "ZhangZi-a/SkillFlow",
+          "note": "github.com"
+        },
+        {
+          "start": "00:11",
+          "end": "00:14",
+          "cat": "coding",
+          "src": "local",
+          "title": "test.sh",
+          "note": "5 hits"
+        },
+        {
+          "start": "00:14",
+          "end": "00:18",
+          "cat": "coding",
+          "src": "local",
+          "title": "test.sh",
+          "note": "5 hits"
+        },
+        {
+          "start": "00:18",
+          "end": "00:19",
+          "cat": "writing",
+          "src": "local",
+          "title": "instruction.md",
+          "note": "1 hit"
+        },
+        {
+          "start": "00:26",
+          "end": "00:59",
+          "cat": "writing",
+          "src": "chrome",
+          "title": "tool_economy_benchmark_draft - Google Docs",
+          "note": "docs.google.com"
+        }
+      ],
+      "logged": 175,
+      "real": 70,
+      "deep": 70,
+      "ratio": 0.4026828375539788,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "0m",
+        "contextSwitches": 5,
+        "tabsOpened": 18,
+        "longestFocus": "1h 7m",
         "justOneMoreThing": 0
       }
     },
@@ -12548,18 +12743,67 @@
       "weekend": false,
       "dateShort": "Mon, Jul 6",
       "dateLong": "Monday, July 6",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "09:58",
+      "dayEnd": "10:39",
+      "events": [
+        {
+          "start": "09:58",
+          "end": "10:09",
+          "cat": "admin",
+          "src": "claude",
+          "title": "PhD worklog review",
+          "note": "148 hits"
+        },
+        {
+          "start": "10:10",
+          "end": "10:12",
+          "cat": "research",
+          "src": "chrome",
+          "title": "The-Effect-of-Forecasting-and-Budgeting-Practices-on-Long-Te",
+          "note": "google.com"
+        },
+        {
+          "start": "10:12",
+          "end": "10:15",
+          "cat": "research",
+          "src": "chrome",
+          "title": "The-Effect-of-Forecasting-and-Budgeting-Practices-on-Long-Te",
+          "note": "google.com"
+        },
+        {
+          "start": "10:15",
+          "end": "10:21",
+          "cat": "admin",
+          "src": "claude",
+          "title": "PhD worklog review",
+          "note": "25 hits"
+        },
+        {
+          "start": "10:21",
+          "end": "10:32",
+          "cat": "writing",
+          "src": "chrome",
+          "title": "AAAI Press LaTeX Template - Online LaTeX Editor Overleaf",
+          "note": "overleaf.com"
+        },
+        {
+          "start": "10:32",
+          "end": "10:39",
+          "cat": "research",
+          "src": "chrome",
+          "title": "The-Effect-of-Forecasting-and-Budgeting-Practices-on-Long-Te",
+          "note": "researchgate.net"
+        }
+      ],
+      "logged": 40,
+      "real": 23,
+      "deep": 23,
+      "ratio": 0.5771317646346557,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "0m",
-        "justOneMoreThing": 0
+        "contextSwitches": 4,
+        "tabsOpened": 12,
+        "longestFocus": "18m",
+        "justOneMoreThing": 1
       }
     },
     {
