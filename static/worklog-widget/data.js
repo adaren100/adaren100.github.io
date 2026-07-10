@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-07-09T10:20:09+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-07-10T10:20:08+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -12043,570 +12043,570 @@
         "weekend": false
       },
       {
-        "key": "2026-7-8",
-        "dayNum": 8,
-        "dow": 3,
-        "weekend": false,
-        "dateShort": "Wed, Jul 8",
         "dateLong": "Wednesday, July 8",
-        "dayStart": "10:01",
+        "dateShort": "Wed, Jul 8",
         "dayEnd": "23:35",
+        "dayNum": 8,
+        "dayStart": "10:01",
+        "deep": 318,
+        "dow": 3,
         "events": [
           {
-            "start": "10:01",
-            "end": "10:21",
             "cat": "writing",
+            "end": "10:21",
+            "note": "1drv.ms",
             "src": "chrome",
-            "title": "Book.xlsx",
-            "note": "1drv.ms"
+            "start": "10:01",
+            "title": "Book.xlsx"
           },
           {
-            "start": "10:21",
+            "cat": "research",
             "end": "10:22",
-            "cat": "research",
+            "note": "neurips.cc",
             "src": "chrome",
-            "title": "NeurIPS Poster SplitFlow: Flow Decomposition for Inversion-F",
-            "note": "neurips.cc"
+            "start": "10:21",
+            "title": "NeurIPS Poster SplitFlow: Flow Decomposition for Inversion-F"
           },
           {
-            "start": "10:22",
+            "cat": "personal",
             "end": "10:36",
-            "cat": "personal",
+            "note": "youtube.com",
             "src": "chrome",
-            "title": "(55) Memory and dreaming for self-learning agents - YouTube",
-            "note": "youtube.com"
+            "start": "10:22",
+            "title": "(55) Memory and dreaming for self-learning agents - YouTube"
           },
           {
-            "start": "10:36",
+            "cat": "research",
             "end": "10:41",
-            "cat": "research",
+            "note": "transformer-circuits.pub",
             "src": "chrome",
-            "title": "Verbalizable Representations Form a Global Workspace in Lang",
-            "note": "transformer-circuits.pub"
+            "start": "10:36",
+            "title": "Verbalizable Representations Form a Global Workspace in Lang"
           },
           {
-            "start": "10:41",
+            "cat": "admin",
             "end": "10:44",
-            "cat": "admin",
+            "note": "6 hits",
             "src": "claude",
-            "title": "PhD worklog review",
-            "note": "6 hits"
+            "start": "10:41",
+            "title": "PhD worklog review"
           },
           {
-            "start": "10:44",
+            "cat": "research",
             "end": "10:56",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "chrome",
-            "title": "Why Larger Models Learn More: Effects of Capacity, Interfere",
-            "note": "arxiv.org"
+            "start": "10:44",
+            "title": "Why Larger Models Learn More: Effects of Capacity, Interfere"
           },
           {
-            "start": "10:56",
+            "cat": "personal",
             "end": "11:03",
-            "cat": "personal",
+            "note": "x.com",
             "src": "chrome",
-            "title": "(1) X 上的 swyx：“imo this is the most impt part of anthropic's",
-            "note": "x.com"
+            "start": "10:56",
+            "title": "(1) X 上的 swyx：“imo this is the most impt part of anthropic's"
           },
           {
-            "start": "11:06",
+            "cat": "research",
             "end": "11:15",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "chrome",
-            "title": "Big-Tech-Researches | Ada's Notes",
-            "note": "adaren100.github.io"
+            "start": "11:06",
+            "title": "Big-Tech-Researches | Ada's Notes"
           },
           {
-            "start": "11:17",
+            "cat": "research",
             "end": "11:19",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "chrome",
-            "title": "Where the time actually went | Ada's Notes",
-            "note": "adaren100.github.io"
+            "start": "11:17",
+            "title": "Where the time actually went | Ada's Notes"
           },
           {
-            "start": "11:20",
+            "cat": "coding",
             "end": "11:39",
-            "cat": "coding",
+            "note": "support.claude.com",
             "src": "chrome",
-            "title": "How do usage and length limits work? | Claude Help Center",
-            "note": "support.claude.com"
+            "start": "11:20",
+            "title": "How do usage and length limits work? | Claude Help Center"
           },
           {
-            "start": "11:40",
+            "cat": "coding",
             "end": "11:48",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "11:40",
+            "title": "VSCode"
           },
           {
-            "start": "11:48",
+            "cat": "research",
             "end": "11:59",
-            "cat": "research",
+            "note": "scholar.google.com",
             "src": "chrome",
-            "title": "‪Usman Naseem‬ - ‪Google Scholar‬",
-            "note": "scholar.google.com"
+            "start": "11:48",
+            "title": "‪Usman Naseem‬ - ‪Google Scholar‬"
           },
           {
-            "start": "11:59",
+            "cat": "admin",
             "end": "12:21",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "chrome",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "11:59",
+            "title": "Google Translate"
           },
           {
-            "start": "13:31",
+            "cat": "coding",
             "end": "13:34",
-            "cat": "coding",
+            "note": "github.com",
             "src": "chrome",
-            "title": "MBABenchV2/gui-agents-master at main · namkoong-lab/MBABench",
-            "note": "github.com"
+            "start": "13:31",
+            "title": "MBABenchV2/gui-agents-master at main · namkoong-lab/MBABench"
           },
           {
-            "start": "13:35",
+            "cat": "coding",
             "end": "13:41",
-            "cat": "coding",
+            "note": "github.com",
             "src": "chrome",
-            "title": "namkoong-lab/MBABenchV2",
-            "note": "github.com"
+            "start": "13:35",
+            "title": "namkoong-lab/MBABenchV2"
           },
           {
-            "start": "13:41",
+            "cat": "coding",
             "end": "13:43",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "13:41",
+            "title": "VSCode"
           },
           {
-            "start": "13:43",
+            "cat": "coding",
             "end": "13:46",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "13:43",
+            "title": "VSCode"
           },
           {
-            "start": "13:46",
+            "cat": "coding",
             "end": "13:48",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "13:46",
+            "title": "VSCode"
           },
           {
-            "start": "13:48",
+            "cat": "coding",
             "end": "13:55",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "13:48",
+            "title": "VSCode"
           },
           {
-            "start": "13:56",
+            "cat": "admin",
             "end": "13:57",
-            "cat": "admin",
+            "note": "com.microsoft.Excel",
             "src": "macos",
-            "title": "Excel",
-            "note": "com.microsoft.Excel"
+            "start": "13:56",
+            "title": "Excel"
           },
           {
-            "start": "13:57",
+            "cat": "coding",
             "end": "13:58",
-            "cat": "coding",
+            "note": "2 hits",
             "src": "vscode",
-            "title": "VS Code · family_common.py",
-            "note": "2 hits"
+            "start": "13:57",
+            "title": "VS Code · family_common.py"
           },
           {
-            "start": "14:00",
+            "cat": "admin",
             "end": "14:02",
-            "cat": "admin",
+            "note": "com.microsoft.Excel",
             "src": "macos",
-            "title": "Excel",
-            "note": "com.microsoft.Excel"
+            "start": "14:00",
+            "title": "Excel"
           },
           {
-            "start": "14:02",
+            "cat": "personal",
             "end": "14:05",
-            "cat": "personal",
+            "note": "youtu.be",
             "src": "chrome",
-            "title": "(55) Nail your PE modeling test - YouTube",
-            "note": "youtu.be"
+            "start": "14:02",
+            "title": "(55) Nail your PE modeling test - YouTube"
           },
           {
-            "start": "14:05",
+            "cat": "coding",
             "end": "14:07",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "14:05",
+            "title": "VSCode"
           },
           {
-            "start": "14:07",
+            "cat": "coding",
             "end": "14:12",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "14:07",
+            "title": "VSCode"
           },
           {
-            "start": "14:12",
+            "cat": "coding",
             "end": "14:25",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "14:12",
+            "title": "VSCode"
           },
           {
-            "start": "14:25",
+            "cat": "coding",
             "end": "14:38",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "14:25",
+            "title": "VSCode"
           },
           {
-            "start": "14:38",
+            "cat": "research",
             "end": "14:39",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "14:38",
+            "title": "zotero"
           },
           {
-            "start": "14:39",
+            "cat": "coding",
             "end": "14:40",
-            "cat": "coding",
+            "note": "github.com",
             "src": "chrome",
-            "title": "Yelp/detect-secrets: An enterprise friendly way of detecting",
-            "note": "github.com"
+            "start": "14:39",
+            "title": "Yelp/detect-secrets: An enterprise friendly way of detecting"
           },
           {
-            "start": "14:40",
-            "end": "14:43",
             "cat": "research",
+            "end": "14:43",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "14:40",
+            "title": "zotero"
           },
           {
-            "start": "14:45",
+            "cat": "coding",
             "end": "14:57",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "14:45",
+            "title": "VSCode"
           },
           {
+            "cat": "admin",
+            "end": "15:00",
+            "note": "com.microsoft.Excel",
+            "src": "macos",
             "start": "14:57",
-            "end": "15:00",
-            "cat": "admin",
-            "src": "macos",
-            "title": "Excel",
-            "note": "com.microsoft.Excel"
+            "title": "Excel"
           },
           {
-            "start": "15:00",
-            "end": "15:00",
             "cat": "coding",
+            "end": "15:00",
+            "note": "file:///Users/ada/Documents/MQ/repo/MBAB",
             "src": "chrome",
-            "title": "MO15 Round 1 - Sec 2 - Bread and Butter (Questions and Answe",
-            "note": "file:///Users/ada/Documents/MQ/repo/MBAB"
+            "start": "15:00",
+            "title": "MO15 Round 1 - Sec 2 - Bread and Butter (Questions and Answe"
           },
           {
-            "start": "15:00",
+            "cat": "admin",
             "end": "15:05",
-            "cat": "admin",
+            "note": "com.microsoft.Excel",
             "src": "macos",
-            "title": "Excel",
-            "note": "com.microsoft.Excel"
+            "start": "15:00",
+            "title": "Excel"
           },
           {
-            "start": "15:05",
+            "cat": "coding",
             "end": "15:31",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "15:05",
+            "title": "VSCode"
           },
           {
-            "start": "15:31",
+            "cat": "coding",
             "end": "15:35",
-            "cat": "coding",
+            "note": "accounts.google.com",
             "src": "chrome",
-            "title": "Models: 'o o pen' - Pricing: Low to High | OpenRouter",
-            "note": "accounts.google.com"
+            "start": "15:31",
+            "title": "Models: 'o o pen' - Pricing: Low to High | OpenRouter"
           },
           {
-            "start": "15:35",
+            "cat": "coding",
             "end": "15:54",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "15:35",
+            "title": "VSCode"
           },
           {
-            "start": "15:54",
+            "cat": "coding",
             "end": "16:11",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "15:54",
+            "title": "VSCode"
           },
           {
-            "start": "16:11",
+            "cat": "coding",
             "end": "16:15",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "16:11",
+            "title": "VSCode"
           },
           {
-            "start": "16:15",
+            "cat": "coding",
             "end": "16:43",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "16:15",
+            "title": "VSCode"
           },
           {
-            "start": "16:43",
+            "cat": "personal",
             "end": "16:46",
-            "cat": "personal",
+            "note": "map.google.com",
             "src": "chrome",
-            "title": "Google Maps",
-            "note": "map.google.com"
+            "start": "16:43",
+            "title": "Google Maps"
           },
           {
-            "start": "16:46",
+            "cat": "coding",
             "end": "16:51",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "16:46",
+            "title": "VSCode"
           },
           {
-            "start": "16:51",
+            "cat": "personal",
             "end": "16:58",
-            "cat": "personal",
+            "note": "map.google.com",
             "src": "chrome",
-            "title": "Google Maps",
-            "note": "map.google.com"
+            "start": "16:51",
+            "title": "Google Maps"
           },
           {
-            "start": "16:58",
+            "cat": "coding",
             "end": "17:02",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "16:58",
+            "title": "VSCode"
           },
           {
-            "start": "17:02",
+            "cat": "coding",
             "end": "17:03",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "17:02",
+            "title": "VSCode"
           },
           {
-            "start": "17:03",
+            "cat": "coding",
             "end": "17:04",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "17:03",
+            "title": "VSCode"
           },
           {
-            "start": "17:04",
+            "cat": "coding",
             "end": "17:07",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "17:04",
+            "title": "VSCode"
           },
           {
-            "start": "17:07",
+            "cat": "coding",
             "end": "17:08",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "17:07",
+            "title": "VSCode"
           },
           {
-            "start": "17:08",
+            "cat": "coding",
             "end": "17:09",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "17:08",
+            "title": "VSCode"
           },
           {
-            "start": "17:09",
+            "cat": "coding",
             "end": "17:10",
-            "cat": "coding",
+            "note": "3 hits",
             "src": "local",
-            "title": "config.toml",
-            "note": "3 hits"
+            "start": "17:09",
+            "title": "config.toml"
           },
           {
-            "start": "17:10",
+            "cat": "coding",
             "end": "17:11",
-            "cat": "coding",
+            "note": "3 hits",
             "src": "local",
-            "title": "config.toml",
-            "note": "3 hits"
+            "start": "17:10",
+            "title": "config.toml"
           },
           {
-            "start": "17:12",
+            "cat": "coding",
             "end": "17:15",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "17:12",
+            "title": "VSCode"
           },
           {
-            "start": "17:15",
+            "cat": "coding",
             "end": "17:16",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "17:15",
+            "title": "VSCode"
           },
           {
-            "start": "17:17",
+            "cat": "coding",
             "end": "17:20",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "17:17",
+            "title": "VSCode"
           },
           {
-            "start": "17:20",
+            "cat": "coding",
             "end": "17:21",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "17:20",
+            "title": "VSCode"
           },
           {
-            "start": "17:21",
+            "cat": "coding",
             "end": "17:25",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "17:21",
+            "title": "VSCode"
           },
           {
-            "start": "17:26",
+            "cat": "coding",
             "end": "17:29",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "17:26",
+            "title": "VSCode"
           },
           {
-            "start": "17:29",
-            "end": "17:37",
             "cat": "admin",
+            "end": "17:37",
+            "note": "translate.google.com",
             "src": "chrome",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "17:29",
+            "title": "Google Translate"
           },
           {
-            "start": "21:08",
+            "cat": "coding",
             "end": "21:14",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "21:08",
+            "title": "VSCode"
           },
           {
-            "start": "21:18",
+            "cat": "coding",
             "end": "21:19",
-            "cat": "coding",
+            "note": "2 hits",
             "src": "local",
-            "title": "task_order.json",
-            "note": "2 hits"
+            "start": "21:18",
+            "title": "task_order.json"
           },
           {
-            "start": "21:19",
+            "cat": "personal",
             "end": "21:23",
-            "cat": "personal",
+            "note": "lululemon.com.au",
             "src": "chrome",
-            "title": "lululemon Align™ High-Rise Short 6\" | Shorts | Lululemon AU",
-            "note": "lululemon.com.au"
+            "start": "21:19",
+            "title": "lululemon Align™ High-Rise Short 6\" | Shorts | Lululemon AU"
           },
           {
+            "cat": "personal",
+            "end": "21:29",
+            "note": "lululemon.com.au",
+            "src": "chrome",
             "start": "21:24",
-            "end": "21:29",
-            "cat": "personal",
-            "src": "chrome",
-            "title": "lululemon Align™ High-Rise Short 6\" | Shorts | Lululemon AU",
-            "note": "lululemon.com.au"
+            "title": "lululemon Align™ High-Rise Short 6\" | Shorts | Lululemon AU"
           },
           {
-            "start": "21:29",
-            "end": "21:29",
             "cat": "personal",
+            "end": "21:29",
+            "note": "lululemon.com.au",
             "src": "chrome",
-            "title": "lululemon Align™ High-Rise Short 6\" | Shorts | Lululemon AU",
-            "note": "lululemon.com.au"
+            "start": "21:29",
+            "title": "lululemon Align™ High-Rise Short 6\" | Shorts | Lululemon AU"
           },
           {
-            "start": "21:29",
+            "cat": "personal",
             "end": "21:34",
-            "cat": "personal",
+            "note": "lululemon.com.au",
             "src": "chrome",
-            "title": "lululemon Align™ High-Rise Short 6\" | Shorts | Lululemon AU",
-            "note": "lululemon.com.au"
+            "start": "21:29",
+            "title": "lululemon Align™ High-Rise Short 6\" | Shorts | Lululemon AU"
           },
           {
-            "start": "21:35",
+            "cat": "personal",
             "end": "21:40",
-            "cat": "personal",
+            "note": "lululemon.com.au",
             "src": "chrome",
-            "title": "lululemon Align™ High-Rise Short 6\" | Shorts | Lululemon AU",
-            "note": "lululemon.com.au"
+            "start": "21:35",
+            "title": "lululemon Align™ High-Rise Short 6\" | Shorts | Lululemon AU"
           },
           {
-            "start": "21:40",
+            "cat": "personal",
             "end": "22:35",
-            "cat": "personal",
+            "note": "lululemon.com.au",
             "src": "chrome",
-            "title": "lululemon Align™ High-Rise Short 6\" | Shorts | Lululemon AU",
-            "note": "lululemon.com.au"
+            "start": "21:40",
+            "title": "lululemon Align™ High-Rise Short 6\" | Shorts | Lululemon AU"
           },
           {
-            "start": "22:35",
-            "end": "22:51",
             "cat": "coding",
+            "end": "22:51",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "22:35",
+            "title": "VSCode"
           },
           {
-            "start": "22:51",
-            "end": "23:35",
             "cat": "personal",
+            "end": "23:35",
+            "note": "googleadservices.com",
             "src": "chrome",
-            "title": "VITAL PROTEINS Collagen Peptides Powder, 10g Collagen Per Se",
-            "note": "googleadservices.com"
+            "start": "22:51",
+            "title": "VITAL PROTEINS Collagen Peptides Powder, 10g Collagen Per Se"
           }
         ],
+        "key": "2026-7-8",
         "logged": 511,
-        "real": 318,
-        "deep": 318,
         "ratio": 0.621971671782984,
+        "real": 318,
         "stats": {
           "contextSwitches": 33,
-          "tabsOpened": 81,
+          "justOneMoreThing": 8,
           "longestFocus": "1h 38m",
-          "justOneMoreThing": 8
-        }
+          "tabsOpened": 81
+        },
+        "weekend": false
       },
       {
         "key": "2026-7-9",
@@ -12616,7 +12616,7 @@
         "dateShort": "Thu, Jul 9",
         "dateLong": "Thursday, July 9",
         "dayStart": "09:00",
-        "dayEnd": "10:34",
+        "dayEnd": "22:39",
         "events": [
           {
             "start": "09:00",
@@ -12644,22 +12644,366 @@
           },
           {
             "start": "10:14",
-            "end": "10:34",
+            "end": "10:36",
             "cat": "personal",
             "src": "chrome",
             "title": "(3) X 上的 leo 🐾：“🚨 BREAKING: ByteDance have announced Seedrea",
             "note": "google.com"
+          },
+          {
+            "start": "10:36",
+            "end": "10:42",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Create videos in seconds with Google Photos’ Video Remix",
+            "note": "goo.gle"
+          },
+          {
+            "start": "10:42",
+            "end": "10:56",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Create videos in seconds with Google Photos’ Video Remix",
+            "note": "goo.gle"
+          },
+          {
+            "start": "10:56",
+            "end": "11:00",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Where the time actually went | Ada's Notes",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "11:00",
+            "end": "11:32",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(3) X 上的 swyx：“one detail i enjoyed about @theo's keynote is",
+            "note": "x.com"
+          },
+          {
+            "start": "11:32",
+            "end": "11:54",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Separating signal from noise in coding evaluations | Ada's N",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "11:54",
+            "end": "12:11",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "An off switch for dual use knowledge in AI models \\ Anthropi",
+            "note": "anthropic.com"
+          },
+          {
+            "start": "12:11",
+            "end": "12:34",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Helping K–12 educators build practical AI skills | Ada's Not",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "14:00",
+            "end": "14:06",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "agent workshop acl 2026 youtube - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "14:06",
+            "end": "14:14",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "14:15",
+            "end": "14:23",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "14:24",
+            "end": "15:07",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Self-Play Fine-Tuning Converts Weak Language Models to Stron",
+            "note": "lilianweng.github.io"
+          },
+          {
+            "start": "15:07",
+            "end": "15:27",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Responses | OpenAI API Reference",
+            "note": "platform.openai.com"
+          },
+          {
+            "start": "15:40",
+            "end": "15:57",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "15:57",
+            "end": "16:20",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:26",
+            "end": "16:30",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:30",
+            "end": "16:33",
+            "cat": "research",
+            "src": "chrome",
+            "title": "ACL Rolling Review – A peer review platform for the Associat",
+            "note": "aclrollingreview.org"
+          },
+          {
+            "start": "16:33",
+            "end": "17:16",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "17:17",
+            "end": "17:22",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "17:22",
+            "end": "17:27",
+            "cat": "research",
+            "src": "chrome",
+            "title": "ChatGPT",
+            "note": "chatgpt.com"
+          },
+          {
+            "start": "17:27",
+            "end": "17:34",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "17:34",
+            "end": "17:44",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "17:44",
+            "end": "17:56",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "18:07",
+            "end": "18:09",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "20:42",
+            "end": "20:46",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "20:47",
+            "end": "20:51",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Typing Lessons | Accuracy Focus - Typing.com",
+            "note": "typing.com"
+          },
+          {
+            "start": "20:52",
+            "end": "20:56",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Typing Lessons | Accuracy Focus - Typing.com",
+            "note": "typing.com"
+          },
+          {
+            "start": "20:57",
+            "end": "20:58",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Typing Lessons | Accuracy Focus - Typing.com",
+            "note": "typing.com"
+          },
+          {
+            "start": "20:58",
+            "end": "20:59",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Typing Lessons | Accuracy Focus - Typing.com",
+            "note": "typing.com"
+          },
+          {
+            "start": "20:59",
+            "end": "21:00",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "21:00",
+            "end": "21:03",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Your exclusive event lineup is here, Ada! - ada.ren.cn@gmail",
+            "note": "mqcsh.slack.com"
+          },
+          {
+            "start": "21:03",
+            "end": "21:06",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Your exclusive event lineup is here, Ada! - ada.ren.cn@gmail",
+            "note": "mqcsh.slack.com"
+          },
+          {
+            "start": "21:06",
+            "end": "21:11",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Your exclusive event lineup is here, Ada! - ada.ren.cn@gmail",
+            "note": "mqcsh.slack.com"
+          },
+          {
+            "start": "21:11",
+            "end": "21:12",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Your exclusive event lineup is here, Ada! - ada.ren.cn@gmail",
+            "note": "mqcsh.slack.com"
+          },
+          {
+            "start": "21:12",
+            "end": "21:16",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Your exclusive event lineup is here, Ada! - ada.ren.cn@gmail",
+            "note": "mqcsh.slack.com"
+          },
+          {
+            "start": "21:17",
+            "end": "21:22",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Your exclusive event lineup is here, Ada! - ada.ren.cn@gmail",
+            "note": "mqcsh.slack.com"
+          },
+          {
+            "start": "21:22",
+            "end": "21:27",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Your exclusive event lineup is here, Ada! - ada.ren.cn@gmail",
+            "note": "mqcsh.slack.com"
+          },
+          {
+            "start": "21:28",
+            "end": "21:32",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+            "note": "openreview.net"
+          },
+          {
+            "start": "21:33",
+            "end": "21:37",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "yasasbanukaofficial/claude-code: 🚀 Open source Claude Code C",
+            "note": "github.com"
+          },
+          {
+            "start": "21:37",
+            "end": "21:42",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "yasasbanukaofficial/claude-code: 🚀 Open source Claude Code C",
+            "note": "github.com"
+          },
+          {
+            "start": "21:42",
+            "end": "21:43",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "yasasbanukaofficial/claude-code: 🚀 Open source Claude Code C",
+            "note": "github.com"
+          },
+          {
+            "start": "21:43",
+            "end": "21:48",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "yasasbanukaofficial/claude-code: 🚀 Open source Claude Code C",
+            "note": "github.com"
+          },
+          {
+            "start": "21:48",
+            "end": "21:53",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "yasasbanukaofficial/claude-code: 🚀 Open source Claude Code C",
+            "note": "github.com"
+          },
+          {
+            "start": "21:53",
+            "end": "22:39",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Meta-Harness: End-to-End Optimization of Model Harnesses",
+            "note": "arxiv.org"
           }
         ],
-        "logged": 61,
-        "real": 38,
-        "deep": 38,
-        "ratio": 0.6190242415329748,
+        "logged": 507,
+        "real": 355,
+        "deep": 355,
+        "ratio": 0.7001924623520378,
         "stats": {
-          "contextSwitches": 3,
-          "tabsOpened": 12,
-          "longestFocus": "24m",
-          "justOneMoreThing": 1
+          "contextSwitches": 27,
+          "tabsOpened": 111,
+          "longestFocus": "1h 31m",
+          "justOneMoreThing": 2
         }
       },
       {
@@ -12669,16 +13013,25 @@
         "weekend": false,
         "dateShort": "Fri, Jul 10",
         "dateLong": "Friday, July 10",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
+        "dayStart": "10:17",
+        "dayEnd": "10:39",
+        "events": [
+          {
+            "start": "10:17",
+            "end": "10:39",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Inbox (2,626) - ada.ren.cn@gmail.com - Gmail",
+            "note": "accounts.google.com"
+          }
+        ],
+        "logged": 22,
         "real": 0,
         "deep": 0,
-        "ratio": 0,
+        "ratio": 0.0,
         "stats": {
           "contextSwitches": 0,
-          "tabsOpened": 0,
+          "tabsOpened": 3,
           "longestFocus": "0m",
           "justOneMoreThing": 0
         }
@@ -16705,570 +17058,570 @@
       "weekend": false
     },
     {
-      "key": "2026-7-8",
-      "dayNum": 8,
-      "dow": 3,
-      "weekend": false,
-      "dateShort": "Wed, Jul 8",
       "dateLong": "Wednesday, July 8",
-      "dayStart": "10:01",
+      "dateShort": "Wed, Jul 8",
       "dayEnd": "23:35",
+      "dayNum": 8,
+      "dayStart": "10:01",
+      "deep": 318,
+      "dow": 3,
       "events": [
         {
-          "start": "10:01",
-          "end": "10:21",
           "cat": "writing",
+          "end": "10:21",
+          "note": "1drv.ms",
           "src": "chrome",
-          "title": "Book.xlsx",
-          "note": "1drv.ms"
+          "start": "10:01",
+          "title": "Book.xlsx"
         },
         {
-          "start": "10:21",
+          "cat": "research",
           "end": "10:22",
-          "cat": "research",
+          "note": "neurips.cc",
           "src": "chrome",
-          "title": "NeurIPS Poster SplitFlow: Flow Decomposition for Inversion-F",
-          "note": "neurips.cc"
+          "start": "10:21",
+          "title": "NeurIPS Poster SplitFlow: Flow Decomposition for Inversion-F"
         },
         {
-          "start": "10:22",
+          "cat": "personal",
           "end": "10:36",
-          "cat": "personal",
+          "note": "youtube.com",
           "src": "chrome",
-          "title": "(55) Memory and dreaming for self-learning agents - YouTube",
-          "note": "youtube.com"
+          "start": "10:22",
+          "title": "(55) Memory and dreaming for self-learning agents - YouTube"
         },
         {
-          "start": "10:36",
+          "cat": "research",
           "end": "10:41",
-          "cat": "research",
+          "note": "transformer-circuits.pub",
           "src": "chrome",
-          "title": "Verbalizable Representations Form a Global Workspace in Lang",
-          "note": "transformer-circuits.pub"
+          "start": "10:36",
+          "title": "Verbalizable Representations Form a Global Workspace in Lang"
         },
         {
-          "start": "10:41",
+          "cat": "admin",
           "end": "10:44",
-          "cat": "admin",
+          "note": "6 hits",
           "src": "claude",
-          "title": "PhD worklog review",
-          "note": "6 hits"
+          "start": "10:41",
+          "title": "PhD worklog review"
         },
         {
-          "start": "10:44",
+          "cat": "research",
           "end": "10:56",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "chrome",
-          "title": "Why Larger Models Learn More: Effects of Capacity, Interfere",
-          "note": "arxiv.org"
+          "start": "10:44",
+          "title": "Why Larger Models Learn More: Effects of Capacity, Interfere"
         },
         {
-          "start": "10:56",
+          "cat": "personal",
           "end": "11:03",
-          "cat": "personal",
+          "note": "x.com",
           "src": "chrome",
-          "title": "(1) X 上的 swyx：“imo this is the most impt part of anthropic's",
-          "note": "x.com"
+          "start": "10:56",
+          "title": "(1) X 上的 swyx：“imo this is the most impt part of anthropic's"
         },
         {
-          "start": "11:06",
+          "cat": "research",
           "end": "11:15",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "chrome",
-          "title": "Big-Tech-Researches | Ada's Notes",
-          "note": "adaren100.github.io"
+          "start": "11:06",
+          "title": "Big-Tech-Researches | Ada's Notes"
         },
         {
-          "start": "11:17",
+          "cat": "research",
           "end": "11:19",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "chrome",
-          "title": "Where the time actually went | Ada's Notes",
-          "note": "adaren100.github.io"
+          "start": "11:17",
+          "title": "Where the time actually went | Ada's Notes"
         },
         {
-          "start": "11:20",
+          "cat": "coding",
           "end": "11:39",
-          "cat": "coding",
+          "note": "support.claude.com",
           "src": "chrome",
-          "title": "How do usage and length limits work? | Claude Help Center",
-          "note": "support.claude.com"
+          "start": "11:20",
+          "title": "How do usage and length limits work? | Claude Help Center"
         },
         {
-          "start": "11:40",
+          "cat": "coding",
           "end": "11:48",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "11:40",
+          "title": "VSCode"
         },
         {
-          "start": "11:48",
+          "cat": "research",
           "end": "11:59",
-          "cat": "research",
+          "note": "scholar.google.com",
           "src": "chrome",
-          "title": "‪Usman Naseem‬ - ‪Google Scholar‬",
-          "note": "scholar.google.com"
+          "start": "11:48",
+          "title": "‪Usman Naseem‬ - ‪Google Scholar‬"
         },
         {
-          "start": "11:59",
+          "cat": "admin",
           "end": "12:21",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "chrome",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "11:59",
+          "title": "Google Translate"
         },
         {
-          "start": "13:31",
+          "cat": "coding",
           "end": "13:34",
-          "cat": "coding",
+          "note": "github.com",
           "src": "chrome",
-          "title": "MBABenchV2/gui-agents-master at main · namkoong-lab/MBABench",
-          "note": "github.com"
+          "start": "13:31",
+          "title": "MBABenchV2/gui-agents-master at main · namkoong-lab/MBABench"
         },
         {
-          "start": "13:35",
+          "cat": "coding",
           "end": "13:41",
-          "cat": "coding",
+          "note": "github.com",
           "src": "chrome",
-          "title": "namkoong-lab/MBABenchV2",
-          "note": "github.com"
+          "start": "13:35",
+          "title": "namkoong-lab/MBABenchV2"
         },
         {
-          "start": "13:41",
+          "cat": "coding",
           "end": "13:43",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "13:41",
+          "title": "VSCode"
         },
         {
-          "start": "13:43",
+          "cat": "coding",
           "end": "13:46",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "13:43",
+          "title": "VSCode"
         },
         {
-          "start": "13:46",
+          "cat": "coding",
           "end": "13:48",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "13:46",
+          "title": "VSCode"
         },
         {
-          "start": "13:48",
+          "cat": "coding",
           "end": "13:55",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "13:48",
+          "title": "VSCode"
         },
         {
-          "start": "13:56",
+          "cat": "admin",
           "end": "13:57",
-          "cat": "admin",
+          "note": "com.microsoft.Excel",
           "src": "macos",
-          "title": "Excel",
-          "note": "com.microsoft.Excel"
+          "start": "13:56",
+          "title": "Excel"
         },
         {
-          "start": "13:57",
+          "cat": "coding",
           "end": "13:58",
-          "cat": "coding",
+          "note": "2 hits",
           "src": "vscode",
-          "title": "VS Code · family_common.py",
-          "note": "2 hits"
+          "start": "13:57",
+          "title": "VS Code · family_common.py"
         },
         {
-          "start": "14:00",
+          "cat": "admin",
           "end": "14:02",
-          "cat": "admin",
+          "note": "com.microsoft.Excel",
           "src": "macos",
-          "title": "Excel",
-          "note": "com.microsoft.Excel"
+          "start": "14:00",
+          "title": "Excel"
         },
         {
-          "start": "14:02",
+          "cat": "personal",
           "end": "14:05",
-          "cat": "personal",
+          "note": "youtu.be",
           "src": "chrome",
-          "title": "(55) Nail your PE modeling test - YouTube",
-          "note": "youtu.be"
+          "start": "14:02",
+          "title": "(55) Nail your PE modeling test - YouTube"
         },
         {
-          "start": "14:05",
+          "cat": "coding",
           "end": "14:07",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "14:05",
+          "title": "VSCode"
         },
         {
-          "start": "14:07",
+          "cat": "coding",
           "end": "14:12",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "14:07",
+          "title": "VSCode"
         },
         {
-          "start": "14:12",
+          "cat": "coding",
           "end": "14:25",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "14:12",
+          "title": "VSCode"
         },
         {
-          "start": "14:25",
+          "cat": "coding",
           "end": "14:38",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "14:25",
+          "title": "VSCode"
         },
         {
-          "start": "14:38",
+          "cat": "research",
           "end": "14:39",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "14:38",
+          "title": "zotero"
         },
         {
-          "start": "14:39",
+          "cat": "coding",
           "end": "14:40",
-          "cat": "coding",
+          "note": "github.com",
           "src": "chrome",
-          "title": "Yelp/detect-secrets: An enterprise friendly way of detecting",
-          "note": "github.com"
+          "start": "14:39",
+          "title": "Yelp/detect-secrets: An enterprise friendly way of detecting"
         },
         {
-          "start": "14:40",
-          "end": "14:43",
           "cat": "research",
+          "end": "14:43",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "14:40",
+          "title": "zotero"
         },
         {
-          "start": "14:45",
+          "cat": "coding",
           "end": "14:57",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "14:45",
+          "title": "VSCode"
         },
         {
+          "cat": "admin",
+          "end": "15:00",
+          "note": "com.microsoft.Excel",
+          "src": "macos",
           "start": "14:57",
-          "end": "15:00",
-          "cat": "admin",
-          "src": "macos",
-          "title": "Excel",
-          "note": "com.microsoft.Excel"
+          "title": "Excel"
         },
         {
-          "start": "15:00",
-          "end": "15:00",
           "cat": "coding",
+          "end": "15:00",
+          "note": "file:///Users/ada/Documents/MQ/repo/MBAB",
           "src": "chrome",
-          "title": "MO15 Round 1 - Sec 2 - Bread and Butter (Questions and Answe",
-          "note": "file:///Users/ada/Documents/MQ/repo/MBAB"
+          "start": "15:00",
+          "title": "MO15 Round 1 - Sec 2 - Bread and Butter (Questions and Answe"
         },
         {
-          "start": "15:00",
+          "cat": "admin",
           "end": "15:05",
-          "cat": "admin",
+          "note": "com.microsoft.Excel",
           "src": "macos",
-          "title": "Excel",
-          "note": "com.microsoft.Excel"
+          "start": "15:00",
+          "title": "Excel"
         },
         {
-          "start": "15:05",
+          "cat": "coding",
           "end": "15:31",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "15:05",
+          "title": "VSCode"
         },
         {
-          "start": "15:31",
+          "cat": "coding",
           "end": "15:35",
-          "cat": "coding",
+          "note": "accounts.google.com",
           "src": "chrome",
-          "title": "Models: 'o o pen' - Pricing: Low to High | OpenRouter",
-          "note": "accounts.google.com"
+          "start": "15:31",
+          "title": "Models: 'o o pen' - Pricing: Low to High | OpenRouter"
         },
         {
-          "start": "15:35",
+          "cat": "coding",
           "end": "15:54",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "15:35",
+          "title": "VSCode"
         },
         {
-          "start": "15:54",
+          "cat": "coding",
           "end": "16:11",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "15:54",
+          "title": "VSCode"
         },
         {
-          "start": "16:11",
+          "cat": "coding",
           "end": "16:15",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "16:11",
+          "title": "VSCode"
         },
         {
-          "start": "16:15",
+          "cat": "coding",
           "end": "16:43",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "16:15",
+          "title": "VSCode"
         },
         {
-          "start": "16:43",
+          "cat": "personal",
           "end": "16:46",
-          "cat": "personal",
+          "note": "map.google.com",
           "src": "chrome",
-          "title": "Google Maps",
-          "note": "map.google.com"
+          "start": "16:43",
+          "title": "Google Maps"
         },
         {
-          "start": "16:46",
+          "cat": "coding",
           "end": "16:51",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "16:46",
+          "title": "VSCode"
         },
         {
-          "start": "16:51",
+          "cat": "personal",
           "end": "16:58",
-          "cat": "personal",
+          "note": "map.google.com",
           "src": "chrome",
-          "title": "Google Maps",
-          "note": "map.google.com"
+          "start": "16:51",
+          "title": "Google Maps"
         },
         {
-          "start": "16:58",
+          "cat": "coding",
           "end": "17:02",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "16:58",
+          "title": "VSCode"
         },
         {
-          "start": "17:02",
+          "cat": "coding",
           "end": "17:03",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "17:02",
+          "title": "VSCode"
         },
         {
-          "start": "17:03",
+          "cat": "coding",
           "end": "17:04",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "17:03",
+          "title": "VSCode"
         },
         {
-          "start": "17:04",
+          "cat": "coding",
           "end": "17:07",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "17:04",
+          "title": "VSCode"
         },
         {
-          "start": "17:07",
+          "cat": "coding",
           "end": "17:08",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "17:07",
+          "title": "VSCode"
         },
         {
-          "start": "17:08",
+          "cat": "coding",
           "end": "17:09",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "17:08",
+          "title": "VSCode"
         },
         {
-          "start": "17:09",
+          "cat": "coding",
           "end": "17:10",
-          "cat": "coding",
+          "note": "3 hits",
           "src": "local",
-          "title": "config.toml",
-          "note": "3 hits"
+          "start": "17:09",
+          "title": "config.toml"
         },
         {
-          "start": "17:10",
+          "cat": "coding",
           "end": "17:11",
-          "cat": "coding",
+          "note": "3 hits",
           "src": "local",
-          "title": "config.toml",
-          "note": "3 hits"
+          "start": "17:10",
+          "title": "config.toml"
         },
         {
-          "start": "17:12",
+          "cat": "coding",
           "end": "17:15",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "17:12",
+          "title": "VSCode"
         },
         {
-          "start": "17:15",
+          "cat": "coding",
           "end": "17:16",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "17:15",
+          "title": "VSCode"
         },
         {
-          "start": "17:17",
+          "cat": "coding",
           "end": "17:20",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "17:17",
+          "title": "VSCode"
         },
         {
-          "start": "17:20",
+          "cat": "coding",
           "end": "17:21",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "17:20",
+          "title": "VSCode"
         },
         {
-          "start": "17:21",
+          "cat": "coding",
           "end": "17:25",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "17:21",
+          "title": "VSCode"
         },
         {
-          "start": "17:26",
+          "cat": "coding",
           "end": "17:29",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "17:26",
+          "title": "VSCode"
         },
         {
-          "start": "17:29",
-          "end": "17:37",
           "cat": "admin",
+          "end": "17:37",
+          "note": "translate.google.com",
           "src": "chrome",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "17:29",
+          "title": "Google Translate"
         },
         {
-          "start": "21:08",
+          "cat": "coding",
           "end": "21:14",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "21:08",
+          "title": "VSCode"
         },
         {
-          "start": "21:18",
+          "cat": "coding",
           "end": "21:19",
-          "cat": "coding",
+          "note": "2 hits",
           "src": "local",
-          "title": "task_order.json",
-          "note": "2 hits"
+          "start": "21:18",
+          "title": "task_order.json"
         },
         {
-          "start": "21:19",
+          "cat": "personal",
           "end": "21:23",
-          "cat": "personal",
+          "note": "lululemon.com.au",
           "src": "chrome",
-          "title": "lululemon Align™ High-Rise Short 6\" | Shorts | Lululemon AU",
-          "note": "lululemon.com.au"
+          "start": "21:19",
+          "title": "lululemon Align™ High-Rise Short 6\" | Shorts | Lululemon AU"
         },
         {
+          "cat": "personal",
+          "end": "21:29",
+          "note": "lululemon.com.au",
+          "src": "chrome",
           "start": "21:24",
-          "end": "21:29",
-          "cat": "personal",
-          "src": "chrome",
-          "title": "lululemon Align™ High-Rise Short 6\" | Shorts | Lululemon AU",
-          "note": "lululemon.com.au"
+          "title": "lululemon Align™ High-Rise Short 6\" | Shorts | Lululemon AU"
         },
         {
-          "start": "21:29",
-          "end": "21:29",
           "cat": "personal",
+          "end": "21:29",
+          "note": "lululemon.com.au",
           "src": "chrome",
-          "title": "lululemon Align™ High-Rise Short 6\" | Shorts | Lululemon AU",
-          "note": "lululemon.com.au"
+          "start": "21:29",
+          "title": "lululemon Align™ High-Rise Short 6\" | Shorts | Lululemon AU"
         },
         {
-          "start": "21:29",
+          "cat": "personal",
           "end": "21:34",
-          "cat": "personal",
+          "note": "lululemon.com.au",
           "src": "chrome",
-          "title": "lululemon Align™ High-Rise Short 6\" | Shorts | Lululemon AU",
-          "note": "lululemon.com.au"
+          "start": "21:29",
+          "title": "lululemon Align™ High-Rise Short 6\" | Shorts | Lululemon AU"
         },
         {
-          "start": "21:35",
+          "cat": "personal",
           "end": "21:40",
-          "cat": "personal",
+          "note": "lululemon.com.au",
           "src": "chrome",
-          "title": "lululemon Align™ High-Rise Short 6\" | Shorts | Lululemon AU",
-          "note": "lululemon.com.au"
+          "start": "21:35",
+          "title": "lululemon Align™ High-Rise Short 6\" | Shorts | Lululemon AU"
         },
         {
-          "start": "21:40",
+          "cat": "personal",
           "end": "22:35",
-          "cat": "personal",
+          "note": "lululemon.com.au",
           "src": "chrome",
-          "title": "lululemon Align™ High-Rise Short 6\" | Shorts | Lululemon AU",
-          "note": "lululemon.com.au"
+          "start": "21:40",
+          "title": "lululemon Align™ High-Rise Short 6\" | Shorts | Lululemon AU"
         },
         {
-          "start": "22:35",
-          "end": "22:51",
           "cat": "coding",
+          "end": "22:51",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "22:35",
+          "title": "VSCode"
         },
         {
-          "start": "22:51",
-          "end": "23:35",
           "cat": "personal",
+          "end": "23:35",
+          "note": "googleadservices.com",
           "src": "chrome",
-          "title": "VITAL PROTEINS Collagen Peptides Powder, 10g Collagen Per Se",
-          "note": "googleadservices.com"
+          "start": "22:51",
+          "title": "VITAL PROTEINS Collagen Peptides Powder, 10g Collagen Per Se"
         }
       ],
+      "key": "2026-7-8",
       "logged": 511,
-      "real": 318,
-      "deep": 318,
       "ratio": 0.621971671782984,
+      "real": 318,
       "stats": {
         "contextSwitches": 33,
-        "tabsOpened": 81,
+        "justOneMoreThing": 8,
         "longestFocus": "1h 38m",
-        "justOneMoreThing": 8
-      }
+        "tabsOpened": 81
+      },
+      "weekend": false
     },
     {
       "key": "2026-7-9",
@@ -17278,7 +17631,7 @@
       "dateShort": "Thu, Jul 9",
       "dateLong": "Thursday, July 9",
       "dayStart": "09:00",
-      "dayEnd": "10:34",
+      "dayEnd": "22:39",
       "events": [
         {
           "start": "09:00",
@@ -17306,22 +17659,366 @@
         },
         {
           "start": "10:14",
-          "end": "10:34",
+          "end": "10:36",
           "cat": "personal",
           "src": "chrome",
           "title": "(3) X 上的 leo 🐾：“🚨 BREAKING: ByteDance have announced Seedrea",
           "note": "google.com"
+        },
+        {
+          "start": "10:36",
+          "end": "10:42",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Create videos in seconds with Google Photos’ Video Remix",
+          "note": "goo.gle"
+        },
+        {
+          "start": "10:42",
+          "end": "10:56",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Create videos in seconds with Google Photos’ Video Remix",
+          "note": "goo.gle"
+        },
+        {
+          "start": "10:56",
+          "end": "11:00",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Where the time actually went | Ada's Notes",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "11:00",
+          "end": "11:32",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(3) X 上的 swyx：“one detail i enjoyed about @theo's keynote is",
+          "note": "x.com"
+        },
+        {
+          "start": "11:32",
+          "end": "11:54",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Separating signal from noise in coding evaluations | Ada's N",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "11:54",
+          "end": "12:11",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "An off switch for dual use knowledge in AI models \\ Anthropi",
+          "note": "anthropic.com"
+        },
+        {
+          "start": "12:11",
+          "end": "12:34",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Helping K–12 educators build practical AI skills | Ada's Not",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "14:00",
+          "end": "14:06",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "agent workshop acl 2026 youtube - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "14:06",
+          "end": "14:14",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "14:15",
+          "end": "14:23",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "14:24",
+          "end": "15:07",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Self-Play Fine-Tuning Converts Weak Language Models to Stron",
+          "note": "lilianweng.github.io"
+        },
+        {
+          "start": "15:07",
+          "end": "15:27",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Responses | OpenAI API Reference",
+          "note": "platform.openai.com"
+        },
+        {
+          "start": "15:40",
+          "end": "15:57",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "15:57",
+          "end": "16:20",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:26",
+          "end": "16:30",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:30",
+          "end": "16:33",
+          "cat": "research",
+          "src": "chrome",
+          "title": "ACL Rolling Review – A peer review platform for the Associat",
+          "note": "aclrollingreview.org"
+        },
+        {
+          "start": "16:33",
+          "end": "17:16",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "17:17",
+          "end": "17:22",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "17:22",
+          "end": "17:27",
+          "cat": "research",
+          "src": "chrome",
+          "title": "ChatGPT",
+          "note": "chatgpt.com"
+        },
+        {
+          "start": "17:27",
+          "end": "17:34",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "17:34",
+          "end": "17:44",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "17:44",
+          "end": "17:56",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "18:07",
+          "end": "18:09",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "20:42",
+          "end": "20:46",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "20:47",
+          "end": "20:51",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Typing Lessons | Accuracy Focus - Typing.com",
+          "note": "typing.com"
+        },
+        {
+          "start": "20:52",
+          "end": "20:56",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Typing Lessons | Accuracy Focus - Typing.com",
+          "note": "typing.com"
+        },
+        {
+          "start": "20:57",
+          "end": "20:58",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Typing Lessons | Accuracy Focus - Typing.com",
+          "note": "typing.com"
+        },
+        {
+          "start": "20:58",
+          "end": "20:59",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Typing Lessons | Accuracy Focus - Typing.com",
+          "note": "typing.com"
+        },
+        {
+          "start": "20:59",
+          "end": "21:00",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "21:00",
+          "end": "21:03",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Your exclusive event lineup is here, Ada! - ada.ren.cn@gmail",
+          "note": "mqcsh.slack.com"
+        },
+        {
+          "start": "21:03",
+          "end": "21:06",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Your exclusive event lineup is here, Ada! - ada.ren.cn@gmail",
+          "note": "mqcsh.slack.com"
+        },
+        {
+          "start": "21:06",
+          "end": "21:11",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Your exclusive event lineup is here, Ada! - ada.ren.cn@gmail",
+          "note": "mqcsh.slack.com"
+        },
+        {
+          "start": "21:11",
+          "end": "21:12",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Your exclusive event lineup is here, Ada! - ada.ren.cn@gmail",
+          "note": "mqcsh.slack.com"
+        },
+        {
+          "start": "21:12",
+          "end": "21:16",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Your exclusive event lineup is here, Ada! - ada.ren.cn@gmail",
+          "note": "mqcsh.slack.com"
+        },
+        {
+          "start": "21:17",
+          "end": "21:22",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Your exclusive event lineup is here, Ada! - ada.ren.cn@gmail",
+          "note": "mqcsh.slack.com"
+        },
+        {
+          "start": "21:22",
+          "end": "21:27",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Your exclusive event lineup is here, Ada! - ada.ren.cn@gmail",
+          "note": "mqcsh.slack.com"
+        },
+        {
+          "start": "21:28",
+          "end": "21:32",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+          "note": "openreview.net"
+        },
+        {
+          "start": "21:33",
+          "end": "21:37",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "yasasbanukaofficial/claude-code: 🚀 Open source Claude Code C",
+          "note": "github.com"
+        },
+        {
+          "start": "21:37",
+          "end": "21:42",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "yasasbanukaofficial/claude-code: 🚀 Open source Claude Code C",
+          "note": "github.com"
+        },
+        {
+          "start": "21:42",
+          "end": "21:43",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "yasasbanukaofficial/claude-code: 🚀 Open source Claude Code C",
+          "note": "github.com"
+        },
+        {
+          "start": "21:43",
+          "end": "21:48",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "yasasbanukaofficial/claude-code: 🚀 Open source Claude Code C",
+          "note": "github.com"
+        },
+        {
+          "start": "21:48",
+          "end": "21:53",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "yasasbanukaofficial/claude-code: 🚀 Open source Claude Code C",
+          "note": "github.com"
+        },
+        {
+          "start": "21:53",
+          "end": "22:39",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Meta-Harness: End-to-End Optimization of Model Harnesses",
+          "note": "arxiv.org"
         }
       ],
-      "logged": 61,
-      "real": 38,
-      "deep": 38,
-      "ratio": 0.6190242415329748,
+      "logged": 507,
+      "real": 355,
+      "deep": 355,
+      "ratio": 0.7001924623520378,
       "stats": {
-        "contextSwitches": 3,
-        "tabsOpened": 12,
-        "longestFocus": "24m",
-        "justOneMoreThing": 1
+        "contextSwitches": 27,
+        "tabsOpened": 111,
+        "longestFocus": "1h 31m",
+        "justOneMoreThing": 2
       }
     },
     {
@@ -17331,16 +18028,25 @@
       "weekend": false,
       "dateShort": "Fri, Jul 10",
       "dateLong": "Friday, July 10",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
+      "dayStart": "10:17",
+      "dayEnd": "10:39",
+      "events": [
+        {
+          "start": "10:17",
+          "end": "10:39",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Inbox (2,626) - ada.ren.cn@gmail.com - Gmail",
+          "note": "accounts.google.com"
+        }
+      ],
+      "logged": 22,
       "real": 0,
       "deep": 0,
-      "ratio": 0,
+      "ratio": 0.0,
       "stats": {
         "contextSwitches": 0,
-        "tabsOpened": 0,
+        "tabsOpened": 3,
         "longestFocus": "0m",
         "justOneMoreThing": 0
       }
