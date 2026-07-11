@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-07-11T17:57:57+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-07-11T17:59:10+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -25719,298 +25719,266 @@
         "weekend": false
       },
       {
-        "dateLong": "Friday, July 10",
-        "dateShort": "Fri, Jul 10",
-        "dayEnd": "22:39",
+        "key": "2026-7-10",
         "dayNum": 10,
-        "dayStart": "10:17",
-        "deep": 351,
         "dow": 5,
+        "weekend": false,
+        "dateShort": "Fri, Jul 10",
+        "dateLong": "Friday, July 10",
+        "dayStart": "10:17",
+        "dayEnd": "22:39",
         "events": [
           {
-            "cat": "admin",
-            "end": "10:41",
-            "note": "accounts.google.com",
-            "src": "chrome",
             "start": "10:17",
-            "title": "Inbox (2,636) - ada.ren.cn@gmail.com - Gmail"
+            "end": "10:41",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Inbox (2,636) - ada.ren.cn@gmail.com - Gmail",
+            "note": "accounts.google.com"
           },
           {
-            "cat": "research",
-            "end": "10:52",
-            "note": "adaren100.github.io",
-            "src": "chrome",
             "start": "10:42",
-            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
+            "end": "10:52",
+            "cat": "research",
+            "src": "macos",
+            "title": "Reading · arxiv.org",
+            "note": "arxiv.org"
           },
           {
-            "cat": "personal",
-            "end": "11:01",
-            "note": "x.com",
-            "src": "chrome",
             "start": "10:54",
-            "title": "(3) X 上的 AI at Meta：“Muse Spark 1.1 also excels in perceptio"
+            "end": "11:01",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(3) X 上的 AI at Meta：“Muse Spark 1.1 also excels in perceptio",
+            "note": "x.com"
           },
           {
-            "cat": "research",
-            "end": "11:07",
-            "note": "adaren100.github.io",
-            "src": "chrome",
             "start": "11:01",
-            "title": "Introducing a way to reflect on how you use Claude | Ada's N"
+            "end": "11:07",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Introducing a way to reflect on how you use Claude | Ada's N",
+            "note": "adaren100.github.io"
           },
           {
-            "cat": "writing",
-            "end": "11:12",
-            "note": "2 hits",
-            "src": "local",
             "start": "11:07",
-            "title": "2026-07-09-ust-claude.md"
+            "end": "11:12",
+            "cat": "writing",
+            "src": "local",
+            "title": "2026-07-09-ust-claude.md",
+            "note": "2 hits"
           },
           {
-            "cat": "research",
-            "end": "11:16",
-            "note": "openai.com",
-            "src": "chrome",
             "start": "11:12",
-            "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot "
+            "end": "11:16",
+            "cat": "research",
+            "src": "chrome",
+            "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot ",
+            "note": "openai.com"
           },
           {
-            "cat": "research",
-            "end": "11:24",
-            "note": "openai.com",
-            "src": "chrome",
             "start": "11:16",
-            "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot "
+            "end": "11:24",
+            "cat": "research",
+            "src": "chrome",
+            "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot ",
+            "note": "openai.com"
           },
           {
-            "cat": "research",
-            "end": "11:28",
-            "note": "openai.com",
-            "src": "chrome",
             "start": "11:24",
-            "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot "
+            "end": "11:28",
+            "cat": "research",
+            "src": "chrome",
+            "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot ",
+            "note": "openai.com"
           },
           {
-            "cat": "research",
-            "end": "11:32",
-            "note": "openai.com",
-            "src": "chrome",
             "start": "11:28",
-            "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot "
+            "end": "11:32",
+            "cat": "research",
+            "src": "chrome",
+            "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot ",
+            "note": "openai.com"
           },
           {
-            "cat": "personal",
-            "end": "11:36",
-            "note": "cluade.ai",
-            "src": "chrome",
             "start": "11:32",
-            "title": "cluade.ai"
+            "end": "11:36",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "cluade.ai",
+            "note": "cluade.ai"
           },
           {
-            "cat": "writing",
-            "end": "11:47",
-            "note": "overleaf.com",
-            "src": "chrome",
             "start": "11:36",
-            "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea"
+            "end": "11:47",
+            "cat": "writing",
+            "src": "chrome",
+            "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea",
+            "note": "overleaf.com"
           },
           {
-            "cat": "research",
-            "end": "11:52",
-            "note": "openreview.net",
-            "src": "chrome",
             "start": "11:48",
-            "title": "Venues | OpenReview"
+            "end": "11:52",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Venues | OpenReview",
+            "note": "openreview.net"
           },
           {
-            "cat": "writing",
-            "end": "12:13",
-            "note": "accounts.google.com",
-            "src": "chrome",
             "start": "11:52",
-            "title": "Sign in - Google Accounts"
-          },
-          {
-            "cat": "personal",
-            "end": "12:13",
-            "note": "google.com",
-            "src": "chrome",
-            "start": "12:13",
-            "title": "2025北海道滑雪 - Google My Maps"
-          },
-          {
+            "end": "12:05",
             "cat": "writing",
-            "end": "12:17",
-            "note": "docs.google.com",
             "src": "chrome",
-            "start": "12:13",
-            "title": "POLAR@EEUCA 2026 - Google Slides"
+            "title": "Sign in - Google Accounts",
+            "note": "accounts.google.com"
           },
           {
-            "cat": "research",
-            "end": "12:21",
-            "note": "arxiv.org",
-            "src": "chrome",
-            "start": "12:17",
-            "title": "SafeTutors: Benchmarking Pedagogical Safety in AI Tutoring S"
-          },
-          {
-            "cat": "research",
+            "start": "12:05",
             "end": "12:51",
-            "note": "arxiv.org",
-            "src": "chrome",
-            "start": "12:22",
-            "title": "SafeTutors: Benchmarking Pedagogical Safety in AI Tutoring S"
+            "cat": "research",
+            "src": "macos",
+            "title": "Reading · arxiv.org",
+            "note": "arxiv.org"
           },
           {
-            "cat": "admin",
-            "end": "13:58",
-            "note": "com.microsoft.Outlook",
-            "src": "macos",
             "start": "13:51",
-            "title": "Outlook"
-          },
-          {
-            "cat": "research",
-            "end": "14:16",
-            "note": "url.au.m.mimecastprotect.com",
-            "src": "chrome",
-            "start": "13:58",
-            "title": "ACL ARR 2026 May Authors | OpenReview"
-          },
-          {
-            "cat": "personal",
-            "end": "14:33",
-            "note": "open.spotify.com",
-            "src": "chrome",
-            "start": "14:16",
-            "title": "Spotify - Web Player: Music for everyone"
-          },
-          {
-            "cat": "coding",
-            "end": "15:33",
-            "note": "com.microsoft.VSCode",
-            "src": "macos",
-            "start": "15:25",
-            "title": "VSCode"
-          },
-          {
-            "cat": "coding",
-            "end": "15:34",
-            "note": "com.microsoft.VSCode",
-            "src": "macos",
-            "start": "15:33",
-            "title": "VSCode"
-          },
-          {
-            "cat": "coding",
-            "end": "15:41",
-            "note": "com.microsoft.VSCode",
-            "src": "macos",
-            "start": "15:37",
-            "title": "VSCode"
-          },
-          {
-            "cat": "coding",
-            "end": "15:53",
-            "note": "com.microsoft.VSCode",
-            "src": "macos",
-            "start": "15:42",
-            "title": "VSCode"
-          },
-          {
-            "cat": "coding",
-            "end": "15:57",
-            "note": "com.microsoft.VSCode",
-            "src": "macos",
-            "start": "15:53",
-            "title": "VSCode"
-          },
-          {
-            "cat": "coding",
-            "end": "16:07",
-            "note": "com.microsoft.VSCode",
-            "src": "macos",
-            "start": "15:59",
-            "title": "VSCode"
-          },
-          {
-            "cat": "coding",
-            "end": "16:10",
-            "note": "105 hits",
-            "src": "claude",
-            "start": "16:07",
-            "title": "Claude session · bench"
-          },
-          {
-            "cat": "writing",
-            "end": "16:47",
-            "note": "drive.google.com",
-            "src": "chrome",
-            "start": "16:10",
-            "title": "Application of AWS Student Builder Group Leader - Google Sli"
-          },
-          {
-            "cat": "writing",
-            "end": "17:09",
-            "note": "docs.google.com",
-            "src": "chrome",
-            "start": "16:49",
-            "title": "Application of AWS Student Builder Group Leader - Google Sli"
-          },
-          {
-            "cat": "personal",
-            "end": "19:38",
-            "note": "youtube.com",
-            "src": "chrome",
-            "start": "18:50",
-            "title": "(58) Field Guide to Fable — Thariq Shihipar, Anthropic - You"
-          },
-          {
+            "end": "13:58",
             "cat": "admin",
-            "end": "20:21",
-            "note": "mail.google.com",
-            "src": "chrome",
-            "start": "20:11",
-            "title": "Inbox (2,636) - ada.ren.cn@gmail.com - Gmail"
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
           },
           {
+            "start": "13:58",
+            "end": "14:16",
             "cat": "research",
-            "end": "20:53",
-            "note": "arxiv.org",
             "src": "chrome",
-            "start": "20:21",
-            "title": "Meta-Harness: End-to-End Optimization of Model Harnesses"
+            "title": "ACL ARR 2026 May Authors | OpenReview",
+            "note": "url.au.m.mimecastprotect.com"
           },
           {
+            "start": "14:16",
+            "end": "14:33",
             "cat": "personal",
-            "end": "21:08",
-            "note": "google.com",
             "src": "chrome",
-            "start": "20:53",
-            "title": "lilian weng - Google Search"
+            "title": "Spotify - Web Player: Music for everyone",
+            "note": "open.spotify.com"
           },
           {
-            "cat": "research",
-            "end": "22:39",
-            "note": "scholar.google.com",
+            "start": "15:25",
+            "end": "15:33",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:33",
+            "end": "15:34",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:37",
+            "end": "15:41",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:42",
+            "end": "15:53",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:53",
+            "end": "15:57",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:59",
+            "end": "16:07",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:07",
+            "end": "16:10",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · bench",
+            "note": "105 hits"
+          },
+          {
+            "start": "16:10",
+            "end": "16:47",
+            "cat": "writing",
             "src": "chrome",
+            "title": "Application of AWS Student Builder Group Leader - Google Sli",
+            "note": "drive.google.com"
+          },
+          {
+            "start": "16:49",
+            "end": "17:09",
+            "cat": "writing",
+            "src": "chrome",
+            "title": "Application of AWS Student Builder Group Leader - Google Sli",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "18:50",
+            "end": "19:38",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(58) Field Guide to Fable — Thariq Shihipar, Anthropic - You",
+            "note": "youtube.com"
+          },
+          {
+            "start": "20:02",
+            "end": "20:53",
+            "cat": "research",
+            "src": "macos",
+            "title": "Reading · arxiv.org",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "20:53",
+            "end": "21:08",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "lilian weng - Google Search",
+            "note": "google.com"
+          },
+          {
             "start": "21:08",
-            "title": "ScientistOne: Towards Human-Level Autonomous Research via Ch"
+            "end": "22:39",
+            "cat": "research",
+            "src": "macos",
+            "title": "Reading · arxiv.org",
+            "note": "arxiv.org"
           }
         ],
-        "key": "2026-7-10",
-        "logged": 482,
-        "ratio": 0.7273082053938612,
-        "real": 351,
+        "logged": 492,
+        "real": 371,
+        "deep": 371,
+        "ratio": 0.7541857476001037,
         "stats": {
-          "contextSwitches": 22,
-          "justOneMoreThing": 4,
+          "contextSwitches": 19,
+          "tabsOpened": 51,
           "longestFocus": "1h 36m",
-          "tabsOpened": 75
-        },
-        "weekend": false
+          "justOneMoreThing": 3
+        }
       },
       {
         "key": "2026-7-11",
@@ -26020,7 +25988,7 @@
         "dateShort": "Sat, Jul 11",
         "dateLong": "Saturday, July 11",
         "dayStart": "09:53",
-        "dayEnd": "18:00",
+        "dayEnd": "18:04",
         "events": [
           {
             "start": "09:53",
@@ -26152,19 +26120,27 @@
           },
           {
             "start": "17:33",
-            "end": "18:00",
+            "end": "18:01",
             "cat": "admin",
             "src": "claude",
             "title": "PhD worklog review",
-            "note": "143 hits"
+            "note": "165 hits"
+          },
+          {
+            "start": "18:02",
+            "end": "18:04",
+            "cat": "coding",
+            "src": "local",
+            "title": "data.js",
+            "note": "2 hits"
           }
         ],
-        "logged": 118,
-        "real": 50,
-        "deep": 50,
-        "ratio": 0.42035118927270754,
+        "logged": 121,
+        "real": 52,
+        "deep": 52,
+        "ratio": 0.4264803229500911,
         "stats": {
-          "contextSwitches": 11,
+          "contextSwitches": 12,
           "tabsOpened": 24,
           "longestFocus": "42m",
           "justOneMoreThing": 2
@@ -31135,298 +31111,266 @@
       "weekend": false
     },
     {
-      "dateLong": "Friday, July 10",
-      "dateShort": "Fri, Jul 10",
-      "dayEnd": "22:39",
+      "key": "2026-7-10",
       "dayNum": 10,
-      "dayStart": "10:17",
-      "deep": 351,
       "dow": 5,
+      "weekend": false,
+      "dateShort": "Fri, Jul 10",
+      "dateLong": "Friday, July 10",
+      "dayStart": "10:17",
+      "dayEnd": "22:39",
       "events": [
         {
-          "cat": "admin",
-          "end": "10:41",
-          "note": "accounts.google.com",
-          "src": "chrome",
           "start": "10:17",
-          "title": "Inbox (2,636) - ada.ren.cn@gmail.com - Gmail"
+          "end": "10:41",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Inbox (2,636) - ada.ren.cn@gmail.com - Gmail",
+          "note": "accounts.google.com"
         },
         {
-          "cat": "research",
-          "end": "10:52",
-          "note": "adaren100.github.io",
-          "src": "chrome",
           "start": "10:42",
-          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
+          "end": "10:52",
+          "cat": "research",
+          "src": "macos",
+          "title": "Reading · arxiv.org",
+          "note": "arxiv.org"
         },
         {
-          "cat": "personal",
-          "end": "11:01",
-          "note": "x.com",
-          "src": "chrome",
           "start": "10:54",
-          "title": "(3) X 上的 AI at Meta：“Muse Spark 1.1 also excels in perceptio"
+          "end": "11:01",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(3) X 上的 AI at Meta：“Muse Spark 1.1 also excels in perceptio",
+          "note": "x.com"
         },
         {
-          "cat": "research",
-          "end": "11:07",
-          "note": "adaren100.github.io",
-          "src": "chrome",
           "start": "11:01",
-          "title": "Introducing a way to reflect on how you use Claude | Ada's N"
+          "end": "11:07",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Introducing a way to reflect on how you use Claude | Ada's N",
+          "note": "adaren100.github.io"
         },
         {
-          "cat": "writing",
-          "end": "11:12",
-          "note": "2 hits",
-          "src": "local",
           "start": "11:07",
-          "title": "2026-07-09-ust-claude.md"
+          "end": "11:12",
+          "cat": "writing",
+          "src": "local",
+          "title": "2026-07-09-ust-claude.md",
+          "note": "2 hits"
         },
         {
-          "cat": "research",
-          "end": "11:16",
-          "note": "openai.com",
-          "src": "chrome",
           "start": "11:12",
-          "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot "
+          "end": "11:16",
+          "cat": "research",
+          "src": "chrome",
+          "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot ",
+          "note": "openai.com"
         },
         {
-          "cat": "research",
-          "end": "11:24",
-          "note": "openai.com",
-          "src": "chrome",
           "start": "11:16",
-          "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot "
+          "end": "11:24",
+          "cat": "research",
+          "src": "chrome",
+          "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot ",
+          "note": "openai.com"
         },
         {
-          "cat": "research",
-          "end": "11:28",
-          "note": "openai.com",
-          "src": "chrome",
           "start": "11:24",
-          "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot "
+          "end": "11:28",
+          "cat": "research",
+          "src": "chrome",
+          "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot ",
+          "note": "openai.com"
         },
         {
-          "cat": "research",
-          "end": "11:32",
-          "note": "openai.com",
-          "src": "chrome",
           "start": "11:28",
-          "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot "
+          "end": "11:32",
+          "cat": "research",
+          "src": "chrome",
+          "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot ",
+          "note": "openai.com"
         },
         {
-          "cat": "personal",
-          "end": "11:36",
-          "note": "cluade.ai",
-          "src": "chrome",
           "start": "11:32",
-          "title": "cluade.ai"
+          "end": "11:36",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "cluade.ai",
+          "note": "cluade.ai"
         },
         {
-          "cat": "writing",
-          "end": "11:47",
-          "note": "overleaf.com",
-          "src": "chrome",
           "start": "11:36",
-          "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea"
+          "end": "11:47",
+          "cat": "writing",
+          "src": "chrome",
+          "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea",
+          "note": "overleaf.com"
         },
         {
-          "cat": "research",
-          "end": "11:52",
-          "note": "openreview.net",
-          "src": "chrome",
           "start": "11:48",
-          "title": "Venues | OpenReview"
+          "end": "11:52",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Venues | OpenReview",
+          "note": "openreview.net"
         },
         {
-          "cat": "writing",
-          "end": "12:13",
-          "note": "accounts.google.com",
-          "src": "chrome",
           "start": "11:52",
-          "title": "Sign in - Google Accounts"
-        },
-        {
-          "cat": "personal",
-          "end": "12:13",
-          "note": "google.com",
-          "src": "chrome",
-          "start": "12:13",
-          "title": "2025北海道滑雪 - Google My Maps"
-        },
-        {
+          "end": "12:05",
           "cat": "writing",
-          "end": "12:17",
-          "note": "docs.google.com",
           "src": "chrome",
-          "start": "12:13",
-          "title": "POLAR@EEUCA 2026 - Google Slides"
+          "title": "Sign in - Google Accounts",
+          "note": "accounts.google.com"
         },
         {
-          "cat": "research",
-          "end": "12:21",
-          "note": "arxiv.org",
-          "src": "chrome",
-          "start": "12:17",
-          "title": "SafeTutors: Benchmarking Pedagogical Safety in AI Tutoring S"
-        },
-        {
-          "cat": "research",
+          "start": "12:05",
           "end": "12:51",
-          "note": "arxiv.org",
-          "src": "chrome",
-          "start": "12:22",
-          "title": "SafeTutors: Benchmarking Pedagogical Safety in AI Tutoring S"
+          "cat": "research",
+          "src": "macos",
+          "title": "Reading · arxiv.org",
+          "note": "arxiv.org"
         },
         {
-          "cat": "admin",
-          "end": "13:58",
-          "note": "com.microsoft.Outlook",
-          "src": "macos",
           "start": "13:51",
-          "title": "Outlook"
-        },
-        {
-          "cat": "research",
-          "end": "14:16",
-          "note": "url.au.m.mimecastprotect.com",
-          "src": "chrome",
-          "start": "13:58",
-          "title": "ACL ARR 2026 May Authors | OpenReview"
-        },
-        {
-          "cat": "personal",
-          "end": "14:33",
-          "note": "open.spotify.com",
-          "src": "chrome",
-          "start": "14:16",
-          "title": "Spotify - Web Player: Music for everyone"
-        },
-        {
-          "cat": "coding",
-          "end": "15:33",
-          "note": "com.microsoft.VSCode",
-          "src": "macos",
-          "start": "15:25",
-          "title": "VSCode"
-        },
-        {
-          "cat": "coding",
-          "end": "15:34",
-          "note": "com.microsoft.VSCode",
-          "src": "macos",
-          "start": "15:33",
-          "title": "VSCode"
-        },
-        {
-          "cat": "coding",
-          "end": "15:41",
-          "note": "com.microsoft.VSCode",
-          "src": "macos",
-          "start": "15:37",
-          "title": "VSCode"
-        },
-        {
-          "cat": "coding",
-          "end": "15:53",
-          "note": "com.microsoft.VSCode",
-          "src": "macos",
-          "start": "15:42",
-          "title": "VSCode"
-        },
-        {
-          "cat": "coding",
-          "end": "15:57",
-          "note": "com.microsoft.VSCode",
-          "src": "macos",
-          "start": "15:53",
-          "title": "VSCode"
-        },
-        {
-          "cat": "coding",
-          "end": "16:07",
-          "note": "com.microsoft.VSCode",
-          "src": "macos",
-          "start": "15:59",
-          "title": "VSCode"
-        },
-        {
-          "cat": "coding",
-          "end": "16:10",
-          "note": "105 hits",
-          "src": "claude",
-          "start": "16:07",
-          "title": "Claude session · bench"
-        },
-        {
-          "cat": "writing",
-          "end": "16:47",
-          "note": "drive.google.com",
-          "src": "chrome",
-          "start": "16:10",
-          "title": "Application of AWS Student Builder Group Leader - Google Sli"
-        },
-        {
-          "cat": "writing",
-          "end": "17:09",
-          "note": "docs.google.com",
-          "src": "chrome",
-          "start": "16:49",
-          "title": "Application of AWS Student Builder Group Leader - Google Sli"
-        },
-        {
-          "cat": "personal",
-          "end": "19:38",
-          "note": "youtube.com",
-          "src": "chrome",
-          "start": "18:50",
-          "title": "(58) Field Guide to Fable — Thariq Shihipar, Anthropic - You"
-        },
-        {
+          "end": "13:58",
           "cat": "admin",
-          "end": "20:21",
-          "note": "mail.google.com",
-          "src": "chrome",
-          "start": "20:11",
-          "title": "Inbox (2,636) - ada.ren.cn@gmail.com - Gmail"
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
         },
         {
+          "start": "13:58",
+          "end": "14:16",
           "cat": "research",
-          "end": "20:53",
-          "note": "arxiv.org",
           "src": "chrome",
-          "start": "20:21",
-          "title": "Meta-Harness: End-to-End Optimization of Model Harnesses"
+          "title": "ACL ARR 2026 May Authors | OpenReview",
+          "note": "url.au.m.mimecastprotect.com"
         },
         {
+          "start": "14:16",
+          "end": "14:33",
           "cat": "personal",
-          "end": "21:08",
-          "note": "google.com",
           "src": "chrome",
-          "start": "20:53",
-          "title": "lilian weng - Google Search"
+          "title": "Spotify - Web Player: Music for everyone",
+          "note": "open.spotify.com"
         },
         {
-          "cat": "research",
-          "end": "22:39",
-          "note": "scholar.google.com",
+          "start": "15:25",
+          "end": "15:33",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:33",
+          "end": "15:34",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:37",
+          "end": "15:41",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:42",
+          "end": "15:53",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:53",
+          "end": "15:57",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:59",
+          "end": "16:07",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:07",
+          "end": "16:10",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · bench",
+          "note": "105 hits"
+        },
+        {
+          "start": "16:10",
+          "end": "16:47",
+          "cat": "writing",
           "src": "chrome",
+          "title": "Application of AWS Student Builder Group Leader - Google Sli",
+          "note": "drive.google.com"
+        },
+        {
+          "start": "16:49",
+          "end": "17:09",
+          "cat": "writing",
+          "src": "chrome",
+          "title": "Application of AWS Student Builder Group Leader - Google Sli",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "18:50",
+          "end": "19:38",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(58) Field Guide to Fable — Thariq Shihipar, Anthropic - You",
+          "note": "youtube.com"
+        },
+        {
+          "start": "20:02",
+          "end": "20:53",
+          "cat": "research",
+          "src": "macos",
+          "title": "Reading · arxiv.org",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "20:53",
+          "end": "21:08",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "lilian weng - Google Search",
+          "note": "google.com"
+        },
+        {
           "start": "21:08",
-          "title": "ScientistOne: Towards Human-Level Autonomous Research via Ch"
+          "end": "22:39",
+          "cat": "research",
+          "src": "macos",
+          "title": "Reading · arxiv.org",
+          "note": "arxiv.org"
         }
       ],
-      "key": "2026-7-10",
-      "logged": 482,
-      "ratio": 0.7273082053938612,
-      "real": 351,
+      "logged": 492,
+      "real": 371,
+      "deep": 371,
+      "ratio": 0.7541857476001037,
       "stats": {
-        "contextSwitches": 22,
-        "justOneMoreThing": 4,
+        "contextSwitches": 19,
+        "tabsOpened": 51,
         "longestFocus": "1h 36m",
-        "tabsOpened": 75
-      },
-      "weekend": false
+        "justOneMoreThing": 3
+      }
     },
     {
       "key": "2026-7-11",
@@ -31436,7 +31380,7 @@
       "dateShort": "Sat, Jul 11",
       "dateLong": "Saturday, July 11",
       "dayStart": "09:53",
-      "dayEnd": "18:00",
+      "dayEnd": "18:04",
       "events": [
         {
           "start": "09:53",
@@ -31568,19 +31512,27 @@
         },
         {
           "start": "17:33",
-          "end": "18:00",
+          "end": "18:01",
           "cat": "admin",
           "src": "claude",
           "title": "PhD worklog review",
-          "note": "143 hits"
+          "note": "165 hits"
+        },
+        {
+          "start": "18:02",
+          "end": "18:04",
+          "cat": "coding",
+          "src": "local",
+          "title": "data.js",
+          "note": "2 hits"
         }
       ],
-      "logged": 118,
-      "real": 50,
-      "deep": 50,
-      "ratio": 0.42035118927270754,
+      "logged": 121,
+      "real": 52,
+      "deep": 52,
+      "ratio": 0.4264803229500911,
       "stats": {
-        "contextSwitches": 11,
+        "contextSwitches": 12,
         "tabsOpened": 24,
         "longestFocus": "42m",
         "justOneMoreThing": 2
