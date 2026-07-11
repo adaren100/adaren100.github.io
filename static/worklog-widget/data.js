@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-07-11T18:43:46+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-07-11T18:47:57+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -25740,9 +25740,9 @@
             "start": "10:42",
             "end": "10:52",
             "cat": "research",
-            "src": "macos",
-            "title": "Reading · arxiv.org",
-            "note": "arxiv.org"
+            "src": "chrome",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+            "note": "adaren100.github.io"
           },
           {
             "start": "10:54",
@@ -25826,18 +25826,42 @@
           },
           {
             "start": "11:52",
-            "end": "12:05",
+            "end": "12:13",
             "cat": "writing",
             "src": "chrome",
             "title": "Sign in - Google Accounts",
             "note": "accounts.google.com"
           },
           {
-            "start": "12:05",
+            "start": "12:13",
+            "end": "12:13",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "2025北海道滑雪 - Google My Maps",
+            "note": "google.com"
+          },
+          {
+            "start": "12:13",
+            "end": "12:17",
+            "cat": "writing",
+            "src": "chrome",
+            "title": "POLAR@EEUCA 2026 - Google Slides",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "12:17",
+            "end": "12:21",
+            "cat": "research",
+            "src": "chrome",
+            "title": "SafeTutors: Benchmarking Pedagogical Safety in AI Tutoring S",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "12:22",
             "end": "12:51",
             "cat": "research",
-            "src": "macos",
-            "title": "Reading · arxiv.org",
+            "src": "chrome",
+            "title": "SafeTutors: Benchmarking Pedagogical Safety in AI Tutoring S",
             "note": "arxiv.org"
           },
           {
@@ -25858,11 +25882,11 @@
           },
           {
             "start": "14:16",
-            "end": "15:25",
-            "cat": "research",
-            "src": "inferred",
-            "title": "Reading (inferred)",
-            "note": "inferred from surrounding activity"
+            "end": "14:33",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Spotify - Web Player: Music for everyone",
+            "note": "open.spotify.com"
           },
           {
             "start": "15:25",
@@ -25945,11 +25969,19 @@
             "note": "youtube.com"
           },
           {
-            "start": "20:02",
+            "start": "20:11",
+            "end": "20:21",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Inbox (2,636) - ada.ren.cn@gmail.com - Gmail",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "20:21",
             "end": "20:53",
             "cat": "research",
-            "src": "macos",
-            "title": "Reading · arxiv.org",
+            "src": "chrome",
+            "title": "Meta-Harness: End-to-End Optimization of Model Harnesses",
             "note": "arxiv.org"
           },
           {
@@ -25964,20 +25996,20 @@
             "start": "21:08",
             "end": "22:39",
             "cat": "research",
-            "src": "macos",
-            "title": "Reading · arxiv.org",
-            "note": "arxiv.org"
+            "src": "chrome",
+            "title": "ScientistOne: Towards Human-Level Autonomous Research via Ch",
+            "note": "scholar.google.com"
           }
         ],
-        "logged": 545,
-        "real": 441,
-        "deep": 441,
-        "ratio": 0.8094070007167338,
+        "logged": 482,
+        "real": 351,
+        "deep": 351,
+        "ratio": 0.7273082053938612,
         "stats": {
-          "contextSwitches": 18,
-          "tabsOpened": 48,
-          "longestFocus": "3h 3m",
-          "justOneMoreThing": 3
+          "contextSwitches": 22,
+          "tabsOpened": 75,
+          "longestFocus": "1h 36m",
+          "justOneMoreThing": 4
         }
       },
       {
@@ -26018,20 +26050,12 @@
             "start": "16:44",
             "end": "16:52",
             "cat": "research",
-            "src": "macos",
-            "title": "Reading · adaren100.github.io",
-            "note": "adaren100.github.io"
+            "src": "chrome",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+            "note": "openreview.net"
           },
           {
             "start": "16:52",
-            "end": "17:01",
-            "cat": "research",
-            "src": "macos",
-            "title": "Reading · adaren100.github.io",
-            "note": "adaren100.github.io"
-          },
-          {
-            "start": "17:02",
             "end": "17:04",
             "cat": "research",
             "src": "chrome",
@@ -26039,23 +26063,15 @@
             "note": "openreview.net"
           },
           {
-            "start": "17:05",
+            "start": "17:04",
             "end": "17:05",
-            "cat": "research",
-            "src": "macos",
-            "title": "Reading · adaren100.github.io",
-            "note": "adaren100.github.io"
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Inbox (2,636) - ada.ren.cn@gmail.com - Gmail",
+            "note": "accounts.google.com"
           },
           {
             "start": "17:05",
-            "end": "17:11",
-            "cat": "admin",
-            "src": "claude",
-            "title": "PhD worklog review",
-            "note": "50 hits"
-          },
-          {
-            "start": "17:11",
             "end": "17:12",
             "cat": "admin",
             "src": "claude",
@@ -26088,26 +26104,18 @@
           },
           {
             "start": "17:27",
-            "end": "17:30",
+            "end": "17:32",
             "cat": "personal",
             "src": "chrome",
             "title": "(4) X 上的 Sebastian Raschka：“For agentic coding, one can say:",
             "note": "x.com"
           },
           {
-            "start": "17:30",
-            "end": "17:32",
-            "cat": "research",
-            "src": "macos",
-            "title": "Reading · adaren100.github.io",
-            "note": "adaren100.github.io"
-          },
-          {
             "start": "17:32",
             "end": "17:33",
             "cat": "research",
-            "src": "macos",
-            "title": "Reading · adaren100.github.io",
+            "src": "chrome",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
             "note": "adaren100.github.io"
           },
           {
@@ -26138,8 +26146,8 @@
             "start": "18:13",
             "end": "18:21",
             "cat": "research",
-            "src": "macos",
-            "title": "Reading · adaren100.github.io",
+            "src": "chrome",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
             "note": "adaren100.github.io"
           },
           {
@@ -26164,7 +26172,7 @@
             "cat": "admin",
             "src": "claude",
             "title": "PhD worklog review",
-            "note": "95 hits"
+            "note": "121 hits"
           },
           {
             "start": "18:30",
@@ -26172,41 +26180,33 @@
             "cat": "admin",
             "src": "claude",
             "title": "PhD worklog review",
-            "note": "95 hits"
+            "note": "121 hits"
           },
           {
             "start": "18:35",
-            "end": "18:43",
+            "end": "18:47",
             "cat": "admin",
             "src": "claude",
             "title": "PhD worklog review",
-            "note": "95 hits"
+            "note": "121 hits"
           },
           {
-            "start": "18:43",
-            "end": "18:48",
-            "cat": "admin",
-            "src": "claude",
-            "title": "PhD worklog review",
-            "note": "95 hits"
-          },
-          {
-            "start": "18:48",
+            "start": "18:47",
             "end": "18:55",
             "cat": "admin",
-            "src": "chrome",
-            "title": "Slack",
-            "note": "mqcsh.slack.com"
+            "src": "claude",
+            "title": "PhD worklog review",
+            "note": "121 hits"
           }
         ],
         "logged": 172,
-        "real": 67,
-        "deep": 67,
-        "ratio": 0.3879452323410264,
+        "real": 64,
+        "deep": 64,
+        "ratio": 0.3706296672108415,
         "stats": {
           "contextSwitches": 15,
-          "tabsOpened": 24,
-          "longestFocus": "42m",
+          "tabsOpened": 33,
+          "longestFocus": "41m",
           "justOneMoreThing": 2
         }
       },
@@ -31196,9 +31196,9 @@
           "start": "10:42",
           "end": "10:52",
           "cat": "research",
-          "src": "macos",
-          "title": "Reading · arxiv.org",
-          "note": "arxiv.org"
+          "src": "chrome",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+          "note": "adaren100.github.io"
         },
         {
           "start": "10:54",
@@ -31282,18 +31282,42 @@
         },
         {
           "start": "11:52",
-          "end": "12:05",
+          "end": "12:13",
           "cat": "writing",
           "src": "chrome",
           "title": "Sign in - Google Accounts",
           "note": "accounts.google.com"
         },
         {
-          "start": "12:05",
+          "start": "12:13",
+          "end": "12:13",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "2025北海道滑雪 - Google My Maps",
+          "note": "google.com"
+        },
+        {
+          "start": "12:13",
+          "end": "12:17",
+          "cat": "writing",
+          "src": "chrome",
+          "title": "POLAR@EEUCA 2026 - Google Slides",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "12:17",
+          "end": "12:21",
+          "cat": "research",
+          "src": "chrome",
+          "title": "SafeTutors: Benchmarking Pedagogical Safety in AI Tutoring S",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "12:22",
           "end": "12:51",
           "cat": "research",
-          "src": "macos",
-          "title": "Reading · arxiv.org",
+          "src": "chrome",
+          "title": "SafeTutors: Benchmarking Pedagogical Safety in AI Tutoring S",
           "note": "arxiv.org"
         },
         {
@@ -31314,11 +31338,11 @@
         },
         {
           "start": "14:16",
-          "end": "15:25",
-          "cat": "research",
-          "src": "inferred",
-          "title": "Reading (inferred)",
-          "note": "inferred from surrounding activity"
+          "end": "14:33",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Spotify - Web Player: Music for everyone",
+          "note": "open.spotify.com"
         },
         {
           "start": "15:25",
@@ -31401,11 +31425,19 @@
           "note": "youtube.com"
         },
         {
-          "start": "20:02",
+          "start": "20:11",
+          "end": "20:21",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Inbox (2,636) - ada.ren.cn@gmail.com - Gmail",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "20:21",
           "end": "20:53",
           "cat": "research",
-          "src": "macos",
-          "title": "Reading · arxiv.org",
+          "src": "chrome",
+          "title": "Meta-Harness: End-to-End Optimization of Model Harnesses",
           "note": "arxiv.org"
         },
         {
@@ -31420,20 +31452,20 @@
           "start": "21:08",
           "end": "22:39",
           "cat": "research",
-          "src": "macos",
-          "title": "Reading · arxiv.org",
-          "note": "arxiv.org"
+          "src": "chrome",
+          "title": "ScientistOne: Towards Human-Level Autonomous Research via Ch",
+          "note": "scholar.google.com"
         }
       ],
-      "logged": 545,
-      "real": 441,
-      "deep": 441,
-      "ratio": 0.8094070007167338,
+      "logged": 482,
+      "real": 351,
+      "deep": 351,
+      "ratio": 0.7273082053938612,
       "stats": {
-        "contextSwitches": 18,
-        "tabsOpened": 48,
-        "longestFocus": "3h 3m",
-        "justOneMoreThing": 3
+        "contextSwitches": 22,
+        "tabsOpened": 75,
+        "longestFocus": "1h 36m",
+        "justOneMoreThing": 4
       }
     },
     {
@@ -31474,20 +31506,12 @@
           "start": "16:44",
           "end": "16:52",
           "cat": "research",
-          "src": "macos",
-          "title": "Reading · adaren100.github.io",
-          "note": "adaren100.github.io"
+          "src": "chrome",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+          "note": "openreview.net"
         },
         {
           "start": "16:52",
-          "end": "17:01",
-          "cat": "research",
-          "src": "macos",
-          "title": "Reading · adaren100.github.io",
-          "note": "adaren100.github.io"
-        },
-        {
-          "start": "17:02",
           "end": "17:04",
           "cat": "research",
           "src": "chrome",
@@ -31495,23 +31519,15 @@
           "note": "openreview.net"
         },
         {
-          "start": "17:05",
+          "start": "17:04",
           "end": "17:05",
-          "cat": "research",
-          "src": "macos",
-          "title": "Reading · adaren100.github.io",
-          "note": "adaren100.github.io"
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Inbox (2,636) - ada.ren.cn@gmail.com - Gmail",
+          "note": "accounts.google.com"
         },
         {
           "start": "17:05",
-          "end": "17:11",
-          "cat": "admin",
-          "src": "claude",
-          "title": "PhD worklog review",
-          "note": "50 hits"
-        },
-        {
-          "start": "17:11",
           "end": "17:12",
           "cat": "admin",
           "src": "claude",
@@ -31544,26 +31560,18 @@
         },
         {
           "start": "17:27",
-          "end": "17:30",
+          "end": "17:32",
           "cat": "personal",
           "src": "chrome",
           "title": "(4) X 上的 Sebastian Raschka：“For agentic coding, one can say:",
           "note": "x.com"
         },
         {
-          "start": "17:30",
-          "end": "17:32",
-          "cat": "research",
-          "src": "macos",
-          "title": "Reading · adaren100.github.io",
-          "note": "adaren100.github.io"
-        },
-        {
           "start": "17:32",
           "end": "17:33",
           "cat": "research",
-          "src": "macos",
-          "title": "Reading · adaren100.github.io",
+          "src": "chrome",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
           "note": "adaren100.github.io"
         },
         {
@@ -31594,8 +31602,8 @@
           "start": "18:13",
           "end": "18:21",
           "cat": "research",
-          "src": "macos",
-          "title": "Reading · adaren100.github.io",
+          "src": "chrome",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
           "note": "adaren100.github.io"
         },
         {
@@ -31620,7 +31628,7 @@
           "cat": "admin",
           "src": "claude",
           "title": "PhD worklog review",
-          "note": "95 hits"
+          "note": "121 hits"
         },
         {
           "start": "18:30",
@@ -31628,41 +31636,33 @@
           "cat": "admin",
           "src": "claude",
           "title": "PhD worklog review",
-          "note": "95 hits"
+          "note": "121 hits"
         },
         {
           "start": "18:35",
-          "end": "18:43",
+          "end": "18:47",
           "cat": "admin",
           "src": "claude",
           "title": "PhD worklog review",
-          "note": "95 hits"
+          "note": "121 hits"
         },
         {
-          "start": "18:43",
-          "end": "18:48",
-          "cat": "admin",
-          "src": "claude",
-          "title": "PhD worklog review",
-          "note": "95 hits"
-        },
-        {
-          "start": "18:48",
+          "start": "18:47",
           "end": "18:55",
           "cat": "admin",
-          "src": "chrome",
-          "title": "Slack",
-          "note": "mqcsh.slack.com"
+          "src": "claude",
+          "title": "PhD worklog review",
+          "note": "121 hits"
         }
       ],
       "logged": 172,
-      "real": 67,
-      "deep": 67,
-      "ratio": 0.3879452323410264,
+      "real": 64,
+      "deep": 64,
+      "ratio": 0.3706296672108415,
       "stats": {
         "contextSwitches": 15,
-        "tabsOpened": 24,
-        "longestFocus": "42m",
+        "tabsOpened": 33,
+        "longestFocus": "41m",
         "justOneMoreThing": 2
       }
     },
