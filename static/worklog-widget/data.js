@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-07-11T18:34:30+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-07-11T18:43:46+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -25857,6 +25857,14 @@
             "note": "url.au.m.mimecastprotect.com"
           },
           {
+            "start": "14:16",
+            "end": "15:25",
+            "cat": "research",
+            "src": "inferred",
+            "title": "Reading (inferred)",
+            "note": "inferred from surrounding activity"
+          },
+          {
             "start": "15:25",
             "end": "15:33",
             "cat": "coding",
@@ -25961,14 +25969,14 @@
             "note": "arxiv.org"
           }
         ],
-        "logged": 475,
-        "real": 371,
-        "deep": 371,
-        "ratio": 0.7815728674539443,
+        "logged": 545,
+        "real": 441,
+        "deep": 441,
+        "ratio": 0.8094070007167338,
         "stats": {
           "contextSwitches": 18,
           "tabsOpened": 48,
-          "longestFocus": "1h 54m",
+          "longestFocus": "3h 3m",
           "justOneMoreThing": 3
         }
       },
@@ -25980,7 +25988,7 @@
         "dateShort": "Sat, Jul 11",
         "dateLong": "Saturday, July 11",
         "dayStart": "09:53",
-        "dayEnd": "18:39",
+        "dayEnd": "18:55",
         "events": [
           {
             "start": "09:53",
@@ -26040,14 +26048,14 @@
           },
           {
             "start": "17:05",
-            "end": "17:10",
+            "end": "17:11",
             "cat": "admin",
             "src": "claude",
             "title": "PhD worklog review",
             "note": "50 hits"
           },
           {
-            "start": "17:10",
+            "start": "17:11",
             "end": "17:12",
             "cat": "admin",
             "src": "claude",
@@ -26056,19 +26064,11 @@
           },
           {
             "start": "17:12",
-            "end": "17:15",
+            "end": "17:17",
             "cat": "admin",
             "src": "claude",
             "title": "PhD worklog review",
             "note": "50 hits"
-          },
-          {
-            "start": "17:15",
-            "end": "17:17",
-            "cat": "personal",
-            "src": "chrome",
-            "title": "Arc'teryx Women Breathable Kragg Cotton Bird Crew Neck Shirt",
-            "note": "googleadservices.com"
           },
           {
             "start": "17:17",
@@ -26080,34 +26080,34 @@
           },
           {
             "start": "17:21",
-            "end": "17:24",
+            "end": "17:26",
             "cat": "admin",
             "src": "claude",
             "title": "PhD worklog review",
             "note": "5 hits"
           },
           {
-            "start": "17:24",
-            "end": "17:26",
-            "cat": "research",
-            "src": "chrome",
-            "title": "Where the time actually went | Ada's Notes",
-            "note": "adaren100.github.io"
-          },
-          {
             "start": "17:27",
-            "end": "17:32",
+            "end": "17:30",
             "cat": "personal",
             "src": "chrome",
             "title": "(4) X 上的 Sebastian Raschka：“For agentic coding, one can say:",
             "note": "x.com"
           },
           {
+            "start": "17:30",
+            "end": "17:32",
+            "cat": "research",
+            "src": "macos",
+            "title": "Reading · adaren100.github.io",
+            "note": "adaren100.github.io"
+          },
+          {
             "start": "17:32",
             "end": "17:33",
             "cat": "research",
-            "src": "chrome",
-            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+            "src": "macos",
+            "title": "Reading · adaren100.github.io",
             "note": "adaren100.github.io"
           },
           {
@@ -26138,8 +26138,8 @@
             "start": "18:13",
             "end": "18:21",
             "cat": "research",
-            "src": "chrome",
-            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+            "src": "macos",
+            "title": "Reading · adaren100.github.io",
             "note": "adaren100.github.io"
           },
           {
@@ -26164,34 +26164,50 @@
             "cat": "admin",
             "src": "claude",
             "title": "PhD worklog review",
-            "note": "50 hits"
+            "note": "95 hits"
           },
           {
             "start": "18:30",
-            "end": "18:37",
+            "end": "18:35",
             "cat": "admin",
             "src": "claude",
             "title": "PhD worklog review",
-            "note": "50 hits"
+            "note": "95 hits"
           },
           {
-            "start": "18:37",
-            "end": "18:39",
-            "cat": "coding",
-            "src": "local",
-            "title": "domain_cats.json",
-            "note": "4 hits"
+            "start": "18:35",
+            "end": "18:43",
+            "cat": "admin",
+            "src": "claude",
+            "title": "PhD worklog review",
+            "note": "95 hits"
+          },
+          {
+            "start": "18:43",
+            "end": "18:48",
+            "cat": "admin",
+            "src": "claude",
+            "title": "PhD worklog review",
+            "note": "95 hits"
+          },
+          {
+            "start": "18:48",
+            "end": "18:55",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Slack",
+            "note": "mqcsh.slack.com"
           }
         ],
-        "logged": 157,
-        "real": 70,
-        "deep": 70,
-        "ratio": 0.44554223795762,
+        "logged": 172,
+        "real": 67,
+        "deep": 67,
+        "ratio": 0.3879452323410264,
         "stats": {
-          "contextSwitches": 18,
-          "tabsOpened": 33,
+          "contextSwitches": 15,
+          "tabsOpened": 24,
           "longestFocus": "42m",
-          "justOneMoreThing": 4
+          "justOneMoreThing": 2
         }
       },
       {
@@ -31297,6 +31313,14 @@
           "note": "url.au.m.mimecastprotect.com"
         },
         {
+          "start": "14:16",
+          "end": "15:25",
+          "cat": "research",
+          "src": "inferred",
+          "title": "Reading (inferred)",
+          "note": "inferred from surrounding activity"
+        },
+        {
           "start": "15:25",
           "end": "15:33",
           "cat": "coding",
@@ -31401,14 +31425,14 @@
           "note": "arxiv.org"
         }
       ],
-      "logged": 475,
-      "real": 371,
-      "deep": 371,
-      "ratio": 0.7815728674539443,
+      "logged": 545,
+      "real": 441,
+      "deep": 441,
+      "ratio": 0.8094070007167338,
       "stats": {
         "contextSwitches": 18,
         "tabsOpened": 48,
-        "longestFocus": "1h 54m",
+        "longestFocus": "3h 3m",
         "justOneMoreThing": 3
       }
     },
@@ -31420,7 +31444,7 @@
       "dateShort": "Sat, Jul 11",
       "dateLong": "Saturday, July 11",
       "dayStart": "09:53",
-      "dayEnd": "18:39",
+      "dayEnd": "18:55",
       "events": [
         {
           "start": "09:53",
@@ -31480,14 +31504,14 @@
         },
         {
           "start": "17:05",
-          "end": "17:10",
+          "end": "17:11",
           "cat": "admin",
           "src": "claude",
           "title": "PhD worklog review",
           "note": "50 hits"
         },
         {
-          "start": "17:10",
+          "start": "17:11",
           "end": "17:12",
           "cat": "admin",
           "src": "claude",
@@ -31496,19 +31520,11 @@
         },
         {
           "start": "17:12",
-          "end": "17:15",
+          "end": "17:17",
           "cat": "admin",
           "src": "claude",
           "title": "PhD worklog review",
           "note": "50 hits"
-        },
-        {
-          "start": "17:15",
-          "end": "17:17",
-          "cat": "personal",
-          "src": "chrome",
-          "title": "Arc'teryx Women Breathable Kragg Cotton Bird Crew Neck Shirt",
-          "note": "googleadservices.com"
         },
         {
           "start": "17:17",
@@ -31520,34 +31536,34 @@
         },
         {
           "start": "17:21",
-          "end": "17:24",
+          "end": "17:26",
           "cat": "admin",
           "src": "claude",
           "title": "PhD worklog review",
           "note": "5 hits"
         },
         {
-          "start": "17:24",
-          "end": "17:26",
-          "cat": "research",
-          "src": "chrome",
-          "title": "Where the time actually went | Ada's Notes",
-          "note": "adaren100.github.io"
-        },
-        {
           "start": "17:27",
-          "end": "17:32",
+          "end": "17:30",
           "cat": "personal",
           "src": "chrome",
           "title": "(4) X 上的 Sebastian Raschka：“For agentic coding, one can say:",
           "note": "x.com"
         },
         {
+          "start": "17:30",
+          "end": "17:32",
+          "cat": "research",
+          "src": "macos",
+          "title": "Reading · adaren100.github.io",
+          "note": "adaren100.github.io"
+        },
+        {
           "start": "17:32",
           "end": "17:33",
           "cat": "research",
-          "src": "chrome",
-          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+          "src": "macos",
+          "title": "Reading · adaren100.github.io",
           "note": "adaren100.github.io"
         },
         {
@@ -31578,8 +31594,8 @@
           "start": "18:13",
           "end": "18:21",
           "cat": "research",
-          "src": "chrome",
-          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+          "src": "macos",
+          "title": "Reading · adaren100.github.io",
           "note": "adaren100.github.io"
         },
         {
@@ -31604,34 +31620,50 @@
           "cat": "admin",
           "src": "claude",
           "title": "PhD worklog review",
-          "note": "50 hits"
+          "note": "95 hits"
         },
         {
           "start": "18:30",
-          "end": "18:37",
+          "end": "18:35",
           "cat": "admin",
           "src": "claude",
           "title": "PhD worklog review",
-          "note": "50 hits"
+          "note": "95 hits"
         },
         {
-          "start": "18:37",
-          "end": "18:39",
-          "cat": "coding",
-          "src": "local",
-          "title": "domain_cats.json",
-          "note": "4 hits"
+          "start": "18:35",
+          "end": "18:43",
+          "cat": "admin",
+          "src": "claude",
+          "title": "PhD worklog review",
+          "note": "95 hits"
+        },
+        {
+          "start": "18:43",
+          "end": "18:48",
+          "cat": "admin",
+          "src": "claude",
+          "title": "PhD worklog review",
+          "note": "95 hits"
+        },
+        {
+          "start": "18:48",
+          "end": "18:55",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Slack",
+          "note": "mqcsh.slack.com"
         }
       ],
-      "logged": 157,
-      "real": 70,
-      "deep": 70,
-      "ratio": 0.44554223795762,
+      "logged": 172,
+      "real": 67,
+      "deep": 67,
+      "ratio": 0.3879452323410264,
       "stats": {
-        "contextSwitches": 18,
-        "tabsOpened": 33,
+        "contextSwitches": 15,
+        "tabsOpened": 24,
         "longestFocus": "42m",
-        "justOneMoreThing": 4
+        "justOneMoreThing": 2
       }
     },
     {
