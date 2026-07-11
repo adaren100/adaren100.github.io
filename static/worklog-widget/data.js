@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-07-11T17:59:10+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-07-11T18:23:25+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -25988,7 +25988,7 @@
         "dateShort": "Sat, Jul 11",
         "dateLong": "Saturday, July 11",
         "dayStart": "09:53",
-        "dayEnd": "18:04",
+        "dayEnd": "18:28",
         "events": [
           {
             "start": "09:53",
@@ -26115,35 +26115,67 @@
             "end": "17:33",
             "cat": "research",
             "src": "chrome",
-            "title": "Where the time actually went | Ada's Notes",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
             "note": "adaren100.github.io"
           },
           {
             "start": "17:33",
-            "end": "18:01",
+            "end": "18:02",
             "cat": "admin",
             "src": "claude",
             "title": "PhD worklog review",
-            "note": "165 hits"
+            "note": "172 hits"
           },
           {
             "start": "18:02",
-            "end": "18:04",
+            "end": "18:09",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "18:09",
+            "end": "18:13",
+            "cat": "admin",
+            "src": "claude",
+            "title": "PhD worklog review",
+            "note": "15 hits"
+          },
+          {
+            "start": "18:13",
+            "end": "18:21",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "18:21",
+            "end": "18:26",
+            "cat": "admin",
+            "src": "claude",
+            "title": "PhD worklog review",
+            "note": "19 hits"
+          },
+          {
+            "start": "18:26",
+            "end": "18:28",
             "cat": "coding",
             "src": "local",
-            "title": "data.js",
+            "title": "build_data.py",
             "note": "2 hits"
           }
         ],
-        "logged": 121,
-        "real": 52,
-        "deep": 52,
-        "ratio": 0.4264803229500911,
+        "logged": 146,
+        "real": 67,
+        "deep": 67,
+        "ratio": 0.4587632560919218,
         "stats": {
-          "contextSwitches": 12,
-          "tabsOpened": 24,
+          "contextSwitches": 16,
+          "tabsOpened": 30,
           "longestFocus": "42m",
-          "justOneMoreThing": 2
+          "justOneMoreThing": 4
         }
       },
       {
@@ -31380,7 +31412,7 @@
       "dateShort": "Sat, Jul 11",
       "dateLong": "Saturday, July 11",
       "dayStart": "09:53",
-      "dayEnd": "18:04",
+      "dayEnd": "18:28",
       "events": [
         {
           "start": "09:53",
@@ -31507,35 +31539,67 @@
           "end": "17:33",
           "cat": "research",
           "src": "chrome",
-          "title": "Where the time actually went | Ada's Notes",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
           "note": "adaren100.github.io"
         },
         {
           "start": "17:33",
-          "end": "18:01",
+          "end": "18:02",
           "cat": "admin",
           "src": "claude",
           "title": "PhD worklog review",
-          "note": "165 hits"
+          "note": "172 hits"
         },
         {
           "start": "18:02",
-          "end": "18:04",
+          "end": "18:09",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "18:09",
+          "end": "18:13",
+          "cat": "admin",
+          "src": "claude",
+          "title": "PhD worklog review",
+          "note": "15 hits"
+        },
+        {
+          "start": "18:13",
+          "end": "18:21",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "18:21",
+          "end": "18:26",
+          "cat": "admin",
+          "src": "claude",
+          "title": "PhD worklog review",
+          "note": "19 hits"
+        },
+        {
+          "start": "18:26",
+          "end": "18:28",
           "cat": "coding",
           "src": "local",
-          "title": "data.js",
+          "title": "build_data.py",
           "note": "2 hits"
         }
       ],
-      "logged": 121,
-      "real": 52,
-      "deep": 52,
-      "ratio": 0.4264803229500911,
+      "logged": 146,
+      "real": 67,
+      "deep": 67,
+      "ratio": 0.4587632560919218,
       "stats": {
-        "contextSwitches": 12,
-        "tabsOpened": 24,
+        "contextSwitches": 16,
+        "tabsOpened": 30,
         "longestFocus": "42m",
-        "justOneMoreThing": 2
+        "justOneMoreThing": 4
       }
     },
     {
