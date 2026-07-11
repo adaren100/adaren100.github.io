@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-07-11T10:42:47+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-07-11T17:10:55+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -13021,7 +13021,7 @@
             "end": "10:41",
             "cat": "admin",
             "src": "chrome",
-            "title": "Inbox (2,626) - ada.ren.cn@gmail.com - Gmail",
+            "title": "Inbox (2,636) - ada.ren.cn@gmail.com - Gmail",
             "note": "accounts.google.com"
           },
           {
@@ -13261,7 +13261,7 @@
             "end": "20:21",
             "cat": "admin",
             "src": "chrome",
-            "title": "Inbox (2,631) - ada.ren.cn@gmail.com - Gmail",
+            "title": "Inbox (2,636) - ada.ren.cn@gmail.com - Gmail",
             "note": "mail.google.com"
           },
           {
@@ -13308,7 +13308,7 @@
         "dateShort": "Sat, Jul 11",
         "dateLong": "Saturday, July 11",
         "dayStart": "09:53",
-        "dayEnd": "10:13",
+        "dayEnd": "17:17",
         "events": [
           {
             "start": "09:53",
@@ -13317,16 +13317,80 @@
             "src": "chrome",
             "title": "Admission Docket | Macquarie University Sport and Aquatic Ce",
             "note": "google.com"
+          },
+          {
+            "start": "10:42",
+            "end": "10:47",
+            "cat": "coding",
+            "src": "local",
+            "title": "data.js",
+            "note": "1 hit"
+          },
+          {
+            "start": "16:18",
+            "end": "16:42",
+            "cat": "writing",
+            "src": "chrome",
+            "title": "Application of AWS Student Builder Group Leader - Google Sli",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "16:44",
+            "end": "16:52",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+            "note": "openreview.net"
+          },
+          {
+            "start": "16:52",
+            "end": "17:04",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+            "note": "openreview.net"
+          },
+          {
+            "start": "17:04",
+            "end": "17:05",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Inbox (2,636) - ada.ren.cn@gmail.com - Gmail",
+            "note": "accounts.google.com"
+          },
+          {
+            "start": "17:05",
+            "end": "17:12",
+            "cat": "admin",
+            "src": "claude",
+            "title": "PhD worklog review",
+            "note": "34 hits"
+          },
+          {
+            "start": "17:12",
+            "end": "17:13",
+            "cat": "admin",
+            "src": "claude",
+            "title": "PhD worklog review",
+            "note": "34 hits"
+          },
+          {
+            "start": "17:13",
+            "end": "17:17",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Arc'teryx Women Breathable Kragg Cotton Bird Crew Neck Shirt",
+            "note": "googleadservices.com"
           }
         ],
-        "logged": 20,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0.0,
+        "logged": 81,
+        "real": 48,
+        "deep": 48,
+        "ratio": 0.6016381182562108,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 3,
-          "longestFocus": "0m",
+          "contextSwitches": 5,
+          "tabsOpened": 18,
+          "longestFocus": "48m",
           "justOneMoreThing": 0
         }
       },
@@ -18309,7 +18373,7 @@
           "end": "10:41",
           "cat": "admin",
           "src": "chrome",
-          "title": "Inbox (2,626) - ada.ren.cn@gmail.com - Gmail",
+          "title": "Inbox (2,636) - ada.ren.cn@gmail.com - Gmail",
           "note": "accounts.google.com"
         },
         {
@@ -18549,7 +18613,7 @@
           "end": "20:21",
           "cat": "admin",
           "src": "chrome",
-          "title": "Inbox (2,631) - ada.ren.cn@gmail.com - Gmail",
+          "title": "Inbox (2,636) - ada.ren.cn@gmail.com - Gmail",
           "note": "mail.google.com"
         },
         {
@@ -18596,7 +18660,7 @@
       "dateShort": "Sat, Jul 11",
       "dateLong": "Saturday, July 11",
       "dayStart": "09:53",
-      "dayEnd": "10:13",
+      "dayEnd": "17:17",
       "events": [
         {
           "start": "09:53",
@@ -18605,16 +18669,80 @@
           "src": "chrome",
           "title": "Admission Docket | Macquarie University Sport and Aquatic Ce",
           "note": "google.com"
+        },
+        {
+          "start": "10:42",
+          "end": "10:47",
+          "cat": "coding",
+          "src": "local",
+          "title": "data.js",
+          "note": "1 hit"
+        },
+        {
+          "start": "16:18",
+          "end": "16:42",
+          "cat": "writing",
+          "src": "chrome",
+          "title": "Application of AWS Student Builder Group Leader - Google Sli",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "16:44",
+          "end": "16:52",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+          "note": "openreview.net"
+        },
+        {
+          "start": "16:52",
+          "end": "17:04",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+          "note": "openreview.net"
+        },
+        {
+          "start": "17:04",
+          "end": "17:05",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Inbox (2,636) - ada.ren.cn@gmail.com - Gmail",
+          "note": "accounts.google.com"
+        },
+        {
+          "start": "17:05",
+          "end": "17:12",
+          "cat": "admin",
+          "src": "claude",
+          "title": "PhD worklog review",
+          "note": "34 hits"
+        },
+        {
+          "start": "17:12",
+          "end": "17:13",
+          "cat": "admin",
+          "src": "claude",
+          "title": "PhD worklog review",
+          "note": "34 hits"
+        },
+        {
+          "start": "17:13",
+          "end": "17:17",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Arc'teryx Women Breathable Kragg Cotton Bird Crew Neck Shirt",
+          "note": "googleadservices.com"
         }
       ],
-      "logged": 20,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0.0,
+      "logged": 81,
+      "real": 48,
+      "deep": 48,
+      "ratio": 0.6016381182562108,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 3,
-        "longestFocus": "0m",
+        "contextSwitches": 5,
+        "tabsOpened": 18,
+        "longestFocus": "48m",
         "justOneMoreThing": 0
       }
     },
