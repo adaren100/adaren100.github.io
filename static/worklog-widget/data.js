@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-07-11T18:23:25+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-07-11T18:34:30+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -25857,14 +25857,6 @@
             "note": "url.au.m.mimecastprotect.com"
           },
           {
-            "start": "14:16",
-            "end": "14:33",
-            "cat": "personal",
-            "src": "chrome",
-            "title": "Spotify - Web Player: Music for everyone",
-            "note": "open.spotify.com"
-          },
-          {
             "start": "15:25",
             "end": "15:33",
             "cat": "coding",
@@ -25969,14 +25961,14 @@
             "note": "arxiv.org"
           }
         ],
-        "logged": 492,
+        "logged": 475,
         "real": 371,
         "deep": 371,
-        "ratio": 0.7541857476001037,
+        "ratio": 0.7815728674539443,
         "stats": {
-          "contextSwitches": 19,
-          "tabsOpened": 51,
-          "longestFocus": "1h 36m",
+          "contextSwitches": 18,
+          "tabsOpened": 48,
+          "longestFocus": "1h 54m",
           "justOneMoreThing": 3
         }
       },
@@ -25988,7 +25980,7 @@
         "dateShort": "Sat, Jul 11",
         "dateLong": "Saturday, July 11",
         "dayStart": "09:53",
-        "dayEnd": "18:28",
+        "dayEnd": "18:39",
         "events": [
           {
             "start": "09:53",
@@ -26156,24 +26148,48 @@
             "cat": "admin",
             "src": "claude",
             "title": "PhD worklog review",
-            "note": "19 hits"
+            "note": "23 hits"
           },
           {
             "start": "18:26",
-            "end": "18:28",
+            "end": "18:29",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "18:29",
+            "end": "18:30",
+            "cat": "admin",
+            "src": "claude",
+            "title": "PhD worklog review",
+            "note": "50 hits"
+          },
+          {
+            "start": "18:30",
+            "end": "18:37",
+            "cat": "admin",
+            "src": "claude",
+            "title": "PhD worklog review",
+            "note": "50 hits"
+          },
+          {
+            "start": "18:37",
+            "end": "18:39",
             "cat": "coding",
             "src": "local",
-            "title": "build_data.py",
-            "note": "2 hits"
+            "title": "domain_cats.json",
+            "note": "4 hits"
           }
         ],
-        "logged": 146,
-        "real": 67,
-        "deep": 67,
-        "ratio": 0.4587632560919218,
+        "logged": 157,
+        "real": 70,
+        "deep": 70,
+        "ratio": 0.44554223795762,
         "stats": {
-          "contextSwitches": 16,
-          "tabsOpened": 30,
+          "contextSwitches": 18,
+          "tabsOpened": 33,
           "longestFocus": "42m",
           "justOneMoreThing": 4
         }
@@ -31281,14 +31297,6 @@
           "note": "url.au.m.mimecastprotect.com"
         },
         {
-          "start": "14:16",
-          "end": "14:33",
-          "cat": "personal",
-          "src": "chrome",
-          "title": "Spotify - Web Player: Music for everyone",
-          "note": "open.spotify.com"
-        },
-        {
           "start": "15:25",
           "end": "15:33",
           "cat": "coding",
@@ -31393,14 +31401,14 @@
           "note": "arxiv.org"
         }
       ],
-      "logged": 492,
+      "logged": 475,
       "real": 371,
       "deep": 371,
-      "ratio": 0.7541857476001037,
+      "ratio": 0.7815728674539443,
       "stats": {
-        "contextSwitches": 19,
-        "tabsOpened": 51,
-        "longestFocus": "1h 36m",
+        "contextSwitches": 18,
+        "tabsOpened": 48,
+        "longestFocus": "1h 54m",
         "justOneMoreThing": 3
       }
     },
@@ -31412,7 +31420,7 @@
       "dateShort": "Sat, Jul 11",
       "dateLong": "Saturday, July 11",
       "dayStart": "09:53",
-      "dayEnd": "18:28",
+      "dayEnd": "18:39",
       "events": [
         {
           "start": "09:53",
@@ -31580,24 +31588,48 @@
           "cat": "admin",
           "src": "claude",
           "title": "PhD worklog review",
-          "note": "19 hits"
+          "note": "23 hits"
         },
         {
           "start": "18:26",
-          "end": "18:28",
+          "end": "18:29",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "18:29",
+          "end": "18:30",
+          "cat": "admin",
+          "src": "claude",
+          "title": "PhD worklog review",
+          "note": "50 hits"
+        },
+        {
+          "start": "18:30",
+          "end": "18:37",
+          "cat": "admin",
+          "src": "claude",
+          "title": "PhD worklog review",
+          "note": "50 hits"
+        },
+        {
+          "start": "18:37",
+          "end": "18:39",
           "cat": "coding",
           "src": "local",
-          "title": "build_data.py",
-          "note": "2 hits"
+          "title": "domain_cats.json",
+          "note": "4 hits"
         }
       ],
-      "logged": 146,
-      "real": 67,
-      "deep": 67,
-      "ratio": 0.4587632560919218,
+      "logged": 157,
+      "real": 70,
+      "deep": 70,
+      "ratio": 0.44554223795762,
       "stats": {
-        "contextSwitches": 16,
-        "tabsOpened": 30,
+        "contextSwitches": 18,
+        "tabsOpened": 33,
         "longestFocus": "42m",
         "justOneMoreThing": 4
       }
