@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-07-10T10:20:08+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-07-11T10:42:47+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -12609,402 +12609,402 @@
         "weekend": false
       },
       {
-        "key": "2026-7-9",
-        "dayNum": 9,
-        "dow": 4,
-        "weekend": false,
-        "dateShort": "Thu, Jul 9",
         "dateLong": "Thursday, July 9",
-        "dayStart": "09:00",
+        "dateShort": "Thu, Jul 9",
         "dayEnd": "22:39",
+        "dayNum": 9,
+        "dayStart": "09:00",
+        "deep": 355,
+        "dow": 4,
         "events": [
           {
-            "start": "09:00",
+            "cat": "research",
             "end": "09:23",
-            "cat": "research",
+            "note": "openreview.net",
             "src": "chrome",
-            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-            "note": "openreview.net"
+            "start": "09:00",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
           },
           {
-            "start": "09:58",
+            "cat": "personal",
             "end": "10:01",
-            "cat": "personal",
+            "note": "musac.jonasleisure.com.au",
             "src": "chrome",
-            "title": "Group Sessions | Macquarie University Sport and Aquatic Cent",
-            "note": "musac.jonasleisure.com.au"
+            "start": "09:58",
+            "title": "Group Sessions | Macquarie University Sport and Aquatic Cent"
           },
           {
-            "start": "10:01",
+            "cat": "research",
             "end": "10:14",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "chrome",
-            "title": "Tutor, Not Solver: Designing a Guardrailed AI Assistant for ",
-            "note": "arxiv.org"
+            "start": "10:01",
+            "title": "Tutor, Not Solver: Designing a Guardrailed AI Assistant for "
           },
           {
-            "start": "10:14",
+            "cat": "personal",
             "end": "10:36",
-            "cat": "personal",
+            "note": "google.com",
             "src": "chrome",
-            "title": "(3) X 上的 leo 🐾：“🚨 BREAKING: ByteDance have announced Seedrea",
-            "note": "google.com"
+            "start": "10:14",
+            "title": "(3) X 上的 leo 🐾：“🚨 BREAKING: ByteDance have announced Seedrea"
           },
           {
-            "start": "10:36",
+            "cat": "admin",
             "end": "10:42",
-            "cat": "admin",
+            "note": "goo.gle",
             "src": "chrome",
-            "title": "Create videos in seconds with Google Photos’ Video Remix",
-            "note": "goo.gle"
+            "start": "10:36",
+            "title": "Create videos in seconds with Google Photos’ Video Remix"
           },
           {
-            "start": "10:42",
+            "cat": "admin",
             "end": "10:56",
-            "cat": "admin",
+            "note": "goo.gle",
             "src": "chrome",
-            "title": "Create videos in seconds with Google Photos’ Video Remix",
-            "note": "goo.gle"
+            "start": "10:42",
+            "title": "Create videos in seconds with Google Photos’ Video Remix"
           },
           {
-            "start": "10:56",
+            "cat": "research",
             "end": "11:00",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "chrome",
-            "title": "Where the time actually went | Ada's Notes",
-            "note": "adaren100.github.io"
+            "start": "10:56",
+            "title": "Where the time actually went | Ada's Notes"
           },
           {
-            "start": "11:00",
+            "cat": "personal",
             "end": "11:32",
-            "cat": "personal",
+            "note": "x.com",
             "src": "chrome",
-            "title": "(3) X 上的 swyx：“one detail i enjoyed about @theo's keynote is",
-            "note": "x.com"
+            "start": "11:00",
+            "title": "(3) X 上的 swyx：“one detail i enjoyed about @theo's keynote is"
           },
           {
-            "start": "11:32",
+            "cat": "research",
             "end": "11:54",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "chrome",
-            "title": "Separating signal from noise in coding evaluations | Ada's N",
-            "note": "adaren100.github.io"
+            "start": "11:32",
+            "title": "Separating signal from noise in coding evaluations | Ada's N"
           },
           {
-            "start": "11:54",
+            "cat": "coding",
             "end": "12:11",
-            "cat": "coding",
+            "note": "anthropic.com",
             "src": "chrome",
-            "title": "An off switch for dual use knowledge in AI models \\ Anthropi",
-            "note": "anthropic.com"
+            "start": "11:54",
+            "title": "An off switch for dual use knowledge in AI models \\ Anthropi"
           },
           {
-            "start": "12:11",
+            "cat": "research",
             "end": "12:34",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "chrome",
-            "title": "Helping K–12 educators build practical AI skills | Ada's Not",
-            "note": "adaren100.github.io"
+            "start": "12:11",
+            "title": "Helping K–12 educators build practical AI skills | Ada's Not"
           },
           {
-            "start": "14:00",
+            "cat": "personal",
             "end": "14:06",
-            "cat": "personal",
+            "note": "google.com",
             "src": "chrome",
-            "title": "agent workshop acl 2026 youtube - Google Search",
-            "note": "google.com"
+            "start": "14:00",
+            "title": "agent workshop acl 2026 youtube - Google Search"
           },
           {
-            "start": "14:06",
+            "cat": "admin",
             "end": "14:14",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "chrome",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "14:06",
+            "title": "Google Translate"
           },
           {
-            "start": "14:15",
+            "cat": "research",
             "end": "14:23",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "chrome",
-            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-            "note": "adaren100.github.io"
+            "start": "14:15",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
           },
           {
-            "start": "14:24",
+            "cat": "research",
             "end": "15:07",
-            "cat": "research",
+            "note": "lilianweng.github.io",
             "src": "chrome",
-            "title": "Self-Play Fine-Tuning Converts Weak Language Models to Stron",
-            "note": "lilianweng.github.io"
+            "start": "14:24",
+            "title": "Self-Play Fine-Tuning Converts Weak Language Models to Stron"
           },
           {
-            "start": "15:07",
+            "cat": "coding",
             "end": "15:27",
-            "cat": "coding",
+            "note": "platform.openai.com",
             "src": "chrome",
-            "title": "Responses | OpenAI API Reference",
-            "note": "platform.openai.com"
+            "start": "15:07",
+            "title": "Responses | OpenAI API Reference"
           },
           {
-            "start": "15:40",
+            "cat": "admin",
             "end": "15:57",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "chrome",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "15:40",
+            "title": "Google Translate"
           },
           {
-            "start": "15:57",
+            "cat": "coding",
             "end": "16:20",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "15:57",
+            "title": "VSCode"
           },
           {
-            "start": "16:26",
+            "cat": "coding",
             "end": "16:30",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "16:26",
+            "title": "VSCode"
           },
           {
-            "start": "16:30",
+            "cat": "research",
             "end": "16:33",
-            "cat": "research",
+            "note": "aclrollingreview.org",
             "src": "chrome",
-            "title": "ACL Rolling Review – A peer review platform for the Associat",
-            "note": "aclrollingreview.org"
+            "start": "16:30",
+            "title": "ACL Rolling Review – A peer review platform for the Associat"
           },
           {
-            "start": "16:33",
+            "cat": "coding",
             "end": "17:16",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "16:33",
+            "title": "VSCode"
           },
           {
-            "start": "17:17",
+            "cat": "coding",
             "end": "17:22",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "17:17",
+            "title": "VSCode"
           },
           {
-            "start": "17:22",
+            "cat": "research",
             "end": "17:27",
-            "cat": "research",
+            "note": "chatgpt.com",
             "src": "chrome",
-            "title": "ChatGPT",
-            "note": "chatgpt.com"
+            "start": "17:22",
+            "title": "ChatGPT"
           },
           {
-            "start": "17:27",
+            "cat": "coding",
             "end": "17:34",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "17:27",
+            "title": "VSCode"
           },
           {
-            "start": "17:34",
+            "cat": "admin",
             "end": "17:44",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "17:34",
+            "title": "Outlook"
           },
           {
-            "start": "17:44",
+            "cat": "coding",
             "end": "17:56",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "17:44",
+            "title": "VSCode"
           },
           {
-            "start": "18:07",
+            "cat": "coding",
             "end": "18:09",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "18:07",
+            "title": "VSCode"
           },
           {
-            "start": "20:42",
+            "cat": "coding",
             "end": "20:46",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "20:42",
+            "title": "VSCode"
           },
           {
-            "start": "20:47",
+            "cat": "personal",
             "end": "20:51",
-            "cat": "personal",
+            "note": "typing.com",
             "src": "chrome",
-            "title": "Typing Lessons | Accuracy Focus - Typing.com",
-            "note": "typing.com"
+            "start": "20:47",
+            "title": "Typing Lessons | Accuracy Focus - Typing.com"
           },
           {
-            "start": "20:52",
+            "cat": "personal",
             "end": "20:56",
-            "cat": "personal",
+            "note": "typing.com",
             "src": "chrome",
-            "title": "Typing Lessons | Accuracy Focus - Typing.com",
-            "note": "typing.com"
+            "start": "20:52",
+            "title": "Typing Lessons | Accuracy Focus - Typing.com"
           },
           {
-            "start": "20:57",
+            "cat": "personal",
             "end": "20:58",
-            "cat": "personal",
+            "note": "typing.com",
             "src": "chrome",
-            "title": "Typing Lessons | Accuracy Focus - Typing.com",
-            "note": "typing.com"
+            "start": "20:57",
+            "title": "Typing Lessons | Accuracy Focus - Typing.com"
           },
           {
-            "start": "20:58",
+            "cat": "personal",
             "end": "20:59",
-            "cat": "personal",
+            "note": "typing.com",
             "src": "chrome",
-            "title": "Typing Lessons | Accuracy Focus - Typing.com",
-            "note": "typing.com"
+            "start": "20:58",
+            "title": "Typing Lessons | Accuracy Focus - Typing.com"
           },
           {
-            "start": "20:59",
+            "cat": "coding",
             "end": "21:00",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "20:59",
+            "title": "VSCode"
           },
           {
-            "start": "21:00",
+            "cat": "admin",
             "end": "21:03",
-            "cat": "admin",
+            "note": "mqcsh.slack.com",
             "src": "chrome",
-            "title": "Your exclusive event lineup is here, Ada! - ada.ren.cn@gmail",
-            "note": "mqcsh.slack.com"
+            "start": "21:00",
+            "title": "Your exclusive event lineup is here, Ada! - ada.ren.cn@gmail"
           },
           {
-            "start": "21:03",
+            "cat": "admin",
             "end": "21:06",
-            "cat": "admin",
+            "note": "mqcsh.slack.com",
             "src": "chrome",
-            "title": "Your exclusive event lineup is here, Ada! - ada.ren.cn@gmail",
-            "note": "mqcsh.slack.com"
+            "start": "21:03",
+            "title": "Your exclusive event lineup is here, Ada! - ada.ren.cn@gmail"
           },
           {
-            "start": "21:06",
+            "cat": "admin",
             "end": "21:11",
-            "cat": "admin",
+            "note": "mqcsh.slack.com",
             "src": "chrome",
-            "title": "Your exclusive event lineup is here, Ada! - ada.ren.cn@gmail",
-            "note": "mqcsh.slack.com"
+            "start": "21:06",
+            "title": "Your exclusive event lineup is here, Ada! - ada.ren.cn@gmail"
           },
           {
-            "start": "21:11",
+            "cat": "admin",
             "end": "21:12",
-            "cat": "admin",
+            "note": "mqcsh.slack.com",
             "src": "chrome",
-            "title": "Your exclusive event lineup is here, Ada! - ada.ren.cn@gmail",
-            "note": "mqcsh.slack.com"
+            "start": "21:11",
+            "title": "Your exclusive event lineup is here, Ada! - ada.ren.cn@gmail"
           },
           {
-            "start": "21:12",
+            "cat": "admin",
             "end": "21:16",
-            "cat": "admin",
+            "note": "mqcsh.slack.com",
             "src": "chrome",
-            "title": "Your exclusive event lineup is here, Ada! - ada.ren.cn@gmail",
-            "note": "mqcsh.slack.com"
+            "start": "21:12",
+            "title": "Your exclusive event lineup is here, Ada! - ada.ren.cn@gmail"
           },
           {
-            "start": "21:17",
+            "cat": "admin",
             "end": "21:22",
-            "cat": "admin",
+            "note": "mqcsh.slack.com",
             "src": "chrome",
-            "title": "Your exclusive event lineup is here, Ada! - ada.ren.cn@gmail",
-            "note": "mqcsh.slack.com"
+            "start": "21:17",
+            "title": "Your exclusive event lineup is here, Ada! - ada.ren.cn@gmail"
           },
           {
-            "start": "21:22",
+            "cat": "admin",
             "end": "21:27",
-            "cat": "admin",
+            "note": "mqcsh.slack.com",
             "src": "chrome",
-            "title": "Your exclusive event lineup is here, Ada! - ada.ren.cn@gmail",
-            "note": "mqcsh.slack.com"
+            "start": "21:22",
+            "title": "Your exclusive event lineup is here, Ada! - ada.ren.cn@gmail"
           },
           {
-            "start": "21:28",
+            "cat": "research",
             "end": "21:32",
-            "cat": "research",
+            "note": "openreview.net",
             "src": "chrome",
-            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-            "note": "openreview.net"
+            "start": "21:28",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
           },
           {
-            "start": "21:33",
+            "cat": "coding",
             "end": "21:37",
-            "cat": "coding",
+            "note": "github.com",
             "src": "chrome",
-            "title": "yasasbanukaofficial/claude-code: 🚀 Open source Claude Code C",
-            "note": "github.com"
+            "start": "21:33",
+            "title": "yasasbanukaofficial/claude-code: 🚀 Open source Claude Code C"
           },
           {
-            "start": "21:37",
+            "cat": "coding",
             "end": "21:42",
-            "cat": "coding",
+            "note": "github.com",
             "src": "chrome",
-            "title": "yasasbanukaofficial/claude-code: 🚀 Open source Claude Code C",
-            "note": "github.com"
+            "start": "21:37",
+            "title": "yasasbanukaofficial/claude-code: 🚀 Open source Claude Code C"
           },
           {
-            "start": "21:42",
+            "cat": "coding",
             "end": "21:43",
-            "cat": "coding",
+            "note": "github.com",
             "src": "chrome",
-            "title": "yasasbanukaofficial/claude-code: 🚀 Open source Claude Code C",
-            "note": "github.com"
+            "start": "21:42",
+            "title": "yasasbanukaofficial/claude-code: 🚀 Open source Claude Code C"
           },
           {
-            "start": "21:43",
+            "cat": "coding",
             "end": "21:48",
-            "cat": "coding",
+            "note": "github.com",
             "src": "chrome",
-            "title": "yasasbanukaofficial/claude-code: 🚀 Open source Claude Code C",
-            "note": "github.com"
+            "start": "21:43",
+            "title": "yasasbanukaofficial/claude-code: 🚀 Open source Claude Code C"
           },
           {
-            "start": "21:48",
+            "cat": "coding",
             "end": "21:53",
-            "cat": "coding",
+            "note": "github.com",
             "src": "chrome",
-            "title": "yasasbanukaofficial/claude-code: 🚀 Open source Claude Code C",
-            "note": "github.com"
+            "start": "21:48",
+            "title": "yasasbanukaofficial/claude-code: 🚀 Open source Claude Code C"
           },
           {
-            "start": "21:53",
-            "end": "22:39",
             "cat": "research",
+            "end": "22:39",
+            "note": "arxiv.org",
             "src": "chrome",
-            "title": "Meta-Harness: End-to-End Optimization of Model Harnesses",
-            "note": "arxiv.org"
+            "start": "21:53",
+            "title": "Meta-Harness: End-to-End Optimization of Model Harnesses"
           }
         ],
+        "key": "2026-7-9",
         "logged": 507,
-        "real": 355,
-        "deep": 355,
         "ratio": 0.7001924623520378,
+        "real": 355,
         "stats": {
           "contextSwitches": 27,
-          "tabsOpened": 111,
+          "justOneMoreThing": 2,
           "longestFocus": "1h 31m",
-          "justOneMoreThing": 2
-        }
+          "tabsOpened": 111
+        },
+        "weekend": false
       },
       {
         "key": "2026-7-10",
@@ -13014,26 +13014,290 @@
         "dateShort": "Fri, Jul 10",
         "dateLong": "Friday, July 10",
         "dayStart": "10:17",
-        "dayEnd": "10:39",
+        "dayEnd": "22:39",
         "events": [
           {
             "start": "10:17",
-            "end": "10:39",
+            "end": "10:41",
             "cat": "admin",
             "src": "chrome",
             "title": "Inbox (2,626) - ada.ren.cn@gmail.com - Gmail",
             "note": "accounts.google.com"
+          },
+          {
+            "start": "10:42",
+            "end": "10:52",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "10:54",
+            "end": "11:01",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(3) X 上的 AI at Meta：“Muse Spark 1.1 also excels in perceptio",
+            "note": "x.com"
+          },
+          {
+            "start": "11:01",
+            "end": "11:07",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Introducing a way to reflect on how you use Claude | Ada's N",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "11:07",
+            "end": "11:12",
+            "cat": "writing",
+            "src": "local",
+            "title": "2026-07-09-ust-claude.md",
+            "note": "2 hits"
+          },
+          {
+            "start": "11:12",
+            "end": "11:16",
+            "cat": "research",
+            "src": "chrome",
+            "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot ",
+            "note": "openai.com"
+          },
+          {
+            "start": "11:16",
+            "end": "11:24",
+            "cat": "research",
+            "src": "chrome",
+            "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot ",
+            "note": "openai.com"
+          },
+          {
+            "start": "11:24",
+            "end": "11:28",
+            "cat": "research",
+            "src": "chrome",
+            "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot ",
+            "note": "openai.com"
+          },
+          {
+            "start": "11:28",
+            "end": "11:32",
+            "cat": "research",
+            "src": "chrome",
+            "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot ",
+            "note": "openai.com"
+          },
+          {
+            "start": "11:32",
+            "end": "11:36",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "cluade.ai",
+            "note": "cluade.ai"
+          },
+          {
+            "start": "11:36",
+            "end": "11:47",
+            "cat": "writing",
+            "src": "chrome",
+            "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea",
+            "note": "overleaf.com"
+          },
+          {
+            "start": "11:48",
+            "end": "11:52",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Venues | OpenReview",
+            "note": "openreview.net"
+          },
+          {
+            "start": "11:52",
+            "end": "12:13",
+            "cat": "writing",
+            "src": "chrome",
+            "title": "Sign in - Google Accounts",
+            "note": "accounts.google.com"
+          },
+          {
+            "start": "12:13",
+            "end": "12:13",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "2025北海道滑雪 - Google My Maps",
+            "note": "google.com"
+          },
+          {
+            "start": "12:13",
+            "end": "12:17",
+            "cat": "writing",
+            "src": "chrome",
+            "title": "POLAR@EEUCA 2026 - Google Slides",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "12:17",
+            "end": "12:21",
+            "cat": "research",
+            "src": "chrome",
+            "title": "SafeTutors: Benchmarking Pedagogical Safety in AI Tutoring S",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "12:22",
+            "end": "12:51",
+            "cat": "research",
+            "src": "chrome",
+            "title": "SafeTutors: Benchmarking Pedagogical Safety in AI Tutoring S",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "13:51",
+            "end": "13:58",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "13:58",
+            "end": "14:16",
+            "cat": "research",
+            "src": "chrome",
+            "title": "ACL ARR 2026 May Authors | OpenReview",
+            "note": "url.au.m.mimecastprotect.com"
+          },
+          {
+            "start": "14:16",
+            "end": "14:33",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Spotify - Web Player: Music for everyone",
+            "note": "open.spotify.com"
+          },
+          {
+            "start": "15:25",
+            "end": "15:33",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:33",
+            "end": "15:34",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:37",
+            "end": "15:41",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:42",
+            "end": "15:53",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:53",
+            "end": "15:57",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:59",
+            "end": "16:07",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:07",
+            "end": "16:10",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · bench",
+            "note": "105 hits"
+          },
+          {
+            "start": "16:10",
+            "end": "16:47",
+            "cat": "writing",
+            "src": "chrome",
+            "title": "Application of AWS Student Builder Group Leader - Google Sli",
+            "note": "drive.google.com"
+          },
+          {
+            "start": "16:49",
+            "end": "17:09",
+            "cat": "writing",
+            "src": "chrome",
+            "title": "Application of AWS Student Builder Group Leader - Google Sli",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "18:50",
+            "end": "19:38",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(58) Field Guide to Fable — Thariq Shihipar, Anthropic - You",
+            "note": "youtube.com"
+          },
+          {
+            "start": "20:11",
+            "end": "20:21",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Inbox (2,631) - ada.ren.cn@gmail.com - Gmail",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "20:21",
+            "end": "20:53",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Meta-Harness: End-to-End Optimization of Model Harnesses",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "20:53",
+            "end": "21:08",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "lilian weng - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "21:08",
+            "end": "22:39",
+            "cat": "research",
+            "src": "chrome",
+            "title": "ScientistOne: Towards Human-Level Autonomous Research via Ch",
+            "note": "scholar.google.com"
           }
         ],
-        "logged": 22,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0.0,
+        "logged": 482,
+        "real": 351,
+        "deep": 351,
+        "ratio": 0.7273082053938612,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 3,
-          "longestFocus": "0m",
-          "justOneMoreThing": 0
+          "contextSwitches": 22,
+          "tabsOpened": 75,
+          "longestFocus": "1h 36m",
+          "justOneMoreThing": 4
         }
       },
       {
@@ -13043,16 +13307,25 @@
         "weekend": true,
         "dateShort": "Sat, Jul 11",
         "dateLong": "Saturday, July 11",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
+        "dayStart": "09:53",
+        "dayEnd": "10:13",
+        "events": [
+          {
+            "start": "09:53",
+            "end": "10:13",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Admission Docket | Macquarie University Sport and Aquatic Ce",
+            "note": "google.com"
+          }
+        ],
+        "logged": 20,
         "real": 0,
         "deep": 0,
-        "ratio": 0,
+        "ratio": 0.0,
         "stats": {
           "contextSwitches": 0,
-          "tabsOpened": 0,
+          "tabsOpened": 3,
           "longestFocus": "0m",
           "justOneMoreThing": 0
         }
@@ -17624,402 +17897,402 @@
       "weekend": false
     },
     {
-      "key": "2026-7-9",
-      "dayNum": 9,
-      "dow": 4,
-      "weekend": false,
-      "dateShort": "Thu, Jul 9",
       "dateLong": "Thursday, July 9",
-      "dayStart": "09:00",
+      "dateShort": "Thu, Jul 9",
       "dayEnd": "22:39",
+      "dayNum": 9,
+      "dayStart": "09:00",
+      "deep": 355,
+      "dow": 4,
       "events": [
         {
-          "start": "09:00",
+          "cat": "research",
           "end": "09:23",
-          "cat": "research",
+          "note": "openreview.net",
           "src": "chrome",
-          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-          "note": "openreview.net"
+          "start": "09:00",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
         },
         {
-          "start": "09:58",
+          "cat": "personal",
           "end": "10:01",
-          "cat": "personal",
+          "note": "musac.jonasleisure.com.au",
           "src": "chrome",
-          "title": "Group Sessions | Macquarie University Sport and Aquatic Cent",
-          "note": "musac.jonasleisure.com.au"
+          "start": "09:58",
+          "title": "Group Sessions | Macquarie University Sport and Aquatic Cent"
         },
         {
-          "start": "10:01",
+          "cat": "research",
           "end": "10:14",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "chrome",
-          "title": "Tutor, Not Solver: Designing a Guardrailed AI Assistant for ",
-          "note": "arxiv.org"
+          "start": "10:01",
+          "title": "Tutor, Not Solver: Designing a Guardrailed AI Assistant for "
         },
         {
-          "start": "10:14",
+          "cat": "personal",
           "end": "10:36",
-          "cat": "personal",
+          "note": "google.com",
           "src": "chrome",
-          "title": "(3) X 上的 leo 🐾：“🚨 BREAKING: ByteDance have announced Seedrea",
-          "note": "google.com"
+          "start": "10:14",
+          "title": "(3) X 上的 leo 🐾：“🚨 BREAKING: ByteDance have announced Seedrea"
         },
         {
-          "start": "10:36",
+          "cat": "admin",
           "end": "10:42",
-          "cat": "admin",
+          "note": "goo.gle",
           "src": "chrome",
-          "title": "Create videos in seconds with Google Photos’ Video Remix",
-          "note": "goo.gle"
+          "start": "10:36",
+          "title": "Create videos in seconds with Google Photos’ Video Remix"
         },
         {
-          "start": "10:42",
+          "cat": "admin",
           "end": "10:56",
-          "cat": "admin",
+          "note": "goo.gle",
           "src": "chrome",
-          "title": "Create videos in seconds with Google Photos’ Video Remix",
-          "note": "goo.gle"
+          "start": "10:42",
+          "title": "Create videos in seconds with Google Photos’ Video Remix"
         },
         {
-          "start": "10:56",
+          "cat": "research",
           "end": "11:00",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "chrome",
-          "title": "Where the time actually went | Ada's Notes",
-          "note": "adaren100.github.io"
+          "start": "10:56",
+          "title": "Where the time actually went | Ada's Notes"
         },
         {
-          "start": "11:00",
+          "cat": "personal",
           "end": "11:32",
-          "cat": "personal",
+          "note": "x.com",
           "src": "chrome",
-          "title": "(3) X 上的 swyx：“one detail i enjoyed about @theo's keynote is",
-          "note": "x.com"
+          "start": "11:00",
+          "title": "(3) X 上的 swyx：“one detail i enjoyed about @theo's keynote is"
         },
         {
-          "start": "11:32",
+          "cat": "research",
           "end": "11:54",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "chrome",
-          "title": "Separating signal from noise in coding evaluations | Ada's N",
-          "note": "adaren100.github.io"
+          "start": "11:32",
+          "title": "Separating signal from noise in coding evaluations | Ada's N"
         },
         {
-          "start": "11:54",
+          "cat": "coding",
           "end": "12:11",
-          "cat": "coding",
+          "note": "anthropic.com",
           "src": "chrome",
-          "title": "An off switch for dual use knowledge in AI models \\ Anthropi",
-          "note": "anthropic.com"
+          "start": "11:54",
+          "title": "An off switch for dual use knowledge in AI models \\ Anthropi"
         },
         {
-          "start": "12:11",
+          "cat": "research",
           "end": "12:34",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "chrome",
-          "title": "Helping K–12 educators build practical AI skills | Ada's Not",
-          "note": "adaren100.github.io"
+          "start": "12:11",
+          "title": "Helping K–12 educators build practical AI skills | Ada's Not"
         },
         {
-          "start": "14:00",
+          "cat": "personal",
           "end": "14:06",
-          "cat": "personal",
+          "note": "google.com",
           "src": "chrome",
-          "title": "agent workshop acl 2026 youtube - Google Search",
-          "note": "google.com"
+          "start": "14:00",
+          "title": "agent workshop acl 2026 youtube - Google Search"
         },
         {
-          "start": "14:06",
+          "cat": "admin",
           "end": "14:14",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "chrome",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "14:06",
+          "title": "Google Translate"
         },
         {
-          "start": "14:15",
+          "cat": "research",
           "end": "14:23",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "chrome",
-          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-          "note": "adaren100.github.io"
+          "start": "14:15",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
         },
         {
-          "start": "14:24",
+          "cat": "research",
           "end": "15:07",
-          "cat": "research",
+          "note": "lilianweng.github.io",
           "src": "chrome",
-          "title": "Self-Play Fine-Tuning Converts Weak Language Models to Stron",
-          "note": "lilianweng.github.io"
+          "start": "14:24",
+          "title": "Self-Play Fine-Tuning Converts Weak Language Models to Stron"
         },
         {
-          "start": "15:07",
+          "cat": "coding",
           "end": "15:27",
-          "cat": "coding",
+          "note": "platform.openai.com",
           "src": "chrome",
-          "title": "Responses | OpenAI API Reference",
-          "note": "platform.openai.com"
+          "start": "15:07",
+          "title": "Responses | OpenAI API Reference"
         },
         {
-          "start": "15:40",
+          "cat": "admin",
           "end": "15:57",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "chrome",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "15:40",
+          "title": "Google Translate"
         },
         {
-          "start": "15:57",
+          "cat": "coding",
           "end": "16:20",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "15:57",
+          "title": "VSCode"
         },
         {
-          "start": "16:26",
+          "cat": "coding",
           "end": "16:30",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "16:26",
+          "title": "VSCode"
         },
         {
-          "start": "16:30",
+          "cat": "research",
           "end": "16:33",
-          "cat": "research",
+          "note": "aclrollingreview.org",
           "src": "chrome",
-          "title": "ACL Rolling Review – A peer review platform for the Associat",
-          "note": "aclrollingreview.org"
+          "start": "16:30",
+          "title": "ACL Rolling Review – A peer review platform for the Associat"
         },
         {
-          "start": "16:33",
+          "cat": "coding",
           "end": "17:16",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "16:33",
+          "title": "VSCode"
         },
         {
-          "start": "17:17",
+          "cat": "coding",
           "end": "17:22",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "17:17",
+          "title": "VSCode"
         },
         {
-          "start": "17:22",
+          "cat": "research",
           "end": "17:27",
-          "cat": "research",
+          "note": "chatgpt.com",
           "src": "chrome",
-          "title": "ChatGPT",
-          "note": "chatgpt.com"
+          "start": "17:22",
+          "title": "ChatGPT"
         },
         {
-          "start": "17:27",
+          "cat": "coding",
           "end": "17:34",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "17:27",
+          "title": "VSCode"
         },
         {
-          "start": "17:34",
+          "cat": "admin",
           "end": "17:44",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "17:34",
+          "title": "Outlook"
         },
         {
-          "start": "17:44",
+          "cat": "coding",
           "end": "17:56",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "17:44",
+          "title": "VSCode"
         },
         {
-          "start": "18:07",
+          "cat": "coding",
           "end": "18:09",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "18:07",
+          "title": "VSCode"
         },
         {
-          "start": "20:42",
+          "cat": "coding",
           "end": "20:46",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "20:42",
+          "title": "VSCode"
         },
         {
-          "start": "20:47",
+          "cat": "personal",
           "end": "20:51",
-          "cat": "personal",
+          "note": "typing.com",
           "src": "chrome",
-          "title": "Typing Lessons | Accuracy Focus - Typing.com",
-          "note": "typing.com"
+          "start": "20:47",
+          "title": "Typing Lessons | Accuracy Focus - Typing.com"
         },
         {
-          "start": "20:52",
+          "cat": "personal",
           "end": "20:56",
-          "cat": "personal",
+          "note": "typing.com",
           "src": "chrome",
-          "title": "Typing Lessons | Accuracy Focus - Typing.com",
-          "note": "typing.com"
+          "start": "20:52",
+          "title": "Typing Lessons | Accuracy Focus - Typing.com"
         },
         {
-          "start": "20:57",
+          "cat": "personal",
           "end": "20:58",
-          "cat": "personal",
+          "note": "typing.com",
           "src": "chrome",
-          "title": "Typing Lessons | Accuracy Focus - Typing.com",
-          "note": "typing.com"
+          "start": "20:57",
+          "title": "Typing Lessons | Accuracy Focus - Typing.com"
         },
         {
-          "start": "20:58",
+          "cat": "personal",
           "end": "20:59",
-          "cat": "personal",
+          "note": "typing.com",
           "src": "chrome",
-          "title": "Typing Lessons | Accuracy Focus - Typing.com",
-          "note": "typing.com"
+          "start": "20:58",
+          "title": "Typing Lessons | Accuracy Focus - Typing.com"
         },
         {
-          "start": "20:59",
+          "cat": "coding",
           "end": "21:00",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "20:59",
+          "title": "VSCode"
         },
         {
-          "start": "21:00",
+          "cat": "admin",
           "end": "21:03",
-          "cat": "admin",
+          "note": "mqcsh.slack.com",
           "src": "chrome",
-          "title": "Your exclusive event lineup is here, Ada! - ada.ren.cn@gmail",
-          "note": "mqcsh.slack.com"
+          "start": "21:00",
+          "title": "Your exclusive event lineup is here, Ada! - ada.ren.cn@gmail"
         },
         {
-          "start": "21:03",
+          "cat": "admin",
           "end": "21:06",
-          "cat": "admin",
+          "note": "mqcsh.slack.com",
           "src": "chrome",
-          "title": "Your exclusive event lineup is here, Ada! - ada.ren.cn@gmail",
-          "note": "mqcsh.slack.com"
+          "start": "21:03",
+          "title": "Your exclusive event lineup is here, Ada! - ada.ren.cn@gmail"
         },
         {
-          "start": "21:06",
+          "cat": "admin",
           "end": "21:11",
-          "cat": "admin",
+          "note": "mqcsh.slack.com",
           "src": "chrome",
-          "title": "Your exclusive event lineup is here, Ada! - ada.ren.cn@gmail",
-          "note": "mqcsh.slack.com"
+          "start": "21:06",
+          "title": "Your exclusive event lineup is here, Ada! - ada.ren.cn@gmail"
         },
         {
-          "start": "21:11",
+          "cat": "admin",
           "end": "21:12",
-          "cat": "admin",
+          "note": "mqcsh.slack.com",
           "src": "chrome",
-          "title": "Your exclusive event lineup is here, Ada! - ada.ren.cn@gmail",
-          "note": "mqcsh.slack.com"
+          "start": "21:11",
+          "title": "Your exclusive event lineup is here, Ada! - ada.ren.cn@gmail"
         },
         {
-          "start": "21:12",
+          "cat": "admin",
           "end": "21:16",
-          "cat": "admin",
+          "note": "mqcsh.slack.com",
           "src": "chrome",
-          "title": "Your exclusive event lineup is here, Ada! - ada.ren.cn@gmail",
-          "note": "mqcsh.slack.com"
+          "start": "21:12",
+          "title": "Your exclusive event lineup is here, Ada! - ada.ren.cn@gmail"
         },
         {
-          "start": "21:17",
+          "cat": "admin",
           "end": "21:22",
-          "cat": "admin",
+          "note": "mqcsh.slack.com",
           "src": "chrome",
-          "title": "Your exclusive event lineup is here, Ada! - ada.ren.cn@gmail",
-          "note": "mqcsh.slack.com"
+          "start": "21:17",
+          "title": "Your exclusive event lineup is here, Ada! - ada.ren.cn@gmail"
         },
         {
-          "start": "21:22",
+          "cat": "admin",
           "end": "21:27",
-          "cat": "admin",
+          "note": "mqcsh.slack.com",
           "src": "chrome",
-          "title": "Your exclusive event lineup is here, Ada! - ada.ren.cn@gmail",
-          "note": "mqcsh.slack.com"
+          "start": "21:22",
+          "title": "Your exclusive event lineup is here, Ada! - ada.ren.cn@gmail"
         },
         {
-          "start": "21:28",
+          "cat": "research",
           "end": "21:32",
-          "cat": "research",
+          "note": "openreview.net",
           "src": "chrome",
-          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-          "note": "openreview.net"
+          "start": "21:28",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
         },
         {
-          "start": "21:33",
+          "cat": "coding",
           "end": "21:37",
-          "cat": "coding",
+          "note": "github.com",
           "src": "chrome",
-          "title": "yasasbanukaofficial/claude-code: 🚀 Open source Claude Code C",
-          "note": "github.com"
+          "start": "21:33",
+          "title": "yasasbanukaofficial/claude-code: 🚀 Open source Claude Code C"
         },
         {
-          "start": "21:37",
+          "cat": "coding",
           "end": "21:42",
-          "cat": "coding",
+          "note": "github.com",
           "src": "chrome",
-          "title": "yasasbanukaofficial/claude-code: 🚀 Open source Claude Code C",
-          "note": "github.com"
+          "start": "21:37",
+          "title": "yasasbanukaofficial/claude-code: 🚀 Open source Claude Code C"
         },
         {
-          "start": "21:42",
+          "cat": "coding",
           "end": "21:43",
-          "cat": "coding",
+          "note": "github.com",
           "src": "chrome",
-          "title": "yasasbanukaofficial/claude-code: 🚀 Open source Claude Code C",
-          "note": "github.com"
+          "start": "21:42",
+          "title": "yasasbanukaofficial/claude-code: 🚀 Open source Claude Code C"
         },
         {
-          "start": "21:43",
+          "cat": "coding",
           "end": "21:48",
-          "cat": "coding",
+          "note": "github.com",
           "src": "chrome",
-          "title": "yasasbanukaofficial/claude-code: 🚀 Open source Claude Code C",
-          "note": "github.com"
+          "start": "21:43",
+          "title": "yasasbanukaofficial/claude-code: 🚀 Open source Claude Code C"
         },
         {
-          "start": "21:48",
+          "cat": "coding",
           "end": "21:53",
-          "cat": "coding",
+          "note": "github.com",
           "src": "chrome",
-          "title": "yasasbanukaofficial/claude-code: 🚀 Open source Claude Code C",
-          "note": "github.com"
+          "start": "21:48",
+          "title": "yasasbanukaofficial/claude-code: 🚀 Open source Claude Code C"
         },
         {
-          "start": "21:53",
-          "end": "22:39",
           "cat": "research",
+          "end": "22:39",
+          "note": "arxiv.org",
           "src": "chrome",
-          "title": "Meta-Harness: End-to-End Optimization of Model Harnesses",
-          "note": "arxiv.org"
+          "start": "21:53",
+          "title": "Meta-Harness: End-to-End Optimization of Model Harnesses"
         }
       ],
+      "key": "2026-7-9",
       "logged": 507,
-      "real": 355,
-      "deep": 355,
       "ratio": 0.7001924623520378,
+      "real": 355,
       "stats": {
         "contextSwitches": 27,
-        "tabsOpened": 111,
+        "justOneMoreThing": 2,
         "longestFocus": "1h 31m",
-        "justOneMoreThing": 2
-      }
+        "tabsOpened": 111
+      },
+      "weekend": false
     },
     {
       "key": "2026-7-10",
@@ -18029,26 +18302,290 @@
       "dateShort": "Fri, Jul 10",
       "dateLong": "Friday, July 10",
       "dayStart": "10:17",
-      "dayEnd": "10:39",
+      "dayEnd": "22:39",
       "events": [
         {
           "start": "10:17",
-          "end": "10:39",
+          "end": "10:41",
           "cat": "admin",
           "src": "chrome",
           "title": "Inbox (2,626) - ada.ren.cn@gmail.com - Gmail",
           "note": "accounts.google.com"
+        },
+        {
+          "start": "10:42",
+          "end": "10:52",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "10:54",
+          "end": "11:01",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(3) X 上的 AI at Meta：“Muse Spark 1.1 also excels in perceptio",
+          "note": "x.com"
+        },
+        {
+          "start": "11:01",
+          "end": "11:07",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Introducing a way to reflect on how you use Claude | Ada's N",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "11:07",
+          "end": "11:12",
+          "cat": "writing",
+          "src": "local",
+          "title": "2026-07-09-ust-claude.md",
+          "note": "2 hits"
+        },
+        {
+          "start": "11:12",
+          "end": "11:16",
+          "cat": "research",
+          "src": "chrome",
+          "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot ",
+          "note": "openai.com"
+        },
+        {
+          "start": "11:16",
+          "end": "11:24",
+          "cat": "research",
+          "src": "chrome",
+          "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot ",
+          "note": "openai.com"
+        },
+        {
+          "start": "11:24",
+          "end": "11:28",
+          "cat": "research",
+          "src": "chrome",
+          "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot ",
+          "note": "openai.com"
+        },
+        {
+          "start": "11:28",
+          "end": "11:32",
+          "cat": "research",
+          "src": "chrome",
+          "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot ",
+          "note": "openai.com"
+        },
+        {
+          "start": "11:32",
+          "end": "11:36",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "cluade.ai",
+          "note": "cluade.ai"
+        },
+        {
+          "start": "11:36",
+          "end": "11:47",
+          "cat": "writing",
+          "src": "chrome",
+          "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea",
+          "note": "overleaf.com"
+        },
+        {
+          "start": "11:48",
+          "end": "11:52",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Venues | OpenReview",
+          "note": "openreview.net"
+        },
+        {
+          "start": "11:52",
+          "end": "12:13",
+          "cat": "writing",
+          "src": "chrome",
+          "title": "Sign in - Google Accounts",
+          "note": "accounts.google.com"
+        },
+        {
+          "start": "12:13",
+          "end": "12:13",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "2025北海道滑雪 - Google My Maps",
+          "note": "google.com"
+        },
+        {
+          "start": "12:13",
+          "end": "12:17",
+          "cat": "writing",
+          "src": "chrome",
+          "title": "POLAR@EEUCA 2026 - Google Slides",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "12:17",
+          "end": "12:21",
+          "cat": "research",
+          "src": "chrome",
+          "title": "SafeTutors: Benchmarking Pedagogical Safety in AI Tutoring S",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "12:22",
+          "end": "12:51",
+          "cat": "research",
+          "src": "chrome",
+          "title": "SafeTutors: Benchmarking Pedagogical Safety in AI Tutoring S",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "13:51",
+          "end": "13:58",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "13:58",
+          "end": "14:16",
+          "cat": "research",
+          "src": "chrome",
+          "title": "ACL ARR 2026 May Authors | OpenReview",
+          "note": "url.au.m.mimecastprotect.com"
+        },
+        {
+          "start": "14:16",
+          "end": "14:33",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Spotify - Web Player: Music for everyone",
+          "note": "open.spotify.com"
+        },
+        {
+          "start": "15:25",
+          "end": "15:33",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:33",
+          "end": "15:34",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:37",
+          "end": "15:41",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:42",
+          "end": "15:53",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:53",
+          "end": "15:57",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:59",
+          "end": "16:07",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:07",
+          "end": "16:10",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · bench",
+          "note": "105 hits"
+        },
+        {
+          "start": "16:10",
+          "end": "16:47",
+          "cat": "writing",
+          "src": "chrome",
+          "title": "Application of AWS Student Builder Group Leader - Google Sli",
+          "note": "drive.google.com"
+        },
+        {
+          "start": "16:49",
+          "end": "17:09",
+          "cat": "writing",
+          "src": "chrome",
+          "title": "Application of AWS Student Builder Group Leader - Google Sli",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "18:50",
+          "end": "19:38",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(58) Field Guide to Fable — Thariq Shihipar, Anthropic - You",
+          "note": "youtube.com"
+        },
+        {
+          "start": "20:11",
+          "end": "20:21",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Inbox (2,631) - ada.ren.cn@gmail.com - Gmail",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "20:21",
+          "end": "20:53",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Meta-Harness: End-to-End Optimization of Model Harnesses",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "20:53",
+          "end": "21:08",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "lilian weng - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "21:08",
+          "end": "22:39",
+          "cat": "research",
+          "src": "chrome",
+          "title": "ScientistOne: Towards Human-Level Autonomous Research via Ch",
+          "note": "scholar.google.com"
         }
       ],
-      "logged": 22,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0.0,
+      "logged": 482,
+      "real": 351,
+      "deep": 351,
+      "ratio": 0.7273082053938612,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 3,
-        "longestFocus": "0m",
-        "justOneMoreThing": 0
+        "contextSwitches": 22,
+        "tabsOpened": 75,
+        "longestFocus": "1h 36m",
+        "justOneMoreThing": 4
       }
     },
     {
@@ -18058,16 +18595,25 @@
       "weekend": true,
       "dateShort": "Sat, Jul 11",
       "dateLong": "Saturday, July 11",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
+      "dayStart": "09:53",
+      "dayEnd": "10:13",
+      "events": [
+        {
+          "start": "09:53",
+          "end": "10:13",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Admission Docket | Macquarie University Sport and Aquatic Ce",
+          "note": "google.com"
+        }
+      ],
+      "logged": 20,
       "real": 0,
       "deep": 0,
-      "ratio": 0,
+      "ratio": 0.0,
       "stats": {
         "contextSwitches": 0,
-        "tabsOpened": 0,
+        "tabsOpened": 3,
         "longestFocus": "0m",
         "justOneMoreThing": 0
       }
