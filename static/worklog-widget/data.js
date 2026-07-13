@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-07-13T15:09:10+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-07-13T16:08:20+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -25719,950 +25719,1134 @@
         "weekend": false
       },
       {
-        "dateLong": "Friday, July 10",
-        "dateShort": "Fri, Jul 10",
-        "dayEnd": "22:39",
-        "dayNum": 10,
-        "dayStart": "10:17",
-        "deep": 351,
-        "dow": 5,
-        "events": [
-          {
-            "cat": "admin",
-            "end": "10:41",
-            "note": "accounts.google.com",
-            "src": "chrome",
-            "start": "10:17",
-            "title": "Inbox (2,636) - ada.ren.cn@gmail.com - Gmail"
-          },
-          {
-            "cat": "research",
-            "end": "10:52",
-            "note": "adaren100.github.io",
-            "src": "chrome",
-            "start": "10:42",
-            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
-          },
-          {
-            "cat": "personal",
-            "end": "11:01",
-            "note": "x.com",
-            "src": "chrome",
-            "start": "10:54",
-            "title": "(3) X 上的 AI at Meta：“Muse Spark 1.1 also excels in perceptio"
-          },
-          {
-            "cat": "research",
-            "end": "11:07",
-            "note": "adaren100.github.io",
-            "src": "chrome",
-            "start": "11:01",
-            "title": "Introducing a way to reflect on how you use Claude | Ada's N"
-          },
-          {
-            "cat": "writing",
-            "end": "11:12",
-            "note": "2 hits",
-            "src": "local",
-            "start": "11:07",
-            "title": "2026-07-09-ust-claude.md"
-          },
-          {
-            "cat": "research",
-            "end": "11:16",
-            "note": "openai.com",
-            "src": "chrome",
-            "start": "11:12",
-            "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot "
-          },
-          {
-            "cat": "research",
-            "end": "11:24",
-            "note": "openai.com",
-            "src": "chrome",
-            "start": "11:16",
-            "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot "
-          },
-          {
-            "cat": "research",
-            "end": "11:28",
-            "note": "openai.com",
-            "src": "chrome",
-            "start": "11:24",
-            "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot "
-          },
-          {
-            "cat": "research",
-            "end": "11:32",
-            "note": "openai.com",
-            "src": "chrome",
-            "start": "11:28",
-            "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot "
-          },
-          {
-            "cat": "personal",
-            "end": "11:36",
-            "note": "cluade.ai",
-            "src": "chrome",
-            "start": "11:32",
-            "title": "cluade.ai"
-          },
-          {
-            "cat": "writing",
-            "end": "11:47",
-            "note": "overleaf.com",
-            "src": "chrome",
-            "start": "11:36",
-            "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea"
-          },
-          {
-            "cat": "research",
-            "end": "11:52",
-            "note": "openreview.net",
-            "src": "chrome",
-            "start": "11:48",
-            "title": "Venues | OpenReview"
-          },
-          {
-            "cat": "writing",
-            "end": "12:13",
-            "note": "accounts.google.com",
-            "src": "chrome",
-            "start": "11:52",
-            "title": "Sign in - Google Accounts"
-          },
-          {
-            "cat": "personal",
-            "end": "12:13",
-            "note": "google.com",
-            "src": "chrome",
-            "start": "12:13",
-            "title": "2025北海道滑雪 - Google My Maps"
-          },
-          {
-            "cat": "writing",
-            "end": "12:17",
-            "note": "docs.google.com",
-            "src": "chrome",
-            "start": "12:13",
-            "title": "POLAR@EEUCA 2026 - Google Slides"
-          },
-          {
-            "cat": "research",
-            "end": "12:21",
-            "note": "arxiv.org",
-            "src": "chrome",
-            "start": "12:17",
-            "title": "SafeTutors: Benchmarking Pedagogical Safety in AI Tutoring S"
-          },
-          {
-            "cat": "research",
-            "end": "12:51",
-            "note": "arxiv.org",
-            "src": "chrome",
-            "start": "12:22",
-            "title": "SafeTutors: Benchmarking Pedagogical Safety in AI Tutoring S"
-          },
-          {
-            "cat": "admin",
-            "end": "13:58",
-            "note": "com.microsoft.Outlook",
-            "src": "macos",
-            "start": "13:51",
-            "title": "Outlook"
-          },
-          {
-            "cat": "research",
-            "end": "14:16",
-            "note": "url.au.m.mimecastprotect.com",
-            "src": "chrome",
-            "start": "13:58",
-            "title": "ACL ARR 2026 May Authors | OpenReview"
-          },
-          {
-            "cat": "personal",
-            "end": "14:33",
-            "note": "open.spotify.com",
-            "src": "chrome",
-            "start": "14:16",
-            "title": "Spotify - Web Player: Music for everyone"
-          },
-          {
-            "cat": "coding",
-            "end": "15:33",
-            "note": "com.microsoft.VSCode",
-            "src": "macos",
-            "start": "15:25",
-            "title": "VSCode"
-          },
-          {
-            "cat": "coding",
-            "end": "15:34",
-            "note": "com.microsoft.VSCode",
-            "src": "macos",
-            "start": "15:33",
-            "title": "VSCode"
-          },
-          {
-            "cat": "coding",
-            "end": "15:41",
-            "note": "com.microsoft.VSCode",
-            "src": "macos",
-            "start": "15:37",
-            "title": "VSCode"
-          },
-          {
-            "cat": "coding",
-            "end": "15:53",
-            "note": "com.microsoft.VSCode",
-            "src": "macos",
-            "start": "15:42",
-            "title": "VSCode"
-          },
-          {
-            "cat": "coding",
-            "end": "15:57",
-            "note": "com.microsoft.VSCode",
-            "src": "macos",
-            "start": "15:53",
-            "title": "VSCode"
-          },
-          {
-            "cat": "coding",
-            "end": "16:07",
-            "note": "com.microsoft.VSCode",
-            "src": "macos",
-            "start": "15:59",
-            "title": "VSCode"
-          },
-          {
-            "cat": "coding",
-            "end": "16:10",
-            "note": "105 hits",
-            "src": "claude",
-            "start": "16:07",
-            "title": "Claude session · bench"
-          },
-          {
-            "cat": "writing",
-            "end": "16:47",
-            "note": "drive.google.com",
-            "src": "chrome",
-            "start": "16:10",
-            "title": "Application of AWS Student Builder Group Leader - Google Sli"
-          },
-          {
-            "cat": "writing",
-            "end": "17:09",
-            "note": "docs.google.com",
-            "src": "chrome",
-            "start": "16:49",
-            "title": "Application of AWS Student Builder Group Leader - Google Sli"
-          },
-          {
-            "cat": "personal",
-            "end": "19:38",
-            "note": "youtube.com",
-            "src": "chrome",
-            "start": "18:50",
-            "title": "(58) Field Guide to Fable — Thariq Shihipar, Anthropic - You"
-          },
-          {
-            "cat": "admin",
-            "end": "20:21",
-            "note": "mail.google.com",
-            "src": "chrome",
-            "start": "20:11",
-            "title": "Inbox (2,636) - ada.ren.cn@gmail.com - Gmail"
-          },
-          {
-            "cat": "research",
-            "end": "20:53",
-            "note": "arxiv.org",
-            "src": "chrome",
-            "start": "20:21",
-            "title": "Meta-Harness: End-to-End Optimization of Model Harnesses"
-          },
-          {
-            "cat": "personal",
-            "end": "21:08",
-            "note": "google.com",
-            "src": "chrome",
-            "start": "20:53",
-            "title": "lilian weng - Google Search"
-          },
-          {
-            "cat": "research",
-            "end": "22:39",
-            "note": "scholar.google.com",
-            "src": "chrome",
-            "start": "21:08",
-            "title": "ScientistOne: Towards Human-Level Autonomous Research via Ch"
-          }
-        ],
         "key": "2026-7-10",
-        "logged": 482,
-        "ratio": 0.7273082053938612,
-        "real": 351,
-        "stats": {
-          "contextSwitches": 22,
-          "justOneMoreThing": 4,
-          "longestFocus": "1h 36m",
-          "tabsOpened": 75
-        },
-        "weekend": false
-      },
-      {
-        "key": "2026-7-11",
-        "dayNum": 11,
-        "dow": 6,
-        "weekend": true,
-        "dateShort": "Sat, Jul 11",
-        "dateLong": "Saturday, July 11",
-        "dayStart": "09:53",
-        "dayEnd": "23:37",
+        "dayNum": 10,
+        "dow": 5,
+        "weekend": false,
+        "dateShort": "Fri, Jul 10",
+        "dateLong": "Friday, July 10",
+        "dayStart": "10:17",
+        "dayEnd": "22:39",
         "events": [
           {
-            "start": "09:53",
-            "end": "10:13",
-            "cat": "personal",
+            "start": "10:17",
+            "end": "10:21",
+            "cat": "admin",
             "src": "chrome",
-            "title": "Admission Docket | Macquarie University Sport and Aquatic Ce",
+            "title": "Inbox (2,636) - ada.ren.cn@gmail.com - Gmail",
+            "note": "accounts.google.com"
+          },
+          {
+            "start": "10:21",
+            "end": "10:41",
+            "cat": "admin",
+            "src": "macos",
+            "title": "设置住址",
+            "note": "gds.google.com"
+          },
+          {
+            "start": "10:42",
+            "end": "10:52",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "10:54",
+            "end": "11:01",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(3) Josh Woodward (@joshwoodward) / X",
+            "note": "x.com"
+          },
+          {
+            "start": "11:01",
+            "end": "11:07",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Introducing a way to reflect on how you use Claude | Ada's N",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "11:07",
+            "end": "11:10",
+            "cat": "writing",
+            "src": "local",
+            "title": "2026-07-09-ust-claude.md",
+            "note": "2 hits"
+          },
+          {
+            "start": "11:10",
+            "end": "11:11",
+            "cat": "research",
+            "src": "macos",
+            "title": "Ben Bernanke appointed to Anthropic's Long-Term Benefit Trus",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "11:11",
+            "end": "11:12",
+            "cat": "personal",
+            "src": "macos",
+            "title": "ben bernanke - Google Search",
             "note": "google.com"
           },
           {
-            "start": "16:19",
-            "end": "16:21",
-            "cat": "admin",
-            "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "start": "11:12",
+            "end": "11:16",
+            "cat": "research",
+            "src": "chrome",
+            "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot ",
+            "note": "openai.com"
           },
           {
-            "start": "16:21",
-            "end": "16:42",
+            "start": "11:16",
+            "end": "11:24",
+            "cat": "research",
+            "src": "chrome",
+            "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot ",
+            "note": "openai.com"
+          },
+          {
+            "start": "11:24",
+            "end": "11:25",
+            "cat": "personal",
+            "src": "macos",
+            "title": "主页 / X",
+            "note": "x.com"
+          },
+          {
+            "start": "11:26",
+            "end": "11:28",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(3) claude reset - 搜索 / X",
+            "note": "x.com"
+          },
+          {
+            "start": "11:28",
+            "end": "11:30",
             "cat": "writing",
             "src": "macos",
-            "title": "Application of AWS Student Builder Group Leader - Google Sli",
-            "note": "docs.google.com"
+            "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea",
+            "note": "overleaf.com"
           },
           {
-            "start": "16:44",
-            "end": "16:52",
+            "start": "11:30",
+            "end": "11:32",
             "cat": "research",
             "src": "chrome",
-            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+            "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot ",
+            "note": "openai.com"
+          },
+          {
+            "start": "11:32",
+            "end": "11:36",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "cluade.ai",
+            "note": "cluade.ai"
+          },
+          {
+            "start": "11:36",
+            "end": "11:47",
+            "cat": "writing",
+            "src": "chrome",
+            "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea",
+            "note": "overleaf.com"
+          },
+          {
+            "start": "11:48",
+            "end": "11:52",
+            "cat": "research",
+            "src": "macos",
+            "title": "Venues | OpenReview",
             "note": "openreview.net"
           },
           {
-            "start": "16:52",
-            "end": "16:53",
-            "cat": "research",
+            "start": "11:52",
+            "end": "12:06",
+            "cat": "writing",
             "src": "chrome",
-            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-            "note": "openreview.net"
+            "title": "Sign in - Google Accounts",
+            "note": "accounts.google.com"
           },
           {
-            "start": "16:53",
-            "end": "16:54",
-            "cat": "admin",
+            "start": "12:06",
+            "end": "12:08",
+            "cat": "coding",
             "src": "macos",
-            "title": "Feed | LinkedIn",
-            "note": "linkedin.com"
+            "title": "SafeTutors/chem_multi_combined.jsonl at main · RadiantCrysta",
+            "note": "github.com"
           },
           {
-            "start": "16:54",
-            "end": "17:04",
-            "cat": "research",
-            "src": "chrome",
-            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-            "note": "openreview.net"
-          },
-          {
-            "start": "17:05",
-            "end": "17:11",
-            "cat": "admin",
-            "src": "claude",
-            "title": "PhD worklog review",
-            "note": "50 hits"
-          },
-          {
-            "start": "17:11",
-            "end": "17:12",
-            "cat": "admin",
-            "src": "claude",
-            "title": "PhD worklog review",
-            "note": "50 hits"
-          },
-          {
-            "start": "17:12",
-            "end": "17:17",
-            "cat": "admin",
-            "src": "claude",
-            "title": "PhD worklog review",
-            "note": "50 hits"
-          },
-          {
-            "start": "17:17",
-            "end": "17:21",
-            "cat": "research",
-            "src": "chrome",
-            "title": "Where the time actually went | Ada's Notes",
-            "note": "adaren100.github.io"
-          },
-          {
-            "start": "17:21",
-            "end": "17:26",
-            "cat": "admin",
-            "src": "claude",
-            "title": "PhD worklog review",
-            "note": "5 hits"
-          },
-          {
-            "start": "17:27",
-            "end": "17:32",
-            "cat": "personal",
-            "src": "chrome",
-            "title": "(4) X 上的 Sebastian Raschka：“For agentic coding, one can say:",
-            "note": "x.com"
-          },
-          {
-            "start": "17:32",
-            "end": "17:33",
+            "start": "12:08",
+            "end": "12:21",
             "cat": "research",
             "src": "macos",
-            "title": "Where the time actually went | Ada's Notes",
-            "note": "adaren100.github.io"
-          },
-          {
-            "start": "17:33",
-            "end": "18:02",
-            "cat": "admin",
-            "src": "claude",
-            "title": "PhD worklog review",
-            "note": "172 hits"
-          },
-          {
-            "start": "18:02",
-            "end": "18:09",
-            "cat": "research",
-            "src": "chrome",
-            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-            "note": "adaren100.github.io"
-          },
-          {
-            "start": "18:09",
-            "end": "18:13",
-            "cat": "admin",
-            "src": "claude",
-            "title": "PhD worklog review",
-            "note": "15 hits"
-          },
-          {
-            "start": "18:13",
-            "end": "18:21",
-            "cat": "research",
-            "src": "macos",
-            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-            "note": "openreview.net"
-          },
-          {
-            "start": "18:21",
-            "end": "18:26",
-            "cat": "admin",
-            "src": "claude",
-            "title": "PhD worklog review",
-            "note": "23 hits"
-          },
-          {
-            "start": "18:26",
-            "end": "18:29",
-            "cat": "research",
-            "src": "chrome",
-            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-            "note": "adaren100.github.io"
-          },
-          {
-            "start": "18:29",
-            "end": "18:30",
-            "cat": "admin",
-            "src": "claude",
-            "title": "PhD worklog review",
-            "note": "142 hits"
-          },
-          {
-            "start": "18:30",
-            "end": "18:35",
-            "cat": "admin",
-            "src": "claude",
-            "title": "PhD worklog review",
-            "note": "142 hits"
-          },
-          {
-            "start": "18:35",
-            "end": "18:55",
-            "cat": "admin",
-            "src": "claude",
-            "title": "PhD worklog review",
-            "note": "142 hits"
-          },
-          {
-            "start": "18:55",
-            "end": "19:00",
-            "cat": "admin",
-            "src": "claude",
-            "title": "PhD worklog review",
-            "note": "142 hits"
-          },
-          {
-            "start": "19:00",
-            "end": "19:01",
-            "cat": "personal",
-            "src": "macos",
-            "title": "(4) X 上的 Sebastian Raschka：“For agentic coding, one can say:",
-            "note": "x.com"
-          },
-          {
-            "start": "19:05",
-            "end": "19:12",
-            "cat": "personal",
-            "src": "macos",
-            "title": "(4) X 上的 Sebastian Raschka：“For agentic coding, one can say:",
-            "note": "x.com"
-          },
-          {
-            "start": "19:15",
-            "end": "19:44",
-            "cat": "personal",
-            "src": "macos",
-            "title": "(4) X 上的 Sebastian Raschka：“For agentic coding, one can say:",
-            "note": "x.com"
-          },
-          {
-            "start": "20:48",
-            "end": "20:51",
-            "cat": "personal",
-            "src": "macos",
-            "title": "(4) X 上的 Sebastian Raschka：“For agentic coding, one can say:",
-            "note": "x.com"
-          },
-          {
-            "start": "20:51",
-            "end": "21:12",
-            "cat": "research",
-            "src": "macos",
-            "title": "Tutor, Not Solver: Designing a Guardrailed AI Assistant for ",
+            "title": "SafeTutors: Benchmarking Pedagogical Safety in AI Tutoring S",
             "note": "arxiv.org"
           },
           {
-            "start": "21:12",
-            "end": "21:22",
-            "cat": "personal",
+            "start": "12:21",
+            "end": "12:22",
+            "cat": "coding",
             "src": "macos",
-            "title": "Mathematics Mock Quiz",
-            "note": "iridescent-smakager-d5ee12.netlify.app"
+            "title": "RadiantCrystal/SafeTutors",
+            "note": "github.com"
           },
           {
-            "start": "21:23",
-            "end": "21:43",
-            "cat": "research",
-            "src": "chrome",
-            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-            "note": "openreview.net"
-          },
-          {
-            "start": "22:20",
-            "end": "22:57",
+            "start": "12:22",
+            "end": "12:28",
             "cat": "research",
             "src": "macos",
-            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-            "note": "openreview.net"
+            "title": "SafeTutors: Benchmarking Pedagogical Safety in AI Tutoring S",
+            "note": "arxiv.org"
           },
           {
-            "start": "23:04",
-            "end": "23:07",
+            "start": "12:29",
+            "end": "12:51",
             "cat": "research",
             "src": "macos",
-            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-            "note": "openreview.net"
+            "title": "SafeTutors: Benchmarking Pedagogical Safety in AI Tutoring S",
+            "note": "arxiv.org"
           },
           {
-            "start": "23:11",
-            "end": "23:16",
-            "cat": "research",
-            "src": "macos",
-            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-            "note": "openreview.net"
-          },
-          {
-            "start": "23:16",
-            "end": "23:19",
+            "start": "13:51",
+            "end": "13:58",
             "cat": "admin",
             "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
           },
           {
-            "start": "23:19",
-            "end": "23:37",
-            "cat": "research",
-            "src": "chrome",
-            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-            "note": "openreview.net"
-          }
-        ],
-        "logged": 334,
-        "real": 167,
-        "deep": 167,
-        "ratio": 0.5013437849774166,
-        "stats": {
-          "contextSwitches": 23,
-          "tabsOpened": 30,
-          "longestFocus": "1h 6m",
-          "justOneMoreThing": 4
-        }
-      },
-      {
-        "key": "2026-7-12",
-        "dayNum": 12,
-        "dow": 0,
-        "weekend": true,
-        "dateShort": "Sun, Jul 12",
-        "dateLong": "Sunday, July 12",
-        "dayStart": "15:23",
-        "dayEnd": "23:25",
-        "events": [
-          {
-            "start": "15:23",
-            "end": "15:25",
-            "cat": "admin",
-            "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
-          },
-          {
-            "start": "15:27",
-            "end": "15:28",
-            "cat": "research",
-            "src": "macos",
-            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-            "note": "openreview.net"
-          },
-          {
-            "start": "15:29",
-            "end": "15:33",
+            "start": "13:58",
+            "end": "14:00",
             "cat": "writing",
             "src": "macos",
             "title": "Ada_Threats Rebuttel - Google Docs",
             "note": "docs.google.com"
           },
           {
-            "start": "15:34",
-            "end": "15:35",
-            "cat": "personal",
-            "src": "macos",
-            "title": "Group Sessions | Macquarie University Sport and Aquatic Cent",
-            "note": "musac.jonasleisure.com.au"
-          },
-          {
-            "start": "15:35",
-            "end": "15:40",
-            "cat": "admin",
-            "src": "macos",
-            "title": "Google Translate",
-            "note": "translate.google.com"
-          },
-          {
-            "start": "15:41",
-            "end": "15:44",
-            "cat": "personal",
-            "src": "macos",
-            "title": "Spotify - Web Player: Music for everyone",
-            "note": "open.spotify.com"
-          },
-          {
-            "start": "15:44",
-            "end": "15:47",
-            "cat": "admin",
-            "src": "claude",
-            "title": "PhD worklog review",
-            "note": "23 hits"
-          },
-          {
-            "start": "15:47",
-            "end": "15:50",
-            "cat": "personal",
-            "src": "macos",
-            "title": "Spotify - Web Player: Music for everyone",
-            "note": "open.spotify.com"
-          },
-          {
-            "start": "15:50",
-            "end": "16:01",
-            "cat": "personal",
-            "src": "macos",
-            "title": "Spotify - Web Player: Music for everyone",
-            "note": "open.spotify.com"
-          },
-          {
-            "start": "16:13",
-            "end": "16:18",
-            "cat": "personal",
-            "src": "macos",
-            "title": "Spotify - Web Player: Music for everyone",
-            "note": "open.spotify.com"
-          },
-          {
-            "start": "16:20",
-            "end": "16:37",
-            "cat": "personal",
-            "src": "macos",
-            "title": "Spotify - Web Player: Music for everyone",
-            "note": "open.spotify.com"
-          },
-          {
-            "start": "16:40",
-            "end": "16:47",
-            "cat": "personal",
-            "src": "macos",
-            "title": "Spotify - Web Player: Music for everyone",
-            "note": "open.spotify.com"
-          },
-          {
-            "start": "16:47",
-            "end": "16:51",
-            "cat": "coding",
-            "src": "local",
-            "title": "stats_wilson_mcnemar.py",
-            "note": "1 hit"
-          },
-          {
-            "start": "16:56",
-            "end": "17:00",
-            "cat": "personal",
-            "src": "macos",
-            "title": "Spotify - Web Player: Music for everyone",
-            "note": "open.spotify.com"
-          },
-          {
-            "start": "17:00",
-            "end": "17:09",
-            "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
-          },
-          {
-            "start": "17:09",
-            "end": "17:11",
+            "start": "14:00",
+            "end": "14:02",
             "cat": "writing",
-            "src": "local",
-            "title": "stats_table.md",
-            "note": "2 hits"
-          },
-          {
-            "start": "17:11",
-            "end": "17:13",
-            "cat": "coding",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "title": "Ada_Threats Rebuttel - Google Docs",
+            "note": "docs.google.com"
           },
           {
-            "start": "17:13",
-            "end": "17:26",
+            "start": "14:02",
+            "end": "14:04",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Ada_Threats Rebuttel - Google Docs",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "14:04",
+            "end": "14:06",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Ada_Threats Rebuttel - Google Docs",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "14:06",
+            "end": "14:13",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Ada_Threats Rebuttel - Google Docs",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "14:13",
+            "end": "14:43",
             "cat": "personal",
             "src": "macos",
             "title": "Spotify - Web Player: Music for everyone",
             "note": "open.spotify.com"
           },
           {
-            "start": "17:30",
-            "end": "17:36",
+            "start": "14:46",
+            "end": "14:51",
             "cat": "personal",
             "src": "macos",
             "title": "Spotify - Web Player: Music for everyone",
             "note": "open.spotify.com"
           },
           {
-            "start": "17:37",
-            "end": "17:43",
-            "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
-          },
-          {
-            "start": "19:12",
-            "end": "19:21",
+            "start": "14:53",
+            "end": "15:00",
             "cat": "personal",
             "src": "macos",
             "title": "Spotify - Web Player: Music for everyone",
             "note": "open.spotify.com"
           },
           {
-            "start": "19:21",
-            "end": "19:32",
-            "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
-          },
-          {
-            "start": "19:32",
-            "end": "19:35",
+            "start": "15:03",
+            "end": "15:25",
             "cat": "personal",
             "src": "macos",
             "title": "Spotify - Web Player: Music for everyone",
             "note": "open.spotify.com"
           },
           {
-            "start": "19:35",
-            "end": "19:44",
+            "start": "15:25",
+            "end": "15:33",
             "cat": "coding",
             "src": "macos",
             "title": "VSCode",
             "note": "com.microsoft.VSCode"
           },
           {
-            "start": "19:44",
-            "end": "19:48",
+            "start": "15:33",
+            "end": "15:34",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:34",
+            "end": "15:37",
             "cat": "personal",
             "src": "macos",
             "title": "Spotify - Web Player: Music for everyone",
             "note": "open.spotify.com"
           },
           {
-            "start": "19:48",
-            "end": "19:51",
+            "start": "15:37",
+            "end": "15:41",
             "cat": "coding",
             "src": "macos",
             "title": "VSCode",
             "note": "com.microsoft.VSCode"
           },
           {
-            "start": "19:51",
-            "end": "19:58",
+            "start": "15:42",
+            "end": "15:53",
             "cat": "coding",
             "src": "macos",
             "title": "VSCode",
             "note": "com.microsoft.VSCode"
           },
           {
-            "start": "19:59",
-            "end": "20:01",
+            "start": "15:53",
+            "end": "15:57",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:57",
+            "end": "15:59",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Spotify - Web Player: Music for everyone",
+            "note": "open.spotify.com"
+          },
+          {
+            "start": "15:59",
+            "end": "16:07",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:07",
+            "end": "16:10",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · bench",
+            "note": "105 hits"
+          },
+          {
+            "start": "16:10",
+            "end": "16:41",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Application of AWS Student Builder Group Leader - Google Sli",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "16:41",
+            "end": "16:47",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Application of AWS Student Builder Group Leader - Google Sli",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "16:48",
+            "end": "16:49",
             "cat": "research",
             "src": "macos",
-            "title": "AI Digest — July 12, 2026 | Ada's Notes",
+            "title": "Ada's Notes",
             "note": "adaren100.github.io"
           },
           {
-            "start": "20:01",
-            "end": "20:04",
+            "start": "16:49",
+            "end": "17:09",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Application of AWS Student Builder Group Leader - Google Sli",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "18:50",
+            "end": "18:51",
             "cat": "personal",
-            "src": "chrome",
-            "title": "X 上的 Elon Musk：“He takes scamming to a whole new level” / X",
-            "note": "x.com"
-          },
-          {
-            "start": "20:04",
-            "end": "20:09",
-            "cat": "research",
             "src": "macos",
-            "title": "How Deutsche Telekom is rewiring telecommunications with AI ",
-            "note": "adaren100.github.io"
+            "title": "(58) YouTube",
+            "note": "youtube.com"
           },
           {
-            "start": "20:09",
-            "end": "20:26",
-            "cat": "coding",
+            "start": "18:51",
+            "end": "18:53",
+            "cat": "personal",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "title": "(58) Making New York City miniature with Claude - YouTube",
+            "note": "youtube.com"
           },
           {
-            "start": "20:36",
-            "end": "20:42",
-            "cat": "research",
+            "start": "18:53",
+            "end": "19:46",
+            "cat": "personal",
             "src": "macos",
-            "title": "Where the time actually went | Ada's Notes",
-            "note": "adaren100.github.io"
+            "title": "(58) DoorDash gave every employee Claude Code - YouTube",
+            "note": "youtube.com"
           },
           {
-            "start": "20:42",
-            "end": "20:48",
-            "cat": "coding",
+            "start": "20:02",
+            "end": "20:11",
+            "cat": "personal",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "title": "(58) Field Guide to Fable — Thariq Shihipar, Anthropic - You",
+            "note": "youtube.com"
           },
           {
-            "start": "20:48",
+            "start": "20:11",
+            "end": "20:21",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Inbox (2,634) - ada.ren.cn@gmail.com - Gmail",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "20:21",
             "end": "20:53",
             "cat": "research",
             "src": "macos",
-            "title": "Where the time actually went | Ada's Notes",
-            "note": "adaren100.github.io"
+            "title": "Meta-Harness: End-to-End Optimization of Model Harnesses",
+            "note": "arxiv.org"
           },
           {
-            "start": "20:56",
-            "end": "21:26",
+            "start": "20:53",
+            "end": "21:08",
+            "cat": "personal",
+            "src": "macos",
+            "title": "lilian weng - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "21:08",
+            "end": "21:21",
+            "cat": "research",
+            "src": "chrome",
+            "title": "ScientistOne: Towards Human-Level Autonomous Research via Ch",
+            "note": "scholar.google.com"
+          },
+          {
+            "start": "21:22",
+            "end": "21:23",
             "cat": "research",
             "src": "macos",
-            "title": "Where the time actually went | Ada's Notes",
-            "note": "adaren100.github.io"
+            "title": "Harness Engineering for Self-Improvement | Lil'Log",
+            "note": "lilianweng.github.io"
           },
           {
-            "start": "21:26",
-            "end": "21:29",
-            "cat": "coding",
-            "src": "local",
-            "title": "verify_submit_labels.py",
-            "note": "1 hit"
-          },
-          {
-            "start": "21:38",
-            "end": "21:40",
+            "start": "21:23",
+            "end": "22:19",
             "cat": "research",
             "src": "macos",
-            "title": "ChatGPT",
-            "note": "chatgpt.com"
+            "title": "2410.10762",
+            "note": "arxiv.org"
           },
           {
-            "start": "21:40",
-            "end": "22:00",
-            "cat": "admin",
+            "start": "22:19",
+            "end": "22:39",
+            "cat": "research",
             "src": "macos",
-            "title": "Google Translate",
-            "note": "translate.google.com"
-          },
-          {
-            "start": "22:11",
-            "end": "22:26",
-            "cat": "admin",
-            "src": "macos",
-            "title": "Google Translate",
-            "note": "translate.google.com"
-          },
-          {
-            "start": "23:19",
-            "end": "23:25",
-            "cat": "admin",
-            "src": "macos",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "title": "SIA: Self Improving AI with Harness     Weight Updates",
+            "note": "arxiv.org"
           }
         ],
-        "logged": 275,
-        "real": 136,
+        "logged": 548,
+        "real": 345,
+        "deep": 345,
+        "ratio": 0.628435660307328,
+        "stats": {
+          "contextSwitches": 34,
+          "tabsOpened": 30,
+          "longestFocus": "1h 30m",
+          "justOneMoreThing": 6
+        }
+      },
+      {
+        "dateLong": "Saturday, July 11",
+        "dateShort": "Sat, Jul 11",
+        "dayEnd": "23:37",
+        "dayNum": 11,
+        "dayStart": "09:53",
+        "deep": 167,
+        "dow": 6,
+        "events": [
+          {
+            "cat": "personal",
+            "end": "10:13",
+            "note": "google.com",
+            "src": "chrome",
+            "start": "09:53",
+            "title": "Admission Docket | Macquarie University Sport and Aquatic Ce"
+          },
+          {
+            "cat": "admin",
+            "end": "16:21",
+            "note": "com.tinyspeck.slackmacgap",
+            "src": "macos",
+            "start": "16:19",
+            "title": "slackmacgap"
+          },
+          {
+            "cat": "writing",
+            "end": "16:42",
+            "note": "docs.google.com",
+            "src": "macos",
+            "start": "16:21",
+            "title": "Application of AWS Student Builder Group Leader - Google Sli"
+          },
+          {
+            "cat": "research",
+            "end": "16:52",
+            "note": "openreview.net",
+            "src": "chrome",
+            "start": "16:44",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
+          },
+          {
+            "cat": "research",
+            "end": "16:53",
+            "note": "openreview.net",
+            "src": "chrome",
+            "start": "16:52",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
+          },
+          {
+            "cat": "admin",
+            "end": "16:54",
+            "note": "linkedin.com",
+            "src": "macos",
+            "start": "16:53",
+            "title": "Feed | LinkedIn"
+          },
+          {
+            "cat": "research",
+            "end": "17:04",
+            "note": "openreview.net",
+            "src": "chrome",
+            "start": "16:54",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
+          },
+          {
+            "cat": "admin",
+            "end": "17:11",
+            "note": "50 hits",
+            "src": "claude",
+            "start": "17:05",
+            "title": "PhD worklog review"
+          },
+          {
+            "cat": "admin",
+            "end": "17:12",
+            "note": "50 hits",
+            "src": "claude",
+            "start": "17:11",
+            "title": "PhD worklog review"
+          },
+          {
+            "cat": "admin",
+            "end": "17:17",
+            "note": "50 hits",
+            "src": "claude",
+            "start": "17:12",
+            "title": "PhD worklog review"
+          },
+          {
+            "cat": "research",
+            "end": "17:21",
+            "note": "adaren100.github.io",
+            "src": "chrome",
+            "start": "17:17",
+            "title": "Where the time actually went | Ada's Notes"
+          },
+          {
+            "cat": "admin",
+            "end": "17:26",
+            "note": "5 hits",
+            "src": "claude",
+            "start": "17:21",
+            "title": "PhD worklog review"
+          },
+          {
+            "cat": "personal",
+            "end": "17:32",
+            "note": "x.com",
+            "src": "chrome",
+            "start": "17:27",
+            "title": "(4) X 上的 Sebastian Raschka：“For agentic coding, one can say:"
+          },
+          {
+            "cat": "research",
+            "end": "17:33",
+            "note": "adaren100.github.io",
+            "src": "macos",
+            "start": "17:32",
+            "title": "Where the time actually went | Ada's Notes"
+          },
+          {
+            "cat": "admin",
+            "end": "18:02",
+            "note": "172 hits",
+            "src": "claude",
+            "start": "17:33",
+            "title": "PhD worklog review"
+          },
+          {
+            "cat": "research",
+            "end": "18:09",
+            "note": "adaren100.github.io",
+            "src": "chrome",
+            "start": "18:02",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
+          },
+          {
+            "cat": "admin",
+            "end": "18:13",
+            "note": "15 hits",
+            "src": "claude",
+            "start": "18:09",
+            "title": "PhD worklog review"
+          },
+          {
+            "cat": "research",
+            "end": "18:21",
+            "note": "openreview.net",
+            "src": "macos",
+            "start": "18:13",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
+          },
+          {
+            "cat": "admin",
+            "end": "18:26",
+            "note": "23 hits",
+            "src": "claude",
+            "start": "18:21",
+            "title": "PhD worklog review"
+          },
+          {
+            "cat": "research",
+            "end": "18:29",
+            "note": "adaren100.github.io",
+            "src": "chrome",
+            "start": "18:26",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
+          },
+          {
+            "cat": "admin",
+            "end": "18:30",
+            "note": "142 hits",
+            "src": "claude",
+            "start": "18:29",
+            "title": "PhD worklog review"
+          },
+          {
+            "cat": "admin",
+            "end": "18:35",
+            "note": "142 hits",
+            "src": "claude",
+            "start": "18:30",
+            "title": "PhD worklog review"
+          },
+          {
+            "cat": "admin",
+            "end": "18:55",
+            "note": "142 hits",
+            "src": "claude",
+            "start": "18:35",
+            "title": "PhD worklog review"
+          },
+          {
+            "cat": "admin",
+            "end": "19:00",
+            "note": "142 hits",
+            "src": "claude",
+            "start": "18:55",
+            "title": "PhD worklog review"
+          },
+          {
+            "cat": "personal",
+            "end": "19:01",
+            "note": "x.com",
+            "src": "macos",
+            "start": "19:00",
+            "title": "(4) X 上的 Sebastian Raschka：“For agentic coding, one can say:"
+          },
+          {
+            "cat": "personal",
+            "end": "19:12",
+            "note": "x.com",
+            "src": "macos",
+            "start": "19:05",
+            "title": "(4) X 上的 Sebastian Raschka：“For agentic coding, one can say:"
+          },
+          {
+            "cat": "personal",
+            "end": "19:44",
+            "note": "x.com",
+            "src": "macos",
+            "start": "19:15",
+            "title": "(4) X 上的 Sebastian Raschka：“For agentic coding, one can say:"
+          },
+          {
+            "cat": "personal",
+            "end": "20:51",
+            "note": "x.com",
+            "src": "macos",
+            "start": "20:48",
+            "title": "(4) X 上的 Sebastian Raschka：“For agentic coding, one can say:"
+          },
+          {
+            "cat": "research",
+            "end": "21:12",
+            "note": "arxiv.org",
+            "src": "macos",
+            "start": "20:51",
+            "title": "Tutor, Not Solver: Designing a Guardrailed AI Assistant for "
+          },
+          {
+            "cat": "personal",
+            "end": "21:22",
+            "note": "iridescent-smakager-d5ee12.netlify.app",
+            "src": "macos",
+            "start": "21:12",
+            "title": "Mathematics Mock Quiz"
+          },
+          {
+            "cat": "research",
+            "end": "21:43",
+            "note": "openreview.net",
+            "src": "chrome",
+            "start": "21:23",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
+          },
+          {
+            "cat": "research",
+            "end": "22:57",
+            "note": "openreview.net",
+            "src": "macos",
+            "start": "22:20",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
+          },
+          {
+            "cat": "research",
+            "end": "23:07",
+            "note": "openreview.net",
+            "src": "macos",
+            "start": "23:04",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
+          },
+          {
+            "cat": "research",
+            "end": "23:16",
+            "note": "openreview.net",
+            "src": "macos",
+            "start": "23:11",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
+          },
+          {
+            "cat": "admin",
+            "end": "23:19",
+            "note": "com.tinyspeck.slackmacgap",
+            "src": "macos",
+            "start": "23:16",
+            "title": "slackmacgap"
+          },
+          {
+            "cat": "research",
+            "end": "23:37",
+            "note": "openreview.net",
+            "src": "chrome",
+            "start": "23:19",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
+          }
+        ],
+        "key": "2026-7-11",
+        "logged": 334,
+        "ratio": 0.5013437849774166,
+        "real": 167,
+        "stats": {
+          "contextSwitches": 23,
+          "justOneMoreThing": 4,
+          "longestFocus": "1h 6m",
+          "tabsOpened": 30
+        },
+        "weekend": true
+      },
+      {
+        "dateLong": "Sunday, July 12",
+        "dateShort": "Sun, Jul 12",
+        "dayEnd": "23:25",
+        "dayNum": 12,
+        "dayStart": "15:23",
         "deep": 136,
+        "dow": 0,
+        "events": [
+          {
+            "cat": "admin",
+            "end": "15:25",
+            "note": "com.tinyspeck.slackmacgap",
+            "src": "macos",
+            "start": "15:23",
+            "title": "slackmacgap"
+          },
+          {
+            "cat": "research",
+            "end": "15:28",
+            "note": "openreview.net",
+            "src": "macos",
+            "start": "15:27",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
+          },
+          {
+            "cat": "writing",
+            "end": "15:33",
+            "note": "docs.google.com",
+            "src": "macos",
+            "start": "15:29",
+            "title": "Ada_Threats Rebuttel - Google Docs"
+          },
+          {
+            "cat": "personal",
+            "end": "15:35",
+            "note": "musac.jonasleisure.com.au",
+            "src": "macos",
+            "start": "15:34",
+            "title": "Group Sessions | Macquarie University Sport and Aquatic Cent"
+          },
+          {
+            "cat": "admin",
+            "end": "15:40",
+            "note": "translate.google.com",
+            "src": "macos",
+            "start": "15:35",
+            "title": "Google Translate"
+          },
+          {
+            "cat": "personal",
+            "end": "15:44",
+            "note": "open.spotify.com",
+            "src": "macos",
+            "start": "15:41",
+            "title": "Spotify - Web Player: Music for everyone"
+          },
+          {
+            "cat": "admin",
+            "end": "15:47",
+            "note": "23 hits",
+            "src": "claude",
+            "start": "15:44",
+            "title": "PhD worklog review"
+          },
+          {
+            "cat": "personal",
+            "end": "15:50",
+            "note": "open.spotify.com",
+            "src": "macos",
+            "start": "15:47",
+            "title": "Spotify - Web Player: Music for everyone"
+          },
+          {
+            "cat": "personal",
+            "end": "16:01",
+            "note": "open.spotify.com",
+            "src": "macos",
+            "start": "15:50",
+            "title": "Spotify - Web Player: Music for everyone"
+          },
+          {
+            "cat": "personal",
+            "end": "16:18",
+            "note": "open.spotify.com",
+            "src": "macos",
+            "start": "16:13",
+            "title": "Spotify - Web Player: Music for everyone"
+          },
+          {
+            "cat": "personal",
+            "end": "16:37",
+            "note": "open.spotify.com",
+            "src": "macos",
+            "start": "16:20",
+            "title": "Spotify - Web Player: Music for everyone"
+          },
+          {
+            "cat": "personal",
+            "end": "16:47",
+            "note": "open.spotify.com",
+            "src": "macos",
+            "start": "16:40",
+            "title": "Spotify - Web Player: Music for everyone"
+          },
+          {
+            "cat": "coding",
+            "end": "16:51",
+            "note": "1 hit",
+            "src": "local",
+            "start": "16:47",
+            "title": "stats_wilson_mcnemar.py"
+          },
+          {
+            "cat": "personal",
+            "end": "17:00",
+            "note": "open.spotify.com",
+            "src": "macos",
+            "start": "16:56",
+            "title": "Spotify - Web Player: Music for everyone"
+          },
+          {
+            "cat": "coding",
+            "end": "17:09",
+            "note": "com.microsoft.VSCode",
+            "src": "macos",
+            "start": "17:00",
+            "title": "VSCode"
+          },
+          {
+            "cat": "writing",
+            "end": "17:11",
+            "note": "2 hits",
+            "src": "local",
+            "start": "17:09",
+            "title": "stats_table.md"
+          },
+          {
+            "cat": "coding",
+            "end": "17:13",
+            "note": "com.microsoft.VSCode",
+            "src": "macos",
+            "start": "17:11",
+            "title": "VSCode"
+          },
+          {
+            "cat": "personal",
+            "end": "17:26",
+            "note": "open.spotify.com",
+            "src": "macos",
+            "start": "17:13",
+            "title": "Spotify - Web Player: Music for everyone"
+          },
+          {
+            "cat": "personal",
+            "end": "17:36",
+            "note": "open.spotify.com",
+            "src": "macos",
+            "start": "17:30",
+            "title": "Spotify - Web Player: Music for everyone"
+          },
+          {
+            "cat": "coding",
+            "end": "17:43",
+            "note": "com.microsoft.VSCode",
+            "src": "macos",
+            "start": "17:37",
+            "title": "VSCode"
+          },
+          {
+            "cat": "personal",
+            "end": "19:21",
+            "note": "open.spotify.com",
+            "src": "macos",
+            "start": "19:12",
+            "title": "Spotify - Web Player: Music for everyone"
+          },
+          {
+            "cat": "coding",
+            "end": "19:32",
+            "note": "com.microsoft.VSCode",
+            "src": "macos",
+            "start": "19:21",
+            "title": "VSCode"
+          },
+          {
+            "cat": "personal",
+            "end": "19:35",
+            "note": "open.spotify.com",
+            "src": "macos",
+            "start": "19:32",
+            "title": "Spotify - Web Player: Music for everyone"
+          },
+          {
+            "cat": "coding",
+            "end": "19:44",
+            "note": "com.microsoft.VSCode",
+            "src": "macos",
+            "start": "19:35",
+            "title": "VSCode"
+          },
+          {
+            "cat": "personal",
+            "end": "19:48",
+            "note": "open.spotify.com",
+            "src": "macos",
+            "start": "19:44",
+            "title": "Spotify - Web Player: Music for everyone"
+          },
+          {
+            "cat": "coding",
+            "end": "19:51",
+            "note": "com.microsoft.VSCode",
+            "src": "macos",
+            "start": "19:48",
+            "title": "VSCode"
+          },
+          {
+            "cat": "coding",
+            "end": "19:58",
+            "note": "com.microsoft.VSCode",
+            "src": "macos",
+            "start": "19:51",
+            "title": "VSCode"
+          },
+          {
+            "cat": "research",
+            "end": "20:01",
+            "note": "adaren100.github.io",
+            "src": "macos",
+            "start": "19:59",
+            "title": "AI Digest — July 12, 2026 | Ada's Notes"
+          },
+          {
+            "cat": "personal",
+            "end": "20:04",
+            "note": "x.com",
+            "src": "chrome",
+            "start": "20:01",
+            "title": "X 上的 Elon Musk：“He takes scamming to a whole new level” / X"
+          },
+          {
+            "cat": "research",
+            "end": "20:09",
+            "note": "adaren100.github.io",
+            "src": "macos",
+            "start": "20:04",
+            "title": "How Deutsche Telekom is rewiring telecommunications with AI "
+          },
+          {
+            "cat": "coding",
+            "end": "20:26",
+            "note": "com.microsoft.VSCode",
+            "src": "macos",
+            "start": "20:09",
+            "title": "VSCode"
+          },
+          {
+            "cat": "research",
+            "end": "20:42",
+            "note": "adaren100.github.io",
+            "src": "macos",
+            "start": "20:36",
+            "title": "Where the time actually went | Ada's Notes"
+          },
+          {
+            "cat": "coding",
+            "end": "20:48",
+            "note": "com.microsoft.VSCode",
+            "src": "macos",
+            "start": "20:42",
+            "title": "VSCode"
+          },
+          {
+            "cat": "research",
+            "end": "20:53",
+            "note": "adaren100.github.io",
+            "src": "macos",
+            "start": "20:48",
+            "title": "Where the time actually went | Ada's Notes"
+          },
+          {
+            "cat": "research",
+            "end": "21:26",
+            "note": "adaren100.github.io",
+            "src": "macos",
+            "start": "20:56",
+            "title": "Where the time actually went | Ada's Notes"
+          },
+          {
+            "cat": "coding",
+            "end": "21:29",
+            "note": "1 hit",
+            "src": "local",
+            "start": "21:26",
+            "title": "verify_submit_labels.py"
+          },
+          {
+            "cat": "research",
+            "end": "21:40",
+            "note": "chatgpt.com",
+            "src": "macos",
+            "start": "21:38",
+            "title": "ChatGPT"
+          },
+          {
+            "cat": "admin",
+            "end": "22:00",
+            "note": "translate.google.com",
+            "src": "macos",
+            "start": "21:40",
+            "title": "Google Translate"
+          },
+          {
+            "cat": "admin",
+            "end": "22:26",
+            "note": "translate.google.com",
+            "src": "macos",
+            "start": "22:11",
+            "title": "Google Translate"
+          },
+          {
+            "cat": "admin",
+            "end": "23:25",
+            "note": "translate.google.com",
+            "src": "macos",
+            "start": "23:19",
+            "title": "Google Translate"
+          }
+        ],
+        "key": "2026-7-12",
+        "logged": 275,
         "ratio": 0.49613467867440464,
+        "real": 136,
         "stats": {
           "contextSwitches": 30,
-          "tabsOpened": 3,
+          "justOneMoreThing": 5,
           "longestFocus": "1h 14m",
-          "justOneMoreThing": 5
-        }
+          "tabsOpened": 3
+        },
+        "weekend": true
       },
       {
         "key": "2026-7-13",
@@ -26672,7 +26856,7 @@
         "dateShort": "Mon, Jul 13",
         "dateLong": "Monday, July 13",
         "dayStart": "10:05",
-        "dayEnd": "15:13",
+        "dayEnd": "16:13",
         "events": [
           {
             "start": "10:05",
@@ -26812,7 +26996,7 @@
           },
           {
             "start": "14:15",
-            "end": "14:18",
+            "end": "14:19",
             "cat": "research",
             "src": "macos",
             "title": "ARR Reviewer Guidelines – ACL Rolling Review – A peer review",
@@ -26822,7 +27006,7 @@
             "start": "14:19",
             "end": "14:25",
             "cat": "research",
-            "src": "chrome",
+            "src": "macos",
             "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
             "note": "openreview.net"
           },
@@ -26852,17 +27036,33 @@
           },
           {
             "start": "14:36",
-            "end": "14:52",
+            "end": "14:37",
             "cat": "research",
-            "src": "chrome",
+            "src": "macos",
             "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
             "note": "openreview.net"
           },
           {
+            "start": "14:37",
+            "end": "14:47",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "14:47",
+            "end": "14:52",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
             "start": "14:53",
-            "end": "14:56",
+            "end": "15:04",
             "cat": "writing",
-            "src": "chrome",
+            "src": "macos",
             "title": "Ada_Threats Rebuttel - Google Docs",
             "note": "docs.google.com"
           },
@@ -26872,7 +27072,7 @@
             "cat": "admin",
             "src": "claude",
             "title": "PhD worklog review",
-            "note": "35 hits"
+            "note": "48 hits"
           },
           {
             "start": "15:09",
@@ -26880,34 +27080,42 @@
             "cat": "admin",
             "src": "claude",
             "title": "PhD worklog review",
-            "note": "35 hits"
+            "note": "48 hits"
           },
           {
-            "start": "15:12",
-            "end": "15:13",
+            "start": "15:14",
+            "end": "15:15",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Ada_Threats Rebuttel - Google Docs",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "16:08",
+            "end": "16:11",
+            "cat": "admin",
+            "src": "claude",
+            "title": "PhD worklog review",
+            "note": "7 hits"
+          },
+          {
+            "start": "16:11",
+            "end": "16:13",
             "cat": "coding",
             "src": "local",
-            "title": "build_data.py",
-            "note": "1 hit"
-          },
-          {
-            "start": "15:13",
-            "end": "15:13",
-            "cat": "writing",
-            "src": "local",
-            "title": "README.md",
+            "title": "snapshots.json",
             "note": "1 hit"
           }
         ],
-        "logged": 232,
-        "real": 160,
-        "deep": 160,
-        "ratio": 0.6903785966672277,
+        "logged": 245,
+        "real": 170,
+        "deep": 170,
+        "ratio": 0.6929597386756957,
         "stats": {
-          "contextSwitches": 20,
-          "tabsOpened": 21,
+          "contextSwitches": 23,
+          "tabsOpened": 12,
           "longestFocus": "44m",
-          "justOneMoreThing": 5
+          "justOneMoreThing": 6
         }
       },
       {
@@ -31833,950 +32041,1134 @@
       "weekend": false
     },
     {
-      "dateLong": "Friday, July 10",
-      "dateShort": "Fri, Jul 10",
-      "dayEnd": "22:39",
-      "dayNum": 10,
-      "dayStart": "10:17",
-      "deep": 351,
-      "dow": 5,
-      "events": [
-        {
-          "cat": "admin",
-          "end": "10:41",
-          "note": "accounts.google.com",
-          "src": "chrome",
-          "start": "10:17",
-          "title": "Inbox (2,636) - ada.ren.cn@gmail.com - Gmail"
-        },
-        {
-          "cat": "research",
-          "end": "10:52",
-          "note": "adaren100.github.io",
-          "src": "chrome",
-          "start": "10:42",
-          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
-        },
-        {
-          "cat": "personal",
-          "end": "11:01",
-          "note": "x.com",
-          "src": "chrome",
-          "start": "10:54",
-          "title": "(3) X 上的 AI at Meta：“Muse Spark 1.1 also excels in perceptio"
-        },
-        {
-          "cat": "research",
-          "end": "11:07",
-          "note": "adaren100.github.io",
-          "src": "chrome",
-          "start": "11:01",
-          "title": "Introducing a way to reflect on how you use Claude | Ada's N"
-        },
-        {
-          "cat": "writing",
-          "end": "11:12",
-          "note": "2 hits",
-          "src": "local",
-          "start": "11:07",
-          "title": "2026-07-09-ust-claude.md"
-        },
-        {
-          "cat": "research",
-          "end": "11:16",
-          "note": "openai.com",
-          "src": "chrome",
-          "start": "11:12",
-          "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot "
-        },
-        {
-          "cat": "research",
-          "end": "11:24",
-          "note": "openai.com",
-          "src": "chrome",
-          "start": "11:16",
-          "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot "
-        },
-        {
-          "cat": "research",
-          "end": "11:28",
-          "note": "openai.com",
-          "src": "chrome",
-          "start": "11:24",
-          "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot "
-        },
-        {
-          "cat": "research",
-          "end": "11:32",
-          "note": "openai.com",
-          "src": "chrome",
-          "start": "11:28",
-          "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot "
-        },
-        {
-          "cat": "personal",
-          "end": "11:36",
-          "note": "cluade.ai",
-          "src": "chrome",
-          "start": "11:32",
-          "title": "cluade.ai"
-        },
-        {
-          "cat": "writing",
-          "end": "11:47",
-          "note": "overleaf.com",
-          "src": "chrome",
-          "start": "11:36",
-          "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea"
-        },
-        {
-          "cat": "research",
-          "end": "11:52",
-          "note": "openreview.net",
-          "src": "chrome",
-          "start": "11:48",
-          "title": "Venues | OpenReview"
-        },
-        {
-          "cat": "writing",
-          "end": "12:13",
-          "note": "accounts.google.com",
-          "src": "chrome",
-          "start": "11:52",
-          "title": "Sign in - Google Accounts"
-        },
-        {
-          "cat": "personal",
-          "end": "12:13",
-          "note": "google.com",
-          "src": "chrome",
-          "start": "12:13",
-          "title": "2025北海道滑雪 - Google My Maps"
-        },
-        {
-          "cat": "writing",
-          "end": "12:17",
-          "note": "docs.google.com",
-          "src": "chrome",
-          "start": "12:13",
-          "title": "POLAR@EEUCA 2026 - Google Slides"
-        },
-        {
-          "cat": "research",
-          "end": "12:21",
-          "note": "arxiv.org",
-          "src": "chrome",
-          "start": "12:17",
-          "title": "SafeTutors: Benchmarking Pedagogical Safety in AI Tutoring S"
-        },
-        {
-          "cat": "research",
-          "end": "12:51",
-          "note": "arxiv.org",
-          "src": "chrome",
-          "start": "12:22",
-          "title": "SafeTutors: Benchmarking Pedagogical Safety in AI Tutoring S"
-        },
-        {
-          "cat": "admin",
-          "end": "13:58",
-          "note": "com.microsoft.Outlook",
-          "src": "macos",
-          "start": "13:51",
-          "title": "Outlook"
-        },
-        {
-          "cat": "research",
-          "end": "14:16",
-          "note": "url.au.m.mimecastprotect.com",
-          "src": "chrome",
-          "start": "13:58",
-          "title": "ACL ARR 2026 May Authors | OpenReview"
-        },
-        {
-          "cat": "personal",
-          "end": "14:33",
-          "note": "open.spotify.com",
-          "src": "chrome",
-          "start": "14:16",
-          "title": "Spotify - Web Player: Music for everyone"
-        },
-        {
-          "cat": "coding",
-          "end": "15:33",
-          "note": "com.microsoft.VSCode",
-          "src": "macos",
-          "start": "15:25",
-          "title": "VSCode"
-        },
-        {
-          "cat": "coding",
-          "end": "15:34",
-          "note": "com.microsoft.VSCode",
-          "src": "macos",
-          "start": "15:33",
-          "title": "VSCode"
-        },
-        {
-          "cat": "coding",
-          "end": "15:41",
-          "note": "com.microsoft.VSCode",
-          "src": "macos",
-          "start": "15:37",
-          "title": "VSCode"
-        },
-        {
-          "cat": "coding",
-          "end": "15:53",
-          "note": "com.microsoft.VSCode",
-          "src": "macos",
-          "start": "15:42",
-          "title": "VSCode"
-        },
-        {
-          "cat": "coding",
-          "end": "15:57",
-          "note": "com.microsoft.VSCode",
-          "src": "macos",
-          "start": "15:53",
-          "title": "VSCode"
-        },
-        {
-          "cat": "coding",
-          "end": "16:07",
-          "note": "com.microsoft.VSCode",
-          "src": "macos",
-          "start": "15:59",
-          "title": "VSCode"
-        },
-        {
-          "cat": "coding",
-          "end": "16:10",
-          "note": "105 hits",
-          "src": "claude",
-          "start": "16:07",
-          "title": "Claude session · bench"
-        },
-        {
-          "cat": "writing",
-          "end": "16:47",
-          "note": "drive.google.com",
-          "src": "chrome",
-          "start": "16:10",
-          "title": "Application of AWS Student Builder Group Leader - Google Sli"
-        },
-        {
-          "cat": "writing",
-          "end": "17:09",
-          "note": "docs.google.com",
-          "src": "chrome",
-          "start": "16:49",
-          "title": "Application of AWS Student Builder Group Leader - Google Sli"
-        },
-        {
-          "cat": "personal",
-          "end": "19:38",
-          "note": "youtube.com",
-          "src": "chrome",
-          "start": "18:50",
-          "title": "(58) Field Guide to Fable — Thariq Shihipar, Anthropic - You"
-        },
-        {
-          "cat": "admin",
-          "end": "20:21",
-          "note": "mail.google.com",
-          "src": "chrome",
-          "start": "20:11",
-          "title": "Inbox (2,636) - ada.ren.cn@gmail.com - Gmail"
-        },
-        {
-          "cat": "research",
-          "end": "20:53",
-          "note": "arxiv.org",
-          "src": "chrome",
-          "start": "20:21",
-          "title": "Meta-Harness: End-to-End Optimization of Model Harnesses"
-        },
-        {
-          "cat": "personal",
-          "end": "21:08",
-          "note": "google.com",
-          "src": "chrome",
-          "start": "20:53",
-          "title": "lilian weng - Google Search"
-        },
-        {
-          "cat": "research",
-          "end": "22:39",
-          "note": "scholar.google.com",
-          "src": "chrome",
-          "start": "21:08",
-          "title": "ScientistOne: Towards Human-Level Autonomous Research via Ch"
-        }
-      ],
       "key": "2026-7-10",
-      "logged": 482,
-      "ratio": 0.7273082053938612,
-      "real": 351,
-      "stats": {
-        "contextSwitches": 22,
-        "justOneMoreThing": 4,
-        "longestFocus": "1h 36m",
-        "tabsOpened": 75
-      },
-      "weekend": false
-    },
-    {
-      "key": "2026-7-11",
-      "dayNum": 11,
-      "dow": 6,
-      "weekend": true,
-      "dateShort": "Sat, Jul 11",
-      "dateLong": "Saturday, July 11",
-      "dayStart": "09:53",
-      "dayEnd": "23:37",
+      "dayNum": 10,
+      "dow": 5,
+      "weekend": false,
+      "dateShort": "Fri, Jul 10",
+      "dateLong": "Friday, July 10",
+      "dayStart": "10:17",
+      "dayEnd": "22:39",
       "events": [
         {
-          "start": "09:53",
-          "end": "10:13",
-          "cat": "personal",
+          "start": "10:17",
+          "end": "10:21",
+          "cat": "admin",
           "src": "chrome",
-          "title": "Admission Docket | Macquarie University Sport and Aquatic Ce",
+          "title": "Inbox (2,636) - ada.ren.cn@gmail.com - Gmail",
+          "note": "accounts.google.com"
+        },
+        {
+          "start": "10:21",
+          "end": "10:41",
+          "cat": "admin",
+          "src": "macos",
+          "title": "设置住址",
+          "note": "gds.google.com"
+        },
+        {
+          "start": "10:42",
+          "end": "10:52",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "10:54",
+          "end": "11:01",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(3) Josh Woodward (@joshwoodward) / X",
+          "note": "x.com"
+        },
+        {
+          "start": "11:01",
+          "end": "11:07",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Introducing a way to reflect on how you use Claude | Ada's N",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "11:07",
+          "end": "11:10",
+          "cat": "writing",
+          "src": "local",
+          "title": "2026-07-09-ust-claude.md",
+          "note": "2 hits"
+        },
+        {
+          "start": "11:10",
+          "end": "11:11",
+          "cat": "research",
+          "src": "macos",
+          "title": "Ben Bernanke appointed to Anthropic's Long-Term Benefit Trus",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "11:11",
+          "end": "11:12",
+          "cat": "personal",
+          "src": "macos",
+          "title": "ben bernanke - Google Search",
           "note": "google.com"
         },
         {
-          "start": "16:19",
-          "end": "16:21",
-          "cat": "admin",
-          "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "start": "11:12",
+          "end": "11:16",
+          "cat": "research",
+          "src": "chrome",
+          "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot ",
+          "note": "openai.com"
         },
         {
-          "start": "16:21",
-          "end": "16:42",
+          "start": "11:16",
+          "end": "11:24",
+          "cat": "research",
+          "src": "chrome",
+          "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot ",
+          "note": "openai.com"
+        },
+        {
+          "start": "11:24",
+          "end": "11:25",
+          "cat": "personal",
+          "src": "macos",
+          "title": "主页 / X",
+          "note": "x.com"
+        },
+        {
+          "start": "11:26",
+          "end": "11:28",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(3) claude reset - 搜索 / X",
+          "note": "x.com"
+        },
+        {
+          "start": "11:28",
+          "end": "11:30",
           "cat": "writing",
           "src": "macos",
-          "title": "Application of AWS Student Builder Group Leader - Google Sli",
-          "note": "docs.google.com"
+          "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea",
+          "note": "overleaf.com"
         },
         {
-          "start": "16:44",
-          "end": "16:52",
+          "start": "11:30",
+          "end": "11:32",
           "cat": "research",
           "src": "chrome",
-          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+          "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot ",
+          "note": "openai.com"
+        },
+        {
+          "start": "11:32",
+          "end": "11:36",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "cluade.ai",
+          "note": "cluade.ai"
+        },
+        {
+          "start": "11:36",
+          "end": "11:47",
+          "cat": "writing",
+          "src": "chrome",
+          "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea",
+          "note": "overleaf.com"
+        },
+        {
+          "start": "11:48",
+          "end": "11:52",
+          "cat": "research",
+          "src": "macos",
+          "title": "Venues | OpenReview",
           "note": "openreview.net"
         },
         {
-          "start": "16:52",
-          "end": "16:53",
-          "cat": "research",
+          "start": "11:52",
+          "end": "12:06",
+          "cat": "writing",
           "src": "chrome",
-          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-          "note": "openreview.net"
+          "title": "Sign in - Google Accounts",
+          "note": "accounts.google.com"
         },
         {
-          "start": "16:53",
-          "end": "16:54",
-          "cat": "admin",
+          "start": "12:06",
+          "end": "12:08",
+          "cat": "coding",
           "src": "macos",
-          "title": "Feed | LinkedIn",
-          "note": "linkedin.com"
+          "title": "SafeTutors/chem_multi_combined.jsonl at main · RadiantCrysta",
+          "note": "github.com"
         },
         {
-          "start": "16:54",
-          "end": "17:04",
-          "cat": "research",
-          "src": "chrome",
-          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-          "note": "openreview.net"
-        },
-        {
-          "start": "17:05",
-          "end": "17:11",
-          "cat": "admin",
-          "src": "claude",
-          "title": "PhD worklog review",
-          "note": "50 hits"
-        },
-        {
-          "start": "17:11",
-          "end": "17:12",
-          "cat": "admin",
-          "src": "claude",
-          "title": "PhD worklog review",
-          "note": "50 hits"
-        },
-        {
-          "start": "17:12",
-          "end": "17:17",
-          "cat": "admin",
-          "src": "claude",
-          "title": "PhD worklog review",
-          "note": "50 hits"
-        },
-        {
-          "start": "17:17",
-          "end": "17:21",
-          "cat": "research",
-          "src": "chrome",
-          "title": "Where the time actually went | Ada's Notes",
-          "note": "adaren100.github.io"
-        },
-        {
-          "start": "17:21",
-          "end": "17:26",
-          "cat": "admin",
-          "src": "claude",
-          "title": "PhD worklog review",
-          "note": "5 hits"
-        },
-        {
-          "start": "17:27",
-          "end": "17:32",
-          "cat": "personal",
-          "src": "chrome",
-          "title": "(4) X 上的 Sebastian Raschka：“For agentic coding, one can say:",
-          "note": "x.com"
-        },
-        {
-          "start": "17:32",
-          "end": "17:33",
+          "start": "12:08",
+          "end": "12:21",
           "cat": "research",
           "src": "macos",
-          "title": "Where the time actually went | Ada's Notes",
-          "note": "adaren100.github.io"
-        },
-        {
-          "start": "17:33",
-          "end": "18:02",
-          "cat": "admin",
-          "src": "claude",
-          "title": "PhD worklog review",
-          "note": "172 hits"
-        },
-        {
-          "start": "18:02",
-          "end": "18:09",
-          "cat": "research",
-          "src": "chrome",
-          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-          "note": "adaren100.github.io"
-        },
-        {
-          "start": "18:09",
-          "end": "18:13",
-          "cat": "admin",
-          "src": "claude",
-          "title": "PhD worklog review",
-          "note": "15 hits"
-        },
-        {
-          "start": "18:13",
-          "end": "18:21",
-          "cat": "research",
-          "src": "macos",
-          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-          "note": "openreview.net"
-        },
-        {
-          "start": "18:21",
-          "end": "18:26",
-          "cat": "admin",
-          "src": "claude",
-          "title": "PhD worklog review",
-          "note": "23 hits"
-        },
-        {
-          "start": "18:26",
-          "end": "18:29",
-          "cat": "research",
-          "src": "chrome",
-          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-          "note": "adaren100.github.io"
-        },
-        {
-          "start": "18:29",
-          "end": "18:30",
-          "cat": "admin",
-          "src": "claude",
-          "title": "PhD worklog review",
-          "note": "142 hits"
-        },
-        {
-          "start": "18:30",
-          "end": "18:35",
-          "cat": "admin",
-          "src": "claude",
-          "title": "PhD worklog review",
-          "note": "142 hits"
-        },
-        {
-          "start": "18:35",
-          "end": "18:55",
-          "cat": "admin",
-          "src": "claude",
-          "title": "PhD worklog review",
-          "note": "142 hits"
-        },
-        {
-          "start": "18:55",
-          "end": "19:00",
-          "cat": "admin",
-          "src": "claude",
-          "title": "PhD worklog review",
-          "note": "142 hits"
-        },
-        {
-          "start": "19:00",
-          "end": "19:01",
-          "cat": "personal",
-          "src": "macos",
-          "title": "(4) X 上的 Sebastian Raschka：“For agentic coding, one can say:",
-          "note": "x.com"
-        },
-        {
-          "start": "19:05",
-          "end": "19:12",
-          "cat": "personal",
-          "src": "macos",
-          "title": "(4) X 上的 Sebastian Raschka：“For agentic coding, one can say:",
-          "note": "x.com"
-        },
-        {
-          "start": "19:15",
-          "end": "19:44",
-          "cat": "personal",
-          "src": "macos",
-          "title": "(4) X 上的 Sebastian Raschka：“For agentic coding, one can say:",
-          "note": "x.com"
-        },
-        {
-          "start": "20:48",
-          "end": "20:51",
-          "cat": "personal",
-          "src": "macos",
-          "title": "(4) X 上的 Sebastian Raschka：“For agentic coding, one can say:",
-          "note": "x.com"
-        },
-        {
-          "start": "20:51",
-          "end": "21:12",
-          "cat": "research",
-          "src": "macos",
-          "title": "Tutor, Not Solver: Designing a Guardrailed AI Assistant for ",
+          "title": "SafeTutors: Benchmarking Pedagogical Safety in AI Tutoring S",
           "note": "arxiv.org"
         },
         {
-          "start": "21:12",
-          "end": "21:22",
-          "cat": "personal",
+          "start": "12:21",
+          "end": "12:22",
+          "cat": "coding",
           "src": "macos",
-          "title": "Mathematics Mock Quiz",
-          "note": "iridescent-smakager-d5ee12.netlify.app"
+          "title": "RadiantCrystal/SafeTutors",
+          "note": "github.com"
         },
         {
-          "start": "21:23",
-          "end": "21:43",
-          "cat": "research",
-          "src": "chrome",
-          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-          "note": "openreview.net"
-        },
-        {
-          "start": "22:20",
-          "end": "22:57",
+          "start": "12:22",
+          "end": "12:28",
           "cat": "research",
           "src": "macos",
-          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-          "note": "openreview.net"
+          "title": "SafeTutors: Benchmarking Pedagogical Safety in AI Tutoring S",
+          "note": "arxiv.org"
         },
         {
-          "start": "23:04",
-          "end": "23:07",
+          "start": "12:29",
+          "end": "12:51",
           "cat": "research",
           "src": "macos",
-          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-          "note": "openreview.net"
+          "title": "SafeTutors: Benchmarking Pedagogical Safety in AI Tutoring S",
+          "note": "arxiv.org"
         },
         {
-          "start": "23:11",
-          "end": "23:16",
-          "cat": "research",
-          "src": "macos",
-          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-          "note": "openreview.net"
-        },
-        {
-          "start": "23:16",
-          "end": "23:19",
+          "start": "13:51",
+          "end": "13:58",
           "cat": "admin",
           "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
         },
         {
-          "start": "23:19",
-          "end": "23:37",
-          "cat": "research",
-          "src": "chrome",
-          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-          "note": "openreview.net"
-        }
-      ],
-      "logged": 334,
-      "real": 167,
-      "deep": 167,
-      "ratio": 0.5013437849774166,
-      "stats": {
-        "contextSwitches": 23,
-        "tabsOpened": 30,
-        "longestFocus": "1h 6m",
-        "justOneMoreThing": 4
-      }
-    },
-    {
-      "key": "2026-7-12",
-      "dayNum": 12,
-      "dow": 0,
-      "weekend": true,
-      "dateShort": "Sun, Jul 12",
-      "dateLong": "Sunday, July 12",
-      "dayStart": "15:23",
-      "dayEnd": "23:25",
-      "events": [
-        {
-          "start": "15:23",
-          "end": "15:25",
-          "cat": "admin",
-          "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
-        },
-        {
-          "start": "15:27",
-          "end": "15:28",
-          "cat": "research",
-          "src": "macos",
-          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-          "note": "openreview.net"
-        },
-        {
-          "start": "15:29",
-          "end": "15:33",
+          "start": "13:58",
+          "end": "14:00",
           "cat": "writing",
           "src": "macos",
           "title": "Ada_Threats Rebuttel - Google Docs",
           "note": "docs.google.com"
         },
         {
-          "start": "15:34",
-          "end": "15:35",
-          "cat": "personal",
-          "src": "macos",
-          "title": "Group Sessions | Macquarie University Sport and Aquatic Cent",
-          "note": "musac.jonasleisure.com.au"
-        },
-        {
-          "start": "15:35",
-          "end": "15:40",
-          "cat": "admin",
-          "src": "macos",
-          "title": "Google Translate",
-          "note": "translate.google.com"
-        },
-        {
-          "start": "15:41",
-          "end": "15:44",
-          "cat": "personal",
-          "src": "macos",
-          "title": "Spotify - Web Player: Music for everyone",
-          "note": "open.spotify.com"
-        },
-        {
-          "start": "15:44",
-          "end": "15:47",
-          "cat": "admin",
-          "src": "claude",
-          "title": "PhD worklog review",
-          "note": "23 hits"
-        },
-        {
-          "start": "15:47",
-          "end": "15:50",
-          "cat": "personal",
-          "src": "macos",
-          "title": "Spotify - Web Player: Music for everyone",
-          "note": "open.spotify.com"
-        },
-        {
-          "start": "15:50",
-          "end": "16:01",
-          "cat": "personal",
-          "src": "macos",
-          "title": "Spotify - Web Player: Music for everyone",
-          "note": "open.spotify.com"
-        },
-        {
-          "start": "16:13",
-          "end": "16:18",
-          "cat": "personal",
-          "src": "macos",
-          "title": "Spotify - Web Player: Music for everyone",
-          "note": "open.spotify.com"
-        },
-        {
-          "start": "16:20",
-          "end": "16:37",
-          "cat": "personal",
-          "src": "macos",
-          "title": "Spotify - Web Player: Music for everyone",
-          "note": "open.spotify.com"
-        },
-        {
-          "start": "16:40",
-          "end": "16:47",
-          "cat": "personal",
-          "src": "macos",
-          "title": "Spotify - Web Player: Music for everyone",
-          "note": "open.spotify.com"
-        },
-        {
-          "start": "16:47",
-          "end": "16:51",
-          "cat": "coding",
-          "src": "local",
-          "title": "stats_wilson_mcnemar.py",
-          "note": "1 hit"
-        },
-        {
-          "start": "16:56",
-          "end": "17:00",
-          "cat": "personal",
-          "src": "macos",
-          "title": "Spotify - Web Player: Music for everyone",
-          "note": "open.spotify.com"
-        },
-        {
-          "start": "17:00",
-          "end": "17:09",
-          "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
-        },
-        {
-          "start": "17:09",
-          "end": "17:11",
+          "start": "14:00",
+          "end": "14:02",
           "cat": "writing",
-          "src": "local",
-          "title": "stats_table.md",
-          "note": "2 hits"
-        },
-        {
-          "start": "17:11",
-          "end": "17:13",
-          "cat": "coding",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "title": "Ada_Threats Rebuttel - Google Docs",
+          "note": "docs.google.com"
         },
         {
-          "start": "17:13",
-          "end": "17:26",
+          "start": "14:02",
+          "end": "14:04",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Ada_Threats Rebuttel - Google Docs",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "14:04",
+          "end": "14:06",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Ada_Threats Rebuttel - Google Docs",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "14:06",
+          "end": "14:13",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Ada_Threats Rebuttel - Google Docs",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "14:13",
+          "end": "14:43",
           "cat": "personal",
           "src": "macos",
           "title": "Spotify - Web Player: Music for everyone",
           "note": "open.spotify.com"
         },
         {
-          "start": "17:30",
-          "end": "17:36",
+          "start": "14:46",
+          "end": "14:51",
           "cat": "personal",
           "src": "macos",
           "title": "Spotify - Web Player: Music for everyone",
           "note": "open.spotify.com"
         },
         {
-          "start": "17:37",
-          "end": "17:43",
-          "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
-        },
-        {
-          "start": "19:12",
-          "end": "19:21",
+          "start": "14:53",
+          "end": "15:00",
           "cat": "personal",
           "src": "macos",
           "title": "Spotify - Web Player: Music for everyone",
           "note": "open.spotify.com"
         },
         {
-          "start": "19:21",
-          "end": "19:32",
-          "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
-        },
-        {
-          "start": "19:32",
-          "end": "19:35",
+          "start": "15:03",
+          "end": "15:25",
           "cat": "personal",
           "src": "macos",
           "title": "Spotify - Web Player: Music for everyone",
           "note": "open.spotify.com"
         },
         {
-          "start": "19:35",
-          "end": "19:44",
+          "start": "15:25",
+          "end": "15:33",
           "cat": "coding",
           "src": "macos",
           "title": "VSCode",
           "note": "com.microsoft.VSCode"
         },
         {
-          "start": "19:44",
-          "end": "19:48",
+          "start": "15:33",
+          "end": "15:34",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:34",
+          "end": "15:37",
           "cat": "personal",
           "src": "macos",
           "title": "Spotify - Web Player: Music for everyone",
           "note": "open.spotify.com"
         },
         {
-          "start": "19:48",
-          "end": "19:51",
+          "start": "15:37",
+          "end": "15:41",
           "cat": "coding",
           "src": "macos",
           "title": "VSCode",
           "note": "com.microsoft.VSCode"
         },
         {
-          "start": "19:51",
-          "end": "19:58",
+          "start": "15:42",
+          "end": "15:53",
           "cat": "coding",
           "src": "macos",
           "title": "VSCode",
           "note": "com.microsoft.VSCode"
         },
         {
-          "start": "19:59",
-          "end": "20:01",
+          "start": "15:53",
+          "end": "15:57",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:57",
+          "end": "15:59",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Spotify - Web Player: Music for everyone",
+          "note": "open.spotify.com"
+        },
+        {
+          "start": "15:59",
+          "end": "16:07",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:07",
+          "end": "16:10",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · bench",
+          "note": "105 hits"
+        },
+        {
+          "start": "16:10",
+          "end": "16:41",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Application of AWS Student Builder Group Leader - Google Sli",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "16:41",
+          "end": "16:47",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Application of AWS Student Builder Group Leader - Google Sli",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "16:48",
+          "end": "16:49",
           "cat": "research",
           "src": "macos",
-          "title": "AI Digest — July 12, 2026 | Ada's Notes",
+          "title": "Ada's Notes",
           "note": "adaren100.github.io"
         },
         {
-          "start": "20:01",
-          "end": "20:04",
+          "start": "16:49",
+          "end": "17:09",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Application of AWS Student Builder Group Leader - Google Sli",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "18:50",
+          "end": "18:51",
           "cat": "personal",
-          "src": "chrome",
-          "title": "X 上的 Elon Musk：“He takes scamming to a whole new level” / X",
-          "note": "x.com"
-        },
-        {
-          "start": "20:04",
-          "end": "20:09",
-          "cat": "research",
           "src": "macos",
-          "title": "How Deutsche Telekom is rewiring telecommunications with AI ",
-          "note": "adaren100.github.io"
+          "title": "(58) YouTube",
+          "note": "youtube.com"
         },
         {
-          "start": "20:09",
-          "end": "20:26",
-          "cat": "coding",
+          "start": "18:51",
+          "end": "18:53",
+          "cat": "personal",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "title": "(58) Making New York City miniature with Claude - YouTube",
+          "note": "youtube.com"
         },
         {
-          "start": "20:36",
-          "end": "20:42",
-          "cat": "research",
+          "start": "18:53",
+          "end": "19:46",
+          "cat": "personal",
           "src": "macos",
-          "title": "Where the time actually went | Ada's Notes",
-          "note": "adaren100.github.io"
+          "title": "(58) DoorDash gave every employee Claude Code - YouTube",
+          "note": "youtube.com"
         },
         {
-          "start": "20:42",
-          "end": "20:48",
-          "cat": "coding",
+          "start": "20:02",
+          "end": "20:11",
+          "cat": "personal",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "title": "(58) Field Guide to Fable — Thariq Shihipar, Anthropic - You",
+          "note": "youtube.com"
         },
         {
-          "start": "20:48",
+          "start": "20:11",
+          "end": "20:21",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Inbox (2,634) - ada.ren.cn@gmail.com - Gmail",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "20:21",
           "end": "20:53",
           "cat": "research",
           "src": "macos",
-          "title": "Where the time actually went | Ada's Notes",
-          "note": "adaren100.github.io"
+          "title": "Meta-Harness: End-to-End Optimization of Model Harnesses",
+          "note": "arxiv.org"
         },
         {
-          "start": "20:56",
-          "end": "21:26",
+          "start": "20:53",
+          "end": "21:08",
+          "cat": "personal",
+          "src": "macos",
+          "title": "lilian weng - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "21:08",
+          "end": "21:21",
+          "cat": "research",
+          "src": "chrome",
+          "title": "ScientistOne: Towards Human-Level Autonomous Research via Ch",
+          "note": "scholar.google.com"
+        },
+        {
+          "start": "21:22",
+          "end": "21:23",
           "cat": "research",
           "src": "macos",
-          "title": "Where the time actually went | Ada's Notes",
-          "note": "adaren100.github.io"
+          "title": "Harness Engineering for Self-Improvement | Lil'Log",
+          "note": "lilianweng.github.io"
         },
         {
-          "start": "21:26",
-          "end": "21:29",
-          "cat": "coding",
-          "src": "local",
-          "title": "verify_submit_labels.py",
-          "note": "1 hit"
-        },
-        {
-          "start": "21:38",
-          "end": "21:40",
+          "start": "21:23",
+          "end": "22:19",
           "cat": "research",
           "src": "macos",
-          "title": "ChatGPT",
-          "note": "chatgpt.com"
+          "title": "2410.10762",
+          "note": "arxiv.org"
         },
         {
-          "start": "21:40",
-          "end": "22:00",
-          "cat": "admin",
+          "start": "22:19",
+          "end": "22:39",
+          "cat": "research",
           "src": "macos",
-          "title": "Google Translate",
-          "note": "translate.google.com"
-        },
-        {
-          "start": "22:11",
-          "end": "22:26",
-          "cat": "admin",
-          "src": "macos",
-          "title": "Google Translate",
-          "note": "translate.google.com"
-        },
-        {
-          "start": "23:19",
-          "end": "23:25",
-          "cat": "admin",
-          "src": "macos",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "title": "SIA: Self Improving AI with Harness     Weight Updates",
+          "note": "arxiv.org"
         }
       ],
-      "logged": 275,
-      "real": 136,
+      "logged": 548,
+      "real": 345,
+      "deep": 345,
+      "ratio": 0.628435660307328,
+      "stats": {
+        "contextSwitches": 34,
+        "tabsOpened": 30,
+        "longestFocus": "1h 30m",
+        "justOneMoreThing": 6
+      }
+    },
+    {
+      "dateLong": "Saturday, July 11",
+      "dateShort": "Sat, Jul 11",
+      "dayEnd": "23:37",
+      "dayNum": 11,
+      "dayStart": "09:53",
+      "deep": 167,
+      "dow": 6,
+      "events": [
+        {
+          "cat": "personal",
+          "end": "10:13",
+          "note": "google.com",
+          "src": "chrome",
+          "start": "09:53",
+          "title": "Admission Docket | Macquarie University Sport and Aquatic Ce"
+        },
+        {
+          "cat": "admin",
+          "end": "16:21",
+          "note": "com.tinyspeck.slackmacgap",
+          "src": "macos",
+          "start": "16:19",
+          "title": "slackmacgap"
+        },
+        {
+          "cat": "writing",
+          "end": "16:42",
+          "note": "docs.google.com",
+          "src": "macos",
+          "start": "16:21",
+          "title": "Application of AWS Student Builder Group Leader - Google Sli"
+        },
+        {
+          "cat": "research",
+          "end": "16:52",
+          "note": "openreview.net",
+          "src": "chrome",
+          "start": "16:44",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
+        },
+        {
+          "cat": "research",
+          "end": "16:53",
+          "note": "openreview.net",
+          "src": "chrome",
+          "start": "16:52",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
+        },
+        {
+          "cat": "admin",
+          "end": "16:54",
+          "note": "linkedin.com",
+          "src": "macos",
+          "start": "16:53",
+          "title": "Feed | LinkedIn"
+        },
+        {
+          "cat": "research",
+          "end": "17:04",
+          "note": "openreview.net",
+          "src": "chrome",
+          "start": "16:54",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
+        },
+        {
+          "cat": "admin",
+          "end": "17:11",
+          "note": "50 hits",
+          "src": "claude",
+          "start": "17:05",
+          "title": "PhD worklog review"
+        },
+        {
+          "cat": "admin",
+          "end": "17:12",
+          "note": "50 hits",
+          "src": "claude",
+          "start": "17:11",
+          "title": "PhD worklog review"
+        },
+        {
+          "cat": "admin",
+          "end": "17:17",
+          "note": "50 hits",
+          "src": "claude",
+          "start": "17:12",
+          "title": "PhD worklog review"
+        },
+        {
+          "cat": "research",
+          "end": "17:21",
+          "note": "adaren100.github.io",
+          "src": "chrome",
+          "start": "17:17",
+          "title": "Where the time actually went | Ada's Notes"
+        },
+        {
+          "cat": "admin",
+          "end": "17:26",
+          "note": "5 hits",
+          "src": "claude",
+          "start": "17:21",
+          "title": "PhD worklog review"
+        },
+        {
+          "cat": "personal",
+          "end": "17:32",
+          "note": "x.com",
+          "src": "chrome",
+          "start": "17:27",
+          "title": "(4) X 上的 Sebastian Raschka：“For agentic coding, one can say:"
+        },
+        {
+          "cat": "research",
+          "end": "17:33",
+          "note": "adaren100.github.io",
+          "src": "macos",
+          "start": "17:32",
+          "title": "Where the time actually went | Ada's Notes"
+        },
+        {
+          "cat": "admin",
+          "end": "18:02",
+          "note": "172 hits",
+          "src": "claude",
+          "start": "17:33",
+          "title": "PhD worklog review"
+        },
+        {
+          "cat": "research",
+          "end": "18:09",
+          "note": "adaren100.github.io",
+          "src": "chrome",
+          "start": "18:02",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
+        },
+        {
+          "cat": "admin",
+          "end": "18:13",
+          "note": "15 hits",
+          "src": "claude",
+          "start": "18:09",
+          "title": "PhD worklog review"
+        },
+        {
+          "cat": "research",
+          "end": "18:21",
+          "note": "openreview.net",
+          "src": "macos",
+          "start": "18:13",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
+        },
+        {
+          "cat": "admin",
+          "end": "18:26",
+          "note": "23 hits",
+          "src": "claude",
+          "start": "18:21",
+          "title": "PhD worklog review"
+        },
+        {
+          "cat": "research",
+          "end": "18:29",
+          "note": "adaren100.github.io",
+          "src": "chrome",
+          "start": "18:26",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
+        },
+        {
+          "cat": "admin",
+          "end": "18:30",
+          "note": "142 hits",
+          "src": "claude",
+          "start": "18:29",
+          "title": "PhD worklog review"
+        },
+        {
+          "cat": "admin",
+          "end": "18:35",
+          "note": "142 hits",
+          "src": "claude",
+          "start": "18:30",
+          "title": "PhD worklog review"
+        },
+        {
+          "cat": "admin",
+          "end": "18:55",
+          "note": "142 hits",
+          "src": "claude",
+          "start": "18:35",
+          "title": "PhD worklog review"
+        },
+        {
+          "cat": "admin",
+          "end": "19:00",
+          "note": "142 hits",
+          "src": "claude",
+          "start": "18:55",
+          "title": "PhD worklog review"
+        },
+        {
+          "cat": "personal",
+          "end": "19:01",
+          "note": "x.com",
+          "src": "macos",
+          "start": "19:00",
+          "title": "(4) X 上的 Sebastian Raschka：“For agentic coding, one can say:"
+        },
+        {
+          "cat": "personal",
+          "end": "19:12",
+          "note": "x.com",
+          "src": "macos",
+          "start": "19:05",
+          "title": "(4) X 上的 Sebastian Raschka：“For agentic coding, one can say:"
+        },
+        {
+          "cat": "personal",
+          "end": "19:44",
+          "note": "x.com",
+          "src": "macos",
+          "start": "19:15",
+          "title": "(4) X 上的 Sebastian Raschka：“For agentic coding, one can say:"
+        },
+        {
+          "cat": "personal",
+          "end": "20:51",
+          "note": "x.com",
+          "src": "macos",
+          "start": "20:48",
+          "title": "(4) X 上的 Sebastian Raschka：“For agentic coding, one can say:"
+        },
+        {
+          "cat": "research",
+          "end": "21:12",
+          "note": "arxiv.org",
+          "src": "macos",
+          "start": "20:51",
+          "title": "Tutor, Not Solver: Designing a Guardrailed AI Assistant for "
+        },
+        {
+          "cat": "personal",
+          "end": "21:22",
+          "note": "iridescent-smakager-d5ee12.netlify.app",
+          "src": "macos",
+          "start": "21:12",
+          "title": "Mathematics Mock Quiz"
+        },
+        {
+          "cat": "research",
+          "end": "21:43",
+          "note": "openreview.net",
+          "src": "chrome",
+          "start": "21:23",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
+        },
+        {
+          "cat": "research",
+          "end": "22:57",
+          "note": "openreview.net",
+          "src": "macos",
+          "start": "22:20",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
+        },
+        {
+          "cat": "research",
+          "end": "23:07",
+          "note": "openreview.net",
+          "src": "macos",
+          "start": "23:04",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
+        },
+        {
+          "cat": "research",
+          "end": "23:16",
+          "note": "openreview.net",
+          "src": "macos",
+          "start": "23:11",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
+        },
+        {
+          "cat": "admin",
+          "end": "23:19",
+          "note": "com.tinyspeck.slackmacgap",
+          "src": "macos",
+          "start": "23:16",
+          "title": "slackmacgap"
+        },
+        {
+          "cat": "research",
+          "end": "23:37",
+          "note": "openreview.net",
+          "src": "chrome",
+          "start": "23:19",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
+        }
+      ],
+      "key": "2026-7-11",
+      "logged": 334,
+      "ratio": 0.5013437849774166,
+      "real": 167,
+      "stats": {
+        "contextSwitches": 23,
+        "justOneMoreThing": 4,
+        "longestFocus": "1h 6m",
+        "tabsOpened": 30
+      },
+      "weekend": true
+    },
+    {
+      "dateLong": "Sunday, July 12",
+      "dateShort": "Sun, Jul 12",
+      "dayEnd": "23:25",
+      "dayNum": 12,
+      "dayStart": "15:23",
       "deep": 136,
+      "dow": 0,
+      "events": [
+        {
+          "cat": "admin",
+          "end": "15:25",
+          "note": "com.tinyspeck.slackmacgap",
+          "src": "macos",
+          "start": "15:23",
+          "title": "slackmacgap"
+        },
+        {
+          "cat": "research",
+          "end": "15:28",
+          "note": "openreview.net",
+          "src": "macos",
+          "start": "15:27",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
+        },
+        {
+          "cat": "writing",
+          "end": "15:33",
+          "note": "docs.google.com",
+          "src": "macos",
+          "start": "15:29",
+          "title": "Ada_Threats Rebuttel - Google Docs"
+        },
+        {
+          "cat": "personal",
+          "end": "15:35",
+          "note": "musac.jonasleisure.com.au",
+          "src": "macos",
+          "start": "15:34",
+          "title": "Group Sessions | Macquarie University Sport and Aquatic Cent"
+        },
+        {
+          "cat": "admin",
+          "end": "15:40",
+          "note": "translate.google.com",
+          "src": "macos",
+          "start": "15:35",
+          "title": "Google Translate"
+        },
+        {
+          "cat": "personal",
+          "end": "15:44",
+          "note": "open.spotify.com",
+          "src": "macos",
+          "start": "15:41",
+          "title": "Spotify - Web Player: Music for everyone"
+        },
+        {
+          "cat": "admin",
+          "end": "15:47",
+          "note": "23 hits",
+          "src": "claude",
+          "start": "15:44",
+          "title": "PhD worklog review"
+        },
+        {
+          "cat": "personal",
+          "end": "15:50",
+          "note": "open.spotify.com",
+          "src": "macos",
+          "start": "15:47",
+          "title": "Spotify - Web Player: Music for everyone"
+        },
+        {
+          "cat": "personal",
+          "end": "16:01",
+          "note": "open.spotify.com",
+          "src": "macos",
+          "start": "15:50",
+          "title": "Spotify - Web Player: Music for everyone"
+        },
+        {
+          "cat": "personal",
+          "end": "16:18",
+          "note": "open.spotify.com",
+          "src": "macos",
+          "start": "16:13",
+          "title": "Spotify - Web Player: Music for everyone"
+        },
+        {
+          "cat": "personal",
+          "end": "16:37",
+          "note": "open.spotify.com",
+          "src": "macos",
+          "start": "16:20",
+          "title": "Spotify - Web Player: Music for everyone"
+        },
+        {
+          "cat": "personal",
+          "end": "16:47",
+          "note": "open.spotify.com",
+          "src": "macos",
+          "start": "16:40",
+          "title": "Spotify - Web Player: Music for everyone"
+        },
+        {
+          "cat": "coding",
+          "end": "16:51",
+          "note": "1 hit",
+          "src": "local",
+          "start": "16:47",
+          "title": "stats_wilson_mcnemar.py"
+        },
+        {
+          "cat": "personal",
+          "end": "17:00",
+          "note": "open.spotify.com",
+          "src": "macos",
+          "start": "16:56",
+          "title": "Spotify - Web Player: Music for everyone"
+        },
+        {
+          "cat": "coding",
+          "end": "17:09",
+          "note": "com.microsoft.VSCode",
+          "src": "macos",
+          "start": "17:00",
+          "title": "VSCode"
+        },
+        {
+          "cat": "writing",
+          "end": "17:11",
+          "note": "2 hits",
+          "src": "local",
+          "start": "17:09",
+          "title": "stats_table.md"
+        },
+        {
+          "cat": "coding",
+          "end": "17:13",
+          "note": "com.microsoft.VSCode",
+          "src": "macos",
+          "start": "17:11",
+          "title": "VSCode"
+        },
+        {
+          "cat": "personal",
+          "end": "17:26",
+          "note": "open.spotify.com",
+          "src": "macos",
+          "start": "17:13",
+          "title": "Spotify - Web Player: Music for everyone"
+        },
+        {
+          "cat": "personal",
+          "end": "17:36",
+          "note": "open.spotify.com",
+          "src": "macos",
+          "start": "17:30",
+          "title": "Spotify - Web Player: Music for everyone"
+        },
+        {
+          "cat": "coding",
+          "end": "17:43",
+          "note": "com.microsoft.VSCode",
+          "src": "macos",
+          "start": "17:37",
+          "title": "VSCode"
+        },
+        {
+          "cat": "personal",
+          "end": "19:21",
+          "note": "open.spotify.com",
+          "src": "macos",
+          "start": "19:12",
+          "title": "Spotify - Web Player: Music for everyone"
+        },
+        {
+          "cat": "coding",
+          "end": "19:32",
+          "note": "com.microsoft.VSCode",
+          "src": "macos",
+          "start": "19:21",
+          "title": "VSCode"
+        },
+        {
+          "cat": "personal",
+          "end": "19:35",
+          "note": "open.spotify.com",
+          "src": "macos",
+          "start": "19:32",
+          "title": "Spotify - Web Player: Music for everyone"
+        },
+        {
+          "cat": "coding",
+          "end": "19:44",
+          "note": "com.microsoft.VSCode",
+          "src": "macos",
+          "start": "19:35",
+          "title": "VSCode"
+        },
+        {
+          "cat": "personal",
+          "end": "19:48",
+          "note": "open.spotify.com",
+          "src": "macos",
+          "start": "19:44",
+          "title": "Spotify - Web Player: Music for everyone"
+        },
+        {
+          "cat": "coding",
+          "end": "19:51",
+          "note": "com.microsoft.VSCode",
+          "src": "macos",
+          "start": "19:48",
+          "title": "VSCode"
+        },
+        {
+          "cat": "coding",
+          "end": "19:58",
+          "note": "com.microsoft.VSCode",
+          "src": "macos",
+          "start": "19:51",
+          "title": "VSCode"
+        },
+        {
+          "cat": "research",
+          "end": "20:01",
+          "note": "adaren100.github.io",
+          "src": "macos",
+          "start": "19:59",
+          "title": "AI Digest — July 12, 2026 | Ada's Notes"
+        },
+        {
+          "cat": "personal",
+          "end": "20:04",
+          "note": "x.com",
+          "src": "chrome",
+          "start": "20:01",
+          "title": "X 上的 Elon Musk：“He takes scamming to a whole new level” / X"
+        },
+        {
+          "cat": "research",
+          "end": "20:09",
+          "note": "adaren100.github.io",
+          "src": "macos",
+          "start": "20:04",
+          "title": "How Deutsche Telekom is rewiring telecommunications with AI "
+        },
+        {
+          "cat": "coding",
+          "end": "20:26",
+          "note": "com.microsoft.VSCode",
+          "src": "macos",
+          "start": "20:09",
+          "title": "VSCode"
+        },
+        {
+          "cat": "research",
+          "end": "20:42",
+          "note": "adaren100.github.io",
+          "src": "macos",
+          "start": "20:36",
+          "title": "Where the time actually went | Ada's Notes"
+        },
+        {
+          "cat": "coding",
+          "end": "20:48",
+          "note": "com.microsoft.VSCode",
+          "src": "macos",
+          "start": "20:42",
+          "title": "VSCode"
+        },
+        {
+          "cat": "research",
+          "end": "20:53",
+          "note": "adaren100.github.io",
+          "src": "macos",
+          "start": "20:48",
+          "title": "Where the time actually went | Ada's Notes"
+        },
+        {
+          "cat": "research",
+          "end": "21:26",
+          "note": "adaren100.github.io",
+          "src": "macos",
+          "start": "20:56",
+          "title": "Where the time actually went | Ada's Notes"
+        },
+        {
+          "cat": "coding",
+          "end": "21:29",
+          "note": "1 hit",
+          "src": "local",
+          "start": "21:26",
+          "title": "verify_submit_labels.py"
+        },
+        {
+          "cat": "research",
+          "end": "21:40",
+          "note": "chatgpt.com",
+          "src": "macos",
+          "start": "21:38",
+          "title": "ChatGPT"
+        },
+        {
+          "cat": "admin",
+          "end": "22:00",
+          "note": "translate.google.com",
+          "src": "macos",
+          "start": "21:40",
+          "title": "Google Translate"
+        },
+        {
+          "cat": "admin",
+          "end": "22:26",
+          "note": "translate.google.com",
+          "src": "macos",
+          "start": "22:11",
+          "title": "Google Translate"
+        },
+        {
+          "cat": "admin",
+          "end": "23:25",
+          "note": "translate.google.com",
+          "src": "macos",
+          "start": "23:19",
+          "title": "Google Translate"
+        }
+      ],
+      "key": "2026-7-12",
+      "logged": 275,
       "ratio": 0.49613467867440464,
+      "real": 136,
       "stats": {
         "contextSwitches": 30,
-        "tabsOpened": 3,
+        "justOneMoreThing": 5,
         "longestFocus": "1h 14m",
-        "justOneMoreThing": 5
-      }
+        "tabsOpened": 3
+      },
+      "weekend": true
     },
     {
       "key": "2026-7-13",
@@ -32786,7 +33178,7 @@
       "dateShort": "Mon, Jul 13",
       "dateLong": "Monday, July 13",
       "dayStart": "10:05",
-      "dayEnd": "15:13",
+      "dayEnd": "16:13",
       "events": [
         {
           "start": "10:05",
@@ -32926,7 +33318,7 @@
         },
         {
           "start": "14:15",
-          "end": "14:18",
+          "end": "14:19",
           "cat": "research",
           "src": "macos",
           "title": "ARR Reviewer Guidelines – ACL Rolling Review – A peer review",
@@ -32936,7 +33328,7 @@
           "start": "14:19",
           "end": "14:25",
           "cat": "research",
-          "src": "chrome",
+          "src": "macos",
           "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
           "note": "openreview.net"
         },
@@ -32966,17 +33358,33 @@
         },
         {
           "start": "14:36",
-          "end": "14:52",
+          "end": "14:37",
           "cat": "research",
-          "src": "chrome",
+          "src": "macos",
           "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
           "note": "openreview.net"
         },
         {
+          "start": "14:37",
+          "end": "14:47",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "14:47",
+          "end": "14:52",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
           "start": "14:53",
-          "end": "14:56",
+          "end": "15:04",
           "cat": "writing",
-          "src": "chrome",
+          "src": "macos",
           "title": "Ada_Threats Rebuttel - Google Docs",
           "note": "docs.google.com"
         },
@@ -32986,7 +33394,7 @@
           "cat": "admin",
           "src": "claude",
           "title": "PhD worklog review",
-          "note": "35 hits"
+          "note": "48 hits"
         },
         {
           "start": "15:09",
@@ -32994,34 +33402,42 @@
           "cat": "admin",
           "src": "claude",
           "title": "PhD worklog review",
-          "note": "35 hits"
+          "note": "48 hits"
         },
         {
-          "start": "15:12",
-          "end": "15:13",
+          "start": "15:14",
+          "end": "15:15",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Ada_Threats Rebuttel - Google Docs",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "16:08",
+          "end": "16:11",
+          "cat": "admin",
+          "src": "claude",
+          "title": "PhD worklog review",
+          "note": "7 hits"
+        },
+        {
+          "start": "16:11",
+          "end": "16:13",
           "cat": "coding",
           "src": "local",
-          "title": "build_data.py",
-          "note": "1 hit"
-        },
-        {
-          "start": "15:13",
-          "end": "15:13",
-          "cat": "writing",
-          "src": "local",
-          "title": "README.md",
+          "title": "snapshots.json",
           "note": "1 hit"
         }
       ],
-      "logged": 232,
-      "real": 160,
-      "deep": 160,
-      "ratio": 0.6903785966672277,
+      "logged": 245,
+      "real": 170,
+      "deep": 170,
+      "ratio": 0.6929597386756957,
       "stats": {
-        "contextSwitches": 20,
-        "tabsOpened": 21,
+        "contextSwitches": 23,
+        "tabsOpened": 12,
         "longestFocus": "44m",
-        "justOneMoreThing": 5
+        "justOneMoreThing": 6
       }
     },
     {
