@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-07-14T10:20:08+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-07-15T10:20:09+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -26825,650 +26825,650 @@
         "weekend": true
       },
       {
-        "key": "2026-7-13",
-        "dayNum": 13,
-        "dow": 1,
-        "weekend": false,
-        "dateShort": "Mon, Jul 13",
         "dateLong": "Monday, July 13",
-        "dayStart": "10:05",
+        "dateShort": "Mon, Jul 13",
         "dayEnd": "00:02",
+        "dayNum": 13,
+        "dayStart": "10:05",
+        "deep": 353,
+        "dow": 1,
         "events": [
           {
-            "start": "10:05",
+            "cat": "admin",
             "end": "10:06",
-            "cat": "admin",
+            "note": "mail.google.com",
             "src": "macos",
-            "title": "From Doing to Tending - ada.ren.cn@gmail.com - Gmail",
-            "note": "mail.google.com"
+            "start": "10:05",
+            "title": "From Doing to Tending - ada.ren.cn@gmail.com - Gmail"
           },
           {
-            "start": "10:06",
+            "cat": "research",
             "end": "10:15",
-            "cat": "research",
+            "note": "openreview.net",
             "src": "chrome",
-            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-            "note": "openreview.net"
+            "start": "10:06",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
           },
           {
-            "start": "10:15",
+            "cat": "admin",
             "end": "10:16",
-            "cat": "admin",
+            "note": "com.tinyspeck.slackmacgap",
             "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "start": "10:15",
+            "title": "slackmacgap"
           },
           {
-            "start": "10:16",
+            "cat": "research",
             "end": "10:24",
-            "cat": "research",
+            "note": "openreview.net",
             "src": "macos",
-            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-            "note": "openreview.net"
+            "start": "10:16",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
           },
           {
-            "start": "10:25",
+            "cat": "research",
             "end": "10:39",
-            "cat": "research",
+            "note": "openreview.net",
             "src": "macos",
-            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-            "note": "openreview.net"
+            "start": "10:25",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
           },
           {
-            "start": "10:42",
+            "cat": "research",
             "end": "10:49",
-            "cat": "research",
+            "note": "openreview.net",
             "src": "macos",
-            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-            "note": "openreview.net"
+            "start": "10:42",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
           },
           {
-            "start": "10:49",
+            "cat": "research",
             "end": "11:04",
-            "cat": "research",
+            "note": "openreview.net",
             "src": "chrome",
-            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-            "note": "openreview.net"
+            "start": "10:49",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
           },
           {
-            "start": "11:04",
+            "cat": "admin",
             "end": "11:12",
-            "cat": "admin",
+            "note": "20 hits",
             "src": "claude",
-            "title": "PhD worklog review",
-            "note": "20 hits"
+            "start": "11:04",
+            "title": "PhD worklog review"
           },
           {
-            "start": "11:12",
+            "cat": "research",
             "end": "11:44",
-            "cat": "research",
+            "note": "openreview.net",
             "src": "chrome",
-            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-            "note": "openreview.net"
+            "start": "11:12",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
           },
           {
-            "start": "11:44",
+            "cat": "admin",
             "end": "11:47",
-            "cat": "admin",
+            "note": "com.tinyspeck.slackmacgap",
             "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "start": "11:44",
+            "title": "slackmacgap"
           },
           {
-            "start": "11:47",
+            "cat": "research",
             "end": "12:05",
-            "cat": "research",
+            "note": "openreview.net",
             "src": "macos",
-            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-            "note": "openreview.net"
+            "start": "11:47",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
           },
           {
-            "start": "12:05",
+            "cat": "coding",
             "end": "12:16",
-            "cat": "coding",
+            "note": "iridescent-smakager-d5ee12.netlify.app",
             "src": "macos",
-            "title": "Mathematics Mock Quiz",
-            "note": "iridescent-smakager-d5ee12.netlify.app"
+            "start": "12:05",
+            "title": "Mathematics Mock Quiz"
           },
           {
-            "start": "12:16",
+            "cat": "admin",
             "end": "12:17",
-            "cat": "admin",
+            "note": "com.tinyspeck.slackmacgap",
             "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "start": "12:16",
+            "title": "slackmacgap"
           },
           {
-            "start": "12:17",
+            "cat": "coding",
             "end": "12:20",
-            "cat": "coding",
+            "note": "iridescent-smakager-d5ee12.netlify.app",
             "src": "macos",
-            "title": "Mathematics Mock Quiz",
-            "note": "iridescent-smakager-d5ee12.netlify.app"
+            "start": "12:17",
+            "title": "Mathematics Mock Quiz"
           },
           {
-            "start": "12:20",
+            "cat": "admin",
             "end": "12:50",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "macos",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "12:20",
+            "title": "Google Translate"
           },
           {
-            "start": "12:50",
+            "cat": "research",
             "end": "12:53",
-            "cat": "research",
+            "note": "openreview.net",
             "src": "macos",
-            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-            "note": "openreview.net"
+            "start": "12:50",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
           },
           {
-            "start": "12:53",
+            "cat": "research",
             "end": "13:13",
-            "cat": "research",
+            "note": "aclrollingreview.org",
             "src": "macos",
-            "title": "ARR Reviewer Guidelines – ACL Rolling Review – A peer review",
-            "note": "aclrollingreview.org"
+            "start": "12:53",
+            "title": "ARR Reviewer Guidelines – ACL Rolling Review – A peer review"
           },
           {
-            "start": "14:15",
+            "cat": "research",
             "end": "14:19",
-            "cat": "research",
+            "note": "aclrollingreview.org",
             "src": "macos",
-            "title": "ARR Reviewer Guidelines – ACL Rolling Review – A peer review",
-            "note": "aclrollingreview.org"
+            "start": "14:15",
+            "title": "ARR Reviewer Guidelines – ACL Rolling Review – A peer review"
           },
           {
-            "start": "14:19",
+            "cat": "research",
             "end": "14:25",
-            "cat": "research",
+            "note": "openreview.net",
             "src": "macos",
-            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-            "note": "openreview.net"
+            "start": "14:19",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
           },
           {
-            "start": "14:25",
+            "cat": "admin",
             "end": "14:28",
-            "cat": "admin",
+            "note": "3 hits",
             "src": "claude",
-            "title": "PhD worklog review",
-            "note": "3 hits"
+            "start": "14:25",
+            "title": "PhD worklog review"
           },
           {
-            "start": "14:28",
+            "cat": "research",
             "end": "14:33",
-            "cat": "research",
+            "note": "openreview.net",
             "src": "chrome",
-            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-            "note": "openreview.net"
+            "start": "14:28",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
           },
           {
-            "start": "14:33",
+            "cat": "admin",
             "end": "14:36",
-            "cat": "admin",
+            "note": "2 hits",
             "src": "claude",
-            "title": "PhD worklog review",
-            "note": "2 hits"
+            "start": "14:33",
+            "title": "PhD worklog review"
           },
           {
-            "start": "14:36",
+            "cat": "research",
             "end": "14:37",
-            "cat": "research",
+            "note": "openreview.net",
             "src": "macos",
-            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-            "note": "openreview.net"
+            "start": "14:36",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
           },
           {
-            "start": "14:37",
+            "cat": "coding",
             "end": "14:47",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "14:37",
+            "title": "codex"
           },
           {
-            "start": "14:47",
+            "cat": "research",
             "end": "14:52",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "14:47",
+            "title": "zotero"
           },
           {
-            "start": "14:53",
+            "cat": "writing",
             "end": "15:04",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Ada_Threats Rebuttel - Google Docs",
-            "note": "docs.google.com"
+            "start": "14:53",
+            "title": "Ada_Threats Rebuttel - Google Docs"
           },
           {
-            "start": "15:04",
+            "cat": "admin",
             "end": "15:12",
-            "cat": "admin",
+            "note": "48 hits",
             "src": "claude",
-            "title": "PhD worklog review",
-            "note": "48 hits"
+            "start": "15:04",
+            "title": "PhD worklog review"
           },
           {
-            "start": "15:12",
+            "cat": "writing",
             "end": "15:13",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Ada_Threats Rebuttel - Google Docs",
-            "note": "docs.google.com"
+            "start": "15:12",
+            "title": "Ada_Threats Rebuttel - Google Docs"
           },
           {
-            "start": "15:13",
+            "cat": "writing",
             "end": "15:18",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Ada_Threats Rebuttel - Google Docs",
-            "note": "docs.google.com"
+            "start": "15:13",
+            "title": "Ada_Threats Rebuttel - Google Docs"
           },
           {
-            "start": "15:20",
+            "cat": "writing",
             "end": "15:22",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Ada_Threats Rebuttel - Google Docs",
-            "note": "docs.google.com"
+            "start": "15:20",
+            "title": "Ada_Threats Rebuttel - Google Docs"
           },
           {
-            "start": "15:39",
+            "cat": "writing",
             "end": "16:07",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Ada_Threats Rebuttel - Google Docs",
-            "note": "docs.google.com"
+            "start": "15:39",
+            "title": "Ada_Threats Rebuttel - Google Docs"
           },
           {
-            "start": "16:08",
+            "cat": "admin",
             "end": "16:11",
-            "cat": "admin",
+            "note": "11 hits",
             "src": "claude",
-            "title": "PhD worklog review",
-            "note": "11 hits"
+            "start": "16:08",
+            "title": "PhD worklog review"
           },
           {
-            "start": "16:12",
+            "cat": "research",
             "end": "16:15",
-            "cat": "research",
+            "note": "openreview.net",
             "src": "macos",
-            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-            "note": "openreview.net"
+            "start": "16:12",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
           },
           {
-            "start": "16:15",
+            "cat": "research",
             "end": "16:17",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "arxiv.org",
-            "note": "arxiv.org"
+            "start": "16:15",
+            "title": "arxiv.org"
           },
           {
-            "start": "16:17",
+            "cat": "admin",
             "end": "16:21",
-            "cat": "admin",
+            "note": "11 hits",
             "src": "claude",
-            "title": "PhD worklog review",
-            "note": "11 hits"
+            "start": "16:17",
+            "title": "PhD worklog review"
           },
           {
-            "start": "16:21",
+            "cat": "research",
             "end": "16:25",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "chrome",
-            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-            "note": "adaren100.github.io"
+            "start": "16:21",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
           },
           {
-            "start": "16:25",
+            "cat": "admin",
             "end": "16:26",
-            "cat": "admin",
+            "note": "36 hits",
             "src": "claude",
-            "title": "PhD worklog review",
-            "note": "36 hits"
+            "start": "16:25",
+            "title": "PhD worklog review"
           },
           {
-            "start": "16:26",
+            "cat": "admin",
             "end": "16:31",
-            "cat": "admin",
+            "note": "36 hits",
             "src": "claude",
-            "title": "PhD worklog review",
-            "note": "36 hits"
+            "start": "16:26",
+            "title": "PhD worklog review"
           },
           {
-            "start": "16:31",
+            "cat": "research",
             "end": "16:37",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "16:31",
+            "title": "zotero"
           },
           {
-            "start": "16:37",
+            "cat": "admin",
             "end": "16:40",
-            "cat": "admin",
+            "note": "24 hits",
             "src": "claude",
-            "title": "PhD worklog review",
-            "note": "24 hits"
+            "start": "16:37",
+            "title": "PhD worklog review"
           },
           {
+            "cat": "admin",
+            "end": "16:46",
+            "note": "24 hits",
+            "src": "claude",
             "start": "16:41",
-            "end": "16:46",
-            "cat": "admin",
-            "src": "claude",
-            "title": "PhD worklog review",
-            "note": "24 hits"
+            "title": "PhD worklog review"
           },
           {
+            "cat": "personal",
+            "end": "16:46",
+            "note": "x.com",
+            "src": "macos",
             "start": "16:46",
-            "end": "16:46",
-            "cat": "personal",
-            "src": "macos",
-            "title": "(3) 主页 / X",
-            "note": "x.com"
+            "title": "(3) 主页 / X"
           },
           {
-            "start": "16:47",
+            "cat": "coding",
             "end": "16:49",
-            "cat": "coding",
+            "note": "console.x.com",
             "src": "macos",
-            "title": "Developer Console",
-            "note": "console.x.com"
+            "start": "16:47",
+            "title": "Developer Console"
           },
           {
-            "start": "16:49",
+            "cat": "research",
             "end": "16:51",
-            "cat": "research",
+            "note": "memclaw.net",
             "src": "macos",
-            "title": "We Married Claude and ChatGPT. MemClaw Was the Bestman. | Me",
-            "note": "memclaw.net"
+            "start": "16:49",
+            "title": "We Married Claude and ChatGPT. MemClaw Was the Bestman. | Me"
           },
           {
-            "start": "16:51",
+            "cat": "personal",
             "end": "16:54",
-            "cat": "personal",
+            "note": "x.com",
             "src": "macos",
-            "title": "(3) X 上的 Han Xiao ✈️ ICML 2026：“interesting position paper t",
-            "note": "x.com"
+            "start": "16:51",
+            "title": "(3) X 上的 Han Xiao ✈️ ICML 2026：“interesting position paper t"
           },
           {
-            "start": "16:55",
+            "cat": "research",
             "end": "16:55",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "macos",
-            "title": "AI Digest — July 13, 2026 | Ada's Notes",
-            "note": "adaren100.github.io"
-          },
-          {
             "start": "16:55",
+            "title": "AI Digest — July 13, 2026 | Ada's Notes"
+          },
+          {
+            "cat": "research",
             "end": "17:08",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "macos",
-            "title": "AI Digest — July 13, 2026 | Ada's Notes",
-            "note": "adaren100.github.io"
+            "start": "16:55",
+            "title": "AI Digest — July 13, 2026 | Ada's Notes"
           },
           {
-            "start": "17:08",
+            "cat": "admin",
             "end": "17:09",
-            "cat": "admin",
+            "note": "sport.mq.edu.au",
             "src": "macos",
-            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
-            "note": "sport.mq.edu.au"
+            "start": "17:08",
+            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni"
           },
           {
+            "cat": "admin",
+            "end": "18:44",
+            "note": "sport.mq.edu.au",
+            "src": "macos",
             "start": "18:43",
-            "end": "18:44",
-            "cat": "admin",
-            "src": "macos",
-            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
-            "note": "sport.mq.edu.au"
+            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni"
           },
           {
-            "start": "18:44",
-            "end": "18:44",
             "cat": "personal",
+            "end": "18:44",
+            "note": "youtube.com",
             "src": "chrome",
-            "title": "(59) YouTube",
-            "note": "youtube.com"
+            "start": "18:44",
+            "title": "(59) YouTube"
           },
           {
-            "start": "18:44",
+            "cat": "admin",
             "end": "18:47",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "18:44",
+            "title": "Outlook"
           },
           {
-            "start": "18:47",
-            "end": "18:49",
             "cat": "personal",
+            "end": "18:49",
+            "note": "youtube.com",
             "src": "macos",
-            "title": "(59) YouTube",
-            "note": "youtube.com"
+            "start": "18:47",
+            "title": "(59) YouTube"
           },
           {
-            "start": "18:51",
+            "cat": "meeting",
             "end": "18:54",
-            "cat": "meeting",
+            "note": "us06web.zoom.us",
             "src": "macos",
-            "title": "Towards Effective and Efficient Multi-Agent Language Model S",
-            "note": "us06web.zoom.us"
+            "start": "18:51",
+            "title": "Towards Effective and Efficient Multi-Agent Language Model S"
           },
           {
-            "start": "18:55",
+            "cat": "admin",
             "end": "18:57",
-            "cat": "admin",
+            "note": "com.tinyspeck.slackmacgap",
             "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "start": "18:55",
+            "title": "slackmacgap"
           },
           {
-            "start": "18:57",
+            "cat": "coding",
             "end": "19:14",
-            "cat": "coding",
+            "note": "xuanwang91.github.io",
             "src": "macos",
-            "title": "ACL 2026 Tutorial - Xuan Wang",
-            "note": "xuanwang91.github.io"
+            "start": "18:57",
+            "title": "ACL 2026 Tutorial - Xuan Wang"
           },
           {
-            "start": "19:14",
+            "cat": "research",
             "end": "19:27",
-            "cat": "research",
+            "note": "zh.wikipedia.org",
             "src": "macos",
-            "title": "汉诺塔 - 维基百科，自由的百科全书",
-            "note": "zh.wikipedia.org"
+            "start": "19:14",
+            "title": "汉诺塔 - 维基百科，自由的百科全书"
           },
           {
-            "start": "19:27",
+            "cat": "coding",
             "end": "19:30",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "19:27",
+            "title": "codex"
           },
           {
-            "start": "19:30",
-            "end": "19:31",
             "cat": "research",
+            "end": "19:31",
+            "note": "zh.wikipedia.org",
             "src": "macos",
-            "title": "汉诺塔 - 维基百科，自由的百科全书",
-            "note": "zh.wikipedia.org"
+            "start": "19:30",
+            "title": "汉诺塔 - 维基百科，自由的百科全书"
           },
           {
-            "start": "19:31",
+            "cat": "meeting",
             "end": "19:33",
-            "cat": "meeting",
+            "note": "us06web.zoom.us",
             "src": "macos",
-            "title": "Towards Effective and Efficient Multi-Agent Language Model S",
-            "note": "us06web.zoom.us"
+            "start": "19:31",
+            "title": "Towards Effective and Efficient Multi-Agent Language Model S"
           },
           {
-            "start": "19:33",
+            "cat": "coding",
             "end": "19:43",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "19:33",
+            "title": "codex"
           },
           {
-            "start": "19:43",
+            "cat": "meeting",
             "end": "19:45",
-            "cat": "meeting",
+            "note": "us06web.zoom.us",
             "src": "chrome",
-            "title": "Towards Effective and Efficient Multi-Agent Language Model S",
-            "note": "us06web.zoom.us"
+            "start": "19:43",
+            "title": "Towards Effective and Efficient Multi-Agent Language Model S"
           },
           {
-            "start": "19:45",
+            "cat": "coding",
             "end": "19:46",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "19:45",
+            "title": "codex"
           },
           {
-            "start": "19:46",
+            "cat": "meeting",
             "end": "19:49",
-            "cat": "meeting",
+            "note": "us06web.zoom.us",
             "src": "macos",
-            "title": "Towards Effective and Efficient Multi-Agent Language Model S",
-            "note": "us06web.zoom.us"
+            "start": "19:46",
+            "title": "Towards Effective and Efficient Multi-Agent Language Model S"
           },
           {
-            "start": "19:49",
+            "cat": "coding",
             "end": "19:53",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "19:49",
+            "title": "codex"
           },
           {
-            "start": "19:53",
+            "cat": "meeting",
             "end": "20:01",
-            "cat": "meeting",
+            "note": "us06web.zoom.us",
             "src": "macos",
-            "title": "Towards Effective and Efficient Multi-Agent Language Model S",
-            "note": "us06web.zoom.us"
+            "start": "19:53",
+            "title": "Towards Effective and Efficient Multi-Agent Language Model S"
           },
           {
-            "start": "20:01",
+            "cat": "admin",
             "end": "20:13",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "macos",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "20:01",
+            "title": "Google Translate"
           },
           {
-            "start": "20:14",
+            "cat": "admin",
             "end": "20:36",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "macos",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "20:14",
+            "title": "Google Translate"
           },
           {
-            "start": "21:33",
+            "cat": "admin",
             "end": "21:48",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "macos",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "21:33",
+            "title": "Google Translate"
           },
           {
-            "start": "22:09",
+            "cat": "admin",
             "end": "22:19",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "macos",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "22:09",
+            "title": "Google Translate"
           },
           {
-            "start": "22:19",
+            "cat": "coding",
             "end": "22:25",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "22:19",
+            "title": "codex"
           },
           {
-            "start": "22:25",
+            "cat": "admin",
             "end": "22:32",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "macos",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "22:25",
+            "title": "Google Translate"
           },
           {
-            "start": "22:32",
+            "cat": "coding",
             "end": "22:38",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "22:32",
+            "title": "codex"
           },
           {
-            "start": "22:38",
+            "cat": "admin",
             "end": "22:39",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "macos",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "22:38",
+            "title": "Google Translate"
           },
           {
-            "start": "22:39",
-            "end": "22:40",
             "cat": "coding",
+            "end": "22:40",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "22:39",
+            "title": "codex"
           },
           {
-            "start": "22:40",
+            "cat": "admin",
             "end": "22:46",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "macos",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "22:40",
+            "title": "Google Translate"
           },
           {
-            "start": "22:46",
+            "cat": "admin",
             "end": "23:02",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "macos",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "22:46",
+            "title": "Google Translate"
           },
           {
-            "start": "23:04",
+            "cat": "admin",
             "end": "23:37",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "macos",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "23:04",
+            "title": "Google Translate"
           },
           {
-            "start": "23:37",
-            "end": "00:02",
             "cat": "meeting",
+            "end": "00:02",
+            "note": "us06web.zoom.us",
             "src": "macos",
-            "title": "Towards Effective and Efficient Multi-Agent Language Model S",
-            "note": "us06web.zoom.us"
+            "start": "23:37",
+            "title": "Towards Effective and Efficient Multi-Agent Language Model S"
           }
         ],
+        "key": "2026-7-13",
         "logged": 571,
-        "real": 353,
-        "deep": 353,
         "ratio": 0.617967895777572,
+        "real": 353,
         "stats": {
           "contextSwitches": 58,
-          "tabsOpened": 21,
+          "justOneMoreThing": 13,
           "longestFocus": "1h 4m",
-          "justOneMoreThing": 13
-        }
+          "tabsOpened": 21
+        },
+        "weekend": false
       },
       {
         "key": "2026-7-14",
@@ -27477,11 +27477,11 @@
         "weekend": false,
         "dateShort": "Tue, Jul 14",
         "dateLong": "Tuesday, July 14",
-        "dayStart": "09:59",
-        "dayEnd": "10:39",
+        "dayStart": "10:00",
+        "dayEnd": "21:55",
         "events": [
           {
-            "start": "09:59",
+            "start": "10:00",
             "end": "10:02",
             "cat": "meeting",
             "src": "macos",
@@ -27493,35 +27493,579 @@
             "end": "10:09",
             "cat": "admin",
             "src": "macos",
-            "title": "Inbox (2,642) - ada.ren.cn@gmail.com - Gmail",
+            "title": "Inbox (2,641) - ada.ren.cn@gmail.com - Gmail",
             "note": "mail.google.com"
           },
           {
             "start": "10:09",
-            "end": "10:22",
+            "end": "10:20",
             "cat": "admin",
             "src": "macos",
             "title": "Google Translate",
             "note": "translate.google.com"
           },
           {
+            "start": "10:20",
+            "end": "10:21",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
+            "note": "sport.mq.edu.au"
+          },
+          {
             "start": "10:22",
-            "end": "10:39",
+            "end": "10:25",
+            "cat": "admin",
+            "src": "macos",
+            "title": "What makes VAR decisions so tricky in soccer? - Google Searc",
+            "note": "google.com"
+          },
+          {
+            "start": "10:25",
+            "end": "10:26",
             "cat": "coding",
             "src": "chrome",
             "title": "Ask Gemma - Chrome Web Store",
             "note": "chromewebstore.google.com"
+          },
+          {
+            "start": "10:26",
+            "end": "10:28",
+            "cat": "writing",
+            "src": "macos",
+            "title": "ACL 2026 Tutorial AI Scientist - Google Docs",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "10:28",
+            "end": "10:30",
+            "cat": "writing",
+            "src": "macos",
+            "title": "ACL26_Industry.pdf - Google Drive",
+            "note": "drive.google.com"
+          },
+          {
+            "start": "10:30",
+            "end": "10:35",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Ask Gemma - Chrome Web Store",
+            "note": "chromewebstore.google.com"
+          },
+          {
+            "start": "10:35",
+            "end": "10:38",
+            "cat": "research",
+            "src": "macos",
+            "title": "‪Yuchen Zhuang‬ - ‪Google Scholar‬",
+            "note": "scholar.google.com"
+          },
+          {
+            "start": "10:38",
+            "end": "10:52",
+            "cat": "research",
+            "src": "macos",
+            "title": "OSWorld 2.0 Task Showcase",
+            "note": "osworld-v2.xlang.ai"
+          },
+          {
+            "start": "10:52",
+            "end": "10:57",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "10:57",
+            "end": "10:58",
+            "cat": "research",
+            "src": "chrome",
+            "title": "‪Yuchen Zhuang‬ - ‪Google Scholar‬",
+            "note": "scholar.google.com"
+          },
+          {
+            "start": "10:59",
+            "end": "11:37",
+            "cat": "research",
+            "src": "macos",
+            "title": "OSWorld 2.0 Task Showcase",
+            "note": "osworld-v2.xlang.ai"
+          },
+          {
+            "start": "11:45",
+            "end": "11:54",
+            "cat": "research",
+            "src": "macos",
+            "title": "OSWorld 2.0 Task Showcase",
+            "note": "osworld-v2.xlang.ai"
+          },
+          {
+            "start": "11:54",
+            "end": "11:55",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "11:56",
+            "end": "12:02",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "12:02",
+            "end": "12:11",
+            "cat": "research",
+            "src": "macos",
+            "title": "OSWorld 2.0 Task Showcase",
+            "note": "osworld-v2.xlang.ai"
+          },
+          {
+            "start": "12:11",
+            "end": "12:16",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "13:15",
+            "end": "13:25",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "13:26",
+            "end": "13:30",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Where the time actually went | Ada's Notes",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "13:31",
+            "end": "13:43",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(4) X 上的 Ryo Lu：“built a custom e-reader firmware with Curso",
+            "note": "x.com"
+          },
+          {
+            "start": "13:43",
+            "end": "13:57",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "13:57",
+            "end": "14:02",
+            "cat": "personal",
+            "src": "macos",
+            "title": "X 上的 Sam Altman：“i'd love to see interesting things people h",
+            "note": "x.com"
+          },
+          {
+            "start": "14:02",
+            "end": "14:04",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "14:04",
+            "end": "14:10",
+            "cat": "personal",
+            "src": "macos",
+            "title": "X 上的 Sam Altman：“i'd love to see interesting things people h",
+            "note": "x.com"
+          },
+          {
+            "start": "14:11",
+            "end": "14:14",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "14:14",
+            "end": "14:18",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "zjunlp/DataMind: [ICLR/AAAI/KDD2026] Open-Source LLM-Based D",
+            "note": "github.com"
+          },
+          {
+            "start": "14:19",
+            "end": "14:21",
+            "cat": "research",
+            "src": "macos",
+            "title": "Unsupervised Skill Discovery for Agentic Data Analysis",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "14:21",
+            "end": "14:25",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "14:26",
+            "end": "14:27",
+            "cat": "research",
+            "src": "chrome",
+            "title": "zjunlp/LongDS · Datasets at Hugging Face",
+            "note": "huggingface.co"
+          },
+          {
+            "start": "14:28",
+            "end": "14:31",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "14:31",
+            "end": "14:36",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "14:36",
+            "end": "14:42",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "14:43",
+            "end": "14:44",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "14:45",
+            "end": "14:47",
+            "cat": "research",
+            "src": "macos",
+            "title": "LongDS-Bench: On the Failure of Long-Horizon Agentic Data An",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "14:48",
+            "end": "14:49",
+            "cat": "research",
+            "src": "macos",
+            "title": "LongDS-Bench: On the Failure of Long-Horizon Agentic Data An",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "14:49",
+            "end": "14:52",
+            "cat": "research",
+            "src": "macos",
+            "title": "LongDS-Bench: On the Failure of Long-Horizon Agentic Data An",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "14:52",
+            "end": "15:09",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:09",
+            "end": "15:12",
+            "cat": "research",
+            "src": "macos",
+            "title": "LongDS-Bench: On the Failure of Long-Horizon Agentic Data An",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "15:12",
+            "end": "15:18",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:22",
+            "end": "15:24",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:24",
+            "end": "15:32",
+            "cat": "research",
+            "src": "macos",
+            "title": "LongDS-Bench: On the Failure of Long-Horizon Agentic Data An",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "15:32",
+            "end": "15:36",
+            "cat": "research",
+            "src": "macos",
+            "title": "LongDS-Bench: On the Failure of Long-Horizon Agentic Data An",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "15:36",
+            "end": "15:40",
+            "cat": "research",
+            "src": "macos",
+            "title": "LongDS-Bench: On the Failure of Long-Horizon Agentic Data An",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "15:41",
+            "end": "15:42",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "15:42",
+            "end": "15:52",
+            "cat": "research",
+            "src": "macos",
+            "title": "LongDS-Bench: On the Failure of Long-Horizon Agentic Data An",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "15:52",
+            "end": "15:53",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:53",
+            "end": "16:05",
+            "cat": "research",
+            "src": "macos",
+            "title": "LongDS-Bench: On the Failure of Long-Horizon Agentic Data An",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "16:05",
+            "end": "16:13",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "16:15",
+            "end": "16:35",
+            "cat": "research",
+            "src": "macos",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+            "note": "openreview.net"
+          },
+          {
+            "start": "16:41",
+            "end": "16:42",
+            "cat": "research",
+            "src": "macos",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+            "note": "openreview.net"
+          },
+          {
+            "start": "16:42",
+            "end": "16:46",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "16:47",
+            "end": "16:47",
+            "cat": "research",
+            "src": "macos",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+            "note": "openreview.net"
+          },
+          {
+            "start": "16:47",
+            "end": "16:49",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "16:49",
+            "end": "16:55",
+            "cat": "research",
+            "src": "macos",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+            "note": "openreview.net"
+          },
+          {
+            "start": "16:55",
+            "end": "16:58",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "16:58",
+            "end": "17:15",
+            "cat": "research",
+            "src": "macos",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+            "note": "openreview.net"
+          },
+          {
+            "start": "17:16",
+            "end": "17:17",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "17:17",
+            "end": "17:39",
+            "cat": "research",
+            "src": "macos",
+            "title": "Dr Shuxiang Cao | University of Oxford Department of Physics",
+            "note": "physics.ox.ac.uk"
+          },
+          {
+            "start": "17:51",
+            "end": "17:53",
+            "cat": "research",
+            "src": "macos",
+            "title": "BA Physics | University of Oxford Department of Physics",
+            "note": "physics.ox.ac.uk"
+          },
+          {
+            "start": "19:47",
+            "end": "19:57",
+            "cat": "research",
+            "src": "macos",
+            "title": "BA Physics | University of Oxford Department of Physics",
+            "note": "physics.ox.ac.uk"
+          },
+          {
+            "start": "20:00",
+            "end": "20:12",
+            "cat": "research",
+            "src": "macos",
+            "title": "BA Physics | University of Oxford Department of Physics",
+            "note": "physics.ox.ac.uk"
+          },
+          {
+            "start": "20:12",
+            "end": "20:46",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Academic Dates - Calendar | MQ Sydney",
+            "note": "students.mq.edu.au"
+          },
+          {
+            "start": "20:46",
+            "end": "20:50",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "20:50",
+            "end": "20:52",
+            "cat": "research",
+            "src": "macos",
+            "title": "Tutorials - ACL 2026",
+            "note": "2026.aclweb.org"
+          },
+          {
+            "start": "20:54",
+            "end": "21:00",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(61) ICLR 2026 Recursive Self Improvement Workshop Full - Yo",
+            "note": "youtube.com"
+          },
+          {
+            "start": "21:00",
+            "end": "21:04",
+            "cat": "research",
+            "src": "macos",
+            "title": "The 64th Annual Meeting of the Association for Computational",
+            "note": "2026.aclweb.org"
+          },
+          {
+            "start": "21:04",
+            "end": "21:36",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(61) 他塔拉 TATARA - YouTube",
+            "note": "youtube.com"
+          },
+          {
+            "start": "21:42",
+            "end": "21:46",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(61) 他塔拉 TATARA - YouTube",
+            "note": "youtube.com"
+          },
+          {
+            "start": "21:46",
+            "end": "21:54",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "21:54",
+            "end": "21:55",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(61) 他塔拉 TATARA - YouTube",
+            "note": "youtube.com"
           }
         ],
-        "logged": 40,
-        "real": 20,
-        "deep": 20,
-        "ratio": 0.4989435047053423,
+        "logged": 486,
+        "real": 341,
+        "deep": 341,
+        "ratio": 0.7020057320830434,
         "stats": {
-          "contextSwitches": 2,
-          "tabsOpened": 3,
-          "longestFocus": "17m",
-          "justOneMoreThing": 0
+          "contextSwitches": 47,
+          "tabsOpened": 21,
+          "longestFocus": "1h 55m",
+          "justOneMoreThing": 8
         }
       },
       {
@@ -27531,17 +28075,26 @@
         "weekend": false,
         "dateShort": "Wed, Jul 15",
         "dateLong": "Wednesday, July 15",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "10:11",
+        "dayEnd": "10:20",
+        "events": [
+          {
+            "start": "10:11",
+            "end": "10:20",
+            "cat": "writing",
+            "src": "chrome",
+            "title": "ACL26_SLMs.pdf - Google Drive",
+            "note": "drive.google.com"
+          }
+        ],
+        "logged": 9,
+        "real": 9,
+        "deep": 9,
+        "ratio": 1.0,
         "stats": {
           "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "0m",
+          "tabsOpened": 3,
+          "longestFocus": "9m",
           "justOneMoreThing": 0
         }
       },
@@ -33532,650 +34085,650 @@
       "weekend": true
     },
     {
-      "key": "2026-7-13",
-      "dayNum": 13,
-      "dow": 1,
-      "weekend": false,
-      "dateShort": "Mon, Jul 13",
       "dateLong": "Monday, July 13",
-      "dayStart": "10:05",
+      "dateShort": "Mon, Jul 13",
       "dayEnd": "00:02",
+      "dayNum": 13,
+      "dayStart": "10:05",
+      "deep": 353,
+      "dow": 1,
       "events": [
         {
-          "start": "10:05",
+          "cat": "admin",
           "end": "10:06",
-          "cat": "admin",
+          "note": "mail.google.com",
           "src": "macos",
-          "title": "From Doing to Tending - ada.ren.cn@gmail.com - Gmail",
-          "note": "mail.google.com"
+          "start": "10:05",
+          "title": "From Doing to Tending - ada.ren.cn@gmail.com - Gmail"
         },
         {
-          "start": "10:06",
+          "cat": "research",
           "end": "10:15",
-          "cat": "research",
+          "note": "openreview.net",
           "src": "chrome",
-          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-          "note": "openreview.net"
+          "start": "10:06",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
         },
         {
-          "start": "10:15",
+          "cat": "admin",
           "end": "10:16",
-          "cat": "admin",
+          "note": "com.tinyspeck.slackmacgap",
           "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "start": "10:15",
+          "title": "slackmacgap"
         },
         {
-          "start": "10:16",
+          "cat": "research",
           "end": "10:24",
-          "cat": "research",
+          "note": "openreview.net",
           "src": "macos",
-          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-          "note": "openreview.net"
+          "start": "10:16",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
         },
         {
-          "start": "10:25",
+          "cat": "research",
           "end": "10:39",
-          "cat": "research",
+          "note": "openreview.net",
           "src": "macos",
-          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-          "note": "openreview.net"
+          "start": "10:25",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
         },
         {
-          "start": "10:42",
+          "cat": "research",
           "end": "10:49",
-          "cat": "research",
+          "note": "openreview.net",
           "src": "macos",
-          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-          "note": "openreview.net"
+          "start": "10:42",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
         },
         {
-          "start": "10:49",
+          "cat": "research",
           "end": "11:04",
-          "cat": "research",
+          "note": "openreview.net",
           "src": "chrome",
-          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-          "note": "openreview.net"
+          "start": "10:49",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
         },
         {
-          "start": "11:04",
+          "cat": "admin",
           "end": "11:12",
-          "cat": "admin",
+          "note": "20 hits",
           "src": "claude",
-          "title": "PhD worklog review",
-          "note": "20 hits"
+          "start": "11:04",
+          "title": "PhD worklog review"
         },
         {
-          "start": "11:12",
+          "cat": "research",
           "end": "11:44",
-          "cat": "research",
+          "note": "openreview.net",
           "src": "chrome",
-          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-          "note": "openreview.net"
+          "start": "11:12",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
         },
         {
-          "start": "11:44",
+          "cat": "admin",
           "end": "11:47",
-          "cat": "admin",
+          "note": "com.tinyspeck.slackmacgap",
           "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "start": "11:44",
+          "title": "slackmacgap"
         },
         {
-          "start": "11:47",
+          "cat": "research",
           "end": "12:05",
-          "cat": "research",
+          "note": "openreview.net",
           "src": "macos",
-          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-          "note": "openreview.net"
+          "start": "11:47",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
         },
         {
-          "start": "12:05",
+          "cat": "coding",
           "end": "12:16",
-          "cat": "coding",
+          "note": "iridescent-smakager-d5ee12.netlify.app",
           "src": "macos",
-          "title": "Mathematics Mock Quiz",
-          "note": "iridescent-smakager-d5ee12.netlify.app"
+          "start": "12:05",
+          "title": "Mathematics Mock Quiz"
         },
         {
-          "start": "12:16",
+          "cat": "admin",
           "end": "12:17",
-          "cat": "admin",
+          "note": "com.tinyspeck.slackmacgap",
           "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "start": "12:16",
+          "title": "slackmacgap"
         },
         {
-          "start": "12:17",
+          "cat": "coding",
           "end": "12:20",
-          "cat": "coding",
+          "note": "iridescent-smakager-d5ee12.netlify.app",
           "src": "macos",
-          "title": "Mathematics Mock Quiz",
-          "note": "iridescent-smakager-d5ee12.netlify.app"
+          "start": "12:17",
+          "title": "Mathematics Mock Quiz"
         },
         {
-          "start": "12:20",
+          "cat": "admin",
           "end": "12:50",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "macos",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "12:20",
+          "title": "Google Translate"
         },
         {
-          "start": "12:50",
+          "cat": "research",
           "end": "12:53",
-          "cat": "research",
+          "note": "openreview.net",
           "src": "macos",
-          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-          "note": "openreview.net"
+          "start": "12:50",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
         },
         {
-          "start": "12:53",
+          "cat": "research",
           "end": "13:13",
-          "cat": "research",
+          "note": "aclrollingreview.org",
           "src": "macos",
-          "title": "ARR Reviewer Guidelines – ACL Rolling Review – A peer review",
-          "note": "aclrollingreview.org"
+          "start": "12:53",
+          "title": "ARR Reviewer Guidelines – ACL Rolling Review – A peer review"
         },
         {
-          "start": "14:15",
+          "cat": "research",
           "end": "14:19",
-          "cat": "research",
+          "note": "aclrollingreview.org",
           "src": "macos",
-          "title": "ARR Reviewer Guidelines – ACL Rolling Review – A peer review",
-          "note": "aclrollingreview.org"
+          "start": "14:15",
+          "title": "ARR Reviewer Guidelines – ACL Rolling Review – A peer review"
         },
         {
-          "start": "14:19",
+          "cat": "research",
           "end": "14:25",
-          "cat": "research",
+          "note": "openreview.net",
           "src": "macos",
-          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-          "note": "openreview.net"
+          "start": "14:19",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
         },
         {
-          "start": "14:25",
+          "cat": "admin",
           "end": "14:28",
-          "cat": "admin",
+          "note": "3 hits",
           "src": "claude",
-          "title": "PhD worklog review",
-          "note": "3 hits"
+          "start": "14:25",
+          "title": "PhD worklog review"
         },
         {
-          "start": "14:28",
+          "cat": "research",
           "end": "14:33",
-          "cat": "research",
+          "note": "openreview.net",
           "src": "chrome",
-          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-          "note": "openreview.net"
+          "start": "14:28",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
         },
         {
-          "start": "14:33",
+          "cat": "admin",
           "end": "14:36",
-          "cat": "admin",
+          "note": "2 hits",
           "src": "claude",
-          "title": "PhD worklog review",
-          "note": "2 hits"
+          "start": "14:33",
+          "title": "PhD worklog review"
         },
         {
-          "start": "14:36",
+          "cat": "research",
           "end": "14:37",
-          "cat": "research",
+          "note": "openreview.net",
           "src": "macos",
-          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-          "note": "openreview.net"
+          "start": "14:36",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
         },
         {
-          "start": "14:37",
+          "cat": "coding",
           "end": "14:47",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "14:37",
+          "title": "codex"
         },
         {
-          "start": "14:47",
+          "cat": "research",
           "end": "14:52",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "14:47",
+          "title": "zotero"
         },
         {
-          "start": "14:53",
+          "cat": "writing",
           "end": "15:04",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Ada_Threats Rebuttel - Google Docs",
-          "note": "docs.google.com"
+          "start": "14:53",
+          "title": "Ada_Threats Rebuttel - Google Docs"
         },
         {
-          "start": "15:04",
+          "cat": "admin",
           "end": "15:12",
-          "cat": "admin",
+          "note": "48 hits",
           "src": "claude",
-          "title": "PhD worklog review",
-          "note": "48 hits"
+          "start": "15:04",
+          "title": "PhD worklog review"
         },
         {
-          "start": "15:12",
+          "cat": "writing",
           "end": "15:13",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Ada_Threats Rebuttel - Google Docs",
-          "note": "docs.google.com"
+          "start": "15:12",
+          "title": "Ada_Threats Rebuttel - Google Docs"
         },
         {
-          "start": "15:13",
+          "cat": "writing",
           "end": "15:18",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Ada_Threats Rebuttel - Google Docs",
-          "note": "docs.google.com"
+          "start": "15:13",
+          "title": "Ada_Threats Rebuttel - Google Docs"
         },
         {
-          "start": "15:20",
+          "cat": "writing",
           "end": "15:22",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Ada_Threats Rebuttel - Google Docs",
-          "note": "docs.google.com"
+          "start": "15:20",
+          "title": "Ada_Threats Rebuttel - Google Docs"
         },
         {
-          "start": "15:39",
+          "cat": "writing",
           "end": "16:07",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Ada_Threats Rebuttel - Google Docs",
-          "note": "docs.google.com"
+          "start": "15:39",
+          "title": "Ada_Threats Rebuttel - Google Docs"
         },
         {
-          "start": "16:08",
+          "cat": "admin",
           "end": "16:11",
-          "cat": "admin",
+          "note": "11 hits",
           "src": "claude",
-          "title": "PhD worklog review",
-          "note": "11 hits"
+          "start": "16:08",
+          "title": "PhD worklog review"
         },
         {
-          "start": "16:12",
+          "cat": "research",
           "end": "16:15",
-          "cat": "research",
+          "note": "openreview.net",
           "src": "macos",
-          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-          "note": "openreview.net"
+          "start": "16:12",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
         },
         {
-          "start": "16:15",
+          "cat": "research",
           "end": "16:17",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "arxiv.org",
-          "note": "arxiv.org"
+          "start": "16:15",
+          "title": "arxiv.org"
         },
         {
-          "start": "16:17",
+          "cat": "admin",
           "end": "16:21",
-          "cat": "admin",
+          "note": "11 hits",
           "src": "claude",
-          "title": "PhD worklog review",
-          "note": "11 hits"
+          "start": "16:17",
+          "title": "PhD worklog review"
         },
         {
-          "start": "16:21",
+          "cat": "research",
           "end": "16:25",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "chrome",
-          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-          "note": "adaren100.github.io"
+          "start": "16:21",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
         },
         {
-          "start": "16:25",
+          "cat": "admin",
           "end": "16:26",
-          "cat": "admin",
+          "note": "36 hits",
           "src": "claude",
-          "title": "PhD worklog review",
-          "note": "36 hits"
+          "start": "16:25",
+          "title": "PhD worklog review"
         },
         {
-          "start": "16:26",
+          "cat": "admin",
           "end": "16:31",
-          "cat": "admin",
+          "note": "36 hits",
           "src": "claude",
-          "title": "PhD worklog review",
-          "note": "36 hits"
+          "start": "16:26",
+          "title": "PhD worklog review"
         },
         {
-          "start": "16:31",
+          "cat": "research",
           "end": "16:37",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "16:31",
+          "title": "zotero"
         },
         {
-          "start": "16:37",
+          "cat": "admin",
           "end": "16:40",
-          "cat": "admin",
+          "note": "24 hits",
           "src": "claude",
-          "title": "PhD worklog review",
-          "note": "24 hits"
+          "start": "16:37",
+          "title": "PhD worklog review"
         },
         {
+          "cat": "admin",
+          "end": "16:46",
+          "note": "24 hits",
+          "src": "claude",
           "start": "16:41",
-          "end": "16:46",
-          "cat": "admin",
-          "src": "claude",
-          "title": "PhD worklog review",
-          "note": "24 hits"
+          "title": "PhD worklog review"
         },
         {
+          "cat": "personal",
+          "end": "16:46",
+          "note": "x.com",
+          "src": "macos",
           "start": "16:46",
-          "end": "16:46",
-          "cat": "personal",
-          "src": "macos",
-          "title": "(3) 主页 / X",
-          "note": "x.com"
+          "title": "(3) 主页 / X"
         },
         {
-          "start": "16:47",
+          "cat": "coding",
           "end": "16:49",
-          "cat": "coding",
+          "note": "console.x.com",
           "src": "macos",
-          "title": "Developer Console",
-          "note": "console.x.com"
+          "start": "16:47",
+          "title": "Developer Console"
         },
         {
-          "start": "16:49",
+          "cat": "research",
           "end": "16:51",
-          "cat": "research",
+          "note": "memclaw.net",
           "src": "macos",
-          "title": "We Married Claude and ChatGPT. MemClaw Was the Bestman. | Me",
-          "note": "memclaw.net"
+          "start": "16:49",
+          "title": "We Married Claude and ChatGPT. MemClaw Was the Bestman. | Me"
         },
         {
-          "start": "16:51",
+          "cat": "personal",
           "end": "16:54",
-          "cat": "personal",
+          "note": "x.com",
           "src": "macos",
-          "title": "(3) X 上的 Han Xiao ✈️ ICML 2026：“interesting position paper t",
-          "note": "x.com"
+          "start": "16:51",
+          "title": "(3) X 上的 Han Xiao ✈️ ICML 2026：“interesting position paper t"
         },
         {
-          "start": "16:55",
+          "cat": "research",
           "end": "16:55",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "macos",
-          "title": "AI Digest — July 13, 2026 | Ada's Notes",
-          "note": "adaren100.github.io"
-        },
-        {
           "start": "16:55",
+          "title": "AI Digest — July 13, 2026 | Ada's Notes"
+        },
+        {
+          "cat": "research",
           "end": "17:08",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "macos",
-          "title": "AI Digest — July 13, 2026 | Ada's Notes",
-          "note": "adaren100.github.io"
+          "start": "16:55",
+          "title": "AI Digest — July 13, 2026 | Ada's Notes"
         },
         {
-          "start": "17:08",
+          "cat": "admin",
           "end": "17:09",
-          "cat": "admin",
+          "note": "sport.mq.edu.au",
           "src": "macos",
-          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
-          "note": "sport.mq.edu.au"
+          "start": "17:08",
+          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni"
         },
         {
+          "cat": "admin",
+          "end": "18:44",
+          "note": "sport.mq.edu.au",
+          "src": "macos",
           "start": "18:43",
-          "end": "18:44",
-          "cat": "admin",
-          "src": "macos",
-          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
-          "note": "sport.mq.edu.au"
+          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni"
         },
         {
-          "start": "18:44",
-          "end": "18:44",
           "cat": "personal",
+          "end": "18:44",
+          "note": "youtube.com",
           "src": "chrome",
-          "title": "(59) YouTube",
-          "note": "youtube.com"
+          "start": "18:44",
+          "title": "(59) YouTube"
         },
         {
-          "start": "18:44",
+          "cat": "admin",
           "end": "18:47",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "18:44",
+          "title": "Outlook"
         },
         {
-          "start": "18:47",
-          "end": "18:49",
           "cat": "personal",
+          "end": "18:49",
+          "note": "youtube.com",
           "src": "macos",
-          "title": "(59) YouTube",
-          "note": "youtube.com"
+          "start": "18:47",
+          "title": "(59) YouTube"
         },
         {
-          "start": "18:51",
+          "cat": "meeting",
           "end": "18:54",
-          "cat": "meeting",
+          "note": "us06web.zoom.us",
           "src": "macos",
-          "title": "Towards Effective and Efficient Multi-Agent Language Model S",
-          "note": "us06web.zoom.us"
+          "start": "18:51",
+          "title": "Towards Effective and Efficient Multi-Agent Language Model S"
         },
         {
-          "start": "18:55",
+          "cat": "admin",
           "end": "18:57",
-          "cat": "admin",
+          "note": "com.tinyspeck.slackmacgap",
           "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "start": "18:55",
+          "title": "slackmacgap"
         },
         {
-          "start": "18:57",
+          "cat": "coding",
           "end": "19:14",
-          "cat": "coding",
+          "note": "xuanwang91.github.io",
           "src": "macos",
-          "title": "ACL 2026 Tutorial - Xuan Wang",
-          "note": "xuanwang91.github.io"
+          "start": "18:57",
+          "title": "ACL 2026 Tutorial - Xuan Wang"
         },
         {
-          "start": "19:14",
+          "cat": "research",
           "end": "19:27",
-          "cat": "research",
+          "note": "zh.wikipedia.org",
           "src": "macos",
-          "title": "汉诺塔 - 维基百科，自由的百科全书",
-          "note": "zh.wikipedia.org"
+          "start": "19:14",
+          "title": "汉诺塔 - 维基百科，自由的百科全书"
         },
         {
-          "start": "19:27",
+          "cat": "coding",
           "end": "19:30",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "19:27",
+          "title": "codex"
         },
         {
-          "start": "19:30",
-          "end": "19:31",
           "cat": "research",
+          "end": "19:31",
+          "note": "zh.wikipedia.org",
           "src": "macos",
-          "title": "汉诺塔 - 维基百科，自由的百科全书",
-          "note": "zh.wikipedia.org"
+          "start": "19:30",
+          "title": "汉诺塔 - 维基百科，自由的百科全书"
         },
         {
-          "start": "19:31",
+          "cat": "meeting",
           "end": "19:33",
-          "cat": "meeting",
+          "note": "us06web.zoom.us",
           "src": "macos",
-          "title": "Towards Effective and Efficient Multi-Agent Language Model S",
-          "note": "us06web.zoom.us"
+          "start": "19:31",
+          "title": "Towards Effective and Efficient Multi-Agent Language Model S"
         },
         {
-          "start": "19:33",
+          "cat": "coding",
           "end": "19:43",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "19:33",
+          "title": "codex"
         },
         {
-          "start": "19:43",
+          "cat": "meeting",
           "end": "19:45",
-          "cat": "meeting",
+          "note": "us06web.zoom.us",
           "src": "chrome",
-          "title": "Towards Effective and Efficient Multi-Agent Language Model S",
-          "note": "us06web.zoom.us"
+          "start": "19:43",
+          "title": "Towards Effective and Efficient Multi-Agent Language Model S"
         },
         {
-          "start": "19:45",
+          "cat": "coding",
           "end": "19:46",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "19:45",
+          "title": "codex"
         },
         {
-          "start": "19:46",
+          "cat": "meeting",
           "end": "19:49",
-          "cat": "meeting",
+          "note": "us06web.zoom.us",
           "src": "macos",
-          "title": "Towards Effective and Efficient Multi-Agent Language Model S",
-          "note": "us06web.zoom.us"
+          "start": "19:46",
+          "title": "Towards Effective and Efficient Multi-Agent Language Model S"
         },
         {
-          "start": "19:49",
+          "cat": "coding",
           "end": "19:53",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "19:49",
+          "title": "codex"
         },
         {
-          "start": "19:53",
+          "cat": "meeting",
           "end": "20:01",
-          "cat": "meeting",
+          "note": "us06web.zoom.us",
           "src": "macos",
-          "title": "Towards Effective and Efficient Multi-Agent Language Model S",
-          "note": "us06web.zoom.us"
+          "start": "19:53",
+          "title": "Towards Effective and Efficient Multi-Agent Language Model S"
         },
         {
-          "start": "20:01",
+          "cat": "admin",
           "end": "20:13",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "macos",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "20:01",
+          "title": "Google Translate"
         },
         {
-          "start": "20:14",
+          "cat": "admin",
           "end": "20:36",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "macos",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "20:14",
+          "title": "Google Translate"
         },
         {
-          "start": "21:33",
+          "cat": "admin",
           "end": "21:48",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "macos",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "21:33",
+          "title": "Google Translate"
         },
         {
-          "start": "22:09",
+          "cat": "admin",
           "end": "22:19",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "macos",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "22:09",
+          "title": "Google Translate"
         },
         {
-          "start": "22:19",
+          "cat": "coding",
           "end": "22:25",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "22:19",
+          "title": "codex"
         },
         {
-          "start": "22:25",
+          "cat": "admin",
           "end": "22:32",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "macos",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "22:25",
+          "title": "Google Translate"
         },
         {
-          "start": "22:32",
+          "cat": "coding",
           "end": "22:38",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "22:32",
+          "title": "codex"
         },
         {
-          "start": "22:38",
+          "cat": "admin",
           "end": "22:39",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "macos",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "22:38",
+          "title": "Google Translate"
         },
         {
-          "start": "22:39",
-          "end": "22:40",
           "cat": "coding",
+          "end": "22:40",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "22:39",
+          "title": "codex"
         },
         {
-          "start": "22:40",
+          "cat": "admin",
           "end": "22:46",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "macos",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "22:40",
+          "title": "Google Translate"
         },
         {
-          "start": "22:46",
+          "cat": "admin",
           "end": "23:02",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "macos",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "22:46",
+          "title": "Google Translate"
         },
         {
-          "start": "23:04",
+          "cat": "admin",
           "end": "23:37",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "macos",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "23:04",
+          "title": "Google Translate"
         },
         {
-          "start": "23:37",
-          "end": "00:02",
           "cat": "meeting",
+          "end": "00:02",
+          "note": "us06web.zoom.us",
           "src": "macos",
-          "title": "Towards Effective and Efficient Multi-Agent Language Model S",
-          "note": "us06web.zoom.us"
+          "start": "23:37",
+          "title": "Towards Effective and Efficient Multi-Agent Language Model S"
         }
       ],
+      "key": "2026-7-13",
       "logged": 571,
-      "real": 353,
-      "deep": 353,
       "ratio": 0.617967895777572,
+      "real": 353,
       "stats": {
         "contextSwitches": 58,
-        "tabsOpened": 21,
+        "justOneMoreThing": 13,
         "longestFocus": "1h 4m",
-        "justOneMoreThing": 13
-      }
+        "tabsOpened": 21
+      },
+      "weekend": false
     },
     {
       "key": "2026-7-14",
@@ -34184,11 +34737,11 @@
       "weekend": false,
       "dateShort": "Tue, Jul 14",
       "dateLong": "Tuesday, July 14",
-      "dayStart": "09:59",
-      "dayEnd": "10:39",
+      "dayStart": "10:00",
+      "dayEnd": "21:55",
       "events": [
         {
-          "start": "09:59",
+          "start": "10:00",
           "end": "10:02",
           "cat": "meeting",
           "src": "macos",
@@ -34200,35 +34753,579 @@
           "end": "10:09",
           "cat": "admin",
           "src": "macos",
-          "title": "Inbox (2,642) - ada.ren.cn@gmail.com - Gmail",
+          "title": "Inbox (2,641) - ada.ren.cn@gmail.com - Gmail",
           "note": "mail.google.com"
         },
         {
           "start": "10:09",
-          "end": "10:22",
+          "end": "10:20",
           "cat": "admin",
           "src": "macos",
           "title": "Google Translate",
           "note": "translate.google.com"
         },
         {
+          "start": "10:20",
+          "end": "10:21",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
+          "note": "sport.mq.edu.au"
+        },
+        {
           "start": "10:22",
-          "end": "10:39",
+          "end": "10:25",
+          "cat": "admin",
+          "src": "macos",
+          "title": "What makes VAR decisions so tricky in soccer? - Google Searc",
+          "note": "google.com"
+        },
+        {
+          "start": "10:25",
+          "end": "10:26",
           "cat": "coding",
           "src": "chrome",
           "title": "Ask Gemma - Chrome Web Store",
           "note": "chromewebstore.google.com"
+        },
+        {
+          "start": "10:26",
+          "end": "10:28",
+          "cat": "writing",
+          "src": "macos",
+          "title": "ACL 2026 Tutorial AI Scientist - Google Docs",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "10:28",
+          "end": "10:30",
+          "cat": "writing",
+          "src": "macos",
+          "title": "ACL26_Industry.pdf - Google Drive",
+          "note": "drive.google.com"
+        },
+        {
+          "start": "10:30",
+          "end": "10:35",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Ask Gemma - Chrome Web Store",
+          "note": "chromewebstore.google.com"
+        },
+        {
+          "start": "10:35",
+          "end": "10:38",
+          "cat": "research",
+          "src": "macos",
+          "title": "‪Yuchen Zhuang‬ - ‪Google Scholar‬",
+          "note": "scholar.google.com"
+        },
+        {
+          "start": "10:38",
+          "end": "10:52",
+          "cat": "research",
+          "src": "macos",
+          "title": "OSWorld 2.0 Task Showcase",
+          "note": "osworld-v2.xlang.ai"
+        },
+        {
+          "start": "10:52",
+          "end": "10:57",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "10:57",
+          "end": "10:58",
+          "cat": "research",
+          "src": "chrome",
+          "title": "‪Yuchen Zhuang‬ - ‪Google Scholar‬",
+          "note": "scholar.google.com"
+        },
+        {
+          "start": "10:59",
+          "end": "11:37",
+          "cat": "research",
+          "src": "macos",
+          "title": "OSWorld 2.0 Task Showcase",
+          "note": "osworld-v2.xlang.ai"
+        },
+        {
+          "start": "11:45",
+          "end": "11:54",
+          "cat": "research",
+          "src": "macos",
+          "title": "OSWorld 2.0 Task Showcase",
+          "note": "osworld-v2.xlang.ai"
+        },
+        {
+          "start": "11:54",
+          "end": "11:55",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "11:56",
+          "end": "12:02",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "12:02",
+          "end": "12:11",
+          "cat": "research",
+          "src": "macos",
+          "title": "OSWorld 2.0 Task Showcase",
+          "note": "osworld-v2.xlang.ai"
+        },
+        {
+          "start": "12:11",
+          "end": "12:16",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "13:15",
+          "end": "13:25",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "13:26",
+          "end": "13:30",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Where the time actually went | Ada's Notes",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "13:31",
+          "end": "13:43",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(4) X 上的 Ryo Lu：“built a custom e-reader firmware with Curso",
+          "note": "x.com"
+        },
+        {
+          "start": "13:43",
+          "end": "13:57",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "13:57",
+          "end": "14:02",
+          "cat": "personal",
+          "src": "macos",
+          "title": "X 上的 Sam Altman：“i'd love to see interesting things people h",
+          "note": "x.com"
+        },
+        {
+          "start": "14:02",
+          "end": "14:04",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "14:04",
+          "end": "14:10",
+          "cat": "personal",
+          "src": "macos",
+          "title": "X 上的 Sam Altman：“i'd love to see interesting things people h",
+          "note": "x.com"
+        },
+        {
+          "start": "14:11",
+          "end": "14:14",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "14:14",
+          "end": "14:18",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "zjunlp/DataMind: [ICLR/AAAI/KDD2026] Open-Source LLM-Based D",
+          "note": "github.com"
+        },
+        {
+          "start": "14:19",
+          "end": "14:21",
+          "cat": "research",
+          "src": "macos",
+          "title": "Unsupervised Skill Discovery for Agentic Data Analysis",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "14:21",
+          "end": "14:25",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "14:26",
+          "end": "14:27",
+          "cat": "research",
+          "src": "chrome",
+          "title": "zjunlp/LongDS · Datasets at Hugging Face",
+          "note": "huggingface.co"
+        },
+        {
+          "start": "14:28",
+          "end": "14:31",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "14:31",
+          "end": "14:36",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "14:36",
+          "end": "14:42",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "14:43",
+          "end": "14:44",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "14:45",
+          "end": "14:47",
+          "cat": "research",
+          "src": "macos",
+          "title": "LongDS-Bench: On the Failure of Long-Horizon Agentic Data An",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "14:48",
+          "end": "14:49",
+          "cat": "research",
+          "src": "macos",
+          "title": "LongDS-Bench: On the Failure of Long-Horizon Agentic Data An",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "14:49",
+          "end": "14:52",
+          "cat": "research",
+          "src": "macos",
+          "title": "LongDS-Bench: On the Failure of Long-Horizon Agentic Data An",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "14:52",
+          "end": "15:09",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:09",
+          "end": "15:12",
+          "cat": "research",
+          "src": "macos",
+          "title": "LongDS-Bench: On the Failure of Long-Horizon Agentic Data An",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "15:12",
+          "end": "15:18",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:22",
+          "end": "15:24",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:24",
+          "end": "15:32",
+          "cat": "research",
+          "src": "macos",
+          "title": "LongDS-Bench: On the Failure of Long-Horizon Agentic Data An",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "15:32",
+          "end": "15:36",
+          "cat": "research",
+          "src": "macos",
+          "title": "LongDS-Bench: On the Failure of Long-Horizon Agentic Data An",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "15:36",
+          "end": "15:40",
+          "cat": "research",
+          "src": "macos",
+          "title": "LongDS-Bench: On the Failure of Long-Horizon Agentic Data An",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "15:41",
+          "end": "15:42",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "15:42",
+          "end": "15:52",
+          "cat": "research",
+          "src": "macos",
+          "title": "LongDS-Bench: On the Failure of Long-Horizon Agentic Data An",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "15:52",
+          "end": "15:53",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:53",
+          "end": "16:05",
+          "cat": "research",
+          "src": "macos",
+          "title": "LongDS-Bench: On the Failure of Long-Horizon Agentic Data An",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "16:05",
+          "end": "16:13",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "16:15",
+          "end": "16:35",
+          "cat": "research",
+          "src": "macos",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+          "note": "openreview.net"
+        },
+        {
+          "start": "16:41",
+          "end": "16:42",
+          "cat": "research",
+          "src": "macos",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+          "note": "openreview.net"
+        },
+        {
+          "start": "16:42",
+          "end": "16:46",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "16:47",
+          "end": "16:47",
+          "cat": "research",
+          "src": "macos",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+          "note": "openreview.net"
+        },
+        {
+          "start": "16:47",
+          "end": "16:49",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "16:49",
+          "end": "16:55",
+          "cat": "research",
+          "src": "macos",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+          "note": "openreview.net"
+        },
+        {
+          "start": "16:55",
+          "end": "16:58",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "16:58",
+          "end": "17:15",
+          "cat": "research",
+          "src": "macos",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+          "note": "openreview.net"
+        },
+        {
+          "start": "17:16",
+          "end": "17:17",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "17:17",
+          "end": "17:39",
+          "cat": "research",
+          "src": "macos",
+          "title": "Dr Shuxiang Cao | University of Oxford Department of Physics",
+          "note": "physics.ox.ac.uk"
+        },
+        {
+          "start": "17:51",
+          "end": "17:53",
+          "cat": "research",
+          "src": "macos",
+          "title": "BA Physics | University of Oxford Department of Physics",
+          "note": "physics.ox.ac.uk"
+        },
+        {
+          "start": "19:47",
+          "end": "19:57",
+          "cat": "research",
+          "src": "macos",
+          "title": "BA Physics | University of Oxford Department of Physics",
+          "note": "physics.ox.ac.uk"
+        },
+        {
+          "start": "20:00",
+          "end": "20:12",
+          "cat": "research",
+          "src": "macos",
+          "title": "BA Physics | University of Oxford Department of Physics",
+          "note": "physics.ox.ac.uk"
+        },
+        {
+          "start": "20:12",
+          "end": "20:46",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Academic Dates - Calendar | MQ Sydney",
+          "note": "students.mq.edu.au"
+        },
+        {
+          "start": "20:46",
+          "end": "20:50",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "20:50",
+          "end": "20:52",
+          "cat": "research",
+          "src": "macos",
+          "title": "Tutorials - ACL 2026",
+          "note": "2026.aclweb.org"
+        },
+        {
+          "start": "20:54",
+          "end": "21:00",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(61) ICLR 2026 Recursive Self Improvement Workshop Full - Yo",
+          "note": "youtube.com"
+        },
+        {
+          "start": "21:00",
+          "end": "21:04",
+          "cat": "research",
+          "src": "macos",
+          "title": "The 64th Annual Meeting of the Association for Computational",
+          "note": "2026.aclweb.org"
+        },
+        {
+          "start": "21:04",
+          "end": "21:36",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(61) 他塔拉 TATARA - YouTube",
+          "note": "youtube.com"
+        },
+        {
+          "start": "21:42",
+          "end": "21:46",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(61) 他塔拉 TATARA - YouTube",
+          "note": "youtube.com"
+        },
+        {
+          "start": "21:46",
+          "end": "21:54",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "21:54",
+          "end": "21:55",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(61) 他塔拉 TATARA - YouTube",
+          "note": "youtube.com"
         }
       ],
-      "logged": 40,
-      "real": 20,
-      "deep": 20,
-      "ratio": 0.4989435047053423,
+      "logged": 486,
+      "real": 341,
+      "deep": 341,
+      "ratio": 0.7020057320830434,
       "stats": {
-        "contextSwitches": 2,
-        "tabsOpened": 3,
-        "longestFocus": "17m",
-        "justOneMoreThing": 0
+        "contextSwitches": 47,
+        "tabsOpened": 21,
+        "longestFocus": "1h 55m",
+        "justOneMoreThing": 8
       }
     },
     {
@@ -34238,17 +35335,26 @@
       "weekend": false,
       "dateShort": "Wed, Jul 15",
       "dateLong": "Wednesday, July 15",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "10:11",
+      "dayEnd": "10:20",
+      "events": [
+        {
+          "start": "10:11",
+          "end": "10:20",
+          "cat": "writing",
+          "src": "chrome",
+          "title": "ACL26_SLMs.pdf - Google Drive",
+          "note": "drive.google.com"
+        }
+      ],
+      "logged": 9,
+      "real": 9,
+      "deep": 9,
+      "ratio": 1.0,
       "stats": {
         "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "0m",
+        "tabsOpened": 3,
+        "longestFocus": "9m",
         "justOneMoreThing": 0
       }
     },
