@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-07-16T10:20:50+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-07-17T10:36:49+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -28069,342 +28069,1252 @@
         "weekend": false
       },
       {
-        "key": "2026-7-15",
-        "dayNum": 15,
-        "dow": 3,
-        "weekend": false,
-        "dateShort": "Wed, Jul 15",
         "dateLong": "Wednesday, July 15",
-        "dayStart": "10:11",
+        "dateShort": "Wed, Jul 15",
         "dayEnd": "22:04",
+        "dayNum": 15,
+        "dayStart": "10:11",
+        "deep": 317,
+        "dow": 3,
         "events": [
           {
-            "start": "10:11",
-            "end": "10:20",
             "cat": "writing",
+            "end": "10:20",
+            "note": "drive.google.com",
             "src": "macos",
-            "title": "ACL26_SLMs.pdf - Google Drive",
-            "note": "drive.google.com"
+            "start": "10:11",
+            "title": "ACL26_SLMs.pdf - Google Drive"
           },
+          {
+            "cat": "writing",
+            "end": "10:31",
+            "note": "drive.google.com",
+            "src": "macos",
+            "start": "10:20",
+            "title": "ACL26_SLMs.pdf - Google Drive"
+          },
+          {
+            "cat": "writing",
+            "end": "10:37",
+            "note": "1 hit",
+            "src": "local",
+            "start": "10:32",
+            "title": "2026-07-15.md"
+          },
+          {
+            "cat": "admin",
+            "end": "11:00",
+            "note": "accounts.google.com",
+            "src": "chrome",
+            "start": "10:49",
+            "title": "How I Polish Software That Agents Built - ada.ren.cn@gmail.c"
+          },
+          {
+            "cat": "admin",
+            "end": "11:02",
+            "note": "com.microsoft.Outlook",
+            "src": "macos",
+            "start": "11:00",
+            "title": "Outlook"
+          },
+          {
+            "cat": "admin",
+            "end": "11:04",
+            "note": "accounts.google.com",
+            "src": "chrome",
+            "start": "11:02",
+            "title": "How I Polish Software That Agents Built - ada.ren.cn@gmail.c"
+          },
+          {
+            "cat": "personal",
+            "end": "11:06",
+            "note": "reddit.com",
+            "src": "macos",
+            "start": "11:04",
+            "title": "Chinese AI Models Seize OpenRouter’s Top Five as OpenAI and "
+          },
+          {
+            "cat": "admin",
+            "end": "11:11",
+            "note": "accounts.google.com",
+            "src": "chrome",
+            "start": "11:06",
+            "title": "How I Polish Software That Agents Built - ada.ren.cn@gmail.c"
+          },
+          {
+            "cat": "personal",
+            "end": "11:12",
+            "note": "youtube.com",
+            "src": "macos",
+            "start": "11:11",
+            "title": "(62) AI Engineer - YouTube"
+          },
+          {
+            "cat": "admin",
+            "end": "11:16",
+            "note": "mail.google.com",
+            "src": "macos",
+            "start": "11:12",
+            "title": "The Urge to Merge (ChatGPT and Codex) - ada.ren.cn@gmail.com"
+          },
+          {
+            "cat": "writing",
+            "end": "11:20",
+            "note": "drive.google.com",
+            "src": "macos",
+            "start": "11:16",
+            "title": "ACL26_Industry.pdf - Google Drive"
+          },
+          {
+            "cat": "writing",
+            "end": "11:46",
+            "note": "drive.google.com",
+            "src": "macos",
+            "start": "11:20",
+            "title": "ACL26_Industry.pdf - Google Drive"
+          },
+          {
+            "cat": "research",
+            "end": "11:49",
+            "note": "adaren100.github.io",
+            "src": "macos",
+            "start": "11:46",
+            "title": "Where the time actually went | Ada's Notes"
+          },
+          {
+            "cat": "coding",
+            "end": "11:52",
+            "note": "anthropic.com",
+            "src": "macos",
+            "start": "11:49",
+            "title": "人格研究所承诺向加拿大人工智能研究投入1000万美元 \\ 人格研究所"
+          },
+          {
+            "cat": "research",
+            "end": "12:01",
+            "note": "adaren100.github.io",
+            "src": "chrome",
+            "start": "11:52",
+            "title": "How data science teams use Codex [Recording] - Video | OpenA"
+          },
+          {
+            "cat": "personal",
+            "end": "12:03",
+            "note": "x.com",
+            "src": "macos",
+            "start": "12:01",
+            "title": "Sam Altman (@sama) / X"
+          },
+          {
+            "cat": "admin",
+            "end": "12:12",
+            "note": "linkedin.com",
+            "src": "macos",
+            "start": "12:03",
+            "title": "(9) A Framework for Frontier AI and the Dawning of a New Age"
+          },
+          {
+            "cat": "coding",
+            "end": "12:32",
+            "note": "github.com",
+            "src": "macos",
+            "start": "12:12",
+            "title": "yale-nlp/LLM-Metacognition: Metacognition in LLMs: Foundatio"
+          },
+          {
+            "cat": "admin",
+            "end": "13:19",
+            "note": "com.microsoft.Outlook",
+            "src": "macos",
+            "start": "13:11",
+            "title": "Outlook"
+          },
+          {
+            "cat": "admin",
+            "end": "13:21",
+            "note": "6 hits",
+            "src": "claude",
+            "start": "13:19",
+            "title": "PhD worklog review"
+          },
+          {
+            "cat": "research",
+            "end": "13:24",
+            "note": "org.zotero.zotero",
+            "src": "macos",
+            "start": "13:21",
+            "title": "zotero"
+          },
+          {
+            "cat": "admin",
+            "end": "13:32",
+            "note": "linkedin.com",
+            "src": "chrome",
+            "start": "13:28",
+            "title": "Michael Sheng | LinkedIn"
+          },
+          {
+            "cat": "admin",
+            "end": "13:33",
+            "note": "linkedin.com",
+            "src": "macos",
+            "start": "13:32",
+            "title": "Feed | LinkedIn"
+          },
+          {
+            "cat": "admin",
+            "end": "13:37",
+            "note": "linkedin.com",
+            "src": "macos",
+            "start": "13:33",
+            "title": "Michael Sheng | LinkedIn"
+          },
+          {
+            "cat": "coding",
+            "end": "13:40",
+            "note": "com.microsoft.VSCode",
+            "src": "macos",
+            "start": "13:37",
+            "title": "VSCode"
+          },
+          {
+            "cat": "research",
+            "end": "13:43",
+            "note": "openreview.net",
+            "src": "macos",
+            "start": "13:41",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
+          },
+          {
+            "cat": "admin",
+            "end": "13:44",
+            "note": "google.com",
+            "src": "macos",
+            "start": "13:43",
+            "title": "mac uni gym - Google Search"
+          },
+          {
+            "cat": "admin",
+            "end": "13:45",
+            "note": "sport.mq.edu.au",
+            "src": "macos",
+            "start": "13:44",
+            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni"
+          },
+          {
+            "cat": "coding",
+            "end": "14:12",
+            "note": "com.microsoft.VSCode",
+            "src": "macos",
+            "start": "13:45",
+            "title": "VSCode"
+          },
+          {
+            "cat": "research",
+            "end": "14:17",
+            "note": "org.zotero.zotero",
+            "src": "macos",
+            "start": "14:12",
+            "title": "zotero"
+          },
+          {
+            "cat": "coding",
+            "end": "14:19",
+            "note": "com.openai.codex",
+            "src": "macos",
+            "start": "14:18",
+            "title": "codex"
+          },
+          {
+            "cat": "research",
+            "end": "14:23",
+            "note": "org.zotero.zotero",
+            "src": "macos",
+            "start": "14:20",
+            "title": "zotero"
+          },
+          {
+            "cat": "coding",
+            "end": "14:24",
+            "note": "com.openai.codex",
+            "src": "macos",
+            "start": "14:23",
+            "title": "codex"
+          },
+          {
+            "cat": "research",
+            "end": "14:25",
+            "note": "org.zotero.zotero",
+            "src": "macos",
+            "start": "14:24",
+            "title": "zotero"
+          },
+          {
+            "cat": "research",
+            "end": "14:32",
+            "note": "org.zotero.zotero",
+            "src": "macos",
+            "start": "14:26",
+            "title": "zotero"
+          },
+          {
+            "cat": "research",
+            "end": "14:44",
+            "note": "org.zotero.zotero",
+            "src": "macos",
+            "start": "14:37",
+            "title": "zotero"
+          },
+          {
+            "cat": "research",
+            "end": "14:47",
+            "note": "org.zotero.zotero",
+            "src": "macos",
+            "start": "14:46",
+            "title": "zotero"
+          },
+          {
+            "cat": "coding",
+            "end": "14:48",
+            "note": "com.microsoft.VSCode",
+            "src": "macos",
+            "start": "14:47",
+            "title": "VSCode"
+          },
+          {
+            "cat": "research",
+            "end": "14:54",
+            "note": "org.zotero.zotero",
+            "src": "macos",
+            "start": "14:50",
+            "title": "zotero"
+          },
+          {
+            "cat": "coding",
+            "end": "14:55",
+            "note": "com.openai.codex",
+            "src": "macos",
+            "start": "14:54",
+            "title": "codex"
+          },
+          {
+            "cat": "research",
+            "end": "14:56",
+            "note": "org.zotero.zotero",
+            "src": "macos",
+            "start": "14:55",
+            "title": "zotero"
+          },
+          {
+            "cat": "research",
+            "end": "14:59",
+            "note": "org.zotero.zotero",
+            "src": "macos",
+            "start": "14:57",
+            "title": "zotero"
+          },
+          {
+            "cat": "research",
+            "end": "15:03",
+            "note": "org.zotero.zotero",
+            "src": "macos",
+            "start": "15:02",
+            "title": "zotero"
+          },
+          {
+            "cat": "coding",
+            "end": "15:07",
+            "note": "com.openai.codex",
+            "src": "macos",
+            "start": "15:04",
+            "title": "codex"
+          },
+          {
+            "cat": "coding",
+            "end": "15:09",
+            "note": "com.openai.codex",
+            "src": "macos",
+            "start": "15:07",
+            "title": "codex"
+          },
+          {
+            "cat": "research",
+            "end": "15:13",
+            "note": "org.zotero.zotero",
+            "src": "macos",
+            "start": "15:12",
+            "title": "zotero"
+          },
+          {
+            "cat": "coding",
+            "end": "15:15",
+            "note": "com.openai.codex",
+            "src": "macos",
+            "start": "15:13",
+            "title": "codex"
+          },
+          {
+            "cat": "research",
+            "end": "15:16",
+            "note": "org.zotero.zotero",
+            "src": "macos",
+            "start": "15:15",
+            "title": "zotero"
+          },
+          {
+            "cat": "coding",
+            "end": "15:20",
+            "note": "com.openai.codex",
+            "src": "macos",
+            "start": "15:16",
+            "title": "codex"
+          },
+          {
+            "cat": "coding",
+            "end": "15:23",
+            "note": "com.openai.codex",
+            "src": "macos",
+            "start": "15:21",
+            "title": "codex"
+          },
+          {
+            "cat": "research",
+            "end": "15:25",
+            "note": "org.zotero.zotero",
+            "src": "macos",
+            "start": "15:23",
+            "title": "zotero"
+          },
+          {
+            "cat": "research",
+            "end": "15:29",
+            "note": "org.zotero.zotero",
+            "src": "macos",
+            "start": "15:26",
+            "title": "zotero"
+          },
+          {
+            "cat": "research",
+            "end": "15:31",
+            "note": "org.zotero.zotero",
+            "src": "macos",
+            "start": "15:29",
+            "title": "zotero"
+          },
+          {
+            "cat": "research",
+            "end": "15:35",
+            "note": "org.zotero.zotero",
+            "src": "macos",
+            "start": "15:32",
+            "title": "zotero"
+          },
+          {
+            "cat": "admin",
+            "end": "15:38",
+            "note": "com.microsoft.Outlook",
+            "src": "macos",
+            "start": "15:35",
+            "title": "Outlook"
+          },
+          {
+            "cat": "admin",
+            "end": "15:39",
+            "note": "url.au.m.mimecastprotect.com",
+            "src": "chrome",
+            "start": "15:38",
+            "title": "Global Journals of Research in Engineering"
+          },
+          {
+            "cat": "coding",
+            "end": "15:41",
+            "note": "com.openai.codex",
+            "src": "macos",
+            "start": "15:39",
+            "title": "codex"
+          },
+          {
+            "cat": "research",
+            "end": "15:48",
+            "note": "org.zotero.zotero",
+            "src": "macos",
+            "start": "15:41",
+            "title": "zotero"
+          },
+          {
+            "cat": "coding",
+            "end": "15:50",
+            "note": "com.openai.codex",
+            "src": "macos",
+            "start": "15:48",
+            "title": "codex"
+          },
+          {
+            "cat": "admin",
+            "end": "15:52",
+            "note": "url.au.m.mimecastprotect.com",
+            "src": "chrome",
+            "start": "15:50",
+            "title": "Global Journals of Research in Engineering"
+          },
+          {
+            "cat": "research",
+            "end": "16:02",
+            "note": "arxiv.org",
+            "src": "macos",
+            "start": "15:52",
+            "title": "MCP-Universe: Benchmarking Large Language Models with Real-W"
+          },
+          {
+            "cat": "admin",
+            "end": "16:03",
+            "note": "google.com",
+            "src": "macos",
+            "start": "16:02",
+            "title": "MCP-universe huggingface - Google Search"
+          },
+          {
+            "cat": "research",
+            "end": "16:12",
+            "note": "org.zotero.zotero",
+            "src": "macos",
+            "start": "16:03",
+            "title": "zotero"
+          },
+          {
+            "cat": "coding",
+            "end": "16:14",
+            "note": "com.microsoft.VSCode",
+            "src": "macos",
+            "start": "16:12",
+            "title": "VSCode"
+          },
+          {
+            "cat": "coding",
+            "end": "16:18",
+            "note": "github.com",
+            "src": "macos",
+            "start": "16:14",
+            "title": "SalesforceAIResearch/MCP-Universe: MCP-Universe is a compreh"
+          },
+          {
+            "cat": "research",
+            "end": "16:21",
+            "note": "org.zotero.zotero",
+            "src": "macos",
+            "start": "16:18",
+            "title": "zotero"
+          },
+          {
+            "cat": "coding",
+            "end": "16:36",
+            "note": "github.com",
+            "src": "macos",
+            "start": "16:21",
+            "title": "SalesforceAIResearch/MCP-Universe: MCP-Universe is a compreh"
+          },
+          {
+            "cat": "research",
+            "end": "16:38",
+            "note": "org.zotero.zotero",
+            "src": "macos",
+            "start": "16:36",
+            "title": "zotero"
+          },
+          {
+            "cat": "coding",
+            "end": "16:40",
+            "note": "com.openai.codex",
+            "src": "macos",
+            "start": "16:38",
+            "title": "codex"
+          },
+          {
+            "cat": "research",
+            "end": "16:42",
+            "note": "org.zotero.zotero",
+            "src": "macos",
+            "start": "16:40",
+            "title": "zotero"
+          },
+          {
+            "cat": "coding",
+            "end": "16:43",
+            "note": "github.com",
+            "src": "macos",
+            "start": "16:42",
+            "title": "SalesforceAIResearch/MCP-Universe: MCP-Universe is a compreh"
+          },
+          {
+            "cat": "research",
+            "end": "16:45",
+            "note": "org.zotero.zotero",
+            "src": "macos",
+            "start": "16:43",
+            "title": "zotero"
+          },
+          {
+            "cat": "coding",
+            "end": "16:46",
+            "note": "github.com",
+            "src": "macos",
+            "start": "16:45",
+            "title": "SalesforceAIResearch/MCP-Universe: MCP-Universe is a compreh"
+          },
+          {
+            "cat": "coding",
+            "end": "16:46",
+            "note": "com.microsoft.VSCode",
+            "src": "macos",
+            "start": "16:46",
+            "title": "VSCode"
+          },
+          {
+            "cat": "coding",
+            "end": "16:50",
+            "note": "com.microsoft.VSCode",
+            "src": "macos",
+            "start": "16:46",
+            "title": "VSCode"
+          },
+          {
+            "cat": "coding",
+            "end": "16:51",
+            "note": "com.microsoft.VSCode",
+            "src": "macos",
+            "start": "16:51",
+            "title": "VSCode"
+          },
+          {
+            "cat": "coding",
+            "end": "16:58",
+            "note": "com.microsoft.VSCode",
+            "src": "macos",
+            "start": "16:51",
+            "title": "VSCode"
+          },
+          {
+            "cat": "coding",
+            "end": "17:06",
+            "note": "com.microsoft.VSCode",
+            "src": "macos",
+            "start": "16:59",
+            "title": "VSCode"
+          },
+          {
+            "cat": "research",
+            "end": "17:08",
+            "note": "org.zotero.zotero",
+            "src": "macos",
+            "start": "17:06",
+            "title": "zotero"
+          },
+          {
+            "cat": "coding",
+            "end": "17:10",
+            "note": "com.microsoft.VSCode",
+            "src": "macos",
+            "start": "17:10",
+            "title": "VSCode"
+          },
+          {
+            "cat": "research",
+            "end": "17:31",
+            "note": "huggingface.co",
+            "src": "chrome",
+            "start": "17:11",
+            "title": "Welcome - Hugging Face"
+          },
+          {
+            "cat": "personal",
+            "end": "18:49",
+            "note": "youtube.com",
+            "src": "macos",
+            "start": "18:45",
+            "title": "(62) YouTube"
+          },
+          {
+            "cat": "research",
+            "end": "18:51",
+            "note": "openai.com",
+            "src": "chrome",
+            "start": "18:50",
+            "title": "How data science teams use Codex [Recording] - Video | OpenA"
+          },
+          {
+            "cat": "coding",
+            "end": "18:54",
+            "note": "com.openai.codex",
+            "src": "macos",
+            "start": "18:51",
+            "title": "codex"
+          },
+          {
+            "cat": "research",
+            "end": "18:56",
+            "note": "openai.com",
+            "src": "chrome",
+            "start": "18:54",
+            "title": "How data science teams use Codex [Recording] - Video | OpenA"
+          },
+          {
+            "cat": "personal",
+            "end": "19:54",
+            "note": "youtube.com",
+            "src": "macos",
+            "start": "18:56",
+            "title": "(62) Forward Deployed Engineering at Cursor — Pauline Brunet"
+          },
+          {
+            "cat": "admin",
+            "end": "20:01",
+            "note": "translate.google.com",
+            "src": "macos",
+            "start": "19:54",
+            "title": "Google Translate"
+          },
+          {
+            "cat": "admin",
+            "end": "20:18",
+            "note": "translate.google.com",
+            "src": "macos",
+            "start": "20:01",
+            "title": "Google Translate"
+          },
+          {
+            "cat": "research",
+            "end": "20:20",
+            "note": "zh.wikipedia.org",
+            "src": "macos",
+            "start": "20:18",
+            "title": "艾伦·凯 - 维基百科，自由的百科全书"
+          },
+          {
+            "cat": "personal",
+            "end": "20:24",
+            "note": "youtube.com",
+            "src": "macos",
+            "start": "20:20",
+            "title": "(62) Everything we knew about software has changed — Theo Br"
+          },
+          {
+            "cat": "personal",
+            "end": "20:55",
+            "note": "youtube.com",
+            "src": "macos",
+            "start": "20:24",
+            "title": "(62) AI Engineer - YouTube"
+          },
+          {
+            "cat": "personal",
+            "end": "21:44",
+            "note": "youtube.com",
+            "src": "macos",
+            "start": "21:27",
+            "title": "(62) From Writing Code to Designing Systems: How the Develop"
+          },
+          {
+            "cat": "coding",
+            "end": "22:04",
+            "note": "immersivetranslate.com",
+            "src": "macos",
+            "start": "21:44",
+            "title": "Login"
+          }
+        ],
+        "key": "2026-7-15",
+        "logged": 520,
+        "ratio": 0.6104022773311818,
+        "real": 317,
+        "stats": {
+          "contextSwitches": 63,
+          "justOneMoreThing": 3,
+          "longestFocus": "1h 29m",
+          "tabsOpened": 30
+        },
+        "weekend": false
+      },
+      {
+        "key": "2026-7-16",
+        "dayNum": 16,
+        "dow": 4,
+        "weekend": false,
+        "dateShort": "Thu, Jul 16",
+        "dateLong": "Thursday, July 16",
+        "dayStart": "10:20",
+        "dayEnd": "22:29",
+        "events": [
           {
             "start": "10:20",
-            "end": "10:31",
-            "cat": "writing",
-            "src": "macos",
-            "title": "ACL26_SLMs.pdf - Google Drive",
-            "note": "drive.google.com"
-          },
-          {
-            "start": "10:32",
-            "end": "10:37",
-            "cat": "writing",
+            "end": "10:25",
+            "cat": "coding",
             "src": "local",
-            "title": "2026-07-15.md",
-            "note": "1 hit"
+            "title": "domain_cats.json",
+            "note": "3 hits"
           },
           {
-            "start": "10:49",
-            "end": "11:00",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "How I Polish Software That Agents Built - ada.ren.cn@gmail.c",
-            "note": "accounts.google.com"
+            "start": "10:25",
+            "end": "10:30",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
           },
           {
-            "start": "11:00",
-            "end": "11:02",
+            "start": "10:30",
+            "end": "10:30",
             "cat": "admin",
             "src": "macos",
             "title": "Outlook",
             "note": "com.microsoft.Outlook"
           },
           {
-            "start": "11:02",
-            "end": "11:04",
+            "start": "10:31",
+            "end": "10:34",
             "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "10:34",
+            "end": "10:35",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "10:35",
+            "end": "10:35",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "10:36",
+            "end": "10:45",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "10:46",
+            "end": "10:48",
+            "cat": "research",
+            "src": "macos",
+            "title": "AI Digest — July 16, 2026 | Ada's Notes",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "10:49",
+            "end": "10:54",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "10:54",
+            "end": "11:00",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "11:00",
+            "end": "11:03",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:03",
+            "end": "11:04",
+            "cat": "research",
             "src": "chrome",
-            "title": "How I Polish Software That Agents Built - ada.ren.cn@gmail.c",
-            "note": "accounts.google.com"
+            "title": "AI Digest — July 16, 2026 | Ada's Notes",
+            "note": "adaren100.github.io"
           },
           {
             "start": "11:04",
-            "end": "11:06",
-            "cat": "personal",
+            "end": "11:05",
+            "cat": "coding",
             "src": "macos",
-            "title": "Chinese AI Models Seize OpenRouter’s Top Five as OpenAI and ",
-            "note": "reddit.com"
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
           },
           {
-            "start": "11:06",
+            "start": "11:05",
+            "end": "11:08",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:08",
+            "end": "11:08",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:09",
+            "end": "11:10",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:10",
             "end": "11:11",
             "cat": "admin",
-            "src": "chrome",
-            "title": "How I Polish Software That Agents Built - ada.ren.cn@gmail.c",
-            "note": "accounts.google.com"
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
           },
           {
             "start": "11:11",
-            "end": "11:12",
-            "cat": "personal",
+            "end": "11:13",
+            "cat": "coding",
             "src": "macos",
-            "title": "(62) AI Engineer - YouTube",
-            "note": "youtube.com"
+            "title": "Sign in successful | Claude Platform",
+            "note": "platform.claude.com"
           },
           {
-            "start": "11:12",
+            "start": "11:14",
             "end": "11:16",
-            "cat": "admin",
+            "cat": "coding",
             "src": "macos",
-            "title": "The Urge to Merge (ChatGPT and Codex) - ada.ren.cn@gmail.com",
-            "note": "mail.google.com"
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
           },
           {
             "start": "11:16",
             "end": "11:20",
-            "cat": "writing",
+            "cat": "coding",
             "src": "macos",
-            "title": "ACL26_Industry.pdf - Google Drive",
-            "note": "drive.google.com"
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
           },
           {
             "start": "11:20",
-            "end": "11:46",
-            "cat": "writing",
-            "src": "macos",
-            "title": "ACL26_Industry.pdf - Google Drive",
-            "note": "drive.google.com"
-          },
-          {
-            "start": "11:46",
-            "end": "11:49",
-            "cat": "research",
-            "src": "macos",
-            "title": "Where the time actually went | Ada's Notes",
-            "note": "adaren100.github.io"
-          },
-          {
-            "start": "11:49",
-            "end": "11:52",
+            "end": "11:22",
             "cat": "coding",
             "src": "macos",
-            "title": "人格研究所承诺向加拿大人工智能研究投入1000万美元 \\ 人格研究所",
-            "note": "anthropic.com"
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
           },
           {
-            "start": "11:52",
-            "end": "12:01",
+            "start": "11:23",
+            "end": "11:25",
             "cat": "research",
             "src": "chrome",
-            "title": "How data science teams use Codex [Recording] - Video | OpenA",
-            "note": "adaren100.github.io"
+            "title": "Claude",
+            "note": "claude.com"
           },
           {
-            "start": "12:01",
-            "end": "12:03",
+            "start": "11:25",
+            "end": "11:27",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Claude",
+            "note": "claude.com"
+          },
+          {
+            "start": "11:27",
+            "end": "11:32",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:32",
+            "end": "11:33",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Claude",
+            "note": "claude.com"
+          },
+          {
+            "start": "11:33",
+            "end": "11:34",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:34",
+            "end": "11:35",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Claude",
+            "note": "claude.com"
+          },
+          {
+            "start": "11:35",
+            "end": "11:36",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:36",
+            "end": "11:36",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:37",
+            "end": "11:48",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:48",
+            "end": "11:51",
             "cat": "personal",
             "src": "macos",
-            "title": "Sam Altman (@sama) / X",
-            "note": "x.com"
+            "title": "AfterQuery",
+            "note": "afterquery.com"
+          },
+          {
+            "start": "11:51",
+            "end": "11:59",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "11:59",
+            "end": "12:03",
+            "cat": "research",
+            "src": "macos",
+            "title": "AfterQuery/App-Bench · Datasets at Hugging Face",
+            "note": "huggingface.co"
           },
           {
             "start": "12:03",
-            "end": "12:12",
+            "end": "12:04",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "AfterQuery",
+            "note": "afterquery.com"
+          },
+          {
+            "start": "12:04",
+            "end": "12:07",
+            "cat": "research",
+            "src": "macos",
+            "title": "AfterQuery/ui-bench · Datasets at Hugging Face",
+            "note": "huggingface.co"
+          },
+          {
+            "start": "12:07",
+            "end": "12:09",
+            "cat": "research",
+            "src": "macos",
+            "title": "AfterQuery/FinanceQA · Datasets at Hugging Face",
+            "note": "huggingface.co"
+          },
+          {
+            "start": "12:11",
+            "end": "12:13",
             "cat": "admin",
             "src": "macos",
-            "title": "(9) A Framework for Frontier AI and the Dawning of a New Age",
+            "title": "Joshua Xia | LinkedIn",
             "note": "linkedin.com"
           },
           {
-            "start": "12:12",
-            "end": "12:32",
-            "cat": "coding",
-            "src": "macos",
-            "title": "yale-nlp/LLM-Metacognition: Metacognition in LLMs: Foundatio",
-            "note": "github.com"
-          },
-          {
-            "start": "13:11",
-            "end": "13:19",
-            "cat": "admin",
-            "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
-          },
-          {
-            "start": "13:19",
-            "end": "13:21",
-            "cat": "admin",
-            "src": "claude",
-            "title": "PhD worklog review",
-            "note": "6 hits"
-          },
-          {
-            "start": "13:21",
-            "end": "13:24",
+            "start": "12:13",
+            "end": "12:14",
             "cat": "research",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "title": "Joshua-Xia (Joshua Xia Studio)",
+            "note": "huggingface.co"
+          },
+          {
+            "start": "12:14",
+            "end": "12:15",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "12:15",
+            "end": "12:18",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "12:18",
+            "end": "12:19",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "12:19",
+            "end": "12:33",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Joshua-Xia (Joshua Xia Studio)",
+            "note": "huggingface.co"
+          },
+          {
+            "start": "13:09",
+            "end": "13:12",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "13:12",
+            "end": "13:24",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "13:24",
+            "end": "13:28",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
           },
           {
             "start": "13:28",
-            "end": "13:32",
-            "cat": "admin",
+            "end": "13:29",
+            "cat": "research",
+            "src": "macos",
+            "title": "斯里兰卡 - 维基百科，自由的百科全书",
+            "note": "zh.wikipedia.org"
+          },
+          {
+            "start": "13:29",
+            "end": "13:30",
+            "cat": "research",
+            "src": "macos",
+            "title": "斯里兰卡 - 维基百科，自由的百科全书",
+            "note": "zh.wikipedia.org"
+          },
+          {
+            "start": "13:31",
+            "end": "13:31",
+            "cat": "research",
+            "src": "macos",
+            "title": "斯里兰卡 - 维基百科，自由的百科全书",
+            "note": "zh.wikipedia.org"
+          },
+          {
+            "start": "13:31",
+            "end": "13:35",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "13:35",
+            "end": "13:36",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "13:36",
+            "end": "13:51",
+            "cat": "research",
             "src": "chrome",
-            "title": "Michael Sheng | LinkedIn",
-            "note": "linkedin.com"
+            "title": "ARR Reviewer Guidelines – ACL Rolling Review – A peer review",
+            "note": "zh.wikipedia.org"
           },
           {
-            "start": "13:32",
-            "end": "13:33",
-            "cat": "admin",
-            "src": "macos",
-            "title": "Feed | LinkedIn",
-            "note": "linkedin.com"
-          },
-          {
-            "start": "13:33",
-            "end": "13:37",
-            "cat": "admin",
-            "src": "macos",
-            "title": "Michael Sheng | LinkedIn",
-            "note": "linkedin.com"
-          },
-          {
-            "start": "13:37",
-            "end": "13:40",
-            "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
-          },
-          {
-            "start": "13:41",
-            "end": "13:43",
+            "start": "13:51",
+            "end": "14:11",
             "cat": "research",
             "src": "macos",
-            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-            "note": "openreview.net"
+            "title": "[2606.09845] Tutor, Not Solver: Designing a Guardrailed AI A",
+            "note": "arxiv.org"
           },
           {
-            "start": "13:43",
-            "end": "13:44",
+            "start": "14:11",
+            "end": "14:13",
             "cat": "admin",
             "src": "macos",
-            "title": "mac uni gym - Google Search",
-            "note": "google.com"
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
           },
           {
-            "start": "13:44",
-            "end": "13:45",
-            "cat": "admin",
-            "src": "macos",
-            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
-            "note": "sport.mq.edu.au"
-          },
-          {
-            "start": "13:45",
-            "end": "14:12",
-            "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
-          },
-          {
-            "start": "14:12",
-            "end": "14:17",
+            "start": "14:13",
+            "end": "14:16",
             "cat": "research",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "title": "[2606.09845] Tutor, Not Solver: Designing a Guardrailed AI A",
+            "note": "arxiv.org"
           },
           {
-            "start": "14:18",
-            "end": "14:19",
-            "cat": "coding",
-            "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
-          },
-          {
-            "start": "14:20",
-            "end": "14:23",
-            "cat": "research",
-            "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
-          },
-          {
-            "start": "14:23",
-            "end": "14:24",
-            "cat": "coding",
-            "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
-          },
-          {
-            "start": "14:24",
-            "end": "14:25",
-            "cat": "research",
-            "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
-          },
-          {
-            "start": "14:26",
+            "start": "14:22",
             "end": "14:32",
             "cat": "research",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "title": "[2606.09845] Tutor, Not Solver: Designing a Guardrailed AI A",
+            "note": "arxiv.org"
           },
           {
-            "start": "14:37",
-            "end": "14:44",
-            "cat": "research",
-            "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
-          },
-          {
-            "start": "14:46",
-            "end": "14:47",
-            "cat": "research",
-            "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
-          },
-          {
-            "start": "14:47",
-            "end": "14:48",
+            "start": "14:32",
+            "end": "14:37",
             "cat": "coding",
             "src": "macos",
             "title": "VSCode",
             "note": "com.microsoft.VSCode"
           },
           {
-            "start": "14:50",
-            "end": "14:54",
-            "cat": "research",
-            "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
-          },
-          {
-            "start": "14:54",
-            "end": "14:55",
+            "start": "14:44",
+            "end": "14:47",
             "cat": "coding",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
           },
           {
-            "start": "14:55",
-            "end": "14:56",
+            "start": "14:47",
+            "end": "14:50",
             "cat": "research",
             "src": "macos",
             "title": "zotero",
             "note": "org.zotero.zotero"
+          },
+          {
+            "start": "14:52",
+            "end": "14:57",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
           },
           {
             "start": "14:57",
@@ -28415,175 +29325,231 @@
             "note": "org.zotero.zotero"
           },
           {
-            "start": "15:02",
-            "end": "15:03",
+            "start": "14:59",
+            "end": "15:01",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:01",
+            "end": "15:08",
             "cat": "research",
             "src": "macos",
             "title": "zotero",
             "note": "org.zotero.zotero"
           },
           {
-            "start": "15:04",
-            "end": "15:07",
+            "start": "15:08",
+            "end": "15:22",
             "cat": "coding",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
           },
           {
-            "start": "15:07",
-            "end": "15:09",
-            "cat": "coding",
-            "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
-          },
-          {
-            "start": "15:12",
-            "end": "15:13",
-            "cat": "research",
-            "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
-          },
-          {
-            "start": "15:13",
-            "end": "15:15",
-            "cat": "coding",
-            "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
-          },
-          {
-            "start": "15:15",
-            "end": "15:16",
-            "cat": "research",
-            "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
-          },
-          {
-            "start": "15:16",
-            "end": "15:20",
-            "cat": "coding",
-            "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
-          },
-          {
-            "start": "15:21",
+            "start": "15:22",
             "end": "15:23",
-            "cat": "coding",
+            "cat": "research",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "title": "openai/gdpval · Datasets at Hugging Face",
+            "note": "huggingface.co"
           },
           {
             "start": "15:23",
             "end": "15:25",
             "cat": "research",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "title": "DABstep Leaderboard - a Hugging Face Space by adyen",
+            "note": "huggingface.co"
           },
           {
-            "start": "15:26",
-            "end": "15:29",
-            "cat": "research",
-            "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "15:25",
+            "end": "15:27",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Copy of quickstart.ipynb - Colab",
+            "note": "colab.research.google.com"
           },
           {
-            "start": "15:29",
-            "end": "15:31",
-            "cat": "research",
-            "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "15:27",
+            "end": "15:32",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Copy of quickstart.ipynb - Colab",
+            "note": "colab.research.google.com"
           },
           {
             "start": "15:32",
-            "end": "15:35",
-            "cat": "research",
-            "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
-          },
-          {
-            "start": "15:35",
-            "end": "15:38",
-            "cat": "admin",
-            "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
-          },
-          {
-            "start": "15:38",
-            "end": "15:39",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Global Journals of Research in Engineering",
-            "note": "url.au.m.mimecastprotect.com"
-          },
-          {
-            "start": "15:39",
-            "end": "15:41",
+            "end": "15:37",
             "cat": "coding",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
           },
           {
-            "start": "15:41",
-            "end": "15:48",
+            "start": "15:37",
+            "end": "15:42",
             "cat": "research",
             "src": "macos",
             "title": "zotero",
             "note": "org.zotero.zotero"
           },
           {
-            "start": "15:48",
+            "start": "15:42",
+            "end": "15:47",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:47",
+            "end": "15:49",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Copy of quickstart.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "15:50",
             "end": "15:50",
-            "cat": "coding",
+            "cat": "research",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "title": "DABstep: Data Agent Benchmark for Multi-step Reasoning",
+            "note": "arxiv.org"
           },
           {
             "start": "15:50",
             "end": "15:52",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Global Journals of Research in Engineering",
-            "note": "url.au.m.mimecastprotect.com"
+            "cat": "research",
+            "src": "macos",
+            "title": "DABstep: Data Agent Benchmark for Multi-step Reasoning",
+            "note": "arxiv.org"
           },
           {
             "start": "15:52",
-            "end": "16:02",
+            "end": "15:53",
             "cat": "research",
             "src": "macos",
-            "title": "MCP-Universe: Benchmarking Large Language Models with Real-W",
+            "title": "DABstep: Data Agent Benchmark for Multi-step Reasoning",
             "note": "arxiv.org"
+          },
+          {
+            "start": "15:53",
+            "end": "15:55",
+            "cat": "research",
+            "src": "macos",
+            "title": "DABstep: Data Agent Benchmark for Multi-step Reasoning",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "15:55",
+            "end": "15:56",
+            "cat": "research",
+            "src": "macos",
+            "title": "DABstep: Data Agent Benchmark for Multi-step Reasoning",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "15:56",
+            "end": "15:57",
+            "cat": "research",
+            "src": "macos",
+            "title": "DABstep: Data Agent Benchmark for Multi-step Reasoning",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "15:57",
+            "end": "15:58",
+            "cat": "research",
+            "src": "macos",
+            "title": "DABstep: Data Agent Benchmark for Multi-step Reasoning",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "15:58",
+            "end": "15:59",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:00",
+            "end": "16:01",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:01",
+            "end": "16:02",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
           },
           {
             "start": "16:02",
             "end": "16:03",
-            "cat": "admin",
+            "cat": "coding",
             "src": "macos",
-            "title": "MCP-universe huggingface - Google Search",
-            "note": "google.com"
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
           },
           {
             "start": "16:03",
-            "end": "16:12",
+            "end": "16:04",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:05",
+            "end": "16:07",
             "cat": "research",
             "src": "macos",
             "title": "zotero",
             "note": "org.zotero.zotero"
           },
           {
+            "start": "16:07",
+            "end": "16:08",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "16:08",
+            "end": "16:10",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "16:11",
+            "end": "16:12",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
             "start": "16:12",
+            "end": "16:13",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:13",
             "end": "16:14",
             "cat": "coding",
             "src": "macos",
@@ -28591,268 +29557,1431 @@
             "note": "com.microsoft.VSCode"
           },
           {
-            "start": "16:14",
-            "end": "16:18",
-            "cat": "coding",
+            "start": "16:15",
+            "end": "16:15",
+            "cat": "research",
             "src": "macos",
-            "title": "SalesforceAIResearch/MCP-Universe: MCP-Universe is a compreh",
-            "note": "github.com"
+            "title": "DABstep: Data Agent Benchmark for Multi-step Reasoning",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "16:15",
+            "end": "16:16",
+            "cat": "research",
+            "src": "macos",
+            "title": "DABstep: Data Agent Benchmark for Multi-step Reasoning",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "16:16",
+            "end": "16:17",
+            "cat": "research",
+            "src": "macos",
+            "title": "DABstep: Data Agent Benchmark for Multi-step Reasoning",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "16:17",
+            "end": "16:18",
+            "cat": "research",
+            "src": "macos",
+            "title": "DABstep: Data Agent Benchmark for Multi-step Reasoning",
+            "note": "arxiv.org"
           },
           {
             "start": "16:18",
-            "end": "16:21",
+            "end": "16:19",
             "cat": "research",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "title": "DABstep: Data Agent Benchmark for Multi-step Reasoning",
+            "note": "arxiv.org"
           },
           {
-            "start": "16:21",
-            "end": "16:36",
+            "start": "16:20",
+            "end": "16:21",
             "cat": "coding",
             "src": "macos",
-            "title": "SalesforceAIResearch/MCP-Universe: MCP-Universe is a compreh",
-            "note": "github.com"
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:22",
+            "end": "16:23",
+            "cat": "research",
+            "src": "macos",
+            "title": "DABstep: Data Agent Benchmark for Multi-step Reasoning",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "16:23",
+            "end": "16:24",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Parramatta - Google Maps",
+            "note": "google.com"
+          },
+          {
+            "start": "16:24",
+            "end": "16:25",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Parramatta - Google Maps",
+            "note": "google.com"
+          },
+          {
+            "start": "16:25",
+            "end": "16:27",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Parramatta - Google Maps",
+            "note": "google.com"
+          },
+          {
+            "start": "16:27",
+            "end": "16:27",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Parramatta - Google Maps",
+            "note": "google.com"
+          },
+          {
+            "start": "16:27",
+            "end": "16:29",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Google Maps",
+            "note": "map.google.com"
+          },
+          {
+            "start": "16:29",
+            "end": "16:30",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Google Maps",
+            "note": "map.google.com"
+          },
+          {
+            "start": "16:30",
+            "end": "16:32",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Parramatta Park - Google Maps",
+            "note": "google.com"
+          },
+          {
+            "start": "16:32",
+            "end": "16:33",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Parramatta Park - Google Maps",
+            "note": "google.com"
+          },
+          {
+            "start": "16:34",
+            "end": "16:36",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Google Maps",
+            "note": "map.google.com"
           },
           {
             "start": "16:36",
+            "end": "16:37",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Google Maps",
+            "note": "map.google.com"
+          },
+          {
+            "start": "16:37",
             "end": "16:38",
-            "cat": "research",
+            "cat": "personal",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "title": "Reservation at Armani Restaurant",
+            "note": "sevenrooms.com"
           },
           {
             "start": "16:38",
-            "end": "16:40",
-            "cat": "coding",
+            "end": "16:38",
+            "cat": "personal",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "title": "Reservation at Armani Restaurant",
+            "note": "sevenrooms.com"
+          },
+          {
+            "start": "16:39",
+            "end": "16:40",
+            "cat": "admin",
+            "src": "macos",
+            "title": "armani restaurant - Google Search",
+            "note": "google.com"
           },
           {
             "start": "16:40",
-            "end": "16:42",
-            "cat": "research",
+            "end": "16:41",
+            "cat": "admin",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "title": "armani restaurant - Google Search",
+            "note": "google.com"
           },
           {
-            "start": "16:42",
+            "start": "16:41",
             "end": "16:43",
-            "cat": "coding",
+            "cat": "admin",
             "src": "macos",
-            "title": "SalesforceAIResearch/MCP-Universe: MCP-Universe is a compreh",
-            "note": "github.com"
+            "title": "armani restaurant - Google Search",
+            "note": "google.com"
           },
           {
             "start": "16:43",
-            "end": "16:45",
-            "cat": "research",
+            "end": "16:44",
+            "cat": "admin",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "title": "armani restaurant - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "16:44",
+            "end": "16:45",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
           },
           {
             "start": "16:45",
             "end": "16:46",
-            "cat": "coding",
+            "cat": "admin",
             "src": "macos",
-            "title": "SalesforceAIResearch/MCP-Universe: MCP-Universe is a compreh",
-            "note": "github.com"
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
           },
           {
             "start": "16:46",
-            "end": "16:46",
-            "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
-          },
-          {
-            "start": "16:46",
-            "end": "16:50",
-            "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
-          },
-          {
-            "start": "16:51",
-            "end": "16:51",
-            "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
-          },
-          {
-            "start": "16:51",
-            "end": "16:58",
-            "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
-          },
-          {
-            "start": "16:59",
-            "end": "17:06",
-            "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
-          },
-          {
-            "start": "17:06",
-            "end": "17:08",
-            "cat": "research",
-            "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
-          },
-          {
-            "start": "17:10",
-            "end": "17:10",
-            "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
-          },
-          {
-            "start": "17:11",
-            "end": "17:31",
-            "cat": "research",
-            "src": "chrome",
-            "title": "Welcome - Hugging Face",
-            "note": "huggingface.co"
-          },
-          {
-            "start": "18:45",
-            "end": "18:49",
-            "cat": "personal",
-            "src": "macos",
-            "title": "(62) YouTube",
-            "note": "youtube.com"
-          },
-          {
-            "start": "18:50",
-            "end": "18:51",
-            "cat": "research",
-            "src": "chrome",
-            "title": "How data science teams use Codex [Recording] - Video | OpenA",
-            "note": "openai.com"
-          },
-          {
-            "start": "18:51",
-            "end": "18:54",
+            "end": "16:47",
             "cat": "coding",
             "src": "macos",
             "title": "codex",
             "note": "com.openai.codex"
           },
           {
-            "start": "18:54",
+            "start": "16:48",
+            "end": "16:49",
+            "cat": "admin",
+            "src": "macos",
+            "title": "armani restaurant - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "16:49",
+            "end": "16:50",
+            "cat": "admin",
+            "src": "macos",
+            "title": "armani restaurant - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "16:50",
+            "end": "16:52",
+            "cat": "admin",
+            "src": "macos",
+            "title": "armani restaurant - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "16:53",
+            "end": "16:54",
+            "cat": "admin",
+            "src": "macos",
+            "title": "armani restaurant - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "16:55",
+            "end": "16:58",
+            "cat": "admin",
+            "src": "macos",
+            "title": "armani restaurant - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "16:58",
+            "end": "16:58",
+            "cat": "admin",
+            "src": "macos",
+            "title": "armani restaurant - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "16:59",
+            "end": "17:00",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "17:01",
+            "end": "17:02",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "17:02",
+            "end": "17:08",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "17:09",
+            "end": "18:06",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Reserve with Google",
+            "note": "google.com"
+          },
+          {
+            "start": "18:07",
+            "end": "18:09",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "18:10",
+            "end": "18:12",
+            "cat": "admin",
+            "src": "macos",
+            "title": "The Picnic Ground - Google Maps",
+            "note": "google.com"
+          },
+          {
+            "start": "18:12",
+            "end": "18:24",
+            "cat": "admin",
+            "src": "macos",
+            "title": "The Picnic Ground - Google Maps",
+            "note": "google.com"
+          },
+          {
+            "start": "18:25",
+            "end": "18:27",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "18:28",
+            "end": "18:29",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "18:29",
+            "end": "18:33",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "18:33",
+            "end": "18:34",
+            "cat": "admin",
+            "src": "macos",
+            "title": "The Picnic Ground - Google Maps",
+            "note": "google.com"
+          },
+          {
+            "start": "18:34",
+            "end": "18:36",
+            "cat": "coding",
+            "src": "local",
+            "title": "summarize.py",
+            "note": "6 hits"
+          },
+          {
+            "start": "18:36",
+            "end": "18:38",
+            "cat": "coding",
+            "src": "local",
+            "title": "summarize.py",
+            "note": "6 hits"
+          },
+          {
+            "start": "18:38",
+            "end": "18:40",
+            "cat": "coding",
+            "src": "local",
+            "title": "summarize.py",
+            "note": "6 hits"
+          },
+          {
+            "start": "18:40",
+            "end": "18:41",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "18:41",
+            "end": "18:42",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "18:42",
+            "end": "18:43",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "18:43",
+            "end": "18:44",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "18:44",
+            "end": "18:45",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "18:45",
+            "end": "18:46",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "18:47",
+            "end": "18:48",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "18:49",
+            "end": "18:50",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "18:50",
+            "end": "18:51",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "18:51",
+            "end": "18:51",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "18:51",
+            "end": "18:53",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "18:53",
+            "end": "18:55",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "18:55",
             "end": "18:56",
-            "cat": "research",
-            "src": "chrome",
-            "title": "How data science teams use Codex [Recording] - Video | OpenA",
-            "note": "openai.com"
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
           },
           {
             "start": "18:56",
-            "end": "19:54",
-            "cat": "personal",
+            "end": "18:57",
+            "cat": "coding",
             "src": "macos",
-            "title": "(62) Forward Deployed Engineering at Cursor — Pauline Brunet",
-            "note": "youtube.com"
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "18:57",
+            "end": "18:58",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "18:58",
+            "end": "19:00",
+            "cat": "admin",
+            "src": "macos",
+            "title": "The Picnic Ground - Google Maps",
+            "note": "google.com"
+          },
+          {
+            "start": "19:00",
+            "end": "19:01",
+            "cat": "admin",
+            "src": "macos",
+            "title": "The Picnic Ground - Google Maps",
+            "note": "google.com"
+          },
+          {
+            "start": "19:02",
+            "end": "19:02",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "19:02",
+            "end": "19:03",
+            "cat": "admin",
+            "src": "macos",
+            "title": "The Picnic Ground - Google Maps",
+            "note": "google.com"
+          },
+          {
+            "start": "19:03",
+            "end": "19:05",
+            "cat": "admin",
+            "src": "macos",
+            "title": "The Picnic Ground - Google Maps",
+            "note": "google.com"
+          },
+          {
+            "start": "19:05",
+            "end": "19:09",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "19:09",
+            "end": "19:10",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "19:10",
+            "end": "19:11",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "19:11",
+            "end": "19:12",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "19:12",
+            "end": "19:14",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "5 hits"
+          },
+          {
+            "start": "19:14",
+            "end": "19:16",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "5 hits"
+          },
+          {
+            "start": "19:16",
+            "end": "19:16",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "5 hits"
+          },
+          {
+            "start": "19:16",
+            "end": "19:17",
+            "cat": "admin",
+            "src": "macos",
+            "title": "The Picnic Ground - Google Maps",
+            "note": "google.com"
+          },
+          {
+            "start": "19:17",
+            "end": "19:20",
+            "cat": "admin",
+            "src": "macos",
+            "title": "The Picnic Ground - Google Maps",
+            "note": "google.com"
+          },
+          {
+            "start": "19:20",
+            "end": "19:21",
+            "cat": "admin",
+            "src": "macos",
+            "title": "The Picnic Ground - Google Maps",
+            "note": "google.com"
+          },
+          {
+            "start": "19:21",
+            "end": "19:22",
+            "cat": "admin",
+            "src": "macos",
+            "title": "The Picnic Ground - Google Maps",
+            "note": "google.com"
+          },
+          {
+            "start": "19:22",
+            "end": "19:24",
+            "cat": "admin",
+            "src": "macos",
+            "title": "The Picnic Ground - Google Maps",
+            "note": "google.com"
+          },
+          {
+            "start": "19:24",
+            "end": "19:25",
+            "cat": "admin",
+            "src": "macos",
+            "title": "The Picnic Ground - Google Maps",
+            "note": "google.com"
+          },
+          {
+            "start": "19:25",
+            "end": "19:27",
+            "cat": "admin",
+            "src": "macos",
+            "title": "The Picnic Ground - Google Maps",
+            "note": "google.com"
+          },
+          {
+            "start": "19:27",
+            "end": "19:29",
+            "cat": "admin",
+            "src": "macos",
+            "title": "The Picnic Ground - Google Maps",
+            "note": "google.com"
+          },
+          {
+            "start": "19:29",
+            "end": "19:30",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "19:30",
+            "end": "19:33",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "19:33",
+            "end": "19:37",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "19:37",
+            "end": "19:38",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "5 hits"
+          },
+          {
+            "start": "19:38",
+            "end": "19:39",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "5 hits"
+          },
+          {
+            "start": "19:39",
+            "end": "19:40",
+            "cat": "admin",
+            "src": "macos",
+            "title": "The Picnic Ground - Google Maps",
+            "note": "google.com"
+          },
+          {
+            "start": "19:40",
+            "end": "19:41",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "19:42",
+            "end": "19:43",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "19:43",
+            "end": "19:44",
+            "cat": "admin",
+            "src": "macos",
+            "title": "The Picnic Ground - Google Maps",
+            "note": "google.com"
+          },
+          {
+            "start": "19:44",
+            "end": "19:49",
+            "cat": "admin",
+            "src": "macos",
+            "title": "The Picnic Ground - Google Maps",
+            "note": "google.com"
+          },
+          {
+            "start": "19:49",
+            "end": "19:52",
+            "cat": "admin",
+            "src": "macos",
+            "title": "The Picnic Ground - Google Maps",
+            "note": "google.com"
+          },
+          {
+            "start": "19:52",
+            "end": "19:54",
+            "cat": "admin",
+            "src": "macos",
+            "title": "The Picnic Ground - Google Maps",
+            "note": "google.com"
           },
           {
             "start": "19:54",
+            "end": "19:57",
+            "cat": "admin",
+            "src": "macos",
+            "title": "The Picnic Ground - Google Maps",
+            "note": "google.com"
+          },
+          {
+            "start": "19:57",
             "end": "20:01",
             "cat": "admin",
             "src": "macos",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "title": "The Picnic Ground - Google Maps",
+            "note": "google.com"
           },
           {
-            "start": "20:01",
-            "end": "20:18",
+            "start": "20:02",
+            "end": "20:03",
             "cat": "admin",
             "src": "macos",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "title": "The Picnic Ground - Google Maps",
+            "note": "google.com"
+          },
+          {
+            "start": "20:03",
+            "end": "20:05",
+            "cat": "admin",
+            "src": "macos",
+            "title": "The Picnic Ground - Google Maps",
+            "note": "google.com"
+          },
+          {
+            "start": "20:05",
+            "end": "20:06",
+            "cat": "admin",
+            "src": "macos",
+            "title": "The Picnic Ground - Google Maps",
+            "note": "google.com"
+          },
+          {
+            "start": "20:06",
+            "end": "20:07",
+            "cat": "admin",
+            "src": "macos",
+            "title": "The Picnic Ground - Google Maps",
+            "note": "google.com"
+          },
+          {
+            "start": "20:07",
+            "end": "20:08",
+            "cat": "admin",
+            "src": "macos",
+            "title": "The Picnic Ground - Google Maps",
+            "note": "google.com"
+          },
+          {
+            "start": "20:08",
+            "end": "20:10",
+            "cat": "admin",
+            "src": "macos",
+            "title": "The Picnic Ground - Google Maps",
+            "note": "google.com"
+          },
+          {
+            "start": "20:10",
+            "end": "20:11",
+            "cat": "admin",
+            "src": "macos",
+            "title": "The Picnic Ground - Google Maps",
+            "note": "google.com"
+          },
+          {
+            "start": "20:11",
+            "end": "20:12",
+            "cat": "admin",
+            "src": "macos",
+            "title": "The Picnic Ground - Google Maps",
+            "note": "google.com"
+          },
+          {
+            "start": "20:12",
+            "end": "20:13",
+            "cat": "admin",
+            "src": "macos",
+            "title": "The Picnic Ground - Google Maps",
+            "note": "google.com"
+          },
+          {
+            "start": "20:14",
+            "end": "20:16",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "5 hits"
+          },
+          {
+            "start": "20:16",
+            "end": "20:17",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "5 hits"
+          },
+          {
+            "start": "20:17",
+            "end": "20:18",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "5 hits"
           },
           {
             "start": "20:18",
-            "end": "20:20",
-            "cat": "research",
-            "src": "macos",
-            "title": "艾伦·凯 - 维基百科，自由的百科全书",
-            "note": "zh.wikipedia.org"
+            "end": "20:19",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "5 hits"
           },
           {
-            "start": "20:20",
-            "end": "20:24",
-            "cat": "personal",
+            "start": "20:19",
+            "end": "20:19",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "5 hits"
+          },
+          {
+            "start": "20:19",
+            "end": "20:21",
+            "cat": "admin",
             "src": "macos",
-            "title": "(62) Everything we knew about software has changed — Theo Br",
-            "note": "youtube.com"
+            "title": "The Picnic Ground - Google Maps",
+            "note": "google.com"
+          },
+          {
+            "start": "20:21",
+            "end": "20:21",
+            "cat": "admin",
+            "src": "macos",
+            "title": "The Picnic Ground - Google Maps",
+            "note": "google.com"
+          },
+          {
+            "start": "20:23",
+            "end": "20:24",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
           },
           {
             "start": "20:24",
+            "end": "20:25",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "20:25",
+            "end": "20:26",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Ada's rebuttal on EduAgentBench - Google Docs",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "20:26",
+            "end": "20:29",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Ada's rebuttal on EduAgentBench - Google Docs",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "20:30",
+            "end": "20:31",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Ada's rebuttal on EduAgentBench - Google Docs",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "20:31",
+            "end": "20:35",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Ada's rebuttal on EduAgentBench - Google Docs",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "20:35",
+            "end": "20:35",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Ada's rebuttal on EduAgentBench - Google Docs",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "20:36",
+            "end": "20:40",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Ada's rebuttal on EduAgentBench - Google Docs",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "20:40",
+            "end": "20:41",
+            "cat": "writing",
+            "src": "chrome",
+            "title": "Ada's rebuttal on EduAgentBench - Google Docs",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "20:41",
+            "end": "20:42",
+            "cat": "writing",
+            "src": "chrome",
+            "title": "Ada's rebuttal on EduAgentBench - Google Docs",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "20:42",
+            "end": "20:43",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "5 hits"
+          },
+          {
+            "start": "20:43",
+            "end": "20:46",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Ada's rebuttal on EduAgentBench - Google Docs",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "20:46",
+            "end": "20:48",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Ada's rebuttal on EduAgentBench - Google Docs",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "20:48",
+            "end": "20:49",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Ada's rebuttal on EduAgentBench - Google Docs",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "20:49",
+            "end": "20:51",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "20:51",
+            "end": "20:53",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "20:53",
             "end": "20:55",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "20:55",
+            "end": "20:56",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "20:56",
+            "end": "20:58",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "20:58",
+            "end": "20:59",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "20:59",
+            "end": "21:00",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "21:00",
+            "end": "21:02",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Ada's rebuttal on EduAgentBench - Google Docs",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "21:02",
+            "end": "21:03",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Ada's rebuttal on EduAgentBench - Google Docs",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "21:04",
+            "end": "21:05",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Ada's rebuttal on EduAgentBench - Google Docs",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "21:05",
+            "end": "21:06",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Ada's rebuttal on EduAgentBench - Google Docs",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "21:06",
+            "end": "21:07",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "21:07",
+            "end": "21:09",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "21:09",
+            "end": "21:10",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "21:11",
+            "end": "21:12",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "21:12",
+            "end": "21:12",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Ada's rebuttal on EduAgentBench - Google Docs",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "21:13",
+            "end": "21:14",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Armani Restaurant | My Menu Mobile. menu listing page.",
+            "note": "qr.mydigimenu.com"
+          },
+          {
+            "start": "21:14",
+            "end": "21:16",
             "cat": "personal",
             "src": "macos",
-            "title": "(62) AI Engineer - YouTube",
-            "note": "youtube.com"
+            "title": "Armani Restaurant | My Menu Mobile. menu listing page.",
+            "note": "qr.mydigimenu.com"
+          },
+          {
+            "start": "21:16",
+            "end": "21:17",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Armani Restaurant | My Menu Mobile. menu listing page.",
+            "note": "qr.mydigimenu.com"
+          },
+          {
+            "start": "21:17",
+            "end": "21:18",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Armani Restaurant | My Menu Mobile. menu listing page.",
+            "note": "qr.mydigimenu.com"
+          },
+          {
+            "start": "21:18",
+            "end": "21:19",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "21:19",
+            "end": "21:22",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Armani Restaurant | My Menu Mobile. menu listing page.",
+            "note": "qr.mydigimenu.com"
+          },
+          {
+            "start": "21:22",
+            "end": "21:23",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Armani Restaurant | My Menu Mobile. menu listing page.",
+            "note": "qr.mydigimenu.com"
+          },
+          {
+            "start": "21:23",
+            "end": "21:23",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Armani Restaurant | My Menu Mobile. menu listing page.",
+            "note": "qr.mydigimenu.com"
+          },
+          {
+            "start": "21:23",
+            "end": "21:24",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Armani Restaurant | My Menu Mobile. menu listing page.",
+            "note": "qr.mydigimenu.com"
+          },
+          {
+            "start": "21:24",
+            "end": "21:27",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Armani Restaurant | My Menu Mobile. menu listing page.",
+            "note": "qr.mydigimenu.com"
           },
           {
             "start": "21:27",
-            "end": "21:44",
+            "end": "21:28",
             "cat": "personal",
             "src": "macos",
-            "title": "(62) From Writing Code to Designing Systems: How the Develop",
-            "note": "youtube.com"
+            "title": "Armani Restaurant | My Menu Mobile. menu listing page.",
+            "note": "qr.mydigimenu.com"
           },
           {
-            "start": "21:44",
-            "end": "22:04",
+            "start": "21:28",
+            "end": "21:29",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Armani Restaurant | My Menu Mobile. menu listing page.",
+            "note": "qr.mydigimenu.com"
+          },
+          {
+            "start": "21:29",
+            "end": "21:32",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Armani Restaurant | My Menu Mobile. menu listing page.",
+            "note": "qr.mydigimenu.com"
+          },
+          {
+            "start": "21:32",
+            "end": "21:33",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Armani Restaurant | My Menu Mobile. menu listing page.",
+            "note": "qr.mydigimenu.com"
+          },
+          {
+            "start": "21:33",
+            "end": "21:34",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Armani Restaurant | My Menu Mobile. menu listing page.",
+            "note": "qr.mydigimenu.com"
+          },
+          {
+            "start": "21:34",
+            "end": "21:35",
             "cat": "coding",
             "src": "macos",
-            "title": "Login",
-            "note": "immersivetranslate.com"
+            "title": "Billing | Claude Platform",
+            "note": "platform.claude.com"
+          },
+          {
+            "start": "21:36",
+            "end": "21:37",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(7) X 上的 Thinking Machines：“Today, we are introducing Inklin",
+            "note": "x.com"
+          },
+          {
+            "start": "21:38",
+            "end": "21:40",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Inbox (2,656) - ada.ren.cn@gmail.com - Gmail",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "21:40",
+            "end": "21:49",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Billing | Claude Platform",
+            "note": "google.com"
+          },
+          {
+            "start": "21:49",
+            "end": "21:50",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "21:50",
+            "end": "21:54",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Billing | Claude Platform",
+            "note": "platform.claude.com"
+          },
+          {
+            "start": "21:54",
+            "end": "21:55",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "21:55",
+            "end": "21:56",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "21:56",
+            "end": "21:57",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "21:57",
+            "end": "22:01",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Billing | Claude Platform",
+            "note": "platform.claude.com"
+          },
+          {
+            "start": "22:02",
+            "end": "22:07",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Billing | Claude Platform",
+            "note": "platform.claude.com"
+          },
+          {
+            "start": "22:07",
+            "end": "22:08",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Billing | Claude Platform",
+            "note": "platform.claude.com"
+          },
+          {
+            "start": "22:08",
+            "end": "22:12",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Billing | Claude Platform",
+            "note": "platform.claude.com"
+          },
+          {
+            "start": "22:12",
+            "end": "22:13",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "22:13",
+            "end": "22:17",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "22:17",
+            "end": "22:17",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "22:18",
+            "end": "22:21",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Billing | Claude Platform",
+            "note": "platform.claude.com"
+          },
+          {
+            "start": "22:21",
+            "end": "22:22",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "22:23",
+            "end": "22:25",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "5 hits"
+          },
+          {
+            "start": "22:25",
+            "end": "22:28",
+            "cat": "research",
+            "src": "chrome",
+            "title": "zjunlp (ZJUNLP)",
+            "note": "huggingface.co"
+          },
+          {
+            "start": "22:28",
+            "end": "22:29",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "3 hits"
           }
         ],
-        "logged": 520,
-        "real": 317,
-        "deep": 317,
-        "ratio": 0.6104022773311818,
+        "logged": 636,
+        "real": 416,
+        "deep": 416,
+        "ratio": 0.6540196748036347,
         "stats": {
-          "contextSwitches": 63,
-          "tabsOpened": 30,
-          "longestFocus": "1h 29m",
-          "justOneMoreThing": 3
-        }
-      },
-      {
-        "key": "2026-7-16",
-        "dayNum": 16,
-        "dow": 4,
-        "weekend": false,
-        "dateShort": "Thu, Jul 16",
-        "dateLong": "Thursday, July 16",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
-        "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "0m",
-          "justOneMoreThing": 0
+          "contextSwitches": 96,
+          "tabsOpened": 57,
+          "longestFocus": "1h 49m",
+          "justOneMoreThing": 9
         }
       },
       {
@@ -36065,342 +38194,1252 @@
       "weekend": false
     },
     {
-      "key": "2026-7-15",
-      "dayNum": 15,
-      "dow": 3,
-      "weekend": false,
-      "dateShort": "Wed, Jul 15",
       "dateLong": "Wednesday, July 15",
-      "dayStart": "10:11",
+      "dateShort": "Wed, Jul 15",
       "dayEnd": "22:04",
+      "dayNum": 15,
+      "dayStart": "10:11",
+      "deep": 317,
+      "dow": 3,
       "events": [
         {
-          "start": "10:11",
-          "end": "10:20",
           "cat": "writing",
+          "end": "10:20",
+          "note": "drive.google.com",
           "src": "macos",
-          "title": "ACL26_SLMs.pdf - Google Drive",
-          "note": "drive.google.com"
+          "start": "10:11",
+          "title": "ACL26_SLMs.pdf - Google Drive"
         },
+        {
+          "cat": "writing",
+          "end": "10:31",
+          "note": "drive.google.com",
+          "src": "macos",
+          "start": "10:20",
+          "title": "ACL26_SLMs.pdf - Google Drive"
+        },
+        {
+          "cat": "writing",
+          "end": "10:37",
+          "note": "1 hit",
+          "src": "local",
+          "start": "10:32",
+          "title": "2026-07-15.md"
+        },
+        {
+          "cat": "admin",
+          "end": "11:00",
+          "note": "accounts.google.com",
+          "src": "chrome",
+          "start": "10:49",
+          "title": "How I Polish Software That Agents Built - ada.ren.cn@gmail.c"
+        },
+        {
+          "cat": "admin",
+          "end": "11:02",
+          "note": "com.microsoft.Outlook",
+          "src": "macos",
+          "start": "11:00",
+          "title": "Outlook"
+        },
+        {
+          "cat": "admin",
+          "end": "11:04",
+          "note": "accounts.google.com",
+          "src": "chrome",
+          "start": "11:02",
+          "title": "How I Polish Software That Agents Built - ada.ren.cn@gmail.c"
+        },
+        {
+          "cat": "personal",
+          "end": "11:06",
+          "note": "reddit.com",
+          "src": "macos",
+          "start": "11:04",
+          "title": "Chinese AI Models Seize OpenRouter’s Top Five as OpenAI and "
+        },
+        {
+          "cat": "admin",
+          "end": "11:11",
+          "note": "accounts.google.com",
+          "src": "chrome",
+          "start": "11:06",
+          "title": "How I Polish Software That Agents Built - ada.ren.cn@gmail.c"
+        },
+        {
+          "cat": "personal",
+          "end": "11:12",
+          "note": "youtube.com",
+          "src": "macos",
+          "start": "11:11",
+          "title": "(62) AI Engineer - YouTube"
+        },
+        {
+          "cat": "admin",
+          "end": "11:16",
+          "note": "mail.google.com",
+          "src": "macos",
+          "start": "11:12",
+          "title": "The Urge to Merge (ChatGPT and Codex) - ada.ren.cn@gmail.com"
+        },
+        {
+          "cat": "writing",
+          "end": "11:20",
+          "note": "drive.google.com",
+          "src": "macos",
+          "start": "11:16",
+          "title": "ACL26_Industry.pdf - Google Drive"
+        },
+        {
+          "cat": "writing",
+          "end": "11:46",
+          "note": "drive.google.com",
+          "src": "macos",
+          "start": "11:20",
+          "title": "ACL26_Industry.pdf - Google Drive"
+        },
+        {
+          "cat": "research",
+          "end": "11:49",
+          "note": "adaren100.github.io",
+          "src": "macos",
+          "start": "11:46",
+          "title": "Where the time actually went | Ada's Notes"
+        },
+        {
+          "cat": "coding",
+          "end": "11:52",
+          "note": "anthropic.com",
+          "src": "macos",
+          "start": "11:49",
+          "title": "人格研究所承诺向加拿大人工智能研究投入1000万美元 \\ 人格研究所"
+        },
+        {
+          "cat": "research",
+          "end": "12:01",
+          "note": "adaren100.github.io",
+          "src": "chrome",
+          "start": "11:52",
+          "title": "How data science teams use Codex [Recording] - Video | OpenA"
+        },
+        {
+          "cat": "personal",
+          "end": "12:03",
+          "note": "x.com",
+          "src": "macos",
+          "start": "12:01",
+          "title": "Sam Altman (@sama) / X"
+        },
+        {
+          "cat": "admin",
+          "end": "12:12",
+          "note": "linkedin.com",
+          "src": "macos",
+          "start": "12:03",
+          "title": "(9) A Framework for Frontier AI and the Dawning of a New Age"
+        },
+        {
+          "cat": "coding",
+          "end": "12:32",
+          "note": "github.com",
+          "src": "macos",
+          "start": "12:12",
+          "title": "yale-nlp/LLM-Metacognition: Metacognition in LLMs: Foundatio"
+        },
+        {
+          "cat": "admin",
+          "end": "13:19",
+          "note": "com.microsoft.Outlook",
+          "src": "macos",
+          "start": "13:11",
+          "title": "Outlook"
+        },
+        {
+          "cat": "admin",
+          "end": "13:21",
+          "note": "6 hits",
+          "src": "claude",
+          "start": "13:19",
+          "title": "PhD worklog review"
+        },
+        {
+          "cat": "research",
+          "end": "13:24",
+          "note": "org.zotero.zotero",
+          "src": "macos",
+          "start": "13:21",
+          "title": "zotero"
+        },
+        {
+          "cat": "admin",
+          "end": "13:32",
+          "note": "linkedin.com",
+          "src": "chrome",
+          "start": "13:28",
+          "title": "Michael Sheng | LinkedIn"
+        },
+        {
+          "cat": "admin",
+          "end": "13:33",
+          "note": "linkedin.com",
+          "src": "macos",
+          "start": "13:32",
+          "title": "Feed | LinkedIn"
+        },
+        {
+          "cat": "admin",
+          "end": "13:37",
+          "note": "linkedin.com",
+          "src": "macos",
+          "start": "13:33",
+          "title": "Michael Sheng | LinkedIn"
+        },
+        {
+          "cat": "coding",
+          "end": "13:40",
+          "note": "com.microsoft.VSCode",
+          "src": "macos",
+          "start": "13:37",
+          "title": "VSCode"
+        },
+        {
+          "cat": "research",
+          "end": "13:43",
+          "note": "openreview.net",
+          "src": "macos",
+          "start": "13:41",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
+        },
+        {
+          "cat": "admin",
+          "end": "13:44",
+          "note": "google.com",
+          "src": "macos",
+          "start": "13:43",
+          "title": "mac uni gym - Google Search"
+        },
+        {
+          "cat": "admin",
+          "end": "13:45",
+          "note": "sport.mq.edu.au",
+          "src": "macos",
+          "start": "13:44",
+          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni"
+        },
+        {
+          "cat": "coding",
+          "end": "14:12",
+          "note": "com.microsoft.VSCode",
+          "src": "macos",
+          "start": "13:45",
+          "title": "VSCode"
+        },
+        {
+          "cat": "research",
+          "end": "14:17",
+          "note": "org.zotero.zotero",
+          "src": "macos",
+          "start": "14:12",
+          "title": "zotero"
+        },
+        {
+          "cat": "coding",
+          "end": "14:19",
+          "note": "com.openai.codex",
+          "src": "macos",
+          "start": "14:18",
+          "title": "codex"
+        },
+        {
+          "cat": "research",
+          "end": "14:23",
+          "note": "org.zotero.zotero",
+          "src": "macos",
+          "start": "14:20",
+          "title": "zotero"
+        },
+        {
+          "cat": "coding",
+          "end": "14:24",
+          "note": "com.openai.codex",
+          "src": "macos",
+          "start": "14:23",
+          "title": "codex"
+        },
+        {
+          "cat": "research",
+          "end": "14:25",
+          "note": "org.zotero.zotero",
+          "src": "macos",
+          "start": "14:24",
+          "title": "zotero"
+        },
+        {
+          "cat": "research",
+          "end": "14:32",
+          "note": "org.zotero.zotero",
+          "src": "macos",
+          "start": "14:26",
+          "title": "zotero"
+        },
+        {
+          "cat": "research",
+          "end": "14:44",
+          "note": "org.zotero.zotero",
+          "src": "macos",
+          "start": "14:37",
+          "title": "zotero"
+        },
+        {
+          "cat": "research",
+          "end": "14:47",
+          "note": "org.zotero.zotero",
+          "src": "macos",
+          "start": "14:46",
+          "title": "zotero"
+        },
+        {
+          "cat": "coding",
+          "end": "14:48",
+          "note": "com.microsoft.VSCode",
+          "src": "macos",
+          "start": "14:47",
+          "title": "VSCode"
+        },
+        {
+          "cat": "research",
+          "end": "14:54",
+          "note": "org.zotero.zotero",
+          "src": "macos",
+          "start": "14:50",
+          "title": "zotero"
+        },
+        {
+          "cat": "coding",
+          "end": "14:55",
+          "note": "com.openai.codex",
+          "src": "macos",
+          "start": "14:54",
+          "title": "codex"
+        },
+        {
+          "cat": "research",
+          "end": "14:56",
+          "note": "org.zotero.zotero",
+          "src": "macos",
+          "start": "14:55",
+          "title": "zotero"
+        },
+        {
+          "cat": "research",
+          "end": "14:59",
+          "note": "org.zotero.zotero",
+          "src": "macos",
+          "start": "14:57",
+          "title": "zotero"
+        },
+        {
+          "cat": "research",
+          "end": "15:03",
+          "note": "org.zotero.zotero",
+          "src": "macos",
+          "start": "15:02",
+          "title": "zotero"
+        },
+        {
+          "cat": "coding",
+          "end": "15:07",
+          "note": "com.openai.codex",
+          "src": "macos",
+          "start": "15:04",
+          "title": "codex"
+        },
+        {
+          "cat": "coding",
+          "end": "15:09",
+          "note": "com.openai.codex",
+          "src": "macos",
+          "start": "15:07",
+          "title": "codex"
+        },
+        {
+          "cat": "research",
+          "end": "15:13",
+          "note": "org.zotero.zotero",
+          "src": "macos",
+          "start": "15:12",
+          "title": "zotero"
+        },
+        {
+          "cat": "coding",
+          "end": "15:15",
+          "note": "com.openai.codex",
+          "src": "macos",
+          "start": "15:13",
+          "title": "codex"
+        },
+        {
+          "cat": "research",
+          "end": "15:16",
+          "note": "org.zotero.zotero",
+          "src": "macos",
+          "start": "15:15",
+          "title": "zotero"
+        },
+        {
+          "cat": "coding",
+          "end": "15:20",
+          "note": "com.openai.codex",
+          "src": "macos",
+          "start": "15:16",
+          "title": "codex"
+        },
+        {
+          "cat": "coding",
+          "end": "15:23",
+          "note": "com.openai.codex",
+          "src": "macos",
+          "start": "15:21",
+          "title": "codex"
+        },
+        {
+          "cat": "research",
+          "end": "15:25",
+          "note": "org.zotero.zotero",
+          "src": "macos",
+          "start": "15:23",
+          "title": "zotero"
+        },
+        {
+          "cat": "research",
+          "end": "15:29",
+          "note": "org.zotero.zotero",
+          "src": "macos",
+          "start": "15:26",
+          "title": "zotero"
+        },
+        {
+          "cat": "research",
+          "end": "15:31",
+          "note": "org.zotero.zotero",
+          "src": "macos",
+          "start": "15:29",
+          "title": "zotero"
+        },
+        {
+          "cat": "research",
+          "end": "15:35",
+          "note": "org.zotero.zotero",
+          "src": "macos",
+          "start": "15:32",
+          "title": "zotero"
+        },
+        {
+          "cat": "admin",
+          "end": "15:38",
+          "note": "com.microsoft.Outlook",
+          "src": "macos",
+          "start": "15:35",
+          "title": "Outlook"
+        },
+        {
+          "cat": "admin",
+          "end": "15:39",
+          "note": "url.au.m.mimecastprotect.com",
+          "src": "chrome",
+          "start": "15:38",
+          "title": "Global Journals of Research in Engineering"
+        },
+        {
+          "cat": "coding",
+          "end": "15:41",
+          "note": "com.openai.codex",
+          "src": "macos",
+          "start": "15:39",
+          "title": "codex"
+        },
+        {
+          "cat": "research",
+          "end": "15:48",
+          "note": "org.zotero.zotero",
+          "src": "macos",
+          "start": "15:41",
+          "title": "zotero"
+        },
+        {
+          "cat": "coding",
+          "end": "15:50",
+          "note": "com.openai.codex",
+          "src": "macos",
+          "start": "15:48",
+          "title": "codex"
+        },
+        {
+          "cat": "admin",
+          "end": "15:52",
+          "note": "url.au.m.mimecastprotect.com",
+          "src": "chrome",
+          "start": "15:50",
+          "title": "Global Journals of Research in Engineering"
+        },
+        {
+          "cat": "research",
+          "end": "16:02",
+          "note": "arxiv.org",
+          "src": "macos",
+          "start": "15:52",
+          "title": "MCP-Universe: Benchmarking Large Language Models with Real-W"
+        },
+        {
+          "cat": "admin",
+          "end": "16:03",
+          "note": "google.com",
+          "src": "macos",
+          "start": "16:02",
+          "title": "MCP-universe huggingface - Google Search"
+        },
+        {
+          "cat": "research",
+          "end": "16:12",
+          "note": "org.zotero.zotero",
+          "src": "macos",
+          "start": "16:03",
+          "title": "zotero"
+        },
+        {
+          "cat": "coding",
+          "end": "16:14",
+          "note": "com.microsoft.VSCode",
+          "src": "macos",
+          "start": "16:12",
+          "title": "VSCode"
+        },
+        {
+          "cat": "coding",
+          "end": "16:18",
+          "note": "github.com",
+          "src": "macos",
+          "start": "16:14",
+          "title": "SalesforceAIResearch/MCP-Universe: MCP-Universe is a compreh"
+        },
+        {
+          "cat": "research",
+          "end": "16:21",
+          "note": "org.zotero.zotero",
+          "src": "macos",
+          "start": "16:18",
+          "title": "zotero"
+        },
+        {
+          "cat": "coding",
+          "end": "16:36",
+          "note": "github.com",
+          "src": "macos",
+          "start": "16:21",
+          "title": "SalesforceAIResearch/MCP-Universe: MCP-Universe is a compreh"
+        },
+        {
+          "cat": "research",
+          "end": "16:38",
+          "note": "org.zotero.zotero",
+          "src": "macos",
+          "start": "16:36",
+          "title": "zotero"
+        },
+        {
+          "cat": "coding",
+          "end": "16:40",
+          "note": "com.openai.codex",
+          "src": "macos",
+          "start": "16:38",
+          "title": "codex"
+        },
+        {
+          "cat": "research",
+          "end": "16:42",
+          "note": "org.zotero.zotero",
+          "src": "macos",
+          "start": "16:40",
+          "title": "zotero"
+        },
+        {
+          "cat": "coding",
+          "end": "16:43",
+          "note": "github.com",
+          "src": "macos",
+          "start": "16:42",
+          "title": "SalesforceAIResearch/MCP-Universe: MCP-Universe is a compreh"
+        },
+        {
+          "cat": "research",
+          "end": "16:45",
+          "note": "org.zotero.zotero",
+          "src": "macos",
+          "start": "16:43",
+          "title": "zotero"
+        },
+        {
+          "cat": "coding",
+          "end": "16:46",
+          "note": "github.com",
+          "src": "macos",
+          "start": "16:45",
+          "title": "SalesforceAIResearch/MCP-Universe: MCP-Universe is a compreh"
+        },
+        {
+          "cat": "coding",
+          "end": "16:46",
+          "note": "com.microsoft.VSCode",
+          "src": "macos",
+          "start": "16:46",
+          "title": "VSCode"
+        },
+        {
+          "cat": "coding",
+          "end": "16:50",
+          "note": "com.microsoft.VSCode",
+          "src": "macos",
+          "start": "16:46",
+          "title": "VSCode"
+        },
+        {
+          "cat": "coding",
+          "end": "16:51",
+          "note": "com.microsoft.VSCode",
+          "src": "macos",
+          "start": "16:51",
+          "title": "VSCode"
+        },
+        {
+          "cat": "coding",
+          "end": "16:58",
+          "note": "com.microsoft.VSCode",
+          "src": "macos",
+          "start": "16:51",
+          "title": "VSCode"
+        },
+        {
+          "cat": "coding",
+          "end": "17:06",
+          "note": "com.microsoft.VSCode",
+          "src": "macos",
+          "start": "16:59",
+          "title": "VSCode"
+        },
+        {
+          "cat": "research",
+          "end": "17:08",
+          "note": "org.zotero.zotero",
+          "src": "macos",
+          "start": "17:06",
+          "title": "zotero"
+        },
+        {
+          "cat": "coding",
+          "end": "17:10",
+          "note": "com.microsoft.VSCode",
+          "src": "macos",
+          "start": "17:10",
+          "title": "VSCode"
+        },
+        {
+          "cat": "research",
+          "end": "17:31",
+          "note": "huggingface.co",
+          "src": "chrome",
+          "start": "17:11",
+          "title": "Welcome - Hugging Face"
+        },
+        {
+          "cat": "personal",
+          "end": "18:49",
+          "note": "youtube.com",
+          "src": "macos",
+          "start": "18:45",
+          "title": "(62) YouTube"
+        },
+        {
+          "cat": "research",
+          "end": "18:51",
+          "note": "openai.com",
+          "src": "chrome",
+          "start": "18:50",
+          "title": "How data science teams use Codex [Recording] - Video | OpenA"
+        },
+        {
+          "cat": "coding",
+          "end": "18:54",
+          "note": "com.openai.codex",
+          "src": "macos",
+          "start": "18:51",
+          "title": "codex"
+        },
+        {
+          "cat": "research",
+          "end": "18:56",
+          "note": "openai.com",
+          "src": "chrome",
+          "start": "18:54",
+          "title": "How data science teams use Codex [Recording] - Video | OpenA"
+        },
+        {
+          "cat": "personal",
+          "end": "19:54",
+          "note": "youtube.com",
+          "src": "macos",
+          "start": "18:56",
+          "title": "(62) Forward Deployed Engineering at Cursor — Pauline Brunet"
+        },
+        {
+          "cat": "admin",
+          "end": "20:01",
+          "note": "translate.google.com",
+          "src": "macos",
+          "start": "19:54",
+          "title": "Google Translate"
+        },
+        {
+          "cat": "admin",
+          "end": "20:18",
+          "note": "translate.google.com",
+          "src": "macos",
+          "start": "20:01",
+          "title": "Google Translate"
+        },
+        {
+          "cat": "research",
+          "end": "20:20",
+          "note": "zh.wikipedia.org",
+          "src": "macos",
+          "start": "20:18",
+          "title": "艾伦·凯 - 维基百科，自由的百科全书"
+        },
+        {
+          "cat": "personal",
+          "end": "20:24",
+          "note": "youtube.com",
+          "src": "macos",
+          "start": "20:20",
+          "title": "(62) Everything we knew about software has changed — Theo Br"
+        },
+        {
+          "cat": "personal",
+          "end": "20:55",
+          "note": "youtube.com",
+          "src": "macos",
+          "start": "20:24",
+          "title": "(62) AI Engineer - YouTube"
+        },
+        {
+          "cat": "personal",
+          "end": "21:44",
+          "note": "youtube.com",
+          "src": "macos",
+          "start": "21:27",
+          "title": "(62) From Writing Code to Designing Systems: How the Develop"
+        },
+        {
+          "cat": "coding",
+          "end": "22:04",
+          "note": "immersivetranslate.com",
+          "src": "macos",
+          "start": "21:44",
+          "title": "Login"
+        }
+      ],
+      "key": "2026-7-15",
+      "logged": 520,
+      "ratio": 0.6104022773311818,
+      "real": 317,
+      "stats": {
+        "contextSwitches": 63,
+        "justOneMoreThing": 3,
+        "longestFocus": "1h 29m",
+        "tabsOpened": 30
+      },
+      "weekend": false
+    },
+    {
+      "key": "2026-7-16",
+      "dayNum": 16,
+      "dow": 4,
+      "weekend": false,
+      "dateShort": "Thu, Jul 16",
+      "dateLong": "Thursday, July 16",
+      "dayStart": "10:20",
+      "dayEnd": "22:29",
+      "events": [
         {
           "start": "10:20",
-          "end": "10:31",
-          "cat": "writing",
-          "src": "macos",
-          "title": "ACL26_SLMs.pdf - Google Drive",
-          "note": "drive.google.com"
-        },
-        {
-          "start": "10:32",
-          "end": "10:37",
-          "cat": "writing",
+          "end": "10:25",
+          "cat": "coding",
           "src": "local",
-          "title": "2026-07-15.md",
-          "note": "1 hit"
+          "title": "domain_cats.json",
+          "note": "3 hits"
         },
         {
-          "start": "10:49",
-          "end": "11:00",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "How I Polish Software That Agents Built - ada.ren.cn@gmail.c",
-          "note": "accounts.google.com"
+          "start": "10:25",
+          "end": "10:30",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
         },
         {
-          "start": "11:00",
-          "end": "11:02",
+          "start": "10:30",
+          "end": "10:30",
           "cat": "admin",
           "src": "macos",
           "title": "Outlook",
           "note": "com.microsoft.Outlook"
         },
         {
-          "start": "11:02",
-          "end": "11:04",
+          "start": "10:31",
+          "end": "10:34",
           "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "10:34",
+          "end": "10:35",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "10:35",
+          "end": "10:35",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "10:36",
+          "end": "10:45",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "10:46",
+          "end": "10:48",
+          "cat": "research",
+          "src": "macos",
+          "title": "AI Digest — July 16, 2026 | Ada's Notes",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "10:49",
+          "end": "10:54",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "10:54",
+          "end": "11:00",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "11:00",
+          "end": "11:03",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:03",
+          "end": "11:04",
+          "cat": "research",
           "src": "chrome",
-          "title": "How I Polish Software That Agents Built - ada.ren.cn@gmail.c",
-          "note": "accounts.google.com"
+          "title": "AI Digest — July 16, 2026 | Ada's Notes",
+          "note": "adaren100.github.io"
         },
         {
           "start": "11:04",
-          "end": "11:06",
-          "cat": "personal",
+          "end": "11:05",
+          "cat": "coding",
           "src": "macos",
-          "title": "Chinese AI Models Seize OpenRouter’s Top Five as OpenAI and ",
-          "note": "reddit.com"
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
         },
         {
-          "start": "11:06",
+          "start": "11:05",
+          "end": "11:08",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:08",
+          "end": "11:08",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:09",
+          "end": "11:10",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:10",
           "end": "11:11",
           "cat": "admin",
-          "src": "chrome",
-          "title": "How I Polish Software That Agents Built - ada.ren.cn@gmail.c",
-          "note": "accounts.google.com"
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
         },
         {
           "start": "11:11",
-          "end": "11:12",
-          "cat": "personal",
+          "end": "11:13",
+          "cat": "coding",
           "src": "macos",
-          "title": "(62) AI Engineer - YouTube",
-          "note": "youtube.com"
+          "title": "Sign in successful | Claude Platform",
+          "note": "platform.claude.com"
         },
         {
-          "start": "11:12",
+          "start": "11:14",
           "end": "11:16",
-          "cat": "admin",
+          "cat": "coding",
           "src": "macos",
-          "title": "The Urge to Merge (ChatGPT and Codex) - ada.ren.cn@gmail.com",
-          "note": "mail.google.com"
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
         },
         {
           "start": "11:16",
           "end": "11:20",
-          "cat": "writing",
+          "cat": "coding",
           "src": "macos",
-          "title": "ACL26_Industry.pdf - Google Drive",
-          "note": "drive.google.com"
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
         },
         {
           "start": "11:20",
-          "end": "11:46",
-          "cat": "writing",
-          "src": "macos",
-          "title": "ACL26_Industry.pdf - Google Drive",
-          "note": "drive.google.com"
-        },
-        {
-          "start": "11:46",
-          "end": "11:49",
-          "cat": "research",
-          "src": "macos",
-          "title": "Where the time actually went | Ada's Notes",
-          "note": "adaren100.github.io"
-        },
-        {
-          "start": "11:49",
-          "end": "11:52",
+          "end": "11:22",
           "cat": "coding",
           "src": "macos",
-          "title": "人格研究所承诺向加拿大人工智能研究投入1000万美元 \\ 人格研究所",
-          "note": "anthropic.com"
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
         },
         {
-          "start": "11:52",
-          "end": "12:01",
+          "start": "11:23",
+          "end": "11:25",
           "cat": "research",
           "src": "chrome",
-          "title": "How data science teams use Codex [Recording] - Video | OpenA",
-          "note": "adaren100.github.io"
+          "title": "Claude",
+          "note": "claude.com"
         },
         {
-          "start": "12:01",
-          "end": "12:03",
+          "start": "11:25",
+          "end": "11:27",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Claude",
+          "note": "claude.com"
+        },
+        {
+          "start": "11:27",
+          "end": "11:32",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:32",
+          "end": "11:33",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Claude",
+          "note": "claude.com"
+        },
+        {
+          "start": "11:33",
+          "end": "11:34",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:34",
+          "end": "11:35",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Claude",
+          "note": "claude.com"
+        },
+        {
+          "start": "11:35",
+          "end": "11:36",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:36",
+          "end": "11:36",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:37",
+          "end": "11:48",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:48",
+          "end": "11:51",
           "cat": "personal",
           "src": "macos",
-          "title": "Sam Altman (@sama) / X",
-          "note": "x.com"
+          "title": "AfterQuery",
+          "note": "afterquery.com"
+        },
+        {
+          "start": "11:51",
+          "end": "11:59",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "11:59",
+          "end": "12:03",
+          "cat": "research",
+          "src": "macos",
+          "title": "AfterQuery/App-Bench · Datasets at Hugging Face",
+          "note": "huggingface.co"
         },
         {
           "start": "12:03",
-          "end": "12:12",
+          "end": "12:04",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "AfterQuery",
+          "note": "afterquery.com"
+        },
+        {
+          "start": "12:04",
+          "end": "12:07",
+          "cat": "research",
+          "src": "macos",
+          "title": "AfterQuery/ui-bench · Datasets at Hugging Face",
+          "note": "huggingface.co"
+        },
+        {
+          "start": "12:07",
+          "end": "12:09",
+          "cat": "research",
+          "src": "macos",
+          "title": "AfterQuery/FinanceQA · Datasets at Hugging Face",
+          "note": "huggingface.co"
+        },
+        {
+          "start": "12:11",
+          "end": "12:13",
           "cat": "admin",
           "src": "macos",
-          "title": "(9) A Framework for Frontier AI and the Dawning of a New Age",
+          "title": "Joshua Xia | LinkedIn",
           "note": "linkedin.com"
         },
         {
-          "start": "12:12",
-          "end": "12:32",
-          "cat": "coding",
-          "src": "macos",
-          "title": "yale-nlp/LLM-Metacognition: Metacognition in LLMs: Foundatio",
-          "note": "github.com"
-        },
-        {
-          "start": "13:11",
-          "end": "13:19",
-          "cat": "admin",
-          "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
-        },
-        {
-          "start": "13:19",
-          "end": "13:21",
-          "cat": "admin",
-          "src": "claude",
-          "title": "PhD worklog review",
-          "note": "6 hits"
-        },
-        {
-          "start": "13:21",
-          "end": "13:24",
+          "start": "12:13",
+          "end": "12:14",
           "cat": "research",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "title": "Joshua-Xia (Joshua Xia Studio)",
+          "note": "huggingface.co"
+        },
+        {
+          "start": "12:14",
+          "end": "12:15",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "12:15",
+          "end": "12:18",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "12:18",
+          "end": "12:19",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "12:19",
+          "end": "12:33",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Joshua-Xia (Joshua Xia Studio)",
+          "note": "huggingface.co"
+        },
+        {
+          "start": "13:09",
+          "end": "13:12",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "13:12",
+          "end": "13:24",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "13:24",
+          "end": "13:28",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
         },
         {
           "start": "13:28",
-          "end": "13:32",
-          "cat": "admin",
+          "end": "13:29",
+          "cat": "research",
+          "src": "macos",
+          "title": "斯里兰卡 - 维基百科，自由的百科全书",
+          "note": "zh.wikipedia.org"
+        },
+        {
+          "start": "13:29",
+          "end": "13:30",
+          "cat": "research",
+          "src": "macos",
+          "title": "斯里兰卡 - 维基百科，自由的百科全书",
+          "note": "zh.wikipedia.org"
+        },
+        {
+          "start": "13:31",
+          "end": "13:31",
+          "cat": "research",
+          "src": "macos",
+          "title": "斯里兰卡 - 维基百科，自由的百科全书",
+          "note": "zh.wikipedia.org"
+        },
+        {
+          "start": "13:31",
+          "end": "13:35",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "13:35",
+          "end": "13:36",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "13:36",
+          "end": "13:51",
+          "cat": "research",
           "src": "chrome",
-          "title": "Michael Sheng | LinkedIn",
-          "note": "linkedin.com"
+          "title": "ARR Reviewer Guidelines – ACL Rolling Review – A peer review",
+          "note": "zh.wikipedia.org"
         },
         {
-          "start": "13:32",
-          "end": "13:33",
-          "cat": "admin",
-          "src": "macos",
-          "title": "Feed | LinkedIn",
-          "note": "linkedin.com"
-        },
-        {
-          "start": "13:33",
-          "end": "13:37",
-          "cat": "admin",
-          "src": "macos",
-          "title": "Michael Sheng | LinkedIn",
-          "note": "linkedin.com"
-        },
-        {
-          "start": "13:37",
-          "end": "13:40",
-          "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
-        },
-        {
-          "start": "13:41",
-          "end": "13:43",
+          "start": "13:51",
+          "end": "14:11",
           "cat": "research",
           "src": "macos",
-          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-          "note": "openreview.net"
+          "title": "[2606.09845] Tutor, Not Solver: Designing a Guardrailed AI A",
+          "note": "arxiv.org"
         },
         {
-          "start": "13:43",
-          "end": "13:44",
+          "start": "14:11",
+          "end": "14:13",
           "cat": "admin",
           "src": "macos",
-          "title": "mac uni gym - Google Search",
-          "note": "google.com"
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
         },
         {
-          "start": "13:44",
-          "end": "13:45",
-          "cat": "admin",
-          "src": "macos",
-          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
-          "note": "sport.mq.edu.au"
-        },
-        {
-          "start": "13:45",
-          "end": "14:12",
-          "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
-        },
-        {
-          "start": "14:12",
-          "end": "14:17",
+          "start": "14:13",
+          "end": "14:16",
           "cat": "research",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "title": "[2606.09845] Tutor, Not Solver: Designing a Guardrailed AI A",
+          "note": "arxiv.org"
         },
         {
-          "start": "14:18",
-          "end": "14:19",
-          "cat": "coding",
-          "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
-        },
-        {
-          "start": "14:20",
-          "end": "14:23",
-          "cat": "research",
-          "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
-        },
-        {
-          "start": "14:23",
-          "end": "14:24",
-          "cat": "coding",
-          "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
-        },
-        {
-          "start": "14:24",
-          "end": "14:25",
-          "cat": "research",
-          "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
-        },
-        {
-          "start": "14:26",
+          "start": "14:22",
           "end": "14:32",
           "cat": "research",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "title": "[2606.09845] Tutor, Not Solver: Designing a Guardrailed AI A",
+          "note": "arxiv.org"
         },
         {
-          "start": "14:37",
-          "end": "14:44",
-          "cat": "research",
-          "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
-        },
-        {
-          "start": "14:46",
-          "end": "14:47",
-          "cat": "research",
-          "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
-        },
-        {
-          "start": "14:47",
-          "end": "14:48",
+          "start": "14:32",
+          "end": "14:37",
           "cat": "coding",
           "src": "macos",
           "title": "VSCode",
           "note": "com.microsoft.VSCode"
         },
         {
-          "start": "14:50",
-          "end": "14:54",
-          "cat": "research",
-          "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
-        },
-        {
-          "start": "14:54",
-          "end": "14:55",
+          "start": "14:44",
+          "end": "14:47",
           "cat": "coding",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
         },
         {
-          "start": "14:55",
-          "end": "14:56",
+          "start": "14:47",
+          "end": "14:50",
           "cat": "research",
           "src": "macos",
           "title": "zotero",
           "note": "org.zotero.zotero"
+        },
+        {
+          "start": "14:52",
+          "end": "14:57",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
         },
         {
           "start": "14:57",
@@ -36411,175 +39450,231 @@
           "note": "org.zotero.zotero"
         },
         {
-          "start": "15:02",
-          "end": "15:03",
+          "start": "14:59",
+          "end": "15:01",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:01",
+          "end": "15:08",
           "cat": "research",
           "src": "macos",
           "title": "zotero",
           "note": "org.zotero.zotero"
         },
         {
-          "start": "15:04",
-          "end": "15:07",
+          "start": "15:08",
+          "end": "15:22",
           "cat": "coding",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
         },
         {
-          "start": "15:07",
-          "end": "15:09",
-          "cat": "coding",
-          "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
-        },
-        {
-          "start": "15:12",
-          "end": "15:13",
-          "cat": "research",
-          "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
-        },
-        {
-          "start": "15:13",
-          "end": "15:15",
-          "cat": "coding",
-          "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
-        },
-        {
-          "start": "15:15",
-          "end": "15:16",
-          "cat": "research",
-          "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
-        },
-        {
-          "start": "15:16",
-          "end": "15:20",
-          "cat": "coding",
-          "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
-        },
-        {
-          "start": "15:21",
+          "start": "15:22",
           "end": "15:23",
-          "cat": "coding",
+          "cat": "research",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "title": "openai/gdpval · Datasets at Hugging Face",
+          "note": "huggingface.co"
         },
         {
           "start": "15:23",
           "end": "15:25",
           "cat": "research",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "title": "DABstep Leaderboard - a Hugging Face Space by adyen",
+          "note": "huggingface.co"
         },
         {
-          "start": "15:26",
-          "end": "15:29",
-          "cat": "research",
-          "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "15:25",
+          "end": "15:27",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Copy of quickstart.ipynb - Colab",
+          "note": "colab.research.google.com"
         },
         {
-          "start": "15:29",
-          "end": "15:31",
-          "cat": "research",
-          "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "15:27",
+          "end": "15:32",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Copy of quickstart.ipynb - Colab",
+          "note": "colab.research.google.com"
         },
         {
           "start": "15:32",
-          "end": "15:35",
-          "cat": "research",
-          "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
-        },
-        {
-          "start": "15:35",
-          "end": "15:38",
-          "cat": "admin",
-          "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
-        },
-        {
-          "start": "15:38",
-          "end": "15:39",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Global Journals of Research in Engineering",
-          "note": "url.au.m.mimecastprotect.com"
-        },
-        {
-          "start": "15:39",
-          "end": "15:41",
+          "end": "15:37",
           "cat": "coding",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
         },
         {
-          "start": "15:41",
-          "end": "15:48",
+          "start": "15:37",
+          "end": "15:42",
           "cat": "research",
           "src": "macos",
           "title": "zotero",
           "note": "org.zotero.zotero"
         },
         {
-          "start": "15:48",
+          "start": "15:42",
+          "end": "15:47",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:47",
+          "end": "15:49",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Copy of quickstart.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "15:50",
           "end": "15:50",
-          "cat": "coding",
+          "cat": "research",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "title": "DABstep: Data Agent Benchmark for Multi-step Reasoning",
+          "note": "arxiv.org"
         },
         {
           "start": "15:50",
           "end": "15:52",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Global Journals of Research in Engineering",
-          "note": "url.au.m.mimecastprotect.com"
+          "cat": "research",
+          "src": "macos",
+          "title": "DABstep: Data Agent Benchmark for Multi-step Reasoning",
+          "note": "arxiv.org"
         },
         {
           "start": "15:52",
-          "end": "16:02",
+          "end": "15:53",
           "cat": "research",
           "src": "macos",
-          "title": "MCP-Universe: Benchmarking Large Language Models with Real-W",
+          "title": "DABstep: Data Agent Benchmark for Multi-step Reasoning",
           "note": "arxiv.org"
+        },
+        {
+          "start": "15:53",
+          "end": "15:55",
+          "cat": "research",
+          "src": "macos",
+          "title": "DABstep: Data Agent Benchmark for Multi-step Reasoning",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "15:55",
+          "end": "15:56",
+          "cat": "research",
+          "src": "macos",
+          "title": "DABstep: Data Agent Benchmark for Multi-step Reasoning",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "15:56",
+          "end": "15:57",
+          "cat": "research",
+          "src": "macos",
+          "title": "DABstep: Data Agent Benchmark for Multi-step Reasoning",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "15:57",
+          "end": "15:58",
+          "cat": "research",
+          "src": "macos",
+          "title": "DABstep: Data Agent Benchmark for Multi-step Reasoning",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "15:58",
+          "end": "15:59",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:00",
+          "end": "16:01",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:01",
+          "end": "16:02",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
         },
         {
           "start": "16:02",
           "end": "16:03",
-          "cat": "admin",
+          "cat": "coding",
           "src": "macos",
-          "title": "MCP-universe huggingface - Google Search",
-          "note": "google.com"
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
         },
         {
           "start": "16:03",
-          "end": "16:12",
+          "end": "16:04",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:05",
+          "end": "16:07",
           "cat": "research",
           "src": "macos",
           "title": "zotero",
           "note": "org.zotero.zotero"
         },
         {
+          "start": "16:07",
+          "end": "16:08",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "16:08",
+          "end": "16:10",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "16:11",
+          "end": "16:12",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
           "start": "16:12",
+          "end": "16:13",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:13",
           "end": "16:14",
           "cat": "coding",
           "src": "macos",
@@ -36587,268 +39682,1431 @@
           "note": "com.microsoft.VSCode"
         },
         {
-          "start": "16:14",
-          "end": "16:18",
-          "cat": "coding",
+          "start": "16:15",
+          "end": "16:15",
+          "cat": "research",
           "src": "macos",
-          "title": "SalesforceAIResearch/MCP-Universe: MCP-Universe is a compreh",
-          "note": "github.com"
+          "title": "DABstep: Data Agent Benchmark for Multi-step Reasoning",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "16:15",
+          "end": "16:16",
+          "cat": "research",
+          "src": "macos",
+          "title": "DABstep: Data Agent Benchmark for Multi-step Reasoning",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "16:16",
+          "end": "16:17",
+          "cat": "research",
+          "src": "macos",
+          "title": "DABstep: Data Agent Benchmark for Multi-step Reasoning",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "16:17",
+          "end": "16:18",
+          "cat": "research",
+          "src": "macos",
+          "title": "DABstep: Data Agent Benchmark for Multi-step Reasoning",
+          "note": "arxiv.org"
         },
         {
           "start": "16:18",
-          "end": "16:21",
+          "end": "16:19",
           "cat": "research",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "title": "DABstep: Data Agent Benchmark for Multi-step Reasoning",
+          "note": "arxiv.org"
         },
         {
-          "start": "16:21",
-          "end": "16:36",
+          "start": "16:20",
+          "end": "16:21",
           "cat": "coding",
           "src": "macos",
-          "title": "SalesforceAIResearch/MCP-Universe: MCP-Universe is a compreh",
-          "note": "github.com"
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:22",
+          "end": "16:23",
+          "cat": "research",
+          "src": "macos",
+          "title": "DABstep: Data Agent Benchmark for Multi-step Reasoning",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "16:23",
+          "end": "16:24",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Parramatta - Google Maps",
+          "note": "google.com"
+        },
+        {
+          "start": "16:24",
+          "end": "16:25",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Parramatta - Google Maps",
+          "note": "google.com"
+        },
+        {
+          "start": "16:25",
+          "end": "16:27",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Parramatta - Google Maps",
+          "note": "google.com"
+        },
+        {
+          "start": "16:27",
+          "end": "16:27",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Parramatta - Google Maps",
+          "note": "google.com"
+        },
+        {
+          "start": "16:27",
+          "end": "16:29",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Google Maps",
+          "note": "map.google.com"
+        },
+        {
+          "start": "16:29",
+          "end": "16:30",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Google Maps",
+          "note": "map.google.com"
+        },
+        {
+          "start": "16:30",
+          "end": "16:32",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Parramatta Park - Google Maps",
+          "note": "google.com"
+        },
+        {
+          "start": "16:32",
+          "end": "16:33",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Parramatta Park - Google Maps",
+          "note": "google.com"
+        },
+        {
+          "start": "16:34",
+          "end": "16:36",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Google Maps",
+          "note": "map.google.com"
         },
         {
           "start": "16:36",
+          "end": "16:37",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Google Maps",
+          "note": "map.google.com"
+        },
+        {
+          "start": "16:37",
           "end": "16:38",
-          "cat": "research",
+          "cat": "personal",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "title": "Reservation at Armani Restaurant",
+          "note": "sevenrooms.com"
         },
         {
           "start": "16:38",
-          "end": "16:40",
-          "cat": "coding",
+          "end": "16:38",
+          "cat": "personal",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "title": "Reservation at Armani Restaurant",
+          "note": "sevenrooms.com"
+        },
+        {
+          "start": "16:39",
+          "end": "16:40",
+          "cat": "admin",
+          "src": "macos",
+          "title": "armani restaurant - Google Search",
+          "note": "google.com"
         },
         {
           "start": "16:40",
-          "end": "16:42",
-          "cat": "research",
+          "end": "16:41",
+          "cat": "admin",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "title": "armani restaurant - Google Search",
+          "note": "google.com"
         },
         {
-          "start": "16:42",
+          "start": "16:41",
           "end": "16:43",
-          "cat": "coding",
+          "cat": "admin",
           "src": "macos",
-          "title": "SalesforceAIResearch/MCP-Universe: MCP-Universe is a compreh",
-          "note": "github.com"
+          "title": "armani restaurant - Google Search",
+          "note": "google.com"
         },
         {
           "start": "16:43",
-          "end": "16:45",
-          "cat": "research",
+          "end": "16:44",
+          "cat": "admin",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "title": "armani restaurant - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "16:44",
+          "end": "16:45",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
         },
         {
           "start": "16:45",
           "end": "16:46",
-          "cat": "coding",
+          "cat": "admin",
           "src": "macos",
-          "title": "SalesforceAIResearch/MCP-Universe: MCP-Universe is a compreh",
-          "note": "github.com"
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
         },
         {
           "start": "16:46",
-          "end": "16:46",
-          "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
-        },
-        {
-          "start": "16:46",
-          "end": "16:50",
-          "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
-        },
-        {
-          "start": "16:51",
-          "end": "16:51",
-          "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
-        },
-        {
-          "start": "16:51",
-          "end": "16:58",
-          "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
-        },
-        {
-          "start": "16:59",
-          "end": "17:06",
-          "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
-        },
-        {
-          "start": "17:06",
-          "end": "17:08",
-          "cat": "research",
-          "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
-        },
-        {
-          "start": "17:10",
-          "end": "17:10",
-          "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
-        },
-        {
-          "start": "17:11",
-          "end": "17:31",
-          "cat": "research",
-          "src": "chrome",
-          "title": "Welcome - Hugging Face",
-          "note": "huggingface.co"
-        },
-        {
-          "start": "18:45",
-          "end": "18:49",
-          "cat": "personal",
-          "src": "macos",
-          "title": "(62) YouTube",
-          "note": "youtube.com"
-        },
-        {
-          "start": "18:50",
-          "end": "18:51",
-          "cat": "research",
-          "src": "chrome",
-          "title": "How data science teams use Codex [Recording] - Video | OpenA",
-          "note": "openai.com"
-        },
-        {
-          "start": "18:51",
-          "end": "18:54",
+          "end": "16:47",
           "cat": "coding",
           "src": "macos",
           "title": "codex",
           "note": "com.openai.codex"
         },
         {
-          "start": "18:54",
+          "start": "16:48",
+          "end": "16:49",
+          "cat": "admin",
+          "src": "macos",
+          "title": "armani restaurant - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "16:49",
+          "end": "16:50",
+          "cat": "admin",
+          "src": "macos",
+          "title": "armani restaurant - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "16:50",
+          "end": "16:52",
+          "cat": "admin",
+          "src": "macos",
+          "title": "armani restaurant - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "16:53",
+          "end": "16:54",
+          "cat": "admin",
+          "src": "macos",
+          "title": "armani restaurant - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "16:55",
+          "end": "16:58",
+          "cat": "admin",
+          "src": "macos",
+          "title": "armani restaurant - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "16:58",
+          "end": "16:58",
+          "cat": "admin",
+          "src": "macos",
+          "title": "armani restaurant - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "16:59",
+          "end": "17:00",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "17:01",
+          "end": "17:02",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "17:02",
+          "end": "17:08",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "17:09",
+          "end": "18:06",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Reserve with Google",
+          "note": "google.com"
+        },
+        {
+          "start": "18:07",
+          "end": "18:09",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "18:10",
+          "end": "18:12",
+          "cat": "admin",
+          "src": "macos",
+          "title": "The Picnic Ground - Google Maps",
+          "note": "google.com"
+        },
+        {
+          "start": "18:12",
+          "end": "18:24",
+          "cat": "admin",
+          "src": "macos",
+          "title": "The Picnic Ground - Google Maps",
+          "note": "google.com"
+        },
+        {
+          "start": "18:25",
+          "end": "18:27",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "18:28",
+          "end": "18:29",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "18:29",
+          "end": "18:33",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "18:33",
+          "end": "18:34",
+          "cat": "admin",
+          "src": "macos",
+          "title": "The Picnic Ground - Google Maps",
+          "note": "google.com"
+        },
+        {
+          "start": "18:34",
+          "end": "18:36",
+          "cat": "coding",
+          "src": "local",
+          "title": "summarize.py",
+          "note": "6 hits"
+        },
+        {
+          "start": "18:36",
+          "end": "18:38",
+          "cat": "coding",
+          "src": "local",
+          "title": "summarize.py",
+          "note": "6 hits"
+        },
+        {
+          "start": "18:38",
+          "end": "18:40",
+          "cat": "coding",
+          "src": "local",
+          "title": "summarize.py",
+          "note": "6 hits"
+        },
+        {
+          "start": "18:40",
+          "end": "18:41",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "18:41",
+          "end": "18:42",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "18:42",
+          "end": "18:43",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "18:43",
+          "end": "18:44",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "18:44",
+          "end": "18:45",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "18:45",
+          "end": "18:46",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "18:47",
+          "end": "18:48",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "18:49",
+          "end": "18:50",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "18:50",
+          "end": "18:51",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "18:51",
+          "end": "18:51",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "18:51",
+          "end": "18:53",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "18:53",
+          "end": "18:55",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "18:55",
           "end": "18:56",
-          "cat": "research",
-          "src": "chrome",
-          "title": "How data science teams use Codex [Recording] - Video | OpenA",
-          "note": "openai.com"
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
         },
         {
           "start": "18:56",
-          "end": "19:54",
-          "cat": "personal",
+          "end": "18:57",
+          "cat": "coding",
           "src": "macos",
-          "title": "(62) Forward Deployed Engineering at Cursor — Pauline Brunet",
-          "note": "youtube.com"
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "18:57",
+          "end": "18:58",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "18:58",
+          "end": "19:00",
+          "cat": "admin",
+          "src": "macos",
+          "title": "The Picnic Ground - Google Maps",
+          "note": "google.com"
+        },
+        {
+          "start": "19:00",
+          "end": "19:01",
+          "cat": "admin",
+          "src": "macos",
+          "title": "The Picnic Ground - Google Maps",
+          "note": "google.com"
+        },
+        {
+          "start": "19:02",
+          "end": "19:02",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "19:02",
+          "end": "19:03",
+          "cat": "admin",
+          "src": "macos",
+          "title": "The Picnic Ground - Google Maps",
+          "note": "google.com"
+        },
+        {
+          "start": "19:03",
+          "end": "19:05",
+          "cat": "admin",
+          "src": "macos",
+          "title": "The Picnic Ground - Google Maps",
+          "note": "google.com"
+        },
+        {
+          "start": "19:05",
+          "end": "19:09",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "19:09",
+          "end": "19:10",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "19:10",
+          "end": "19:11",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "19:11",
+          "end": "19:12",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "19:12",
+          "end": "19:14",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "5 hits"
+        },
+        {
+          "start": "19:14",
+          "end": "19:16",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "5 hits"
+        },
+        {
+          "start": "19:16",
+          "end": "19:16",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "5 hits"
+        },
+        {
+          "start": "19:16",
+          "end": "19:17",
+          "cat": "admin",
+          "src": "macos",
+          "title": "The Picnic Ground - Google Maps",
+          "note": "google.com"
+        },
+        {
+          "start": "19:17",
+          "end": "19:20",
+          "cat": "admin",
+          "src": "macos",
+          "title": "The Picnic Ground - Google Maps",
+          "note": "google.com"
+        },
+        {
+          "start": "19:20",
+          "end": "19:21",
+          "cat": "admin",
+          "src": "macos",
+          "title": "The Picnic Ground - Google Maps",
+          "note": "google.com"
+        },
+        {
+          "start": "19:21",
+          "end": "19:22",
+          "cat": "admin",
+          "src": "macos",
+          "title": "The Picnic Ground - Google Maps",
+          "note": "google.com"
+        },
+        {
+          "start": "19:22",
+          "end": "19:24",
+          "cat": "admin",
+          "src": "macos",
+          "title": "The Picnic Ground - Google Maps",
+          "note": "google.com"
+        },
+        {
+          "start": "19:24",
+          "end": "19:25",
+          "cat": "admin",
+          "src": "macos",
+          "title": "The Picnic Ground - Google Maps",
+          "note": "google.com"
+        },
+        {
+          "start": "19:25",
+          "end": "19:27",
+          "cat": "admin",
+          "src": "macos",
+          "title": "The Picnic Ground - Google Maps",
+          "note": "google.com"
+        },
+        {
+          "start": "19:27",
+          "end": "19:29",
+          "cat": "admin",
+          "src": "macos",
+          "title": "The Picnic Ground - Google Maps",
+          "note": "google.com"
+        },
+        {
+          "start": "19:29",
+          "end": "19:30",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "19:30",
+          "end": "19:33",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "19:33",
+          "end": "19:37",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "19:37",
+          "end": "19:38",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "5 hits"
+        },
+        {
+          "start": "19:38",
+          "end": "19:39",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "5 hits"
+        },
+        {
+          "start": "19:39",
+          "end": "19:40",
+          "cat": "admin",
+          "src": "macos",
+          "title": "The Picnic Ground - Google Maps",
+          "note": "google.com"
+        },
+        {
+          "start": "19:40",
+          "end": "19:41",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "19:42",
+          "end": "19:43",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "19:43",
+          "end": "19:44",
+          "cat": "admin",
+          "src": "macos",
+          "title": "The Picnic Ground - Google Maps",
+          "note": "google.com"
+        },
+        {
+          "start": "19:44",
+          "end": "19:49",
+          "cat": "admin",
+          "src": "macos",
+          "title": "The Picnic Ground - Google Maps",
+          "note": "google.com"
+        },
+        {
+          "start": "19:49",
+          "end": "19:52",
+          "cat": "admin",
+          "src": "macos",
+          "title": "The Picnic Ground - Google Maps",
+          "note": "google.com"
+        },
+        {
+          "start": "19:52",
+          "end": "19:54",
+          "cat": "admin",
+          "src": "macos",
+          "title": "The Picnic Ground - Google Maps",
+          "note": "google.com"
         },
         {
           "start": "19:54",
+          "end": "19:57",
+          "cat": "admin",
+          "src": "macos",
+          "title": "The Picnic Ground - Google Maps",
+          "note": "google.com"
+        },
+        {
+          "start": "19:57",
           "end": "20:01",
           "cat": "admin",
           "src": "macos",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "title": "The Picnic Ground - Google Maps",
+          "note": "google.com"
         },
         {
-          "start": "20:01",
-          "end": "20:18",
+          "start": "20:02",
+          "end": "20:03",
           "cat": "admin",
           "src": "macos",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "title": "The Picnic Ground - Google Maps",
+          "note": "google.com"
+        },
+        {
+          "start": "20:03",
+          "end": "20:05",
+          "cat": "admin",
+          "src": "macos",
+          "title": "The Picnic Ground - Google Maps",
+          "note": "google.com"
+        },
+        {
+          "start": "20:05",
+          "end": "20:06",
+          "cat": "admin",
+          "src": "macos",
+          "title": "The Picnic Ground - Google Maps",
+          "note": "google.com"
+        },
+        {
+          "start": "20:06",
+          "end": "20:07",
+          "cat": "admin",
+          "src": "macos",
+          "title": "The Picnic Ground - Google Maps",
+          "note": "google.com"
+        },
+        {
+          "start": "20:07",
+          "end": "20:08",
+          "cat": "admin",
+          "src": "macos",
+          "title": "The Picnic Ground - Google Maps",
+          "note": "google.com"
+        },
+        {
+          "start": "20:08",
+          "end": "20:10",
+          "cat": "admin",
+          "src": "macos",
+          "title": "The Picnic Ground - Google Maps",
+          "note": "google.com"
+        },
+        {
+          "start": "20:10",
+          "end": "20:11",
+          "cat": "admin",
+          "src": "macos",
+          "title": "The Picnic Ground - Google Maps",
+          "note": "google.com"
+        },
+        {
+          "start": "20:11",
+          "end": "20:12",
+          "cat": "admin",
+          "src": "macos",
+          "title": "The Picnic Ground - Google Maps",
+          "note": "google.com"
+        },
+        {
+          "start": "20:12",
+          "end": "20:13",
+          "cat": "admin",
+          "src": "macos",
+          "title": "The Picnic Ground - Google Maps",
+          "note": "google.com"
+        },
+        {
+          "start": "20:14",
+          "end": "20:16",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "5 hits"
+        },
+        {
+          "start": "20:16",
+          "end": "20:17",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "5 hits"
+        },
+        {
+          "start": "20:17",
+          "end": "20:18",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "5 hits"
         },
         {
           "start": "20:18",
-          "end": "20:20",
-          "cat": "research",
-          "src": "macos",
-          "title": "艾伦·凯 - 维基百科，自由的百科全书",
-          "note": "zh.wikipedia.org"
+          "end": "20:19",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "5 hits"
         },
         {
-          "start": "20:20",
-          "end": "20:24",
-          "cat": "personal",
+          "start": "20:19",
+          "end": "20:19",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "5 hits"
+        },
+        {
+          "start": "20:19",
+          "end": "20:21",
+          "cat": "admin",
           "src": "macos",
-          "title": "(62) Everything we knew about software has changed — Theo Br",
-          "note": "youtube.com"
+          "title": "The Picnic Ground - Google Maps",
+          "note": "google.com"
+        },
+        {
+          "start": "20:21",
+          "end": "20:21",
+          "cat": "admin",
+          "src": "macos",
+          "title": "The Picnic Ground - Google Maps",
+          "note": "google.com"
+        },
+        {
+          "start": "20:23",
+          "end": "20:24",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
         },
         {
           "start": "20:24",
+          "end": "20:25",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "20:25",
+          "end": "20:26",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Ada's rebuttal on EduAgentBench - Google Docs",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "20:26",
+          "end": "20:29",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Ada's rebuttal on EduAgentBench - Google Docs",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "20:30",
+          "end": "20:31",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Ada's rebuttal on EduAgentBench - Google Docs",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "20:31",
+          "end": "20:35",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Ada's rebuttal on EduAgentBench - Google Docs",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "20:35",
+          "end": "20:35",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Ada's rebuttal on EduAgentBench - Google Docs",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "20:36",
+          "end": "20:40",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Ada's rebuttal on EduAgentBench - Google Docs",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "20:40",
+          "end": "20:41",
+          "cat": "writing",
+          "src": "chrome",
+          "title": "Ada's rebuttal on EduAgentBench - Google Docs",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "20:41",
+          "end": "20:42",
+          "cat": "writing",
+          "src": "chrome",
+          "title": "Ada's rebuttal on EduAgentBench - Google Docs",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "20:42",
+          "end": "20:43",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "5 hits"
+        },
+        {
+          "start": "20:43",
+          "end": "20:46",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Ada's rebuttal on EduAgentBench - Google Docs",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "20:46",
+          "end": "20:48",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Ada's rebuttal on EduAgentBench - Google Docs",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "20:48",
+          "end": "20:49",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Ada's rebuttal on EduAgentBench - Google Docs",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "20:49",
+          "end": "20:51",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "20:51",
+          "end": "20:53",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "20:53",
           "end": "20:55",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "20:55",
+          "end": "20:56",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "20:56",
+          "end": "20:58",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "20:58",
+          "end": "20:59",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "20:59",
+          "end": "21:00",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "21:00",
+          "end": "21:02",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Ada's rebuttal on EduAgentBench - Google Docs",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "21:02",
+          "end": "21:03",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Ada's rebuttal on EduAgentBench - Google Docs",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "21:04",
+          "end": "21:05",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Ada's rebuttal on EduAgentBench - Google Docs",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "21:05",
+          "end": "21:06",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Ada's rebuttal on EduAgentBench - Google Docs",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "21:06",
+          "end": "21:07",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "21:07",
+          "end": "21:09",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "21:09",
+          "end": "21:10",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "21:11",
+          "end": "21:12",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "21:12",
+          "end": "21:12",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Ada's rebuttal on EduAgentBench - Google Docs",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "21:13",
+          "end": "21:14",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Armani Restaurant | My Menu Mobile. menu listing page.",
+          "note": "qr.mydigimenu.com"
+        },
+        {
+          "start": "21:14",
+          "end": "21:16",
           "cat": "personal",
           "src": "macos",
-          "title": "(62) AI Engineer - YouTube",
-          "note": "youtube.com"
+          "title": "Armani Restaurant | My Menu Mobile. menu listing page.",
+          "note": "qr.mydigimenu.com"
+        },
+        {
+          "start": "21:16",
+          "end": "21:17",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Armani Restaurant | My Menu Mobile. menu listing page.",
+          "note": "qr.mydigimenu.com"
+        },
+        {
+          "start": "21:17",
+          "end": "21:18",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Armani Restaurant | My Menu Mobile. menu listing page.",
+          "note": "qr.mydigimenu.com"
+        },
+        {
+          "start": "21:18",
+          "end": "21:19",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "21:19",
+          "end": "21:22",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Armani Restaurant | My Menu Mobile. menu listing page.",
+          "note": "qr.mydigimenu.com"
+        },
+        {
+          "start": "21:22",
+          "end": "21:23",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Armani Restaurant | My Menu Mobile. menu listing page.",
+          "note": "qr.mydigimenu.com"
+        },
+        {
+          "start": "21:23",
+          "end": "21:23",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Armani Restaurant | My Menu Mobile. menu listing page.",
+          "note": "qr.mydigimenu.com"
+        },
+        {
+          "start": "21:23",
+          "end": "21:24",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Armani Restaurant | My Menu Mobile. menu listing page.",
+          "note": "qr.mydigimenu.com"
+        },
+        {
+          "start": "21:24",
+          "end": "21:27",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Armani Restaurant | My Menu Mobile. menu listing page.",
+          "note": "qr.mydigimenu.com"
         },
         {
           "start": "21:27",
-          "end": "21:44",
+          "end": "21:28",
           "cat": "personal",
           "src": "macos",
-          "title": "(62) From Writing Code to Designing Systems: How the Develop",
-          "note": "youtube.com"
+          "title": "Armani Restaurant | My Menu Mobile. menu listing page.",
+          "note": "qr.mydigimenu.com"
         },
         {
-          "start": "21:44",
-          "end": "22:04",
+          "start": "21:28",
+          "end": "21:29",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Armani Restaurant | My Menu Mobile. menu listing page.",
+          "note": "qr.mydigimenu.com"
+        },
+        {
+          "start": "21:29",
+          "end": "21:32",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Armani Restaurant | My Menu Mobile. menu listing page.",
+          "note": "qr.mydigimenu.com"
+        },
+        {
+          "start": "21:32",
+          "end": "21:33",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Armani Restaurant | My Menu Mobile. menu listing page.",
+          "note": "qr.mydigimenu.com"
+        },
+        {
+          "start": "21:33",
+          "end": "21:34",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Armani Restaurant | My Menu Mobile. menu listing page.",
+          "note": "qr.mydigimenu.com"
+        },
+        {
+          "start": "21:34",
+          "end": "21:35",
           "cat": "coding",
           "src": "macos",
-          "title": "Login",
-          "note": "immersivetranslate.com"
+          "title": "Billing | Claude Platform",
+          "note": "platform.claude.com"
+        },
+        {
+          "start": "21:36",
+          "end": "21:37",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(7) X 上的 Thinking Machines：“Today, we are introducing Inklin",
+          "note": "x.com"
+        },
+        {
+          "start": "21:38",
+          "end": "21:40",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Inbox (2,656) - ada.ren.cn@gmail.com - Gmail",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "21:40",
+          "end": "21:49",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Billing | Claude Platform",
+          "note": "google.com"
+        },
+        {
+          "start": "21:49",
+          "end": "21:50",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "21:50",
+          "end": "21:54",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Billing | Claude Platform",
+          "note": "platform.claude.com"
+        },
+        {
+          "start": "21:54",
+          "end": "21:55",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "21:55",
+          "end": "21:56",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "21:56",
+          "end": "21:57",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "21:57",
+          "end": "22:01",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Billing | Claude Platform",
+          "note": "platform.claude.com"
+        },
+        {
+          "start": "22:02",
+          "end": "22:07",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Billing | Claude Platform",
+          "note": "platform.claude.com"
+        },
+        {
+          "start": "22:07",
+          "end": "22:08",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Billing | Claude Platform",
+          "note": "platform.claude.com"
+        },
+        {
+          "start": "22:08",
+          "end": "22:12",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Billing | Claude Platform",
+          "note": "platform.claude.com"
+        },
+        {
+          "start": "22:12",
+          "end": "22:13",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "22:13",
+          "end": "22:17",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "22:17",
+          "end": "22:17",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "22:18",
+          "end": "22:21",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Billing | Claude Platform",
+          "note": "platform.claude.com"
+        },
+        {
+          "start": "22:21",
+          "end": "22:22",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "22:23",
+          "end": "22:25",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "5 hits"
+        },
+        {
+          "start": "22:25",
+          "end": "22:28",
+          "cat": "research",
+          "src": "chrome",
+          "title": "zjunlp (ZJUNLP)",
+          "note": "huggingface.co"
+        },
+        {
+          "start": "22:28",
+          "end": "22:29",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "3 hits"
         }
       ],
-      "logged": 520,
-      "real": 317,
-      "deep": 317,
-      "ratio": 0.6104022773311818,
+      "logged": 636,
+      "real": 416,
+      "deep": 416,
+      "ratio": 0.6540196748036347,
       "stats": {
-        "contextSwitches": 63,
-        "tabsOpened": 30,
-        "longestFocus": "1h 29m",
-        "justOneMoreThing": 3
-      }
-    },
-    {
-      "key": "2026-7-16",
-      "dayNum": 16,
-      "dow": 4,
-      "weekend": false,
-      "dateShort": "Thu, Jul 16",
-      "dateLong": "Thursday, July 16",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
-      "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "0m",
-        "justOneMoreThing": 0
+        "contextSwitches": 96,
+        "tabsOpened": 57,
+        "longestFocus": "1h 49m",
+        "justOneMoreThing": 9
       }
     },
     {
