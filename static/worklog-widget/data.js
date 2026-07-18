@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-07-17T10:36:49+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-07-18T10:20:08+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -28842,7 +28842,7 @@
         "dateShort": "Thu, Jul 16",
         "dateLong": "Thursday, July 16",
         "dayStart": "10:20",
-        "dayEnd": "22:29",
+        "dayEnd": "22:45",
         "events": [
           {
             "start": "10:20",
@@ -28850,7 +28850,7 @@
             "cat": "coding",
             "src": "local",
             "title": "domain_cats.json",
-            "note": "3 hits"
+            "note": "2 hits"
           },
           {
             "start": "10:25",
@@ -29878,14 +29878,6 @@
           },
           {
             "start": "18:28",
-            "end": "18:29",
-            "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
-          },
-          {
-            "start": "18:29",
             "end": "18:33",
             "cat": "coding",
             "src": "macos",
@@ -29905,7 +29897,7 @@
             "end": "18:36",
             "cat": "coding",
             "src": "local",
-            "title": "summarize.py",
+            "title": "prepare.py",
             "note": "6 hits"
           },
           {
@@ -29913,7 +29905,7 @@
             "end": "18:38",
             "cat": "coding",
             "src": "local",
-            "title": "summarize.py",
+            "title": "prepare.py",
             "note": "6 hits"
           },
           {
@@ -29921,7 +29913,7 @@
             "end": "18:40",
             "cat": "coding",
             "src": "local",
-            "title": "summarize.py",
+            "title": "prepare.py",
             "note": "6 hits"
           },
           {
@@ -30825,7 +30817,7 @@
             "end": "21:40",
             "cat": "admin",
             "src": "macos",
-            "title": "Inbox (2,656) - ada.ren.cn@gmail.com - Gmail",
+            "title": "Inbox (2,661) - ada.ren.cn@gmail.com - Gmail",
             "note": "mail.google.com"
           },
           {
@@ -30950,35 +30942,43 @@
           },
           {
             "start": "22:23",
-            "end": "22:25",
-            "cat": "coding",
-            "src": "local",
-            "title": "result.json",
-            "note": "5 hits"
+            "end": "22:24",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
           },
           {
             "start": "22:25",
             "end": "22:28",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "22:28",
+            "end": "22:34",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "22:34",
+            "end": "22:45",
             "cat": "research",
             "src": "chrome",
             "title": "zjunlp (ZJUNLP)",
             "note": "huggingface.co"
-          },
-          {
-            "start": "22:28",
-            "end": "22:29",
-            "cat": "coding",
-            "src": "local",
-            "title": "result.json",
-            "note": "3 hits"
           }
         ],
-        "logged": 636,
-        "real": 416,
-        "deep": 416,
-        "ratio": 0.6540196748036347,
+        "logged": 653,
+        "real": 433,
+        "deep": 433,
+        "ratio": 0.6625130671742702,
         "stats": {
-          "contextSwitches": 96,
+          "contextSwitches": 95,
           "tabsOpened": 57,
           "longestFocus": "1h 49m",
           "justOneMoreThing": 9
@@ -30991,18 +30991,2203 @@
         "weekend": false,
         "dateShort": "Fri, Jul 17",
         "dateLong": "Friday, July 17",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "10:36",
+        "dayEnd": "02:25",
+        "events": [
+          {
+            "start": "10:36",
+            "end": "10:40",
+            "cat": "coding",
+            "src": "local",
+            "title": "data.js",
+            "note": "1 hit"
+          },
+          {
+            "start": "10:40",
+            "end": "10:41",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Inbox (2,661) - ada.ren.cn@gmail.com - Gmail",
+            "note": "accounts.google.com"
+          },
+          {
+            "start": "10:41",
+            "end": "10:45",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Inbox (2,661) - ada.ren.cn@gmail.com - Gmail",
+            "note": "accounts.google.com"
+          },
+          {
+            "start": "10:46",
+            "end": "11:05",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:05",
+            "end": "11:06",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
+            "note": "sport.mq.edu.au"
+          },
+          {
+            "start": "11:06",
+            "end": "11:18",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:18",
+            "end": "11:23",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:23",
+            "end": "11:23",
+            "cat": "coding",
+            "src": "local",
+            "title": "scorer.py",
+            "note": "4 hits"
+          },
+          {
+            "start": "11:23",
+            "end": "11:24",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Why teens deserve access to safe AI | OpenAI",
+            "note": "openai.com"
+          },
+          {
+            "start": "11:24",
+            "end": "11:29",
+            "cat": "research",
+            "src": "macos",
+            "title": "Where the time actually went | Ada's Notes",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "11:30",
+            "end": "11:32",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:33",
+            "end": "11:37",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:37",
+            "end": "11:38",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Why teens deserve access to safe AI | OpenAI",
+            "note": "openai.com"
+          },
+          {
+            "start": "11:38",
+            "end": "11:42",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:42",
+            "end": "11:48",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "11:49",
+            "end": "11:52",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:52",
+            "end": "11:54",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:54",
+            "end": "11:58",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "11:58",
+            "end": "12:04",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "12:04",
+            "end": "12:17",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "12:18",
+            "end": "12:25",
+            "cat": "coding",
+            "src": "macos",
+            "title": "OpenRouter",
+            "note": "openrouter.ai"
+          },
+          {
+            "start": "12:25",
+            "end": "12:27",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "12:27",
+            "end": "12:28",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "12:28",
+            "end": "12:29",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Models: 'z.' - Pricing: Low to High | OpenRouter",
+            "note": "openrouter.com"
+          },
+          {
+            "start": "12:29",
+            "end": "12:31",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "12:31",
+            "end": "12:32",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "12:32",
+            "end": "12:44",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Models: 'z.' - Pricing: Low to High | OpenRouter",
+            "note": "openrouter.com"
+          },
+          {
+            "start": "12:44",
+            "end": "12:46",
+            "cat": "coding",
+            "src": "local",
+            "title": "test.sh",
+            "note": "7 hits"
+          },
+          {
+            "start": "12:46",
+            "end": "12:47",
+            "cat": "writing",
+            "src": "local",
+            "title": "exception.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "12:47",
+            "end": "12:49",
+            "cat": "writing",
+            "src": "local",
+            "title": "exception.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "12:49",
+            "end": "12:52",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "2 hits"
+          },
+          {
+            "start": "13:15",
+            "end": "13:22",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "13:22",
+            "end": "13:39",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "13:40",
+            "end": "13:41",
+            "cat": "coding",
+            "src": "macos",
+            "title": "iterm2",
+            "note": "com.googlecode.iterm2"
+          },
+          {
+            "start": "13:41",
+            "end": "13:43",
+            "cat": "research",
+            "src": "chrome",
+            "title": "iTerm2 - Wikipedia",
+            "note": "en.wikipedia.org"
+          },
+          {
+            "start": "13:43",
+            "end": "13:55",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "13:55",
+            "end": "13:57",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "13:57",
+            "end": "14:07",
+            "cat": "research",
+            "src": "chrome",
+            "title": "iTerm2 - Wikipedia",
+            "note": "en.wikipedia.org"
+          },
+          {
+            "start": "14:07",
+            "end": "14:12",
+            "cat": "research",
+            "src": "macos",
+            "title": "iTerm2 - Wikipedia",
+            "note": "en.wikipedia.org"
+          },
+          {
+            "start": "14:12",
+            "end": "14:14",
+            "cat": "coding",
+            "src": "local",
+            "title": "manifest.json",
+            "note": "5 hits"
+          },
+          {
+            "start": "14:14",
+            "end": "14:18",
+            "cat": "research",
+            "src": "macos",
+            "title": "iTerm2 - Wikipedia",
+            "note": "en.wikipedia.org"
+          },
+          {
+            "start": "14:18",
+            "end": "14:22",
+            "cat": "research",
+            "src": "macos",
+            "title": "iTerm2 - Wikipedia",
+            "note": "en.wikipedia.org"
+          },
+          {
+            "start": "14:22",
+            "end": "14:23",
+            "cat": "research",
+            "src": "macos",
+            "title": "iTerm2 - Wikipedia",
+            "note": "en.wikipedia.org"
+          },
+          {
+            "start": "14:23",
+            "end": "14:27",
+            "cat": "research",
+            "src": "macos",
+            "title": "iTerm2 - Wikipedia",
+            "note": "en.wikipedia.org"
+          },
+          {
+            "start": "14:27",
+            "end": "14:28",
+            "cat": "research",
+            "src": "macos",
+            "title": "iTerm2 - Wikipedia",
+            "note": "en.wikipedia.org"
+          },
+          {
+            "start": "14:28",
+            "end": "14:33",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "14:36",
+            "end": "14:37",
+            "cat": "research",
+            "src": "macos",
+            "title": "iTerm2 - Wikipedia",
+            "note": "en.wikipedia.org"
+          },
+          {
+            "start": "14:37",
+            "end": "14:39",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "14:39",
+            "end": "14:41",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "14:41",
+            "end": "14:43",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "14:43",
+            "end": "14:46",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "14:47",
+            "end": "14:48",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "14:48",
+            "end": "14:49",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "14:49",
+            "end": "14:51",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "14:51",
+            "end": "14:52",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "The Future Worth Building Is Human - Thinking Machines Lab",
+            "note": "x.com"
+          },
+          {
+            "start": "14:52",
+            "end": "14:56",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "The Future Worth Building Is Human - Thinking Machines Lab",
+            "note": "x.com"
+          },
+          {
+            "start": "14:56",
+            "end": "14:57",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "The Future Worth Building Is Human - Thinking Machines Lab",
+            "note": "x.com"
+          },
+          {
+            "start": "14:57",
+            "end": "14:59",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "14:59",
+            "end": "15:01",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "15:01",
+            "end": "15:02",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Inkling - Thinking Machines Lab",
+            "note": "thinkingmachines.ai"
+          },
+          {
+            "start": "15:02",
+            "end": "15:04",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:04",
+            "end": "15:09",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:09",
+            "end": "15:10",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:10",
+            "end": "15:21",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "The Future Worth Building Is Human - Thinking Machines Lab",
+            "note": "x.com"
+          },
+          {
+            "start": "15:21",
+            "end": "15:24",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:24",
+            "end": "15:26",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Inkling - Thinking Machines Lab",
+            "note": "thinkingmachines.ai"
+          },
+          {
+            "start": "15:26",
+            "end": "15:27",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "15:27",
+            "end": "15:27",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Inkling - Thinking Machines Lab",
+            "note": "thinkingmachines.ai"
+          },
+          {
+            "start": "15:27",
+            "end": "15:29",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Inkling: Our open-weights model - Thinking Machines Lab",
+            "note": "thinkingmachines.ai"
+          },
+          {
+            "start": "15:29",
+            "end": "15:32",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "15:32",
+            "end": "15:35",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "15:35",
+            "end": "15:37",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "15:37",
+            "end": "15:39",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "15:39",
+            "end": "15:40",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:40",
+            "end": "15:42",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:42",
+            "end": "15:44",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "15:44",
+            "end": "15:49",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "15:49",
+            "end": "15:52",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "15:52",
+            "end": "15:54",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:54",
+            "end": "15:56",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:56",
+            "end": "15:58",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:58",
+            "end": "15:59",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "15:59",
+            "end": "16:01",
+            "cat": "research",
+            "src": "chrome",
+            "title": "ChatGPT Plans | Free, Go, Plus, Pro, Business, and Enterpris",
+            "note": "openai.com"
+          },
+          {
+            "start": "16:01",
+            "end": "16:02",
+            "cat": "research",
+            "src": "chrome",
+            "title": "ChatGPT Plans | Free, Go, Plus, Pro, Business, and Enterpris",
+            "note": "openai.com"
+          },
+          {
+            "start": "16:02",
+            "end": "16:04",
+            "cat": "research",
+            "src": "chrome",
+            "title": "ChatGPT Plans | Free, Go, Plus, Pro, Business, and Enterpris",
+            "note": "openai.com"
+          },
+          {
+            "start": "16:05",
+            "end": "16:06",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Which MacBook to Buy (2026): My Honest Advice on Which to Bu",
+            "note": "wired.com"
+          },
+          {
+            "start": "16:06",
+            "end": "16:07",
+            "cat": "research",
+            "src": "chrome",
+            "title": "ChatGPT Plans | Free, Go, Plus, Pro, Business, and Enterpris",
+            "note": "openai.com"
+          },
+          {
+            "start": "16:08",
+            "end": "16:08",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(8) 主页 / X",
+            "note": "x.com"
+          },
+          {
+            "start": "16:09",
+            "end": "16:18",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "16:19",
+            "end": "16:22",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:22",
+            "end": "16:23",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "WebEngage Email Unsubscribe",
+            "note": "google.com"
+          },
+          {
+            "start": "16:23",
+            "end": "16:24",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Models: 'ki mi' - Pricing: Low to High | OpenRouter",
+            "note": "openrouter.ai"
+          },
+          {
+            "start": "16:24",
+            "end": "16:49",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Models: 't' - Pricing: Low to High | OpenRouter",
+            "note": "openrouter.ai"
+          },
+          {
+            "start": "16:49",
+            "end": "16:53",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:53",
+            "end": "16:54",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:54",
+            "end": "16:57",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:57",
+            "end": "16:59",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:59",
+            "end": "17:00",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Models: 'ki mi' - Pricing: Low to High | OpenRouter",
+            "note": "openrouter.com"
+          },
+          {
+            "start": "17:01",
+            "end": "17:04",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Models: 'ki mi' - Pricing: Low to High | OpenRouter",
+            "note": "openrouter.com"
+          },
+          {
+            "start": "17:04",
+            "end": "17:05",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Models: 'ki mi' - Pricing: Low to High | OpenRouter",
+            "note": "openrouter.com"
+          },
+          {
+            "start": "17:06",
+            "end": "17:08",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Models: 'ki mi' - Pricing: Low to High | OpenRouter",
+            "note": "openrouter.com"
+          },
+          {
+            "start": "17:10",
+            "end": "17:10",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "17:10",
+            "end": "17:13",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "17:13",
+            "end": "17:14",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "7 hits"
+          },
+          {
+            "start": "17:14",
+            "end": "17:15",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "6 hits"
+          },
+          {
+            "start": "17:15",
+            "end": "17:17",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "17:18",
+            "end": "17:18",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "17:18",
+            "end": "17:22",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "8 hits"
+          },
+          {
+            "start": "17:23",
+            "end": "17:23",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "17:23",
+            "end": "17:27",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "7 hits"
+          },
+          {
+            "start": "17:27",
+            "end": "17:30",
+            "cat": "coding",
+            "src": "local",
+            "title": "snapshot.json",
+            "note": "5 hits"
+          },
+          {
+            "start": "18:39",
+            "end": "18:40",
+            "cat": "coding",
+            "src": "local",
+            "title": "config.json",
+            "note": "2 hits"
+          },
+          {
+            "start": "18:40",
+            "end": "18:41",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "18:41",
+            "end": "18:45",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "18:45",
+            "end": "18:46",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "18:46",
+            "end": "18:49",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "18:50",
+            "end": "18:50",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(64) 躺平十年，却成为华人天花板，她靠三个底层特质｜魏慧 - YouTube",
+            "note": "youtube.com"
+          },
+          {
+            "start": "18:51",
+            "end": "18:51",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(64) 躺平十年，却成为华人天花板，她靠三个底层特质｜魏慧 - YouTube",
+            "note": "youtube.com"
+          },
+          {
+            "start": "18:51",
+            "end": "18:54",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(64) 躺平十年，却成为华人天花板，她靠三个底层特质｜魏慧 - YouTube",
+            "note": "youtube.com"
+          },
+          {
+            "start": "18:54",
+            "end": "18:55",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(64) 躺平十年，却成为华人天花板，她靠三个底层特质｜魏慧 - YouTube",
+            "note": "youtube.com"
+          },
+          {
+            "start": "18:56",
+            "end": "18:56",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(64) 躺平十年，却成为华人天花板，她靠三个底层特质｜魏慧 - YouTube",
+            "note": "youtube.com"
+          },
+          {
+            "start": "18:56",
+            "end": "18:59",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(64) 躺平十年，却成为华人天花板，她靠三个底层特质｜魏慧 - YouTube",
+            "note": "youtube.com"
+          },
+          {
+            "start": "18:59",
+            "end": "19:00",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(64) 躺平十年，却成为华人天花板，她靠三个底层特质｜魏慧 - YouTube",
+            "note": "youtube.com"
+          },
+          {
+            "start": "19:01",
+            "end": "19:01",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(64) 躺平十年，却成为华人天花板，她靠三个底层特质｜魏慧 - YouTube",
+            "note": "youtube.com"
+          },
+          {
+            "start": "19:01",
+            "end": "19:04",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(64) 躺平十年，却成为华人天花板，她靠三个底层特质｜魏慧 - YouTube",
+            "note": "youtube.com"
+          },
+          {
+            "start": "19:04",
+            "end": "19:06",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(64) 躺平十年，却成为华人天花板，她靠三个底层特质｜魏慧 - YouTube",
+            "note": "youtube.com"
+          },
+          {
+            "start": "19:06",
+            "end": "19:09",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(64) 躺平十年，却成为华人天花板，她靠三个底层特质｜魏慧 - YouTube",
+            "note": "youtube.com"
+          },
+          {
+            "start": "19:13",
+            "end": "19:34",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(64) 躺平十年，却成为华人天花板，她靠三个底层特质｜魏慧 - YouTube",
+            "note": "youtube.com"
+          },
+          {
+            "start": "19:34",
+            "end": "19:35",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(64) 躺平十年，却成为华人天花板，她靠三个底层特质｜魏慧 - YouTube",
+            "note": "youtube.com"
+          },
+          {
+            "start": "19:35",
+            "end": "19:39",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(64) 躺平十年，却成为华人天花板，她靠三个底层特质｜魏慧 - YouTube",
+            "note": "youtube.com"
+          },
+          {
+            "start": "19:39",
+            "end": "19:40",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(64) 躺平十年，却成为华人天花板，她靠三个底层特质｜魏慧 - YouTube",
+            "note": "youtube.com"
+          },
+          {
+            "start": "19:40",
+            "end": "19:42",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(64) YouTube",
+            "note": "youtube.com"
+          },
+          {
+            "start": "19:42",
+            "end": "19:44",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "19:44",
+            "end": "19:46",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "19:46",
+            "end": "19:47",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "19:47",
+            "end": "19:49",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "19:49",
+            "end": "19:50",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(64) It's not raining outside the big factories, how can wor",
+            "note": "youtube.com"
+          },
+          {
+            "start": "19:50",
+            "end": "19:51",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(64) It's not raining outside the big factories, how can wor",
+            "note": "youtube.com"
+          },
+          {
+            "start": "19:51",
+            "end": "19:53",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(64) It's not raining outside the big factories, how can wor",
+            "note": "youtube.com"
+          },
+          {
+            "start": "19:53",
+            "end": "19:55",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(64) It's not raining outside the big factories, how can wor",
+            "note": "youtube.com"
+          },
+          {
+            "start": "19:55",
+            "end": "19:58",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(64) It's not raining outside the big factories, how can wor",
+            "note": "youtube.com"
+          },
+          {
+            "start": "19:58",
+            "end": "20:00",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(64) New Model: Inkling by Thinking Machine on Hugging Face ",
+            "note": "youtube.com"
+          },
+          {
+            "start": "20:01",
+            "end": "20:03",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(64) New Model: Inkling by Thinking Machine on Hugging Face ",
+            "note": "youtube.com"
+          },
+          {
+            "start": "20:03",
+            "end": "20:05",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(64) New Model: Inkling by Thinking Machine on Hugging Face ",
+            "note": "youtube.com"
+          },
+          {
+            "start": "20:06",
+            "end": "20:11",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(64) AI重塑工作流后，会消灭哪些“假工作”？（完整观察与推理）｜软件3.0如何定义？｜当Cursor成为“外脑”｜",
+            "note": "youtube.com"
+          },
+          {
+            "start": "20:11",
+            "end": "20:16",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(64) New Model: Inkling by Thinking Machine on Hugging Face ",
+            "note": "youtube.com"
+          },
+          {
+            "start": "20:16",
+            "end": "20:17",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(64) New Model: Inkling by Thinking Machine on Hugging Face ",
+            "note": "youtube.com"
+          },
+          {
+            "start": "20:17",
+            "end": "20:19",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(64) New Model: Inkling by Thinking Machine on Hugging Face ",
+            "note": "youtube.com"
+          },
+          {
+            "start": "20:19",
+            "end": "20:22",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(64) New Model: Inkling by Thinking Machine on Hugging Face ",
+            "note": "youtube.com"
+          },
+          {
+            "start": "20:22",
+            "end": "20:24",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(64) New Model: Inkling by Thinking Machine on Hugging Face ",
+            "note": "youtube.com"
+          },
+          {
+            "start": "20:24",
+            "end": "20:28",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(64) AI重塑工作流后，会消灭哪些“假工作”？（完整观察与推理）｜软件3.0如何定义？｜当Cursor成为“外脑”｜",
+            "note": "youtube.com"
+          },
+          {
+            "start": "20:28",
+            "end": "20:30",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(64) 道理都懂，为什么还是动不了？ - YouTube",
+            "note": "youtube.com"
+          },
+          {
+            "start": "20:31",
+            "end": "20:32",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(64) 道理都懂，为什么还是动不了？ - YouTube",
+            "note": "youtube.com"
+          },
+          {
+            "start": "20:33",
+            "end": "20:33",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(64) 道理都懂，为什么还是动不了？ - YouTube",
+            "note": "youtube.com"
+          },
+          {
+            "start": "20:36",
+            "end": "20:37",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "20:37",
+            "end": "20:37",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "20:38",
+            "end": "20:38",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "20:38",
+            "end": "20:39",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "20:39",
+            "end": "20:41",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "20:41",
+            "end": "20:42",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(64) New Model: Inkling by Thinking Machine on Hugging Face ",
+            "note": "youtube.com"
+          },
+          {
+            "start": "20:42",
+            "end": "20:43",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(64) New Model: Inkling by Thinking Machine on Hugging Face ",
+            "note": "youtube.com"
+          },
+          {
+            "start": "20:43",
+            "end": "20:45",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(64) New Model: Inkling by Thinking Machine on Hugging Face ",
+            "note": "youtube.com"
+          },
+          {
+            "start": "20:45",
+            "end": "20:47",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(64) New Model: Inkling by Thinking Machine on Hugging Face ",
+            "note": "youtube.com"
+          },
+          {
+            "start": "20:47",
+            "end": "20:50",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(64) New Model: Inkling by Thinking Machine on Hugging Face ",
+            "note": "youtube.com"
+          },
+          {
+            "start": "20:50",
+            "end": "20:52",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(64) New Model: Inkling by Thinking Machine on Hugging Face ",
+            "note": "youtube.com"
+          },
+          {
+            "start": "20:52",
+            "end": "20:53",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(64) New Model: Inkling by Thinking Machine on Hugging Face ",
+            "note": "youtube.com"
+          },
+          {
+            "start": "20:53",
+            "end": "20:55",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(64) New Model: Inkling by Thinking Machine on Hugging Face ",
+            "note": "youtube.com"
+          },
+          {
+            "start": "20:55",
+            "end": "20:57",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "20:57",
+            "end": "20:58",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "20:59",
+            "end": "21:01",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "21:01",
+            "end": "21:02",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "21:02",
+            "end": "21:04",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "21:04",
+            "end": "21:06",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "21:06",
+            "end": "21:07",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "21:07",
+            "end": "21:09",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "21:09",
+            "end": "21:09",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "21:09",
+            "end": "21:10",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "21:10",
+            "end": "21:12",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "21:12",
+            "end": "21:14",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "21:14",
+            "end": "21:15",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "21:39",
+            "end": "21:41",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "21:41",
+            "end": "21:44",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "21:44",
+            "end": "21:46",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "21:51",
+            "end": "21:56",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "22:01",
+            "end": "22:06",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "22:08",
+            "end": "22:09",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "22:09",
+            "end": "22:13",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "22:13",
+            "end": "22:14",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "22:27",
+            "end": "22:28",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "22:28",
+            "end": "22:29",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "22:29",
+            "end": "22:32",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "22:32",
+            "end": "22:33",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "22:33",
+            "end": "22:34",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "22:34",
+            "end": "22:39",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "22:45",
+            "end": "22:46",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "22:46",
+            "end": "22:49",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "22:49",
+            "end": "22:50",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "22:50",
+            "end": "22:51",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "22:51",
+            "end": "22:53",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "22:53",
+            "end": "22:54",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "22:54",
+            "end": "22:55",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "22:55",
+            "end": "22:57",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "22:57",
+            "end": "22:58",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "22:58",
+            "end": "23:00",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "23:00",
+            "end": "23:02",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "23:02",
+            "end": "23:05",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "23:05",
+            "end": "23:07",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "23:25",
+            "end": "23:29",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "23:29",
+            "end": "23:30",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "23:30",
+            "end": "23:31",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "23:31",
+            "end": "23:34",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "23:40",
+            "end": "23:40",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "23:40",
+            "end": "23:44",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "23:45",
+            "end": "23:45",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "23:46",
+            "end": "23:49",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "23:50",
+            "end": "23:51",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "23:51",
+            "end": "23:51",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "23:52",
+            "end": "23:53",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "23:53",
+            "end": "23:54",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "23:55",
+            "end": "23:56",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "23:57",
+            "end": "23:57",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "23:58",
+            "end": "23:59",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "23:59",
+            "end": "00:02",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "00:02",
+            "end": "00:03",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "00:03",
+            "end": "00:04",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "00:05",
+            "end": "00:08",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "00:08",
+            "end": "00:09",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "00:10",
+            "end": "00:11",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "00:11",
+            "end": "00:12",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "00:12",
+            "end": "00:13",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "00:13",
+            "end": "00:14",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "00:14",
+            "end": "00:15",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "00:16",
+            "end": "00:17",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "00:17",
+            "end": "00:18",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "00:18",
+            "end": "00:19",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "00:19",
+            "end": "00:20",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "00:21",
+            "end": "00:21",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "00:22",
+            "end": "00:22",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "00:23",
+            "end": "00:24",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "00:24",
+            "end": "00:25",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "00:26",
+            "end": "00:26",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "00:26",
+            "end": "00:27",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "00:28",
+            "end": "00:29",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "00:29",
+            "end": "00:30",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "00:30",
+            "end": "00:32",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "00:33",
+            "end": "00:34",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "00:34",
+            "end": "00:35",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "00:35",
+            "end": "00:38",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "00:49",
+            "end": "00:54",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "00:59",
+            "end": "01:00",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "01:00",
+            "end": "01:04",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "01:04",
+            "end": "01:05",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "01:30",
+            "end": "01:32",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "2 hits"
+          },
+          {
+            "start": "01:32",
+            "end": "01:34",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "2 hits"
+          },
+          {
+            "start": "01:34",
+            "end": "01:35",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "2 hits"
+          },
+          {
+            "start": "01:35",
+            "end": "01:37",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "01:37",
+            "end": "01:39",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "02:02",
+            "end": "02:03",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "02:04",
+            "end": "02:05",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "02:05",
+            "end": "02:07",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "02:07",
+            "end": "02:08",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "02:09",
+            "end": "02:09",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "02:09",
+            "end": "02:10",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "02:10",
+            "end": "02:12",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "02:12",
+            "end": "02:13",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "02:13",
+            "end": "02:14",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "02:14",
+            "end": "02:15",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "02:15",
+            "end": "02:17",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "02:17",
+            "end": "02:18",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "02:18",
+            "end": "02:19",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "02:19",
+            "end": "02:23",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "02:24",
+            "end": "02:24",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "02:24",
+            "end": "02:25",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          }
+        ],
+        "logged": 661,
+        "real": 470,
+        "deep": 470,
+        "ratio": 0.712142692681695,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "0m",
-          "justOneMoreThing": 0
+          "contextSwitches": 67,
+          "tabsOpened": 117,
+          "longestFocus": "2h 53m",
+          "justOneMoreThing": 6
         }
       },
       {
@@ -31012,17 +33197,26 @@
         "weekend": true,
         "dateShort": "Sat, Jul 18",
         "dateLong": "Saturday, July 18",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "10:01",
+        "dayEnd": "10:06",
+        "events": [
+          {
+            "start": "10:01",
+            "end": "10:06",
+            "cat": "writing",
+            "src": "local",
+            "title": "2026-07-17-a-scorecard-for-the-ai-age.md",
+            "note": "1 hit"
+          }
+        ],
+        "logged": 5,
+        "real": 5,
+        "deep": 5,
+        "ratio": 1.0,
         "stats": {
           "contextSwitches": 0,
           "tabsOpened": 0,
-          "longestFocus": "0m",
+          "longestFocus": "5m",
           "justOneMoreThing": 0
         }
       },
@@ -38967,7 +41161,7 @@
       "dateShort": "Thu, Jul 16",
       "dateLong": "Thursday, July 16",
       "dayStart": "10:20",
-      "dayEnd": "22:29",
+      "dayEnd": "22:45",
       "events": [
         {
           "start": "10:20",
@@ -38975,7 +41169,7 @@
           "cat": "coding",
           "src": "local",
           "title": "domain_cats.json",
-          "note": "3 hits"
+          "note": "2 hits"
         },
         {
           "start": "10:25",
@@ -40003,14 +42197,6 @@
         },
         {
           "start": "18:28",
-          "end": "18:29",
-          "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
-        },
-        {
-          "start": "18:29",
           "end": "18:33",
           "cat": "coding",
           "src": "macos",
@@ -40030,7 +42216,7 @@
           "end": "18:36",
           "cat": "coding",
           "src": "local",
-          "title": "summarize.py",
+          "title": "prepare.py",
           "note": "6 hits"
         },
         {
@@ -40038,7 +42224,7 @@
           "end": "18:38",
           "cat": "coding",
           "src": "local",
-          "title": "summarize.py",
+          "title": "prepare.py",
           "note": "6 hits"
         },
         {
@@ -40046,7 +42232,7 @@
           "end": "18:40",
           "cat": "coding",
           "src": "local",
-          "title": "summarize.py",
+          "title": "prepare.py",
           "note": "6 hits"
         },
         {
@@ -40950,7 +43136,7 @@
           "end": "21:40",
           "cat": "admin",
           "src": "macos",
-          "title": "Inbox (2,656) - ada.ren.cn@gmail.com - Gmail",
+          "title": "Inbox (2,661) - ada.ren.cn@gmail.com - Gmail",
           "note": "mail.google.com"
         },
         {
@@ -41075,35 +43261,43 @@
         },
         {
           "start": "22:23",
-          "end": "22:25",
-          "cat": "coding",
-          "src": "local",
-          "title": "result.json",
-          "note": "5 hits"
+          "end": "22:24",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
         },
         {
           "start": "22:25",
           "end": "22:28",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "22:28",
+          "end": "22:34",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "22:34",
+          "end": "22:45",
           "cat": "research",
           "src": "chrome",
           "title": "zjunlp (ZJUNLP)",
           "note": "huggingface.co"
-        },
-        {
-          "start": "22:28",
-          "end": "22:29",
-          "cat": "coding",
-          "src": "local",
-          "title": "result.json",
-          "note": "3 hits"
         }
       ],
-      "logged": 636,
-      "real": 416,
-      "deep": 416,
-      "ratio": 0.6540196748036347,
+      "logged": 653,
+      "real": 433,
+      "deep": 433,
+      "ratio": 0.6625130671742702,
       "stats": {
-        "contextSwitches": 96,
+        "contextSwitches": 95,
         "tabsOpened": 57,
         "longestFocus": "1h 49m",
         "justOneMoreThing": 9
@@ -41116,18 +43310,2203 @@
       "weekend": false,
       "dateShort": "Fri, Jul 17",
       "dateLong": "Friday, July 17",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "10:36",
+      "dayEnd": "02:25",
+      "events": [
+        {
+          "start": "10:36",
+          "end": "10:40",
+          "cat": "coding",
+          "src": "local",
+          "title": "data.js",
+          "note": "1 hit"
+        },
+        {
+          "start": "10:40",
+          "end": "10:41",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Inbox (2,661) - ada.ren.cn@gmail.com - Gmail",
+          "note": "accounts.google.com"
+        },
+        {
+          "start": "10:41",
+          "end": "10:45",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Inbox (2,661) - ada.ren.cn@gmail.com - Gmail",
+          "note": "accounts.google.com"
+        },
+        {
+          "start": "10:46",
+          "end": "11:05",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:05",
+          "end": "11:06",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
+          "note": "sport.mq.edu.au"
+        },
+        {
+          "start": "11:06",
+          "end": "11:18",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:18",
+          "end": "11:23",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:23",
+          "end": "11:23",
+          "cat": "coding",
+          "src": "local",
+          "title": "scorer.py",
+          "note": "4 hits"
+        },
+        {
+          "start": "11:23",
+          "end": "11:24",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Why teens deserve access to safe AI | OpenAI",
+          "note": "openai.com"
+        },
+        {
+          "start": "11:24",
+          "end": "11:29",
+          "cat": "research",
+          "src": "macos",
+          "title": "Where the time actually went | Ada's Notes",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "11:30",
+          "end": "11:32",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:33",
+          "end": "11:37",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:37",
+          "end": "11:38",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Why teens deserve access to safe AI | OpenAI",
+          "note": "openai.com"
+        },
+        {
+          "start": "11:38",
+          "end": "11:42",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:42",
+          "end": "11:48",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "11:49",
+          "end": "11:52",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:52",
+          "end": "11:54",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:54",
+          "end": "11:58",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "11:58",
+          "end": "12:04",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "12:04",
+          "end": "12:17",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "12:18",
+          "end": "12:25",
+          "cat": "coding",
+          "src": "macos",
+          "title": "OpenRouter",
+          "note": "openrouter.ai"
+        },
+        {
+          "start": "12:25",
+          "end": "12:27",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "12:27",
+          "end": "12:28",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "12:28",
+          "end": "12:29",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Models: 'z.' - Pricing: Low to High | OpenRouter",
+          "note": "openrouter.com"
+        },
+        {
+          "start": "12:29",
+          "end": "12:31",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "12:31",
+          "end": "12:32",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "12:32",
+          "end": "12:44",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Models: 'z.' - Pricing: Low to High | OpenRouter",
+          "note": "openrouter.com"
+        },
+        {
+          "start": "12:44",
+          "end": "12:46",
+          "cat": "coding",
+          "src": "local",
+          "title": "test.sh",
+          "note": "7 hits"
+        },
+        {
+          "start": "12:46",
+          "end": "12:47",
+          "cat": "writing",
+          "src": "local",
+          "title": "exception.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "12:47",
+          "end": "12:49",
+          "cat": "writing",
+          "src": "local",
+          "title": "exception.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "12:49",
+          "end": "12:52",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "2 hits"
+        },
+        {
+          "start": "13:15",
+          "end": "13:22",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "13:22",
+          "end": "13:39",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "13:40",
+          "end": "13:41",
+          "cat": "coding",
+          "src": "macos",
+          "title": "iterm2",
+          "note": "com.googlecode.iterm2"
+        },
+        {
+          "start": "13:41",
+          "end": "13:43",
+          "cat": "research",
+          "src": "chrome",
+          "title": "iTerm2 - Wikipedia",
+          "note": "en.wikipedia.org"
+        },
+        {
+          "start": "13:43",
+          "end": "13:55",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "13:55",
+          "end": "13:57",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "13:57",
+          "end": "14:07",
+          "cat": "research",
+          "src": "chrome",
+          "title": "iTerm2 - Wikipedia",
+          "note": "en.wikipedia.org"
+        },
+        {
+          "start": "14:07",
+          "end": "14:12",
+          "cat": "research",
+          "src": "macos",
+          "title": "iTerm2 - Wikipedia",
+          "note": "en.wikipedia.org"
+        },
+        {
+          "start": "14:12",
+          "end": "14:14",
+          "cat": "coding",
+          "src": "local",
+          "title": "manifest.json",
+          "note": "5 hits"
+        },
+        {
+          "start": "14:14",
+          "end": "14:18",
+          "cat": "research",
+          "src": "macos",
+          "title": "iTerm2 - Wikipedia",
+          "note": "en.wikipedia.org"
+        },
+        {
+          "start": "14:18",
+          "end": "14:22",
+          "cat": "research",
+          "src": "macos",
+          "title": "iTerm2 - Wikipedia",
+          "note": "en.wikipedia.org"
+        },
+        {
+          "start": "14:22",
+          "end": "14:23",
+          "cat": "research",
+          "src": "macos",
+          "title": "iTerm2 - Wikipedia",
+          "note": "en.wikipedia.org"
+        },
+        {
+          "start": "14:23",
+          "end": "14:27",
+          "cat": "research",
+          "src": "macos",
+          "title": "iTerm2 - Wikipedia",
+          "note": "en.wikipedia.org"
+        },
+        {
+          "start": "14:27",
+          "end": "14:28",
+          "cat": "research",
+          "src": "macos",
+          "title": "iTerm2 - Wikipedia",
+          "note": "en.wikipedia.org"
+        },
+        {
+          "start": "14:28",
+          "end": "14:33",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "14:36",
+          "end": "14:37",
+          "cat": "research",
+          "src": "macos",
+          "title": "iTerm2 - Wikipedia",
+          "note": "en.wikipedia.org"
+        },
+        {
+          "start": "14:37",
+          "end": "14:39",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "14:39",
+          "end": "14:41",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "14:41",
+          "end": "14:43",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "14:43",
+          "end": "14:46",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "14:47",
+          "end": "14:48",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "14:48",
+          "end": "14:49",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "14:49",
+          "end": "14:51",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "14:51",
+          "end": "14:52",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "The Future Worth Building Is Human - Thinking Machines Lab",
+          "note": "x.com"
+        },
+        {
+          "start": "14:52",
+          "end": "14:56",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "The Future Worth Building Is Human - Thinking Machines Lab",
+          "note": "x.com"
+        },
+        {
+          "start": "14:56",
+          "end": "14:57",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "The Future Worth Building Is Human - Thinking Machines Lab",
+          "note": "x.com"
+        },
+        {
+          "start": "14:57",
+          "end": "14:59",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "14:59",
+          "end": "15:01",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "15:01",
+          "end": "15:02",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Inkling - Thinking Machines Lab",
+          "note": "thinkingmachines.ai"
+        },
+        {
+          "start": "15:02",
+          "end": "15:04",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:04",
+          "end": "15:09",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:09",
+          "end": "15:10",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:10",
+          "end": "15:21",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "The Future Worth Building Is Human - Thinking Machines Lab",
+          "note": "x.com"
+        },
+        {
+          "start": "15:21",
+          "end": "15:24",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:24",
+          "end": "15:26",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Inkling - Thinking Machines Lab",
+          "note": "thinkingmachines.ai"
+        },
+        {
+          "start": "15:26",
+          "end": "15:27",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "15:27",
+          "end": "15:27",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Inkling - Thinking Machines Lab",
+          "note": "thinkingmachines.ai"
+        },
+        {
+          "start": "15:27",
+          "end": "15:29",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Inkling: Our open-weights model - Thinking Machines Lab",
+          "note": "thinkingmachines.ai"
+        },
+        {
+          "start": "15:29",
+          "end": "15:32",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "15:32",
+          "end": "15:35",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "15:35",
+          "end": "15:37",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "15:37",
+          "end": "15:39",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "15:39",
+          "end": "15:40",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:40",
+          "end": "15:42",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:42",
+          "end": "15:44",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "15:44",
+          "end": "15:49",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "15:49",
+          "end": "15:52",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "15:52",
+          "end": "15:54",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:54",
+          "end": "15:56",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:56",
+          "end": "15:58",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:58",
+          "end": "15:59",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "15:59",
+          "end": "16:01",
+          "cat": "research",
+          "src": "chrome",
+          "title": "ChatGPT Plans | Free, Go, Plus, Pro, Business, and Enterpris",
+          "note": "openai.com"
+        },
+        {
+          "start": "16:01",
+          "end": "16:02",
+          "cat": "research",
+          "src": "chrome",
+          "title": "ChatGPT Plans | Free, Go, Plus, Pro, Business, and Enterpris",
+          "note": "openai.com"
+        },
+        {
+          "start": "16:02",
+          "end": "16:04",
+          "cat": "research",
+          "src": "chrome",
+          "title": "ChatGPT Plans | Free, Go, Plus, Pro, Business, and Enterpris",
+          "note": "openai.com"
+        },
+        {
+          "start": "16:05",
+          "end": "16:06",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Which MacBook to Buy (2026): My Honest Advice on Which to Bu",
+          "note": "wired.com"
+        },
+        {
+          "start": "16:06",
+          "end": "16:07",
+          "cat": "research",
+          "src": "chrome",
+          "title": "ChatGPT Plans | Free, Go, Plus, Pro, Business, and Enterpris",
+          "note": "openai.com"
+        },
+        {
+          "start": "16:08",
+          "end": "16:08",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(8) 主页 / X",
+          "note": "x.com"
+        },
+        {
+          "start": "16:09",
+          "end": "16:18",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "16:19",
+          "end": "16:22",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:22",
+          "end": "16:23",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "WebEngage Email Unsubscribe",
+          "note": "google.com"
+        },
+        {
+          "start": "16:23",
+          "end": "16:24",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Models: 'ki mi' - Pricing: Low to High | OpenRouter",
+          "note": "openrouter.ai"
+        },
+        {
+          "start": "16:24",
+          "end": "16:49",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Models: 't' - Pricing: Low to High | OpenRouter",
+          "note": "openrouter.ai"
+        },
+        {
+          "start": "16:49",
+          "end": "16:53",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:53",
+          "end": "16:54",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:54",
+          "end": "16:57",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:57",
+          "end": "16:59",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:59",
+          "end": "17:00",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Models: 'ki mi' - Pricing: Low to High | OpenRouter",
+          "note": "openrouter.com"
+        },
+        {
+          "start": "17:01",
+          "end": "17:04",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Models: 'ki mi' - Pricing: Low to High | OpenRouter",
+          "note": "openrouter.com"
+        },
+        {
+          "start": "17:04",
+          "end": "17:05",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Models: 'ki mi' - Pricing: Low to High | OpenRouter",
+          "note": "openrouter.com"
+        },
+        {
+          "start": "17:06",
+          "end": "17:08",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Models: 'ki mi' - Pricing: Low to High | OpenRouter",
+          "note": "openrouter.com"
+        },
+        {
+          "start": "17:10",
+          "end": "17:10",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "17:10",
+          "end": "17:13",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "17:13",
+          "end": "17:14",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "7 hits"
+        },
+        {
+          "start": "17:14",
+          "end": "17:15",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "6 hits"
+        },
+        {
+          "start": "17:15",
+          "end": "17:17",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "17:18",
+          "end": "17:18",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "17:18",
+          "end": "17:22",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "8 hits"
+        },
+        {
+          "start": "17:23",
+          "end": "17:23",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "17:23",
+          "end": "17:27",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "7 hits"
+        },
+        {
+          "start": "17:27",
+          "end": "17:30",
+          "cat": "coding",
+          "src": "local",
+          "title": "snapshot.json",
+          "note": "5 hits"
+        },
+        {
+          "start": "18:39",
+          "end": "18:40",
+          "cat": "coding",
+          "src": "local",
+          "title": "config.json",
+          "note": "2 hits"
+        },
+        {
+          "start": "18:40",
+          "end": "18:41",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "18:41",
+          "end": "18:45",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "18:45",
+          "end": "18:46",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "18:46",
+          "end": "18:49",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "18:50",
+          "end": "18:50",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(64) 躺平十年，却成为华人天花板，她靠三个底层特质｜魏慧 - YouTube",
+          "note": "youtube.com"
+        },
+        {
+          "start": "18:51",
+          "end": "18:51",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(64) 躺平十年，却成为华人天花板，她靠三个底层特质｜魏慧 - YouTube",
+          "note": "youtube.com"
+        },
+        {
+          "start": "18:51",
+          "end": "18:54",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(64) 躺平十年，却成为华人天花板，她靠三个底层特质｜魏慧 - YouTube",
+          "note": "youtube.com"
+        },
+        {
+          "start": "18:54",
+          "end": "18:55",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(64) 躺平十年，却成为华人天花板，她靠三个底层特质｜魏慧 - YouTube",
+          "note": "youtube.com"
+        },
+        {
+          "start": "18:56",
+          "end": "18:56",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(64) 躺平十年，却成为华人天花板，她靠三个底层特质｜魏慧 - YouTube",
+          "note": "youtube.com"
+        },
+        {
+          "start": "18:56",
+          "end": "18:59",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(64) 躺平十年，却成为华人天花板，她靠三个底层特质｜魏慧 - YouTube",
+          "note": "youtube.com"
+        },
+        {
+          "start": "18:59",
+          "end": "19:00",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(64) 躺平十年，却成为华人天花板，她靠三个底层特质｜魏慧 - YouTube",
+          "note": "youtube.com"
+        },
+        {
+          "start": "19:01",
+          "end": "19:01",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(64) 躺平十年，却成为华人天花板，她靠三个底层特质｜魏慧 - YouTube",
+          "note": "youtube.com"
+        },
+        {
+          "start": "19:01",
+          "end": "19:04",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(64) 躺平十年，却成为华人天花板，她靠三个底层特质｜魏慧 - YouTube",
+          "note": "youtube.com"
+        },
+        {
+          "start": "19:04",
+          "end": "19:06",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(64) 躺平十年，却成为华人天花板，她靠三个底层特质｜魏慧 - YouTube",
+          "note": "youtube.com"
+        },
+        {
+          "start": "19:06",
+          "end": "19:09",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(64) 躺平十年，却成为华人天花板，她靠三个底层特质｜魏慧 - YouTube",
+          "note": "youtube.com"
+        },
+        {
+          "start": "19:13",
+          "end": "19:34",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(64) 躺平十年，却成为华人天花板，她靠三个底层特质｜魏慧 - YouTube",
+          "note": "youtube.com"
+        },
+        {
+          "start": "19:34",
+          "end": "19:35",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(64) 躺平十年，却成为华人天花板，她靠三个底层特质｜魏慧 - YouTube",
+          "note": "youtube.com"
+        },
+        {
+          "start": "19:35",
+          "end": "19:39",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(64) 躺平十年，却成为华人天花板，她靠三个底层特质｜魏慧 - YouTube",
+          "note": "youtube.com"
+        },
+        {
+          "start": "19:39",
+          "end": "19:40",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(64) 躺平十年，却成为华人天花板，她靠三个底层特质｜魏慧 - YouTube",
+          "note": "youtube.com"
+        },
+        {
+          "start": "19:40",
+          "end": "19:42",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(64) YouTube",
+          "note": "youtube.com"
+        },
+        {
+          "start": "19:42",
+          "end": "19:44",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "19:44",
+          "end": "19:46",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "19:46",
+          "end": "19:47",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "19:47",
+          "end": "19:49",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "19:49",
+          "end": "19:50",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(64) It's not raining outside the big factories, how can wor",
+          "note": "youtube.com"
+        },
+        {
+          "start": "19:50",
+          "end": "19:51",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(64) It's not raining outside the big factories, how can wor",
+          "note": "youtube.com"
+        },
+        {
+          "start": "19:51",
+          "end": "19:53",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(64) It's not raining outside the big factories, how can wor",
+          "note": "youtube.com"
+        },
+        {
+          "start": "19:53",
+          "end": "19:55",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(64) It's not raining outside the big factories, how can wor",
+          "note": "youtube.com"
+        },
+        {
+          "start": "19:55",
+          "end": "19:58",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(64) It's not raining outside the big factories, how can wor",
+          "note": "youtube.com"
+        },
+        {
+          "start": "19:58",
+          "end": "20:00",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(64) New Model: Inkling by Thinking Machine on Hugging Face ",
+          "note": "youtube.com"
+        },
+        {
+          "start": "20:01",
+          "end": "20:03",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(64) New Model: Inkling by Thinking Machine on Hugging Face ",
+          "note": "youtube.com"
+        },
+        {
+          "start": "20:03",
+          "end": "20:05",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(64) New Model: Inkling by Thinking Machine on Hugging Face ",
+          "note": "youtube.com"
+        },
+        {
+          "start": "20:06",
+          "end": "20:11",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(64) AI重塑工作流后，会消灭哪些“假工作”？（完整观察与推理）｜软件3.0如何定义？｜当Cursor成为“外脑”｜",
+          "note": "youtube.com"
+        },
+        {
+          "start": "20:11",
+          "end": "20:16",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(64) New Model: Inkling by Thinking Machine on Hugging Face ",
+          "note": "youtube.com"
+        },
+        {
+          "start": "20:16",
+          "end": "20:17",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(64) New Model: Inkling by Thinking Machine on Hugging Face ",
+          "note": "youtube.com"
+        },
+        {
+          "start": "20:17",
+          "end": "20:19",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(64) New Model: Inkling by Thinking Machine on Hugging Face ",
+          "note": "youtube.com"
+        },
+        {
+          "start": "20:19",
+          "end": "20:22",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(64) New Model: Inkling by Thinking Machine on Hugging Face ",
+          "note": "youtube.com"
+        },
+        {
+          "start": "20:22",
+          "end": "20:24",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(64) New Model: Inkling by Thinking Machine on Hugging Face ",
+          "note": "youtube.com"
+        },
+        {
+          "start": "20:24",
+          "end": "20:28",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(64) AI重塑工作流后，会消灭哪些“假工作”？（完整观察与推理）｜软件3.0如何定义？｜当Cursor成为“外脑”｜",
+          "note": "youtube.com"
+        },
+        {
+          "start": "20:28",
+          "end": "20:30",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(64) 道理都懂，为什么还是动不了？ - YouTube",
+          "note": "youtube.com"
+        },
+        {
+          "start": "20:31",
+          "end": "20:32",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(64) 道理都懂，为什么还是动不了？ - YouTube",
+          "note": "youtube.com"
+        },
+        {
+          "start": "20:33",
+          "end": "20:33",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(64) 道理都懂，为什么还是动不了？ - YouTube",
+          "note": "youtube.com"
+        },
+        {
+          "start": "20:36",
+          "end": "20:37",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "20:37",
+          "end": "20:37",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "20:38",
+          "end": "20:38",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "20:38",
+          "end": "20:39",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "20:39",
+          "end": "20:41",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "20:41",
+          "end": "20:42",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(64) New Model: Inkling by Thinking Machine on Hugging Face ",
+          "note": "youtube.com"
+        },
+        {
+          "start": "20:42",
+          "end": "20:43",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(64) New Model: Inkling by Thinking Machine on Hugging Face ",
+          "note": "youtube.com"
+        },
+        {
+          "start": "20:43",
+          "end": "20:45",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(64) New Model: Inkling by Thinking Machine on Hugging Face ",
+          "note": "youtube.com"
+        },
+        {
+          "start": "20:45",
+          "end": "20:47",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(64) New Model: Inkling by Thinking Machine on Hugging Face ",
+          "note": "youtube.com"
+        },
+        {
+          "start": "20:47",
+          "end": "20:50",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(64) New Model: Inkling by Thinking Machine on Hugging Face ",
+          "note": "youtube.com"
+        },
+        {
+          "start": "20:50",
+          "end": "20:52",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(64) New Model: Inkling by Thinking Machine on Hugging Face ",
+          "note": "youtube.com"
+        },
+        {
+          "start": "20:52",
+          "end": "20:53",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(64) New Model: Inkling by Thinking Machine on Hugging Face ",
+          "note": "youtube.com"
+        },
+        {
+          "start": "20:53",
+          "end": "20:55",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(64) New Model: Inkling by Thinking Machine on Hugging Face ",
+          "note": "youtube.com"
+        },
+        {
+          "start": "20:55",
+          "end": "20:57",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "20:57",
+          "end": "20:58",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "20:59",
+          "end": "21:01",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "21:01",
+          "end": "21:02",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "21:02",
+          "end": "21:04",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "21:04",
+          "end": "21:06",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "21:06",
+          "end": "21:07",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "21:07",
+          "end": "21:09",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "21:09",
+          "end": "21:09",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "21:09",
+          "end": "21:10",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "21:10",
+          "end": "21:12",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "21:12",
+          "end": "21:14",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "21:14",
+          "end": "21:15",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "21:39",
+          "end": "21:41",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "21:41",
+          "end": "21:44",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "21:44",
+          "end": "21:46",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "21:51",
+          "end": "21:56",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "22:01",
+          "end": "22:06",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "22:08",
+          "end": "22:09",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "22:09",
+          "end": "22:13",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "22:13",
+          "end": "22:14",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "22:27",
+          "end": "22:28",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "22:28",
+          "end": "22:29",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "22:29",
+          "end": "22:32",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "22:32",
+          "end": "22:33",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "22:33",
+          "end": "22:34",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "22:34",
+          "end": "22:39",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "22:45",
+          "end": "22:46",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "22:46",
+          "end": "22:49",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "22:49",
+          "end": "22:50",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "22:50",
+          "end": "22:51",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "22:51",
+          "end": "22:53",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "22:53",
+          "end": "22:54",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "22:54",
+          "end": "22:55",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "22:55",
+          "end": "22:57",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "22:57",
+          "end": "22:58",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "22:58",
+          "end": "23:00",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "23:00",
+          "end": "23:02",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "23:02",
+          "end": "23:05",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "23:05",
+          "end": "23:07",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "23:25",
+          "end": "23:29",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "23:29",
+          "end": "23:30",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "23:30",
+          "end": "23:31",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "23:31",
+          "end": "23:34",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "23:40",
+          "end": "23:40",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "23:40",
+          "end": "23:44",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "23:45",
+          "end": "23:45",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "23:46",
+          "end": "23:49",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "23:50",
+          "end": "23:51",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "23:51",
+          "end": "23:51",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "23:52",
+          "end": "23:53",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "23:53",
+          "end": "23:54",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "23:55",
+          "end": "23:56",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "23:57",
+          "end": "23:57",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "23:58",
+          "end": "23:59",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "23:59",
+          "end": "00:02",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "00:02",
+          "end": "00:03",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "00:03",
+          "end": "00:04",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "00:05",
+          "end": "00:08",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "00:08",
+          "end": "00:09",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "00:10",
+          "end": "00:11",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "00:11",
+          "end": "00:12",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "00:12",
+          "end": "00:13",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "00:13",
+          "end": "00:14",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "00:14",
+          "end": "00:15",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "00:16",
+          "end": "00:17",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "00:17",
+          "end": "00:18",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "00:18",
+          "end": "00:19",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "00:19",
+          "end": "00:20",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "00:21",
+          "end": "00:21",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "00:22",
+          "end": "00:22",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "00:23",
+          "end": "00:24",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "00:24",
+          "end": "00:25",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "00:26",
+          "end": "00:26",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "00:26",
+          "end": "00:27",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "00:28",
+          "end": "00:29",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "00:29",
+          "end": "00:30",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "00:30",
+          "end": "00:32",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "00:33",
+          "end": "00:34",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "00:34",
+          "end": "00:35",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "00:35",
+          "end": "00:38",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "00:49",
+          "end": "00:54",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "00:59",
+          "end": "01:00",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "01:00",
+          "end": "01:04",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "01:04",
+          "end": "01:05",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "01:30",
+          "end": "01:32",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "2 hits"
+        },
+        {
+          "start": "01:32",
+          "end": "01:34",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "2 hits"
+        },
+        {
+          "start": "01:34",
+          "end": "01:35",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "2 hits"
+        },
+        {
+          "start": "01:35",
+          "end": "01:37",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "01:37",
+          "end": "01:39",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "02:02",
+          "end": "02:03",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "02:04",
+          "end": "02:05",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "02:05",
+          "end": "02:07",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "02:07",
+          "end": "02:08",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "02:09",
+          "end": "02:09",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "02:09",
+          "end": "02:10",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "02:10",
+          "end": "02:12",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "02:12",
+          "end": "02:13",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "02:13",
+          "end": "02:14",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "02:14",
+          "end": "02:15",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "02:15",
+          "end": "02:17",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "02:17",
+          "end": "02:18",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "02:18",
+          "end": "02:19",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "02:19",
+          "end": "02:23",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "02:24",
+          "end": "02:24",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "02:24",
+          "end": "02:25",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        }
+      ],
+      "logged": 661,
+      "real": 470,
+      "deep": 470,
+      "ratio": 0.712142692681695,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "0m",
-        "justOneMoreThing": 0
+        "contextSwitches": 67,
+        "tabsOpened": 117,
+        "longestFocus": "2h 53m",
+        "justOneMoreThing": 6
       }
     },
     {
@@ -41137,17 +45516,26 @@
       "weekend": true,
       "dateShort": "Sat, Jul 18",
       "dateLong": "Saturday, July 18",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "10:01",
+      "dayEnd": "10:06",
+      "events": [
+        {
+          "start": "10:01",
+          "end": "10:06",
+          "cat": "writing",
+          "src": "local",
+          "title": "2026-07-17-a-scorecard-for-the-ai-age.md",
+          "note": "1 hit"
+        }
+      ],
+      "logged": 5,
+      "real": 5,
+      "deep": 5,
+      "ratio": 1.0,
       "stats": {
         "contextSwitches": 0,
         "tabsOpened": 0,
-        "longestFocus": "0m",
+        "longestFocus": "5m",
         "justOneMoreThing": 0
       }
     },
