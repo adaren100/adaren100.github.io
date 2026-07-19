@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-07-18T10:20:08+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-07-19T10:44:01+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -30991,27 +30991,19 @@
         "weekend": false,
         "dateShort": "Fri, Jul 17",
         "dateLong": "Friday, July 17",
-        "dayStart": "10:36",
+        "dayStart": "10:39",
         "dayEnd": "02:25",
         "events": [
           {
-            "start": "10:36",
+            "start": "10:39",
             "end": "10:40",
-            "cat": "coding",
+            "cat": "writing",
             "src": "local",
-            "title": "data.js",
-            "note": "1 hit"
+            "title": "2026-07-17-why-teens-deserve-access-safe-ai.md",
+            "note": "4 hits"
           },
           {
             "start": "10:40",
-            "end": "10:41",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Inbox (2,661) - ada.ren.cn@gmail.com - Gmail",
-            "note": "accounts.google.com"
-          },
-          {
-            "start": "10:41",
             "end": "10:45",
             "cat": "admin",
             "src": "chrome",
@@ -33179,15 +33171,15 @@
             "note": "1 hit"
           }
         ],
-        "logged": 661,
-        "real": 470,
-        "deep": 470,
-        "ratio": 0.712142692681695,
+        "logged": 658,
+        "real": 468,
+        "deep": 468,
+        "ratio": 0.7109957851139745,
         "stats": {
           "contextSwitches": 67,
-          "tabsOpened": 117,
+          "tabsOpened": 114,
           "longestFocus": "2h 53m",
-          "justOneMoreThing": 6
+          "justOneMoreThing": 7
         }
       },
       {
@@ -33198,7 +33190,7 @@
         "dateShort": "Sat, Jul 18",
         "dateLong": "Saturday, July 18",
         "dayStart": "10:01",
-        "dayEnd": "10:06",
+        "dayEnd": "10:25",
         "events": [
           {
             "start": "10:01",
@@ -33207,16 +33199,24 @@
             "src": "local",
             "title": "2026-07-17-a-scorecard-for-the-ai-age.md",
             "note": "1 hit"
+          },
+          {
+            "start": "10:20",
+            "end": "10:25",
+            "cat": "coding",
+            "src": "local",
+            "title": "data.js",
+            "note": "1 hit"
           }
         ],
-        "logged": 5,
-        "real": 5,
-        "deep": 5,
+        "logged": 10,
+        "real": 10,
+        "deep": 10,
         "ratio": 1.0,
         "stats": {
-          "contextSwitches": 0,
+          "contextSwitches": 1,
           "tabsOpened": 0,
-          "longestFocus": "5m",
+          "longestFocus": "10m",
           "justOneMoreThing": 0
         }
       },
@@ -43310,27 +43310,19 @@
       "weekend": false,
       "dateShort": "Fri, Jul 17",
       "dateLong": "Friday, July 17",
-      "dayStart": "10:36",
+      "dayStart": "10:39",
       "dayEnd": "02:25",
       "events": [
         {
-          "start": "10:36",
+          "start": "10:39",
           "end": "10:40",
-          "cat": "coding",
+          "cat": "writing",
           "src": "local",
-          "title": "data.js",
-          "note": "1 hit"
+          "title": "2026-07-17-why-teens-deserve-access-safe-ai.md",
+          "note": "4 hits"
         },
         {
           "start": "10:40",
-          "end": "10:41",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Inbox (2,661) - ada.ren.cn@gmail.com - Gmail",
-          "note": "accounts.google.com"
-        },
-        {
-          "start": "10:41",
           "end": "10:45",
           "cat": "admin",
           "src": "chrome",
@@ -45498,15 +45490,15 @@
           "note": "1 hit"
         }
       ],
-      "logged": 661,
-      "real": 470,
-      "deep": 470,
-      "ratio": 0.712142692681695,
+      "logged": 658,
+      "real": 468,
+      "deep": 468,
+      "ratio": 0.7109957851139745,
       "stats": {
         "contextSwitches": 67,
-        "tabsOpened": 117,
+        "tabsOpened": 114,
         "longestFocus": "2h 53m",
-        "justOneMoreThing": 6
+        "justOneMoreThing": 7
       }
     },
     {
@@ -45517,7 +45509,7 @@
       "dateShort": "Sat, Jul 18",
       "dateLong": "Saturday, July 18",
       "dayStart": "10:01",
-      "dayEnd": "10:06",
+      "dayEnd": "10:25",
       "events": [
         {
           "start": "10:01",
@@ -45526,16 +45518,24 @@
           "src": "local",
           "title": "2026-07-17-a-scorecard-for-the-ai-age.md",
           "note": "1 hit"
+        },
+        {
+          "start": "10:20",
+          "end": "10:25",
+          "cat": "coding",
+          "src": "local",
+          "title": "data.js",
+          "note": "1 hit"
         }
       ],
-      "logged": 5,
-      "real": 5,
-      "deep": 5,
+      "logged": 10,
+      "real": 10,
+      "deep": 10,
       "ratio": 1.0,
       "stats": {
-        "contextSwitches": 0,
+        "contextSwitches": 1,
         "tabsOpened": 0,
-        "longestFocus": "5m",
+        "longestFocus": "10m",
         "justOneMoreThing": 0
       }
     },
