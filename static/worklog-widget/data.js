@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-07-19T10:44:01+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-07-20T10:20:06+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -28942,14 +28942,6 @@
           },
           {
             "start": "11:04",
-            "end": "11:05",
-            "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
-          },
-          {
-            "start": "11:05",
             "end": "11:08",
             "cat": "coding",
             "src": "macos",
@@ -28990,14 +28982,6 @@
           },
           {
             "start": "11:14",
-            "end": "11:16",
-            "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
-          },
-          {
-            "start": "11:16",
             "end": "11:20",
             "cat": "coding",
             "src": "macos",
@@ -29086,19 +29070,11 @@
           },
           {
             "start": "11:48",
-            "end": "11:51",
-            "cat": "personal",
-            "src": "macos",
-            "title": "AfterQuery",
-            "note": "afterquery.com"
-          },
-          {
-            "start": "11:51",
             "end": "11:59",
             "cat": "coding",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "title": "AfterQuery",
+            "note": "afterquery.com"
           },
           {
             "start": "11:59",
@@ -29111,7 +29087,7 @@
           {
             "start": "12:03",
             "end": "12:04",
-            "cat": "personal",
+            "cat": "coding",
             "src": "chrome",
             "title": "AfterQuery",
             "note": "afterquery.com"
@@ -29126,7 +29102,7 @@
           },
           {
             "start": "12:07",
-            "end": "12:09",
+            "end": "12:11",
             "cat": "research",
             "src": "macos",
             "title": "AfterQuery/FinanceQA · Datasets at Hugging Face",
@@ -30973,15 +30949,15 @@
             "note": "huggingface.co"
           }
         ],
-        "logged": 653,
-        "real": 433,
-        "deep": 433,
-        "ratio": 0.6625130671742702,
+        "logged": 654,
+        "real": 439,
+        "deep": 439,
+        "ratio": 0.6702689981886486,
         "stats": {
-          "contextSwitches": 95,
+          "contextSwitches": 93,
           "tabsOpened": 57,
           "longestFocus": "1h 49m",
-          "justOneMoreThing": 9
+          "justOneMoreThing": 7
         }
       },
       {
@@ -31423,24 +31399,32 @@
             "end": "14:52",
             "cat": "personal",
             "src": "chrome",
-            "title": "The Future Worth Building Is Human - Thinking Machines Lab",
+            "title": "(8) Xiaoyin Qu (@quxiaoyin) / X",
             "note": "x.com"
           },
           {
             "start": "14:52",
-            "end": "14:56",
+            "end": "14:53",
             "cat": "personal",
             "src": "chrome",
-            "title": "The Future Worth Building Is Human - Thinking Machines Lab",
+            "title": "(8) Xiaoyin Qu (@quxiaoyin) / X",
             "note": "x.com"
+          },
+          {
+            "start": "14:54",
+            "end": "14:56",
+            "cat": "research",
+            "src": "macos",
+            "title": "Thinking Machines Lab",
+            "note": "thinkingmachines.ai"
           },
           {
             "start": "14:56",
             "end": "14:57",
-            "cat": "personal",
+            "cat": "research",
             "src": "chrome",
             "title": "The Future Worth Building Is Human - Thinking Machines Lab",
-            "note": "x.com"
+            "note": "thinkingmachines.ai"
           },
           {
             "start": "14:57",
@@ -31461,7 +31445,7 @@
           {
             "start": "15:01",
             "end": "15:02",
-            "cat": "personal",
+            "cat": "research",
             "src": "macos",
             "title": "Inkling - Thinking Machines Lab",
             "note": "thinkingmachines.ai"
@@ -31493,10 +31477,10 @@
           {
             "start": "15:10",
             "end": "15:21",
-            "cat": "personal",
+            "cat": "research",
             "src": "chrome",
             "title": "The Future Worth Building Is Human - Thinking Machines Lab",
-            "note": "x.com"
+            "note": "thinkingmachines.ai"
           },
           {
             "start": "15:21",
@@ -31509,7 +31493,7 @@
           {
             "start": "15:24",
             "end": "15:26",
-            "cat": "personal",
+            "cat": "research",
             "src": "macos",
             "title": "Inkling - Thinking Machines Lab",
             "note": "thinkingmachines.ai"
@@ -31525,7 +31509,7 @@
           {
             "start": "15:27",
             "end": "15:27",
-            "cat": "personal",
+            "cat": "research",
             "src": "macos",
             "title": "Inkling - Thinking Machines Lab",
             "note": "thinkingmachines.ai"
@@ -31533,7 +31517,7 @@
           {
             "start": "15:27",
             "end": "15:29",
-            "cat": "personal",
+            "cat": "research",
             "src": "macos",
             "title": "Inkling: Our open-weights model - Thinking Machines Lab",
             "note": "thinkingmachines.ai"
@@ -31668,26 +31652,18 @@
           },
           {
             "start": "16:05",
-            "end": "16:06",
-            "cat": "personal",
+            "end": "16:07",
+            "cat": "research",
             "src": "macos",
             "title": "Which MacBook to Buy (2026): My Honest Advice on Which to Bu",
             "note": "wired.com"
-          },
-          {
-            "start": "16:06",
-            "end": "16:07",
-            "cat": "research",
-            "src": "chrome",
-            "title": "ChatGPT Plans | Free, Go, Plus, Pro, Business, and Enterpris",
-            "note": "openai.com"
           },
           {
             "start": "16:08",
             "end": "16:08",
             "cat": "personal",
             "src": "macos",
-            "title": "(8) 主页 / X",
+            "title": "x.com/home",
             "note": "x.com"
           },
           {
@@ -31711,7 +31687,7 @@
             "end": "16:23",
             "cat": "admin",
             "src": "chrome",
-            "title": "WebEngage Email Unsubscribe",
+            "title": "WebEngage Email Unsubscribe Success",
             "note": "google.com"
           },
           {
@@ -33172,14 +33148,14 @@
           }
         ],
         "logged": 658,
-        "real": 468,
-        "deep": 468,
-        "ratio": 0.7109957851139745,
+        "real": 488,
+        "deep": 488,
+        "ratio": 0.7410772714574368,
         "stats": {
-          "contextSwitches": 67,
-          "tabsOpened": 114,
+          "contextSwitches": 66,
+          "tabsOpened": 111,
           "longestFocus": "2h 53m",
-          "justOneMoreThing": 7
+          "justOneMoreThing": 8
         }
       },
       {
@@ -33190,7 +33166,7 @@
         "dateShort": "Sat, Jul 18",
         "dateLong": "Saturday, July 18",
         "dayStart": "10:01",
-        "dayEnd": "10:25",
+        "dayEnd": "20:52",
         "events": [
           {
             "start": "10:01",
@@ -33201,23 +33177,31 @@
             "note": "1 hit"
           },
           {
-            "start": "10:20",
-            "end": "10:25",
+            "start": "20:05",
+            "end": "20:12",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Reformer Pilates | Sport and Aquatic Centre | Macquarie Uni",
+            "note": "sport.mq.edu.au"
+          },
+          {
+            "start": "20:28",
+            "end": "20:52",
             "cat": "coding",
-            "src": "local",
-            "title": "data.js",
-            "note": "1 hit"
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
           }
         ],
-        "logged": 10,
-        "real": 10,
-        "deep": 10,
-        "ratio": 1.0,
+        "logged": 35,
+        "real": 28,
+        "deep": 28,
+        "ratio": 0.7993421052631579,
         "stats": {
-          "contextSwitches": 1,
+          "contextSwitches": 2,
           "tabsOpened": 0,
-          "longestFocus": "10m",
-          "justOneMoreThing": 0
+          "longestFocus": "23m",
+          "justOneMoreThing": 1
         }
       },
       {
@@ -33227,17 +33211,26 @@
         "weekend": true,
         "dateShort": "Sun, Jul 19",
         "dateLong": "Sunday, July 19",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "10:44",
+        "dayEnd": "10:49",
+        "events": [
+          {
+            "start": "10:44",
+            "end": "10:49",
+            "cat": "coding",
+            "src": "local",
+            "title": "data.js",
+            "note": "1 hit"
+          }
+        ],
+        "logged": 5,
+        "real": 5,
+        "deep": 5,
+        "ratio": 1.0,
         "stats": {
           "contextSwitches": 0,
           "tabsOpened": 0,
-          "longestFocus": "0m",
+          "longestFocus": "5m",
           "justOneMoreThing": 0
         }
       },
@@ -33248,17 +33241,74 @@
         "weekend": false,
         "dateShort": "Mon, Jul 20",
         "dateLong": "Monday, July 20",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "09:41",
+        "dayEnd": "10:24",
+        "events": [
+          {
+            "start": "09:41",
+            "end": "09:43",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "09:43",
+            "end": "09:44",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Reformer Pilates | Sport and Aquatic Centre | Macquarie Uni",
+            "note": "sport.mq.edu.au"
+          },
+          {
+            "start": "09:47",
+            "end": "09:59",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Ideas2.pptx",
+            "note": "mqoutlook-my.sharepoint.com"
+          },
+          {
+            "start": "09:59",
+            "end": "10:04",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Ideas2.pptx",
+            "note": "mqoutlook-my.sharepoint.com"
+          },
+          {
+            "start": "10:04",
+            "end": "10:07",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Ideas2.pptx",
+            "note": "mqoutlook-my.sharepoint.com"
+          },
+          {
+            "start": "10:07",
+            "end": "10:12",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Credits | OpenRouter",
+            "note": "openrouter.com"
+          },
+          {
+            "start": "10:20",
+            "end": "10:24",
+            "cat": "writing",
+            "src": "local",
+            "title": "exception.txt",
+            "note": "1 hit"
+          }
+        ],
+        "logged": 34,
+        "real": 13,
+        "deep": 13,
+        "ratio": 0.373212267666039,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "0m",
+          "contextSwitches": 3,
+          "tabsOpened": 9,
+          "longestFocus": "10m",
           "justOneMoreThing": 0
         }
       },
@@ -41261,14 +41311,6 @@
         },
         {
           "start": "11:04",
-          "end": "11:05",
-          "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
-        },
-        {
-          "start": "11:05",
           "end": "11:08",
           "cat": "coding",
           "src": "macos",
@@ -41309,14 +41351,6 @@
         },
         {
           "start": "11:14",
-          "end": "11:16",
-          "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
-        },
-        {
-          "start": "11:16",
           "end": "11:20",
           "cat": "coding",
           "src": "macos",
@@ -41405,19 +41439,11 @@
         },
         {
           "start": "11:48",
-          "end": "11:51",
-          "cat": "personal",
-          "src": "macos",
-          "title": "AfterQuery",
-          "note": "afterquery.com"
-        },
-        {
-          "start": "11:51",
           "end": "11:59",
           "cat": "coding",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "title": "AfterQuery",
+          "note": "afterquery.com"
         },
         {
           "start": "11:59",
@@ -41430,7 +41456,7 @@
         {
           "start": "12:03",
           "end": "12:04",
-          "cat": "personal",
+          "cat": "coding",
           "src": "chrome",
           "title": "AfterQuery",
           "note": "afterquery.com"
@@ -41445,7 +41471,7 @@
         },
         {
           "start": "12:07",
-          "end": "12:09",
+          "end": "12:11",
           "cat": "research",
           "src": "macos",
           "title": "AfterQuery/FinanceQA · Datasets at Hugging Face",
@@ -43292,15 +43318,15 @@
           "note": "huggingface.co"
         }
       ],
-      "logged": 653,
-      "real": 433,
-      "deep": 433,
-      "ratio": 0.6625130671742702,
+      "logged": 654,
+      "real": 439,
+      "deep": 439,
+      "ratio": 0.6702689981886486,
       "stats": {
-        "contextSwitches": 95,
+        "contextSwitches": 93,
         "tabsOpened": 57,
         "longestFocus": "1h 49m",
-        "justOneMoreThing": 9
+        "justOneMoreThing": 7
       }
     },
     {
@@ -43742,24 +43768,32 @@
           "end": "14:52",
           "cat": "personal",
           "src": "chrome",
-          "title": "The Future Worth Building Is Human - Thinking Machines Lab",
+          "title": "(8) Xiaoyin Qu (@quxiaoyin) / X",
           "note": "x.com"
         },
         {
           "start": "14:52",
-          "end": "14:56",
+          "end": "14:53",
           "cat": "personal",
           "src": "chrome",
-          "title": "The Future Worth Building Is Human - Thinking Machines Lab",
+          "title": "(8) Xiaoyin Qu (@quxiaoyin) / X",
           "note": "x.com"
+        },
+        {
+          "start": "14:54",
+          "end": "14:56",
+          "cat": "research",
+          "src": "macos",
+          "title": "Thinking Machines Lab",
+          "note": "thinkingmachines.ai"
         },
         {
           "start": "14:56",
           "end": "14:57",
-          "cat": "personal",
+          "cat": "research",
           "src": "chrome",
           "title": "The Future Worth Building Is Human - Thinking Machines Lab",
-          "note": "x.com"
+          "note": "thinkingmachines.ai"
         },
         {
           "start": "14:57",
@@ -43780,7 +43814,7 @@
         {
           "start": "15:01",
           "end": "15:02",
-          "cat": "personal",
+          "cat": "research",
           "src": "macos",
           "title": "Inkling - Thinking Machines Lab",
           "note": "thinkingmachines.ai"
@@ -43812,10 +43846,10 @@
         {
           "start": "15:10",
           "end": "15:21",
-          "cat": "personal",
+          "cat": "research",
           "src": "chrome",
           "title": "The Future Worth Building Is Human - Thinking Machines Lab",
-          "note": "x.com"
+          "note": "thinkingmachines.ai"
         },
         {
           "start": "15:21",
@@ -43828,7 +43862,7 @@
         {
           "start": "15:24",
           "end": "15:26",
-          "cat": "personal",
+          "cat": "research",
           "src": "macos",
           "title": "Inkling - Thinking Machines Lab",
           "note": "thinkingmachines.ai"
@@ -43844,7 +43878,7 @@
         {
           "start": "15:27",
           "end": "15:27",
-          "cat": "personal",
+          "cat": "research",
           "src": "macos",
           "title": "Inkling - Thinking Machines Lab",
           "note": "thinkingmachines.ai"
@@ -43852,7 +43886,7 @@
         {
           "start": "15:27",
           "end": "15:29",
-          "cat": "personal",
+          "cat": "research",
           "src": "macos",
           "title": "Inkling: Our open-weights model - Thinking Machines Lab",
           "note": "thinkingmachines.ai"
@@ -43987,26 +44021,18 @@
         },
         {
           "start": "16:05",
-          "end": "16:06",
-          "cat": "personal",
+          "end": "16:07",
+          "cat": "research",
           "src": "macos",
           "title": "Which MacBook to Buy (2026): My Honest Advice on Which to Bu",
           "note": "wired.com"
-        },
-        {
-          "start": "16:06",
-          "end": "16:07",
-          "cat": "research",
-          "src": "chrome",
-          "title": "ChatGPT Plans | Free, Go, Plus, Pro, Business, and Enterpris",
-          "note": "openai.com"
         },
         {
           "start": "16:08",
           "end": "16:08",
           "cat": "personal",
           "src": "macos",
-          "title": "(8) 主页 / X",
+          "title": "x.com/home",
           "note": "x.com"
         },
         {
@@ -44030,7 +44056,7 @@
           "end": "16:23",
           "cat": "admin",
           "src": "chrome",
-          "title": "WebEngage Email Unsubscribe",
+          "title": "WebEngage Email Unsubscribe Success",
           "note": "google.com"
         },
         {
@@ -45491,14 +45517,14 @@
         }
       ],
       "logged": 658,
-      "real": 468,
-      "deep": 468,
-      "ratio": 0.7109957851139745,
+      "real": 488,
+      "deep": 488,
+      "ratio": 0.7410772714574368,
       "stats": {
-        "contextSwitches": 67,
-        "tabsOpened": 114,
+        "contextSwitches": 66,
+        "tabsOpened": 111,
         "longestFocus": "2h 53m",
-        "justOneMoreThing": 7
+        "justOneMoreThing": 8
       }
     },
     {
@@ -45509,7 +45535,7 @@
       "dateShort": "Sat, Jul 18",
       "dateLong": "Saturday, July 18",
       "dayStart": "10:01",
-      "dayEnd": "10:25",
+      "dayEnd": "20:52",
       "events": [
         {
           "start": "10:01",
@@ -45520,23 +45546,31 @@
           "note": "1 hit"
         },
         {
-          "start": "10:20",
-          "end": "10:25",
+          "start": "20:05",
+          "end": "20:12",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Reformer Pilates | Sport and Aquatic Centre | Macquarie Uni",
+          "note": "sport.mq.edu.au"
+        },
+        {
+          "start": "20:28",
+          "end": "20:52",
           "cat": "coding",
-          "src": "local",
-          "title": "data.js",
-          "note": "1 hit"
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
         }
       ],
-      "logged": 10,
-      "real": 10,
-      "deep": 10,
-      "ratio": 1.0,
+      "logged": 35,
+      "real": 28,
+      "deep": 28,
+      "ratio": 0.7993421052631579,
       "stats": {
-        "contextSwitches": 1,
+        "contextSwitches": 2,
         "tabsOpened": 0,
-        "longestFocus": "10m",
-        "justOneMoreThing": 0
+        "longestFocus": "23m",
+        "justOneMoreThing": 1
       }
     },
     {
@@ -45546,17 +45580,26 @@
       "weekend": true,
       "dateShort": "Sun, Jul 19",
       "dateLong": "Sunday, July 19",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "10:44",
+      "dayEnd": "10:49",
+      "events": [
+        {
+          "start": "10:44",
+          "end": "10:49",
+          "cat": "coding",
+          "src": "local",
+          "title": "data.js",
+          "note": "1 hit"
+        }
+      ],
+      "logged": 5,
+      "real": 5,
+      "deep": 5,
+      "ratio": 1.0,
       "stats": {
         "contextSwitches": 0,
         "tabsOpened": 0,
-        "longestFocus": "0m",
+        "longestFocus": "5m",
         "justOneMoreThing": 0
       }
     },
@@ -45567,17 +45610,74 @@
       "weekend": false,
       "dateShort": "Mon, Jul 20",
       "dateLong": "Monday, July 20",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "09:41",
+      "dayEnd": "10:24",
+      "events": [
+        {
+          "start": "09:41",
+          "end": "09:43",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "09:43",
+          "end": "09:44",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Reformer Pilates | Sport and Aquatic Centre | Macquarie Uni",
+          "note": "sport.mq.edu.au"
+        },
+        {
+          "start": "09:47",
+          "end": "09:59",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Ideas2.pptx",
+          "note": "mqoutlook-my.sharepoint.com"
+        },
+        {
+          "start": "09:59",
+          "end": "10:04",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Ideas2.pptx",
+          "note": "mqoutlook-my.sharepoint.com"
+        },
+        {
+          "start": "10:04",
+          "end": "10:07",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Ideas2.pptx",
+          "note": "mqoutlook-my.sharepoint.com"
+        },
+        {
+          "start": "10:07",
+          "end": "10:12",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Credits | OpenRouter",
+          "note": "openrouter.com"
+        },
+        {
+          "start": "10:20",
+          "end": "10:24",
+          "cat": "writing",
+          "src": "local",
+          "title": "exception.txt",
+          "note": "1 hit"
+        }
+      ],
+      "logged": 34,
+      "real": 13,
+      "deep": 13,
+      "ratio": 0.373212267666039,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "0m",
+        "contextSwitches": 3,
+        "tabsOpened": 9,
+        "longestFocus": "10m",
         "justOneMoreThing": 0
       }
     },
