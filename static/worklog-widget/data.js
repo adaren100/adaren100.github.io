@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-07-20T17:50:46+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-07-21T10:20:05+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -33242,7 +33242,7 @@
         "dateShort": "Mon, Jul 20",
         "dateLong": "Monday, July 20",
         "dayStart": "09:41",
-        "dayEnd": "18:07",
+        "dayEnd": "21:15",
         "events": [
           {
             "start": "09:41",
@@ -34343,10 +34343,34 @@
           {
             "start": "16:08",
             "end": "16:10",
-            "cat": "writing",
-            "src": "local",
-            "title": "hermes.txt",
-            "note": "1 hit"
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "16:10",
+            "end": "16:10",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:10",
+            "end": "16:12",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:12",
+            "end": "16:17",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "xos",
+            "note": "us.zoom.xos"
           },
           {
             "start": "16:26",
@@ -34358,22 +34382,38 @@
           },
           {
             "start": "16:26",
-            "end": "16:30",
+            "end": "16:27",
             "cat": "writing",
             "src": "local",
             "title": "hermes.txt",
             "note": "2 hits"
           },
           {
-            "start": "16:31",
-            "end": "16:31",
-            "cat": "writing",
-            "src": "local",
-            "title": "hermes.txt",
-            "note": "1 hit"
+            "start": "16:27",
+            "end": "16:30",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "xos",
+            "note": "us.zoom.xos"
           },
           {
             "start": "16:31",
+            "end": "16:31",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "xos",
+            "note": "us.zoom.xos"
+          },
+          {
+            "start": "16:31",
+            "end": "16:32",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "xos",
+            "note": "us.zoom.xos"
+          },
+          {
+            "start": "16:32",
             "end": "16:34",
             "cat": "coding",
             "src": "local",
@@ -34390,7 +34430,7 @@
           },
           {
             "start": "16:35",
-            "end": "16:37",
+            "end": "16:36",
             "cat": "coding",
             "src": "local",
             "title": "result.json",
@@ -34399,26 +34439,26 @@
           {
             "start": "16:37",
             "end": "16:39",
-            "cat": "research",
-            "src": "chrome",
-            "title": "stanfordnlp/SHP · Datasets at Hugging Face",
-            "note": "huggingface.co"
+            "cat": "meeting",
+            "src": "macos",
+            "title": "xos",
+            "note": "us.zoom.xos"
           },
           {
             "start": "16:39",
             "end": "16:40",
-            "cat": "research",
-            "src": "chrome",
-            "title": "stanfordnlp/SHP · Datasets at Hugging Face",
-            "note": "huggingface.co"
+            "cat": "meeting",
+            "src": "macos",
+            "title": "xos",
+            "note": "us.zoom.xos"
           },
           {
             "start": "16:40",
-            "end": "16:44",
-            "cat": "research",
-            "src": "chrome",
-            "title": "stanfordnlp/SHP · Datasets at Hugging Face",
-            "note": "huggingface.co"
+            "end": "16:43",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "xos",
+            "note": "us.zoom.xos"
           },
           {
             "start": "16:44",
@@ -34477,60 +34517,108 @@
             "note": "2 hits"
           },
           {
+            "start": "16:58",
+            "end": "17:02",
+            "cat": "research",
+            "src": "macos",
+            "title": "stanfordnlp/SHP · Datasets at Hugging Face",
+            "note": "huggingface.co"
+          },
+          {
             "start": "17:02",
             "end": "17:05",
-            "cat": "writing",
-            "src": "local",
-            "title": "hermes.txt",
-            "note": "1 hit"
+            "cat": "research",
+            "src": "macos",
+            "title": "stanfordnlp/SHP · Datasets at Hugging Face",
+            "note": "huggingface.co"
           },
           {
             "start": "17:06",
             "end": "17:07",
-            "cat": "writing",
-            "src": "local",
-            "title": "hermes.txt",
-            "note": "1 hit"
+            "cat": "research",
+            "src": "macos",
+            "title": "stanfordnlp/SHP · Datasets at Hugging Face",
+            "note": "huggingface.co"
           },
           {
             "start": "17:07",
             "end": "17:10",
-            "cat": "coding",
-            "src": "local",
-            "title": "result.json",
-            "note": "6 hits"
+            "cat": "research",
+            "src": "macos",
+            "title": "stanfordnlp/SHP · Datasets at Hugging Face",
+            "note": "huggingface.co"
+          },
+          {
+            "start": "17:11",
+            "end": "17:17",
+            "cat": "research",
+            "src": "macos",
+            "title": "stanfordnlp/SHP · Datasets at Hugging Face",
+            "note": "huggingface.co"
+          },
+          {
+            "start": "17:17",
+            "end": "17:24",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "xos",
+            "note": "us.zoom.xos"
+          },
+          {
+            "start": "17:28",
+            "end": "17:33",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "xos",
+            "note": "us.zoom.xos"
           },
           {
             "start": "17:36",
-            "end": "17:41",
+            "end": "17:37",
             "cat": "writing",
             "src": "local",
             "title": "exception.txt",
             "note": "1 hit"
           },
           {
+            "start": "17:37",
+            "end": "17:41",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "xos",
+            "note": "us.zoom.xos"
+          },
+          {
             "start": "17:41",
+            "end": "17:42",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "xos",
+            "note": "us.zoom.xos"
+          },
+          {
+            "start": "17:42",
             "end": "17:45",
-            "cat": "coding",
-            "src": "local",
-            "title": "result.json",
-            "note": "7 hits"
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
           },
           {
             "start": "17:45",
             "end": "17:46",
             "cat": "admin",
-            "src": "chrome",
-            "title": "FSE Teaching Associate Induction - Who's in the Room?",
-            "note": "aus01.safelinks.protection.outlook.com"
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
           },
           {
             "start": "17:47",
             "end": "17:47",
             "cat": "admin",
-            "src": "chrome",
-            "title": "FSE Teaching Associate Induction - Who's in the Room?",
-            "note": "aus01.safelinks.protection.outlook.com"
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
           },
           {
             "start": "17:49",
@@ -34538,7 +34626,7 @@
             "cat": "admin",
             "src": "claude",
             "title": "PhD worklog review",
-            "note": "25 hits"
+            "note": "48 hits"
           },
           {
             "start": "17:50",
@@ -34546,7 +34634,7 @@
             "cat": "admin",
             "src": "claude",
             "title": "PhD worklog review",
-            "note": "25 hits"
+            "note": "48 hits"
           },
           {
             "start": "17:52",
@@ -34554,26 +34642,578 @@
             "cat": "admin",
             "src": "claude",
             "title": "PhD worklog review",
-            "note": "25 hits"
+            "note": "48 hits"
           },
           {
             "start": "17:53",
+            "end": "17:55",
+            "cat": "admin",
+            "src": "claude",
+            "title": "PhD worklog review",
+            "note": "48 hits"
+          },
+          {
+            "start": "17:55",
+            "end": "17:57",
+            "cat": "admin",
+            "src": "claude",
+            "title": "PhD worklog review",
+            "note": "48 hits"
+          },
+          {
+            "start": "17:57",
+            "end": "18:02",
+            "cat": "admin",
+            "src": "claude",
+            "title": "PhD worklog review",
+            "note": "48 hits"
+          },
+          {
+            "start": "18:02",
             "end": "18:07",
             "cat": "admin",
             "src": "chrome",
             "title": "FSE Teaching Associate Induction - Who's in the Room?",
             "note": "aus01.safelinks.protection.outlook.com"
+          },
+          {
+            "start": "18:07",
+            "end": "18:09",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Where the time actually went | Ada's Notes",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "18:09",
+            "end": "18:12",
+            "cat": "admin",
+            "src": "claude",
+            "title": "PhD worklog review",
+            "note": "5 hits"
+          },
+          {
+            "start": "18:16",
+            "end": "18:17",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "18:17",
+            "end": "18:18",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "18:19",
+            "end": "18:22",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "18:22",
+            "end": "18:22",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "18:22",
+            "end": "18:23",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "18:24",
+            "end": "18:26",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "18:27",
+            "end": "18:29",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "18:29",
+            "end": "18:34",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "18:34",
+            "end": "18:37",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "18:37",
+            "end": "18:38",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "18:38",
+            "end": "18:39",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Where the time actually went | Ada's Notes",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "18:39",
+            "end": "18:40",
+            "cat": "writing",
+            "src": "local",
+            "title": "README.md",
+            "note": "1 hit"
+          },
+          {
+            "start": "18:40",
+            "end": "18:41",
+            "cat": "coding",
+            "src": "local",
+            "title": "evolution_report.json",
+            "note": "1 hit"
+          },
+          {
+            "start": "18:41",
+            "end": "18:42",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "18:44",
+            "end": "18:49",
+            "cat": "admin",
+            "src": "claude",
+            "title": "PhD worklog review",
+            "note": "84 hits"
+          },
+          {
+            "start": "18:49",
+            "end": "18:53",
+            "cat": "admin",
+            "src": "claude",
+            "title": "PhD worklog review",
+            "note": "84 hits"
+          },
+          {
+            "start": "18:54",
+            "end": "18:55",
+            "cat": "admin",
+            "src": "claude",
+            "title": "PhD worklog review",
+            "note": "84 hits"
+          },
+          {
+            "start": "18:55",
+            "end": "19:04",
+            "cat": "admin",
+            "src": "claude",
+            "title": "PhD worklog review",
+            "note": "84 hits"
+          },
+          {
+            "start": "19:04",
+            "end": "19:06",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "19:06",
+            "end": "19:09",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "19:09",
+            "end": "19:09",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "19:09",
+            "end": "19:11",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "19:11",
+            "end": "19:12",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(20) X 上的 Thariq：“working more on a post about what we learn",
+            "note": "x.com"
+          },
+          {
+            "start": "19:12",
+            "end": "19:13",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "19:14",
+            "end": "19:14",
+            "cat": "writing",
+            "src": "chrome",
+            "title": "Microsoft Forms",
+            "note": "forms.office.com"
+          },
+          {
+            "start": "19:14",
+            "end": "19:18",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "19:18",
+            "end": "19:23",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "19:23",
+            "end": "19:25",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "19:25",
+            "end": "19:28",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "19:28",
+            "end": "19:31",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "19:31",
+            "end": "19:35",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "19:35",
+            "end": "19:36",
+            "cat": "research",
+            "src": "chrome",
+            "title": "AI Model & API Providers Analysis | Artificial Analysis",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "19:36",
+            "end": "19:38",
+            "cat": "research",
+            "src": "chrome",
+            "title": "AI Model & API Providers Analysis | Artificial Analysis",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "19:38",
+            "end": "19:43",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "19:43",
+            "end": "19:47",
+            "cat": "research",
+            "src": "macos",
+            "title": "AI Model & API Providers Analysis | Artificial Analysis",
+            "note": "artificialanalysis.ai"
+          },
+          {
+            "start": "19:47",
+            "end": "19:50",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "19:50",
+            "end": "19:53",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "19:53",
+            "end": "19:55",
+            "cat": "research",
+            "src": "macos",
+            "title": "Terminal-Bench",
+            "note": "tbench.ai"
+          },
+          {
+            "start": "19:55",
+            "end": "19:59",
+            "cat": "research",
+            "src": "macos",
+            "title": "Terminal-Bench",
+            "note": "tbench.ai"
+          },
+          {
+            "start": "19:59",
+            "end": "20:00",
+            "cat": "research",
+            "src": "macos",
+            "title": "Terminal-Bench",
+            "note": "tbench.ai"
+          },
+          {
+            "start": "20:00",
+            "end": "20:01",
+            "cat": "research",
+            "src": "macos",
+            "title": "Terminal-Bench",
+            "note": "tbench.ai"
+          },
+          {
+            "start": "20:01",
+            "end": "20:03",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "20:04",
+            "end": "20:04",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "20:05",
+            "end": "20:06",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "20:06",
+            "end": "20:08",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "20:09",
+            "end": "20:10",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "45 hits"
+          },
+          {
+            "start": "20:10",
+            "end": "20:11",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "45 hits"
+          },
+          {
+            "start": "20:11",
+            "end": "20:13",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "45 hits"
+          },
+          {
+            "start": "20:13",
+            "end": "20:15",
+            "cat": "research",
+            "src": "chrome",
+            "title": "AI Model & API Providers Analysis | Artificial Analysis",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "20:16",
+            "end": "20:19",
+            "cat": "research",
+            "src": "chrome",
+            "title": "AI Model & API Providers Analysis | Artificial Analysis",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "20:19",
+            "end": "20:21",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "20:21",
+            "end": "20:24",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "20:27",
+            "end": "20:32",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "20:35",
+            "end": "20:36",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "2 hits"
+          },
+          {
+            "start": "20:36",
+            "end": "20:41",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "2 hits"
+          },
+          {
+            "start": "20:42",
+            "end": "20:45",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "20:45",
+            "end": "20:47",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "20:47",
+            "end": "20:48",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "6 hits"
+          },
+          {
+            "start": "20:48",
+            "end": "20:50",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "6 hits"
+          },
+          {
+            "start": "20:50",
+            "end": "20:52",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "20:52",
+            "end": "20:53",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "6 hits"
+          },
+          {
+            "start": "20:53",
+            "end": "20:55",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "20:55",
+            "end": "20:57",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "21:00",
+            "end": "21:15",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
           }
         ],
-        "logged": 418,
-        "real": 343,
-        "deep": 343,
-        "ratio": 0.8201894622625977,
+        "logged": 606,
+        "real": 477,
+        "deep": 477,
+        "ratio": 0.7877492829158748,
         "stats": {
-          "contextSwitches": 64,
-          "tabsOpened": 111,
+          "contextSwitches": 99,
+          "tabsOpened": 120,
           "longestFocus": "3h 14m",
-          "justOneMoreThing": 4
+          "justOneMoreThing": 6
         }
       },
       {
@@ -34583,17 +35223,34 @@
         "weekend": false,
         "dateShort": "Tue, Jul 21",
         "dateLong": "Tuesday, July 21",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "10:01",
+        "dayEnd": "10:25",
+        "events": [
+          {
+            "start": "10:01",
+            "end": "10:05",
+            "cat": "writing",
+            "src": "local",
+            "title": "2026-07-20-safety-alignment-long-horizon-models.md",
+            "note": "2 hits"
+          },
+          {
+            "start": "10:05",
+            "end": "10:25",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "OpenRouter",
+            "note": "openrouter.com"
+          }
+        ],
+        "logged": 24,
+        "real": 24,
+        "deep": 24,
+        "ratio": 1.0,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "0m",
+          "contextSwitches": 1,
+          "tabsOpened": 3,
+          "longestFocus": "24m",
           "justOneMoreThing": 0
         }
       },
@@ -46875,7 +47532,7 @@
       "dateShort": "Mon, Jul 20",
       "dateLong": "Monday, July 20",
       "dayStart": "09:41",
-      "dayEnd": "18:07",
+      "dayEnd": "21:15",
       "events": [
         {
           "start": "09:41",
@@ -47976,10 +48633,34 @@
         {
           "start": "16:08",
           "end": "16:10",
-          "cat": "writing",
-          "src": "local",
-          "title": "hermes.txt",
-          "note": "1 hit"
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "16:10",
+          "end": "16:10",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:10",
+          "end": "16:12",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:12",
+          "end": "16:17",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "xos",
+          "note": "us.zoom.xos"
         },
         {
           "start": "16:26",
@@ -47991,22 +48672,38 @@
         },
         {
           "start": "16:26",
-          "end": "16:30",
+          "end": "16:27",
           "cat": "writing",
           "src": "local",
           "title": "hermes.txt",
           "note": "2 hits"
         },
         {
-          "start": "16:31",
-          "end": "16:31",
-          "cat": "writing",
-          "src": "local",
-          "title": "hermes.txt",
-          "note": "1 hit"
+          "start": "16:27",
+          "end": "16:30",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "xos",
+          "note": "us.zoom.xos"
         },
         {
           "start": "16:31",
+          "end": "16:31",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "xos",
+          "note": "us.zoom.xos"
+        },
+        {
+          "start": "16:31",
+          "end": "16:32",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "xos",
+          "note": "us.zoom.xos"
+        },
+        {
+          "start": "16:32",
           "end": "16:34",
           "cat": "coding",
           "src": "local",
@@ -48023,7 +48720,7 @@
         },
         {
           "start": "16:35",
-          "end": "16:37",
+          "end": "16:36",
           "cat": "coding",
           "src": "local",
           "title": "result.json",
@@ -48032,26 +48729,26 @@
         {
           "start": "16:37",
           "end": "16:39",
-          "cat": "research",
-          "src": "chrome",
-          "title": "stanfordnlp/SHP · Datasets at Hugging Face",
-          "note": "huggingface.co"
+          "cat": "meeting",
+          "src": "macos",
+          "title": "xos",
+          "note": "us.zoom.xos"
         },
         {
           "start": "16:39",
           "end": "16:40",
-          "cat": "research",
-          "src": "chrome",
-          "title": "stanfordnlp/SHP · Datasets at Hugging Face",
-          "note": "huggingface.co"
+          "cat": "meeting",
+          "src": "macos",
+          "title": "xos",
+          "note": "us.zoom.xos"
         },
         {
           "start": "16:40",
-          "end": "16:44",
-          "cat": "research",
-          "src": "chrome",
-          "title": "stanfordnlp/SHP · Datasets at Hugging Face",
-          "note": "huggingface.co"
+          "end": "16:43",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "xos",
+          "note": "us.zoom.xos"
         },
         {
           "start": "16:44",
@@ -48110,60 +48807,108 @@
           "note": "2 hits"
         },
         {
+          "start": "16:58",
+          "end": "17:02",
+          "cat": "research",
+          "src": "macos",
+          "title": "stanfordnlp/SHP · Datasets at Hugging Face",
+          "note": "huggingface.co"
+        },
+        {
           "start": "17:02",
           "end": "17:05",
-          "cat": "writing",
-          "src": "local",
-          "title": "hermes.txt",
-          "note": "1 hit"
+          "cat": "research",
+          "src": "macos",
+          "title": "stanfordnlp/SHP · Datasets at Hugging Face",
+          "note": "huggingface.co"
         },
         {
           "start": "17:06",
           "end": "17:07",
-          "cat": "writing",
-          "src": "local",
-          "title": "hermes.txt",
-          "note": "1 hit"
+          "cat": "research",
+          "src": "macos",
+          "title": "stanfordnlp/SHP · Datasets at Hugging Face",
+          "note": "huggingface.co"
         },
         {
           "start": "17:07",
           "end": "17:10",
-          "cat": "coding",
-          "src": "local",
-          "title": "result.json",
-          "note": "6 hits"
+          "cat": "research",
+          "src": "macos",
+          "title": "stanfordnlp/SHP · Datasets at Hugging Face",
+          "note": "huggingface.co"
+        },
+        {
+          "start": "17:11",
+          "end": "17:17",
+          "cat": "research",
+          "src": "macos",
+          "title": "stanfordnlp/SHP · Datasets at Hugging Face",
+          "note": "huggingface.co"
+        },
+        {
+          "start": "17:17",
+          "end": "17:24",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "xos",
+          "note": "us.zoom.xos"
+        },
+        {
+          "start": "17:28",
+          "end": "17:33",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "xos",
+          "note": "us.zoom.xos"
         },
         {
           "start": "17:36",
-          "end": "17:41",
+          "end": "17:37",
           "cat": "writing",
           "src": "local",
           "title": "exception.txt",
           "note": "1 hit"
         },
         {
+          "start": "17:37",
+          "end": "17:41",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "xos",
+          "note": "us.zoom.xos"
+        },
+        {
           "start": "17:41",
+          "end": "17:42",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "xos",
+          "note": "us.zoom.xos"
+        },
+        {
+          "start": "17:42",
           "end": "17:45",
-          "cat": "coding",
-          "src": "local",
-          "title": "result.json",
-          "note": "7 hits"
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
         },
         {
           "start": "17:45",
           "end": "17:46",
           "cat": "admin",
-          "src": "chrome",
-          "title": "FSE Teaching Associate Induction - Who's in the Room?",
-          "note": "aus01.safelinks.protection.outlook.com"
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
         },
         {
           "start": "17:47",
           "end": "17:47",
           "cat": "admin",
-          "src": "chrome",
-          "title": "FSE Teaching Associate Induction - Who's in the Room?",
-          "note": "aus01.safelinks.protection.outlook.com"
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
         },
         {
           "start": "17:49",
@@ -48171,7 +48916,7 @@
           "cat": "admin",
           "src": "claude",
           "title": "PhD worklog review",
-          "note": "25 hits"
+          "note": "48 hits"
         },
         {
           "start": "17:50",
@@ -48179,7 +48924,7 @@
           "cat": "admin",
           "src": "claude",
           "title": "PhD worklog review",
-          "note": "25 hits"
+          "note": "48 hits"
         },
         {
           "start": "17:52",
@@ -48187,26 +48932,578 @@
           "cat": "admin",
           "src": "claude",
           "title": "PhD worklog review",
-          "note": "25 hits"
+          "note": "48 hits"
         },
         {
           "start": "17:53",
+          "end": "17:55",
+          "cat": "admin",
+          "src": "claude",
+          "title": "PhD worklog review",
+          "note": "48 hits"
+        },
+        {
+          "start": "17:55",
+          "end": "17:57",
+          "cat": "admin",
+          "src": "claude",
+          "title": "PhD worklog review",
+          "note": "48 hits"
+        },
+        {
+          "start": "17:57",
+          "end": "18:02",
+          "cat": "admin",
+          "src": "claude",
+          "title": "PhD worklog review",
+          "note": "48 hits"
+        },
+        {
+          "start": "18:02",
           "end": "18:07",
           "cat": "admin",
           "src": "chrome",
           "title": "FSE Teaching Associate Induction - Who's in the Room?",
           "note": "aus01.safelinks.protection.outlook.com"
+        },
+        {
+          "start": "18:07",
+          "end": "18:09",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Where the time actually went | Ada's Notes",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "18:09",
+          "end": "18:12",
+          "cat": "admin",
+          "src": "claude",
+          "title": "PhD worklog review",
+          "note": "5 hits"
+        },
+        {
+          "start": "18:16",
+          "end": "18:17",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "18:17",
+          "end": "18:18",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "18:19",
+          "end": "18:22",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "18:22",
+          "end": "18:22",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "18:22",
+          "end": "18:23",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "18:24",
+          "end": "18:26",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "18:27",
+          "end": "18:29",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "18:29",
+          "end": "18:34",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "18:34",
+          "end": "18:37",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "18:37",
+          "end": "18:38",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "18:38",
+          "end": "18:39",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Where the time actually went | Ada's Notes",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "18:39",
+          "end": "18:40",
+          "cat": "writing",
+          "src": "local",
+          "title": "README.md",
+          "note": "1 hit"
+        },
+        {
+          "start": "18:40",
+          "end": "18:41",
+          "cat": "coding",
+          "src": "local",
+          "title": "evolution_report.json",
+          "note": "1 hit"
+        },
+        {
+          "start": "18:41",
+          "end": "18:42",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "18:44",
+          "end": "18:49",
+          "cat": "admin",
+          "src": "claude",
+          "title": "PhD worklog review",
+          "note": "84 hits"
+        },
+        {
+          "start": "18:49",
+          "end": "18:53",
+          "cat": "admin",
+          "src": "claude",
+          "title": "PhD worklog review",
+          "note": "84 hits"
+        },
+        {
+          "start": "18:54",
+          "end": "18:55",
+          "cat": "admin",
+          "src": "claude",
+          "title": "PhD worklog review",
+          "note": "84 hits"
+        },
+        {
+          "start": "18:55",
+          "end": "19:04",
+          "cat": "admin",
+          "src": "claude",
+          "title": "PhD worklog review",
+          "note": "84 hits"
+        },
+        {
+          "start": "19:04",
+          "end": "19:06",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "19:06",
+          "end": "19:09",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "19:09",
+          "end": "19:09",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "19:09",
+          "end": "19:11",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "19:11",
+          "end": "19:12",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(20) X 上的 Thariq：“working more on a post about what we learn",
+          "note": "x.com"
+        },
+        {
+          "start": "19:12",
+          "end": "19:13",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "19:14",
+          "end": "19:14",
+          "cat": "writing",
+          "src": "chrome",
+          "title": "Microsoft Forms",
+          "note": "forms.office.com"
+        },
+        {
+          "start": "19:14",
+          "end": "19:18",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "19:18",
+          "end": "19:23",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "19:23",
+          "end": "19:25",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "19:25",
+          "end": "19:28",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "19:28",
+          "end": "19:31",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "19:31",
+          "end": "19:35",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "19:35",
+          "end": "19:36",
+          "cat": "research",
+          "src": "chrome",
+          "title": "AI Model & API Providers Analysis | Artificial Analysis",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "19:36",
+          "end": "19:38",
+          "cat": "research",
+          "src": "chrome",
+          "title": "AI Model & API Providers Analysis | Artificial Analysis",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "19:38",
+          "end": "19:43",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "19:43",
+          "end": "19:47",
+          "cat": "research",
+          "src": "macos",
+          "title": "AI Model & API Providers Analysis | Artificial Analysis",
+          "note": "artificialanalysis.ai"
+        },
+        {
+          "start": "19:47",
+          "end": "19:50",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "19:50",
+          "end": "19:53",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "19:53",
+          "end": "19:55",
+          "cat": "research",
+          "src": "macos",
+          "title": "Terminal-Bench",
+          "note": "tbench.ai"
+        },
+        {
+          "start": "19:55",
+          "end": "19:59",
+          "cat": "research",
+          "src": "macos",
+          "title": "Terminal-Bench",
+          "note": "tbench.ai"
+        },
+        {
+          "start": "19:59",
+          "end": "20:00",
+          "cat": "research",
+          "src": "macos",
+          "title": "Terminal-Bench",
+          "note": "tbench.ai"
+        },
+        {
+          "start": "20:00",
+          "end": "20:01",
+          "cat": "research",
+          "src": "macos",
+          "title": "Terminal-Bench",
+          "note": "tbench.ai"
+        },
+        {
+          "start": "20:01",
+          "end": "20:03",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "20:04",
+          "end": "20:04",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "20:05",
+          "end": "20:06",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "20:06",
+          "end": "20:08",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "20:09",
+          "end": "20:10",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "45 hits"
+        },
+        {
+          "start": "20:10",
+          "end": "20:11",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "45 hits"
+        },
+        {
+          "start": "20:11",
+          "end": "20:13",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "45 hits"
+        },
+        {
+          "start": "20:13",
+          "end": "20:15",
+          "cat": "research",
+          "src": "chrome",
+          "title": "AI Model & API Providers Analysis | Artificial Analysis",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "20:16",
+          "end": "20:19",
+          "cat": "research",
+          "src": "chrome",
+          "title": "AI Model & API Providers Analysis | Artificial Analysis",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "20:19",
+          "end": "20:21",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "20:21",
+          "end": "20:24",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "20:27",
+          "end": "20:32",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "20:35",
+          "end": "20:36",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "2 hits"
+        },
+        {
+          "start": "20:36",
+          "end": "20:41",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "2 hits"
+        },
+        {
+          "start": "20:42",
+          "end": "20:45",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "20:45",
+          "end": "20:47",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "20:47",
+          "end": "20:48",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "6 hits"
+        },
+        {
+          "start": "20:48",
+          "end": "20:50",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "6 hits"
+        },
+        {
+          "start": "20:50",
+          "end": "20:52",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "20:52",
+          "end": "20:53",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "6 hits"
+        },
+        {
+          "start": "20:53",
+          "end": "20:55",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "20:55",
+          "end": "20:57",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "21:00",
+          "end": "21:15",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
         }
       ],
-      "logged": 418,
-      "real": 343,
-      "deep": 343,
-      "ratio": 0.8201894622625977,
+      "logged": 606,
+      "real": 477,
+      "deep": 477,
+      "ratio": 0.7877492829158748,
       "stats": {
-        "contextSwitches": 64,
-        "tabsOpened": 111,
+        "contextSwitches": 99,
+        "tabsOpened": 120,
         "longestFocus": "3h 14m",
-        "justOneMoreThing": 4
+        "justOneMoreThing": 6
       }
     },
     {
@@ -48216,17 +49513,34 @@
       "weekend": false,
       "dateShort": "Tue, Jul 21",
       "dateLong": "Tuesday, July 21",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "10:01",
+      "dayEnd": "10:25",
+      "events": [
+        {
+          "start": "10:01",
+          "end": "10:05",
+          "cat": "writing",
+          "src": "local",
+          "title": "2026-07-20-safety-alignment-long-horizon-models.md",
+          "note": "2 hits"
+        },
+        {
+          "start": "10:05",
+          "end": "10:25",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "OpenRouter",
+          "note": "openrouter.com"
+        }
+      ],
+      "logged": 24,
+      "real": 24,
+      "deep": 24,
+      "ratio": 1.0,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "0m",
+        "contextSwitches": 1,
+        "tabsOpened": 3,
+        "longestFocus": "24m",
         "justOneMoreThing": 0
       }
     },
