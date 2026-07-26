@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-07-25T10:20:10+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-07-26T10:20:05+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -39299,1082 +39299,1082 @@
         "weekend": false
       },
       {
-        "key": "2026-7-24",
-        "dayNum": 24,
-        "dow": 5,
-        "weekend": false,
-        "dateShort": "Fri, Jul 24",
         "dateLong": "Friday, July 24",
-        "dayStart": "08:55",
+        "dateShort": "Fri, Jul 24",
         "dayEnd": "18:14",
+        "dayNum": 24,
+        "dayStart": "08:55",
+        "deep": 331,
+        "dow": 5,
         "events": [
           {
-            "start": "08:55",
+            "cat": "coding",
             "end": "08:56",
-            "cat": "coding",
+            "note": "31 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "31 hits"
+            "start": "08:55",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "08:56",
+            "cat": "coding",
             "end": "08:57",
-            "cat": "coding",
+            "note": "31 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "31 hits"
+            "start": "08:56",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "08:57",
+            "cat": "coding",
             "end": "08:59",
-            "cat": "coding",
+            "note": "31 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "31 hits"
+            "start": "08:57",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "09:00",
+            "cat": "coding",
             "end": "09:01",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "09:00",
+            "title": "VSCode"
           },
           {
-            "start": "09:02",
+            "cat": "admin",
             "end": "09:03",
-            "cat": "admin",
+            "note": "accounts.google.com",
             "src": "chrome",
-            "title": "Sign in - Google Accounts",
-            "note": "accounts.google.com"
+            "start": "09:02",
+            "title": "Sign in - Google Accounts"
           },
           {
-            "start": "09:03",
+            "cat": "admin",
             "end": "09:04",
-            "cat": "admin",
+            "note": "accounts.google.com",
             "src": "chrome",
-            "title": "Sign in - Google Accounts",
-            "note": "accounts.google.com"
+            "start": "09:03",
+            "title": "Sign in - Google Accounts"
           },
           {
-            "start": "09:05",
+            "cat": "admin",
             "end": "09:06",
-            "cat": "admin",
+            "note": "accounts.google.com",
             "src": "chrome",
-            "title": "Sign in - Google Accounts",
-            "note": "accounts.google.com"
+            "start": "09:05",
+            "title": "Sign in - Google Accounts"
           },
           {
-            "start": "09:06",
+            "cat": "admin",
             "end": "09:07",
-            "cat": "admin",
+            "note": "accounts.google.com",
             "src": "chrome",
-            "title": "Sign in - Google Accounts",
-            "note": "accounts.google.com"
+            "start": "09:06",
+            "title": "Sign in - Google Accounts"
           },
           {
-            "start": "09:09",
+            "cat": "admin",
             "end": "09:09",
-            "cat": "admin",
+            "note": "accounts.google.com",
             "src": "chrome",
-            "title": "Sign in - Google Accounts",
-            "note": "accounts.google.com"
-          },
-          {
             "start": "09:09",
+            "title": "Sign in - Google Accounts"
+          },
+          {
+            "cat": "admin",
             "end": "09:11",
-            "cat": "admin",
+            "note": "accounts.google.com",
             "src": "chrome",
-            "title": "Sign in - Google Accounts",
-            "note": "accounts.google.com"
+            "start": "09:09",
+            "title": "Sign in - Google Accounts"
           },
           {
-            "start": "09:11",
+            "cat": "coding",
             "end": "09:12",
-            "cat": "coding",
+            "note": "9 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "9 hits"
+            "start": "09:11",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "09:12",
+            "cat": "coding",
             "end": "09:13",
-            "cat": "coding",
+            "note": "9 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "9 hits"
+            "start": "09:12",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "09:14",
+            "cat": "coding",
             "end": "09:15",
-            "cat": "coding",
+            "note": "6 hits",
             "src": "local",
-            "title": "reward.json",
-            "note": "6 hits"
+            "start": "09:14",
+            "title": "reward.json"
           },
           {
-            "start": "09:15",
+            "cat": "writing",
             "end": "09:16",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "hermes.txt",
-            "note": "1 hit"
+            "start": "09:15",
+            "title": "hermes.txt"
           },
           {
-            "start": "09:16",
+            "cat": "coding",
             "end": "09:18",
-            "cat": "coding",
+            "note": "7 hits",
             "src": "local",
-            "title": "reward.json",
-            "note": "7 hits"
+            "start": "09:16",
+            "title": "reward.json"
           },
           {
-            "start": "09:19",
+            "cat": "coding",
             "end": "09:20",
-            "cat": "coding",
+            "note": "6 hits",
             "src": "local",
-            "title": "reward.json",
-            "note": "6 hits"
+            "start": "09:19",
+            "title": "reward.json"
           },
           {
-            "start": "09:21",
+            "cat": "coding",
             "end": "09:23",
-            "cat": "coding",
+            "note": "6 hits",
             "src": "local",
-            "title": "reward.json",
-            "note": "6 hits"
+            "start": "09:21",
+            "title": "reward.json"
           },
           {
-            "start": "09:23",
+            "cat": "coding",
             "end": "09:24",
-            "cat": "coding",
+            "note": "6 hits",
             "src": "local",
-            "title": "reward.json",
-            "note": "6 hits"
+            "start": "09:23",
+            "title": "reward.json"
           },
           {
-            "start": "09:24",
+            "cat": "coding",
             "end": "09:25",
-            "cat": "coding",
+            "note": "6 hits",
             "src": "local",
-            "title": "reward.json",
-            "note": "6 hits"
+            "start": "09:24",
+            "title": "reward.json"
           },
           {
-            "start": "09:25",
+            "cat": "coding",
             "end": "09:26",
-            "cat": "coding",
+            "note": "6 hits",
             "src": "local",
-            "title": "reward.json",
-            "note": "6 hits"
+            "start": "09:25",
+            "title": "reward.json"
           },
           {
-            "start": "09:26",
+            "cat": "coding",
             "end": "09:27",
-            "cat": "coding",
+            "note": "6 hits",
             "src": "local",
-            "title": "reward.json",
-            "note": "6 hits"
+            "start": "09:26",
+            "title": "reward.json"
           },
           {
-            "start": "09:28",
+            "cat": "coding",
             "end": "09:29",
-            "cat": "coding",
+            "note": "5 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "5 hits"
+            "start": "09:28",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "09:32",
+            "cat": "coding",
             "end": "09:34",
-            "cat": "coding",
+            "note": "8 hits",
             "src": "local",
-            "title": "reward.json",
-            "note": "8 hits"
+            "start": "09:32",
+            "title": "reward.json"
           },
           {
-            "start": "09:34",
+            "cat": "coding",
             "end": "09:35",
-            "cat": "coding",
+            "note": "7 hits",
             "src": "local",
-            "title": "reward.json",
-            "note": "7 hits"
+            "start": "09:34",
+            "title": "reward.json"
           },
           {
-            "start": "09:35",
+            "cat": "coding",
             "end": "09:36",
-            "cat": "coding",
+            "note": "7 hits",
             "src": "local",
-            "title": "reward.json",
-            "note": "7 hits"
+            "start": "09:35",
+            "title": "reward.json"
           },
           {
+            "cat": "coding",
+            "end": "09:38",
+            "note": "6 hits",
+            "src": "local",
             "start": "09:37",
-            "end": "09:38",
-            "cat": "coding",
-            "src": "local",
-            "title": "reward.json",
-            "note": "6 hits"
+            "title": "reward.json"
           },
           {
+            "cat": "writing",
+            "end": "09:38",
+            "note": "1 hit",
+            "src": "local",
             "start": "09:38",
-            "end": "09:38",
-            "cat": "writing",
-            "src": "local",
-            "title": "hermes.txt",
-            "note": "1 hit"
+            "title": "hermes.txt"
           },
           {
-            "start": "09:39",
+            "cat": "coding",
             "end": "09:40",
-            "cat": "coding",
+            "note": "6 hits",
             "src": "local",
-            "title": "reward.json",
-            "note": "6 hits"
+            "start": "09:39",
+            "title": "reward.json"
           },
           {
+            "cat": "coding",
+            "end": "09:43",
+            "note": "6 hits",
+            "src": "claude",
             "start": "09:41",
-            "end": "09:43",
-            "cat": "coding",
-            "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "6 hits"
+            "title": "Claude session · harbor"
           },
           {
+            "cat": "coding",
+            "end": "09:43",
+            "note": "6 hits",
+            "src": "claude",
             "start": "09:43",
-            "end": "09:43",
-            "cat": "coding",
-            "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "6 hits"
+            "title": "Claude session · harbor"
           },
           {
-            "start": "09:44",
+            "cat": "coding",
             "end": "09:45",
-            "cat": "coding",
+            "note": "6 hits",
             "src": "local",
-            "title": "reward.json",
-            "note": "6 hits"
+            "start": "09:44",
+            "title": "reward.json"
           },
           {
-            "start": "09:45",
+            "cat": "coding",
             "end": "09:48",
-            "cat": "coding",
+            "note": "7 hits",
             "src": "local",
-            "title": "reward.json",
-            "note": "7 hits"
+            "start": "09:45",
+            "title": "reward.json"
           },
           {
-            "start": "09:48",
+            "cat": "writing",
             "end": "09:49",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "hermes.txt",
-            "note": "1 hit"
+            "start": "09:48",
+            "title": "hermes.txt"
           },
           {
-            "start": "09:49",
+            "cat": "coding",
             "end": "09:50",
-            "cat": "coding",
+            "note": "6 hits",
             "src": "local",
-            "title": "reward.json",
-            "note": "6 hits"
+            "start": "09:49",
+            "title": "reward.json"
           },
           {
-            "start": "10:03",
+            "cat": "coding",
             "end": "10:10",
-            "cat": "coding",
+            "note": "34 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "34 hits"
+            "start": "10:03",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "10:10",
+            "cat": "coding",
             "end": "10:11",
-            "cat": "coding",
+            "note": "34 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "34 hits"
+            "start": "10:10",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "10:11",
+            "cat": "coding",
             "end": "10:12",
-            "cat": "coding",
+            "note": "34 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "34 hits"
+            "start": "10:11",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "10:13",
+            "cat": "coding",
             "end": "10:13",
-            "cat": "coding",
+            "note": "github.com",
             "src": "macos",
-            "title": "petergyang/no-ai-slop: Removes 20+ patterns of AI slop from ",
-            "note": "github.com"
+            "start": "10:13",
+            "title": "petergyang/no-ai-slop: Removes 20+ patterns of AI slop from "
           },
           {
-            "start": "10:14",
+            "cat": "writing",
             "end": "10:14",
-            "cat": "writing",
+            "note": "overleaf.com",
             "src": "chrome",
-            "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea",
-            "note": "overleaf.com"
+            "start": "10:14",
+            "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea"
           },
           {
-            "start": "10:15",
+            "cat": "writing",
             "end": "10:16",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "ORANA RESIDENT FORM 2026 - Google Docs",
-            "note": "docs.google.com"
+            "start": "10:15",
+            "title": "ORANA RESIDENT FORM 2026 - Google Docs"
           },
           {
-            "start": "10:19",
+            "cat": "coding",
             "end": "10:19",
-            "cat": "coding",
+            "note": "10 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "10 hits"
+            "start": "10:19",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "10:21",
+            "cat": "coding",
             "end": "10:22",
-            "cat": "coding",
+            "note": "github.com",
             "src": "macos",
-            "title": "petergyang/no-ai-slop: Removes 20+ patterns of AI slop from ",
-            "note": "github.com"
+            "start": "10:21",
+            "title": "petergyang/no-ai-slop: Removes 20+ patterns of AI slop from "
           },
           {
-            "start": "10:22",
+            "cat": "writing",
             "end": "10:23",
-            "cat": "writing",
+            "note": "overleaf.com",
             "src": "chrome",
-            "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea",
-            "note": "overleaf.com"
+            "start": "10:22",
+            "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea"
           },
           {
-            "start": "10:24",
+            "cat": "coding",
             "end": "10:25",
-            "cat": "coding",
+            "note": "github.com",
             "src": "macos",
-            "title": "no-ai-slop/SKILL.md at main · petergyang/no-ai-slop",
-            "note": "github.com"
+            "start": "10:24",
+            "title": "no-ai-slop/SKILL.md at main · petergyang/no-ai-slop"
           },
           {
-            "start": "10:25",
+            "cat": "writing",
             "end": "10:26",
-            "cat": "writing",
+            "note": "overleaf.com",
             "src": "chrome",
-            "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea",
-            "note": "overleaf.com"
+            "start": "10:25",
+            "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea"
           },
           {
-            "start": "10:26",
+            "cat": "coding",
             "end": "10:27",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "10:26",
+            "title": "codex"
           },
           {
-            "start": "10:27",
+            "cat": "meeting",
             "end": "10:29",
-            "cat": "meeting",
+            "note": "com.microsoft.teams2",
             "src": "macos",
-            "title": "teams2",
-            "note": "com.microsoft.teams2"
+            "start": "10:27",
+            "title": "teams2"
           },
           {
-            "start": "10:30",
+            "cat": "coding",
             "end": "10:31",
-            "cat": "coding",
+            "note": "apps.powerapps.com",
             "src": "macos",
-            "title": "FSE Teaching Associate EOI - Power Apps",
-            "note": "apps.powerapps.com"
+            "start": "10:30",
+            "title": "FSE Teaching Associate EOI - Power Apps"
           },
           {
-            "start": "10:31",
+            "cat": "coding",
             "end": "10:32",
-            "cat": "coding",
+            "note": "apps.powerapps.com",
             "src": "macos",
-            "title": "FSE Teaching Associate EOI - Power Apps",
-            "note": "apps.powerapps.com"
+            "start": "10:31",
+            "title": "FSE Teaching Associate EOI - Power Apps"
           },
           {
-            "start": "10:34",
+            "cat": "coding",
             "end": "10:34",
-            "cat": "coding",
+            "note": "23 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "23 hits"
+            "start": "10:34",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "10:35",
+            "cat": "coding",
             "end": "10:36",
-            "cat": "coding",
+            "note": "23 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "23 hits"
+            "start": "10:35",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "10:38",
+            "cat": "coding",
             "end": "10:38",
-            "cat": "coding",
+            "note": "23 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "23 hits"
+            "start": "10:38",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "10:39",
+            "cat": "coding",
             "end": "10:40",
-            "cat": "coding",
+            "note": "23 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "23 hits"
+            "start": "10:39",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "10:43",
+            "cat": "coding",
             "end": "10:43",
-            "cat": "coding",
+            "note": "apps.powerapps.com",
             "src": "chrome",
-            "title": "petergyang/no-ai-slop: Removes 20+ patterns of AI slop from ",
-            "note": "apps.powerapps.com"
-          },
-          {
             "start": "10:43",
+            "title": "petergyang/no-ai-slop: Removes 20+ patterns of AI slop from "
+          },
+          {
+            "cat": "coding",
             "end": "10:44",
-            "cat": "coding",
+            "note": "apps.powerapps.com",
             "src": "chrome",
-            "title": "petergyang/no-ai-slop: Removes 20+ patterns of AI slop from ",
-            "note": "apps.powerapps.com"
+            "start": "10:43",
+            "title": "petergyang/no-ai-slop: Removes 20+ patterns of AI slop from "
           },
           {
-            "start": "10:44",
+            "cat": "coding",
             "end": "10:45",
-            "cat": "coding",
+            "note": "claude.ai",
             "src": "macos",
-            "title": "New chat - Claude",
-            "note": "claude.ai"
+            "start": "10:44",
+            "title": "New chat - Claude"
           },
           {
-            "start": "10:49",
+            "cat": "coding",
             "end": "10:49",
-            "cat": "coding",
+            "note": "6 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "6 hits"
+            "start": "10:49",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "10:52",
+            "cat": "coding",
             "end": "10:52",
-            "cat": "coding",
+            "note": "claude.ai",
             "src": "macos",
-            "title": "New chat - Claude",
-            "note": "claude.ai"
+            "start": "10:52",
+            "title": "New chat - Claude"
           },
           {
-            "start": "10:56",
+            "cat": "coding",
             "end": "10:56",
-            "cat": "coding",
+            "note": "claude.ai",
             "src": "macos",
-            "title": "New chat - Claude",
-            "note": "claude.ai"
+            "start": "10:56",
+            "title": "New chat - Claude"
           },
           {
-            "start": "10:57",
+            "cat": "coding",
             "end": "10:57",
-            "cat": "coding",
+            "note": "5 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "5 hits"
+            "start": "10:57",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "11:02",
+            "cat": "meeting",
             "end": "11:02",
-            "cat": "meeting",
+            "note": "com.microsoft.teams2",
             "src": "macos",
-            "title": "teams2",
-            "note": "com.microsoft.teams2"
+            "start": "11:02",
+            "title": "teams2"
           },
           {
-            "start": "11:03",
+            "cat": "meeting",
             "end": "11:04",
-            "cat": "meeting",
+            "note": "com.microsoft.teams2",
             "src": "macos",
-            "title": "teams2",
-            "note": "com.microsoft.teams2"
+            "start": "11:03",
+            "title": "teams2"
           },
           {
-            "start": "11:05",
+            "cat": "coding",
             "end": "11:06",
-            "cat": "coding",
+            "note": "apps.powerapps.com",
             "src": "chrome",
-            "title": "petergyang/no-ai-slop: Removes 20+ patterns of AI slop from ",
-            "note": "apps.powerapps.com"
+            "start": "11:05",
+            "title": "petergyang/no-ai-slop: Removes 20+ patterns of AI slop from "
           },
           {
-            "start": "11:08",
+            "cat": "coding",
             "end": "11:08",
-            "cat": "coding",
+            "note": "37 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "37 hits"
-          },
-          {
             "start": "11:08",
+            "title": "Claude session · harbor"
+          },
+          {
+            "cat": "coding",
             "end": "11:09",
-            "cat": "coding",
+            "note": "37 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "37 hits"
+            "start": "11:08",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "11:10",
+            "cat": "coding",
             "end": "11:10",
-            "cat": "coding",
+            "note": "37 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "37 hits"
+            "start": "11:10",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "11:12",
+            "cat": "meeting",
             "end": "11:16",
-            "cat": "meeting",
+            "note": "us.zoom.xos",
             "src": "macos",
-            "title": "xos",
-            "note": "us.zoom.xos"
+            "start": "11:12",
+            "title": "xos"
           },
           {
-            "start": "11:22",
+            "cat": "meeting",
             "end": "11:47",
-            "cat": "meeting",
+            "note": "us.zoom.xos",
             "src": "macos",
-            "title": "xos",
-            "note": "us.zoom.xos"
+            "start": "11:22",
+            "title": "xos"
           },
           {
-            "start": "11:48",
+            "cat": "admin",
             "end": "11:56",
-            "cat": "admin",
+            "note": "mq.service-now.com",
             "src": "chrome",
-            "title": "Generic Email Account | OneHelp",
-            "note": "mq.service-now.com"
+            "start": "11:48",
+            "title": "Generic Email Account | OneHelp"
           },
           {
-            "start": "11:56",
+            "cat": "coding",
             "end": "11:59",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "11:56",
+            "title": "codex"
           },
           {
-            "start": "11:59",
+            "cat": "admin",
             "end": "12:02",
-            "cat": "admin",
+            "note": "mq.service-now.com",
             "src": "macos",
-            "title": "Faculty/Offices | OneHelp",
-            "note": "mq.service-now.com"
+            "start": "11:59",
+            "title": "Faculty/Offices | OneHelp"
           },
           {
-            "start": "12:02",
+            "cat": "coding",
             "end": "12:06",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "12:02",
+            "title": "codex"
           },
           {
-            "start": "12:06",
+            "cat": "admin",
             "end": "12:15",
-            "cat": "admin",
+            "note": "mq.service-now.com",
             "src": "chrome",
-            "title": "Generic Email Account | OneHelp",
-            "note": "mq.service-now.com"
+            "start": "12:06",
+            "title": "Generic Email Account | OneHelp"
           },
           {
-            "start": "12:15",
+            "cat": "coding",
             "end": "12:21",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "12:15",
+            "title": "codex"
           },
           {
-            "start": "12:21",
+            "cat": "admin",
             "end": "12:33",
-            "cat": "admin",
+            "note": "mq.service-now.com",
             "src": "chrome",
-            "title": "Generic Email Account | OneHelp",
-            "note": "mq.service-now.com"
+            "start": "12:21",
+            "title": "Generic Email Account | OneHelp"
           },
           {
-            "start": "13:08",
+            "cat": "coding",
             "end": "13:26",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "13:08",
+            "title": "VSCode"
           },
           {
-            "start": "13:27",
+            "cat": "coding",
             "end": "13:29",
-            "cat": "coding",
+            "note": "57 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "57 hits"
+            "start": "13:27",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "13:30",
+            "cat": "coding",
             "end": "13:31",
-            "cat": "coding",
+            "note": "57 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "57 hits"
+            "start": "13:30",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "13:31",
+            "cat": "writing",
             "end": "13:36",
-            "cat": "writing",
+            "note": "file:///Users/ada/Documents/MQ/Phd/Teach",
             "src": "chrome",
-            "title": "week1prac.pdf",
-            "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+            "start": "13:31",
+            "title": "week1prac.pdf"
           },
           {
-            "start": "13:37",
+            "cat": "coding",
             "end": "13:46",
-            "cat": "coding",
+            "note": "21 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "21 hits"
+            "start": "13:37",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "13:46",
+            "cat": "writing",
             "end": "13:49",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "chrome",
-            "title": "COMP2200 TAs - Google Sheets",
-            "note": "docs.google.com"
+            "start": "13:46",
+            "title": "COMP2200 TAs - Google Sheets"
           },
           {
-            "start": "13:49",
+            "cat": "coding",
             "end": "13:53",
-            "cat": "coding",
+            "note": "19 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "19 hits"
+            "start": "13:49",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "13:53",
+            "cat": "writing",
             "end": "13:56",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "COMP2200 TAs - Google Sheets",
-            "note": "docs.google.com"
+            "start": "13:53",
+            "title": "COMP2200 TAs - Google Sheets"
           },
           {
-            "start": "13:56",
+            "cat": "coding",
             "end": "13:57",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "13:56",
+            "title": "VSCode"
           },
           {
-            "start": "13:57",
+            "cat": "admin",
             "end": "13:59",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "13:57",
+            "title": "Outlook"
           },
           {
-            "start": "13:59",
+            "cat": "admin",
             "end": "14:04",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "comp8210 - Google Search",
-            "note": "google.com"
+            "start": "13:59",
+            "title": "comp8210 - Google Search"
           },
           {
-            "start": "14:04",
+            "cat": "writing",
             "end": "14:16",
-            "cat": "writing",
+            "note": "padlet.com",
             "src": "macos",
-            "title": "SoC TA Q&A session 24/7/26",
-            "note": "padlet.com"
+            "start": "14:04",
+            "title": "SoC TA Q&A session 24/7/26"
           },
           {
-            "start": "14:16",
+            "cat": "admin",
             "end": "14:20",
-            "cat": "admin",
+            "note": "com.tinyspeck.slackmacgap",
             "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "start": "14:16",
+            "title": "slackmacgap"
           },
           {
-            "start": "14:20",
+            "cat": "coding",
             "end": "14:25",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "14:20",
+            "title": "VSCode"
           },
           {
-            "start": "14:25",
+            "cat": "writing",
             "end": "14:32",
-            "cat": "writing",
+            "note": "padlet.com",
             "src": "macos",
-            "title": "SoC TA Q&A session 24/7/26",
-            "note": "padlet.com"
+            "start": "14:25",
+            "title": "SoC TA Q&A session 24/7/26"
           },
           {
-            "start": "14:32",
+            "cat": "admin",
             "end": "14:38",
-            "cat": "admin",
+            "note": "com.tinyspeck.slackmacgap",
             "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "start": "14:32",
+            "title": "slackmacgap"
           },
           {
-            "start": "14:44",
+            "cat": "admin",
             "end": "14:51",
-            "cat": "admin",
+            "note": "com.tinyspeck.slackmacgap",
             "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "start": "14:44",
+            "title": "slackmacgap"
           },
           {
-            "start": "14:51",
+            "cat": "coding",
             "end": "14:53",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "14:51",
+            "title": "VSCode"
           },
           {
-            "start": "14:53",
+            "cat": "writing",
             "end": "14:56",
-            "cat": "writing",
+            "note": "padlet.com",
             "src": "macos",
-            "title": "SoC TA Q&A session 24/7/26",
-            "note": "padlet.com"
+            "start": "14:53",
+            "title": "SoC TA Q&A session 24/7/26"
           },
           {
-            "start": "15:01",
+            "cat": "writing",
             "end": "15:10",
-            "cat": "writing",
+            "note": "padlet.com",
             "src": "macos",
-            "title": "SoC TA Q&A session 24/7/26",
-            "note": "padlet.com"
+            "start": "15:01",
+            "title": "SoC TA Q&A session 24/7/26"
           },
           {
-            "start": "15:10",
+            "cat": "writing",
             "end": "15:24",
-            "cat": "writing",
+            "note": "file:///Users/ada/Documents/MQ/Phd/Teach",
             "src": "macos",
-            "title": "week1prac.pdf",
-            "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+            "start": "15:10",
+            "title": "week1prac.pdf"
           },
           {
-            "start": "15:24",
+            "cat": "personal",
             "end": "15:27",
-            "cat": "personal",
+            "note": "youtube.com",
             "src": "chrome",
-            "title": "(70) Getting Started with Orange 01: Welcome to Orange - You",
-            "note": "youtube.com"
+            "start": "15:24",
+            "title": "(70) Getting Started with Orange 01: Welcome to Orange - You"
           },
           {
-            "start": "15:27",
+            "cat": "coding",
             "end": "15:30",
-            "cat": "coding",
+            "note": "orange3.readthedocs.io",
             "src": "macos",
-            "title": "k-Means — Orange Visual Programming 3 documentation",
-            "note": "orange3.readthedocs.io"
+            "start": "15:27",
+            "title": "k-Means — Orange Visual Programming 3 documentation"
           },
           {
-            "start": "15:30",
+            "cat": "admin",
             "end": "15:31",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "15:30",
+            "title": "Outlook"
           },
           {
-            "start": "15:31",
+            "cat": "coding",
             "end": "15:42",
-            "cat": "coding",
+            "note": "orange3.readthedocs.io",
             "src": "macos",
-            "title": "k-Means — Orange Visual Programming 3 documentation",
-            "note": "orange3.readthedocs.io"
+            "start": "15:31",
+            "title": "k-Means — Orange Visual Programming 3 documentation"
           },
           {
-            "start": "15:42",
-            "end": "15:44",
             "cat": "research",
+            "end": "15:44",
+            "note": "docs.biolab.si",
             "src": "chrome",
-            "title": "k-Means — Orange Visual Programming 3 documentation",
-            "note": "docs.biolab.si"
+            "start": "15:42",
+            "title": "k-Means — Orange Visual Programming 3 documentation"
           },
           {
-            "start": "15:44",
+            "cat": "coding",
             "end": "15:46",
-            "cat": "coding",
+            "note": "orange3.readthedocs.io",
             "src": "macos",
-            "title": "k-Means — Orange Visual Programming 3 documentation",
-            "note": "orange3.readthedocs.io"
+            "start": "15:44",
+            "title": "k-Means — Orange Visual Programming 3 documentation"
           },
           {
-            "start": "15:47",
+            "cat": "coding",
             "end": "15:49",
-            "cat": "coding",
+            "note": "10 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "10 hits"
+            "start": "15:47",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "15:49",
+            "cat": "coding",
             "end": "15:50",
-            "cat": "coding",
+            "note": "10 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "10 hits"
+            "start": "15:49",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "15:50",
+            "cat": "writing",
             "end": "15:51",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Progress Updates - Google Sheets",
-            "note": "docs.google.com"
+            "start": "15:50",
+            "title": "Progress Updates - Google Sheets"
           },
           {
-            "start": "15:51",
+            "cat": "writing",
             "end": "15:54",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Progress Updates - Google Sheets",
-            "note": "docs.google.com"
+            "start": "15:51",
+            "title": "Progress Updates - Google Sheets"
           },
           {
-            "start": "15:54",
+            "cat": "admin",
             "end": "15:57",
-            "cat": "admin",
+            "note": "com.tinyspeck.slackmacgap",
             "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "start": "15:54",
+            "title": "slackmacgap"
           },
           {
-            "start": "15:57",
+            "cat": "admin",
             "end": "15:58",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "15:57",
+            "title": "Outlook"
           },
           {
-            "start": "15:58",
+            "cat": "writing",
             "end": "16:02",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "chrome",
-            "title": "Progress Updates - Google Sheets",
-            "note": "docs.google.com"
+            "start": "15:58",
+            "title": "Progress Updates - Google Sheets"
           },
           {
-            "start": "16:02",
+            "cat": "admin",
             "end": "16:05",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "16:02",
+            "title": "Outlook"
           },
           {
-            "start": "16:05",
+            "cat": "admin",
             "end": "16:11",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "16:05",
+            "title": "Outlook"
           },
           {
-            "start": "16:11",
+            "cat": "admin",
             "end": "16:14",
-            "cat": "admin",
+            "note": "com.microsoft.Excel",
             "src": "macos",
-            "title": "Excel",
-            "note": "com.microsoft.Excel"
+            "start": "16:11",
+            "title": "Excel"
           },
           {
-            "start": "16:14",
+            "cat": "writing",
             "end": "16:15",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Progress Updates - Google Sheets",
-            "note": "docs.google.com"
+            "start": "16:14",
+            "title": "Progress Updates - Google Sheets"
           },
           {
-            "start": "16:16",
+            "cat": "writing",
             "end": "16:20",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Progress Updates - Google Sheets",
-            "note": "docs.google.com"
+            "start": "16:16",
+            "title": "Progress Updates - Google Sheets"
           },
           {
-            "start": "16:20",
+            "cat": "admin",
             "end": "16:24",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "16:20",
+            "title": "Outlook"
           },
           {
-            "start": "16:24",
+            "cat": "coding",
             "end": "16:26",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "16:24",
+            "title": "VSCode"
           },
           {
-            "start": "16:26",
+            "cat": "admin",
             "end": "16:28",
-            "cat": "admin",
+            "note": "com.microsoft.Excel",
             "src": "macos",
-            "title": "Excel",
-            "note": "com.microsoft.Excel"
+            "start": "16:26",
+            "title": "Excel"
           },
           {
-            "start": "16:28",
+            "cat": "writing",
             "end": "16:29",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "chrome",
-            "title": "Progress Updates - Google Sheets",
-            "note": "docs.google.com"
+            "start": "16:28",
+            "title": "Progress Updates - Google Sheets"
           },
           {
-            "start": "16:29",
+            "cat": "admin",
             "end": "16:34",
-            "cat": "admin",
+            "note": "com.tinyspeck.slackmacgap",
             "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "start": "16:29",
+            "title": "slackmacgap"
           },
           {
-            "start": "16:34",
+            "cat": "writing",
             "end": "16:37",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "chrome",
-            "title": "Progress Updates - Google Sheets",
-            "note": "docs.google.com"
+            "start": "16:34",
+            "title": "Progress Updates - Google Sheets"
           },
           {
-            "start": "16:37",
+            "cat": "admin",
             "end": "16:42",
-            "cat": "admin",
+            "note": "com.microsoft.Excel",
             "src": "macos",
-            "title": "Excel",
-            "note": "com.microsoft.Excel"
+            "start": "16:37",
+            "title": "Excel"
           },
           {
-            "start": "16:43",
+            "cat": "coding",
             "end": "16:51",
-            "cat": "coding",
+            "note": "28 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "28 hits"
+            "start": "16:43",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "16:51",
+            "cat": "coding",
             "end": "16:52",
-            "cat": "coding",
+            "note": "28 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "28 hits"
+            "start": "16:51",
+            "title": "Claude session · harbor"
           },
           {
+            "cat": "coding",
+            "end": "16:55",
+            "note": "28 hits",
+            "src": "claude",
             "start": "16:52",
-            "end": "16:55",
-            "cat": "coding",
-            "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "28 hits"
+            "title": "Claude session · harbor"
           },
           {
-            "start": "16:55",
-            "end": "16:55",
             "cat": "personal",
+            "end": "16:55",
+            "note": "map.google.com",
             "src": "chrome",
-            "title": "Google Maps",
-            "note": "map.google.com"
-          },
-          {
             "start": "16:55",
-            "end": "16:58",
+            "title": "Google Maps"
+          },
+          {
             "cat": "admin",
+            "end": "16:58",
+            "note": "mail.google.com",
             "src": "macos",
-            "title": "Inbox (2,714) - ada.ren.cn@gmail.com - Gmail",
-            "note": "mail.google.com"
+            "start": "16:55",
+            "title": "Inbox (2,714) - ada.ren.cn@gmail.com - Gmail"
           },
           {
-            "start": "16:58",
-            "end": "17:23",
             "cat": "coding",
+            "end": "17:23",
+            "note": "69 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "69 hits"
+            "start": "16:58",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "17:23",
+            "cat": "meeting",
             "end": "17:30",
-            "cat": "meeting",
+            "note": "com.microsoft.teams2",
             "src": "macos",
-            "title": "teams2",
-            "note": "com.microsoft.teams2"
+            "start": "17:23",
+            "title": "teams2"
           },
           {
-            "start": "17:30",
+            "cat": "writing",
             "end": "17:33",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "COMP2200 TAs - Google Sheets",
-            "note": "docs.google.com"
+            "start": "17:30",
+            "title": "COMP2200 TAs - Google Sheets"
           },
           {
-            "start": "17:33",
+            "cat": "meeting",
             "end": "17:35",
-            "cat": "meeting",
+            "note": "com.microsoft.teams2",
             "src": "macos",
-            "title": "teams2",
-            "note": "com.microsoft.teams2"
+            "start": "17:33",
+            "title": "teams2"
           },
           {
-            "start": "17:35",
+            "cat": "meeting",
             "end": "17:52",
-            "cat": "meeting",
+            "note": "com.microsoft.teams2",
             "src": "macos",
-            "title": "teams2",
-            "note": "com.microsoft.teams2"
+            "start": "17:35",
+            "title": "teams2"
           },
           {
-            "start": "17:52",
-            "end": "18:14",
             "cat": "writing",
+            "end": "18:14",
+            "note": "docs.google.com",
             "src": "chrome",
-            "title": "COMP2200 TAs.xlsx - Google Sheets",
-            "note": "docs.google.com"
+            "start": "17:52",
+            "title": "COMP2200 TAs.xlsx - Google Sheets"
           }
         ],
+        "key": "2026-7-24",
         "logged": 431,
-        "real": 331,
-        "deep": 331,
         "ratio": 0.7669403234464742,
+        "real": 331,
         "stats": {
           "contextSwitches": 67,
-          "tabsOpened": 72,
+          "justOneMoreThing": 10,
           "longestFocus": "1h 24m",
-          "justOneMoreThing": 10
-        }
+          "tabsOpened": 72
+        },
+        "weekend": false
       },
       {
         "key": "2026-7-25",
@@ -40383,18 +40383,667 @@
         "weekend": true,
         "dateShort": "Sat, Jul 25",
         "dateLong": "Saturday, July 25",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "09:45",
+        "dayEnd": "22:33",
+        "events": [
+          {
+            "start": "09:45",
+            "end": "09:51",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
+            "note": "sport.mq.edu.au"
+          },
+          {
+            "start": "10:20",
+            "end": "10:25",
+            "cat": "coding",
+            "src": "local",
+            "title": "domain_cats.json",
+            "note": "3 hits"
+          },
+          {
+            "start": "11:49",
+            "end": "11:55",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "11:57",
+            "end": "11:58",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "11:58",
+            "end": "11:59",
+            "cat": "admin",
+            "src": "macos",
+            "title": "My Request - RITM1439060 - Employee",
+            "note": "mq.service-now.com"
+          },
+          {
+            "start": "11:59",
+            "end": "12:01",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "12:01",
+            "end": "12:17",
+            "cat": "writing",
+            "src": "chrome",
+            "title": "COMP2200 TAs - Google Sheets",
+            "note": "google.com"
+          },
+          {
+            "start": "12:17",
+            "end": "12:18",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "My Request - RITM1439060 - Employee",
+            "note": "aus01.safelinks.protection.outlook.com"
+          },
+          {
+            "start": "12:48",
+            "end": "12:52",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "12:53",
+            "end": "12:54",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "12:55",
+            "end": "12:58",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "12:58",
+            "end": "13:00",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "18 hits"
+          },
+          {
+            "start": "13:01",
+            "end": "13:03",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "The Conversation: In-depth analysis, research, news and idea",
+            "note": "theconversation.com"
+          },
+          {
+            "start": "13:03",
+            "end": "13:05",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "13:05",
+            "end": "13:18",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "13:18",
+            "end": "13:23",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "13:24",
+            "end": "13:30",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "13:30",
+            "end": "13:52",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "13:52",
+            "end": "13:53",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "13:54",
+            "end": "13:55",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "13:56",
+            "end": "14:11",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "14:11",
+            "end": "14:14",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "14:14",
+            "end": "14:15",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "14:15",
+            "end": "14:23",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "14:23",
+            "end": "14:25",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "teams2",
+            "note": "com.microsoft.teams2"
+          },
+          {
+            "start": "14:25",
+            "end": "14:35",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Microsoft Power Apps: Low-Code AI App Builder | Microsoft",
+            "note": "powerapps.com"
+          },
+          {
+            "start": "14:35",
+            "end": "15:11",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Microsoft Power Apps: Low-Code AI App Builder | Microsoft",
+            "note": "microsoft.com"
+          },
+          {
+            "start": "15:12",
+            "end": "15:32",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "My Request - RITM1439060 - Employee",
+            "note": "mq.service-now.com"
+          },
+          {
+            "start": "15:41",
+            "end": "15:43",
+            "cat": "research",
+            "src": "macos",
+            "title": "Ada's Notes",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "15:43",
+            "end": "15:45",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:45",
+            "end": "15:46",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "3 hits"
+          },
+          {
+            "start": "15:46",
+            "end": "15:51",
+            "cat": "research",
+            "src": "macos",
+            "title": "AI Digest — July 25, 2026 | Ada's Notes",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "15:51",
+            "end": "15:57",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Typing Lessons | Numbers Letters Numbers - Typing.com",
+            "note": "typing.com"
+          },
+          {
+            "start": "15:57",
+            "end": "16:02",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Typing Lessons | Numbers Letters Numbers - Typing.com",
+            "note": "typing.com"
+          },
+          {
+            "start": "16:02",
+            "end": "16:05",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:05",
+            "end": "16:07",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "16:07",
+            "end": "16:10",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:10",
+            "end": "16:11",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "19 hits"
+          },
+          {
+            "start": "16:11",
+            "end": "16:12",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "19 hits"
+          },
+          {
+            "start": "16:12",
+            "end": "16:12",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(71) 26岁财富自由的程序员郭宇：很多人起点虽然高，但生活得一团糟 - YouTube",
+            "note": "youtube.com"
+          },
+          {
+            "start": "16:13",
+            "end": "16:14",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(71) 26岁财富自由的程序员郭宇：很多人起点虽然高，但生活得一团糟 - YouTube",
+            "note": "youtube.com"
+          },
+          {
+            "start": "16:15",
+            "end": "16:16",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(73) Claude for Long-Horizon Tasks — Lance Martin, Anthropic",
+            "note": "youtube.com"
+          },
+          {
+            "start": "16:16",
+            "end": "16:17",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(73) Claude for Long-Horizon Tasks — Lance Martin, Anthropic",
+            "note": "youtube.com"
+          },
+          {
+            "start": "16:17",
+            "end": "16:18",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(73) Claude for Long-Horizon Tasks — Lance Martin, Anthropic",
+            "note": "youtube.com"
+          },
+          {
+            "start": "16:19",
+            "end": "16:19",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(73) Claude for Long-Horizon Tasks — Lance Martin, Anthropic",
+            "note": "youtube.com"
+          },
+          {
+            "start": "16:21",
+            "end": "16:22",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "10 hits"
+          },
+          {
+            "start": "16:22",
+            "end": "16:24",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "10 hits"
+          },
+          {
+            "start": "16:24",
+            "end": "16:25",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(73) Claude for Long-Horizon Tasks — Lance Martin, Anthropic",
+            "note": "youtube.com"
+          },
+          {
+            "start": "16:26",
+            "end": "16:27",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(73) Claude for Long-Horizon Tasks — Lance Martin, Anthropic",
+            "note": "youtube.com"
+          },
+          {
+            "start": "16:27",
+            "end": "16:29",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(73) Claude for Long-Horizon Tasks — Lance Martin, Anthropic",
+            "note": "youtube.com"
+          },
+          {
+            "start": "16:29",
+            "end": "16:32",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(73) Claude for Long-Horizon Tasks — Lance Martin, Anthropic",
+            "note": "youtube.com"
+          },
+          {
+            "start": "16:32",
+            "end": "16:33",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(73) Claude for Long-Horizon Tasks — Lance Martin, Anthropic",
+            "note": "youtube.com"
+          },
+          {
+            "start": "16:33",
+            "end": "16:34",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(73) Claude for Long-Horizon Tasks — Lance Martin, Anthropic",
+            "note": "youtube.com"
+          },
+          {
+            "start": "16:34",
+            "end": "16:36",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(73) Claude for Long-Horizon Tasks — Lance Martin, Anthropic",
+            "note": "youtube.com"
+          },
+          {
+            "start": "16:36",
+            "end": "16:37",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(73) Claude for Long-Horizon Tasks — Lance Martin, Anthropic",
+            "note": "youtube.com"
+          },
+          {
+            "start": "16:37",
+            "end": "16:38",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(73) Claude for Long-Horizon Tasks — Lance Martin, Anthropic",
+            "note": "youtube.com"
+          },
+          {
+            "start": "16:40",
+            "end": "16:40",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "16:41",
+            "end": "16:42",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "5 hits"
+          },
+          {
+            "start": "16:42",
+            "end": "16:42",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "5 hits"
+          },
+          {
+            "start": "16:44",
+            "end": "16:44",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "16:45",
+            "end": "17:05",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "17:14",
+            "end": "17:17",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "7 hits"
+          },
+          {
+            "start": "17:29",
+            "end": "17:32",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "1 hit"
+          },
+          {
+            "start": "17:36",
+            "end": "17:42",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "13 hits"
+          },
+          {
+            "start": "17:57",
+            "end": "18:02",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "18:10",
+            "end": "18:15",
+            "cat": "coding",
+            "src": "local",
+            "title": "config.json",
+            "note": "3 hits"
+          },
+          {
+            "start": "18:15",
+            "end": "18:15",
+            "cat": "writing",
+            "src": "local",
+            "title": "budiousk3.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "18:15",
+            "end": "18:16",
+            "cat": "coding",
+            "src": "local",
+            "title": "convert_trajectory.py",
+            "note": "3 hits"
+          },
+          {
+            "start": "18:16",
+            "end": "18:17",
+            "cat": "coding",
+            "src": "local",
+            "title": "convert_trajectory.py",
+            "note": "3 hits"
+          },
+          {
+            "start": "18:17",
+            "end": "18:20",
+            "cat": "coding",
+            "src": "local",
+            "title": "convert_trajectory.py",
+            "note": "3 hits"
+          },
+          {
+            "start": "18:23",
+            "end": "18:24",
+            "cat": "coding",
+            "src": "local",
+            "title": "reward.json",
+            "note": "7 hits"
+          },
+          {
+            "start": "18:24",
+            "end": "18:24",
+            "cat": "writing",
+            "src": "local",
+            "title": "claude-code.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "18:25",
+            "end": "18:26",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "68 hits"
+          },
+          {
+            "start": "18:26",
+            "end": "18:27",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "68 hits"
+          },
+          {
+            "start": "18:27",
+            "end": "18:28",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "68 hits"
+          },
+          {
+            "start": "18:28",
+            "end": "18:28",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "68 hits"
+          },
+          {
+            "start": "18:29",
+            "end": "18:47",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "68 hits"
+          },
+          {
+            "start": "19:05",
+            "end": "19:26",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "6 hits"
+          },
+          {
+            "start": "21:45",
+            "end": "21:50",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute",
+            "note": "openrouter.ai"
+          },
+          {
+            "start": "21:50",
+            "end": "22:12",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute",
+            "note": "openrouter.ai"
+          },
+          {
+            "start": "22:13",
+            "end": "22:33",
+            "cat": "coding",
+            "src": "macos",
+            "title": "poolside API and Models | OpenRouter",
+            "note": "openrouter.ai"
+          }
+        ],
+        "logged": 382,
+        "real": 237,
+        "deep": 237,
+        "ratio": 0.6203367076661727,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "0m",
-          "justOneMoreThing": 0
+          "contextSwitches": 32,
+          "tabsOpened": 24,
+          "longestFocus": "1h 57m",
+          "justOneMoreThing": 2
         }
       },
       {
@@ -40404,17 +41053,178 @@
         "weekend": true,
         "dateShort": "Sun, Jul 26",
         "dateLong": "Sunday, July 26",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "09:25",
+        "dayEnd": "10:24",
+        "events": [
+          {
+            "start": "09:25",
+            "end": "09:27",
+            "cat": "coding",
+            "src": "macos",
+            "title": "poolside API and Models | OpenRouter",
+            "note": "openrouter.ai"
+          },
+          {
+            "start": "09:27",
+            "end": "09:38",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "RITM1439060 | Requested Item | OneHelp",
+            "note": "accounts.google.com"
+          },
+          {
+            "start": "09:38",
+            "end": "09:42",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "16 hits"
+          },
+          {
+            "start": "09:42",
+            "end": "09:53",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "RITM1439060 | Requested Item | OneHelp",
+            "note": "accounts.google.com"
+          },
+          {
+            "start": "09:57",
+            "end": "10:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "14 hits"
+          },
+          {
+            "start": "10:03",
+            "end": "10:04",
+            "cat": "coding",
+            "src": "local",
+            "title": "config.json",
+            "note": "4 hits"
+          },
+          {
+            "start": "10:05",
+            "end": "10:08",
+            "cat": "writing",
+            "src": "local",
+            "title": "claude-code.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "10:09",
+            "end": "10:10",
+            "cat": "writing",
+            "src": "local",
+            "title": "claude-code.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "10:10",
+            "end": "10:10",
+            "cat": "coding",
+            "src": "local",
+            "title": "reward.json",
+            "note": "7 hits"
+          },
+          {
+            "start": "10:10",
+            "end": "10:12",
+            "cat": "writing",
+            "src": "local",
+            "title": "bx0p4zjp5.txt",
+            "note": "2 hits"
+          },
+          {
+            "start": "10:12",
+            "end": "10:12",
+            "cat": "writing",
+            "src": "local",
+            "title": "bx0p4zjp5.txt",
+            "note": "2 hits"
+          },
+          {
+            "start": "10:12",
+            "end": "10:13",
+            "cat": "writing",
+            "src": "local",
+            "title": "bx0p4zjp5.txt",
+            "note": "2 hits"
+          },
+          {
+            "start": "10:13",
+            "end": "10:14",
+            "cat": "writing",
+            "src": "local",
+            "title": "bx0p4zjp5.txt",
+            "note": "2 hits"
+          },
+          {
+            "start": "10:14",
+            "end": "10:15",
+            "cat": "writing",
+            "src": "local",
+            "title": "bx0p4zjp5.txt",
+            "note": "2 hits"
+          },
+          {
+            "start": "10:15",
+            "end": "10:15",
+            "cat": "writing",
+            "src": "local",
+            "title": "bx0p4zjp5.txt",
+            "note": "2 hits"
+          },
+          {
+            "start": "10:16",
+            "end": "10:17",
+            "cat": "writing",
+            "src": "local",
+            "title": "claude-code.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "10:18",
+            "end": "10:19",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "18 hits"
+          },
+          {
+            "start": "10:21",
+            "end": "10:22",
+            "cat": "coding",
+            "src": "local",
+            "title": "reward.json",
+            "note": "8 hits"
+          },
+          {
+            "start": "10:22",
+            "end": "10:23",
+            "cat": "coding",
+            "src": "local",
+            "title": "reward.json",
+            "note": "11 hits"
+          },
+          {
+            "start": "10:23",
+            "end": "10:24",
+            "cat": "writing",
+            "src": "local",
+            "title": "claude-code.txt",
+            "note": "1 hit"
+          }
+        ],
+        "logged": 51,
+        "real": 29,
+        "deep": 29,
+        "ratio": 0.5666969670512146,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "0m",
+          "contextSwitches": 9,
+          "tabsOpened": 6,
+          "longestFocus": "23m",
           "justOneMoreThing": 0
         }
       },
@@ -58648,1082 +59458,1082 @@
       "weekend": false
     },
     {
-      "key": "2026-7-24",
-      "dayNum": 24,
-      "dow": 5,
-      "weekend": false,
-      "dateShort": "Fri, Jul 24",
       "dateLong": "Friday, July 24",
-      "dayStart": "08:55",
+      "dateShort": "Fri, Jul 24",
       "dayEnd": "18:14",
+      "dayNum": 24,
+      "dayStart": "08:55",
+      "deep": 331,
+      "dow": 5,
       "events": [
         {
-          "start": "08:55",
+          "cat": "coding",
           "end": "08:56",
-          "cat": "coding",
+          "note": "31 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "31 hits"
+          "start": "08:55",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "08:56",
+          "cat": "coding",
           "end": "08:57",
-          "cat": "coding",
+          "note": "31 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "31 hits"
+          "start": "08:56",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "08:57",
+          "cat": "coding",
           "end": "08:59",
-          "cat": "coding",
+          "note": "31 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "31 hits"
+          "start": "08:57",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "09:00",
+          "cat": "coding",
           "end": "09:01",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "09:00",
+          "title": "VSCode"
         },
         {
-          "start": "09:02",
+          "cat": "admin",
           "end": "09:03",
-          "cat": "admin",
+          "note": "accounts.google.com",
           "src": "chrome",
-          "title": "Sign in - Google Accounts",
-          "note": "accounts.google.com"
+          "start": "09:02",
+          "title": "Sign in - Google Accounts"
         },
         {
-          "start": "09:03",
+          "cat": "admin",
           "end": "09:04",
-          "cat": "admin",
+          "note": "accounts.google.com",
           "src": "chrome",
-          "title": "Sign in - Google Accounts",
-          "note": "accounts.google.com"
+          "start": "09:03",
+          "title": "Sign in - Google Accounts"
         },
         {
-          "start": "09:05",
+          "cat": "admin",
           "end": "09:06",
-          "cat": "admin",
+          "note": "accounts.google.com",
           "src": "chrome",
-          "title": "Sign in - Google Accounts",
-          "note": "accounts.google.com"
+          "start": "09:05",
+          "title": "Sign in - Google Accounts"
         },
         {
-          "start": "09:06",
+          "cat": "admin",
           "end": "09:07",
-          "cat": "admin",
+          "note": "accounts.google.com",
           "src": "chrome",
-          "title": "Sign in - Google Accounts",
-          "note": "accounts.google.com"
+          "start": "09:06",
+          "title": "Sign in - Google Accounts"
         },
         {
-          "start": "09:09",
+          "cat": "admin",
           "end": "09:09",
-          "cat": "admin",
+          "note": "accounts.google.com",
           "src": "chrome",
-          "title": "Sign in - Google Accounts",
-          "note": "accounts.google.com"
-        },
-        {
           "start": "09:09",
+          "title": "Sign in - Google Accounts"
+        },
+        {
+          "cat": "admin",
           "end": "09:11",
-          "cat": "admin",
+          "note": "accounts.google.com",
           "src": "chrome",
-          "title": "Sign in - Google Accounts",
-          "note": "accounts.google.com"
+          "start": "09:09",
+          "title": "Sign in - Google Accounts"
         },
         {
-          "start": "09:11",
+          "cat": "coding",
           "end": "09:12",
-          "cat": "coding",
+          "note": "9 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "9 hits"
+          "start": "09:11",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "09:12",
+          "cat": "coding",
           "end": "09:13",
-          "cat": "coding",
+          "note": "9 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "9 hits"
+          "start": "09:12",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "09:14",
+          "cat": "coding",
           "end": "09:15",
-          "cat": "coding",
+          "note": "6 hits",
           "src": "local",
-          "title": "reward.json",
-          "note": "6 hits"
+          "start": "09:14",
+          "title": "reward.json"
         },
         {
-          "start": "09:15",
+          "cat": "writing",
           "end": "09:16",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "hermes.txt",
-          "note": "1 hit"
+          "start": "09:15",
+          "title": "hermes.txt"
         },
         {
-          "start": "09:16",
+          "cat": "coding",
           "end": "09:18",
-          "cat": "coding",
+          "note": "7 hits",
           "src": "local",
-          "title": "reward.json",
-          "note": "7 hits"
+          "start": "09:16",
+          "title": "reward.json"
         },
         {
-          "start": "09:19",
+          "cat": "coding",
           "end": "09:20",
-          "cat": "coding",
+          "note": "6 hits",
           "src": "local",
-          "title": "reward.json",
-          "note": "6 hits"
+          "start": "09:19",
+          "title": "reward.json"
         },
         {
-          "start": "09:21",
+          "cat": "coding",
           "end": "09:23",
-          "cat": "coding",
+          "note": "6 hits",
           "src": "local",
-          "title": "reward.json",
-          "note": "6 hits"
+          "start": "09:21",
+          "title": "reward.json"
         },
         {
-          "start": "09:23",
+          "cat": "coding",
           "end": "09:24",
-          "cat": "coding",
+          "note": "6 hits",
           "src": "local",
-          "title": "reward.json",
-          "note": "6 hits"
+          "start": "09:23",
+          "title": "reward.json"
         },
         {
-          "start": "09:24",
+          "cat": "coding",
           "end": "09:25",
-          "cat": "coding",
+          "note": "6 hits",
           "src": "local",
-          "title": "reward.json",
-          "note": "6 hits"
+          "start": "09:24",
+          "title": "reward.json"
         },
         {
-          "start": "09:25",
+          "cat": "coding",
           "end": "09:26",
-          "cat": "coding",
+          "note": "6 hits",
           "src": "local",
-          "title": "reward.json",
-          "note": "6 hits"
+          "start": "09:25",
+          "title": "reward.json"
         },
         {
-          "start": "09:26",
+          "cat": "coding",
           "end": "09:27",
-          "cat": "coding",
+          "note": "6 hits",
           "src": "local",
-          "title": "reward.json",
-          "note": "6 hits"
+          "start": "09:26",
+          "title": "reward.json"
         },
         {
-          "start": "09:28",
+          "cat": "coding",
           "end": "09:29",
-          "cat": "coding",
+          "note": "5 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "5 hits"
+          "start": "09:28",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "09:32",
+          "cat": "coding",
           "end": "09:34",
-          "cat": "coding",
+          "note": "8 hits",
           "src": "local",
-          "title": "reward.json",
-          "note": "8 hits"
+          "start": "09:32",
+          "title": "reward.json"
         },
         {
-          "start": "09:34",
+          "cat": "coding",
           "end": "09:35",
-          "cat": "coding",
+          "note": "7 hits",
           "src": "local",
-          "title": "reward.json",
-          "note": "7 hits"
+          "start": "09:34",
+          "title": "reward.json"
         },
         {
-          "start": "09:35",
+          "cat": "coding",
           "end": "09:36",
-          "cat": "coding",
+          "note": "7 hits",
           "src": "local",
-          "title": "reward.json",
-          "note": "7 hits"
+          "start": "09:35",
+          "title": "reward.json"
         },
         {
+          "cat": "coding",
+          "end": "09:38",
+          "note": "6 hits",
+          "src": "local",
           "start": "09:37",
-          "end": "09:38",
-          "cat": "coding",
-          "src": "local",
-          "title": "reward.json",
-          "note": "6 hits"
+          "title": "reward.json"
         },
         {
+          "cat": "writing",
+          "end": "09:38",
+          "note": "1 hit",
+          "src": "local",
           "start": "09:38",
-          "end": "09:38",
-          "cat": "writing",
-          "src": "local",
-          "title": "hermes.txt",
-          "note": "1 hit"
+          "title": "hermes.txt"
         },
         {
-          "start": "09:39",
+          "cat": "coding",
           "end": "09:40",
-          "cat": "coding",
+          "note": "6 hits",
           "src": "local",
-          "title": "reward.json",
-          "note": "6 hits"
+          "start": "09:39",
+          "title": "reward.json"
         },
         {
+          "cat": "coding",
+          "end": "09:43",
+          "note": "6 hits",
+          "src": "claude",
           "start": "09:41",
-          "end": "09:43",
-          "cat": "coding",
-          "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "6 hits"
+          "title": "Claude session · harbor"
         },
         {
+          "cat": "coding",
+          "end": "09:43",
+          "note": "6 hits",
+          "src": "claude",
           "start": "09:43",
-          "end": "09:43",
-          "cat": "coding",
-          "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "6 hits"
+          "title": "Claude session · harbor"
         },
         {
-          "start": "09:44",
+          "cat": "coding",
           "end": "09:45",
-          "cat": "coding",
+          "note": "6 hits",
           "src": "local",
-          "title": "reward.json",
-          "note": "6 hits"
+          "start": "09:44",
+          "title": "reward.json"
         },
         {
-          "start": "09:45",
+          "cat": "coding",
           "end": "09:48",
-          "cat": "coding",
+          "note": "7 hits",
           "src": "local",
-          "title": "reward.json",
-          "note": "7 hits"
+          "start": "09:45",
+          "title": "reward.json"
         },
         {
-          "start": "09:48",
+          "cat": "writing",
           "end": "09:49",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "hermes.txt",
-          "note": "1 hit"
+          "start": "09:48",
+          "title": "hermes.txt"
         },
         {
-          "start": "09:49",
+          "cat": "coding",
           "end": "09:50",
-          "cat": "coding",
+          "note": "6 hits",
           "src": "local",
-          "title": "reward.json",
-          "note": "6 hits"
+          "start": "09:49",
+          "title": "reward.json"
         },
         {
-          "start": "10:03",
+          "cat": "coding",
           "end": "10:10",
-          "cat": "coding",
+          "note": "34 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "34 hits"
+          "start": "10:03",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "10:10",
+          "cat": "coding",
           "end": "10:11",
-          "cat": "coding",
+          "note": "34 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "34 hits"
+          "start": "10:10",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "10:11",
+          "cat": "coding",
           "end": "10:12",
-          "cat": "coding",
+          "note": "34 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "34 hits"
+          "start": "10:11",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "10:13",
+          "cat": "coding",
           "end": "10:13",
-          "cat": "coding",
+          "note": "github.com",
           "src": "macos",
-          "title": "petergyang/no-ai-slop: Removes 20+ patterns of AI slop from ",
-          "note": "github.com"
+          "start": "10:13",
+          "title": "petergyang/no-ai-slop: Removes 20+ patterns of AI slop from "
         },
         {
-          "start": "10:14",
+          "cat": "writing",
           "end": "10:14",
-          "cat": "writing",
+          "note": "overleaf.com",
           "src": "chrome",
-          "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea",
-          "note": "overleaf.com"
+          "start": "10:14",
+          "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea"
         },
         {
-          "start": "10:15",
+          "cat": "writing",
           "end": "10:16",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "ORANA RESIDENT FORM 2026 - Google Docs",
-          "note": "docs.google.com"
+          "start": "10:15",
+          "title": "ORANA RESIDENT FORM 2026 - Google Docs"
         },
         {
-          "start": "10:19",
+          "cat": "coding",
           "end": "10:19",
-          "cat": "coding",
+          "note": "10 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "10 hits"
+          "start": "10:19",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "10:21",
+          "cat": "coding",
           "end": "10:22",
-          "cat": "coding",
+          "note": "github.com",
           "src": "macos",
-          "title": "petergyang/no-ai-slop: Removes 20+ patterns of AI slop from ",
-          "note": "github.com"
+          "start": "10:21",
+          "title": "petergyang/no-ai-slop: Removes 20+ patterns of AI slop from "
         },
         {
-          "start": "10:22",
+          "cat": "writing",
           "end": "10:23",
-          "cat": "writing",
+          "note": "overleaf.com",
           "src": "chrome",
-          "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea",
-          "note": "overleaf.com"
+          "start": "10:22",
+          "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea"
         },
         {
-          "start": "10:24",
+          "cat": "coding",
           "end": "10:25",
-          "cat": "coding",
+          "note": "github.com",
           "src": "macos",
-          "title": "no-ai-slop/SKILL.md at main · petergyang/no-ai-slop",
-          "note": "github.com"
+          "start": "10:24",
+          "title": "no-ai-slop/SKILL.md at main · petergyang/no-ai-slop"
         },
         {
-          "start": "10:25",
+          "cat": "writing",
           "end": "10:26",
-          "cat": "writing",
+          "note": "overleaf.com",
           "src": "chrome",
-          "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea",
-          "note": "overleaf.com"
+          "start": "10:25",
+          "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea"
         },
         {
-          "start": "10:26",
+          "cat": "coding",
           "end": "10:27",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "10:26",
+          "title": "codex"
         },
         {
-          "start": "10:27",
+          "cat": "meeting",
           "end": "10:29",
-          "cat": "meeting",
+          "note": "com.microsoft.teams2",
           "src": "macos",
-          "title": "teams2",
-          "note": "com.microsoft.teams2"
+          "start": "10:27",
+          "title": "teams2"
         },
         {
-          "start": "10:30",
+          "cat": "coding",
           "end": "10:31",
-          "cat": "coding",
+          "note": "apps.powerapps.com",
           "src": "macos",
-          "title": "FSE Teaching Associate EOI - Power Apps",
-          "note": "apps.powerapps.com"
+          "start": "10:30",
+          "title": "FSE Teaching Associate EOI - Power Apps"
         },
         {
-          "start": "10:31",
+          "cat": "coding",
           "end": "10:32",
-          "cat": "coding",
+          "note": "apps.powerapps.com",
           "src": "macos",
-          "title": "FSE Teaching Associate EOI - Power Apps",
-          "note": "apps.powerapps.com"
+          "start": "10:31",
+          "title": "FSE Teaching Associate EOI - Power Apps"
         },
         {
-          "start": "10:34",
+          "cat": "coding",
           "end": "10:34",
-          "cat": "coding",
+          "note": "23 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "23 hits"
+          "start": "10:34",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "10:35",
+          "cat": "coding",
           "end": "10:36",
-          "cat": "coding",
+          "note": "23 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "23 hits"
+          "start": "10:35",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "10:38",
+          "cat": "coding",
           "end": "10:38",
-          "cat": "coding",
+          "note": "23 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "23 hits"
+          "start": "10:38",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "10:39",
+          "cat": "coding",
           "end": "10:40",
-          "cat": "coding",
+          "note": "23 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "23 hits"
+          "start": "10:39",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "10:43",
+          "cat": "coding",
           "end": "10:43",
-          "cat": "coding",
+          "note": "apps.powerapps.com",
           "src": "chrome",
-          "title": "petergyang/no-ai-slop: Removes 20+ patterns of AI slop from ",
-          "note": "apps.powerapps.com"
-        },
-        {
           "start": "10:43",
+          "title": "petergyang/no-ai-slop: Removes 20+ patterns of AI slop from "
+        },
+        {
+          "cat": "coding",
           "end": "10:44",
-          "cat": "coding",
+          "note": "apps.powerapps.com",
           "src": "chrome",
-          "title": "petergyang/no-ai-slop: Removes 20+ patterns of AI slop from ",
-          "note": "apps.powerapps.com"
+          "start": "10:43",
+          "title": "petergyang/no-ai-slop: Removes 20+ patterns of AI slop from "
         },
         {
-          "start": "10:44",
+          "cat": "coding",
           "end": "10:45",
-          "cat": "coding",
+          "note": "claude.ai",
           "src": "macos",
-          "title": "New chat - Claude",
-          "note": "claude.ai"
+          "start": "10:44",
+          "title": "New chat - Claude"
         },
         {
-          "start": "10:49",
+          "cat": "coding",
           "end": "10:49",
-          "cat": "coding",
+          "note": "6 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "6 hits"
+          "start": "10:49",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "10:52",
+          "cat": "coding",
           "end": "10:52",
-          "cat": "coding",
+          "note": "claude.ai",
           "src": "macos",
-          "title": "New chat - Claude",
-          "note": "claude.ai"
+          "start": "10:52",
+          "title": "New chat - Claude"
         },
         {
-          "start": "10:56",
+          "cat": "coding",
           "end": "10:56",
-          "cat": "coding",
+          "note": "claude.ai",
           "src": "macos",
-          "title": "New chat - Claude",
-          "note": "claude.ai"
+          "start": "10:56",
+          "title": "New chat - Claude"
         },
         {
-          "start": "10:57",
+          "cat": "coding",
           "end": "10:57",
-          "cat": "coding",
+          "note": "5 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "5 hits"
+          "start": "10:57",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "11:02",
+          "cat": "meeting",
           "end": "11:02",
-          "cat": "meeting",
+          "note": "com.microsoft.teams2",
           "src": "macos",
-          "title": "teams2",
-          "note": "com.microsoft.teams2"
+          "start": "11:02",
+          "title": "teams2"
         },
         {
-          "start": "11:03",
+          "cat": "meeting",
           "end": "11:04",
-          "cat": "meeting",
+          "note": "com.microsoft.teams2",
           "src": "macos",
-          "title": "teams2",
-          "note": "com.microsoft.teams2"
+          "start": "11:03",
+          "title": "teams2"
         },
         {
-          "start": "11:05",
+          "cat": "coding",
           "end": "11:06",
-          "cat": "coding",
+          "note": "apps.powerapps.com",
           "src": "chrome",
-          "title": "petergyang/no-ai-slop: Removes 20+ patterns of AI slop from ",
-          "note": "apps.powerapps.com"
+          "start": "11:05",
+          "title": "petergyang/no-ai-slop: Removes 20+ patterns of AI slop from "
         },
         {
-          "start": "11:08",
+          "cat": "coding",
           "end": "11:08",
-          "cat": "coding",
+          "note": "37 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "37 hits"
-        },
-        {
           "start": "11:08",
+          "title": "Claude session · harbor"
+        },
+        {
+          "cat": "coding",
           "end": "11:09",
-          "cat": "coding",
+          "note": "37 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "37 hits"
+          "start": "11:08",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "11:10",
+          "cat": "coding",
           "end": "11:10",
-          "cat": "coding",
+          "note": "37 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "37 hits"
+          "start": "11:10",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "11:12",
+          "cat": "meeting",
           "end": "11:16",
-          "cat": "meeting",
+          "note": "us.zoom.xos",
           "src": "macos",
-          "title": "xos",
-          "note": "us.zoom.xos"
+          "start": "11:12",
+          "title": "xos"
         },
         {
-          "start": "11:22",
+          "cat": "meeting",
           "end": "11:47",
-          "cat": "meeting",
+          "note": "us.zoom.xos",
           "src": "macos",
-          "title": "xos",
-          "note": "us.zoom.xos"
+          "start": "11:22",
+          "title": "xos"
         },
         {
-          "start": "11:48",
+          "cat": "admin",
           "end": "11:56",
-          "cat": "admin",
+          "note": "mq.service-now.com",
           "src": "chrome",
-          "title": "Generic Email Account | OneHelp",
-          "note": "mq.service-now.com"
+          "start": "11:48",
+          "title": "Generic Email Account | OneHelp"
         },
         {
-          "start": "11:56",
+          "cat": "coding",
           "end": "11:59",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "11:56",
+          "title": "codex"
         },
         {
-          "start": "11:59",
+          "cat": "admin",
           "end": "12:02",
-          "cat": "admin",
+          "note": "mq.service-now.com",
           "src": "macos",
-          "title": "Faculty/Offices | OneHelp",
-          "note": "mq.service-now.com"
+          "start": "11:59",
+          "title": "Faculty/Offices | OneHelp"
         },
         {
-          "start": "12:02",
+          "cat": "coding",
           "end": "12:06",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "12:02",
+          "title": "codex"
         },
         {
-          "start": "12:06",
+          "cat": "admin",
           "end": "12:15",
-          "cat": "admin",
+          "note": "mq.service-now.com",
           "src": "chrome",
-          "title": "Generic Email Account | OneHelp",
-          "note": "mq.service-now.com"
+          "start": "12:06",
+          "title": "Generic Email Account | OneHelp"
         },
         {
-          "start": "12:15",
+          "cat": "coding",
           "end": "12:21",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "12:15",
+          "title": "codex"
         },
         {
-          "start": "12:21",
+          "cat": "admin",
           "end": "12:33",
-          "cat": "admin",
+          "note": "mq.service-now.com",
           "src": "chrome",
-          "title": "Generic Email Account | OneHelp",
-          "note": "mq.service-now.com"
+          "start": "12:21",
+          "title": "Generic Email Account | OneHelp"
         },
         {
-          "start": "13:08",
+          "cat": "coding",
           "end": "13:26",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "13:08",
+          "title": "VSCode"
         },
         {
-          "start": "13:27",
+          "cat": "coding",
           "end": "13:29",
-          "cat": "coding",
+          "note": "57 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "57 hits"
+          "start": "13:27",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "13:30",
+          "cat": "coding",
           "end": "13:31",
-          "cat": "coding",
+          "note": "57 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "57 hits"
+          "start": "13:30",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "13:31",
+          "cat": "writing",
           "end": "13:36",
-          "cat": "writing",
+          "note": "file:///Users/ada/Documents/MQ/Phd/Teach",
           "src": "chrome",
-          "title": "week1prac.pdf",
-          "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+          "start": "13:31",
+          "title": "week1prac.pdf"
         },
         {
-          "start": "13:37",
+          "cat": "coding",
           "end": "13:46",
-          "cat": "coding",
+          "note": "21 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "21 hits"
+          "start": "13:37",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "13:46",
+          "cat": "writing",
           "end": "13:49",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "chrome",
-          "title": "COMP2200 TAs - Google Sheets",
-          "note": "docs.google.com"
+          "start": "13:46",
+          "title": "COMP2200 TAs - Google Sheets"
         },
         {
-          "start": "13:49",
+          "cat": "coding",
           "end": "13:53",
-          "cat": "coding",
+          "note": "19 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "19 hits"
+          "start": "13:49",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "13:53",
+          "cat": "writing",
           "end": "13:56",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "COMP2200 TAs - Google Sheets",
-          "note": "docs.google.com"
+          "start": "13:53",
+          "title": "COMP2200 TAs - Google Sheets"
         },
         {
-          "start": "13:56",
+          "cat": "coding",
           "end": "13:57",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "13:56",
+          "title": "VSCode"
         },
         {
-          "start": "13:57",
+          "cat": "admin",
           "end": "13:59",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "13:57",
+          "title": "Outlook"
         },
         {
-          "start": "13:59",
+          "cat": "admin",
           "end": "14:04",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "comp8210 - Google Search",
-          "note": "google.com"
+          "start": "13:59",
+          "title": "comp8210 - Google Search"
         },
         {
-          "start": "14:04",
+          "cat": "writing",
           "end": "14:16",
-          "cat": "writing",
+          "note": "padlet.com",
           "src": "macos",
-          "title": "SoC TA Q&A session 24/7/26",
-          "note": "padlet.com"
+          "start": "14:04",
+          "title": "SoC TA Q&A session 24/7/26"
         },
         {
-          "start": "14:16",
+          "cat": "admin",
           "end": "14:20",
-          "cat": "admin",
+          "note": "com.tinyspeck.slackmacgap",
           "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "start": "14:16",
+          "title": "slackmacgap"
         },
         {
-          "start": "14:20",
+          "cat": "coding",
           "end": "14:25",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "14:20",
+          "title": "VSCode"
         },
         {
-          "start": "14:25",
+          "cat": "writing",
           "end": "14:32",
-          "cat": "writing",
+          "note": "padlet.com",
           "src": "macos",
-          "title": "SoC TA Q&A session 24/7/26",
-          "note": "padlet.com"
+          "start": "14:25",
+          "title": "SoC TA Q&A session 24/7/26"
         },
         {
-          "start": "14:32",
+          "cat": "admin",
           "end": "14:38",
-          "cat": "admin",
+          "note": "com.tinyspeck.slackmacgap",
           "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "start": "14:32",
+          "title": "slackmacgap"
         },
         {
-          "start": "14:44",
+          "cat": "admin",
           "end": "14:51",
-          "cat": "admin",
+          "note": "com.tinyspeck.slackmacgap",
           "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "start": "14:44",
+          "title": "slackmacgap"
         },
         {
-          "start": "14:51",
+          "cat": "coding",
           "end": "14:53",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "14:51",
+          "title": "VSCode"
         },
         {
-          "start": "14:53",
+          "cat": "writing",
           "end": "14:56",
-          "cat": "writing",
+          "note": "padlet.com",
           "src": "macos",
-          "title": "SoC TA Q&A session 24/7/26",
-          "note": "padlet.com"
+          "start": "14:53",
+          "title": "SoC TA Q&A session 24/7/26"
         },
         {
-          "start": "15:01",
+          "cat": "writing",
           "end": "15:10",
-          "cat": "writing",
+          "note": "padlet.com",
           "src": "macos",
-          "title": "SoC TA Q&A session 24/7/26",
-          "note": "padlet.com"
+          "start": "15:01",
+          "title": "SoC TA Q&A session 24/7/26"
         },
         {
-          "start": "15:10",
+          "cat": "writing",
           "end": "15:24",
-          "cat": "writing",
+          "note": "file:///Users/ada/Documents/MQ/Phd/Teach",
           "src": "macos",
-          "title": "week1prac.pdf",
-          "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+          "start": "15:10",
+          "title": "week1prac.pdf"
         },
         {
-          "start": "15:24",
+          "cat": "personal",
           "end": "15:27",
-          "cat": "personal",
+          "note": "youtube.com",
           "src": "chrome",
-          "title": "(70) Getting Started with Orange 01: Welcome to Orange - You",
-          "note": "youtube.com"
+          "start": "15:24",
+          "title": "(70) Getting Started with Orange 01: Welcome to Orange - You"
         },
         {
-          "start": "15:27",
+          "cat": "coding",
           "end": "15:30",
-          "cat": "coding",
+          "note": "orange3.readthedocs.io",
           "src": "macos",
-          "title": "k-Means — Orange Visual Programming 3 documentation",
-          "note": "orange3.readthedocs.io"
+          "start": "15:27",
+          "title": "k-Means — Orange Visual Programming 3 documentation"
         },
         {
-          "start": "15:30",
+          "cat": "admin",
           "end": "15:31",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "15:30",
+          "title": "Outlook"
         },
         {
-          "start": "15:31",
+          "cat": "coding",
           "end": "15:42",
-          "cat": "coding",
+          "note": "orange3.readthedocs.io",
           "src": "macos",
-          "title": "k-Means — Orange Visual Programming 3 documentation",
-          "note": "orange3.readthedocs.io"
+          "start": "15:31",
+          "title": "k-Means — Orange Visual Programming 3 documentation"
         },
         {
-          "start": "15:42",
-          "end": "15:44",
           "cat": "research",
+          "end": "15:44",
+          "note": "docs.biolab.si",
           "src": "chrome",
-          "title": "k-Means — Orange Visual Programming 3 documentation",
-          "note": "docs.biolab.si"
+          "start": "15:42",
+          "title": "k-Means — Orange Visual Programming 3 documentation"
         },
         {
-          "start": "15:44",
+          "cat": "coding",
           "end": "15:46",
-          "cat": "coding",
+          "note": "orange3.readthedocs.io",
           "src": "macos",
-          "title": "k-Means — Orange Visual Programming 3 documentation",
-          "note": "orange3.readthedocs.io"
+          "start": "15:44",
+          "title": "k-Means — Orange Visual Programming 3 documentation"
         },
         {
-          "start": "15:47",
+          "cat": "coding",
           "end": "15:49",
-          "cat": "coding",
+          "note": "10 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "10 hits"
+          "start": "15:47",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "15:49",
+          "cat": "coding",
           "end": "15:50",
-          "cat": "coding",
+          "note": "10 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "10 hits"
+          "start": "15:49",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "15:50",
+          "cat": "writing",
           "end": "15:51",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Progress Updates - Google Sheets",
-          "note": "docs.google.com"
+          "start": "15:50",
+          "title": "Progress Updates - Google Sheets"
         },
         {
-          "start": "15:51",
+          "cat": "writing",
           "end": "15:54",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Progress Updates - Google Sheets",
-          "note": "docs.google.com"
+          "start": "15:51",
+          "title": "Progress Updates - Google Sheets"
         },
         {
-          "start": "15:54",
+          "cat": "admin",
           "end": "15:57",
-          "cat": "admin",
+          "note": "com.tinyspeck.slackmacgap",
           "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "start": "15:54",
+          "title": "slackmacgap"
         },
         {
-          "start": "15:57",
+          "cat": "admin",
           "end": "15:58",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "15:57",
+          "title": "Outlook"
         },
         {
-          "start": "15:58",
+          "cat": "writing",
           "end": "16:02",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "chrome",
-          "title": "Progress Updates - Google Sheets",
-          "note": "docs.google.com"
+          "start": "15:58",
+          "title": "Progress Updates - Google Sheets"
         },
         {
-          "start": "16:02",
+          "cat": "admin",
           "end": "16:05",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "16:02",
+          "title": "Outlook"
         },
         {
-          "start": "16:05",
+          "cat": "admin",
           "end": "16:11",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "16:05",
+          "title": "Outlook"
         },
         {
-          "start": "16:11",
+          "cat": "admin",
           "end": "16:14",
-          "cat": "admin",
+          "note": "com.microsoft.Excel",
           "src": "macos",
-          "title": "Excel",
-          "note": "com.microsoft.Excel"
+          "start": "16:11",
+          "title": "Excel"
         },
         {
-          "start": "16:14",
+          "cat": "writing",
           "end": "16:15",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Progress Updates - Google Sheets",
-          "note": "docs.google.com"
+          "start": "16:14",
+          "title": "Progress Updates - Google Sheets"
         },
         {
-          "start": "16:16",
+          "cat": "writing",
           "end": "16:20",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Progress Updates - Google Sheets",
-          "note": "docs.google.com"
+          "start": "16:16",
+          "title": "Progress Updates - Google Sheets"
         },
         {
-          "start": "16:20",
+          "cat": "admin",
           "end": "16:24",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "16:20",
+          "title": "Outlook"
         },
         {
-          "start": "16:24",
+          "cat": "coding",
           "end": "16:26",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "16:24",
+          "title": "VSCode"
         },
         {
-          "start": "16:26",
+          "cat": "admin",
           "end": "16:28",
-          "cat": "admin",
+          "note": "com.microsoft.Excel",
           "src": "macos",
-          "title": "Excel",
-          "note": "com.microsoft.Excel"
+          "start": "16:26",
+          "title": "Excel"
         },
         {
-          "start": "16:28",
+          "cat": "writing",
           "end": "16:29",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "chrome",
-          "title": "Progress Updates - Google Sheets",
-          "note": "docs.google.com"
+          "start": "16:28",
+          "title": "Progress Updates - Google Sheets"
         },
         {
-          "start": "16:29",
+          "cat": "admin",
           "end": "16:34",
-          "cat": "admin",
+          "note": "com.tinyspeck.slackmacgap",
           "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "start": "16:29",
+          "title": "slackmacgap"
         },
         {
-          "start": "16:34",
+          "cat": "writing",
           "end": "16:37",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "chrome",
-          "title": "Progress Updates - Google Sheets",
-          "note": "docs.google.com"
+          "start": "16:34",
+          "title": "Progress Updates - Google Sheets"
         },
         {
-          "start": "16:37",
+          "cat": "admin",
           "end": "16:42",
-          "cat": "admin",
+          "note": "com.microsoft.Excel",
           "src": "macos",
-          "title": "Excel",
-          "note": "com.microsoft.Excel"
+          "start": "16:37",
+          "title": "Excel"
         },
         {
-          "start": "16:43",
+          "cat": "coding",
           "end": "16:51",
-          "cat": "coding",
+          "note": "28 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "28 hits"
+          "start": "16:43",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "16:51",
+          "cat": "coding",
           "end": "16:52",
-          "cat": "coding",
+          "note": "28 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "28 hits"
+          "start": "16:51",
+          "title": "Claude session · harbor"
         },
         {
+          "cat": "coding",
+          "end": "16:55",
+          "note": "28 hits",
+          "src": "claude",
           "start": "16:52",
-          "end": "16:55",
-          "cat": "coding",
-          "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "28 hits"
+          "title": "Claude session · harbor"
         },
         {
-          "start": "16:55",
-          "end": "16:55",
           "cat": "personal",
+          "end": "16:55",
+          "note": "map.google.com",
           "src": "chrome",
-          "title": "Google Maps",
-          "note": "map.google.com"
-        },
-        {
           "start": "16:55",
-          "end": "16:58",
+          "title": "Google Maps"
+        },
+        {
           "cat": "admin",
+          "end": "16:58",
+          "note": "mail.google.com",
           "src": "macos",
-          "title": "Inbox (2,714) - ada.ren.cn@gmail.com - Gmail",
-          "note": "mail.google.com"
+          "start": "16:55",
+          "title": "Inbox (2,714) - ada.ren.cn@gmail.com - Gmail"
         },
         {
-          "start": "16:58",
-          "end": "17:23",
           "cat": "coding",
+          "end": "17:23",
+          "note": "69 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "69 hits"
+          "start": "16:58",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "17:23",
+          "cat": "meeting",
           "end": "17:30",
-          "cat": "meeting",
+          "note": "com.microsoft.teams2",
           "src": "macos",
-          "title": "teams2",
-          "note": "com.microsoft.teams2"
+          "start": "17:23",
+          "title": "teams2"
         },
         {
-          "start": "17:30",
+          "cat": "writing",
           "end": "17:33",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "COMP2200 TAs - Google Sheets",
-          "note": "docs.google.com"
+          "start": "17:30",
+          "title": "COMP2200 TAs - Google Sheets"
         },
         {
-          "start": "17:33",
+          "cat": "meeting",
           "end": "17:35",
-          "cat": "meeting",
+          "note": "com.microsoft.teams2",
           "src": "macos",
-          "title": "teams2",
-          "note": "com.microsoft.teams2"
+          "start": "17:33",
+          "title": "teams2"
         },
         {
-          "start": "17:35",
+          "cat": "meeting",
           "end": "17:52",
-          "cat": "meeting",
+          "note": "com.microsoft.teams2",
           "src": "macos",
-          "title": "teams2",
-          "note": "com.microsoft.teams2"
+          "start": "17:35",
+          "title": "teams2"
         },
         {
-          "start": "17:52",
-          "end": "18:14",
           "cat": "writing",
+          "end": "18:14",
+          "note": "docs.google.com",
           "src": "chrome",
-          "title": "COMP2200 TAs.xlsx - Google Sheets",
-          "note": "docs.google.com"
+          "start": "17:52",
+          "title": "COMP2200 TAs.xlsx - Google Sheets"
         }
       ],
+      "key": "2026-7-24",
       "logged": 431,
-      "real": 331,
-      "deep": 331,
       "ratio": 0.7669403234464742,
+      "real": 331,
       "stats": {
         "contextSwitches": 67,
-        "tabsOpened": 72,
+        "justOneMoreThing": 10,
         "longestFocus": "1h 24m",
-        "justOneMoreThing": 10
-      }
+        "tabsOpened": 72
+      },
+      "weekend": false
     },
     {
       "key": "2026-7-25",
@@ -59732,18 +60542,667 @@
       "weekend": true,
       "dateShort": "Sat, Jul 25",
       "dateLong": "Saturday, July 25",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "09:45",
+      "dayEnd": "22:33",
+      "events": [
+        {
+          "start": "09:45",
+          "end": "09:51",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
+          "note": "sport.mq.edu.au"
+        },
+        {
+          "start": "10:20",
+          "end": "10:25",
+          "cat": "coding",
+          "src": "local",
+          "title": "domain_cats.json",
+          "note": "3 hits"
+        },
+        {
+          "start": "11:49",
+          "end": "11:55",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "11:57",
+          "end": "11:58",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "11:58",
+          "end": "11:59",
+          "cat": "admin",
+          "src": "macos",
+          "title": "My Request - RITM1439060 - Employee",
+          "note": "mq.service-now.com"
+        },
+        {
+          "start": "11:59",
+          "end": "12:01",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "12:01",
+          "end": "12:17",
+          "cat": "writing",
+          "src": "chrome",
+          "title": "COMP2200 TAs - Google Sheets",
+          "note": "google.com"
+        },
+        {
+          "start": "12:17",
+          "end": "12:18",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "My Request - RITM1439060 - Employee",
+          "note": "aus01.safelinks.protection.outlook.com"
+        },
+        {
+          "start": "12:48",
+          "end": "12:52",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "12:53",
+          "end": "12:54",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "12:55",
+          "end": "12:58",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "12:58",
+          "end": "13:00",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "18 hits"
+        },
+        {
+          "start": "13:01",
+          "end": "13:03",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "The Conversation: In-depth analysis, research, news and idea",
+          "note": "theconversation.com"
+        },
+        {
+          "start": "13:03",
+          "end": "13:05",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "13:05",
+          "end": "13:18",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "13:18",
+          "end": "13:23",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "13:24",
+          "end": "13:30",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "13:30",
+          "end": "13:52",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "13:52",
+          "end": "13:53",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "13:54",
+          "end": "13:55",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "13:56",
+          "end": "14:11",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "14:11",
+          "end": "14:14",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "14:14",
+          "end": "14:15",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "14:15",
+          "end": "14:23",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "14:23",
+          "end": "14:25",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "teams2",
+          "note": "com.microsoft.teams2"
+        },
+        {
+          "start": "14:25",
+          "end": "14:35",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Microsoft Power Apps: Low-Code AI App Builder | Microsoft",
+          "note": "powerapps.com"
+        },
+        {
+          "start": "14:35",
+          "end": "15:11",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Microsoft Power Apps: Low-Code AI App Builder | Microsoft",
+          "note": "microsoft.com"
+        },
+        {
+          "start": "15:12",
+          "end": "15:32",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "My Request - RITM1439060 - Employee",
+          "note": "mq.service-now.com"
+        },
+        {
+          "start": "15:41",
+          "end": "15:43",
+          "cat": "research",
+          "src": "macos",
+          "title": "Ada's Notes",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "15:43",
+          "end": "15:45",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:45",
+          "end": "15:46",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "3 hits"
+        },
+        {
+          "start": "15:46",
+          "end": "15:51",
+          "cat": "research",
+          "src": "macos",
+          "title": "AI Digest — July 25, 2026 | Ada's Notes",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "15:51",
+          "end": "15:57",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Typing Lessons | Numbers Letters Numbers - Typing.com",
+          "note": "typing.com"
+        },
+        {
+          "start": "15:57",
+          "end": "16:02",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Typing Lessons | Numbers Letters Numbers - Typing.com",
+          "note": "typing.com"
+        },
+        {
+          "start": "16:02",
+          "end": "16:05",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:05",
+          "end": "16:07",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "16:07",
+          "end": "16:10",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:10",
+          "end": "16:11",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "19 hits"
+        },
+        {
+          "start": "16:11",
+          "end": "16:12",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "19 hits"
+        },
+        {
+          "start": "16:12",
+          "end": "16:12",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(71) 26岁财富自由的程序员郭宇：很多人起点虽然高，但生活得一团糟 - YouTube",
+          "note": "youtube.com"
+        },
+        {
+          "start": "16:13",
+          "end": "16:14",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(71) 26岁财富自由的程序员郭宇：很多人起点虽然高，但生活得一团糟 - YouTube",
+          "note": "youtube.com"
+        },
+        {
+          "start": "16:15",
+          "end": "16:16",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(73) Claude for Long-Horizon Tasks — Lance Martin, Anthropic",
+          "note": "youtube.com"
+        },
+        {
+          "start": "16:16",
+          "end": "16:17",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(73) Claude for Long-Horizon Tasks — Lance Martin, Anthropic",
+          "note": "youtube.com"
+        },
+        {
+          "start": "16:17",
+          "end": "16:18",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(73) Claude for Long-Horizon Tasks — Lance Martin, Anthropic",
+          "note": "youtube.com"
+        },
+        {
+          "start": "16:19",
+          "end": "16:19",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(73) Claude for Long-Horizon Tasks — Lance Martin, Anthropic",
+          "note": "youtube.com"
+        },
+        {
+          "start": "16:21",
+          "end": "16:22",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "10 hits"
+        },
+        {
+          "start": "16:22",
+          "end": "16:24",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "10 hits"
+        },
+        {
+          "start": "16:24",
+          "end": "16:25",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(73) Claude for Long-Horizon Tasks — Lance Martin, Anthropic",
+          "note": "youtube.com"
+        },
+        {
+          "start": "16:26",
+          "end": "16:27",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(73) Claude for Long-Horizon Tasks — Lance Martin, Anthropic",
+          "note": "youtube.com"
+        },
+        {
+          "start": "16:27",
+          "end": "16:29",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(73) Claude for Long-Horizon Tasks — Lance Martin, Anthropic",
+          "note": "youtube.com"
+        },
+        {
+          "start": "16:29",
+          "end": "16:32",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(73) Claude for Long-Horizon Tasks — Lance Martin, Anthropic",
+          "note": "youtube.com"
+        },
+        {
+          "start": "16:32",
+          "end": "16:33",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(73) Claude for Long-Horizon Tasks — Lance Martin, Anthropic",
+          "note": "youtube.com"
+        },
+        {
+          "start": "16:33",
+          "end": "16:34",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(73) Claude for Long-Horizon Tasks — Lance Martin, Anthropic",
+          "note": "youtube.com"
+        },
+        {
+          "start": "16:34",
+          "end": "16:36",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(73) Claude for Long-Horizon Tasks — Lance Martin, Anthropic",
+          "note": "youtube.com"
+        },
+        {
+          "start": "16:36",
+          "end": "16:37",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(73) Claude for Long-Horizon Tasks — Lance Martin, Anthropic",
+          "note": "youtube.com"
+        },
+        {
+          "start": "16:37",
+          "end": "16:38",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(73) Claude for Long-Horizon Tasks — Lance Martin, Anthropic",
+          "note": "youtube.com"
+        },
+        {
+          "start": "16:40",
+          "end": "16:40",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "16:41",
+          "end": "16:42",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "5 hits"
+        },
+        {
+          "start": "16:42",
+          "end": "16:42",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "5 hits"
+        },
+        {
+          "start": "16:44",
+          "end": "16:44",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "16:45",
+          "end": "17:05",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "17:14",
+          "end": "17:17",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "7 hits"
+        },
+        {
+          "start": "17:29",
+          "end": "17:32",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "1 hit"
+        },
+        {
+          "start": "17:36",
+          "end": "17:42",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "13 hits"
+        },
+        {
+          "start": "17:57",
+          "end": "18:02",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "18:10",
+          "end": "18:15",
+          "cat": "coding",
+          "src": "local",
+          "title": "config.json",
+          "note": "3 hits"
+        },
+        {
+          "start": "18:15",
+          "end": "18:15",
+          "cat": "writing",
+          "src": "local",
+          "title": "budiousk3.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "18:15",
+          "end": "18:16",
+          "cat": "coding",
+          "src": "local",
+          "title": "convert_trajectory.py",
+          "note": "3 hits"
+        },
+        {
+          "start": "18:16",
+          "end": "18:17",
+          "cat": "coding",
+          "src": "local",
+          "title": "convert_trajectory.py",
+          "note": "3 hits"
+        },
+        {
+          "start": "18:17",
+          "end": "18:20",
+          "cat": "coding",
+          "src": "local",
+          "title": "convert_trajectory.py",
+          "note": "3 hits"
+        },
+        {
+          "start": "18:23",
+          "end": "18:24",
+          "cat": "coding",
+          "src": "local",
+          "title": "reward.json",
+          "note": "7 hits"
+        },
+        {
+          "start": "18:24",
+          "end": "18:24",
+          "cat": "writing",
+          "src": "local",
+          "title": "claude-code.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "18:25",
+          "end": "18:26",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "68 hits"
+        },
+        {
+          "start": "18:26",
+          "end": "18:27",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "68 hits"
+        },
+        {
+          "start": "18:27",
+          "end": "18:28",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "68 hits"
+        },
+        {
+          "start": "18:28",
+          "end": "18:28",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "68 hits"
+        },
+        {
+          "start": "18:29",
+          "end": "18:47",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "68 hits"
+        },
+        {
+          "start": "19:05",
+          "end": "19:26",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "6 hits"
+        },
+        {
+          "start": "21:45",
+          "end": "21:50",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute",
+          "note": "openrouter.ai"
+        },
+        {
+          "start": "21:50",
+          "end": "22:12",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute",
+          "note": "openrouter.ai"
+        },
+        {
+          "start": "22:13",
+          "end": "22:33",
+          "cat": "coding",
+          "src": "macos",
+          "title": "poolside API and Models | OpenRouter",
+          "note": "openrouter.ai"
+        }
+      ],
+      "logged": 382,
+      "real": 237,
+      "deep": 237,
+      "ratio": 0.6203367076661727,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "0m",
-        "justOneMoreThing": 0
+        "contextSwitches": 32,
+        "tabsOpened": 24,
+        "longestFocus": "1h 57m",
+        "justOneMoreThing": 2
       }
     },
     {
@@ -59753,17 +61212,178 @@
       "weekend": true,
       "dateShort": "Sun, Jul 26",
       "dateLong": "Sunday, July 26",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "09:25",
+      "dayEnd": "10:24",
+      "events": [
+        {
+          "start": "09:25",
+          "end": "09:27",
+          "cat": "coding",
+          "src": "macos",
+          "title": "poolside API and Models | OpenRouter",
+          "note": "openrouter.ai"
+        },
+        {
+          "start": "09:27",
+          "end": "09:38",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "RITM1439060 | Requested Item | OneHelp",
+          "note": "accounts.google.com"
+        },
+        {
+          "start": "09:38",
+          "end": "09:42",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "16 hits"
+        },
+        {
+          "start": "09:42",
+          "end": "09:53",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "RITM1439060 | Requested Item | OneHelp",
+          "note": "accounts.google.com"
+        },
+        {
+          "start": "09:57",
+          "end": "10:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "14 hits"
+        },
+        {
+          "start": "10:03",
+          "end": "10:04",
+          "cat": "coding",
+          "src": "local",
+          "title": "config.json",
+          "note": "4 hits"
+        },
+        {
+          "start": "10:05",
+          "end": "10:08",
+          "cat": "writing",
+          "src": "local",
+          "title": "claude-code.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "10:09",
+          "end": "10:10",
+          "cat": "writing",
+          "src": "local",
+          "title": "claude-code.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "10:10",
+          "end": "10:10",
+          "cat": "coding",
+          "src": "local",
+          "title": "reward.json",
+          "note": "7 hits"
+        },
+        {
+          "start": "10:10",
+          "end": "10:12",
+          "cat": "writing",
+          "src": "local",
+          "title": "bx0p4zjp5.txt",
+          "note": "2 hits"
+        },
+        {
+          "start": "10:12",
+          "end": "10:12",
+          "cat": "writing",
+          "src": "local",
+          "title": "bx0p4zjp5.txt",
+          "note": "2 hits"
+        },
+        {
+          "start": "10:12",
+          "end": "10:13",
+          "cat": "writing",
+          "src": "local",
+          "title": "bx0p4zjp5.txt",
+          "note": "2 hits"
+        },
+        {
+          "start": "10:13",
+          "end": "10:14",
+          "cat": "writing",
+          "src": "local",
+          "title": "bx0p4zjp5.txt",
+          "note": "2 hits"
+        },
+        {
+          "start": "10:14",
+          "end": "10:15",
+          "cat": "writing",
+          "src": "local",
+          "title": "bx0p4zjp5.txt",
+          "note": "2 hits"
+        },
+        {
+          "start": "10:15",
+          "end": "10:15",
+          "cat": "writing",
+          "src": "local",
+          "title": "bx0p4zjp5.txt",
+          "note": "2 hits"
+        },
+        {
+          "start": "10:16",
+          "end": "10:17",
+          "cat": "writing",
+          "src": "local",
+          "title": "claude-code.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "10:18",
+          "end": "10:19",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "18 hits"
+        },
+        {
+          "start": "10:21",
+          "end": "10:22",
+          "cat": "coding",
+          "src": "local",
+          "title": "reward.json",
+          "note": "8 hits"
+        },
+        {
+          "start": "10:22",
+          "end": "10:23",
+          "cat": "coding",
+          "src": "local",
+          "title": "reward.json",
+          "note": "11 hits"
+        },
+        {
+          "start": "10:23",
+          "end": "10:24",
+          "cat": "writing",
+          "src": "local",
+          "title": "claude-code.txt",
+          "note": "1 hit"
+        }
+      ],
+      "logged": 51,
+      "real": 29,
+      "deep": 29,
+      "ratio": 0.5666969670512146,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "0m",
+        "contextSwitches": 9,
+        "tabsOpened": 6,
+        "longestFocus": "23m",
         "justOneMoreThing": 0
       }
     },
