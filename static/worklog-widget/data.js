@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-07-28T10:20:07+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-07-29T10:20:13+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -42469,754 +42469,754 @@
         "weekend": true
       },
       {
-        "key": "2026-7-27",
-        "dayNum": 27,
-        "dow": 1,
-        "weekend": false,
-        "dateShort": "Mon, Jul 27",
         "dateLong": "Monday, July 27",
-        "dayStart": "09:17",
+        "dateShort": "Mon, Jul 27",
         "dayEnd": "20:07",
+        "dayNum": 27,
+        "dayStart": "09:17",
+        "deep": 384,
+        "dow": 1,
         "events": [
           {
-            "start": "09:17",
+            "cat": "coding",
             "end": "09:19",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "09:17",
+            "title": "VSCode"
           },
           {
-            "start": "09:25",
+            "cat": "coding",
             "end": "09:46",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "chrome",
-            "title": "Week_1_Loading_and_Viewing_Data.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "09:25",
+            "title": "Week_1_Loading_and_Viewing_Data.ipynb - Colab"
           },
           {
-            "start": "09:57",
+            "cat": "meeting",
             "end": "10:00",
-            "cat": "meeting",
+            "note": "com.microsoft.teams2",
             "src": "macos",
-            "title": "teams2",
-            "note": "com.microsoft.teams2"
+            "start": "09:57",
+            "title": "teams2"
           },
           {
-            "start": "10:00",
+            "cat": "meeting",
             "end": "10:01",
-            "cat": "meeting",
+            "note": "us.zoom.xos",
             "src": "macos",
-            "title": "xos",
-            "note": "us.zoom.xos"
+            "start": "10:00",
+            "title": "xos"
           },
           {
-            "start": "10:01",
+            "cat": "admin",
             "end": "10:02",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "10:01",
+            "title": "Outlook"
           },
           {
-            "start": "10:05",
+            "cat": "meeting",
             "end": "10:08",
-            "cat": "meeting",
+            "note": "com.microsoft.teams2",
             "src": "macos",
-            "title": "teams2",
-            "note": "com.microsoft.teams2"
+            "start": "10:05",
+            "title": "teams2"
           },
           {
-            "start": "10:09",
+            "cat": "admin",
             "end": "10:10",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "10:09",
+            "title": "Outlook"
           },
           {
-            "start": "10:10",
+            "cat": "admin",
             "end": "10:11",
-            "cat": "admin",
+            "note": "url.au.m.mimecastprotect.com",
             "src": "chrome",
-            "title": "Candidate Home",
-            "note": "url.au.m.mimecastprotect.com"
+            "start": "10:10",
+            "title": "Candidate Home"
           },
           {
-            "start": "10:11",
+            "cat": "admin",
             "end": "10:13",
-            "cat": "admin",
+            "note": "mq.wd3.myworkdayjobs.com",
             "src": "macos",
-            "title": "Candidate Home",
-            "note": "mq.wd3.myworkdayjobs.com"
+            "start": "10:11",
+            "title": "Candidate Home"
           },
           {
-            "start": "10:13",
+            "cat": "coding",
             "end": "10:16",
-            "cat": "coding",
+            "note": "apps.powerapps.com",
             "src": "macos",
-            "title": "FSE Teaching Associate EOI - Power Apps",
-            "note": "apps.powerapps.com"
+            "start": "10:13",
+            "title": "FSE Teaching Associate EOI - Power Apps"
           },
           {
-            "start": "10:17",
+            "cat": "admin",
             "end": "10:24",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "10:17",
+            "title": "Outlook"
           },
           {
-            "start": "10:24",
+            "cat": "coding",
             "end": "10:26",
-            "cat": "coding",
+            "note": "apps.powerapps.com",
             "src": "macos",
-            "title": "FSE Teaching Associate EOI - Power Apps",
-            "note": "apps.powerapps.com"
+            "start": "10:24",
+            "title": "FSE Teaching Associate EOI - Power Apps"
           },
           {
-            "start": "10:26",
+            "cat": "admin",
             "end": "10:30",
-            "cat": "admin",
+            "note": "url.au.m.mimecastprotect.com",
             "src": "chrome",
-            "title": "Candidate Home",
-            "note": "url.au.m.mimecastprotect.com"
+            "start": "10:26",
+            "title": "Candidate Home"
           },
           {
-            "start": "10:30",
+            "cat": "coding",
             "end": "10:33",
-            "cat": "coding",
+            "note": "apps.powerapps.com",
             "src": "chrome",
-            "title": "FSE Teaching Associate EOI - Power Apps",
-            "note": "apps.powerapps.com"
+            "start": "10:30",
+            "title": "FSE Teaching Associate EOI - Power Apps"
           },
           {
-            "start": "10:33",
+            "cat": "meeting",
             "end": "10:37",
-            "cat": "meeting",
+            "note": "us.zoom.xos",
             "src": "macos",
-            "title": "xos",
-            "note": "us.zoom.xos"
+            "start": "10:33",
+            "title": "xos"
           },
           {
-            "start": "10:37",
+            "cat": "admin",
             "end": "10:45",
-            "cat": "admin",
+            "note": "google.com",
             "src": "chrome",
-            "title": "Log in to the site | iLearn",
-            "note": "google.com"
+            "start": "10:37",
+            "title": "Log in to the site | iLearn"
           },
           {
-            "start": "10:45",
+            "cat": "meeting",
             "end": "10:50",
-            "cat": "meeting",
+            "note": "echo360.net.au",
             "src": "macos",
-            "title": "Class List",
-            "note": "echo360.net.au"
+            "start": "10:45",
+            "title": "Class List"
           },
           {
-            "start": "10:50",
+            "cat": "admin",
             "end": "11:02",
-            "cat": "admin",
+            "note": "google.com",
             "src": "chrome",
-            "title": "Log in to the site | iLearn",
-            "note": "google.com"
+            "start": "10:50",
+            "title": "Log in to the site | iLearn"
           },
           {
-            "start": "11:03",
+            "cat": "admin",
             "end": "11:05",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "11:03",
+            "title": "Outlook"
           },
           {
-            "start": "11:05",
+            "cat": "admin",
             "end": "11:08",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "chrome",
-            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "11:05",
+            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn"
           },
           {
-            "start": "11:08",
+            "cat": "meeting",
             "end": "11:09",
-            "cat": "meeting",
+            "note": "echo360.net.au",
             "src": "macos",
-            "title": "COMP2200+6200_SHFYR_2026 - Lecture_1/01 - 21WW MACTH",
-            "note": "echo360.net.au"
+            "start": "11:08",
+            "title": "COMP2200+6200_SHFYR_2026 - Lecture_1/01 - 21WW MACTH"
           },
           {
-            "start": "11:09",
+            "cat": "admin",
             "end": "11:11",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "chrome",
-            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "11:09",
+            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn"
           },
           {
-            "start": "11:11",
+            "cat": "meeting",
             "end": "11:24",
-            "cat": "meeting",
+            "note": "echo360.net.au",
             "src": "macos",
-            "title": "COMP2200+6200_SHFYR_2026 - Lecture_1/01 - 21WW MACTH",
-            "note": "echo360.net.au"
+            "start": "11:11",
+            "title": "COMP2200+6200_SHFYR_2026 - Lecture_1/01 - 21WW MACTH"
           },
           {
-            "start": "11:24",
+            "cat": "admin",
             "end": "11:27",
-            "cat": "admin",
+            "note": "url.au.m.mimecastprotect.com",
             "src": "chrome",
-            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Welcome to Data Scien",
-            "note": "url.au.m.mimecastprotect.com"
+            "start": "11:24",
+            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Welcome to Data Scien"
           },
           {
-            "start": "11:27",
+            "cat": "meeting",
             "end": "11:31",
-            "cat": "meeting",
+            "note": "echo360.net.au",
             "src": "chrome",
-            "title": "COMP2200+6200_SHFYR_2026 - Lecture_1/01 - 21WW MACTH",
-            "note": "echo360.net.au"
+            "start": "11:27",
+            "title": "COMP2200+6200_SHFYR_2026 - Lecture_1/01 - 21WW MACTH"
           },
           {
-            "start": "11:35",
+            "cat": "writing",
             "end": "11:42",
-            "cat": "writing",
+            "note": "md.obsidian",
             "src": "macos",
-            "title": "obsidian",
-            "note": "md.obsidian"
+            "start": "11:35",
+            "title": "obsidian"
           },
           {
-            "start": "11:43",
+            "cat": "writing",
             "end": "11:46",
-            "cat": "writing",
+            "note": "md.obsidian",
             "src": "macos",
-            "title": "obsidian",
-            "note": "md.obsidian"
+            "start": "11:43",
+            "title": "obsidian"
           },
           {
-            "start": "11:46",
+            "cat": "meeting",
             "end": "11:59",
-            "cat": "meeting",
+            "note": "echo360.net.au",
             "src": "macos",
-            "title": "COMP2200+6200_SHFYR_2026 - Lecture_1/01 - 21WW MACTH",
-            "note": "echo360.net.au"
+            "start": "11:46",
+            "title": "COMP2200+6200_SHFYR_2026 - Lecture_1/01 - 21WW MACTH"
           },
           {
-            "start": "12:06",
+            "cat": "meeting",
             "end": "12:28",
-            "cat": "meeting",
+            "note": "echo360.net.au",
             "src": "macos",
-            "title": "COMP2200+6200_SHFYR_2026 - Lecture_1/01 - 21WW MACTH",
-            "note": "echo360.net.au"
+            "start": "12:06",
+            "title": "COMP2200+6200_SHFYR_2026 - Lecture_1/01 - 21WW MACTH"
           },
           {
-            "start": "12:28",
+            "cat": "writing",
             "end": "12:34",
-            "cat": "writing",
+            "note": "drive.google.com",
             "src": "macos",
-            "title": "Units - Google Drive",
-            "note": "drive.google.com"
+            "start": "12:28",
+            "title": "Units - Google Drive"
           },
           {
-            "start": "12:34",
+            "cat": "coding",
             "end": "12:36",
-            "cat": "coding",
+            "note": "com.todesktop.240716u3u1yy41w",
             "src": "macos",
-            "title": "240716u3u1yy41w",
-            "note": "com.todesktop.240716u3u1yy41w"
+            "start": "12:34",
+            "title": "240716u3u1yy41w"
           },
           {
-            "start": "12:36",
+            "cat": "writing",
             "end": "12:54",
-            "cat": "writing",
+            "note": "drive.google.com",
             "src": "macos",
-            "title": "Units - Google Drive",
-            "note": "drive.google.com"
+            "start": "12:36",
+            "title": "Units - Google Drive"
           },
           {
-            "start": "13:31",
+            "cat": "writing",
             "end": "13:33",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Progress Updates - Google Sheets",
-            "note": "docs.google.com"
+            "start": "13:31",
+            "title": "Progress Updates - Google Sheets"
           },
           {
-            "start": "13:34",
+            "cat": "writing",
             "end": "13:36",
-            "cat": "writing",
+            "note": "aus01.safelinks.protection.outlook.com",
             "src": "chrome",
-            "title": "Progress Updates - Google Sheets",
-            "note": "aus01.safelinks.protection.outlook.com"
+            "start": "13:34",
+            "title": "Progress Updates - Google Sheets"
           },
           {
-            "start": "13:36",
-            "end": "13:37",
             "cat": "research",
+            "end": "13:37",
+            "note": "com.apple.Preview",
             "src": "macos",
-            "title": "Preview",
-            "note": "com.apple.Preview"
+            "start": "13:36",
+            "title": "Preview"
           },
           {
-            "start": "13:37",
+            "cat": "coding",
             "end": "13:38",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "13:37",
+            "title": "codex"
           },
           {
-            "start": "13:38",
+            "cat": "admin",
             "end": "13:41",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "COMP2200 Data Science / COMP6200: Personal profile: Ada Ren ",
-            "note": "ilearn.mq.edu.au"
+            "start": "13:38",
+            "title": "COMP2200 Data Science / COMP6200: Personal profile: Ada Ren "
           },
           {
-            "start": "13:41",
+            "cat": "writing",
             "end": "13:46",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "COMP2200 TAs.xlsx - Google Sheets",
-            "note": "docs.google.com"
+            "start": "13:41",
+            "title": "COMP2200 TAs.xlsx - Google Sheets"
           },
           {
-            "start": "13:46",
+            "cat": "admin",
             "end": "13:49",
-            "cat": "admin",
+            "note": "com.microsoft.Excel",
             "src": "macos",
-            "title": "Excel",
-            "note": "com.microsoft.Excel"
+            "start": "13:46",
+            "title": "Excel"
           },
           {
-            "start": "13:49",
+            "cat": "writing",
             "end": "13:53",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "COMP2200 TAs.xlsx - Google Sheets",
-            "note": "docs.google.com"
+            "start": "13:49",
+            "title": "COMP2200 TAs.xlsx - Google Sheets"
           },
           {
-            "start": "13:53",
+            "cat": "admin",
             "end": "13:55",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Edit profile | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "13:53",
+            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Edit profile | iLearn"
           },
           {
-            "start": "13:55",
+            "cat": "admin",
             "end": "13:56",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "COMP2200 Data Science / COMP6200: Personal profile: Ada Ren ",
-            "note": "ilearn.mq.edu.au"
+            "start": "13:55",
+            "title": "COMP2200 Data Science / COMP6200: Personal profile: Ada Ren "
           },
           {
-            "start": "13:56",
+            "cat": "coding",
             "end": "13:57",
-            "cat": "coding",
+            "note": "com.todesktop.240716u3u1yy41w",
             "src": "macos",
-            "title": "240716u3u1yy41w",
-            "note": "com.todesktop.240716u3u1yy41w"
+            "start": "13:56",
+            "title": "240716u3u1yy41w"
           },
           {
-            "start": "13:57",
+            "cat": "admin",
             "end": "13:59",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "COMP2200 Data Science / COMP6200: Personal profile: Ada Ren ",
-            "note": "ilearn.mq.edu.au"
+            "start": "13:57",
+            "title": "COMP2200 Data Science / COMP6200: Personal profile: Ada Ren "
           },
           {
-            "start": "13:59",
+            "cat": "admin",
             "end": "14:01",
-            "cat": "admin",
+            "note": "mq.wd3.myworkdayjobs.com",
             "src": "macos",
-            "title": "Candidate Home",
-            "note": "mq.wd3.myworkdayjobs.com"
+            "start": "13:59",
+            "title": "Candidate Home"
           },
           {
-            "start": "14:02",
+            "cat": "admin",
             "end": "14:04",
-            "cat": "admin",
+            "note": "mq.wd3.myworkdayjobs.com",
             "src": "macos",
-            "title": "候选人主页 --- Candidate Home",
-            "note": "mq.wd3.myworkdayjobs.com"
+            "start": "14:02",
+            "title": "候选人主页 --- Candidate Home"
           },
           {
-            "start": "14:04",
+            "cat": "coding",
             "end": "14:06",
-            "cat": "coding",
+            "note": "apps.powerapps.com",
             "src": "macos",
-            "title": "FSE Teaching Associate EOI - Power Apps",
-            "note": "apps.powerapps.com"
+            "start": "14:04",
+            "title": "FSE Teaching Associate EOI - Power Apps"
           },
           {
-            "start": "14:06",
+            "cat": "admin",
             "end": "14:07",
-            "cat": "admin",
+            "note": "mq.wd3.myworkdayjobs.com",
             "src": "macos",
-            "title": "Candidate Home",
-            "note": "mq.wd3.myworkdayjobs.com"
+            "start": "14:06",
+            "title": "Candidate Home"
           },
           {
-            "start": "14:08",
+            "cat": "writing",
             "end": "14:09",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "COMP2200 TAs.xlsx - Google Sheets",
-            "note": "docs.google.com"
+            "start": "14:08",
+            "title": "COMP2200 TAs.xlsx - Google Sheets"
           },
           {
-            "start": "14:09",
+            "cat": "coding",
             "end": "14:12",
-            "cat": "coding",
+            "note": "apps.powerapps.com",
             "src": "macos",
-            "title": "FSE Teaching Associate EOI - Power Apps",
-            "note": "apps.powerapps.com"
+            "start": "14:09",
+            "title": "FSE Teaching Associate EOI - Power Apps"
           },
           {
-            "start": "14:12",
+            "cat": "admin",
             "end": "14:16",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "chrome",
-            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Edit profile | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "14:12",
+            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Edit profile | iLearn"
           },
           {
-            "start": "14:16",
+            "cat": "coding",
             "end": "14:20",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "14:16",
+            "title": "VSCode"
           },
           {
-            "start": "14:20",
+            "cat": "coding",
             "end": "14:31",
-            "cat": "coding",
+            "note": "96 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "96 hits"
+            "start": "14:20",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "14:32",
+            "cat": "coding",
             "end": "14:35",
-            "cat": "coding",
+            "note": "96 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "96 hits"
+            "start": "14:32",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "14:35",
+            "cat": "coding",
             "end": "15:13",
-            "cat": "coding",
+            "note": "scikit-learn.org",
             "src": "chrome",
-            "title": "silhouette_score — scikit-learn 1.9.0 documentation",
-            "note": "scikit-learn.org"
+            "start": "14:35",
+            "title": "silhouette_score — scikit-learn 1.9.0 documentation"
           },
           {
-            "start": "15:14",
+            "cat": "coding",
             "end": "15:22",
-            "cat": "coding",
+            "note": "scikit-learn.org",
             "src": "chrome",
-            "title": "Selecting the number of clusters with silhouette analysis on",
-            "note": "scikit-learn.org"
+            "start": "15:14",
+            "title": "Selecting the number of clusters with silhouette analysis on"
           },
           {
-            "start": "15:22",
+            "cat": "admin",
             "end": "15:23",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "15:22",
+            "title": "Outlook"
           },
           {
-            "start": "15:24",
+            "cat": "admin",
             "end": "15:26",
-            "cat": "admin",
+            "note": "com.microsoft.Excel",
             "src": "macos",
-            "title": "Excel",
-            "note": "com.microsoft.Excel"
+            "start": "15:24",
+            "title": "Excel"
           },
           {
-            "start": "15:26",
+            "cat": "coding",
             "end": "15:27",
-            "cat": "coding",
+            "note": "scikit-learn.org",
             "src": "chrome",
-            "title": "Selecting the number of clusters with silhouette analysis on",
-            "note": "scikit-learn.org"
+            "start": "15:26",
+            "title": "Selecting the number of clusters with silhouette analysis on"
           },
           {
-            "start": "15:28",
+            "cat": "admin",
             "end": "15:29",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "chrome",
-            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "15:28",
+            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn"
           },
           {
-            "start": "15:29",
+            "cat": "coding",
             "end": "15:48",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "15:29",
+            "title": "VSCode"
           },
           {
-            "start": "15:48",
+            "cat": "coding",
             "end": "15:55",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "15:48",
+            "title": "VSCode"
           },
           {
-            "start": "16:03",
+            "cat": "meeting",
             "end": "16:14",
-            "cat": "meeting",
+            "note": "macquarie.zoom.us",
             "src": "macos",
-            "title": "Join from Zoom Workplace app - Zoom",
-            "note": "macquarie.zoom.us"
+            "start": "16:03",
+            "title": "Join from Zoom Workplace app - Zoom"
           },
           {
-            "start": "16:14",
+            "cat": "writing",
             "end": "16:16",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Progress Updates - Google Sheets",
-            "note": "docs.google.com"
+            "start": "16:14",
+            "title": "Progress Updates - Google Sheets"
           },
           {
-            "start": "16:16",
+            "cat": "meeting",
             "end": "16:26",
-            "cat": "meeting",
+            "note": "us.zoom.xos",
             "src": "macos",
-            "title": "xos",
-            "note": "us.zoom.xos"
+            "start": "16:16",
+            "title": "xos"
           },
           {
-            "start": "16:26",
+            "cat": "writing",
             "end": "16:32",
-            "cat": "writing",
+            "note": "aus01.safelinks.protection.outlook.com",
             "src": "chrome",
-            "title": "Progress Updates - Google Sheets",
-            "note": "aus01.safelinks.protection.outlook.com"
+            "start": "16:26",
+            "title": "Progress Updates - Google Sheets"
           },
           {
-            "start": "16:32",
+            "cat": "meeting",
             "end": "16:47",
-            "cat": "meeting",
+            "note": "us.zoom.xos",
             "src": "macos",
-            "title": "xos",
-            "note": "us.zoom.xos"
+            "start": "16:32",
+            "title": "xos"
           },
           {
-            "start": "16:49",
-            "end": "16:53",
             "cat": "writing",
+            "end": "16:53",
+            "note": "docs.google.com",
             "src": "chrome",
-            "title": "COMP2200 TAs.xlsx - Google Sheets",
-            "note": "docs.google.com"
+            "start": "16:49",
+            "title": "COMP2200 TAs.xlsx - Google Sheets"
           },
           {
-            "start": "16:54",
+            "cat": "coding",
             "end": "17:01",
-            "cat": "coding",
+            "note": "apps.powerapps.com",
             "src": "chrome",
-            "title": "KMeans — scikit-learn 1.9.0 documentation",
-            "note": "apps.powerapps.com"
+            "start": "16:54",
+            "title": "KMeans — scikit-learn 1.9.0 documentation"
           },
           {
-            "start": "17:01",
+            "cat": "admin",
             "end": "17:21",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Announcements | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "17:01",
+            "title": "Announcements | iLearn"
           },
           {
-            "start": "17:28",
+            "cat": "admin",
             "end": "17:33",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Announcements | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "17:28",
+            "title": "Announcements | iLearn"
           },
           {
-            "start": "17:38",
+            "cat": "admin",
             "end": "17:43",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Announcements | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "17:38",
+            "title": "Announcements | iLearn"
           },
           {
-            "start": "18:00",
+            "cat": "admin",
             "end": "18:01",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Announcements | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "18:00",
+            "title": "Announcements | iLearn"
           },
           {
-            "start": "18:01",
+            "cat": "coding",
             "end": "18:06",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "Week_1_Loading_and_Viewing_Data.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "18:01",
+            "title": "Week_1_Loading_and_Viewing_Data.ipynb - Colab"
           },
           {
-            "start": "18:06",
+            "cat": "admin",
             "end": "18:19",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "chrome",
-            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Week 1 Practical | iL",
-            "note": "ilearn.mq.edu.au"
+            "start": "18:06",
+            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Week 1 Practical | iL"
           },
           {
-            "start": "18:19",
+            "cat": "coding",
             "end": "18:32",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "chrome",
-            "title": "Week_1_Loading_and_Viewing_Data.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "18:19",
+            "title": "Week_1_Loading_and_Viewing_Data.ipynb - Colab"
           },
           {
-            "start": "18:32",
+            "cat": "coding",
             "end": "19:07",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "Week_1_Loading_and_Viewing_Data.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "18:32",
+            "title": "Week_1_Loading_and_Viewing_Data.ipynb - Colab"
           },
           {
-            "start": "19:07",
+            "cat": "meeting",
             "end": "19:09",
-            "cat": "meeting",
+            "note": "com.microsoft.teams2",
             "src": "macos",
-            "title": "teams2",
-            "note": "com.microsoft.teams2"
+            "start": "19:07",
+            "title": "teams2"
           },
           {
-            "start": "19:09",
+            "cat": "meeting",
             "end": "19:11",
-            "cat": "meeting",
+            "note": "com.microsoft.teams2",
             "src": "macos",
-            "title": "teams2",
-            "note": "com.microsoft.teams2"
+            "start": "19:09",
+            "title": "teams2"
           },
           {
-            "start": "19:11",
+            "cat": "coding",
             "end": "19:15",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "Week_1_Loading_and_Viewing_Data.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "19:11",
+            "title": "Week_1_Loading_and_Viewing_Data.ipynb - Colab"
           },
           {
-            "start": "19:15",
+            "cat": "meeting",
             "end": "19:21",
-            "cat": "meeting",
+            "note": "com.microsoft.teams2",
             "src": "macos",
-            "title": "teams2",
-            "note": "com.microsoft.teams2"
+            "start": "19:15",
+            "title": "teams2"
           },
           {
-            "start": "19:21",
+            "cat": "admin",
             "end": "19:23",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "19:21",
+            "title": "Outlook"
           },
           {
-            "start": "19:24",
+            "cat": "meeting",
             "end": "19:25",
-            "cat": "meeting",
+            "note": "com.microsoft.teams2",
             "src": "macos",
-            "title": "teams2",
-            "note": "com.microsoft.teams2"
+            "start": "19:24",
+            "title": "teams2"
           },
           {
-            "start": "19:26",
+            "cat": "coding",
             "end": "19:29",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "19:26",
+            "title": "codex"
           },
           {
-            "start": "19:29",
+            "cat": "meeting",
             "end": "19:31",
-            "cat": "meeting",
+            "note": "com.microsoft.teams2",
             "src": "macos",
-            "title": "teams2",
-            "note": "com.microsoft.teams2"
+            "start": "19:29",
+            "title": "teams2"
           },
           {
-            "start": "19:31",
-            "end": "19:32",
             "cat": "coding",
+            "end": "19:32",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "19:31",
+            "title": "codex"
           },
           {
-            "start": "19:32",
+            "cat": "meeting",
             "end": "19:35",
-            "cat": "meeting",
+            "note": "com.microsoft.teams2",
             "src": "macos",
-            "title": "teams2",
-            "note": "com.microsoft.teams2"
+            "start": "19:32",
+            "title": "teams2"
           },
           {
-            "start": "19:35",
+            "cat": "admin",
             "end": "19:39",
-            "cat": "admin",
+            "note": "google.com",
             "src": "chrome",
-            "title": "Learn Python Online, Python Training Courses for all Levels ",
-            "note": "google.com"
+            "start": "19:35",
+            "title": "Learn Python Online, Python Training Courses for all Levels "
           },
           {
-            "start": "19:40",
-            "end": "19:41",
             "cat": "meeting",
+            "end": "19:41",
+            "note": "com.microsoft.teams2",
             "src": "macos",
-            "title": "teams2",
-            "note": "com.microsoft.teams2"
+            "start": "19:40",
+            "title": "teams2"
           },
           {
-            "start": "19:41",
+            "cat": "admin",
             "end": "19:43",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Announcements | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "19:41",
+            "title": "Announcements | iLearn"
           },
           {
-            "start": "19:43",
-            "end": "20:07",
             "cat": "admin",
+            "end": "20:07",
+            "note": "ilearn.mq.edu.au",
             "src": "chrome",
-            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Assignment 1a | iLear",
-            "note": "ilearn.mq.edu.au"
+            "start": "19:43",
+            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Assignment 1a | iLear"
           }
         ],
+        "key": "2026-7-27",
         "logged": 529,
-        "real": 384,
-        "deep": 384,
         "ratio": 0.7256942104293941,
+        "real": 384,
         "stats": {
           "contextSwitches": 65,
-          "tabsOpened": 69,
+          "justOneMoreThing": 13,
           "longestFocus": "1h 23m",
-          "justOneMoreThing": 13
-        }
+          "tabsOpened": 69
+        },
+        "weekend": false
       },
       {
         "key": "2026-7-28",
@@ -43226,26 +43226,826 @@
         "dateShort": "Tue, Jul 28",
         "dateLong": "Tuesday, July 28",
         "dayStart": "10:04",
-        "dayEnd": "10:27",
+        "dayEnd": "22:36",
         "events": [
           {
             "start": "10:04",
+            "end": "10:09",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Macquarie University - Sign In",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "10:09",
+            "end": "10:11",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "10:11",
+            "end": "10:13",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "10:13",
+            "end": "10:16",
+            "cat": "writing",
+            "src": "macos",
+            "title": "obsidian",
+            "note": "md.obsidian"
+          },
+          {
+            "start": "10:16",
+            "end": "10:22",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "10:22",
             "end": "10:27",
             "cat": "admin",
             "src": "chrome",
             "title": "Macquarie University - Sign In",
             "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "10:27",
+            "end": "10:27",
+            "cat": "writing",
+            "src": "chrome",
+            "title": "Progress Updates - Google Sheets",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "10:27",
+            "end": "10:28",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "10:29",
+            "end": "10:30",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "FSE Teaching Associate EOI - Power Apps",
+            "note": "apps.powerapps.com"
+          },
+          {
+            "start": "10:30",
+            "end": "10:35",
+            "cat": "admin",
+            "src": "macos",
+            "title": "ask gemini in chrome - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "10:35",
+            "end": "10:38",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Chrome now has Gemini baked in and I genuinely don't know if",
+            "note": "reddit.com"
+          },
+          {
+            "start": "10:38",
+            "end": "10:40",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "10:40",
+            "end": "10:42",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Chrome now has Gemini baked in and I genuinely don't know if",
+            "note": "reddit.com"
+          },
+          {
+            "start": "10:42",
+            "end": "10:43",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "10:43",
+            "end": "10:46",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Chrome now has Gemini baked in and I genuinely don't know if",
+            "note": "reddit.com"
+          },
+          {
+            "start": "10:46",
+            "end": "10:48",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Ada's rebuttal on EduAgentBench - Google Docs",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "10:48",
+            "end": "10:49",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "10:49",
+            "end": "10:50",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "10:50",
+            "end": "10:55",
+            "cat": "writing",
+            "src": "chrome",
+            "title": "Ada's rebuttal on EduAgentBench - Google Docs",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "10:56",
+            "end": "11:15",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "11:24",
+            "end": "11:25",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "11:25",
+            "end": "11:45",
+            "cat": "admin",
+            "src": "macos",
+            "title": "silhouette score - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "11:45",
+            "end": "11:47",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "11:47",
+            "end": "11:48",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Dreamina Seedance 2.0 Official Release",
+            "note": "google.com"
+          },
+          {
+            "start": "11:48",
+            "end": "11:50",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Untitled design - Video",
+            "note": "canva.com"
+          },
+          {
+            "start": "11:50",
+            "end": "11:56",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Dreamina Seedance 2.0 Official Release",
+            "note": "google.com"
+          },
+          {
+            "start": "11:56",
+            "end": "12:03",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "12:03",
+            "end": "12:04",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Untitled design - Video",
+            "note": "canva.com"
+          },
+          {
+            "start": "12:05",
+            "end": "12:06",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Dreamina Seedance 2.0 Official Release",
+            "note": "google.com"
+          },
+          {
+            "start": "12:07",
+            "end": "12:08",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "12:08",
+            "end": "12:24",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "12:25",
+            "end": "12:43",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Where the time actually went | Ada's Notes",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "13:39",
+            "end": "13:42",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "13:42",
+            "end": "13:43",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "teams2",
+            "note": "com.microsoft.teams2"
+          },
+          {
+            "start": "13:45",
+            "end": "13:48",
+            "cat": "admin",
+            "src": "claude",
+            "title": "PhD worklog review",
+            "note": "62 hits"
+          },
+          {
+            "start": "13:48",
+            "end": "13:52",
+            "cat": "admin",
+            "src": "claude",
+            "title": "PhD worklog review",
+            "note": "62 hits"
+          },
+          {
+            "start": "13:52",
+            "end": "13:53",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "13:53",
+            "end": "13:55",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "13:55",
+            "end": "14:09",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "14:10",
+            "end": "14:10",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Share files and folders in Microsoft OneDrive | Microsoft Su",
+            "note": "mqoutlook-my.sharepoint.com"
+          },
+          {
+            "start": "14:11",
+            "end": "14:15",
+            "cat": "coding",
+            "src": "macos",
+            "title": "FSE Teaching Associate EOI - Power Apps",
+            "note": "apps.powerapps.com"
+          },
+          {
+            "start": "14:15",
+            "end": "14:25",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "14:25",
+            "end": "14:30",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "14:30",
+            "end": "14:39",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "14:39",
+            "end": "14:39",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Macquarie University Password Reset Registration",
+            "note": "url.au.m.mimecastprotect.com"
+          },
+          {
+            "start": "14:39",
+            "end": "14:41",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "14:42",
+            "end": "14:50",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Macquarie University Password Reset Registration",
+            "note": "url.au.m.mimecastprotect.com"
+          },
+          {
+            "start": "14:50",
+            "end": "14:56",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Sign in to your account",
+            "note": "login.microsoftonline.com"
+          },
+          {
+            "start": "14:56",
+            "end": "14:57",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "teams2",
+            "note": "com.microsoft.teams2"
+          },
+          {
+            "start": "14:57",
+            "end": "14:59",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Timesheet FAQ 2026 S2_5576306451629559957.pdf",
+            "note": "file:///Users/ada/Library/Containers/com"
+          },
+          {
+            "start": "14:59",
+            "end": "15:02",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "15:02",
+            "end": "15:07",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "15:08",
+            "end": "15:09",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Macquarie University - Sign In",
+            "note": "mq.okta.com"
+          },
+          {
+            "start": "15:09",
+            "end": "15:20",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Forgot Your Password? - Workday Accounts",
+            "note": "wd3-identity.myworkday.com"
+          },
+          {
+            "start": "15:20",
+            "end": "15:21",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Timesheet FAQ 2026 S2_5576306451629559957.pdf",
+            "note": "passwordreset.microsoftonline.com"
+          },
+          {
+            "start": "15:22",
+            "end": "15:40",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Apply for a TFN | Australian Taxation Office",
+            "note": "mq.okta.com"
+          },
+          {
+            "start": "15:40",
+            "end": "15:40",
+            "cat": "research",
+            "src": "macos",
+            "title": "Page not found",
+            "note": "wiki.mq.edu.au"
+          },
+          {
+            "start": "15:41",
+            "end": "15:45",
+            "cat": "admin",
+            "src": "macos",
+            "title": "My Tasks (All Items) - Workday",
+            "note": "wd3.myworkday.com"
+          },
+          {
+            "start": "15:45",
+            "end": "15:46",
+            "cat": "admin",
+            "src": "macos",
+            "title": "myID verification code - ada.ren.cn@gmail.com - Gmail",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "15:47",
+            "end": "15:48",
+            "cat": "admin",
+            "src": "macos",
+            "title": "My Tasks (All Items) - Workday",
+            "note": "wd3.myworkday.com"
+          },
+          {
+            "start": "15:48",
+            "end": "15:57",
+            "cat": "admin",
+            "src": "macos",
+            "title": "My Tasks (All Items) - Workday",
+            "note": "wd3.myworkday.com"
+          },
+          {
+            "start": "15:57",
+            "end": "15:59",
+            "cat": "research",
+            "src": "macos",
+            "title": "Preview",
+            "note": "com.apple.Preview"
+          },
+          {
+            "start": "16:00",
+            "end": "16:01",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "IMMI Grant Notification - BCC2026/1131108 - 720716747 - REN,",
+            "note": "wd3.myworkday.com"
+          },
+          {
+            "start": "16:01",
+            "end": "16:37",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "IMMI Grant Notification - BCC2026/1131108 - 720716747 - REN,",
+            "note": "wd3.myworkday.com"
+          },
+          {
+            "start": "16:37",
+            "end": "17:09",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Update your personal contact details | Australian Taxation O",
+            "note": "ato.gov.au"
+          },
+          {
+            "start": "17:09",
+            "end": "17:29",
+            "cat": "admin",
+            "src": "macos",
+            "title": "IMMI Grant Notification - BCC2026/1131108 - 720716747 - REN,",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "17:30",
+            "end": "17:40",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Home - Workday",
+            "note": "wd3.myworkday.com"
+          },
+          {
+            "start": "17:40",
+            "end": "17:53",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "17:53",
+            "end": "17:55",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "17:55",
+            "end": "17:56",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "17:56",
+            "end": "18:05",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "NetBank - Log on to NetBank - Enjoy simple and secure online",
+            "note": "wd3.myworkday.com"
+          },
+          {
+            "start": "18:05",
+            "end": "18:32",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "18:32",
+            "end": "18:36",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "NetBank - Log on to NetBank - Enjoy simple and secure online",
+            "note": "wd3.myworkday.com"
+          },
+          {
+            "start": "18:36",
+            "end": "18:56",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "18:57",
+            "end": "19:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "58 hits"
+          },
+          {
+            "start": "19:03",
+            "end": "19:10",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "58 hits"
+          },
+          {
+            "start": "19:10",
+            "end": "19:20",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "58 hits"
+          },
+          {
+            "start": "19:20",
+            "end": "19:30",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "6 hits"
+          },
+          {
+            "start": "19:31",
+            "end": "19:45",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "289 hits"
+          },
+          {
+            "start": "19:45",
+            "end": "19:59",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "289 hits"
+          },
+          {
+            "start": "20:00",
+            "end": "20:06",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "289 hits"
+          },
+          {
+            "start": "20:06",
+            "end": "20:09",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "289 hits"
+          },
+          {
+            "start": "20:09",
+            "end": "20:22",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "289 hits"
+          },
+          {
+            "start": "20:22",
+            "end": "20:24",
+            "cat": "admin",
+            "src": "macos",
+            "title": "(24) Discord | Friends",
+            "note": "discord.com"
+          },
+          {
+            "start": "20:24",
+            "end": "20:26",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Excel",
+            "note": "com.microsoft.Excel"
+          },
+          {
+            "start": "20:26",
+            "end": "20:27",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "20:28",
+            "end": "20:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "61 hits"
+          },
+          {
+            "start": "20:34",
+            "end": "20:41",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "61 hits"
+          },
+          {
+            "start": "20:41",
+            "end": "20:43",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Excel",
+            "note": "com.microsoft.Excel"
+          },
+          {
+            "start": "20:43",
+            "end": "20:45",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "20:45",
+            "end": "20:47",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Excel",
+            "note": "com.microsoft.Excel"
+          },
+          {
+            "start": "20:47",
+            "end": "21:23",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "174 hits"
+          },
+          {
+            "start": "21:26",
+            "end": "21:29",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Excel",
+            "note": "com.microsoft.Excel"
+          },
+          {
+            "start": "21:29",
+            "end": "21:38",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "21:38",
+            "end": "21:51",
+            "cat": "writing",
+            "src": "macos",
+            "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea",
+            "note": "overleaf.com"
+          },
+          {
+            "start": "21:51",
+            "end": "21:57",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "21:57",
+            "end": "22:01",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "210 hits"
+          },
+          {
+            "start": "22:01",
+            "end": "22:05",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "210 hits"
+          },
+          {
+            "start": "22:05",
+            "end": "22:10",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "210 hits"
+          },
+          {
+            "start": "22:10",
+            "end": "22:11",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "210 hits"
+          },
+          {
+            "start": "22:12",
+            "end": "22:36",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "210 hits"
           }
         ],
-        "logged": 22,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0.0,
+        "logged": 666,
+        "real": 344,
+        "deep": 344,
+        "ratio": 0.5168573892274384,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 3,
-          "longestFocus": "0m",
-          "justOneMoreThing": 0
+          "contextSwitches": 51,
+          "tabsOpened": 54,
+          "longestFocus": "1h 43m",
+          "justOneMoreThing": 9
         }
       },
       {
@@ -43255,16 +44055,25 @@
         "weekend": false,
         "dateShort": "Wed, Jul 29",
         "dateLong": "Wednesday, July 29",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
+        "dayStart": "10:02",
+        "dayEnd": "10:30",
+        "events": [
+          {
+            "start": "10:02",
+            "end": "10:30",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Macquarie University | Top 1.5% in the world | Multiply your",
+            "note": "mq.edu.au"
+          }
+        ],
+        "logged": 28,
         "real": 0,
         "deep": 0,
-        "ratio": 0,
+        "ratio": 0.0,
         "stats": {
           "contextSwitches": 0,
-          "tabsOpened": 0,
+          "tabsOpened": 3,
           "longestFocus": "0m",
           "justOneMoreThing": 0
         }
@@ -64606,754 +65415,754 @@
       "weekend": true
     },
     {
-      "key": "2026-7-27",
-      "dayNum": 27,
-      "dow": 1,
-      "weekend": false,
-      "dateShort": "Mon, Jul 27",
       "dateLong": "Monday, July 27",
-      "dayStart": "09:17",
+      "dateShort": "Mon, Jul 27",
       "dayEnd": "20:07",
+      "dayNum": 27,
+      "dayStart": "09:17",
+      "deep": 384,
+      "dow": 1,
       "events": [
         {
-          "start": "09:17",
+          "cat": "coding",
           "end": "09:19",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "09:17",
+          "title": "VSCode"
         },
         {
-          "start": "09:25",
+          "cat": "coding",
           "end": "09:46",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "chrome",
-          "title": "Week_1_Loading_and_Viewing_Data.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "09:25",
+          "title": "Week_1_Loading_and_Viewing_Data.ipynb - Colab"
         },
         {
-          "start": "09:57",
+          "cat": "meeting",
           "end": "10:00",
-          "cat": "meeting",
+          "note": "com.microsoft.teams2",
           "src": "macos",
-          "title": "teams2",
-          "note": "com.microsoft.teams2"
+          "start": "09:57",
+          "title": "teams2"
         },
         {
-          "start": "10:00",
+          "cat": "meeting",
           "end": "10:01",
-          "cat": "meeting",
+          "note": "us.zoom.xos",
           "src": "macos",
-          "title": "xos",
-          "note": "us.zoom.xos"
+          "start": "10:00",
+          "title": "xos"
         },
         {
-          "start": "10:01",
+          "cat": "admin",
           "end": "10:02",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "10:01",
+          "title": "Outlook"
         },
         {
-          "start": "10:05",
+          "cat": "meeting",
           "end": "10:08",
-          "cat": "meeting",
+          "note": "com.microsoft.teams2",
           "src": "macos",
-          "title": "teams2",
-          "note": "com.microsoft.teams2"
+          "start": "10:05",
+          "title": "teams2"
         },
         {
-          "start": "10:09",
+          "cat": "admin",
           "end": "10:10",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "10:09",
+          "title": "Outlook"
         },
         {
-          "start": "10:10",
+          "cat": "admin",
           "end": "10:11",
-          "cat": "admin",
+          "note": "url.au.m.mimecastprotect.com",
           "src": "chrome",
-          "title": "Candidate Home",
-          "note": "url.au.m.mimecastprotect.com"
+          "start": "10:10",
+          "title": "Candidate Home"
         },
         {
-          "start": "10:11",
+          "cat": "admin",
           "end": "10:13",
-          "cat": "admin",
+          "note": "mq.wd3.myworkdayjobs.com",
           "src": "macos",
-          "title": "Candidate Home",
-          "note": "mq.wd3.myworkdayjobs.com"
+          "start": "10:11",
+          "title": "Candidate Home"
         },
         {
-          "start": "10:13",
+          "cat": "coding",
           "end": "10:16",
-          "cat": "coding",
+          "note": "apps.powerapps.com",
           "src": "macos",
-          "title": "FSE Teaching Associate EOI - Power Apps",
-          "note": "apps.powerapps.com"
+          "start": "10:13",
+          "title": "FSE Teaching Associate EOI - Power Apps"
         },
         {
-          "start": "10:17",
+          "cat": "admin",
           "end": "10:24",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "10:17",
+          "title": "Outlook"
         },
         {
-          "start": "10:24",
+          "cat": "coding",
           "end": "10:26",
-          "cat": "coding",
+          "note": "apps.powerapps.com",
           "src": "macos",
-          "title": "FSE Teaching Associate EOI - Power Apps",
-          "note": "apps.powerapps.com"
+          "start": "10:24",
+          "title": "FSE Teaching Associate EOI - Power Apps"
         },
         {
-          "start": "10:26",
+          "cat": "admin",
           "end": "10:30",
-          "cat": "admin",
+          "note": "url.au.m.mimecastprotect.com",
           "src": "chrome",
-          "title": "Candidate Home",
-          "note": "url.au.m.mimecastprotect.com"
+          "start": "10:26",
+          "title": "Candidate Home"
         },
         {
-          "start": "10:30",
+          "cat": "coding",
           "end": "10:33",
-          "cat": "coding",
+          "note": "apps.powerapps.com",
           "src": "chrome",
-          "title": "FSE Teaching Associate EOI - Power Apps",
-          "note": "apps.powerapps.com"
+          "start": "10:30",
+          "title": "FSE Teaching Associate EOI - Power Apps"
         },
         {
-          "start": "10:33",
+          "cat": "meeting",
           "end": "10:37",
-          "cat": "meeting",
+          "note": "us.zoom.xos",
           "src": "macos",
-          "title": "xos",
-          "note": "us.zoom.xos"
+          "start": "10:33",
+          "title": "xos"
         },
         {
-          "start": "10:37",
+          "cat": "admin",
           "end": "10:45",
-          "cat": "admin",
+          "note": "google.com",
           "src": "chrome",
-          "title": "Log in to the site | iLearn",
-          "note": "google.com"
+          "start": "10:37",
+          "title": "Log in to the site | iLearn"
         },
         {
-          "start": "10:45",
+          "cat": "meeting",
           "end": "10:50",
-          "cat": "meeting",
+          "note": "echo360.net.au",
           "src": "macos",
-          "title": "Class List",
-          "note": "echo360.net.au"
+          "start": "10:45",
+          "title": "Class List"
         },
         {
-          "start": "10:50",
+          "cat": "admin",
           "end": "11:02",
-          "cat": "admin",
+          "note": "google.com",
           "src": "chrome",
-          "title": "Log in to the site | iLearn",
-          "note": "google.com"
+          "start": "10:50",
+          "title": "Log in to the site | iLearn"
         },
         {
-          "start": "11:03",
+          "cat": "admin",
           "end": "11:05",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "11:03",
+          "title": "Outlook"
         },
         {
-          "start": "11:05",
+          "cat": "admin",
           "end": "11:08",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "chrome",
-          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "11:05",
+          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn"
         },
         {
-          "start": "11:08",
+          "cat": "meeting",
           "end": "11:09",
-          "cat": "meeting",
+          "note": "echo360.net.au",
           "src": "macos",
-          "title": "COMP2200+6200_SHFYR_2026 - Lecture_1/01 - 21WW MACTH",
-          "note": "echo360.net.au"
+          "start": "11:08",
+          "title": "COMP2200+6200_SHFYR_2026 - Lecture_1/01 - 21WW MACTH"
         },
         {
-          "start": "11:09",
+          "cat": "admin",
           "end": "11:11",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "chrome",
-          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "11:09",
+          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn"
         },
         {
-          "start": "11:11",
+          "cat": "meeting",
           "end": "11:24",
-          "cat": "meeting",
+          "note": "echo360.net.au",
           "src": "macos",
-          "title": "COMP2200+6200_SHFYR_2026 - Lecture_1/01 - 21WW MACTH",
-          "note": "echo360.net.au"
+          "start": "11:11",
+          "title": "COMP2200+6200_SHFYR_2026 - Lecture_1/01 - 21WW MACTH"
         },
         {
-          "start": "11:24",
+          "cat": "admin",
           "end": "11:27",
-          "cat": "admin",
+          "note": "url.au.m.mimecastprotect.com",
           "src": "chrome",
-          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Welcome to Data Scien",
-          "note": "url.au.m.mimecastprotect.com"
+          "start": "11:24",
+          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Welcome to Data Scien"
         },
         {
-          "start": "11:27",
+          "cat": "meeting",
           "end": "11:31",
-          "cat": "meeting",
+          "note": "echo360.net.au",
           "src": "chrome",
-          "title": "COMP2200+6200_SHFYR_2026 - Lecture_1/01 - 21WW MACTH",
-          "note": "echo360.net.au"
+          "start": "11:27",
+          "title": "COMP2200+6200_SHFYR_2026 - Lecture_1/01 - 21WW MACTH"
         },
         {
-          "start": "11:35",
+          "cat": "writing",
           "end": "11:42",
-          "cat": "writing",
+          "note": "md.obsidian",
           "src": "macos",
-          "title": "obsidian",
-          "note": "md.obsidian"
+          "start": "11:35",
+          "title": "obsidian"
         },
         {
-          "start": "11:43",
+          "cat": "writing",
           "end": "11:46",
-          "cat": "writing",
+          "note": "md.obsidian",
           "src": "macos",
-          "title": "obsidian",
-          "note": "md.obsidian"
+          "start": "11:43",
+          "title": "obsidian"
         },
         {
-          "start": "11:46",
+          "cat": "meeting",
           "end": "11:59",
-          "cat": "meeting",
+          "note": "echo360.net.au",
           "src": "macos",
-          "title": "COMP2200+6200_SHFYR_2026 - Lecture_1/01 - 21WW MACTH",
-          "note": "echo360.net.au"
+          "start": "11:46",
+          "title": "COMP2200+6200_SHFYR_2026 - Lecture_1/01 - 21WW MACTH"
         },
         {
-          "start": "12:06",
+          "cat": "meeting",
           "end": "12:28",
-          "cat": "meeting",
+          "note": "echo360.net.au",
           "src": "macos",
-          "title": "COMP2200+6200_SHFYR_2026 - Lecture_1/01 - 21WW MACTH",
-          "note": "echo360.net.au"
+          "start": "12:06",
+          "title": "COMP2200+6200_SHFYR_2026 - Lecture_1/01 - 21WW MACTH"
         },
         {
-          "start": "12:28",
+          "cat": "writing",
           "end": "12:34",
-          "cat": "writing",
+          "note": "drive.google.com",
           "src": "macos",
-          "title": "Units - Google Drive",
-          "note": "drive.google.com"
+          "start": "12:28",
+          "title": "Units - Google Drive"
         },
         {
-          "start": "12:34",
+          "cat": "coding",
           "end": "12:36",
-          "cat": "coding",
+          "note": "com.todesktop.240716u3u1yy41w",
           "src": "macos",
-          "title": "240716u3u1yy41w",
-          "note": "com.todesktop.240716u3u1yy41w"
+          "start": "12:34",
+          "title": "240716u3u1yy41w"
         },
         {
-          "start": "12:36",
+          "cat": "writing",
           "end": "12:54",
-          "cat": "writing",
+          "note": "drive.google.com",
           "src": "macos",
-          "title": "Units - Google Drive",
-          "note": "drive.google.com"
+          "start": "12:36",
+          "title": "Units - Google Drive"
         },
         {
-          "start": "13:31",
+          "cat": "writing",
           "end": "13:33",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Progress Updates - Google Sheets",
-          "note": "docs.google.com"
+          "start": "13:31",
+          "title": "Progress Updates - Google Sheets"
         },
         {
-          "start": "13:34",
+          "cat": "writing",
           "end": "13:36",
-          "cat": "writing",
+          "note": "aus01.safelinks.protection.outlook.com",
           "src": "chrome",
-          "title": "Progress Updates - Google Sheets",
-          "note": "aus01.safelinks.protection.outlook.com"
+          "start": "13:34",
+          "title": "Progress Updates - Google Sheets"
         },
         {
-          "start": "13:36",
-          "end": "13:37",
           "cat": "research",
+          "end": "13:37",
+          "note": "com.apple.Preview",
           "src": "macos",
-          "title": "Preview",
-          "note": "com.apple.Preview"
+          "start": "13:36",
+          "title": "Preview"
         },
         {
-          "start": "13:37",
+          "cat": "coding",
           "end": "13:38",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "13:37",
+          "title": "codex"
         },
         {
-          "start": "13:38",
+          "cat": "admin",
           "end": "13:41",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "COMP2200 Data Science / COMP6200: Personal profile: Ada Ren ",
-          "note": "ilearn.mq.edu.au"
+          "start": "13:38",
+          "title": "COMP2200 Data Science / COMP6200: Personal profile: Ada Ren "
         },
         {
-          "start": "13:41",
+          "cat": "writing",
           "end": "13:46",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "COMP2200 TAs.xlsx - Google Sheets",
-          "note": "docs.google.com"
+          "start": "13:41",
+          "title": "COMP2200 TAs.xlsx - Google Sheets"
         },
         {
-          "start": "13:46",
+          "cat": "admin",
           "end": "13:49",
-          "cat": "admin",
+          "note": "com.microsoft.Excel",
           "src": "macos",
-          "title": "Excel",
-          "note": "com.microsoft.Excel"
+          "start": "13:46",
+          "title": "Excel"
         },
         {
-          "start": "13:49",
+          "cat": "writing",
           "end": "13:53",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "COMP2200 TAs.xlsx - Google Sheets",
-          "note": "docs.google.com"
+          "start": "13:49",
+          "title": "COMP2200 TAs.xlsx - Google Sheets"
         },
         {
-          "start": "13:53",
+          "cat": "admin",
           "end": "13:55",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Edit profile | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "13:53",
+          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Edit profile | iLearn"
         },
         {
-          "start": "13:55",
+          "cat": "admin",
           "end": "13:56",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "COMP2200 Data Science / COMP6200: Personal profile: Ada Ren ",
-          "note": "ilearn.mq.edu.au"
+          "start": "13:55",
+          "title": "COMP2200 Data Science / COMP6200: Personal profile: Ada Ren "
         },
         {
-          "start": "13:56",
+          "cat": "coding",
           "end": "13:57",
-          "cat": "coding",
+          "note": "com.todesktop.240716u3u1yy41w",
           "src": "macos",
-          "title": "240716u3u1yy41w",
-          "note": "com.todesktop.240716u3u1yy41w"
+          "start": "13:56",
+          "title": "240716u3u1yy41w"
         },
         {
-          "start": "13:57",
+          "cat": "admin",
           "end": "13:59",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "COMP2200 Data Science / COMP6200: Personal profile: Ada Ren ",
-          "note": "ilearn.mq.edu.au"
+          "start": "13:57",
+          "title": "COMP2200 Data Science / COMP6200: Personal profile: Ada Ren "
         },
         {
-          "start": "13:59",
+          "cat": "admin",
           "end": "14:01",
-          "cat": "admin",
+          "note": "mq.wd3.myworkdayjobs.com",
           "src": "macos",
-          "title": "Candidate Home",
-          "note": "mq.wd3.myworkdayjobs.com"
+          "start": "13:59",
+          "title": "Candidate Home"
         },
         {
-          "start": "14:02",
+          "cat": "admin",
           "end": "14:04",
-          "cat": "admin",
+          "note": "mq.wd3.myworkdayjobs.com",
           "src": "macos",
-          "title": "候选人主页 --- Candidate Home",
-          "note": "mq.wd3.myworkdayjobs.com"
+          "start": "14:02",
+          "title": "候选人主页 --- Candidate Home"
         },
         {
-          "start": "14:04",
+          "cat": "coding",
           "end": "14:06",
-          "cat": "coding",
+          "note": "apps.powerapps.com",
           "src": "macos",
-          "title": "FSE Teaching Associate EOI - Power Apps",
-          "note": "apps.powerapps.com"
+          "start": "14:04",
+          "title": "FSE Teaching Associate EOI - Power Apps"
         },
         {
-          "start": "14:06",
+          "cat": "admin",
           "end": "14:07",
-          "cat": "admin",
+          "note": "mq.wd3.myworkdayjobs.com",
           "src": "macos",
-          "title": "Candidate Home",
-          "note": "mq.wd3.myworkdayjobs.com"
+          "start": "14:06",
+          "title": "Candidate Home"
         },
         {
-          "start": "14:08",
+          "cat": "writing",
           "end": "14:09",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "COMP2200 TAs.xlsx - Google Sheets",
-          "note": "docs.google.com"
+          "start": "14:08",
+          "title": "COMP2200 TAs.xlsx - Google Sheets"
         },
         {
-          "start": "14:09",
+          "cat": "coding",
           "end": "14:12",
-          "cat": "coding",
+          "note": "apps.powerapps.com",
           "src": "macos",
-          "title": "FSE Teaching Associate EOI - Power Apps",
-          "note": "apps.powerapps.com"
+          "start": "14:09",
+          "title": "FSE Teaching Associate EOI - Power Apps"
         },
         {
-          "start": "14:12",
+          "cat": "admin",
           "end": "14:16",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "chrome",
-          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Edit profile | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "14:12",
+          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Edit profile | iLearn"
         },
         {
-          "start": "14:16",
+          "cat": "coding",
           "end": "14:20",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "14:16",
+          "title": "VSCode"
         },
         {
-          "start": "14:20",
+          "cat": "coding",
           "end": "14:31",
-          "cat": "coding",
+          "note": "96 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "96 hits"
+          "start": "14:20",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "14:32",
+          "cat": "coding",
           "end": "14:35",
-          "cat": "coding",
+          "note": "96 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "96 hits"
+          "start": "14:32",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "14:35",
+          "cat": "coding",
           "end": "15:13",
-          "cat": "coding",
+          "note": "scikit-learn.org",
           "src": "chrome",
-          "title": "silhouette_score — scikit-learn 1.9.0 documentation",
-          "note": "scikit-learn.org"
+          "start": "14:35",
+          "title": "silhouette_score — scikit-learn 1.9.0 documentation"
         },
         {
-          "start": "15:14",
+          "cat": "coding",
           "end": "15:22",
-          "cat": "coding",
+          "note": "scikit-learn.org",
           "src": "chrome",
-          "title": "Selecting the number of clusters with silhouette analysis on",
-          "note": "scikit-learn.org"
+          "start": "15:14",
+          "title": "Selecting the number of clusters with silhouette analysis on"
         },
         {
-          "start": "15:22",
+          "cat": "admin",
           "end": "15:23",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "15:22",
+          "title": "Outlook"
         },
         {
-          "start": "15:24",
+          "cat": "admin",
           "end": "15:26",
-          "cat": "admin",
+          "note": "com.microsoft.Excel",
           "src": "macos",
-          "title": "Excel",
-          "note": "com.microsoft.Excel"
+          "start": "15:24",
+          "title": "Excel"
         },
         {
-          "start": "15:26",
+          "cat": "coding",
           "end": "15:27",
-          "cat": "coding",
+          "note": "scikit-learn.org",
           "src": "chrome",
-          "title": "Selecting the number of clusters with silhouette analysis on",
-          "note": "scikit-learn.org"
+          "start": "15:26",
+          "title": "Selecting the number of clusters with silhouette analysis on"
         },
         {
-          "start": "15:28",
+          "cat": "admin",
           "end": "15:29",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "chrome",
-          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "15:28",
+          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn"
         },
         {
-          "start": "15:29",
+          "cat": "coding",
           "end": "15:48",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "15:29",
+          "title": "VSCode"
         },
         {
-          "start": "15:48",
+          "cat": "coding",
           "end": "15:55",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "15:48",
+          "title": "VSCode"
         },
         {
-          "start": "16:03",
+          "cat": "meeting",
           "end": "16:14",
-          "cat": "meeting",
+          "note": "macquarie.zoom.us",
           "src": "macos",
-          "title": "Join from Zoom Workplace app - Zoom",
-          "note": "macquarie.zoom.us"
+          "start": "16:03",
+          "title": "Join from Zoom Workplace app - Zoom"
         },
         {
-          "start": "16:14",
+          "cat": "writing",
           "end": "16:16",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Progress Updates - Google Sheets",
-          "note": "docs.google.com"
+          "start": "16:14",
+          "title": "Progress Updates - Google Sheets"
         },
         {
-          "start": "16:16",
+          "cat": "meeting",
           "end": "16:26",
-          "cat": "meeting",
+          "note": "us.zoom.xos",
           "src": "macos",
-          "title": "xos",
-          "note": "us.zoom.xos"
+          "start": "16:16",
+          "title": "xos"
         },
         {
-          "start": "16:26",
+          "cat": "writing",
           "end": "16:32",
-          "cat": "writing",
+          "note": "aus01.safelinks.protection.outlook.com",
           "src": "chrome",
-          "title": "Progress Updates - Google Sheets",
-          "note": "aus01.safelinks.protection.outlook.com"
+          "start": "16:26",
+          "title": "Progress Updates - Google Sheets"
         },
         {
-          "start": "16:32",
+          "cat": "meeting",
           "end": "16:47",
-          "cat": "meeting",
+          "note": "us.zoom.xos",
           "src": "macos",
-          "title": "xos",
-          "note": "us.zoom.xos"
+          "start": "16:32",
+          "title": "xos"
         },
         {
-          "start": "16:49",
-          "end": "16:53",
           "cat": "writing",
+          "end": "16:53",
+          "note": "docs.google.com",
           "src": "chrome",
-          "title": "COMP2200 TAs.xlsx - Google Sheets",
-          "note": "docs.google.com"
+          "start": "16:49",
+          "title": "COMP2200 TAs.xlsx - Google Sheets"
         },
         {
-          "start": "16:54",
+          "cat": "coding",
           "end": "17:01",
-          "cat": "coding",
+          "note": "apps.powerapps.com",
           "src": "chrome",
-          "title": "KMeans — scikit-learn 1.9.0 documentation",
-          "note": "apps.powerapps.com"
+          "start": "16:54",
+          "title": "KMeans — scikit-learn 1.9.0 documentation"
         },
         {
-          "start": "17:01",
+          "cat": "admin",
           "end": "17:21",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Announcements | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "17:01",
+          "title": "Announcements | iLearn"
         },
         {
-          "start": "17:28",
+          "cat": "admin",
           "end": "17:33",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Announcements | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "17:28",
+          "title": "Announcements | iLearn"
         },
         {
-          "start": "17:38",
+          "cat": "admin",
           "end": "17:43",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Announcements | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "17:38",
+          "title": "Announcements | iLearn"
         },
         {
-          "start": "18:00",
+          "cat": "admin",
           "end": "18:01",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Announcements | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "18:00",
+          "title": "Announcements | iLearn"
         },
         {
-          "start": "18:01",
+          "cat": "coding",
           "end": "18:06",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "Week_1_Loading_and_Viewing_Data.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "18:01",
+          "title": "Week_1_Loading_and_Viewing_Data.ipynb - Colab"
         },
         {
-          "start": "18:06",
+          "cat": "admin",
           "end": "18:19",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "chrome",
-          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Week 1 Practical | iL",
-          "note": "ilearn.mq.edu.au"
+          "start": "18:06",
+          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Week 1 Practical | iL"
         },
         {
-          "start": "18:19",
+          "cat": "coding",
           "end": "18:32",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "chrome",
-          "title": "Week_1_Loading_and_Viewing_Data.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "18:19",
+          "title": "Week_1_Loading_and_Viewing_Data.ipynb - Colab"
         },
         {
-          "start": "18:32",
+          "cat": "coding",
           "end": "19:07",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "Week_1_Loading_and_Viewing_Data.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "18:32",
+          "title": "Week_1_Loading_and_Viewing_Data.ipynb - Colab"
         },
         {
-          "start": "19:07",
+          "cat": "meeting",
           "end": "19:09",
-          "cat": "meeting",
+          "note": "com.microsoft.teams2",
           "src": "macos",
-          "title": "teams2",
-          "note": "com.microsoft.teams2"
+          "start": "19:07",
+          "title": "teams2"
         },
         {
-          "start": "19:09",
+          "cat": "meeting",
           "end": "19:11",
-          "cat": "meeting",
+          "note": "com.microsoft.teams2",
           "src": "macos",
-          "title": "teams2",
-          "note": "com.microsoft.teams2"
+          "start": "19:09",
+          "title": "teams2"
         },
         {
-          "start": "19:11",
+          "cat": "coding",
           "end": "19:15",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "Week_1_Loading_and_Viewing_Data.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "19:11",
+          "title": "Week_1_Loading_and_Viewing_Data.ipynb - Colab"
         },
         {
-          "start": "19:15",
+          "cat": "meeting",
           "end": "19:21",
-          "cat": "meeting",
+          "note": "com.microsoft.teams2",
           "src": "macos",
-          "title": "teams2",
-          "note": "com.microsoft.teams2"
+          "start": "19:15",
+          "title": "teams2"
         },
         {
-          "start": "19:21",
+          "cat": "admin",
           "end": "19:23",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "19:21",
+          "title": "Outlook"
         },
         {
-          "start": "19:24",
+          "cat": "meeting",
           "end": "19:25",
-          "cat": "meeting",
+          "note": "com.microsoft.teams2",
           "src": "macos",
-          "title": "teams2",
-          "note": "com.microsoft.teams2"
+          "start": "19:24",
+          "title": "teams2"
         },
         {
-          "start": "19:26",
+          "cat": "coding",
           "end": "19:29",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "19:26",
+          "title": "codex"
         },
         {
-          "start": "19:29",
+          "cat": "meeting",
           "end": "19:31",
-          "cat": "meeting",
+          "note": "com.microsoft.teams2",
           "src": "macos",
-          "title": "teams2",
-          "note": "com.microsoft.teams2"
+          "start": "19:29",
+          "title": "teams2"
         },
         {
-          "start": "19:31",
-          "end": "19:32",
           "cat": "coding",
+          "end": "19:32",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "19:31",
+          "title": "codex"
         },
         {
-          "start": "19:32",
+          "cat": "meeting",
           "end": "19:35",
-          "cat": "meeting",
+          "note": "com.microsoft.teams2",
           "src": "macos",
-          "title": "teams2",
-          "note": "com.microsoft.teams2"
+          "start": "19:32",
+          "title": "teams2"
         },
         {
-          "start": "19:35",
+          "cat": "admin",
           "end": "19:39",
-          "cat": "admin",
+          "note": "google.com",
           "src": "chrome",
-          "title": "Learn Python Online, Python Training Courses for all Levels ",
-          "note": "google.com"
+          "start": "19:35",
+          "title": "Learn Python Online, Python Training Courses for all Levels "
         },
         {
-          "start": "19:40",
-          "end": "19:41",
           "cat": "meeting",
+          "end": "19:41",
+          "note": "com.microsoft.teams2",
           "src": "macos",
-          "title": "teams2",
-          "note": "com.microsoft.teams2"
+          "start": "19:40",
+          "title": "teams2"
         },
         {
-          "start": "19:41",
+          "cat": "admin",
           "end": "19:43",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Announcements | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "19:41",
+          "title": "Announcements | iLearn"
         },
         {
-          "start": "19:43",
-          "end": "20:07",
           "cat": "admin",
+          "end": "20:07",
+          "note": "ilearn.mq.edu.au",
           "src": "chrome",
-          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Assignment 1a | iLear",
-          "note": "ilearn.mq.edu.au"
+          "start": "19:43",
+          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Assignment 1a | iLear"
         }
       ],
+      "key": "2026-7-27",
       "logged": 529,
-      "real": 384,
-      "deep": 384,
       "ratio": 0.7256942104293941,
+      "real": 384,
       "stats": {
         "contextSwitches": 65,
-        "tabsOpened": 69,
+        "justOneMoreThing": 13,
         "longestFocus": "1h 23m",
-        "justOneMoreThing": 13
-      }
+        "tabsOpened": 69
+      },
+      "weekend": false
     },
     {
       "key": "2026-7-28",
@@ -65363,26 +66172,826 @@
       "dateShort": "Tue, Jul 28",
       "dateLong": "Tuesday, July 28",
       "dayStart": "10:04",
-      "dayEnd": "10:27",
+      "dayEnd": "22:36",
       "events": [
         {
           "start": "10:04",
+          "end": "10:09",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Macquarie University - Sign In",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "10:09",
+          "end": "10:11",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "10:11",
+          "end": "10:13",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "10:13",
+          "end": "10:16",
+          "cat": "writing",
+          "src": "macos",
+          "title": "obsidian",
+          "note": "md.obsidian"
+        },
+        {
+          "start": "10:16",
+          "end": "10:22",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "10:22",
           "end": "10:27",
           "cat": "admin",
           "src": "chrome",
           "title": "Macquarie University - Sign In",
           "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "10:27",
+          "end": "10:27",
+          "cat": "writing",
+          "src": "chrome",
+          "title": "Progress Updates - Google Sheets",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "10:27",
+          "end": "10:28",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "10:29",
+          "end": "10:30",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "FSE Teaching Associate EOI - Power Apps",
+          "note": "apps.powerapps.com"
+        },
+        {
+          "start": "10:30",
+          "end": "10:35",
+          "cat": "admin",
+          "src": "macos",
+          "title": "ask gemini in chrome - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "10:35",
+          "end": "10:38",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Chrome now has Gemini baked in and I genuinely don't know if",
+          "note": "reddit.com"
+        },
+        {
+          "start": "10:38",
+          "end": "10:40",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "10:40",
+          "end": "10:42",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Chrome now has Gemini baked in and I genuinely don't know if",
+          "note": "reddit.com"
+        },
+        {
+          "start": "10:42",
+          "end": "10:43",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "10:43",
+          "end": "10:46",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Chrome now has Gemini baked in and I genuinely don't know if",
+          "note": "reddit.com"
+        },
+        {
+          "start": "10:46",
+          "end": "10:48",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Ada's rebuttal on EduAgentBench - Google Docs",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "10:48",
+          "end": "10:49",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "10:49",
+          "end": "10:50",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "10:50",
+          "end": "10:55",
+          "cat": "writing",
+          "src": "chrome",
+          "title": "Ada's rebuttal on EduAgentBench - Google Docs",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "10:56",
+          "end": "11:15",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "11:24",
+          "end": "11:25",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "11:25",
+          "end": "11:45",
+          "cat": "admin",
+          "src": "macos",
+          "title": "silhouette score - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "11:45",
+          "end": "11:47",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "11:47",
+          "end": "11:48",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Dreamina Seedance 2.0 Official Release",
+          "note": "google.com"
+        },
+        {
+          "start": "11:48",
+          "end": "11:50",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Untitled design - Video",
+          "note": "canva.com"
+        },
+        {
+          "start": "11:50",
+          "end": "11:56",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Dreamina Seedance 2.0 Official Release",
+          "note": "google.com"
+        },
+        {
+          "start": "11:56",
+          "end": "12:03",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "12:03",
+          "end": "12:04",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Untitled design - Video",
+          "note": "canva.com"
+        },
+        {
+          "start": "12:05",
+          "end": "12:06",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Dreamina Seedance 2.0 Official Release",
+          "note": "google.com"
+        },
+        {
+          "start": "12:07",
+          "end": "12:08",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "12:08",
+          "end": "12:24",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "12:25",
+          "end": "12:43",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Where the time actually went | Ada's Notes",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "13:39",
+          "end": "13:42",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "13:42",
+          "end": "13:43",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "teams2",
+          "note": "com.microsoft.teams2"
+        },
+        {
+          "start": "13:45",
+          "end": "13:48",
+          "cat": "admin",
+          "src": "claude",
+          "title": "PhD worklog review",
+          "note": "62 hits"
+        },
+        {
+          "start": "13:48",
+          "end": "13:52",
+          "cat": "admin",
+          "src": "claude",
+          "title": "PhD worklog review",
+          "note": "62 hits"
+        },
+        {
+          "start": "13:52",
+          "end": "13:53",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "13:53",
+          "end": "13:55",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "13:55",
+          "end": "14:09",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "14:10",
+          "end": "14:10",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Share files and folders in Microsoft OneDrive | Microsoft Su",
+          "note": "mqoutlook-my.sharepoint.com"
+        },
+        {
+          "start": "14:11",
+          "end": "14:15",
+          "cat": "coding",
+          "src": "macos",
+          "title": "FSE Teaching Associate EOI - Power Apps",
+          "note": "apps.powerapps.com"
+        },
+        {
+          "start": "14:15",
+          "end": "14:25",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "14:25",
+          "end": "14:30",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "14:30",
+          "end": "14:39",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "14:39",
+          "end": "14:39",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Macquarie University Password Reset Registration",
+          "note": "url.au.m.mimecastprotect.com"
+        },
+        {
+          "start": "14:39",
+          "end": "14:41",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "14:42",
+          "end": "14:50",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Macquarie University Password Reset Registration",
+          "note": "url.au.m.mimecastprotect.com"
+        },
+        {
+          "start": "14:50",
+          "end": "14:56",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Sign in to your account",
+          "note": "login.microsoftonline.com"
+        },
+        {
+          "start": "14:56",
+          "end": "14:57",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "teams2",
+          "note": "com.microsoft.teams2"
+        },
+        {
+          "start": "14:57",
+          "end": "14:59",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Timesheet FAQ 2026 S2_5576306451629559957.pdf",
+          "note": "file:///Users/ada/Library/Containers/com"
+        },
+        {
+          "start": "14:59",
+          "end": "15:02",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "15:02",
+          "end": "15:07",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "15:08",
+          "end": "15:09",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Macquarie University - Sign In",
+          "note": "mq.okta.com"
+        },
+        {
+          "start": "15:09",
+          "end": "15:20",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Forgot Your Password? - Workday Accounts",
+          "note": "wd3-identity.myworkday.com"
+        },
+        {
+          "start": "15:20",
+          "end": "15:21",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Timesheet FAQ 2026 S2_5576306451629559957.pdf",
+          "note": "passwordreset.microsoftonline.com"
+        },
+        {
+          "start": "15:22",
+          "end": "15:40",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Apply for a TFN | Australian Taxation Office",
+          "note": "mq.okta.com"
+        },
+        {
+          "start": "15:40",
+          "end": "15:40",
+          "cat": "research",
+          "src": "macos",
+          "title": "Page not found",
+          "note": "wiki.mq.edu.au"
+        },
+        {
+          "start": "15:41",
+          "end": "15:45",
+          "cat": "admin",
+          "src": "macos",
+          "title": "My Tasks (All Items) - Workday",
+          "note": "wd3.myworkday.com"
+        },
+        {
+          "start": "15:45",
+          "end": "15:46",
+          "cat": "admin",
+          "src": "macos",
+          "title": "myID verification code - ada.ren.cn@gmail.com - Gmail",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "15:47",
+          "end": "15:48",
+          "cat": "admin",
+          "src": "macos",
+          "title": "My Tasks (All Items) - Workday",
+          "note": "wd3.myworkday.com"
+        },
+        {
+          "start": "15:48",
+          "end": "15:57",
+          "cat": "admin",
+          "src": "macos",
+          "title": "My Tasks (All Items) - Workday",
+          "note": "wd3.myworkday.com"
+        },
+        {
+          "start": "15:57",
+          "end": "15:59",
+          "cat": "research",
+          "src": "macos",
+          "title": "Preview",
+          "note": "com.apple.Preview"
+        },
+        {
+          "start": "16:00",
+          "end": "16:01",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "IMMI Grant Notification - BCC2026/1131108 - 720716747 - REN,",
+          "note": "wd3.myworkday.com"
+        },
+        {
+          "start": "16:01",
+          "end": "16:37",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "IMMI Grant Notification - BCC2026/1131108 - 720716747 - REN,",
+          "note": "wd3.myworkday.com"
+        },
+        {
+          "start": "16:37",
+          "end": "17:09",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Update your personal contact details | Australian Taxation O",
+          "note": "ato.gov.au"
+        },
+        {
+          "start": "17:09",
+          "end": "17:29",
+          "cat": "admin",
+          "src": "macos",
+          "title": "IMMI Grant Notification - BCC2026/1131108 - 720716747 - REN,",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "17:30",
+          "end": "17:40",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Home - Workday",
+          "note": "wd3.myworkday.com"
+        },
+        {
+          "start": "17:40",
+          "end": "17:53",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "17:53",
+          "end": "17:55",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "17:55",
+          "end": "17:56",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "17:56",
+          "end": "18:05",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "NetBank - Log on to NetBank - Enjoy simple and secure online",
+          "note": "wd3.myworkday.com"
+        },
+        {
+          "start": "18:05",
+          "end": "18:32",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "18:32",
+          "end": "18:36",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "NetBank - Log on to NetBank - Enjoy simple and secure online",
+          "note": "wd3.myworkday.com"
+        },
+        {
+          "start": "18:36",
+          "end": "18:56",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "18:57",
+          "end": "19:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "58 hits"
+        },
+        {
+          "start": "19:03",
+          "end": "19:10",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "58 hits"
+        },
+        {
+          "start": "19:10",
+          "end": "19:20",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "58 hits"
+        },
+        {
+          "start": "19:20",
+          "end": "19:30",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "6 hits"
+        },
+        {
+          "start": "19:31",
+          "end": "19:45",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "289 hits"
+        },
+        {
+          "start": "19:45",
+          "end": "19:59",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "289 hits"
+        },
+        {
+          "start": "20:00",
+          "end": "20:06",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "289 hits"
+        },
+        {
+          "start": "20:06",
+          "end": "20:09",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "289 hits"
+        },
+        {
+          "start": "20:09",
+          "end": "20:22",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "289 hits"
+        },
+        {
+          "start": "20:22",
+          "end": "20:24",
+          "cat": "admin",
+          "src": "macos",
+          "title": "(24) Discord | Friends",
+          "note": "discord.com"
+        },
+        {
+          "start": "20:24",
+          "end": "20:26",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Excel",
+          "note": "com.microsoft.Excel"
+        },
+        {
+          "start": "20:26",
+          "end": "20:27",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "20:28",
+          "end": "20:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "61 hits"
+        },
+        {
+          "start": "20:34",
+          "end": "20:41",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "61 hits"
+        },
+        {
+          "start": "20:41",
+          "end": "20:43",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Excel",
+          "note": "com.microsoft.Excel"
+        },
+        {
+          "start": "20:43",
+          "end": "20:45",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "20:45",
+          "end": "20:47",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Excel",
+          "note": "com.microsoft.Excel"
+        },
+        {
+          "start": "20:47",
+          "end": "21:23",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "174 hits"
+        },
+        {
+          "start": "21:26",
+          "end": "21:29",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Excel",
+          "note": "com.microsoft.Excel"
+        },
+        {
+          "start": "21:29",
+          "end": "21:38",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "21:38",
+          "end": "21:51",
+          "cat": "writing",
+          "src": "macos",
+          "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea",
+          "note": "overleaf.com"
+        },
+        {
+          "start": "21:51",
+          "end": "21:57",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "21:57",
+          "end": "22:01",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "210 hits"
+        },
+        {
+          "start": "22:01",
+          "end": "22:05",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "210 hits"
+        },
+        {
+          "start": "22:05",
+          "end": "22:10",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "210 hits"
+        },
+        {
+          "start": "22:10",
+          "end": "22:11",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "210 hits"
+        },
+        {
+          "start": "22:12",
+          "end": "22:36",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "210 hits"
         }
       ],
-      "logged": 22,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0.0,
+      "logged": 666,
+      "real": 344,
+      "deep": 344,
+      "ratio": 0.5168573892274384,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 3,
-        "longestFocus": "0m",
-        "justOneMoreThing": 0
+        "contextSwitches": 51,
+        "tabsOpened": 54,
+        "longestFocus": "1h 43m",
+        "justOneMoreThing": 9
       }
     },
     {
@@ -65392,16 +67001,25 @@
       "weekend": false,
       "dateShort": "Wed, Jul 29",
       "dateLong": "Wednesday, July 29",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
+      "dayStart": "10:02",
+      "dayEnd": "10:30",
+      "events": [
+        {
+          "start": "10:02",
+          "end": "10:30",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Macquarie University | Top 1.5% in the world | Multiply your",
+          "note": "mq.edu.au"
+        }
+      ],
+      "logged": 28,
       "real": 0,
       "deep": 0,
-      "ratio": 0,
+      "ratio": 0.0,
       "stats": {
         "contextSwitches": 0,
-        "tabsOpened": 0,
+        "tabsOpened": 3,
         "longestFocus": "0m",
         "justOneMoreThing": 0
       }
