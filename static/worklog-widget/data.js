@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-08-01T10:20:19+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-08-02T10:40:21+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -49170,7 +49170,7 @@
         "dateShort": "Sat, Aug 1",
         "dateLong": "Saturday, August 1",
         "dayStart": "10:20",
-        "dayEnd": "10:25",
+        "dayEnd": "21:35",
         "events": [
           {
             "start": "10:20",
@@ -49178,18 +49178,90 @@
             "cat": "coding",
             "src": "local",
             "title": "domain_cats.json",
-            "note": "2 hits"
+            "note": "3 hits"
+          },
+          {
+            "start": "20:14",
+            "end": "20:17",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "20:22",
+            "end": "20:24",
+            "cat": "research",
+            "src": "macos",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+            "note": "openreview.net"
+          },
+          {
+            "start": "20:24",
+            "end": "20:29",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "teams2",
+            "note": "com.microsoft.teams2"
+          },
+          {
+            "start": "20:29",
+            "end": "20:42",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+            "note": "openreview.net"
+          },
+          {
+            "start": "20:43",
+            "end": "20:48",
+            "cat": "writing",
+            "src": "macos",
+            "title": "OpenSteps Guide 2026-07-31 11.55",
+            "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+          },
+          {
+            "start": "20:48",
+            "end": "20:49",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Macquarie University - Sign In",
+            "note": "mq.okta.com"
+          },
+          {
+            "start": "20:49",
+            "end": "20:56",
+            "cat": "admin",
+            "src": "macos",
+            "title": "My home | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "20:56",
+            "end": "21:07",
+            "cat": "coding",
+            "src": "macos",
+            "title": "240716u3u1yy41w",
+            "note": "com.todesktop.240716u3u1yy41w"
+          },
+          {
+            "start": "21:07",
+            "end": "21:35",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: What's on Week 2 | iL",
+            "note": "ilearn.mq.edu.au"
           }
         ],
-        "logged": 5,
-        "real": 5,
-        "deep": 5,
-        "ratio": 1.0,
+        "logged": 79,
+        "real": 41,
+        "deep": 41,
+        "ratio": 0.5132293507703459,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "5m",
-          "justOneMoreThing": 0
+          "contextSwitches": 8,
+          "tabsOpened": 6,
+          "longestFocus": "24m",
+          "justOneMoreThing": 1
         }
       },
       {
@@ -49872,7 +49944,7 @@
       "dateShort": "Sat, Aug 1",
       "dateLong": "Saturday, August 1",
       "dayStart": "10:20",
-      "dayEnd": "10:25",
+      "dayEnd": "21:35",
       "events": [
         {
           "start": "10:20",
@@ -49880,18 +49952,90 @@
           "cat": "coding",
           "src": "local",
           "title": "domain_cats.json",
-          "note": "2 hits"
+          "note": "3 hits"
+        },
+        {
+          "start": "20:14",
+          "end": "20:17",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "20:22",
+          "end": "20:24",
+          "cat": "research",
+          "src": "macos",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+          "note": "openreview.net"
+        },
+        {
+          "start": "20:24",
+          "end": "20:29",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "teams2",
+          "note": "com.microsoft.teams2"
+        },
+        {
+          "start": "20:29",
+          "end": "20:42",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+          "note": "openreview.net"
+        },
+        {
+          "start": "20:43",
+          "end": "20:48",
+          "cat": "writing",
+          "src": "macos",
+          "title": "OpenSteps Guide 2026-07-31 11.55",
+          "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+        },
+        {
+          "start": "20:48",
+          "end": "20:49",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Macquarie University - Sign In",
+          "note": "mq.okta.com"
+        },
+        {
+          "start": "20:49",
+          "end": "20:56",
+          "cat": "admin",
+          "src": "macos",
+          "title": "My home | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "20:56",
+          "end": "21:07",
+          "cat": "coding",
+          "src": "macos",
+          "title": "240716u3u1yy41w",
+          "note": "com.todesktop.240716u3u1yy41w"
+        },
+        {
+          "start": "21:07",
+          "end": "21:35",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: What's on Week 2 | iL",
+          "note": "ilearn.mq.edu.au"
         }
       ],
-      "logged": 5,
-      "real": 5,
-      "deep": 5,
-      "ratio": 1.0,
+      "logged": 79,
+      "real": 41,
+      "deep": 41,
+      "ratio": 0.5132293507703459,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "5m",
-        "justOneMoreThing": 0
+        "contextSwitches": 8,
+        "tabsOpened": 6,
+        "longestFocus": "24m",
+        "justOneMoreThing": 1
       }
     },
     {
