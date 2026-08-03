@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-08-02T10:40:21+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-08-03T10:20:08+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -49163,106 +49163,106 @@
     },
     "days": [
       {
-        "key": "2026-8-1",
-        "dayNum": 1,
-        "dow": 6,
-        "weekend": true,
-        "dateShort": "Sat, Aug 1",
         "dateLong": "Saturday, August 1",
-        "dayStart": "10:20",
+        "dateShort": "Sat, Aug 1",
         "dayEnd": "21:35",
+        "dayNum": 1,
+        "dayStart": "10:20",
+        "deep": 41,
+        "dow": 6,
         "events": [
           {
-            "start": "10:20",
+            "cat": "coding",
             "end": "10:25",
-            "cat": "coding",
+            "note": "3 hits",
             "src": "local",
-            "title": "domain_cats.json",
-            "note": "3 hits"
+            "start": "10:20",
+            "title": "domain_cats.json"
           },
           {
-            "start": "20:14",
+            "cat": "admin",
             "end": "20:17",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "20:14",
+            "title": "Outlook"
           },
           {
-            "start": "20:22",
+            "cat": "research",
             "end": "20:24",
-            "cat": "research",
+            "note": "openreview.net",
             "src": "macos",
-            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-            "note": "openreview.net"
+            "start": "20:22",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
           },
           {
-            "start": "20:24",
-            "end": "20:29",
             "cat": "meeting",
+            "end": "20:29",
+            "note": "com.microsoft.teams2",
             "src": "macos",
-            "title": "teams2",
-            "note": "com.microsoft.teams2"
+            "start": "20:24",
+            "title": "teams2"
           },
           {
-            "start": "20:29",
-            "end": "20:42",
             "cat": "research",
+            "end": "20:42",
+            "note": "openreview.net",
             "src": "chrome",
-            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-            "note": "openreview.net"
+            "start": "20:29",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
           },
           {
-            "start": "20:43",
-            "end": "20:48",
             "cat": "writing",
+            "end": "20:48",
+            "note": "file:///Users/ada/Documents/MQ/Phd/Teach",
             "src": "macos",
-            "title": "OpenSteps Guide 2026-07-31 11.55",
-            "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+            "start": "20:43",
+            "title": "OpenSteps Guide 2026-07-31 11.55"
           },
           {
-            "start": "20:48",
+            "cat": "admin",
             "end": "20:49",
-            "cat": "admin",
+            "note": "mq.okta.com",
             "src": "macos",
-            "title": "Macquarie University - Sign In",
-            "note": "mq.okta.com"
+            "start": "20:48",
+            "title": "Macquarie University - Sign In"
           },
           {
-            "start": "20:49",
+            "cat": "admin",
             "end": "20:56",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "My home | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "20:49",
+            "title": "My home | iLearn"
           },
           {
-            "start": "20:56",
-            "end": "21:07",
             "cat": "coding",
+            "end": "21:07",
+            "note": "com.todesktop.240716u3u1yy41w",
             "src": "macos",
-            "title": "240716u3u1yy41w",
-            "note": "com.todesktop.240716u3u1yy41w"
+            "start": "20:56",
+            "title": "240716u3u1yy41w"
           },
           {
-            "start": "21:07",
-            "end": "21:35",
             "cat": "admin",
+            "end": "21:35",
+            "note": "ilearn.mq.edu.au",
             "src": "chrome",
-            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: What's on Week 2 | iL",
-            "note": "ilearn.mq.edu.au"
+            "start": "21:07",
+            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: What's on Week 2 | iL"
           }
         ],
+        "key": "2026-8-1",
         "logged": 79,
-        "real": 41,
-        "deep": 41,
         "ratio": 0.5132293507703459,
+        "real": 41,
         "stats": {
           "contextSwitches": 8,
-          "tabsOpened": 6,
+          "justOneMoreThing": 1,
           "longestFocus": "24m",
-          "justOneMoreThing": 1
-        }
+          "tabsOpened": 6
+        },
+        "weekend": true
       },
       {
         "key": "2026-8-2",
@@ -49271,18 +49271,219 @@
         "weekend": true,
         "dateShort": "Sun, Aug 2",
         "dateLong": "Sunday, August 2",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "10:40",
+        "dayEnd": "00:19",
+        "events": [
+          {
+            "start": "10:40",
+            "end": "10:45",
+            "cat": "coding",
+            "src": "local",
+            "title": "snapshots.json",
+            "note": "2 hits"
+          },
+          {
+            "start": "12:34",
+            "end": "12:36",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "12:36",
+            "end": "12:55",
+            "cat": "research",
+            "src": "chrome",
+            "title": "EMNLP | OpenReview",
+            "note": "url.au.m.mimecastprotect.com"
+          },
+          {
+            "start": "12:55",
+            "end": "12:57",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Call for Main Conference Papers - AACL-IJCNLP 2026",
+            "note": "url.au.m.mimecastprotect.com"
+          },
+          {
+            "start": "19:00",
+            "end": "19:02",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "19:02",
+            "end": "19:05",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Untitled document - Google Docs",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "19:06",
+            "end": "19:06",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "19:06",
+            "end": "19:26",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "19:28",
+            "end": "19:33",
+            "cat": "admin",
+            "src": "macos",
+            "title": "EduZone paper arxiv - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "19:33",
+            "end": "19:35",
+            "cat": "research",
+            "src": "macos",
+            "title": "EMNLP 2026 Conference | OpenReview",
+            "note": "openreview.net"
+          },
+          {
+            "start": "19:35",
+            "end": "19:40",
+            "cat": "research",
+            "src": "macos",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+            "note": "openreview.net"
+          },
+          {
+            "start": "19:40",
+            "end": "19:46",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "19:46",
+            "end": "20:14",
+            "cat": "research",
+            "src": "macos",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+            "note": "openreview.net"
+          },
+          {
+            "start": "20:38",
+            "end": "20:40",
+            "cat": "research",
+            "src": "macos",
+            "title": "Usman Naseem | OpenReview",
+            "note": "openreview.net"
+          },
+          {
+            "start": "20:41",
+            "end": "20:51",
+            "cat": "admin",
+            "src": "macos",
+            "title": "My home | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "20:51",
+            "end": "20:58",
+            "cat": "admin",
+            "src": "macos",
+            "title": "COMP2200: Week 2",
+            "note": "content.ilearn.mq.edu.au"
+          },
+          {
+            "start": "20:58",
+            "end": "21:25",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "21:26",
+            "end": "21:29",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "21:29",
+            "end": "21:35",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "21:35",
+            "end": "21:36",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "21:36",
+            "end": "21:44",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "21:45",
+            "end": "21:51",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "21:51",
+            "end": "21:53",
+            "cat": "research",
+            "src": "macos",
+            "title": "Preview",
+            "note": "com.apple.Preview"
+          },
+          {
+            "start": "21:54",
+            "end": "22:51",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Week_2_Understanding_Columns.ipynb - Colab",
+            "note": "colab.google"
+          },
+          {
+            "start": "00:06",
+            "end": "00:19",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Week_2_Understanding_Columns.ipynb - Colab",
+            "note": "colab.research.google.com"
+          }
+        ],
+        "logged": 242,
+        "real": 162,
+        "deep": 162,
+        "ratio": 0.6710375432476308,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "0m",
-          "justOneMoreThing": 0
+          "contextSwitches": 14,
+          "tabsOpened": 9,
+          "longestFocus": "1h 28m",
+          "justOneMoreThing": 2
         }
       },
       {
@@ -49292,17 +49493,42 @@
         "weekend": false,
         "dateShort": "Mon, Aug 3",
         "dateLong": "Monday, August 3",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "10:02",
+        "dayEnd": "10:31",
+        "events": [
+          {
+            "start": "10:02",
+            "end": "10:06",
+            "cat": "meeting",
+            "src": "chrome",
+            "title": "Join from Zoom Workplace app - Zoom",
+            "note": "macquarie.zoom.us"
+          },
+          {
+            "start": "10:06",
+            "end": "10:26",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Python Tutorial",
+            "note": "w3schools.com"
+          },
+          {
+            "start": "10:26",
+            "end": "10:31",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "9fd97e8266a933d95479cb0a642e4259b7ef11b9",
+            "note": "ilearn.mq.edu.au"
+          }
+        ],
+        "logged": 29,
+        "real": 24,
+        "deep": 24,
+        "ratio": 0.817393909305376,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "0m",
+          "contextSwitches": 2,
+          "tabsOpened": 9,
+          "longestFocus": "24m",
           "justOneMoreThing": 0
         }
       },
@@ -49937,106 +50163,106 @@
   },
   "days": [
     {
-      "key": "2026-8-1",
-      "dayNum": 1,
-      "dow": 6,
-      "weekend": true,
-      "dateShort": "Sat, Aug 1",
       "dateLong": "Saturday, August 1",
-      "dayStart": "10:20",
+      "dateShort": "Sat, Aug 1",
       "dayEnd": "21:35",
+      "dayNum": 1,
+      "dayStart": "10:20",
+      "deep": 41,
+      "dow": 6,
       "events": [
         {
-          "start": "10:20",
+          "cat": "coding",
           "end": "10:25",
-          "cat": "coding",
+          "note": "3 hits",
           "src": "local",
-          "title": "domain_cats.json",
-          "note": "3 hits"
+          "start": "10:20",
+          "title": "domain_cats.json"
         },
         {
-          "start": "20:14",
+          "cat": "admin",
           "end": "20:17",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "20:14",
+          "title": "Outlook"
         },
         {
-          "start": "20:22",
+          "cat": "research",
           "end": "20:24",
-          "cat": "research",
+          "note": "openreview.net",
           "src": "macos",
-          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-          "note": "openreview.net"
+          "start": "20:22",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
         },
         {
-          "start": "20:24",
-          "end": "20:29",
           "cat": "meeting",
+          "end": "20:29",
+          "note": "com.microsoft.teams2",
           "src": "macos",
-          "title": "teams2",
-          "note": "com.microsoft.teams2"
+          "start": "20:24",
+          "title": "teams2"
         },
         {
-          "start": "20:29",
-          "end": "20:42",
           "cat": "research",
+          "end": "20:42",
+          "note": "openreview.net",
           "src": "chrome",
-          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-          "note": "openreview.net"
+          "start": "20:29",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
         },
         {
-          "start": "20:43",
-          "end": "20:48",
           "cat": "writing",
+          "end": "20:48",
+          "note": "file:///Users/ada/Documents/MQ/Phd/Teach",
           "src": "macos",
-          "title": "OpenSteps Guide 2026-07-31 11.55",
-          "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+          "start": "20:43",
+          "title": "OpenSteps Guide 2026-07-31 11.55"
         },
         {
-          "start": "20:48",
+          "cat": "admin",
           "end": "20:49",
-          "cat": "admin",
+          "note": "mq.okta.com",
           "src": "macos",
-          "title": "Macquarie University - Sign In",
-          "note": "mq.okta.com"
+          "start": "20:48",
+          "title": "Macquarie University - Sign In"
         },
         {
-          "start": "20:49",
+          "cat": "admin",
           "end": "20:56",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "My home | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "20:49",
+          "title": "My home | iLearn"
         },
         {
-          "start": "20:56",
-          "end": "21:07",
           "cat": "coding",
+          "end": "21:07",
+          "note": "com.todesktop.240716u3u1yy41w",
           "src": "macos",
-          "title": "240716u3u1yy41w",
-          "note": "com.todesktop.240716u3u1yy41w"
+          "start": "20:56",
+          "title": "240716u3u1yy41w"
         },
         {
-          "start": "21:07",
-          "end": "21:35",
           "cat": "admin",
+          "end": "21:35",
+          "note": "ilearn.mq.edu.au",
           "src": "chrome",
-          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: What's on Week 2 | iL",
-          "note": "ilearn.mq.edu.au"
+          "start": "21:07",
+          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: What's on Week 2 | iL"
         }
       ],
+      "key": "2026-8-1",
       "logged": 79,
-      "real": 41,
-      "deep": 41,
       "ratio": 0.5132293507703459,
+      "real": 41,
       "stats": {
         "contextSwitches": 8,
-        "tabsOpened": 6,
+        "justOneMoreThing": 1,
         "longestFocus": "24m",
-        "justOneMoreThing": 1
-      }
+        "tabsOpened": 6
+      },
+      "weekend": true
     },
     {
       "key": "2026-8-2",
@@ -50045,18 +50271,219 @@
       "weekend": true,
       "dateShort": "Sun, Aug 2",
       "dateLong": "Sunday, August 2",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "10:40",
+      "dayEnd": "00:19",
+      "events": [
+        {
+          "start": "10:40",
+          "end": "10:45",
+          "cat": "coding",
+          "src": "local",
+          "title": "snapshots.json",
+          "note": "2 hits"
+        },
+        {
+          "start": "12:34",
+          "end": "12:36",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "12:36",
+          "end": "12:55",
+          "cat": "research",
+          "src": "chrome",
+          "title": "EMNLP | OpenReview",
+          "note": "url.au.m.mimecastprotect.com"
+        },
+        {
+          "start": "12:55",
+          "end": "12:57",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Call for Main Conference Papers - AACL-IJCNLP 2026",
+          "note": "url.au.m.mimecastprotect.com"
+        },
+        {
+          "start": "19:00",
+          "end": "19:02",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "19:02",
+          "end": "19:05",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Untitled document - Google Docs",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "19:06",
+          "end": "19:06",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "19:06",
+          "end": "19:26",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "19:28",
+          "end": "19:33",
+          "cat": "admin",
+          "src": "macos",
+          "title": "EduZone paper arxiv - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "19:33",
+          "end": "19:35",
+          "cat": "research",
+          "src": "macos",
+          "title": "EMNLP 2026 Conference | OpenReview",
+          "note": "openreview.net"
+        },
+        {
+          "start": "19:35",
+          "end": "19:40",
+          "cat": "research",
+          "src": "macos",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+          "note": "openreview.net"
+        },
+        {
+          "start": "19:40",
+          "end": "19:46",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "19:46",
+          "end": "20:14",
+          "cat": "research",
+          "src": "macos",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+          "note": "openreview.net"
+        },
+        {
+          "start": "20:38",
+          "end": "20:40",
+          "cat": "research",
+          "src": "macos",
+          "title": "Usman Naseem | OpenReview",
+          "note": "openreview.net"
+        },
+        {
+          "start": "20:41",
+          "end": "20:51",
+          "cat": "admin",
+          "src": "macos",
+          "title": "My home | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "20:51",
+          "end": "20:58",
+          "cat": "admin",
+          "src": "macos",
+          "title": "COMP2200: Week 2",
+          "note": "content.ilearn.mq.edu.au"
+        },
+        {
+          "start": "20:58",
+          "end": "21:25",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "21:26",
+          "end": "21:29",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "21:29",
+          "end": "21:35",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "21:35",
+          "end": "21:36",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "21:36",
+          "end": "21:44",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "21:45",
+          "end": "21:51",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "21:51",
+          "end": "21:53",
+          "cat": "research",
+          "src": "macos",
+          "title": "Preview",
+          "note": "com.apple.Preview"
+        },
+        {
+          "start": "21:54",
+          "end": "22:51",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Week_2_Understanding_Columns.ipynb - Colab",
+          "note": "colab.google"
+        },
+        {
+          "start": "00:06",
+          "end": "00:19",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Week_2_Understanding_Columns.ipynb - Colab",
+          "note": "colab.research.google.com"
+        }
+      ],
+      "logged": 242,
+      "real": 162,
+      "deep": 162,
+      "ratio": 0.6710375432476308,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "0m",
-        "justOneMoreThing": 0
+        "contextSwitches": 14,
+        "tabsOpened": 9,
+        "longestFocus": "1h 28m",
+        "justOneMoreThing": 2
       }
     },
     {
@@ -50066,17 +50493,42 @@
       "weekend": false,
       "dateShort": "Mon, Aug 3",
       "dateLong": "Monday, August 3",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "10:02",
+      "dayEnd": "10:31",
+      "events": [
+        {
+          "start": "10:02",
+          "end": "10:06",
+          "cat": "meeting",
+          "src": "chrome",
+          "title": "Join from Zoom Workplace app - Zoom",
+          "note": "macquarie.zoom.us"
+        },
+        {
+          "start": "10:06",
+          "end": "10:26",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Python Tutorial",
+          "note": "w3schools.com"
+        },
+        {
+          "start": "10:26",
+          "end": "10:31",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "9fd97e8266a933d95479cb0a642e4259b7ef11b9",
+          "note": "ilearn.mq.edu.au"
+        }
+      ],
+      "logged": 29,
+      "real": 24,
+      "deep": 24,
+      "ratio": 0.817393909305376,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "0m",
+        "contextSwitches": 2,
+        "tabsOpened": 9,
+        "longestFocus": "24m",
         "justOneMoreThing": 0
       }
     },
