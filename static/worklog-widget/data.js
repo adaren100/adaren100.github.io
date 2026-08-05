@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-08-04T10:20:08+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-08-05T10:20:07+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -49487,402 +49487,402 @@
         "weekend": true
       },
       {
-        "key": "2026-8-3",
-        "dayNum": 3,
-        "dow": 1,
-        "weekend": false,
-        "dateShort": "Mon, Aug 3",
         "dateLong": "Monday, August 3",
-        "dayStart": "10:01",
+        "dateShort": "Mon, Aug 3",
         "dayEnd": "21:24",
+        "dayNum": 3,
+        "dayStart": "10:01",
+        "deep": 213,
+        "dow": 1,
         "events": [
           {
-            "start": "10:01",
+            "cat": "meeting",
             "end": "10:02",
-            "cat": "meeting",
+            "note": "com.microsoft.teams2",
             "src": "macos",
-            "title": "teams2",
-            "note": "com.microsoft.teams2"
+            "start": "10:01",
+            "title": "teams2"
           },
           {
-            "start": "10:02",
+            "cat": "meeting",
             "end": "10:05",
-            "cat": "meeting",
+            "note": "us.zoom.xos",
             "src": "macos",
-            "title": "xos",
-            "note": "us.zoom.xos"
+            "start": "10:02",
+            "title": "xos"
           },
           {
-            "start": "10:06",
+            "cat": "meeting",
             "end": "10:10",
-            "cat": "meeting",
+            "note": "com.microsoft.teams2",
             "src": "macos",
-            "title": "teams2",
-            "note": "com.microsoft.teams2"
+            "start": "10:06",
+            "title": "teams2"
           },
           {
-            "start": "10:10",
+            "cat": "coding",
             "end": "10:11",
-            "cat": "coding",
+            "note": "w3schools.com",
             "src": "chrome",
-            "title": "Python Tutorial",
-            "note": "w3schools.com"
+            "start": "10:10",
+            "title": "Python Tutorial"
           },
           {
-            "start": "10:11",
+            "cat": "writing",
             "end": "10:20",
-            "cat": "writing",
+            "note": "file:///Users/ada/Documents/MQ/Phd/Teach",
             "src": "macos",
-            "title": "Week 2 Prac.pdf",
-            "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+            "start": "10:11",
+            "title": "Week 2 Prac.pdf"
           },
           {
-            "start": "10:20",
+            "cat": "coding",
             "end": "10:24",
-            "cat": "coding",
+            "note": "w3schools.com",
             "src": "chrome",
-            "title": "Python Tutorial",
-            "note": "w3schools.com"
+            "start": "10:20",
+            "title": "Python Tutorial"
           },
           {
-            "start": "10:24",
+            "cat": "writing",
             "end": "10:31",
-            "cat": "writing",
+            "note": "file:///Users/ada/Documents/MQ/Phd/Teach",
             "src": "macos",
-            "title": "Week 2 Prac.pdf",
-            "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+            "start": "10:24",
+            "title": "Week 2 Prac.pdf"
           },
           {
-            "start": "10:31",
+            "cat": "writing",
             "end": "10:32",
-            "cat": "writing",
+            "note": "file:///Users/ada/Documents/MQ/Phd/Teach",
             "src": "macos",
-            "title": "Week 2 Prac.pdf",
-            "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+            "start": "10:31",
+            "title": "Week 2 Prac.pdf"
           },
           {
-            "start": "10:32",
+            "cat": "admin",
             "end": "10:34",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "chrome",
-            "title": "cdf630d6dbd31535b4039891dbcd6df8e4e25626",
-            "note": "ilearn.mq.edu.au"
+            "start": "10:32",
+            "title": "cdf630d6dbd31535b4039891dbcd6df8e4e25626"
           },
           {
-            "start": "10:34",
+            "cat": "admin",
             "end": "10:44",
-            "cat": "admin",
+            "note": "content.ilearn.mq.edu.au",
             "src": "macos",
-            "title": "cdf630d6dbd31535b4039891dbcd6df8e4e25626",
-            "note": "content.ilearn.mq.edu.au"
+            "start": "10:34",
+            "title": "cdf630d6dbd31535b4039891dbcd6df8e4e25626"
           },
           {
-            "start": "10:44",
+            "cat": "meeting",
             "end": "10:45",
-            "cat": "meeting",
+            "note": "com.microsoft.teams2",
             "src": "macos",
-            "title": "teams2",
-            "note": "com.microsoft.teams2"
+            "start": "10:44",
+            "title": "teams2"
           },
           {
-            "start": "10:45",
+            "cat": "admin",
             "end": "10:54",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "10:45",
+            "title": "Outlook"
           },
           {
-            "start": "11:06",
+            "cat": "admin",
             "end": "11:37",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "11:06",
+            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn"
           },
           {
-            "start": "11:37",
+            "cat": "admin",
             "end": "11:59",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "11:37",
+            "title": "Outlook"
           },
           {
-            "start": "12:03",
+            "cat": "admin",
             "end": "12:27",
-            "cat": "admin",
+            "note": "accounts.google.com",
             "src": "macos",
-            "title": "Microsoft apps & services wants access to your Google Accoun",
-            "note": "accounts.google.com"
+            "start": "12:03",
+            "title": "Microsoft apps & services wants access to your Google Accoun"
           },
           {
-            "start": "12:33",
+            "cat": "admin",
             "end": "12:38",
-            "cat": "admin",
+            "note": "accounts.google.com",
             "src": "macos",
-            "title": "Microsoft apps & services wants access to your Google Accoun",
-            "note": "accounts.google.com"
+            "start": "12:33",
+            "title": "Microsoft apps & services wants access to your Google Accoun"
           },
           {
-            "start": "13:20",
+            "cat": "admin",
             "end": "13:23",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "13:20",
+            "title": "Outlook"
           },
           {
-            "start": "13:24",
+            "cat": "admin",
             "end": "13:27",
-            "cat": "admin",
+            "note": "com.tinyspeck.slackmacgap",
             "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "start": "13:24",
+            "title": "slackmacgap"
           },
           {
-            "start": "13:28",
-            "end": "13:45",
             "cat": "writing",
+            "end": "13:45",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Progress Updates - Google Sheets",
-            "note": "docs.google.com"
+            "start": "13:28",
+            "title": "Progress Updates - Google Sheets"
           },
           {
-            "start": "13:45",
+            "cat": "coding",
             "end": "13:54",
-            "cat": "coding",
+            "note": "plus.excalidraw.com",
             "src": "macos",
-            "title": "Excalidraw+ | Collaborative workspace made simple",
-            "note": "plus.excalidraw.com"
+            "start": "13:45",
+            "title": "Excalidraw+ | Collaborative workspace made simple"
           },
           {
-            "start": "13:54",
+            "cat": "admin",
             "end": "13:57",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "RANSAC - Google Search",
-            "note": "google.com"
+            "start": "13:54",
+            "title": "RANSAC - Google Search"
           },
           {
-            "start": "13:58",
+            "cat": "research",
             "end": "14:07",
-            "cat": "research",
+            "note": "medium.com",
             "src": "macos",
-            "title": "MAE, MSE, RMSE, Coefficient of Determination, Adjusted R Squ",
-            "note": "medium.com"
+            "start": "13:58",
+            "title": "MAE, MSE, RMSE, Coefficient of Determination, Adjusted R Squ"
           },
           {
-            "start": "14:07",
+            "cat": "research",
             "end": "14:16",
-            "cat": "research",
+            "note": "en.wikipedia.org",
             "src": "macos",
-            "title": "Chi (letter) - Wikipedia",
-            "note": "en.wikipedia.org"
+            "start": "14:07",
+            "title": "Chi (letter) - Wikipedia"
           },
           {
-            "start": "14:16",
+            "cat": "admin",
             "end": "14:18",
-            "cat": "admin",
+            "note": "com.tinyspeck.slackmacgap",
             "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "start": "14:16",
+            "title": "slackmacgap"
           },
           {
-            "start": "14:18",
+            "cat": "research",
             "end": "14:24",
-            "cat": "research",
+            "note": "en.wikipedia.org",
             "src": "macos",
-            "title": "Chi (letter) - Wikipedia",
-            "note": "en.wikipedia.org"
+            "start": "14:18",
+            "title": "Chi (letter) - Wikipedia"
           },
           {
-            "start": "14:24",
+            "cat": "coding",
             "end": "14:44",
-            "cat": "coding",
+            "note": "w3schools.com",
             "src": "macos",
-            "title": "NumPy Tutorial",
-            "note": "w3schools.com"
+            "start": "14:24",
+            "title": "NumPy Tutorial"
           },
           {
-            "start": "14:44",
+            "cat": "admin",
             "end": "14:47",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "chrome",
-            "title": "Week 1 Practical Quiz: Attempt review | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "14:44",
+            "title": "Week 1 Practical Quiz: Attempt review | iLearn"
           },
           {
-            "start": "14:47",
+            "cat": "coding",
             "end": "14:50",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "14:47",
+            "title": "codex"
           },
           {
-            "start": "14:50",
+            "cat": "admin",
             "end": "15:37",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "chrome",
-            "title": "Week 1 Practical Quiz: Attempt review | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "14:50",
+            "title": "Week 1 Practical Quiz: Attempt review | iLearn"
           },
           {
-            "start": "15:40",
+            "cat": "admin",
             "end": "15:45",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "15:40",
+            "title": "Outlook"
           },
           {
-            "start": "15:48",
+            "cat": "admin",
             "end": "15:49",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "General Discussion Forum | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "15:48",
+            "title": "General Discussion Forum | iLearn"
           },
           {
-            "start": "15:49",
-            "end": "15:55",
             "cat": "personal",
+            "end": "15:55",
+            "note": "x.com",
             "src": "macos",
-            "title": "(14) 主页 / X",
-            "note": "x.com"
+            "start": "15:49",
+            "title": "(14) 主页 / X"
           },
           {
-            "start": "15:55",
+            "cat": "research",
             "end": "16:01",
-            "cat": "research",
+            "note": "openreview.net",
             "src": "macos",
-            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-            "note": "openreview.net"
+            "start": "15:55",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
           },
           {
-            "start": "16:01",
+            "cat": "coding",
             "end": "16:03",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "16:01",
+            "title": "codex"
           },
           {
-            "start": "16:03",
+            "cat": "research",
             "end": "16:05",
-            "cat": "research",
+            "note": "openreview.net",
             "src": "macos",
-            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-            "note": "openreview.net"
+            "start": "16:03",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
           },
           {
-            "start": "16:05",
+            "cat": "research",
             "end": "16:08",
-            "cat": "research",
+            "note": "openreview.net",
             "src": "macos",
-            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-            "note": "openreview.net"
+            "start": "16:05",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
           },
           {
-            "start": "16:08",
+            "cat": "research",
             "end": "16:11",
-            "cat": "research",
+            "note": "openreview.net",
             "src": "macos",
-            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-            "note": "openreview.net"
+            "start": "16:08",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
           },
           {
-            "start": "16:11",
+            "cat": "coding",
             "end": "16:24",
-            "cat": "coding",
+            "note": "w3schools.com",
             "src": "macos",
-            "title": "Python Tutorial",
-            "note": "w3schools.com"
+            "start": "16:11",
+            "title": "Python Tutorial"
           },
           {
-            "start": "16:24",
+            "cat": "admin",
             "end": "16:29",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "empress in the palace - Google Search",
-            "note": "google.com"
+            "start": "16:24",
+            "title": "empress in the palace - Google Search"
           },
           {
-            "start": "16:29",
+            "cat": "admin",
             "end": "16:43",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "japan visa fee - Google Search",
-            "note": "google.com"
+            "start": "16:29",
+            "title": "japan visa fee - Google Search"
           },
           {
-            "start": "16:43",
-            "end": "16:44",
             "cat": "meeting",
+            "end": "16:44",
+            "note": "com.microsoft.teams2",
             "src": "macos",
-            "title": "teams2",
-            "note": "com.microsoft.teams2"
+            "start": "16:43",
+            "title": "teams2"
           },
           {
-            "start": "16:44",
+            "cat": "admin",
             "end": "16:46",
-            "cat": "admin",
+            "note": "google.com",
             "src": "chrome",
-            "title": "empress in the palace - Google Search",
-            "note": "google.com"
+            "start": "16:44",
+            "title": "empress in the palace - Google Search"
           },
           {
-            "start": "16:50",
+            "cat": "coding",
             "end": "17:00",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "chrome",
-            "title": "Week_2_Understanding_Columns.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "16:50",
+            "title": "Week_2_Understanding_Columns.ipynb - Colab"
           },
           {
-            "start": "17:00",
+            "cat": "admin",
             "end": "17:24",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "chrome",
-            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Rebound Session for W",
-            "note": "ilearn.mq.edu.au"
+            "start": "17:00",
+            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Rebound Session for W"
           },
           {
-            "start": "18:08",
-            "end": "18:56",
             "cat": "coding",
+            "end": "18:56",
+            "note": "w3schools.com",
             "src": "chrome",
-            "title": "Week_2_Understanding_Columns.ipynb - Colab",
-            "note": "w3schools.com"
+            "start": "18:08",
+            "title": "Week_2_Understanding_Columns.ipynb - Colab"
           },
           {
-            "start": "18:58",
-            "end": "19:18",
             "cat": "admin",
+            "end": "19:18",
+            "note": "translate.google.com",
             "src": "chrome",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "18:58",
+            "title": "Google Translate"
           },
           {
-            "start": "21:04",
-            "end": "21:24",
             "cat": "research",
+            "end": "21:24",
+            "note": "url.au.m.mimecastprotect.com",
             "src": "chrome",
-            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-            "note": "url.au.m.mimecastprotect.com"
+            "start": "21:04",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
           }
         ],
+        "key": "2026-8-3",
         "logged": 452,
-        "real": 213,
-        "deep": 213,
         "ratio": 0.47206620667401444,
+        "real": 213,
         "stats": {
           "contextSwitches": 30,
-          "tabsOpened": 33,
+          "justOneMoreThing": 4,
           "longestFocus": "48m",
-          "justOneMoreThing": 4
-        }
+          "tabsOpened": 33
+        },
+        "weekend": false
       },
       {
         "key": "2026-8-4",
@@ -49891,27 +49891,675 @@
         "weekend": false,
         "dateShort": "Tue, Aug 4",
         "dateLong": "Tuesday, August 4",
-        "dayStart": "10:16",
-        "dayEnd": "10:36",
+        "dayStart": "10:15",
+        "dayEnd": "17:30",
         "events": [
           {
-            "start": "10:16",
+            "start": "10:15",
+            "end": "10:17",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "10:18",
+            "end": "10:20",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Macquarie University | Top 1.5% in the world | Multiply your",
+            "note": "mq.edu.au"
+          },
+          {
+            "start": "10:21",
+            "end": "10:21",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Macquarie University | Top 1.5% in the world | Multiply your",
+            "note": "aus01.safelinks.protection.outlook.com"
+          },
+          {
+            "start": "10:21",
+            "end": "10:23",
+            "cat": "research",
+            "src": "macos",
+            "title": "Claude Code by Anthropic | AI Coding Agent, Terminal, IDE",
+            "note": "claude.com"
+          },
+          {
+            "start": "10:23",
+            "end": "10:24",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Claude & Slack Integration | Slack Marketplace",
+            "note": "slack.com"
+          },
+          {
+            "start": "10:24",
+            "end": "10:32",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Login | Slack",
+            "note": "slack.com"
+          },
+          {
+            "start": "10:33",
+            "end": "10:34",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "10:34",
+            "end": "10:35",
+            "cat": "research",
+            "src": "macos",
+            "title": "AI Digest — August 4, 2026 | Ada's Notes",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "10:35",
             "end": "10:36",
             "cat": "admin",
             "src": "chrome",
             "title": "Macquarie University | Top 1.5% in the world | Multiply your",
             "note": "aus01.safelinks.protection.outlook.com"
+          },
+          {
+            "start": "10:36",
+            "end": "10:37",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(18) 主页 / X",
+            "note": "x.com"
+          },
+          {
+            "start": "10:37",
+            "end": "10:40",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Sign in to your account",
+            "note": "apps.powerapps.com"
+          },
+          {
+            "start": "10:40",
+            "end": "10:48",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "10:48",
+            "end": "10:52",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(16) X 上的 Amanda Askell：“I don't agree with this part. I thi",
+            "note": "x.com"
+          },
+          {
+            "start": "10:52",
+            "end": "11:09",
+            "cat": "personal",
+            "src": "claude",
+            "title": "English learning tools",
+            "note": "151 hits"
+          },
+          {
+            "start": "11:13",
+            "end": "11:19",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "11:23",
+            "end": "11:25",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "11:25",
+            "end": "11:29",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Excel",
+            "note": "com.microsoft.Excel"
+          },
+          {
+            "start": "11:29",
+            "end": "11:34",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "11:39",
+            "end": "11:41",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "11:41",
+            "end": "12:15",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Excel",
+            "note": "com.microsoft.Excel"
+          },
+          {
+            "start": "12:15",
+            "end": "12:21",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "13:57",
+            "end": "13:59",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "13:59",
+            "end": "14:01",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "14:02",
+            "end": "14:03",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Excel",
+            "note": "com.microsoft.Excel"
+          },
+          {
+            "start": "14:05",
+            "end": "14:18",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "14:18",
+            "end": "14:23",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "14:23",
+            "end": "14:28",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "14:28",
+            "end": "14:30",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "14:30",
+            "end": "14:32",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "14:32",
+            "end": "14:33",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "14:33",
+            "end": "14:34",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "14:34",
+            "end": "14:35",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "14:35",
+            "end": "14:37",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "14:37",
+            "end": "14:39",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "14:39",
+            "end": "14:42",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "14:42",
+            "end": "15:09",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:09",
+            "end": "15:13",
+            "cat": "personal",
+            "src": "claude",
+            "title": "English learning tools",
+            "note": "141 hits"
+          },
+          {
+            "start": "15:13",
+            "end": "15:14",
+            "cat": "personal",
+            "src": "claude",
+            "title": "English learning tools",
+            "note": "141 hits"
+          },
+          {
+            "start": "15:15",
+            "end": "15:17",
+            "cat": "personal",
+            "src": "claude",
+            "title": "English learning tools",
+            "note": "141 hits"
+          },
+          {
+            "start": "15:17",
+            "end": "15:18",
+            "cat": "personal",
+            "src": "claude",
+            "title": "English learning tools",
+            "note": "141 hits"
+          },
+          {
+            "start": "15:18",
+            "end": "15:19",
+            "cat": "personal",
+            "src": "claude",
+            "title": "English learning tools",
+            "note": "141 hits"
+          },
+          {
+            "start": "15:20",
+            "end": "15:26",
+            "cat": "personal",
+            "src": "claude",
+            "title": "English learning tools",
+            "note": "141 hits"
+          },
+          {
+            "start": "15:26",
+            "end": "15:26",
+            "cat": "personal",
+            "src": "claude",
+            "title": "English learning tools",
+            "note": "141 hits"
+          },
+          {
+            "start": "15:26",
+            "end": "15:29",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Excel",
+            "note": "com.microsoft.Excel"
+          },
+          {
+            "start": "15:29",
+            "end": "15:33",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:33",
+            "end": "15:37",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Excel",
+            "note": "com.microsoft.Excel"
+          },
+          {
+            "start": "15:38",
+            "end": "15:40",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Excel",
+            "note": "com.microsoft.Excel"
+          },
+          {
+            "start": "15:40",
+            "end": "15:41",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:41",
+            "end": "15:44",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:44",
+            "end": "15:54",
+            "cat": "personal",
+            "src": "claude",
+            "title": "English learning tools",
+            "note": "96 hits"
+          },
+          {
+            "start": "15:54",
+            "end": "15:55",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
+            "note": "sport.mq.edu.au"
+          },
+          {
+            "start": "15:55",
+            "end": "15:57",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:57",
+            "end": "16:01",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:01",
+            "end": "16:06",
+            "cat": "coding",
+            "src": "local",
+            "title": "process_score.py",
+            "note": "5 hits"
+          },
+          {
+            "start": "16:06",
+            "end": "16:10",
+            "cat": "coding",
+            "src": "local",
+            "title": "config.json",
+            "note": "2 hits"
+          },
+          {
+            "start": "16:10",
+            "end": "16:11",
+            "cat": "coding",
+            "src": "local",
+            "title": "config.json",
+            "note": "2 hits"
+          },
+          {
+            "start": "16:11",
+            "end": "16:13",
+            "cat": "writing",
+            "src": "local",
+            "title": "codex.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "16:13",
+            "end": "16:15",
+            "cat": "writing",
+            "src": "local",
+            "title": "codex.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "16:15",
+            "end": "16:16",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:16",
+            "end": "16:18",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:18",
+            "end": "16:18",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:18",
+            "end": "16:19",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:19",
+            "end": "16:21",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "16:21",
+            "end": "16:21",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "16:21",
+            "end": "16:23",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "16:23",
+            "end": "16:24",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "16:24",
+            "end": "16:26",
+            "cat": "research",
+            "src": "macos",
+            "title": "AI Digest — August 4, 2026 | Ada's Notes",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "16:27",
+            "end": "16:30",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(16) X 上的 Peter Yang：“My 6 biggest takeaways from @karan4d, ",
+            "note": "x.com"
+          },
+          {
+            "start": "16:30",
+            "end": "16:32",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(83) Hermes Co-Founder on Building an AI Agent That Improves",
+            "note": "youtube.com"
+          },
+          {
+            "start": "16:32",
+            "end": "16:34",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(83) Hermes Co-Founder on Building an AI Agent That Improves",
+            "note": "youtube.com"
+          },
+          {
+            "start": "16:34",
+            "end": "16:35",
+            "cat": "research",
+            "src": "macos",
+            "title": "Univé builds an AI-ready workforce | Ada's Notes",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "16:35",
+            "end": "16:36",
+            "cat": "research",
+            "src": "macos",
+            "title": "Univé builds an AI-ready workforce | Ada's Notes",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "16:36",
+            "end": "16:37",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(16) X 上的 Peter Yang：“My 6 biggest takeaways from @karan4d, ",
+            "note": "x.com"
+          },
+          {
+            "start": "16:37",
+            "end": "16:38",
+            "cat": "research",
+            "src": "macos",
+            "title": "Building abundant intelligence | Ada's Notes",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "16:38",
+            "end": "16:40",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(16) X 上的 Peter Yang：“My 6 biggest takeaways from @karan4d, ",
+            "note": "x.com"
+          },
+          {
+            "start": "16:40",
+            "end": "16:42",
+            "cat": "research",
+            "src": "macos",
+            "title": "Investigating three real-world incidents in our cybersecurit",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "16:42",
+            "end": "16:43",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(16) X 上的 Peter Yang：“My 6 biggest takeaways from @karan4d, ",
+            "note": "x.com"
+          },
+          {
+            "start": "16:43",
+            "end": "16:43",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(16) X 上的 Peter Yang：“My 6 biggest takeaways from @karan4d, ",
+            "note": "x.com"
+          },
+          {
+            "start": "16:43",
+            "end": "16:47",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Excel",
+            "note": "com.microsoft.Excel"
+          },
+          {
+            "start": "16:47",
+            "end": "17:06",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Excel",
+            "note": "com.microsoft.Excel"
+          },
+          {
+            "start": "17:06",
+            "end": "17:25",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "17:25",
+            "end": "17:30",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
           }
         ],
-        "logged": 20,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0.0,
+        "logged": 312,
+        "real": 164,
+        "deep": 164,
+        "ratio": 0.5272300526902634,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 3,
-          "longestFocus": "0m",
-          "justOneMoreThing": 0
+          "contextSwitches": 35,
+          "tabsOpened": 24,
+          "longestFocus": "1h 3m",
+          "justOneMoreThing": 3
         }
       },
       {
@@ -49921,16 +50569,33 @@
         "weekend": false,
         "dateShort": "Wed, Aug 5",
         "dateLong": "Wednesday, August 5",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
+        "dayStart": "09:54",
+        "dayEnd": "10:20",
+        "events": [
+          {
+            "start": "09:54",
+            "end": "10:18",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Book.xlsx",
+            "note": "aus01.safelinks.protection.outlook.com"
+          },
+          {
+            "start": "10:18",
+            "end": "10:20",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(18) 主页 / X",
+            "note": "x.com"
+          }
+        ],
+        "logged": 26,
         "real": 0,
         "deep": 0,
-        "ratio": 0,
+        "ratio": 0.0,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
+          "contextSwitches": 1,
+          "tabsOpened": 6,
           "longestFocus": "0m",
           "justOneMoreThing": 0
         }
@@ -50848,402 +51513,402 @@
       "weekend": true
     },
     {
-      "key": "2026-8-3",
-      "dayNum": 3,
-      "dow": 1,
-      "weekend": false,
-      "dateShort": "Mon, Aug 3",
       "dateLong": "Monday, August 3",
-      "dayStart": "10:01",
+      "dateShort": "Mon, Aug 3",
       "dayEnd": "21:24",
+      "dayNum": 3,
+      "dayStart": "10:01",
+      "deep": 213,
+      "dow": 1,
       "events": [
         {
-          "start": "10:01",
+          "cat": "meeting",
           "end": "10:02",
-          "cat": "meeting",
+          "note": "com.microsoft.teams2",
           "src": "macos",
-          "title": "teams2",
-          "note": "com.microsoft.teams2"
+          "start": "10:01",
+          "title": "teams2"
         },
         {
-          "start": "10:02",
+          "cat": "meeting",
           "end": "10:05",
-          "cat": "meeting",
+          "note": "us.zoom.xos",
           "src": "macos",
-          "title": "xos",
-          "note": "us.zoom.xos"
+          "start": "10:02",
+          "title": "xos"
         },
         {
-          "start": "10:06",
+          "cat": "meeting",
           "end": "10:10",
-          "cat": "meeting",
+          "note": "com.microsoft.teams2",
           "src": "macos",
-          "title": "teams2",
-          "note": "com.microsoft.teams2"
+          "start": "10:06",
+          "title": "teams2"
         },
         {
-          "start": "10:10",
+          "cat": "coding",
           "end": "10:11",
-          "cat": "coding",
+          "note": "w3schools.com",
           "src": "chrome",
-          "title": "Python Tutorial",
-          "note": "w3schools.com"
+          "start": "10:10",
+          "title": "Python Tutorial"
         },
         {
-          "start": "10:11",
+          "cat": "writing",
           "end": "10:20",
-          "cat": "writing",
+          "note": "file:///Users/ada/Documents/MQ/Phd/Teach",
           "src": "macos",
-          "title": "Week 2 Prac.pdf",
-          "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+          "start": "10:11",
+          "title": "Week 2 Prac.pdf"
         },
         {
-          "start": "10:20",
+          "cat": "coding",
           "end": "10:24",
-          "cat": "coding",
+          "note": "w3schools.com",
           "src": "chrome",
-          "title": "Python Tutorial",
-          "note": "w3schools.com"
+          "start": "10:20",
+          "title": "Python Tutorial"
         },
         {
-          "start": "10:24",
+          "cat": "writing",
           "end": "10:31",
-          "cat": "writing",
+          "note": "file:///Users/ada/Documents/MQ/Phd/Teach",
           "src": "macos",
-          "title": "Week 2 Prac.pdf",
-          "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+          "start": "10:24",
+          "title": "Week 2 Prac.pdf"
         },
         {
-          "start": "10:31",
+          "cat": "writing",
           "end": "10:32",
-          "cat": "writing",
+          "note": "file:///Users/ada/Documents/MQ/Phd/Teach",
           "src": "macos",
-          "title": "Week 2 Prac.pdf",
-          "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+          "start": "10:31",
+          "title": "Week 2 Prac.pdf"
         },
         {
-          "start": "10:32",
+          "cat": "admin",
           "end": "10:34",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "chrome",
-          "title": "cdf630d6dbd31535b4039891dbcd6df8e4e25626",
-          "note": "ilearn.mq.edu.au"
+          "start": "10:32",
+          "title": "cdf630d6dbd31535b4039891dbcd6df8e4e25626"
         },
         {
-          "start": "10:34",
+          "cat": "admin",
           "end": "10:44",
-          "cat": "admin",
+          "note": "content.ilearn.mq.edu.au",
           "src": "macos",
-          "title": "cdf630d6dbd31535b4039891dbcd6df8e4e25626",
-          "note": "content.ilearn.mq.edu.au"
+          "start": "10:34",
+          "title": "cdf630d6dbd31535b4039891dbcd6df8e4e25626"
         },
         {
-          "start": "10:44",
+          "cat": "meeting",
           "end": "10:45",
-          "cat": "meeting",
+          "note": "com.microsoft.teams2",
           "src": "macos",
-          "title": "teams2",
-          "note": "com.microsoft.teams2"
+          "start": "10:44",
+          "title": "teams2"
         },
         {
-          "start": "10:45",
+          "cat": "admin",
           "end": "10:54",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "10:45",
+          "title": "Outlook"
         },
         {
-          "start": "11:06",
+          "cat": "admin",
           "end": "11:37",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "11:06",
+          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn"
         },
         {
-          "start": "11:37",
+          "cat": "admin",
           "end": "11:59",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "11:37",
+          "title": "Outlook"
         },
         {
-          "start": "12:03",
+          "cat": "admin",
           "end": "12:27",
-          "cat": "admin",
+          "note": "accounts.google.com",
           "src": "macos",
-          "title": "Microsoft apps & services wants access to your Google Accoun",
-          "note": "accounts.google.com"
+          "start": "12:03",
+          "title": "Microsoft apps & services wants access to your Google Accoun"
         },
         {
-          "start": "12:33",
+          "cat": "admin",
           "end": "12:38",
-          "cat": "admin",
+          "note": "accounts.google.com",
           "src": "macos",
-          "title": "Microsoft apps & services wants access to your Google Accoun",
-          "note": "accounts.google.com"
+          "start": "12:33",
+          "title": "Microsoft apps & services wants access to your Google Accoun"
         },
         {
-          "start": "13:20",
+          "cat": "admin",
           "end": "13:23",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "13:20",
+          "title": "Outlook"
         },
         {
-          "start": "13:24",
+          "cat": "admin",
           "end": "13:27",
-          "cat": "admin",
+          "note": "com.tinyspeck.slackmacgap",
           "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "start": "13:24",
+          "title": "slackmacgap"
         },
         {
-          "start": "13:28",
-          "end": "13:45",
           "cat": "writing",
+          "end": "13:45",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Progress Updates - Google Sheets",
-          "note": "docs.google.com"
+          "start": "13:28",
+          "title": "Progress Updates - Google Sheets"
         },
         {
-          "start": "13:45",
+          "cat": "coding",
           "end": "13:54",
-          "cat": "coding",
+          "note": "plus.excalidraw.com",
           "src": "macos",
-          "title": "Excalidraw+ | Collaborative workspace made simple",
-          "note": "plus.excalidraw.com"
+          "start": "13:45",
+          "title": "Excalidraw+ | Collaborative workspace made simple"
         },
         {
-          "start": "13:54",
+          "cat": "admin",
           "end": "13:57",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "RANSAC - Google Search",
-          "note": "google.com"
+          "start": "13:54",
+          "title": "RANSAC - Google Search"
         },
         {
-          "start": "13:58",
+          "cat": "research",
           "end": "14:07",
-          "cat": "research",
+          "note": "medium.com",
           "src": "macos",
-          "title": "MAE, MSE, RMSE, Coefficient of Determination, Adjusted R Squ",
-          "note": "medium.com"
+          "start": "13:58",
+          "title": "MAE, MSE, RMSE, Coefficient of Determination, Adjusted R Squ"
         },
         {
-          "start": "14:07",
+          "cat": "research",
           "end": "14:16",
-          "cat": "research",
+          "note": "en.wikipedia.org",
           "src": "macos",
-          "title": "Chi (letter) - Wikipedia",
-          "note": "en.wikipedia.org"
+          "start": "14:07",
+          "title": "Chi (letter) - Wikipedia"
         },
         {
-          "start": "14:16",
+          "cat": "admin",
           "end": "14:18",
-          "cat": "admin",
+          "note": "com.tinyspeck.slackmacgap",
           "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "start": "14:16",
+          "title": "slackmacgap"
         },
         {
-          "start": "14:18",
+          "cat": "research",
           "end": "14:24",
-          "cat": "research",
+          "note": "en.wikipedia.org",
           "src": "macos",
-          "title": "Chi (letter) - Wikipedia",
-          "note": "en.wikipedia.org"
+          "start": "14:18",
+          "title": "Chi (letter) - Wikipedia"
         },
         {
-          "start": "14:24",
+          "cat": "coding",
           "end": "14:44",
-          "cat": "coding",
+          "note": "w3schools.com",
           "src": "macos",
-          "title": "NumPy Tutorial",
-          "note": "w3schools.com"
+          "start": "14:24",
+          "title": "NumPy Tutorial"
         },
         {
-          "start": "14:44",
+          "cat": "admin",
           "end": "14:47",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "chrome",
-          "title": "Week 1 Practical Quiz: Attempt review | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "14:44",
+          "title": "Week 1 Practical Quiz: Attempt review | iLearn"
         },
         {
-          "start": "14:47",
+          "cat": "coding",
           "end": "14:50",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "14:47",
+          "title": "codex"
         },
         {
-          "start": "14:50",
+          "cat": "admin",
           "end": "15:37",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "chrome",
-          "title": "Week 1 Practical Quiz: Attempt review | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "14:50",
+          "title": "Week 1 Practical Quiz: Attempt review | iLearn"
         },
         {
-          "start": "15:40",
+          "cat": "admin",
           "end": "15:45",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "15:40",
+          "title": "Outlook"
         },
         {
-          "start": "15:48",
+          "cat": "admin",
           "end": "15:49",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "General Discussion Forum | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "15:48",
+          "title": "General Discussion Forum | iLearn"
         },
         {
-          "start": "15:49",
-          "end": "15:55",
           "cat": "personal",
+          "end": "15:55",
+          "note": "x.com",
           "src": "macos",
-          "title": "(14) 主页 / X",
-          "note": "x.com"
+          "start": "15:49",
+          "title": "(14) 主页 / X"
         },
         {
-          "start": "15:55",
+          "cat": "research",
           "end": "16:01",
-          "cat": "research",
+          "note": "openreview.net",
           "src": "macos",
-          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-          "note": "openreview.net"
+          "start": "15:55",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
         },
         {
-          "start": "16:01",
+          "cat": "coding",
           "end": "16:03",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "16:01",
+          "title": "codex"
         },
         {
-          "start": "16:03",
+          "cat": "research",
           "end": "16:05",
-          "cat": "research",
+          "note": "openreview.net",
           "src": "macos",
-          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-          "note": "openreview.net"
+          "start": "16:03",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
         },
         {
-          "start": "16:05",
+          "cat": "research",
           "end": "16:08",
-          "cat": "research",
+          "note": "openreview.net",
           "src": "macos",
-          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-          "note": "openreview.net"
+          "start": "16:05",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
         },
         {
-          "start": "16:08",
+          "cat": "research",
           "end": "16:11",
-          "cat": "research",
+          "note": "openreview.net",
           "src": "macos",
-          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-          "note": "openreview.net"
+          "start": "16:08",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
         },
         {
-          "start": "16:11",
+          "cat": "coding",
           "end": "16:24",
-          "cat": "coding",
+          "note": "w3schools.com",
           "src": "macos",
-          "title": "Python Tutorial",
-          "note": "w3schools.com"
+          "start": "16:11",
+          "title": "Python Tutorial"
         },
         {
-          "start": "16:24",
+          "cat": "admin",
           "end": "16:29",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "empress in the palace - Google Search",
-          "note": "google.com"
+          "start": "16:24",
+          "title": "empress in the palace - Google Search"
         },
         {
-          "start": "16:29",
+          "cat": "admin",
           "end": "16:43",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "japan visa fee - Google Search",
-          "note": "google.com"
+          "start": "16:29",
+          "title": "japan visa fee - Google Search"
         },
         {
-          "start": "16:43",
-          "end": "16:44",
           "cat": "meeting",
+          "end": "16:44",
+          "note": "com.microsoft.teams2",
           "src": "macos",
-          "title": "teams2",
-          "note": "com.microsoft.teams2"
+          "start": "16:43",
+          "title": "teams2"
         },
         {
-          "start": "16:44",
+          "cat": "admin",
           "end": "16:46",
-          "cat": "admin",
+          "note": "google.com",
           "src": "chrome",
-          "title": "empress in the palace - Google Search",
-          "note": "google.com"
+          "start": "16:44",
+          "title": "empress in the palace - Google Search"
         },
         {
-          "start": "16:50",
+          "cat": "coding",
           "end": "17:00",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "chrome",
-          "title": "Week_2_Understanding_Columns.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "16:50",
+          "title": "Week_2_Understanding_Columns.ipynb - Colab"
         },
         {
-          "start": "17:00",
+          "cat": "admin",
           "end": "17:24",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "chrome",
-          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Rebound Session for W",
-          "note": "ilearn.mq.edu.au"
+          "start": "17:00",
+          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Rebound Session for W"
         },
         {
-          "start": "18:08",
-          "end": "18:56",
           "cat": "coding",
+          "end": "18:56",
+          "note": "w3schools.com",
           "src": "chrome",
-          "title": "Week_2_Understanding_Columns.ipynb - Colab",
-          "note": "w3schools.com"
+          "start": "18:08",
+          "title": "Week_2_Understanding_Columns.ipynb - Colab"
         },
         {
-          "start": "18:58",
-          "end": "19:18",
           "cat": "admin",
+          "end": "19:18",
+          "note": "translate.google.com",
           "src": "chrome",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "18:58",
+          "title": "Google Translate"
         },
         {
-          "start": "21:04",
-          "end": "21:24",
           "cat": "research",
+          "end": "21:24",
+          "note": "url.au.m.mimecastprotect.com",
           "src": "chrome",
-          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
-          "note": "url.au.m.mimecastprotect.com"
+          "start": "21:04",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi"
         }
       ],
+      "key": "2026-8-3",
       "logged": 452,
-      "real": 213,
-      "deep": 213,
       "ratio": 0.47206620667401444,
+      "real": 213,
       "stats": {
         "contextSwitches": 30,
-        "tabsOpened": 33,
+        "justOneMoreThing": 4,
         "longestFocus": "48m",
-        "justOneMoreThing": 4
-      }
+        "tabsOpened": 33
+      },
+      "weekend": false
     },
     {
       "key": "2026-8-4",
@@ -51252,27 +51917,675 @@
       "weekend": false,
       "dateShort": "Tue, Aug 4",
       "dateLong": "Tuesday, August 4",
-      "dayStart": "10:16",
-      "dayEnd": "10:36",
+      "dayStart": "10:15",
+      "dayEnd": "17:30",
       "events": [
         {
-          "start": "10:16",
+          "start": "10:15",
+          "end": "10:17",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "10:18",
+          "end": "10:20",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Macquarie University | Top 1.5% in the world | Multiply your",
+          "note": "mq.edu.au"
+        },
+        {
+          "start": "10:21",
+          "end": "10:21",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Macquarie University | Top 1.5% in the world | Multiply your",
+          "note": "aus01.safelinks.protection.outlook.com"
+        },
+        {
+          "start": "10:21",
+          "end": "10:23",
+          "cat": "research",
+          "src": "macos",
+          "title": "Claude Code by Anthropic | AI Coding Agent, Terminal, IDE",
+          "note": "claude.com"
+        },
+        {
+          "start": "10:23",
+          "end": "10:24",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Claude & Slack Integration | Slack Marketplace",
+          "note": "slack.com"
+        },
+        {
+          "start": "10:24",
+          "end": "10:32",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Login | Slack",
+          "note": "slack.com"
+        },
+        {
+          "start": "10:33",
+          "end": "10:34",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "10:34",
+          "end": "10:35",
+          "cat": "research",
+          "src": "macos",
+          "title": "AI Digest — August 4, 2026 | Ada's Notes",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "10:35",
           "end": "10:36",
           "cat": "admin",
           "src": "chrome",
           "title": "Macquarie University | Top 1.5% in the world | Multiply your",
           "note": "aus01.safelinks.protection.outlook.com"
+        },
+        {
+          "start": "10:36",
+          "end": "10:37",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(18) 主页 / X",
+          "note": "x.com"
+        },
+        {
+          "start": "10:37",
+          "end": "10:40",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Sign in to your account",
+          "note": "apps.powerapps.com"
+        },
+        {
+          "start": "10:40",
+          "end": "10:48",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "10:48",
+          "end": "10:52",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(16) X 上的 Amanda Askell：“I don't agree with this part. I thi",
+          "note": "x.com"
+        },
+        {
+          "start": "10:52",
+          "end": "11:09",
+          "cat": "personal",
+          "src": "claude",
+          "title": "English learning tools",
+          "note": "151 hits"
+        },
+        {
+          "start": "11:13",
+          "end": "11:19",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "11:23",
+          "end": "11:25",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "11:25",
+          "end": "11:29",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Excel",
+          "note": "com.microsoft.Excel"
+        },
+        {
+          "start": "11:29",
+          "end": "11:34",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "11:39",
+          "end": "11:41",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "11:41",
+          "end": "12:15",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Excel",
+          "note": "com.microsoft.Excel"
+        },
+        {
+          "start": "12:15",
+          "end": "12:21",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "13:57",
+          "end": "13:59",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "13:59",
+          "end": "14:01",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "14:02",
+          "end": "14:03",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Excel",
+          "note": "com.microsoft.Excel"
+        },
+        {
+          "start": "14:05",
+          "end": "14:18",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "14:18",
+          "end": "14:23",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "14:23",
+          "end": "14:28",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "14:28",
+          "end": "14:30",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "14:30",
+          "end": "14:32",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "14:32",
+          "end": "14:33",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "14:33",
+          "end": "14:34",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "14:34",
+          "end": "14:35",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "14:35",
+          "end": "14:37",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "14:37",
+          "end": "14:39",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "14:39",
+          "end": "14:42",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "14:42",
+          "end": "15:09",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:09",
+          "end": "15:13",
+          "cat": "personal",
+          "src": "claude",
+          "title": "English learning tools",
+          "note": "141 hits"
+        },
+        {
+          "start": "15:13",
+          "end": "15:14",
+          "cat": "personal",
+          "src": "claude",
+          "title": "English learning tools",
+          "note": "141 hits"
+        },
+        {
+          "start": "15:15",
+          "end": "15:17",
+          "cat": "personal",
+          "src": "claude",
+          "title": "English learning tools",
+          "note": "141 hits"
+        },
+        {
+          "start": "15:17",
+          "end": "15:18",
+          "cat": "personal",
+          "src": "claude",
+          "title": "English learning tools",
+          "note": "141 hits"
+        },
+        {
+          "start": "15:18",
+          "end": "15:19",
+          "cat": "personal",
+          "src": "claude",
+          "title": "English learning tools",
+          "note": "141 hits"
+        },
+        {
+          "start": "15:20",
+          "end": "15:26",
+          "cat": "personal",
+          "src": "claude",
+          "title": "English learning tools",
+          "note": "141 hits"
+        },
+        {
+          "start": "15:26",
+          "end": "15:26",
+          "cat": "personal",
+          "src": "claude",
+          "title": "English learning tools",
+          "note": "141 hits"
+        },
+        {
+          "start": "15:26",
+          "end": "15:29",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Excel",
+          "note": "com.microsoft.Excel"
+        },
+        {
+          "start": "15:29",
+          "end": "15:33",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:33",
+          "end": "15:37",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Excel",
+          "note": "com.microsoft.Excel"
+        },
+        {
+          "start": "15:38",
+          "end": "15:40",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Excel",
+          "note": "com.microsoft.Excel"
+        },
+        {
+          "start": "15:40",
+          "end": "15:41",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:41",
+          "end": "15:44",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:44",
+          "end": "15:54",
+          "cat": "personal",
+          "src": "claude",
+          "title": "English learning tools",
+          "note": "96 hits"
+        },
+        {
+          "start": "15:54",
+          "end": "15:55",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
+          "note": "sport.mq.edu.au"
+        },
+        {
+          "start": "15:55",
+          "end": "15:57",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:57",
+          "end": "16:01",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:01",
+          "end": "16:06",
+          "cat": "coding",
+          "src": "local",
+          "title": "process_score.py",
+          "note": "5 hits"
+        },
+        {
+          "start": "16:06",
+          "end": "16:10",
+          "cat": "coding",
+          "src": "local",
+          "title": "config.json",
+          "note": "2 hits"
+        },
+        {
+          "start": "16:10",
+          "end": "16:11",
+          "cat": "coding",
+          "src": "local",
+          "title": "config.json",
+          "note": "2 hits"
+        },
+        {
+          "start": "16:11",
+          "end": "16:13",
+          "cat": "writing",
+          "src": "local",
+          "title": "codex.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "16:13",
+          "end": "16:15",
+          "cat": "writing",
+          "src": "local",
+          "title": "codex.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "16:15",
+          "end": "16:16",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:16",
+          "end": "16:18",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:18",
+          "end": "16:18",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:18",
+          "end": "16:19",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:19",
+          "end": "16:21",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "16:21",
+          "end": "16:21",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "16:21",
+          "end": "16:23",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "16:23",
+          "end": "16:24",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "16:24",
+          "end": "16:26",
+          "cat": "research",
+          "src": "macos",
+          "title": "AI Digest — August 4, 2026 | Ada's Notes",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "16:27",
+          "end": "16:30",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(16) X 上的 Peter Yang：“My 6 biggest takeaways from @karan4d, ",
+          "note": "x.com"
+        },
+        {
+          "start": "16:30",
+          "end": "16:32",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(83) Hermes Co-Founder on Building an AI Agent That Improves",
+          "note": "youtube.com"
+        },
+        {
+          "start": "16:32",
+          "end": "16:34",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(83) Hermes Co-Founder on Building an AI Agent That Improves",
+          "note": "youtube.com"
+        },
+        {
+          "start": "16:34",
+          "end": "16:35",
+          "cat": "research",
+          "src": "macos",
+          "title": "Univé builds an AI-ready workforce | Ada's Notes",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "16:35",
+          "end": "16:36",
+          "cat": "research",
+          "src": "macos",
+          "title": "Univé builds an AI-ready workforce | Ada's Notes",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "16:36",
+          "end": "16:37",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(16) X 上的 Peter Yang：“My 6 biggest takeaways from @karan4d, ",
+          "note": "x.com"
+        },
+        {
+          "start": "16:37",
+          "end": "16:38",
+          "cat": "research",
+          "src": "macos",
+          "title": "Building abundant intelligence | Ada's Notes",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "16:38",
+          "end": "16:40",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(16) X 上的 Peter Yang：“My 6 biggest takeaways from @karan4d, ",
+          "note": "x.com"
+        },
+        {
+          "start": "16:40",
+          "end": "16:42",
+          "cat": "research",
+          "src": "macos",
+          "title": "Investigating three real-world incidents in our cybersecurit",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "16:42",
+          "end": "16:43",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(16) X 上的 Peter Yang：“My 6 biggest takeaways from @karan4d, ",
+          "note": "x.com"
+        },
+        {
+          "start": "16:43",
+          "end": "16:43",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(16) X 上的 Peter Yang：“My 6 biggest takeaways from @karan4d, ",
+          "note": "x.com"
+        },
+        {
+          "start": "16:43",
+          "end": "16:47",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Excel",
+          "note": "com.microsoft.Excel"
+        },
+        {
+          "start": "16:47",
+          "end": "17:06",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Excel",
+          "note": "com.microsoft.Excel"
+        },
+        {
+          "start": "17:06",
+          "end": "17:25",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "17:25",
+          "end": "17:30",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
         }
       ],
-      "logged": 20,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0.0,
+      "logged": 312,
+      "real": 164,
+      "deep": 164,
+      "ratio": 0.5272300526902634,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 3,
-        "longestFocus": "0m",
-        "justOneMoreThing": 0
+        "contextSwitches": 35,
+        "tabsOpened": 24,
+        "longestFocus": "1h 3m",
+        "justOneMoreThing": 3
       }
     },
     {
@@ -51282,16 +52595,33 @@
       "weekend": false,
       "dateShort": "Wed, Aug 5",
       "dateLong": "Wednesday, August 5",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
+      "dayStart": "09:54",
+      "dayEnd": "10:20",
+      "events": [
+        {
+          "start": "09:54",
+          "end": "10:18",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Book.xlsx",
+          "note": "aus01.safelinks.protection.outlook.com"
+        },
+        {
+          "start": "10:18",
+          "end": "10:20",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(18) 主页 / X",
+          "note": "x.com"
+        }
+      ],
+      "logged": 26,
       "real": 0,
       "deep": 0,
-      "ratio": 0,
+      "ratio": 0.0,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
+        "contextSwitches": 1,
+        "tabsOpened": 6,
         "longestFocus": "0m",
         "justOneMoreThing": 0
       }
