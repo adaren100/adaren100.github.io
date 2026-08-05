@@ -5,7 +5,7 @@ draft: false
 tags: ["big-tech-research", "openai"]
 ---
 
-**[Apple is getting this wrong](https://openai.com/index/apple-is-getting-this-wrong)** — _OpenAI · Aug 3_
+**[Apple is getting this wrong](https://openai.com/index/apple-is-getting-this-wrong)** — _OpenAI · Aug 4_
 
 **Main takeaway:** OpenAI published a rebuttal to Apple's lawsuit accusing former Apple employees Chang Liu and Tang Tan of misusing Apple trade secrets, disputing Apple's timeline of events and calling the suit baseless.
 
@@ -16,7 +16,7 @@ tags: ["big-tech-research", "openai"]
 - **Evidence published.** OpenAI released iMessages and email correspondence between the parties to back its account of what happened and when.
 - **The ask.** OpenAI calls Apple's request for a preliminary injunction unnecessary and based on false information, saying it neither has nor wants Apple's trade secrets, and accuses Apple of shifting its narrative after being confronted with the facts.
 
-**[OpenAI：苹果这次搞错了](https://openai.com/index/apple-is-getting-this-wrong)** — _OpenAI · 8月3日_
+**[OpenAI：苹果这次搞错了](https://openai.com/index/apple-is-getting-this-wrong)** — _OpenAI · 8月4日_
 
 **Main takeaway:** OpenAI 发文反驳苹果那起指控前苹果员工 Chang Liu 和 Tang Tan 挪用苹果商业机密的诉讼，逐条质疑苹果给出的事件时间线，说这起诉讼站不住脚。
 

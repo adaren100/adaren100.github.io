@@ -5,7 +5,7 @@ draft: false
 tags: ["big-tech-research", "anthropic"]
 ---
 
-**[Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer](https://www.anthropic.com/news/tino-cuellar)** — _Anthropic · Aug 3_
+**[Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer](https://www.anthropic.com/news/tino-cuellar)** — _Anthropic · Aug 4_
 
 **Main takeaway:** Anthropic named Mariano-Florentino (Tino) Cuéllar as its first Chief Global Affairs Officer, leading policy, international engagement, and government relationships worldwide; he is stepping down from his seat on Anthropic's Long-Term Benefit Trust to take the role.
 
@@ -16,7 +16,7 @@ tags: ["big-tech-research", "anthropic"]
 - **Prior tie to Anthropic.** Cuéllar has served as a Trustee of Anthropic's Long-Term Benefit Trust since January 2026 and is stepping down from that seat to join as an executive; the Trust will select a successor through its normal process.
 - **Framing from leadership.** Both Cuéllar and Daniela Amodei describe the hire as coming at a "pivotal moment" for AI governance, with Cuéllar arguing that democracies must set the terms on which the technology advances.
 
-**[Tino Cuéllar 加入 Anthropic，出任首席全球事务官](https://www.anthropic.com/news/tino-cuellar)** — _Anthropic · 8月3日_
+**[Tino Cuéllar 加入 Anthropic，出任首席全球事务官](https://www.anthropic.com/news/tino-cuellar)** — _Anthropic · 8月4日_
 
 **Main takeaway:** Anthropic 请来 Mariano-Florentino（Tino）Cuéllar 出任公司历史上第一位首席全球事务官，主管政策、国际事务和全球政府关系；他会从 Anthropic 长期利益信托（Long-Term Benefit Trust）的受托人席位上卸任，转而加入公司当高管。
 
