@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-08-09T10:28:56+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-08-10T10:20:11+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -52590,7 +52590,7 @@
         "dateShort": "Fri, Aug 7",
         "dateLong": "Friday, August 7",
         "dayStart": "09:41",
-        "dayEnd": "17:15",
+        "dayEnd": "17:29",
         "events": [
           {
             "start": "09:41",
@@ -53034,22 +53034,70 @@
           },
           {
             "start": "16:07",
-            "end": "16:10",
-            "cat": "writing",
-            "src": "local",
-            "title": "Reading.md",
-            "note": "1 hit"
+            "end": "16:12",
+            "cat": "research",
+            "src": "macos",
+            "title": "Working with the American Psychological Association on youth",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "16:13",
+            "end": "16:14",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Hi, just a reminder about Chang Cheng-Yue - ada.ren.cn@gmail",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "16:14",
+            "end": "16:16",
+            "cat": "research",
+            "src": "macos",
+            "title": "AI Digest — August 7, 2026 | Ada's Notes",
+            "note": "adaren100.github.io"
           },
           {
             "start": "16:16",
-            "end": "16:32",
+            "end": "16:27",
             "cat": "personal",
-            "src": "chrome",
+            "src": "macos",
             "title": "(2) X 上的 Aaron Levie：“Huge Atlassian quarterly beat. There w",
             "note": "x.com"
           },
           {
+            "start": "16:27",
+            "end": "16:32",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
             "start": "16:32",
+            "end": "16:40",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "16:40",
+            "end": "16:41",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Building Effective AI Agents \\ Anthropic",
+            "note": "console.anthropic.com"
+          },
+          {
+            "start": "16:41",
+            "end": "16:46",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "16:46",
             "end": "16:52",
             "cat": "coding",
             "src": "chrome",
@@ -53066,30 +53114,54 @@
           },
           {
             "start": "16:55",
-            "end": "17:09",
+            "end": "16:58",
             "cat": "coding",
             "src": "chrome",
             "title": "Effective harnesses for long-running agents \\ Anthropic",
             "note": "platform.claude.com"
           },
           {
-            "start": "17:09",
-            "end": "17:15",
+            "start": "16:58",
+            "end": "17:02",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "17:03",
+            "end": "17:08",
             "cat": "coding",
-            "src": "chrome",
-            "title": "Effective harnesses for long-running agents \\ Anthropic",
-            "note": "platform.claude.com"
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "17:08",
+            "end": "17:09",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Inbox (2,776) - ada.ren.cn@gmail.com - Gmail",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "17:09",
+            "end": "17:29",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Demystifying evals for AI agents \\ Anthropic",
+            "note": "anthropic.com"
           }
         ],
-        "logged": 337,
-        "real": 215,
-        "deep": 215,
-        "ratio": 0.6383454717461179,
+        "logged": 355,
+        "real": 225,
+        "deep": 225,
+        "ratio": 0.6339753947161086,
         "stats": {
-          "contextSwitches": 48,
-          "tabsOpened": 54,
+          "contextSwitches": 57,
+          "tabsOpened": 51,
           "longestFocus": "45m",
-          "justOneMoreThing": 12
+          "justOneMoreThing": 16
         }
       },
       {
@@ -53099,26 +53171,17 @@
         "weekend": true,
         "dateShort": "Sat, Aug 8",
         "dateLong": "Saturday, August 8",
-        "dayStart": "10:29",
-        "dayEnd": "10:34",
-        "events": [
-          {
-            "start": "10:29",
-            "end": "10:34",
-            "cat": "coding",
-            "src": "local",
-            "title": "data.js",
-            "note": "1 hit"
-          }
-        ],
-        "logged": 5,
-        "real": 5,
-        "deep": 5,
-        "ratio": 1.0,
+        "dayStart": "09:00",
+        "dayEnd": "17:00",
+        "events": [],
+        "logged": 0,
+        "real": 0,
+        "deep": 0,
+        "ratio": 0,
         "stats": {
           "contextSwitches": 0,
           "tabsOpened": 0,
-          "longestFocus": "5m",
+          "longestFocus": "0m",
           "justOneMoreThing": 0
         }
       },
@@ -53129,18 +53192,355 @@
         "weekend": true,
         "dateShort": "Sun, Aug 9",
         "dateLong": "Sunday, August 9",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "10:28",
+        "dayEnd": "00:58",
+        "events": [
+          {
+            "start": "10:28",
+            "end": "10:33",
+            "cat": "coding",
+            "src": "local",
+            "title": "data.js",
+            "note": "1 hit"
+          },
+          {
+            "start": "15:27",
+            "end": "15:29",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Look at our Freestylers go! Freestyle Step Aerobics 17:30 Tu",
+            "note": "facebook.com"
+          },
+          {
+            "start": "15:29",
+            "end": "15:30",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "15:31",
+            "end": "15:38",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: What's on Week 3 | iL",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "15:38",
+            "end": "16:13",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "16:16",
+            "end": "16:18",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "16:18",
+            "end": "16:20",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Logistic Regression",
+            "note": "kaltura.com"
+          },
+          {
+            "start": "16:20",
+            "end": "16:24",
+            "cat": "admin",
+            "src": "macos",
+            "title": "COMP2200: Week 3",
+            "note": "content.ilearn.mq.edu.au"
+          },
+          {
+            "start": "16:24",
+            "end": "16:26",
+            "cat": "admin",
+            "src": "macos",
+            "title": "929c0c44b96817cfcf3ac11f10c305fbca00e835",
+            "note": "content.ilearn.mq.edu.au"
+          },
+          {
+            "start": "16:26",
+            "end": "16:38",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Questionnaire Report | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "16:38",
+            "end": "16:38",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Evaluating Linear Regression",
+            "note": "kaltura.com"
+          },
+          {
+            "start": "16:38",
+            "end": "16:45",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Arc'teryx Women's Breathable Clarkia Cotton Wide Leg Pant Bl",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "16:45",
+            "end": "16:46",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Wunder Train High-Rise Short 2\" | Shorts | Lululemon AU",
+            "note": "lululemon.com.au"
+          },
+          {
+            "start": "16:46",
+            "end": "16:47",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Arc'teryx Women's Breathable Clarkia Cotton Wide Leg Pant Bl",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "16:47",
+            "end": "16:48",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Women's Outdoor Clothing - Arc'teryx Australia",
+            "note": "arcteryx.com.au"
+          },
+          {
+            "start": "16:48",
+            "end": "16:56",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Arc'teryx Women's Breathable Cerium Vest Black – Black – Arc",
+            "note": "arcteryx.com.au"
+          },
+          {
+            "start": "16:56",
+            "end": "16:57",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Arc'teryx Women's Breathable Clarkia Cotton Wide Leg Pant Bl",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "16:57",
+            "end": "16:58",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(86) Logistic Regression Simply Explained with Examples - Yo",
+            "note": "youtube.com"
+          },
+          {
+            "start": "16:59",
+            "end": "17:55",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Office Chairs | Ergonomic Desk & Computer Chairs - IKEA",
+            "note": "ikea.com"
+          },
+          {
+            "start": "19:20",
+            "end": "19:27",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Scuba Oversized Full-Zip Hoodie | Lululemon AU",
+            "note": "lululemon.com.au"
+          },
+          {
+            "start": "19:27",
+            "end": "19:39",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(86) Yonghua Lin: Opening Remarks - YouTube",
+            "note": "youtube.com"
+          },
+          {
+            "start": "19:39",
+            "end": "20:22",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(86) StatQuest: Logistic Regression - YouTube",
+            "note": "youtube.com"
+          },
+          {
+            "start": "20:24",
+            "end": "21:25",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(86) Odds and Log(Odds), Clearly Explained!!! - YouTube",
+            "note": "youtube.com"
+          },
+          {
+            "start": "21:25",
+            "end": "21:51",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Untitled spreadsheet - Google Sheets",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "21:53",
+            "end": "22:16",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Untitled spreadsheet - Google Sheets",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "22:16",
+            "end": "22:18",
+            "cat": "writing",
+            "src": "macos",
+            "title": "COMP 2200 - Google Drive",
+            "note": "drive.google.com"
+          },
+          {
+            "start": "22:18",
+            "end": "22:20",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Progress Updates - Google Sheets",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "22:20",
+            "end": "22:29",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "22:29",
+            "end": "22:30",
+            "cat": "writing",
+            "src": "chrome",
+            "title": "Progress Updates - Google Sheets",
+            "note": "drive.google.com"
+          },
+          {
+            "start": "22:30",
+            "end": "22:32",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "22:32",
+            "end": "22:33",
+            "cat": "writing",
+            "src": "chrome",
+            "title": "Progress Updates - Google Sheets",
+            "note": "drive.google.com"
+          },
+          {
+            "start": "22:33",
+            "end": "22:37",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "22:37",
+            "end": "22:38",
+            "cat": "writing",
+            "src": "chrome",
+            "title": "Progress Updates - Google Sheets",
+            "note": "drive.google.com"
+          },
+          {
+            "start": "22:38",
+            "end": "22:40",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "22:41",
+            "end": "23:01",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Week_3_Working_with_Rows.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "23:48",
+            "end": "23:50",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Week_3_Working_with_Rows.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "23:50",
+            "end": "00:11",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "00:11",
+            "end": "00:12",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Logistic Regression",
+            "note": "kaltura.com"
+          },
+          {
+            "start": "00:12",
+            "end": "00:13",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "COMP2200: Week 3",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "00:13",
+            "end": "00:26",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Introducting Linear Regression",
+            "note": "kaltura.com"
+          },
+          {
+            "start": "00:50",
+            "end": "00:57",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Introducting Linear Regression",
+            "note": "kaltura.com"
+          },
+          {
+            "start": "00:57",
+            "end": "00:58",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          }
+        ],
+        "logged": 410,
+        "real": 105,
+        "deep": 105,
+        "ratio": 0.2574075390589926,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "0m",
-          "justOneMoreThing": 0
+          "contextSwitches": 25,
+          "tabsOpened": 39,
+          "longestFocus": "51m",
+          "justOneMoreThing": 5
         }
       },
       {
@@ -53150,17 +53550,26 @@
         "weekend": false,
         "dateShort": "Mon, Aug 10",
         "dateLong": "Monday, August 10",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "09:55",
+        "dayEnd": "10:15",
+        "events": [
+          {
+            "start": "09:55",
+            "end": "10:15",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Week_3_Working_with_Rows.ipynb - Colab",
+            "note": "colab.research.google.com"
+          }
+        ],
+        "logged": 20,
+        "real": 20,
+        "deep": 20,
+        "ratio": 1.0,
         "stats": {
           "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "0m",
+          "tabsOpened": 3,
+          "longestFocus": "20m",
           "justOneMoreThing": 0
         }
       },
@@ -57075,7 +57484,7 @@
       "dateShort": "Fri, Aug 7",
       "dateLong": "Friday, August 7",
       "dayStart": "09:41",
-      "dayEnd": "17:15",
+      "dayEnd": "17:29",
       "events": [
         {
           "start": "09:41",
@@ -57519,22 +57928,70 @@
         },
         {
           "start": "16:07",
-          "end": "16:10",
-          "cat": "writing",
-          "src": "local",
-          "title": "Reading.md",
-          "note": "1 hit"
+          "end": "16:12",
+          "cat": "research",
+          "src": "macos",
+          "title": "Working with the American Psychological Association on youth",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "16:13",
+          "end": "16:14",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Hi, just a reminder about Chang Cheng-Yue - ada.ren.cn@gmail",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "16:14",
+          "end": "16:16",
+          "cat": "research",
+          "src": "macos",
+          "title": "AI Digest — August 7, 2026 | Ada's Notes",
+          "note": "adaren100.github.io"
         },
         {
           "start": "16:16",
-          "end": "16:32",
+          "end": "16:27",
           "cat": "personal",
-          "src": "chrome",
+          "src": "macos",
           "title": "(2) X 上的 Aaron Levie：“Huge Atlassian quarterly beat. There w",
           "note": "x.com"
         },
         {
+          "start": "16:27",
+          "end": "16:32",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
           "start": "16:32",
+          "end": "16:40",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "16:40",
+          "end": "16:41",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Building Effective AI Agents \\ Anthropic",
+          "note": "console.anthropic.com"
+        },
+        {
+          "start": "16:41",
+          "end": "16:46",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "16:46",
           "end": "16:52",
           "cat": "coding",
           "src": "chrome",
@@ -57551,30 +58008,54 @@
         },
         {
           "start": "16:55",
-          "end": "17:09",
+          "end": "16:58",
           "cat": "coding",
           "src": "chrome",
           "title": "Effective harnesses for long-running agents \\ Anthropic",
           "note": "platform.claude.com"
         },
         {
-          "start": "17:09",
-          "end": "17:15",
+          "start": "16:58",
+          "end": "17:02",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "17:03",
+          "end": "17:08",
           "cat": "coding",
-          "src": "chrome",
-          "title": "Effective harnesses for long-running agents \\ Anthropic",
-          "note": "platform.claude.com"
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "17:08",
+          "end": "17:09",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Inbox (2,776) - ada.ren.cn@gmail.com - Gmail",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "17:09",
+          "end": "17:29",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Demystifying evals for AI agents \\ Anthropic",
+          "note": "anthropic.com"
         }
       ],
-      "logged": 337,
-      "real": 215,
-      "deep": 215,
-      "ratio": 0.6383454717461179,
+      "logged": 355,
+      "real": 225,
+      "deep": 225,
+      "ratio": 0.6339753947161086,
       "stats": {
-        "contextSwitches": 48,
-        "tabsOpened": 54,
+        "contextSwitches": 57,
+        "tabsOpened": 51,
         "longestFocus": "45m",
-        "justOneMoreThing": 12
+        "justOneMoreThing": 16
       }
     },
     {
@@ -57584,26 +58065,17 @@
       "weekend": true,
       "dateShort": "Sat, Aug 8",
       "dateLong": "Saturday, August 8",
-      "dayStart": "10:29",
-      "dayEnd": "10:34",
-      "events": [
-        {
-          "start": "10:29",
-          "end": "10:34",
-          "cat": "coding",
-          "src": "local",
-          "title": "data.js",
-          "note": "1 hit"
-        }
-      ],
-      "logged": 5,
-      "real": 5,
-      "deep": 5,
-      "ratio": 1.0,
+      "dayStart": "09:00",
+      "dayEnd": "17:00",
+      "events": [],
+      "logged": 0,
+      "real": 0,
+      "deep": 0,
+      "ratio": 0,
       "stats": {
         "contextSwitches": 0,
         "tabsOpened": 0,
-        "longestFocus": "5m",
+        "longestFocus": "0m",
         "justOneMoreThing": 0
       }
     },
@@ -57614,18 +58086,355 @@
       "weekend": true,
       "dateShort": "Sun, Aug 9",
       "dateLong": "Sunday, August 9",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "10:28",
+      "dayEnd": "00:58",
+      "events": [
+        {
+          "start": "10:28",
+          "end": "10:33",
+          "cat": "coding",
+          "src": "local",
+          "title": "data.js",
+          "note": "1 hit"
+        },
+        {
+          "start": "15:27",
+          "end": "15:29",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Look at our Freestylers go! Freestyle Step Aerobics 17:30 Tu",
+          "note": "facebook.com"
+        },
+        {
+          "start": "15:29",
+          "end": "15:30",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "15:31",
+          "end": "15:38",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: What's on Week 3 | iL",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "15:38",
+          "end": "16:13",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "16:16",
+          "end": "16:18",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "16:18",
+          "end": "16:20",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Logistic Regression",
+          "note": "kaltura.com"
+        },
+        {
+          "start": "16:20",
+          "end": "16:24",
+          "cat": "admin",
+          "src": "macos",
+          "title": "COMP2200: Week 3",
+          "note": "content.ilearn.mq.edu.au"
+        },
+        {
+          "start": "16:24",
+          "end": "16:26",
+          "cat": "admin",
+          "src": "macos",
+          "title": "929c0c44b96817cfcf3ac11f10c305fbca00e835",
+          "note": "content.ilearn.mq.edu.au"
+        },
+        {
+          "start": "16:26",
+          "end": "16:38",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Questionnaire Report | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "16:38",
+          "end": "16:38",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Evaluating Linear Regression",
+          "note": "kaltura.com"
+        },
+        {
+          "start": "16:38",
+          "end": "16:45",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Arc'teryx Women's Breathable Clarkia Cotton Wide Leg Pant Bl",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "16:45",
+          "end": "16:46",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Wunder Train High-Rise Short 2\" | Shorts | Lululemon AU",
+          "note": "lululemon.com.au"
+        },
+        {
+          "start": "16:46",
+          "end": "16:47",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Arc'teryx Women's Breathable Clarkia Cotton Wide Leg Pant Bl",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "16:47",
+          "end": "16:48",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Women's Outdoor Clothing - Arc'teryx Australia",
+          "note": "arcteryx.com.au"
+        },
+        {
+          "start": "16:48",
+          "end": "16:56",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Arc'teryx Women's Breathable Cerium Vest Black – Black – Arc",
+          "note": "arcteryx.com.au"
+        },
+        {
+          "start": "16:56",
+          "end": "16:57",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Arc'teryx Women's Breathable Clarkia Cotton Wide Leg Pant Bl",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "16:57",
+          "end": "16:58",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(86) Logistic Regression Simply Explained with Examples - Yo",
+          "note": "youtube.com"
+        },
+        {
+          "start": "16:59",
+          "end": "17:55",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Office Chairs | Ergonomic Desk & Computer Chairs - IKEA",
+          "note": "ikea.com"
+        },
+        {
+          "start": "19:20",
+          "end": "19:27",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Scuba Oversized Full-Zip Hoodie | Lululemon AU",
+          "note": "lululemon.com.au"
+        },
+        {
+          "start": "19:27",
+          "end": "19:39",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(86) Yonghua Lin: Opening Remarks - YouTube",
+          "note": "youtube.com"
+        },
+        {
+          "start": "19:39",
+          "end": "20:22",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(86) StatQuest: Logistic Regression - YouTube",
+          "note": "youtube.com"
+        },
+        {
+          "start": "20:24",
+          "end": "21:25",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(86) Odds and Log(Odds), Clearly Explained!!! - YouTube",
+          "note": "youtube.com"
+        },
+        {
+          "start": "21:25",
+          "end": "21:51",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Untitled spreadsheet - Google Sheets",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "21:53",
+          "end": "22:16",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Untitled spreadsheet - Google Sheets",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "22:16",
+          "end": "22:18",
+          "cat": "writing",
+          "src": "macos",
+          "title": "COMP 2200 - Google Drive",
+          "note": "drive.google.com"
+        },
+        {
+          "start": "22:18",
+          "end": "22:20",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Progress Updates - Google Sheets",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "22:20",
+          "end": "22:29",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "22:29",
+          "end": "22:30",
+          "cat": "writing",
+          "src": "chrome",
+          "title": "Progress Updates - Google Sheets",
+          "note": "drive.google.com"
+        },
+        {
+          "start": "22:30",
+          "end": "22:32",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "22:32",
+          "end": "22:33",
+          "cat": "writing",
+          "src": "chrome",
+          "title": "Progress Updates - Google Sheets",
+          "note": "drive.google.com"
+        },
+        {
+          "start": "22:33",
+          "end": "22:37",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "22:37",
+          "end": "22:38",
+          "cat": "writing",
+          "src": "chrome",
+          "title": "Progress Updates - Google Sheets",
+          "note": "drive.google.com"
+        },
+        {
+          "start": "22:38",
+          "end": "22:40",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "22:41",
+          "end": "23:01",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Week_3_Working_with_Rows.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "23:48",
+          "end": "23:50",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Week_3_Working_with_Rows.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "23:50",
+          "end": "00:11",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "00:11",
+          "end": "00:12",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Logistic Regression",
+          "note": "kaltura.com"
+        },
+        {
+          "start": "00:12",
+          "end": "00:13",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "COMP2200: Week 3",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "00:13",
+          "end": "00:26",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Introducting Linear Regression",
+          "note": "kaltura.com"
+        },
+        {
+          "start": "00:50",
+          "end": "00:57",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Introducting Linear Regression",
+          "note": "kaltura.com"
+        },
+        {
+          "start": "00:57",
+          "end": "00:58",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        }
+      ],
+      "logged": 410,
+      "real": 105,
+      "deep": 105,
+      "ratio": 0.2574075390589926,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "0m",
-        "justOneMoreThing": 0
+        "contextSwitches": 25,
+        "tabsOpened": 39,
+        "longestFocus": "51m",
+        "justOneMoreThing": 5
       }
     },
     {
@@ -57635,17 +58444,26 @@
       "weekend": false,
       "dateShort": "Mon, Aug 10",
       "dateLong": "Monday, August 10",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "09:55",
+      "dayEnd": "10:15",
+      "events": [
+        {
+          "start": "09:55",
+          "end": "10:15",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Week_3_Working_with_Rows.ipynb - Colab",
+          "note": "colab.research.google.com"
+        }
+      ],
+      "logged": 20,
+      "real": 20,
+      "deep": 20,
+      "ratio": 1.0,
       "stats": {
         "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "0m",
+        "tabsOpened": 3,
+        "longestFocus": "20m",
         "justOneMoreThing": 0
       }
     },
