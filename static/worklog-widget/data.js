@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-08-11T10:20:12+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-08-12T10:20:13+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -53544,426 +53544,426 @@
         "weekend": true
       },
       {
-        "key": "2026-8-10",
-        "dayNum": 10,
-        "dow": 1,
-        "weekend": false,
-        "dateShort": "Mon, Aug 10",
         "dateLong": "Monday, August 10",
-        "dayStart": "09:55",
+        "dateShort": "Mon, Aug 10",
         "dayEnd": "19:02",
+        "dayNum": 10,
+        "dayStart": "09:55",
+        "deep": 187,
+        "dow": 1,
         "events": [
           {
-            "start": "09:55",
+            "cat": "coding",
             "end": "09:58",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "chrome",
-            "title": "Week_3_Working_with_Rows.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "09:55",
+            "title": "Week_3_Working_with_Rows.ipynb - Colab"
           },
           {
-            "start": "09:58",
+            "cat": "admin",
             "end": "10:10",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "macos",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "09:58",
+            "title": "Google Translate"
           },
           {
-            "start": "10:10",
+            "cat": "meeting",
             "end": "10:18",
-            "cat": "meeting",
+            "note": "com.microsoft.teams2",
             "src": "macos",
-            "title": "teams2",
-            "note": "com.microsoft.teams2"
+            "start": "10:10",
+            "title": "teams2"
           },
           {
-            "start": "10:18",
+            "cat": "admin",
             "end": "10:25",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "macos",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "10:18",
+            "title": "Google Translate"
           },
           {
-            "start": "10:25",
-            "end": "10:31",
             "cat": "meeting",
+            "end": "10:31",
+            "note": "com.microsoft.teams2",
             "src": "macos",
-            "title": "teams2",
-            "note": "com.microsoft.teams2"
+            "start": "10:25",
+            "title": "teams2"
           },
           {
-            "start": "10:31",
+            "cat": "admin",
             "end": "10:44",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "10:31",
+            "title": "Outlook"
           },
           {
-            "start": "10:44",
+            "cat": "coding",
             "end": "11:25",
-            "cat": "coding",
+            "note": "scikit-learn.org",
             "src": "macos",
-            "title": "LogisticRegression — scikit-learn 1.9.0 documentation",
-            "note": "scikit-learn.org"
+            "start": "10:44",
+            "title": "LogisticRegression — scikit-learn 1.9.0 documentation"
           },
           {
-            "start": "11:30",
+            "cat": "coding",
             "end": "11:36",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "Week_3_Working_with_Rows.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "11:30",
+            "title": "Week_3_Working_with_Rows.ipynb - Colab"
           },
           {
-            "start": "11:41",
+            "cat": "coding",
             "end": "11:42",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "Week_3_Working_with_Rows.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "11:41",
+            "title": "Week_3_Working_with_Rows.ipynb - Colab"
           },
           {
-            "start": "11:42",
+            "cat": "writing",
             "end": "11:56",
-            "cat": "writing",
+            "note": "excalidraw.com",
             "src": "macos",
-            "title": "Excalidraw Whiteboard",
-            "note": "excalidraw.com"
+            "start": "11:42",
+            "title": "Excalidraw Whiteboard"
           },
           {
-            "start": "11:56",
+            "cat": "research",
             "end": "11:59",
-            "cat": "research",
+            "note": "blog.gopenai.com",
             "src": "chrome",
-            "title": "Understanding Logistic Regression: A Cornerstone of Classifi",
-            "note": "blog.gopenai.com"
+            "start": "11:56",
+            "title": "Understanding Logistic Regression: A Cornerstone of Classifi"
           },
           {
-            "start": "11:59",
+            "cat": "admin",
             "end": "12:09",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "logistic regression - Google Search",
-            "note": "google.com"
+            "start": "11:59",
+            "title": "logistic regression - Google Search"
           },
           {
-            "start": "12:09",
+            "cat": "research",
             "end": "12:12",
-            "cat": "research",
+            "note": "blog.gopenai.com",
             "src": "chrome",
-            "title": "Understanding Logistic Regression: A Cornerstone of Classifi",
-            "note": "blog.gopenai.com"
+            "start": "12:09",
+            "title": "Understanding Logistic Regression: A Cornerstone of Classifi"
           },
           {
-            "start": "12:12",
+            "cat": "admin",
             "end": "12:31",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "logistic regression - Google Search",
-            "note": "google.com"
+            "start": "12:12",
+            "title": "logistic regression - Google Search"
           },
           {
-            "start": "12:31",
+            "cat": "coding",
             "end": "12:32",
-            "cat": "coding",
+            "note": "encord.com",
             "src": "macos",
-            "title": "What is a Confusion Matrix? | Machine Learning Glossary | En",
-            "note": "encord.com"
+            "start": "12:31",
+            "title": "What is a Confusion Matrix? | Machine Learning Glossary | En"
           },
           {
-            "start": "12:33",
+            "cat": "admin",
             "end": "12:53",
-            "cat": "admin",
+            "note": "linkedin.com",
             "src": "chrome",
-            "title": "Post | LinkedIn",
-            "note": "linkedin.com"
+            "start": "12:33",
+            "title": "Post | LinkedIn"
           },
           {
-            "start": "13:42",
+            "cat": "admin",
             "end": "13:43",
-            "cat": "admin",
+            "note": "linkedin.com",
             "src": "macos",
-            "title": "Post | LinkedIn",
-            "note": "linkedin.com"
+            "start": "13:42",
+            "title": "Post | LinkedIn"
           },
           {
-            "start": "13:43",
-            "end": "13:50",
             "cat": "research",
+            "end": "13:50",
+            "note": "cureus.com",
             "src": "macos",
-            "title": "What’s the Risk: Differentiating Risk Ratios, Odds Ratios, a",
-            "note": "cureus.com"
+            "start": "13:43",
+            "title": "What’s the Risk: Differentiating Risk Ratios, Odds Ratios, a"
           },
           {
-            "start": "13:50",
+            "cat": "coding",
             "end": "13:52",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "13:50",
+            "title": "codex"
           },
           {
-            "start": "13:52",
+            "cat": "admin",
             "end": "14:01",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "Google",
-            "note": "google.com"
+            "start": "13:52",
+            "title": "Google"
           },
           {
-            "start": "14:02",
+            "cat": "personal",
             "end": "14:11",
-            "cat": "personal",
+            "note": "youtube.com",
             "src": "macos",
-            "title": "(86) Odds and Log(Odds), Clearly Explained!!! - YouTube",
-            "note": "youtube.com"
+            "start": "14:02",
+            "title": "(86) Odds and Log(Odds), Clearly Explained!!! - YouTube"
           },
           {
-            "start": "14:11",
+            "cat": "coding",
             "end": "14:18",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "14:11",
+            "title": "codex"
           },
           {
-            "start": "14:18",
+            "cat": "admin",
             "end": "14:19",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "14:18",
+            "title": "Outlook"
           },
           {
-            "start": "14:19",
+            "cat": "coding",
             "end": "14:22",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "14:19",
+            "title": "codex"
           },
           {
-            "start": "14:22",
+            "cat": "coding",
             "end": "14:31",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "14:22",
+            "title": "codex"
           },
           {
-            "start": "14:31",
+            "cat": "personal",
             "end": "14:33",
-            "cat": "personal",
+            "note": "youtube.com",
             "src": "macos",
-            "title": "(86) Odds and Log(Odds), Clearly Explained!!! - YouTube",
-            "note": "youtube.com"
+            "start": "14:31",
+            "title": "(86) Odds and Log(Odds), Clearly Explained!!! - YouTube"
           },
           {
-            "start": "14:33",
+            "cat": "admin",
             "end": "14:36",
-            "cat": "admin",
+            "note": "com.microsoft.Excel",
             "src": "macos",
-            "title": "Excel",
-            "note": "com.microsoft.Excel"
+            "start": "14:33",
+            "title": "Excel"
           },
           {
-            "start": "14:37",
+            "cat": "admin",
             "end": "14:39",
-            "cat": "admin",
+            "note": "com.microsoft.Excel",
             "src": "macos",
-            "title": "Excel",
-            "note": "com.microsoft.Excel"
+            "start": "14:37",
+            "title": "Excel"
           },
           {
-            "start": "14:39",
+            "cat": "personal",
             "end": "14:41",
-            "cat": "personal",
+            "note": "youtube.com",
             "src": "macos",
-            "title": "(86) Odds and Log(Odds), Clearly Explained!!! - YouTube",
-            "note": "youtube.com"
+            "start": "14:39",
+            "title": "(86) Odds and Log(Odds), Clearly Explained!!! - YouTube"
           },
           {
-            "start": "14:41",
+            "cat": "coding",
             "end": "14:43",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "14:41",
+            "title": "codex"
           },
           {
-            "start": "14:43",
-            "end": "14:46",
             "cat": "personal",
+            "end": "14:46",
+            "note": "youtube.com",
             "src": "macos",
-            "title": "(86) Odds and Log(Odds), Clearly Explained!!! - YouTube",
-            "note": "youtube.com"
+            "start": "14:43",
+            "title": "(86) Odds and Log(Odds), Clearly Explained!!! - YouTube"
           },
           {
-            "start": "14:46",
+            "cat": "admin",
             "end": "14:49",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "14:46",
+            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn"
           },
           {
-            "start": "14:49",
+            "cat": "writing",
             "end": "14:55",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Week3 - Google Sheets",
-            "note": "docs.google.com"
+            "start": "14:49",
+            "title": "Week3 - Google Sheets"
           },
           {
-            "start": "14:55",
+            "cat": "admin",
             "end": "15:01",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "chrome",
-            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "14:55",
+            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn"
           },
           {
-            "start": "15:01",
+            "cat": "writing",
             "end": "15:09",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Week3 - Google Sheets",
-            "note": "docs.google.com"
+            "start": "15:01",
+            "title": "Week3 - Google Sheets"
           },
           {
-            "start": "15:09",
+            "cat": "coding",
             "end": "15:11",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "15:09",
+            "title": "codex"
           },
           {
-            "start": "15:11",
-            "end": "15:14",
             "cat": "writing",
+            "end": "15:14",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Week3 - Google Sheets",
-            "note": "docs.google.com"
+            "start": "15:11",
+            "title": "Week3 - Google Sheets"
           },
           {
-            "start": "15:14",
+            "cat": "admin",
             "end": "15:28",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "log x - Google Search",
-            "note": "google.com"
+            "start": "15:14",
+            "title": "log x - Google Search"
           },
           {
-            "start": "15:28",
+            "cat": "coding",
             "end": "15:34",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "15:28",
+            "title": "codex"
           },
           {
-            "start": "15:34",
+            "cat": "coding",
             "end": "15:38",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "15:34",
+            "title": "codex"
           },
           {
-            "start": "15:38",
+            "cat": "admin",
             "end": "15:55",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "log x - Google Search",
-            "note": "google.com"
+            "start": "15:38",
+            "title": "log x - Google Search"
           },
           {
-            "start": "15:58",
+            "cat": "admin",
             "end": "16:04",
-            "cat": "admin",
+            "note": "com.microsoft.Excel",
             "src": "macos",
-            "title": "Excel",
-            "note": "com.microsoft.Excel"
+            "start": "15:58",
+            "title": "Excel"
           },
           {
-            "start": "16:06",
+            "cat": "coding",
             "end": "16:14",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "Week_3_Working_with_Rows.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "16:06",
+            "title": "Week_3_Working_with_Rows.ipynb - Colab"
           },
           {
-            "start": "16:14",
+            "cat": "coding",
             "end": "16:34",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "16:14",
+            "title": "codex"
           },
           {
-            "start": "16:36",
+            "cat": "admin",
             "end": "16:45",
-            "cat": "admin",
+            "note": "google.com",
             "src": "chrome",
-            "title": "(20) Intuitive and Visual Explanation on the differences bet",
-            "note": "google.com"
+            "start": "16:36",
+            "title": "(20) Intuitive and Visual Explanation on the differences bet"
           },
           {
-            "start": "16:45",
+            "cat": "coding",
             "end": "16:53",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "16:45",
+            "title": "codex"
           },
           {
-            "start": "16:53",
+            "cat": "admin",
             "end": "18:07",
-            "cat": "admin",
+            "note": "google.com",
             "src": "chrome",
-            "title": "(20) Intuitive and Visual Explanation on the differences bet",
-            "note": "google.com"
+            "start": "16:53",
+            "title": "(20) Intuitive and Visual Explanation on the differences bet"
           },
           {
-            "start": "18:20",
+            "cat": "admin",
             "end": "18:26",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "logistic regression log odds - Google Search",
-            "note": "google.com"
+            "start": "18:20",
+            "title": "logistic regression log odds - Google Search"
           },
           {
-            "start": "18:50",
-            "end": "19:01",
             "cat": "coding",
+            "end": "19:01",
+            "note": "colab.research.google.com",
             "src": "chrome",
-            "title": "Week_3_Working_with_Rows.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "18:50",
+            "title": "Week_3_Working_with_Rows.ipynb - Colab"
           },
           {
-            "start": "19:01",
-            "end": "19:02",
             "cat": "admin",
+            "end": "19:02",
+            "note": "com.microsoft.Excel",
             "src": "macos",
-            "title": "Excel",
-            "note": "com.microsoft.Excel"
+            "start": "19:01",
+            "title": "Excel"
           }
         ],
+        "key": "2026-8-10",
         "logged": 437,
-        "real": 187,
-        "deep": 187,
         "ratio": 0.42923239946518893,
+        "real": 187,
         "stats": {
           "contextSwitches": 40,
-          "tabsOpened": 24,
+          "justOneMoreThing": 4,
           "longestFocus": "1h 3m",
-          "justOneMoreThing": 4
-        }
+          "tabsOpened": 24
+        },
+        "weekend": false
       },
       {
         "key": "2026-8-11",
@@ -53972,18 +53972,1787 @@
         "weekend": false,
         "dateShort": "Tue, Aug 11",
         "dateLong": "Tuesday, August 11",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "10:17",
+        "dayEnd": "00:17",
+        "events": [
+          {
+            "start": "10:17",
+            "end": "10:20",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "10:20",
+            "end": "10:23",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "10:23",
+            "end": "10:24",
+            "cat": "writing",
+            "src": "chrome",
+            "title": "Progress Updates - Google Sheets",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "10:25",
+            "end": "10:26",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "10:26",
+            "end": "10:27",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Gemini Code Assist release notes  |  Gemini for Google Cloud",
+            "note": "docs.cloud.google.com"
+          },
+          {
+            "start": "10:27",
+            "end": "10:28",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "10:28",
+            "end": "10:29",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Gemini Code Assist release notes  |  Gemini for Google Cloud",
+            "note": "docs.cloud.google.com"
+          },
+          {
+            "start": "10:29",
+            "end": "10:30",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Gemini Code Assist release notes  |  Gemini for Google Cloud",
+            "note": "developers.google.com"
+          },
+          {
+            "start": "10:30",
+            "end": "10:38",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Gemini Code Assist release notes  |  Gemini for Google Cloud",
+            "note": "developers.google.com"
+          },
+          {
+            "start": "10:38",
+            "end": "10:40",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "10:40",
+            "end": "10:42",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Demystifying evals for AI agents \\ Anthropic",
+            "note": "anthropic.com"
+          },
+          {
+            "start": "10:42",
+            "end": "10:46",
+            "cat": "research",
+            "src": "macos",
+            "title": "Where the time actually went | Ada's Notes",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "10:46",
+            "end": "10:50",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "10:50",
+            "end": "10:52",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "10:52",
+            "end": "10:53",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Where the time actually went | Ada's Notes",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "10:53",
+            "end": "11:05",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Scheduled work not working",
+            "note": "52 hits"
+          },
+          {
+            "start": "11:05",
+            "end": "11:06",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Where the time actually went | Ada's Notes",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "11:06",
+            "end": "11:16",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · repo",
+            "note": "232 hits"
+          },
+          {
+            "start": "11:16",
+            "end": "11:25",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · repo",
+            "note": "232 hits"
+          },
+          {
+            "start": "11:26",
+            "end": "11:30",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · repo",
+            "note": "232 hits"
+          },
+          {
+            "start": "11:30",
+            "end": "11:47",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:47",
+            "end": "11:48",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute",
+            "note": "openrouter.ai"
+          },
+          {
+            "start": "11:48",
+            "end": "11:53",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute",
+            "note": "openrouter.ai"
+          },
+          {
+            "start": "11:53",
+            "end": "12:18",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "12:18",
+            "end": "12:23",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "12:23",
+            "end": "12:32",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "12:32",
+            "end": "12:37",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "12:37",
+            "end": "12:38",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "12:58",
+            "end": "13:03",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "13:14",
+            "end": "13:18",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "13:18",
+            "end": "13:21",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "13:21",
+            "end": "13:23",
+            "cat": "coding",
+            "src": "macos",
+            "title": "NeurIPS 2026 workshops by location",
+            "note": "samgijsen.github.io"
+          },
+          {
+            "start": "13:23",
+            "end": "13:26",
+            "cat": "coding",
+            "src": "macos",
+            "title": "NeurIPS 2026 workshops by location",
+            "note": "samgijsen.github.io"
+          },
+          {
+            "start": "13:26",
+            "end": "13:43",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "13:45",
+            "end": "13:45",
+            "cat": "writing",
+            "src": "macos",
+            "title": "24072026jgusPJ_ORANA RESIDENT FORM 2026 (1) - Google Docs",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "13:45",
+            "end": "13:48",
+            "cat": "research",
+            "src": "macos",
+            "title": "Preview",
+            "note": "com.apple.Preview"
+          },
+          {
+            "start": "13:48",
+            "end": "13:52",
+            "cat": "research",
+            "src": "macos",
+            "title": "Preview",
+            "note": "com.apple.Preview"
+          },
+          {
+            "start": "13:53",
+            "end": "13:54",
+            "cat": "research",
+            "src": "macos",
+            "title": "Preview",
+            "note": "com.apple.Preview"
+          },
+          {
+            "start": "13:54",
+            "end": "13:55",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Receipt For Payment to Laing + Simmons Artarmon - ada.ren.cn",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "13:56",
+            "end": "14:02",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Action Required by 17 August 2026 – Annual Resident, Vehicle",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "14:02",
+            "end": "14:13",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Scheduled work not working",
+            "note": "117 hits"
+          },
+          {
+            "start": "14:14",
+            "end": "14:15",
+            "cat": "research",
+            "src": "chrome",
+            "title": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com",
+            "note": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com"
+          },
+          {
+            "start": "14:15",
+            "end": "14:20",
+            "cat": "research",
+            "src": "chrome",
+            "title": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com",
+            "note": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com"
+          },
+          {
+            "start": "14:20",
+            "end": "14:24",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "14:24",
+            "end": "14:26",
+            "cat": "research",
+            "src": "chrome",
+            "title": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com",
+            "note": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com"
+          },
+          {
+            "start": "14:26",
+            "end": "14:28",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "14:28",
+            "end": "14:32",
+            "cat": "research",
+            "src": "chrome",
+            "title": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com",
+            "note": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com"
+          },
+          {
+            "start": "14:32",
+            "end": "14:35",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "14:35",
+            "end": "14:38",
+            "cat": "research",
+            "src": "chrome",
+            "title": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com",
+            "note": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com"
+          },
+          {
+            "start": "14:38",
+            "end": "14:45",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "14:45",
+            "end": "14:48",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "14:48",
+            "end": "14:50",
+            "cat": "research",
+            "src": "chrome",
+            "title": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com",
+            "note": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com"
+          },
+          {
+            "start": "14:50",
+            "end": "14:53",
+            "cat": "research",
+            "src": "macos",
+            "title": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com",
+            "note": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com"
+          },
+          {
+            "start": "14:53",
+            "end": "14:58",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "14:58",
+            "end": "15:01",
+            "cat": "research",
+            "src": "macos",
+            "title": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com",
+            "note": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com"
+          },
+          {
+            "start": "15:01",
+            "end": "15:04",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:04",
+            "end": "15:07",
+            "cat": "research",
+            "src": "macos",
+            "title": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com",
+            "note": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com"
+          },
+          {
+            "start": "15:07",
+            "end": "15:15",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:15",
+            "end": "15:20",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:20",
+            "end": "15:25",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:25",
+            "end": "15:27",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:27",
+            "end": "15:29",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:29",
+            "end": "15:31",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "15:31",
+            "end": "15:32",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "15:32",
+            "end": "15:33",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "15:33",
+            "end": "15:36",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "15:36",
+            "end": "15:36",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:37",
+            "end": "15:38",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:38",
+            "end": "15:41",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:42",
+            "end": "15:44",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:44",
+            "end": "15:45",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:45",
+            "end": "15:46",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:46",
+            "end": "15:49",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:49",
+            "end": "15:50",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:50",
+            "end": "15:54",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:54",
+            "end": "15:58",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:59",
+            "end": "16:00",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:00",
+            "end": "16:01",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "16:01",
+            "end": "16:02",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "16:02",
+            "end": "16:03",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "16:03",
+            "end": "16:05",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "16:06",
+            "end": "16:09",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "16:09",
+            "end": "16:11",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:11",
+            "end": "16:11",
+            "cat": "coding",
+            "src": "macos",
+            "title": "FSE Teaching Associate EOI - Power Apps",
+            "note": "apps.powerapps.com"
+          },
+          {
+            "start": "16:11",
+            "end": "16:13",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "16:14",
+            "end": "16:15",
+            "cat": "research",
+            "src": "chrome",
+            "title": "[2505.00212] Which Agent Causes Task Failures and When? On A",
+            "note": "google.com"
+          },
+          {
+            "start": "16:15",
+            "end": "16:18",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Enter Time - Workday",
+            "note": "wd3.myworkday.com"
+          },
+          {
+            "start": "16:19",
+            "end": "16:20",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:20",
+            "end": "16:23",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:23",
+            "end": "16:25",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "16:25",
+            "end": "16:26",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "FSE Teaching Associate EOI - Power Apps",
+            "note": "apps.powerapps.com"
+          },
+          {
+            "start": "16:26",
+            "end": "16:26",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Enter Time - Workday",
+            "note": "wd3.myworkday.com"
+          },
+          {
+            "start": "16:27",
+            "end": "16:29",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "16:29",
+            "end": "16:30",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Enter Time - Workday",
+            "note": "wd3.myworkday.com"
+          },
+          {
+            "start": "16:30",
+            "end": "16:32",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Enter Time - Workday",
+            "note": "wd3.myworkday.com"
+          },
+          {
+            "start": "16:32",
+            "end": "16:33",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Workday mq - Sign in to Workday",
+            "note": "wd3.myworkday.com"
+          },
+          {
+            "start": "16:34",
+            "end": "16:34",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Workday mq - Sign in to Workday",
+            "note": "wd3.myworkday.com"
+          },
+          {
+            "start": "16:35",
+            "end": "16:37",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Enter Time - Workday",
+            "note": "wd3.myworkday.com"
+          },
+          {
+            "start": "16:37",
+            "end": "16:37",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:38",
+            "end": "16:38",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:38",
+            "end": "16:39",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:40",
+            "end": "16:42",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:43",
+            "end": "16:44",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:45",
+            "end": "16:46",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:47",
+            "end": "16:53",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "trajectory",
+            "note": "file:///Users/ada/Documents/MQ/repo/harb"
+          },
+          {
+            "start": "16:53",
+            "end": "16:56",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:56",
+            "end": "16:58",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:58",
+            "end": "16:59",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:59",
+            "end": "17:01",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "17:01",
+            "end": "17:02",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "trajectory",
+            "note": "file:///Users/ada/Documents/MQ/repo/harb"
+          },
+          {
+            "start": "17:02",
+            "end": "17:03",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "17:04",
+            "end": "17:05",
+            "cat": "coding",
+            "src": "macos",
+            "title": "trajectory",
+            "note": "file:///Users/ada/Documents/MQ/repo/harb"
+          },
+          {
+            "start": "17:05",
+            "end": "17:06",
+            "cat": "coding",
+            "src": "macos",
+            "title": "trajectory",
+            "note": "file:///Users/ada/Documents/MQ/repo/harb"
+          },
+          {
+            "start": "17:06",
+            "end": "17:07",
+            "cat": "coding",
+            "src": "macos",
+            "title": "trajectory",
+            "note": "file:///Users/ada/Documents/MQ/repo/harb"
+          },
+          {
+            "start": "17:07",
+            "end": "17:08",
+            "cat": "coding",
+            "src": "macos",
+            "title": "trajectory",
+            "note": "file:///Users/ada/Documents/MQ/repo/harb"
+          },
+          {
+            "start": "17:09",
+            "end": "17:10",
+            "cat": "coding",
+            "src": "macos",
+            "title": "trajectory",
+            "note": "file:///Users/ada/Documents/MQ/repo/harb"
+          },
+          {
+            "start": "17:11",
+            "end": "17:13",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "17:14",
+            "end": "17:24",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Revise Allocation Request - Step 1 of 3 | MyNCI",
+            "note": "google.com"
+          },
+          {
+            "start": "17:25",
+            "end": "17:34",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Revise Allocation Request - Step 1 of 3 | MyNCI",
+            "note": "google.com"
+          },
+          {
+            "start": "17:34",
+            "end": "17:36",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "17:36",
+            "end": "17:39",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Revise Allocation Request - Step 1 of 3 | MyNCI",
+            "note": "google.com"
+          },
+          {
+            "start": "17:39",
+            "end": "17:40",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Ethical Review Manager",
+            "note": "fora-form.mq.edu.au"
+          },
+          {
+            "start": "17:40",
+            "end": "17:41",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "17:42",
+            "end": "17:44",
+            "cat": "research",
+            "src": "macos",
+            "title": "Data Management Plan 20750 - LODGEMENT COMPLETE",
+            "note": "file:///Users/ada/Documents/MQ/Phd/Data%"
+          },
+          {
+            "start": "17:44",
+            "end": "17:44",
+            "cat": "research",
+            "src": "macos",
+            "title": "Data Management Plan 20750 - LODGEMENT COMPLETE",
+            "note": "file:///Users/ada/Documents/MQ/Phd/Data%"
+          },
+          {
+            "start": "17:45",
+            "end": "17:56",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Research Compute & Storage Allocation Request - Employee",
+            "note": "research-management.mq.edu.au"
+          },
+          {
+            "start": "17:56",
+            "end": "18:03",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Revise Allocation Request - Step 1 of 3 | MyNCI",
+            "note": "mqoutlook-my.sharepoint.com"
+          },
+          {
+            "start": "18:03",
+            "end": "18:06",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Revise Allocation Request - Step 1 of 3 | MyNCI",
+            "note": "mqoutlook-my.sharepoint.com"
+          },
+          {
+            "start": "18:06",
+            "end": "18:09",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Revise Allocation Request - Step 1 of 3 | MyNCI",
+            "note": "mqoutlook-my.sharepoint.com"
+          },
+          {
+            "start": "18:09",
+            "end": "18:11",
+            "cat": "research",
+            "src": "chrome",
+            "title": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com",
+            "note": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com"
+          },
+          {
+            "start": "18:13",
+            "end": "18:14",
+            "cat": "research",
+            "src": "macos",
+            "title": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com",
+            "note": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com"
+          },
+          {
+            "start": "18:14",
+            "end": "18:16",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "18:18",
+            "end": "18:19",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "18:19",
+            "end": "18:35",
+            "cat": "research",
+            "src": "chrome",
+            "title": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com",
+            "note": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com"
+          },
+          {
+            "start": "18:44",
+            "end": "18:48",
+            "cat": "coding",
+            "src": "local",
+            "title": "fee_engine.py",
+            "note": "1 hit"
+          },
+          {
+            "start": "18:51",
+            "end": "18:54",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "18:56",
+            "end": "19:00",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "4 hits"
+          },
+          {
+            "start": "19:00",
+            "end": "19:02",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "4 hits"
+          },
+          {
+            "start": "19:03",
+            "end": "19:04",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "4 hits"
+          },
+          {
+            "start": "19:05",
+            "end": "19:05",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "19:05",
+            "end": "19:07",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "19:07",
+            "end": "19:07",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "19:09",
+            "end": "19:11",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "19:14",
+            "end": "19:16",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "19:18",
+            "end": "19:21",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "4 hits"
+          },
+          {
+            "start": "19:21",
+            "end": "19:21",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "4 hits"
+          },
+          {
+            "start": "19:21",
+            "end": "19:22",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "4 hits"
+          },
+          {
+            "start": "19:23",
+            "end": "19:25",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "4 hits"
+          },
+          {
+            "start": "19:25",
+            "end": "19:26",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "19:26",
+            "end": "19:26",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "19:26",
+            "end": "19:27",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "19:28",
+            "end": "19:39",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "4 hits"
+          },
+          {
+            "start": "19:39",
+            "end": "19:40",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "4 hits"
+          },
+          {
+            "start": "19:40",
+            "end": "19:41",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "4 hits"
+          },
+          {
+            "start": "19:41",
+            "end": "19:42",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "4 hits"
+          },
+          {
+            "start": "19:42",
+            "end": "19:43",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "4 hits"
+          },
+          {
+            "start": "19:44",
+            "end": "19:45",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "19:45",
+            "end": "19:46",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "19:46",
+            "end": "19:47",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "19:47",
+            "end": "19:48",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "19:48",
+            "end": "19:56",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "4 hits"
+          },
+          {
+            "start": "19:56",
+            "end": "19:57",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "4 hits"
+          },
+          {
+            "start": "19:58",
+            "end": "19:59",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "4 hits"
+          },
+          {
+            "start": "20:00",
+            "end": "20:01",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "4 hits"
+          },
+          {
+            "start": "20:01",
+            "end": "20:02",
+            "cat": "coding",
+            "src": "local",
+            "title": "fee_calculator.py",
+            "note": "1 hit"
+          },
+          {
+            "start": "20:03",
+            "end": "20:04",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "20:28",
+            "end": "20:29",
+            "cat": "coding",
+            "src": "local",
+            "title": "task1_result.json",
+            "note": "1 hit"
+          },
+          {
+            "start": "20:29",
+            "end": "20:30",
+            "cat": "coding",
+            "src": "local",
+            "title": "task1_result.json",
+            "note": "1 hit"
+          },
+          {
+            "start": "20:30",
+            "end": "20:31",
+            "cat": "coding",
+            "src": "local",
+            "title": "task1_result.json",
+            "note": "1 hit"
+          },
+          {
+            "start": "20:32",
+            "end": "20:33",
+            "cat": "coding",
+            "src": "local",
+            "title": "task1_result.json",
+            "note": "1 hit"
+          },
+          {
+            "start": "20:33",
+            "end": "20:34",
+            "cat": "writing",
+            "src": "local",
+            "title": "notes_task1.md",
+            "note": "2 hits"
+          },
+          {
+            "start": "20:35",
+            "end": "20:36",
+            "cat": "coding",
+            "src": "local",
+            "title": "task3_result.json",
+            "note": "1 hit"
+          },
+          {
+            "start": "20:36",
+            "end": "20:39",
+            "cat": "coding",
+            "src": "local",
+            "title": "task4_result.json",
+            "note": "2 hits"
+          },
+          {
+            "start": "20:51",
+            "end": "20:52",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "20:53",
+            "end": "20:59",
+            "cat": "research",
+            "src": "chrome",
+            "title": "OpenAI's letter to Governor Abbott on responsible AI infrast",
+            "note": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com"
+          },
+          {
+            "start": "20:59",
+            "end": "21:09",
+            "cat": "research",
+            "src": "macos",
+            "title": "Putting frontier cyber models in more trusted hands | Ada's ",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "21:09",
+            "end": "21:35",
+            "cat": "research",
+            "src": "macos",
+            "title": "Model ML completes finance work more efficiently with GPT-5.",
+            "note": "openai.com"
+          },
+          {
+            "start": "21:35",
+            "end": "21:37",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Granola - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "21:37",
+            "end": "21:42",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(1) X 上的 Madhu Guru：“been deep down this rabbit hole at the ",
+            "note": "x.com"
+          },
+          {
+            "start": "21:42",
+            "end": "21:44",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "21:44",
+            "end": "21:49",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(1) X 上的 Amjad Masad：“The spontaneous coordination in the Op",
+            "note": "x.com"
+          },
+          {
+            "start": "21:51",
+            "end": "21:53",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "phd_worklog",
+            "note": "claude.ai"
+          },
+          {
+            "start": "21:53",
+            "end": "21:58",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Scheduled work not working",
+            "note": "44 hits"
+          },
+          {
+            "start": "21:58",
+            "end": "22:01",
+            "cat": "research",
+            "src": "chrome",
+            "title": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com",
+            "note": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com"
+          },
+          {
+            "start": "22:01",
+            "end": "22:04",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "22:04",
+            "end": "22:05",
+            "cat": "research",
+            "src": "chrome",
+            "title": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com",
+            "note": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com"
+          },
+          {
+            "start": "22:05",
+            "end": "22:12",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "22:12",
+            "end": "22:15",
+            "cat": "research",
+            "src": "chrome",
+            "title": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com",
+            "note": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com"
+          },
+          {
+            "start": "22:15",
+            "end": "22:16",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "22:16",
+            "end": "22:17",
+            "cat": "research",
+            "src": "chrome",
+            "title": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com",
+            "note": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com"
+          },
+          {
+            "start": "22:17",
+            "end": "22:18",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "22:18",
+            "end": "22:21",
+            "cat": "research",
+            "src": "chrome",
+            "title": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com",
+            "note": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com"
+          },
+          {
+            "start": "22:21",
+            "end": "22:27",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Scheduled work not working",
+            "note": "31 hits"
+          },
+          {
+            "start": "22:27",
+            "end": "22:45",
+            "cat": "research",
+            "src": "chrome",
+            "title": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com",
+            "note": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com"
+          },
+          {
+            "start": "22:45",
+            "end": "22:50",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "22:50",
+            "end": "23:10",
+            "cat": "research",
+            "src": "chrome",
+            "title": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com",
+            "note": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com"
+          },
+          {
+            "start": "23:14",
+            "end": "23:15",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "23:15",
+            "end": "23:19",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "23:19",
+            "end": "23:20",
+            "cat": "coding",
+            "src": "local",
+            "title": "manifest.json",
+            "note": "2 hits"
+          },
+          {
+            "start": "23:20",
+            "end": "23:24",
+            "cat": "coding",
+            "src": "local",
+            "title": "solve.py",
+            "note": "2 hits"
+          },
+          {
+            "start": "23:24",
+            "end": "23:25",
+            "cat": "coding",
+            "src": "local",
+            "title": "solve.py",
+            "note": "2 hits"
+          },
+          {
+            "start": "23:25",
+            "end": "23:26",
+            "cat": "coding",
+            "src": "local",
+            "title": "solve.py",
+            "note": "2 hits"
+          },
+          {
+            "start": "23:27",
+            "end": "23:27",
+            "cat": "coding",
+            "src": "local",
+            "title": "solve.py",
+            "note": "2 hits"
+          },
+          {
+            "start": "23:28",
+            "end": "23:29",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "23:29",
+            "end": "23:30",
+            "cat": "coding",
+            "src": "local",
+            "title": "task3.py",
+            "note": "1 hit"
+          },
+          {
+            "start": "23:30",
+            "end": "23:31",
+            "cat": "coding",
+            "src": "local",
+            "title": "task4.py",
+            "note": "1 hit"
+          },
+          {
+            "start": "23:32",
+            "end": "23:32",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "23:32",
+            "end": "23:43",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "4 hits"
+          },
+          {
+            "start": "23:43",
+            "end": "23:44",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "4 hits"
+          },
+          {
+            "start": "23:45",
+            "end": "23:47",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "4 hits"
+          },
+          {
+            "start": "23:50",
+            "end": "23:52",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "4 hits"
+          },
+          {
+            "start": "23:55",
+            "end": "23:57",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "5 hits"
+          },
+          {
+            "start": "23:57",
+            "end": "23:58",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "00:00",
+            "end": "00:01",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "00:01",
+            "end": "00:02",
+            "cat": "writing",
+            "src": "local",
+            "title": "fee_procedure.md",
+            "note": "2 hits"
+          },
+          {
+            "start": "00:02",
+            "end": "00:03",
+            "cat": "writing",
+            "src": "local",
+            "title": "fee_procedure.md",
+            "note": "2 hits"
+          },
+          {
+            "start": "00:03",
+            "end": "00:03",
+            "cat": "writing",
+            "src": "local",
+            "title": "fee_procedure.md",
+            "note": "2 hits"
+          },
+          {
+            "start": "00:03",
+            "end": "00:04",
+            "cat": "writing",
+            "src": "local",
+            "title": "fee_procedure.md",
+            "note": "2 hits"
+          },
+          {
+            "start": "00:04",
+            "end": "00:06",
+            "cat": "writing",
+            "src": "local",
+            "title": "fee_procedure.md",
+            "note": "2 hits"
+          },
+          {
+            "start": "00:09",
+            "end": "00:11",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "4 hits"
+          },
+          {
+            "start": "00:13",
+            "end": "00:17",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "5 hits"
+          }
+        ],
+        "logged": 690,
+        "real": 568,
+        "deep": 568,
+        "ratio": 0.8227213883092167,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "0m",
-          "justOneMoreThing": 0
+          "contextSwitches": 96,
+          "tabsOpened": 123,
+          "longestFocus": "2h 17m",
+          "justOneMoreThing": 5
         }
       },
       {
@@ -53993,17 +55762,42 @@
         "weekend": false,
         "dateShort": "Wed, Aug 12",
         "dateLong": "Wednesday, August 12",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "09:32",
+        "dayEnd": "10:39",
+        "events": [
+          {
+            "start": "09:32",
+            "end": "09:52",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "phd_worklog",
+            "note": "claude.ai"
+          },
+          {
+            "start": "10:09",
+            "end": "10:14",
+            "cat": "writing",
+            "src": "local",
+            "title": "2026-08-11-daybreak-models-are-now-available-on-aws.md",
+            "note": "2 hits"
+          },
+          {
+            "start": "10:19",
+            "end": "10:39",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute",
+            "note": "openrouter.com"
+          }
+        ],
+        "logged": 45,
+        "real": 45,
+        "deep": 45,
+        "ratio": 1.0,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "0m",
+          "contextSwitches": 2,
+          "tabsOpened": 6,
+          "longestFocus": "45m",
           "justOneMoreThing": 0
         }
       },
@@ -58830,426 +60624,426 @@
       "weekend": true
     },
     {
-      "key": "2026-8-10",
-      "dayNum": 10,
-      "dow": 1,
-      "weekend": false,
-      "dateShort": "Mon, Aug 10",
       "dateLong": "Monday, August 10",
-      "dayStart": "09:55",
+      "dateShort": "Mon, Aug 10",
       "dayEnd": "19:02",
+      "dayNum": 10,
+      "dayStart": "09:55",
+      "deep": 187,
+      "dow": 1,
       "events": [
         {
-          "start": "09:55",
+          "cat": "coding",
           "end": "09:58",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "chrome",
-          "title": "Week_3_Working_with_Rows.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "09:55",
+          "title": "Week_3_Working_with_Rows.ipynb - Colab"
         },
         {
-          "start": "09:58",
+          "cat": "admin",
           "end": "10:10",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "macos",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "09:58",
+          "title": "Google Translate"
         },
         {
-          "start": "10:10",
+          "cat": "meeting",
           "end": "10:18",
-          "cat": "meeting",
+          "note": "com.microsoft.teams2",
           "src": "macos",
-          "title": "teams2",
-          "note": "com.microsoft.teams2"
+          "start": "10:10",
+          "title": "teams2"
         },
         {
-          "start": "10:18",
+          "cat": "admin",
           "end": "10:25",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "macos",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "10:18",
+          "title": "Google Translate"
         },
         {
-          "start": "10:25",
-          "end": "10:31",
           "cat": "meeting",
+          "end": "10:31",
+          "note": "com.microsoft.teams2",
           "src": "macos",
-          "title": "teams2",
-          "note": "com.microsoft.teams2"
+          "start": "10:25",
+          "title": "teams2"
         },
         {
-          "start": "10:31",
+          "cat": "admin",
           "end": "10:44",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "10:31",
+          "title": "Outlook"
         },
         {
-          "start": "10:44",
+          "cat": "coding",
           "end": "11:25",
-          "cat": "coding",
+          "note": "scikit-learn.org",
           "src": "macos",
-          "title": "LogisticRegression — scikit-learn 1.9.0 documentation",
-          "note": "scikit-learn.org"
+          "start": "10:44",
+          "title": "LogisticRegression — scikit-learn 1.9.0 documentation"
         },
         {
-          "start": "11:30",
+          "cat": "coding",
           "end": "11:36",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "Week_3_Working_with_Rows.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "11:30",
+          "title": "Week_3_Working_with_Rows.ipynb - Colab"
         },
         {
-          "start": "11:41",
+          "cat": "coding",
           "end": "11:42",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "Week_3_Working_with_Rows.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "11:41",
+          "title": "Week_3_Working_with_Rows.ipynb - Colab"
         },
         {
-          "start": "11:42",
+          "cat": "writing",
           "end": "11:56",
-          "cat": "writing",
+          "note": "excalidraw.com",
           "src": "macos",
-          "title": "Excalidraw Whiteboard",
-          "note": "excalidraw.com"
+          "start": "11:42",
+          "title": "Excalidraw Whiteboard"
         },
         {
-          "start": "11:56",
+          "cat": "research",
           "end": "11:59",
-          "cat": "research",
+          "note": "blog.gopenai.com",
           "src": "chrome",
-          "title": "Understanding Logistic Regression: A Cornerstone of Classifi",
-          "note": "blog.gopenai.com"
+          "start": "11:56",
+          "title": "Understanding Logistic Regression: A Cornerstone of Classifi"
         },
         {
-          "start": "11:59",
+          "cat": "admin",
           "end": "12:09",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "logistic regression - Google Search",
-          "note": "google.com"
+          "start": "11:59",
+          "title": "logistic regression - Google Search"
         },
         {
-          "start": "12:09",
+          "cat": "research",
           "end": "12:12",
-          "cat": "research",
+          "note": "blog.gopenai.com",
           "src": "chrome",
-          "title": "Understanding Logistic Regression: A Cornerstone of Classifi",
-          "note": "blog.gopenai.com"
+          "start": "12:09",
+          "title": "Understanding Logistic Regression: A Cornerstone of Classifi"
         },
         {
-          "start": "12:12",
+          "cat": "admin",
           "end": "12:31",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "logistic regression - Google Search",
-          "note": "google.com"
+          "start": "12:12",
+          "title": "logistic regression - Google Search"
         },
         {
-          "start": "12:31",
+          "cat": "coding",
           "end": "12:32",
-          "cat": "coding",
+          "note": "encord.com",
           "src": "macos",
-          "title": "What is a Confusion Matrix? | Machine Learning Glossary | En",
-          "note": "encord.com"
+          "start": "12:31",
+          "title": "What is a Confusion Matrix? | Machine Learning Glossary | En"
         },
         {
-          "start": "12:33",
+          "cat": "admin",
           "end": "12:53",
-          "cat": "admin",
+          "note": "linkedin.com",
           "src": "chrome",
-          "title": "Post | LinkedIn",
-          "note": "linkedin.com"
+          "start": "12:33",
+          "title": "Post | LinkedIn"
         },
         {
-          "start": "13:42",
+          "cat": "admin",
           "end": "13:43",
-          "cat": "admin",
+          "note": "linkedin.com",
           "src": "macos",
-          "title": "Post | LinkedIn",
-          "note": "linkedin.com"
+          "start": "13:42",
+          "title": "Post | LinkedIn"
         },
         {
-          "start": "13:43",
-          "end": "13:50",
           "cat": "research",
+          "end": "13:50",
+          "note": "cureus.com",
           "src": "macos",
-          "title": "What’s the Risk: Differentiating Risk Ratios, Odds Ratios, a",
-          "note": "cureus.com"
+          "start": "13:43",
+          "title": "What’s the Risk: Differentiating Risk Ratios, Odds Ratios, a"
         },
         {
-          "start": "13:50",
+          "cat": "coding",
           "end": "13:52",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "13:50",
+          "title": "codex"
         },
         {
-          "start": "13:52",
+          "cat": "admin",
           "end": "14:01",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "Google",
-          "note": "google.com"
+          "start": "13:52",
+          "title": "Google"
         },
         {
-          "start": "14:02",
+          "cat": "personal",
           "end": "14:11",
-          "cat": "personal",
+          "note": "youtube.com",
           "src": "macos",
-          "title": "(86) Odds and Log(Odds), Clearly Explained!!! - YouTube",
-          "note": "youtube.com"
+          "start": "14:02",
+          "title": "(86) Odds and Log(Odds), Clearly Explained!!! - YouTube"
         },
         {
-          "start": "14:11",
+          "cat": "coding",
           "end": "14:18",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "14:11",
+          "title": "codex"
         },
         {
-          "start": "14:18",
+          "cat": "admin",
           "end": "14:19",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "14:18",
+          "title": "Outlook"
         },
         {
-          "start": "14:19",
+          "cat": "coding",
           "end": "14:22",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "14:19",
+          "title": "codex"
         },
         {
-          "start": "14:22",
+          "cat": "coding",
           "end": "14:31",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "14:22",
+          "title": "codex"
         },
         {
-          "start": "14:31",
+          "cat": "personal",
           "end": "14:33",
-          "cat": "personal",
+          "note": "youtube.com",
           "src": "macos",
-          "title": "(86) Odds and Log(Odds), Clearly Explained!!! - YouTube",
-          "note": "youtube.com"
+          "start": "14:31",
+          "title": "(86) Odds and Log(Odds), Clearly Explained!!! - YouTube"
         },
         {
-          "start": "14:33",
+          "cat": "admin",
           "end": "14:36",
-          "cat": "admin",
+          "note": "com.microsoft.Excel",
           "src": "macos",
-          "title": "Excel",
-          "note": "com.microsoft.Excel"
+          "start": "14:33",
+          "title": "Excel"
         },
         {
-          "start": "14:37",
+          "cat": "admin",
           "end": "14:39",
-          "cat": "admin",
+          "note": "com.microsoft.Excel",
           "src": "macos",
-          "title": "Excel",
-          "note": "com.microsoft.Excel"
+          "start": "14:37",
+          "title": "Excel"
         },
         {
-          "start": "14:39",
+          "cat": "personal",
           "end": "14:41",
-          "cat": "personal",
+          "note": "youtube.com",
           "src": "macos",
-          "title": "(86) Odds and Log(Odds), Clearly Explained!!! - YouTube",
-          "note": "youtube.com"
+          "start": "14:39",
+          "title": "(86) Odds and Log(Odds), Clearly Explained!!! - YouTube"
         },
         {
-          "start": "14:41",
+          "cat": "coding",
           "end": "14:43",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "14:41",
+          "title": "codex"
         },
         {
-          "start": "14:43",
-          "end": "14:46",
           "cat": "personal",
+          "end": "14:46",
+          "note": "youtube.com",
           "src": "macos",
-          "title": "(86) Odds and Log(Odds), Clearly Explained!!! - YouTube",
-          "note": "youtube.com"
+          "start": "14:43",
+          "title": "(86) Odds and Log(Odds), Clearly Explained!!! - YouTube"
         },
         {
-          "start": "14:46",
+          "cat": "admin",
           "end": "14:49",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "14:46",
+          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn"
         },
         {
-          "start": "14:49",
+          "cat": "writing",
           "end": "14:55",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Week3 - Google Sheets",
-          "note": "docs.google.com"
+          "start": "14:49",
+          "title": "Week3 - Google Sheets"
         },
         {
-          "start": "14:55",
+          "cat": "admin",
           "end": "15:01",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "chrome",
-          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "14:55",
+          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn"
         },
         {
-          "start": "15:01",
+          "cat": "writing",
           "end": "15:09",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Week3 - Google Sheets",
-          "note": "docs.google.com"
+          "start": "15:01",
+          "title": "Week3 - Google Sheets"
         },
         {
-          "start": "15:09",
+          "cat": "coding",
           "end": "15:11",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "15:09",
+          "title": "codex"
         },
         {
-          "start": "15:11",
-          "end": "15:14",
           "cat": "writing",
+          "end": "15:14",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Week3 - Google Sheets",
-          "note": "docs.google.com"
+          "start": "15:11",
+          "title": "Week3 - Google Sheets"
         },
         {
-          "start": "15:14",
+          "cat": "admin",
           "end": "15:28",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "log x - Google Search",
-          "note": "google.com"
+          "start": "15:14",
+          "title": "log x - Google Search"
         },
         {
-          "start": "15:28",
+          "cat": "coding",
           "end": "15:34",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "15:28",
+          "title": "codex"
         },
         {
-          "start": "15:34",
+          "cat": "coding",
           "end": "15:38",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "15:34",
+          "title": "codex"
         },
         {
-          "start": "15:38",
+          "cat": "admin",
           "end": "15:55",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "log x - Google Search",
-          "note": "google.com"
+          "start": "15:38",
+          "title": "log x - Google Search"
         },
         {
-          "start": "15:58",
+          "cat": "admin",
           "end": "16:04",
-          "cat": "admin",
+          "note": "com.microsoft.Excel",
           "src": "macos",
-          "title": "Excel",
-          "note": "com.microsoft.Excel"
+          "start": "15:58",
+          "title": "Excel"
         },
         {
-          "start": "16:06",
+          "cat": "coding",
           "end": "16:14",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "Week_3_Working_with_Rows.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "16:06",
+          "title": "Week_3_Working_with_Rows.ipynb - Colab"
         },
         {
-          "start": "16:14",
+          "cat": "coding",
           "end": "16:34",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "16:14",
+          "title": "codex"
         },
         {
-          "start": "16:36",
+          "cat": "admin",
           "end": "16:45",
-          "cat": "admin",
+          "note": "google.com",
           "src": "chrome",
-          "title": "(20) Intuitive and Visual Explanation on the differences bet",
-          "note": "google.com"
+          "start": "16:36",
+          "title": "(20) Intuitive and Visual Explanation on the differences bet"
         },
         {
-          "start": "16:45",
+          "cat": "coding",
           "end": "16:53",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "16:45",
+          "title": "codex"
         },
         {
-          "start": "16:53",
+          "cat": "admin",
           "end": "18:07",
-          "cat": "admin",
+          "note": "google.com",
           "src": "chrome",
-          "title": "(20) Intuitive and Visual Explanation on the differences bet",
-          "note": "google.com"
+          "start": "16:53",
+          "title": "(20) Intuitive and Visual Explanation on the differences bet"
         },
         {
-          "start": "18:20",
+          "cat": "admin",
           "end": "18:26",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "logistic regression log odds - Google Search",
-          "note": "google.com"
+          "start": "18:20",
+          "title": "logistic regression log odds - Google Search"
         },
         {
-          "start": "18:50",
-          "end": "19:01",
           "cat": "coding",
+          "end": "19:01",
+          "note": "colab.research.google.com",
           "src": "chrome",
-          "title": "Week_3_Working_with_Rows.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "18:50",
+          "title": "Week_3_Working_with_Rows.ipynb - Colab"
         },
         {
-          "start": "19:01",
-          "end": "19:02",
           "cat": "admin",
+          "end": "19:02",
+          "note": "com.microsoft.Excel",
           "src": "macos",
-          "title": "Excel",
-          "note": "com.microsoft.Excel"
+          "start": "19:01",
+          "title": "Excel"
         }
       ],
+      "key": "2026-8-10",
       "logged": 437,
-      "real": 187,
-      "deep": 187,
       "ratio": 0.42923239946518893,
+      "real": 187,
       "stats": {
         "contextSwitches": 40,
-        "tabsOpened": 24,
+        "justOneMoreThing": 4,
         "longestFocus": "1h 3m",
-        "justOneMoreThing": 4
-      }
+        "tabsOpened": 24
+      },
+      "weekend": false
     },
     {
       "key": "2026-8-11",
@@ -59258,18 +61052,1787 @@
       "weekend": false,
       "dateShort": "Tue, Aug 11",
       "dateLong": "Tuesday, August 11",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "10:17",
+      "dayEnd": "00:17",
+      "events": [
+        {
+          "start": "10:17",
+          "end": "10:20",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "10:20",
+          "end": "10:23",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "10:23",
+          "end": "10:24",
+          "cat": "writing",
+          "src": "chrome",
+          "title": "Progress Updates - Google Sheets",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "10:25",
+          "end": "10:26",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "10:26",
+          "end": "10:27",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Gemini Code Assist release notes  |  Gemini for Google Cloud",
+          "note": "docs.cloud.google.com"
+        },
+        {
+          "start": "10:27",
+          "end": "10:28",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "10:28",
+          "end": "10:29",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Gemini Code Assist release notes  |  Gemini for Google Cloud",
+          "note": "docs.cloud.google.com"
+        },
+        {
+          "start": "10:29",
+          "end": "10:30",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Gemini Code Assist release notes  |  Gemini for Google Cloud",
+          "note": "developers.google.com"
+        },
+        {
+          "start": "10:30",
+          "end": "10:38",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Gemini Code Assist release notes  |  Gemini for Google Cloud",
+          "note": "developers.google.com"
+        },
+        {
+          "start": "10:38",
+          "end": "10:40",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "10:40",
+          "end": "10:42",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Demystifying evals for AI agents \\ Anthropic",
+          "note": "anthropic.com"
+        },
+        {
+          "start": "10:42",
+          "end": "10:46",
+          "cat": "research",
+          "src": "macos",
+          "title": "Where the time actually went | Ada's Notes",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "10:46",
+          "end": "10:50",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "10:50",
+          "end": "10:52",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "10:52",
+          "end": "10:53",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Where the time actually went | Ada's Notes",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "10:53",
+          "end": "11:05",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Scheduled work not working",
+          "note": "52 hits"
+        },
+        {
+          "start": "11:05",
+          "end": "11:06",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Where the time actually went | Ada's Notes",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "11:06",
+          "end": "11:16",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · repo",
+          "note": "232 hits"
+        },
+        {
+          "start": "11:16",
+          "end": "11:25",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · repo",
+          "note": "232 hits"
+        },
+        {
+          "start": "11:26",
+          "end": "11:30",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · repo",
+          "note": "232 hits"
+        },
+        {
+          "start": "11:30",
+          "end": "11:47",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:47",
+          "end": "11:48",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute",
+          "note": "openrouter.ai"
+        },
+        {
+          "start": "11:48",
+          "end": "11:53",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute",
+          "note": "openrouter.ai"
+        },
+        {
+          "start": "11:53",
+          "end": "12:18",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "12:18",
+          "end": "12:23",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "12:23",
+          "end": "12:32",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "12:32",
+          "end": "12:37",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "12:37",
+          "end": "12:38",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "12:58",
+          "end": "13:03",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "13:14",
+          "end": "13:18",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "13:18",
+          "end": "13:21",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "13:21",
+          "end": "13:23",
+          "cat": "coding",
+          "src": "macos",
+          "title": "NeurIPS 2026 workshops by location",
+          "note": "samgijsen.github.io"
+        },
+        {
+          "start": "13:23",
+          "end": "13:26",
+          "cat": "coding",
+          "src": "macos",
+          "title": "NeurIPS 2026 workshops by location",
+          "note": "samgijsen.github.io"
+        },
+        {
+          "start": "13:26",
+          "end": "13:43",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "13:45",
+          "end": "13:45",
+          "cat": "writing",
+          "src": "macos",
+          "title": "24072026jgusPJ_ORANA RESIDENT FORM 2026 (1) - Google Docs",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "13:45",
+          "end": "13:48",
+          "cat": "research",
+          "src": "macos",
+          "title": "Preview",
+          "note": "com.apple.Preview"
+        },
+        {
+          "start": "13:48",
+          "end": "13:52",
+          "cat": "research",
+          "src": "macos",
+          "title": "Preview",
+          "note": "com.apple.Preview"
+        },
+        {
+          "start": "13:53",
+          "end": "13:54",
+          "cat": "research",
+          "src": "macos",
+          "title": "Preview",
+          "note": "com.apple.Preview"
+        },
+        {
+          "start": "13:54",
+          "end": "13:55",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Receipt For Payment to Laing + Simmons Artarmon - ada.ren.cn",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "13:56",
+          "end": "14:02",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Action Required by 17 August 2026 – Annual Resident, Vehicle",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "14:02",
+          "end": "14:13",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Scheduled work not working",
+          "note": "117 hits"
+        },
+        {
+          "start": "14:14",
+          "end": "14:15",
+          "cat": "research",
+          "src": "chrome",
+          "title": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com",
+          "note": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com"
+        },
+        {
+          "start": "14:15",
+          "end": "14:20",
+          "cat": "research",
+          "src": "chrome",
+          "title": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com",
+          "note": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com"
+        },
+        {
+          "start": "14:20",
+          "end": "14:24",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "14:24",
+          "end": "14:26",
+          "cat": "research",
+          "src": "chrome",
+          "title": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com",
+          "note": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com"
+        },
+        {
+          "start": "14:26",
+          "end": "14:28",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "14:28",
+          "end": "14:32",
+          "cat": "research",
+          "src": "chrome",
+          "title": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com",
+          "note": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com"
+        },
+        {
+          "start": "14:32",
+          "end": "14:35",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "14:35",
+          "end": "14:38",
+          "cat": "research",
+          "src": "chrome",
+          "title": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com",
+          "note": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com"
+        },
+        {
+          "start": "14:38",
+          "end": "14:45",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "14:45",
+          "end": "14:48",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "14:48",
+          "end": "14:50",
+          "cat": "research",
+          "src": "chrome",
+          "title": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com",
+          "note": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com"
+        },
+        {
+          "start": "14:50",
+          "end": "14:53",
+          "cat": "research",
+          "src": "macos",
+          "title": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com",
+          "note": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com"
+        },
+        {
+          "start": "14:53",
+          "end": "14:58",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "14:58",
+          "end": "15:01",
+          "cat": "research",
+          "src": "macos",
+          "title": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com",
+          "note": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com"
+        },
+        {
+          "start": "15:01",
+          "end": "15:04",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:04",
+          "end": "15:07",
+          "cat": "research",
+          "src": "macos",
+          "title": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com",
+          "note": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com"
+        },
+        {
+          "start": "15:07",
+          "end": "15:15",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:15",
+          "end": "15:20",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:20",
+          "end": "15:25",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:25",
+          "end": "15:27",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:27",
+          "end": "15:29",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:29",
+          "end": "15:31",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "15:31",
+          "end": "15:32",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "15:32",
+          "end": "15:33",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "15:33",
+          "end": "15:36",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "15:36",
+          "end": "15:36",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:37",
+          "end": "15:38",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:38",
+          "end": "15:41",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:42",
+          "end": "15:44",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:44",
+          "end": "15:45",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:45",
+          "end": "15:46",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:46",
+          "end": "15:49",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:49",
+          "end": "15:50",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:50",
+          "end": "15:54",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:54",
+          "end": "15:58",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:59",
+          "end": "16:00",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:00",
+          "end": "16:01",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "16:01",
+          "end": "16:02",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "16:02",
+          "end": "16:03",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "16:03",
+          "end": "16:05",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "16:06",
+          "end": "16:09",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "16:09",
+          "end": "16:11",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:11",
+          "end": "16:11",
+          "cat": "coding",
+          "src": "macos",
+          "title": "FSE Teaching Associate EOI - Power Apps",
+          "note": "apps.powerapps.com"
+        },
+        {
+          "start": "16:11",
+          "end": "16:13",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "16:14",
+          "end": "16:15",
+          "cat": "research",
+          "src": "chrome",
+          "title": "[2505.00212] Which Agent Causes Task Failures and When? On A",
+          "note": "google.com"
+        },
+        {
+          "start": "16:15",
+          "end": "16:18",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Enter Time - Workday",
+          "note": "wd3.myworkday.com"
+        },
+        {
+          "start": "16:19",
+          "end": "16:20",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:20",
+          "end": "16:23",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:23",
+          "end": "16:25",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "16:25",
+          "end": "16:26",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "FSE Teaching Associate EOI - Power Apps",
+          "note": "apps.powerapps.com"
+        },
+        {
+          "start": "16:26",
+          "end": "16:26",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Enter Time - Workday",
+          "note": "wd3.myworkday.com"
+        },
+        {
+          "start": "16:27",
+          "end": "16:29",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "16:29",
+          "end": "16:30",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Enter Time - Workday",
+          "note": "wd3.myworkday.com"
+        },
+        {
+          "start": "16:30",
+          "end": "16:32",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Enter Time - Workday",
+          "note": "wd3.myworkday.com"
+        },
+        {
+          "start": "16:32",
+          "end": "16:33",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Workday mq - Sign in to Workday",
+          "note": "wd3.myworkday.com"
+        },
+        {
+          "start": "16:34",
+          "end": "16:34",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Workday mq - Sign in to Workday",
+          "note": "wd3.myworkday.com"
+        },
+        {
+          "start": "16:35",
+          "end": "16:37",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Enter Time - Workday",
+          "note": "wd3.myworkday.com"
+        },
+        {
+          "start": "16:37",
+          "end": "16:37",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:38",
+          "end": "16:38",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:38",
+          "end": "16:39",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:40",
+          "end": "16:42",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:43",
+          "end": "16:44",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:45",
+          "end": "16:46",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:47",
+          "end": "16:53",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "trajectory",
+          "note": "file:///Users/ada/Documents/MQ/repo/harb"
+        },
+        {
+          "start": "16:53",
+          "end": "16:56",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:56",
+          "end": "16:58",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:58",
+          "end": "16:59",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:59",
+          "end": "17:01",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "17:01",
+          "end": "17:02",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "trajectory",
+          "note": "file:///Users/ada/Documents/MQ/repo/harb"
+        },
+        {
+          "start": "17:02",
+          "end": "17:03",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "17:04",
+          "end": "17:05",
+          "cat": "coding",
+          "src": "macos",
+          "title": "trajectory",
+          "note": "file:///Users/ada/Documents/MQ/repo/harb"
+        },
+        {
+          "start": "17:05",
+          "end": "17:06",
+          "cat": "coding",
+          "src": "macos",
+          "title": "trajectory",
+          "note": "file:///Users/ada/Documents/MQ/repo/harb"
+        },
+        {
+          "start": "17:06",
+          "end": "17:07",
+          "cat": "coding",
+          "src": "macos",
+          "title": "trajectory",
+          "note": "file:///Users/ada/Documents/MQ/repo/harb"
+        },
+        {
+          "start": "17:07",
+          "end": "17:08",
+          "cat": "coding",
+          "src": "macos",
+          "title": "trajectory",
+          "note": "file:///Users/ada/Documents/MQ/repo/harb"
+        },
+        {
+          "start": "17:09",
+          "end": "17:10",
+          "cat": "coding",
+          "src": "macos",
+          "title": "trajectory",
+          "note": "file:///Users/ada/Documents/MQ/repo/harb"
+        },
+        {
+          "start": "17:11",
+          "end": "17:13",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "17:14",
+          "end": "17:24",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Revise Allocation Request - Step 1 of 3 | MyNCI",
+          "note": "google.com"
+        },
+        {
+          "start": "17:25",
+          "end": "17:34",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Revise Allocation Request - Step 1 of 3 | MyNCI",
+          "note": "google.com"
+        },
+        {
+          "start": "17:34",
+          "end": "17:36",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "17:36",
+          "end": "17:39",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Revise Allocation Request - Step 1 of 3 | MyNCI",
+          "note": "google.com"
+        },
+        {
+          "start": "17:39",
+          "end": "17:40",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Ethical Review Manager",
+          "note": "fora-form.mq.edu.au"
+        },
+        {
+          "start": "17:40",
+          "end": "17:41",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "17:42",
+          "end": "17:44",
+          "cat": "research",
+          "src": "macos",
+          "title": "Data Management Plan 20750 - LODGEMENT COMPLETE",
+          "note": "file:///Users/ada/Documents/MQ/Phd/Data%"
+        },
+        {
+          "start": "17:44",
+          "end": "17:44",
+          "cat": "research",
+          "src": "macos",
+          "title": "Data Management Plan 20750 - LODGEMENT COMPLETE",
+          "note": "file:///Users/ada/Documents/MQ/Phd/Data%"
+        },
+        {
+          "start": "17:45",
+          "end": "17:56",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Research Compute & Storage Allocation Request - Employee",
+          "note": "research-management.mq.edu.au"
+        },
+        {
+          "start": "17:56",
+          "end": "18:03",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Revise Allocation Request - Step 1 of 3 | MyNCI",
+          "note": "mqoutlook-my.sharepoint.com"
+        },
+        {
+          "start": "18:03",
+          "end": "18:06",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Revise Allocation Request - Step 1 of 3 | MyNCI",
+          "note": "mqoutlook-my.sharepoint.com"
+        },
+        {
+          "start": "18:06",
+          "end": "18:09",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Revise Allocation Request - Step 1 of 3 | MyNCI",
+          "note": "mqoutlook-my.sharepoint.com"
+        },
+        {
+          "start": "18:09",
+          "end": "18:11",
+          "cat": "research",
+          "src": "chrome",
+          "title": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com",
+          "note": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com"
+        },
+        {
+          "start": "18:13",
+          "end": "18:14",
+          "cat": "research",
+          "src": "macos",
+          "title": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com",
+          "note": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com"
+        },
+        {
+          "start": "18:14",
+          "end": "18:16",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "18:18",
+          "end": "18:19",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "18:19",
+          "end": "18:35",
+          "cat": "research",
+          "src": "chrome",
+          "title": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com",
+          "note": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com"
+        },
+        {
+          "start": "18:44",
+          "end": "18:48",
+          "cat": "coding",
+          "src": "local",
+          "title": "fee_engine.py",
+          "note": "1 hit"
+        },
+        {
+          "start": "18:51",
+          "end": "18:54",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "18:56",
+          "end": "19:00",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "4 hits"
+        },
+        {
+          "start": "19:00",
+          "end": "19:02",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "4 hits"
+        },
+        {
+          "start": "19:03",
+          "end": "19:04",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "4 hits"
+        },
+        {
+          "start": "19:05",
+          "end": "19:05",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "19:05",
+          "end": "19:07",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "19:07",
+          "end": "19:07",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "19:09",
+          "end": "19:11",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "19:14",
+          "end": "19:16",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "19:18",
+          "end": "19:21",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "4 hits"
+        },
+        {
+          "start": "19:21",
+          "end": "19:21",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "4 hits"
+        },
+        {
+          "start": "19:21",
+          "end": "19:22",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "4 hits"
+        },
+        {
+          "start": "19:23",
+          "end": "19:25",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "4 hits"
+        },
+        {
+          "start": "19:25",
+          "end": "19:26",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "19:26",
+          "end": "19:26",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "19:26",
+          "end": "19:27",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "19:28",
+          "end": "19:39",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "4 hits"
+        },
+        {
+          "start": "19:39",
+          "end": "19:40",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "4 hits"
+        },
+        {
+          "start": "19:40",
+          "end": "19:41",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "4 hits"
+        },
+        {
+          "start": "19:41",
+          "end": "19:42",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "4 hits"
+        },
+        {
+          "start": "19:42",
+          "end": "19:43",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "4 hits"
+        },
+        {
+          "start": "19:44",
+          "end": "19:45",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "19:45",
+          "end": "19:46",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "19:46",
+          "end": "19:47",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "19:47",
+          "end": "19:48",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "19:48",
+          "end": "19:56",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "4 hits"
+        },
+        {
+          "start": "19:56",
+          "end": "19:57",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "4 hits"
+        },
+        {
+          "start": "19:58",
+          "end": "19:59",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "4 hits"
+        },
+        {
+          "start": "20:00",
+          "end": "20:01",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "4 hits"
+        },
+        {
+          "start": "20:01",
+          "end": "20:02",
+          "cat": "coding",
+          "src": "local",
+          "title": "fee_calculator.py",
+          "note": "1 hit"
+        },
+        {
+          "start": "20:03",
+          "end": "20:04",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "20:28",
+          "end": "20:29",
+          "cat": "coding",
+          "src": "local",
+          "title": "task1_result.json",
+          "note": "1 hit"
+        },
+        {
+          "start": "20:29",
+          "end": "20:30",
+          "cat": "coding",
+          "src": "local",
+          "title": "task1_result.json",
+          "note": "1 hit"
+        },
+        {
+          "start": "20:30",
+          "end": "20:31",
+          "cat": "coding",
+          "src": "local",
+          "title": "task1_result.json",
+          "note": "1 hit"
+        },
+        {
+          "start": "20:32",
+          "end": "20:33",
+          "cat": "coding",
+          "src": "local",
+          "title": "task1_result.json",
+          "note": "1 hit"
+        },
+        {
+          "start": "20:33",
+          "end": "20:34",
+          "cat": "writing",
+          "src": "local",
+          "title": "notes_task1.md",
+          "note": "2 hits"
+        },
+        {
+          "start": "20:35",
+          "end": "20:36",
+          "cat": "coding",
+          "src": "local",
+          "title": "task3_result.json",
+          "note": "1 hit"
+        },
+        {
+          "start": "20:36",
+          "end": "20:39",
+          "cat": "coding",
+          "src": "local",
+          "title": "task4_result.json",
+          "note": "2 hits"
+        },
+        {
+          "start": "20:51",
+          "end": "20:52",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "20:53",
+          "end": "20:59",
+          "cat": "research",
+          "src": "chrome",
+          "title": "OpenAI's letter to Governor Abbott on responsible AI infrast",
+          "note": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com"
+        },
+        {
+          "start": "20:59",
+          "end": "21:09",
+          "cat": "research",
+          "src": "macos",
+          "title": "Putting frontier cyber models in more trusted hands | Ada's ",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "21:09",
+          "end": "21:35",
+          "cat": "research",
+          "src": "macos",
+          "title": "Model ML completes finance work more efficiently with GPT-5.",
+          "note": "openai.com"
+        },
+        {
+          "start": "21:35",
+          "end": "21:37",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Granola - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "21:37",
+          "end": "21:42",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(1) X 上的 Madhu Guru：“been deep down this rabbit hole at the ",
+          "note": "x.com"
+        },
+        {
+          "start": "21:42",
+          "end": "21:44",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "21:44",
+          "end": "21:49",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(1) X 上的 Amjad Masad：“The spontaneous coordination in the Op",
+          "note": "x.com"
+        },
+        {
+          "start": "21:51",
+          "end": "21:53",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "phd_worklog",
+          "note": "claude.ai"
+        },
+        {
+          "start": "21:53",
+          "end": "21:58",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Scheduled work not working",
+          "note": "44 hits"
+        },
+        {
+          "start": "21:58",
+          "end": "22:01",
+          "cat": "research",
+          "src": "chrome",
+          "title": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com",
+          "note": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com"
+        },
+        {
+          "start": "22:01",
+          "end": "22:04",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "22:04",
+          "end": "22:05",
+          "cat": "research",
+          "src": "chrome",
+          "title": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com",
+          "note": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com"
+        },
+        {
+          "start": "22:05",
+          "end": "22:12",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "22:12",
+          "end": "22:15",
+          "cat": "research",
+          "src": "chrome",
+          "title": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com",
+          "note": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com"
+        },
+        {
+          "start": "22:15",
+          "end": "22:16",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "22:16",
+          "end": "22:17",
+          "cat": "research",
+          "src": "chrome",
+          "title": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com",
+          "note": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com"
+        },
+        {
+          "start": "22:17",
+          "end": "22:18",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "22:18",
+          "end": "22:21",
+          "cat": "research",
+          "src": "chrome",
+          "title": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com",
+          "note": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com"
+        },
+        {
+          "start": "22:21",
+          "end": "22:27",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Scheduled work not working",
+          "note": "31 hits"
+        },
+        {
+          "start": "22:27",
+          "end": "22:45",
+          "cat": "research",
+          "src": "chrome",
+          "title": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com",
+          "note": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com"
+        },
+        {
+          "start": "22:45",
+          "end": "22:50",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "22:50",
+          "end": "23:10",
+          "cat": "research",
+          "src": "chrome",
+          "title": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com",
+          "note": "e34043a6-45d6-43e5-8f36-ab43fb9afe3c.claudeusercontent.com"
+        },
+        {
+          "start": "23:14",
+          "end": "23:15",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "23:15",
+          "end": "23:19",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "23:19",
+          "end": "23:20",
+          "cat": "coding",
+          "src": "local",
+          "title": "manifest.json",
+          "note": "2 hits"
+        },
+        {
+          "start": "23:20",
+          "end": "23:24",
+          "cat": "coding",
+          "src": "local",
+          "title": "solve.py",
+          "note": "2 hits"
+        },
+        {
+          "start": "23:24",
+          "end": "23:25",
+          "cat": "coding",
+          "src": "local",
+          "title": "solve.py",
+          "note": "2 hits"
+        },
+        {
+          "start": "23:25",
+          "end": "23:26",
+          "cat": "coding",
+          "src": "local",
+          "title": "solve.py",
+          "note": "2 hits"
+        },
+        {
+          "start": "23:27",
+          "end": "23:27",
+          "cat": "coding",
+          "src": "local",
+          "title": "solve.py",
+          "note": "2 hits"
+        },
+        {
+          "start": "23:28",
+          "end": "23:29",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "23:29",
+          "end": "23:30",
+          "cat": "coding",
+          "src": "local",
+          "title": "task3.py",
+          "note": "1 hit"
+        },
+        {
+          "start": "23:30",
+          "end": "23:31",
+          "cat": "coding",
+          "src": "local",
+          "title": "task4.py",
+          "note": "1 hit"
+        },
+        {
+          "start": "23:32",
+          "end": "23:32",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "23:32",
+          "end": "23:43",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "4 hits"
+        },
+        {
+          "start": "23:43",
+          "end": "23:44",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "4 hits"
+        },
+        {
+          "start": "23:45",
+          "end": "23:47",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "4 hits"
+        },
+        {
+          "start": "23:50",
+          "end": "23:52",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "4 hits"
+        },
+        {
+          "start": "23:55",
+          "end": "23:57",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "5 hits"
+        },
+        {
+          "start": "23:57",
+          "end": "23:58",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "00:00",
+          "end": "00:01",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "00:01",
+          "end": "00:02",
+          "cat": "writing",
+          "src": "local",
+          "title": "fee_procedure.md",
+          "note": "2 hits"
+        },
+        {
+          "start": "00:02",
+          "end": "00:03",
+          "cat": "writing",
+          "src": "local",
+          "title": "fee_procedure.md",
+          "note": "2 hits"
+        },
+        {
+          "start": "00:03",
+          "end": "00:03",
+          "cat": "writing",
+          "src": "local",
+          "title": "fee_procedure.md",
+          "note": "2 hits"
+        },
+        {
+          "start": "00:03",
+          "end": "00:04",
+          "cat": "writing",
+          "src": "local",
+          "title": "fee_procedure.md",
+          "note": "2 hits"
+        },
+        {
+          "start": "00:04",
+          "end": "00:06",
+          "cat": "writing",
+          "src": "local",
+          "title": "fee_procedure.md",
+          "note": "2 hits"
+        },
+        {
+          "start": "00:09",
+          "end": "00:11",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "4 hits"
+        },
+        {
+          "start": "00:13",
+          "end": "00:17",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "5 hits"
+        }
+      ],
+      "logged": 690,
+      "real": 568,
+      "deep": 568,
+      "ratio": 0.8227213883092167,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "0m",
-        "justOneMoreThing": 0
+        "contextSwitches": 96,
+        "tabsOpened": 123,
+        "longestFocus": "2h 17m",
+        "justOneMoreThing": 5
       }
     },
     {
@@ -59279,17 +62842,42 @@
       "weekend": false,
       "dateShort": "Wed, Aug 12",
       "dateLong": "Wednesday, August 12",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "09:32",
+      "dayEnd": "10:39",
+      "events": [
+        {
+          "start": "09:32",
+          "end": "09:52",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "phd_worklog",
+          "note": "claude.ai"
+        },
+        {
+          "start": "10:09",
+          "end": "10:14",
+          "cat": "writing",
+          "src": "local",
+          "title": "2026-08-11-daybreak-models-are-now-available-on-aws.md",
+          "note": "2 hits"
+        },
+        {
+          "start": "10:19",
+          "end": "10:39",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute",
+          "note": "openrouter.com"
+        }
+      ],
+      "logged": 45,
+      "real": 45,
+      "deep": 45,
+      "ratio": 1.0,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "0m",
+        "contextSwitches": 2,
+        "tabsOpened": 6,
+        "longestFocus": "45m",
         "justOneMoreThing": 0
       }
     },
