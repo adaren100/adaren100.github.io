@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-08-15T10:44:48+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-08-16T10:45:26+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -58071,7 +58071,7 @@
         "dateShort": "Fri, Aug 14",
         "dateLong": "Friday, August 14",
         "dayStart": "10:07",
-        "dayEnd": "16:57",
+        "dayEnd": "18:02",
         "events": [
           {
             "start": "10:07",
@@ -58547,54 +58547,142 @@
           },
           {
             "start": "15:29",
-            "end": "15:34",
+            "end": "15:36",
             "cat": "coding",
             "src": "macos",
             "title": "VSCode",
             "note": "com.microsoft.VSCode"
           },
           {
-            "start": "15:34",
-            "end": "15:42",
-            "cat": "personal",
-            "src": "chrome",
-            "title": "Google Maps",
-            "note": "web.whatsapp.com"
+            "start": "15:36",
+            "end": "15:37",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Progress Updates - Google Sheets",
+            "note": "docs.google.com"
           },
           {
-            "start": "15:42",
+            "start": "15:37",
+            "end": "15:38",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "15:38",
             "end": "15:49",
             "cat": "writing",
-            "src": "chrome",
+            "src": "macos",
             "title": "Progress Updates - Google Sheets",
             "note": "docs.google.com"
           },
           {
             "start": "15:49",
-            "end": "16:09",
+            "end": "15:51",
             "cat": "admin",
-            "src": "chrome",
+            "src": "macos",
             "title": "Google Translate",
             "note": "translate.google.com"
           },
           {
+            "start": "15:51",
+            "end": "15:54",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:54",
+            "end": "16:04",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Excel",
+            "note": "com.microsoft.Excel"
+          },
+          {
+            "start": "16:04",
+            "end": "16:05",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "xos",
+            "note": "us.zoom.xos"
+          },
+          {
+            "start": "16:05",
+            "end": "16:12",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "xos",
+            "note": "us.zoom.xos"
+          },
+          {
+            "start": "16:16",
+            "end": "16:31",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "xos",
+            "note": "us.zoom.xos"
+          },
+          {
+            "start": "16:31",
+            "end": "16:32",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "16:32",
+            "end": "16:39",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "xos",
+            "note": "us.zoom.xos"
+          },
+          {
             "start": "16:54",
-            "end": "16:57",
+            "end": "16:59",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "xos",
+            "note": "us.zoom.xos"
+          },
+          {
+            "start": "16:59",
+            "end": "17:14",
             "cat": "coding",
             "src": "chrome",
             "title": "Qwen",
             "note": "qwen.ai"
+          },
+          {
+            "start": "17:21",
+            "end": "17:26",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "xos",
+            "note": "us.zoom.xos"
+          },
+          {
+            "start": "18:00",
+            "end": "18:02",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
           }
         ],
-        "logged": 251,
-        "real": 141,
-        "deep": 141,
-        "ratio": 0.5599931610936418,
+        "logged": 301,
+        "real": 203,
+        "deep": 203,
+        "ratio": 0.6737566377404702,
         "stats": {
-          "contextSwitches": 35,
-          "tabsOpened": 33,
+          "contextSwitches": 43,
+          "tabsOpened": 24,
           "longestFocus": "33m",
-          "justOneMoreThing": 6
+          "justOneMoreThing": 9
         }
       },
       {
@@ -58604,18 +58692,59 @@
         "weekend": true,
         "dateShort": "Sat, Aug 15",
         "dateLong": "Saturday, August 15",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "10:44",
+        "dayEnd": "23:23",
+        "events": [
+          {
+            "start": "10:44",
+            "end": "10:49",
+            "cat": "coding",
+            "src": "local",
+            "title": "data.js",
+            "note": "1 hit"
+          },
+          {
+            "start": "22:53",
+            "end": "22:54",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "22:56",
+            "end": "22:58",
+            "cat": "writing",
+            "src": "chrome",
+            "title": "Progress Updates - Google Sheets",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "22:59",
+            "end": "23:01",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "23:01",
+            "end": "23:23",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Progress Updates - Google Sheets",
+            "note": "docs.google.com"
+          }
+        ],
+        "logged": 32,
+        "real": 28,
+        "deep": 28,
+        "ratio": 0.8833798235692949,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "0m",
-          "justOneMoreThing": 0
+          "contextSwitches": 4,
+          "tabsOpened": 3,
+          "longestFocus": "21m",
+          "justOneMoreThing": 2
         }
       },
       {
@@ -67905,7 +68034,7 @@
       "dateShort": "Fri, Aug 14",
       "dateLong": "Friday, August 14",
       "dayStart": "10:07",
-      "dayEnd": "16:57",
+      "dayEnd": "18:02",
       "events": [
         {
           "start": "10:07",
@@ -68381,54 +68510,142 @@
         },
         {
           "start": "15:29",
-          "end": "15:34",
+          "end": "15:36",
           "cat": "coding",
           "src": "macos",
           "title": "VSCode",
           "note": "com.microsoft.VSCode"
         },
         {
-          "start": "15:34",
-          "end": "15:42",
-          "cat": "personal",
-          "src": "chrome",
-          "title": "Google Maps",
-          "note": "web.whatsapp.com"
+          "start": "15:36",
+          "end": "15:37",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Progress Updates - Google Sheets",
+          "note": "docs.google.com"
         },
         {
-          "start": "15:42",
+          "start": "15:37",
+          "end": "15:38",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "15:38",
           "end": "15:49",
           "cat": "writing",
-          "src": "chrome",
+          "src": "macos",
           "title": "Progress Updates - Google Sheets",
           "note": "docs.google.com"
         },
         {
           "start": "15:49",
-          "end": "16:09",
+          "end": "15:51",
           "cat": "admin",
-          "src": "chrome",
+          "src": "macos",
           "title": "Google Translate",
           "note": "translate.google.com"
         },
         {
+          "start": "15:51",
+          "end": "15:54",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:54",
+          "end": "16:04",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Excel",
+          "note": "com.microsoft.Excel"
+        },
+        {
+          "start": "16:04",
+          "end": "16:05",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "xos",
+          "note": "us.zoom.xos"
+        },
+        {
+          "start": "16:05",
+          "end": "16:12",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "xos",
+          "note": "us.zoom.xos"
+        },
+        {
+          "start": "16:16",
+          "end": "16:31",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "xos",
+          "note": "us.zoom.xos"
+        },
+        {
+          "start": "16:31",
+          "end": "16:32",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "16:32",
+          "end": "16:39",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "xos",
+          "note": "us.zoom.xos"
+        },
+        {
           "start": "16:54",
-          "end": "16:57",
+          "end": "16:59",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "xos",
+          "note": "us.zoom.xos"
+        },
+        {
+          "start": "16:59",
+          "end": "17:14",
           "cat": "coding",
           "src": "chrome",
           "title": "Qwen",
           "note": "qwen.ai"
+        },
+        {
+          "start": "17:21",
+          "end": "17:26",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "xos",
+          "note": "us.zoom.xos"
+        },
+        {
+          "start": "18:00",
+          "end": "18:02",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
         }
       ],
-      "logged": 251,
-      "real": 141,
-      "deep": 141,
-      "ratio": 0.5599931610936418,
+      "logged": 301,
+      "real": 203,
+      "deep": 203,
+      "ratio": 0.6737566377404702,
       "stats": {
-        "contextSwitches": 35,
-        "tabsOpened": 33,
+        "contextSwitches": 43,
+        "tabsOpened": 24,
         "longestFocus": "33m",
-        "justOneMoreThing": 6
+        "justOneMoreThing": 9
       }
     },
     {
@@ -68438,18 +68655,59 @@
       "weekend": true,
       "dateShort": "Sat, Aug 15",
       "dateLong": "Saturday, August 15",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "10:44",
+      "dayEnd": "23:23",
+      "events": [
+        {
+          "start": "10:44",
+          "end": "10:49",
+          "cat": "coding",
+          "src": "local",
+          "title": "data.js",
+          "note": "1 hit"
+        },
+        {
+          "start": "22:53",
+          "end": "22:54",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "22:56",
+          "end": "22:58",
+          "cat": "writing",
+          "src": "chrome",
+          "title": "Progress Updates - Google Sheets",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "22:59",
+          "end": "23:01",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "23:01",
+          "end": "23:23",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Progress Updates - Google Sheets",
+          "note": "docs.google.com"
+        }
+      ],
+      "logged": 32,
+      "real": 28,
+      "deep": 28,
+      "ratio": 0.8833798235692949,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "0m",
-        "justOneMoreThing": 0
+        "contextSwitches": 4,
+        "tabsOpened": 3,
+        "longestFocus": "21m",
+        "justOneMoreThing": 2
       }
     },
     {
