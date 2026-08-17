@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-08-16T10:45:26+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-08-17T10:20:07+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -58486,7 +58486,7 @@
             "end": "14:45",
             "cat": "admin",
             "src": "macos",
-            "title": "Inbox (2,795) - ada.ren.cn@gmail.com - Gmail",
+            "title": "Inbox (2,806) - ada.ren.cn@gmail.com - Gmail",
             "note": "mail.google.com"
           },
           {
@@ -58531,11 +58531,19 @@
           },
           {
             "start": "15:20",
-            "end": "15:23",
-            "cat": "personal",
+            "end": "15:22",
+            "cat": "admin",
             "src": "macos",
             "title": "WhatsApp",
             "note": "web.whatsapp.com"
+          },
+          {
+            "start": "15:22",
+            "end": "15:23",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Google Maps",
+            "note": "map.google.com"
           },
           {
             "start": "15:23",
@@ -58677,10 +58685,10 @@
         "logged": 301,
         "real": 203,
         "deep": 203,
-        "ratio": 0.6737566377404702,
+        "ratio": 0.6737653882885365,
         "stats": {
-          "contextSwitches": 43,
-          "tabsOpened": 24,
+          "contextSwitches": 44,
+          "tabsOpened": 27,
           "longestFocus": "33m",
           "justOneMoreThing": 9
         }
@@ -58692,17 +58700,9 @@
         "weekend": true,
         "dateShort": "Sat, Aug 15",
         "dateLong": "Saturday, August 15",
-        "dayStart": "10:44",
-        "dayEnd": "23:23",
+        "dayStart": "22:53",
+        "dayEnd": "23:34",
         "events": [
-          {
-            "start": "10:44",
-            "end": "10:49",
-            "cat": "coding",
-            "src": "local",
-            "title": "data.js",
-            "note": "1 hit"
-          },
           {
             "start": "22:53",
             "end": "22:54",
@@ -58729,21 +58729,45 @@
           },
           {
             "start": "23:01",
-            "end": "23:23",
+            "end": "23:03",
             "cat": "writing",
             "src": "macos",
             "title": "Progress Updates - Google Sheets",
             "note": "docs.google.com"
+          },
+          {
+            "start": "23:03",
+            "end": "23:07",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "23:07",
+            "end": "23:23",
+            "cat": "writing",
+            "src": "chrome",
+            "title": "Progress Updates - Google Sheets",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "23:29",
+            "end": "23:34",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
           }
         ],
-        "logged": 32,
-        "real": 28,
-        "deep": 28,
-        "ratio": 0.8833798235692949,
+        "logged": 33,
+        "real": 20,
+        "deep": 20,
+        "ratio": 0.5964002668697239,
         "stats": {
-          "contextSwitches": 4,
-          "tabsOpened": 3,
-          "longestFocus": "21m",
+          "contextSwitches": 6,
+          "tabsOpened": 6,
+          "longestFocus": "15m",
           "justOneMoreThing": 2
         }
       },
@@ -58754,18 +58778,307 @@
         "weekend": true,
         "dateShort": "Sun, Aug 16",
         "dateLong": "Sunday, August 16",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "10:45",
+        "dayEnd": "22:46",
+        "events": [
+          {
+            "start": "10:45",
+            "end": "10:50",
+            "cat": "coding",
+            "src": "local",
+            "title": "data.js",
+            "note": "1 hit"
+          },
+          {
+            "start": "15:21",
+            "end": "15:22",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "15:23",
+            "end": "15:24",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "15:25",
+            "end": "15:26",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(88) rachel english pronunciation - YouTube",
+            "note": "youtube.com"
+          },
+          {
+            "start": "15:26",
+            "end": "15:30",
+            "cat": "admin",
+            "src": "macos",
+            "title": "[AINews] Gemini 3.7 Flash brings GDM back to the forefront -",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "15:30",
+            "end": "15:31",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "15:31",
+            "end": "15:33",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "15:33",
+            "end": "16:06",
+            "cat": "research",
+            "src": "macos",
+            "title": "[AINews] Gemini 3.7 Flash brings GDM back to the forefront",
+            "note": "latent.space"
+          },
+          {
+            "start": "16:06",
+            "end": "16:21",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "16:21",
+            "end": "16:44",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "16:44",
+            "end": "16:46",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Ada (@adaren100) / X",
+            "note": "x.com"
+          },
+          {
+            "start": "16:46",
+            "end": "16:51",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "16:51",
+            "end": "16:58",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(2) 主页 / X",
+            "note": "x.com"
+          },
+          {
+            "start": "16:58",
+            "end": "17:12",
+            "cat": "coding",
+            "src": "macos",
+            "title": "构建并评估一致性审核工具 --- Building and evaluating alignment auditing ",
+            "note": "alignment.anthropic.com"
+          },
+          {
+            "start": "17:13",
+            "end": "17:35",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Persistent Systematic Biases in RLHF Reward Models harward -",
+            "note": "google.com"
+          },
+          {
+            "start": "17:35",
+            "end": "17:39",
+            "cat": "research",
+            "src": "macos",
+            "title": "Towards Monosemanticity: Decomposing Language Models With Di",
+            "note": "transformer-circuits.pub"
+          },
+          {
+            "start": "17:40",
+            "end": "18:00",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Upload job",
+            "note": "iprint.mq.edu.au:9443"
+          },
+          {
+            "start": "19:15",
+            "end": "19:35",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(88) Efficient LLM Inference with SGLang, Lianmin Zheng, xAI",
+            "note": "youtube.com"
+          },
+          {
+            "start": "19:35",
+            "end": "19:48",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Login to YSoft SafeQ 6",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "19:48",
+            "end": "20:23",
+            "cat": "coding",
+            "src": "macos",
+            "title": "COMP2200: Week 4 - \"COMP2200_Week_4.pdf",
+            "note": "chrome-extension://bpoadfkcbjbfhfodiogcn"
+          },
+          {
+            "start": "20:25",
+            "end": "20:30",
+            "cat": "coding",
+            "src": "macos",
+            "title": "COMP2200: Week 4 - \"COMP2200_Week_4.pdf",
+            "note": "chrome-extension://bpoadfkcbjbfhfodiogcn"
+          },
+          {
+            "start": "20:31",
+            "end": "20:33",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Week 4 Prac - Data Science Ethics",
+            "note": "content.ilearn.mq.edu.au"
+          },
+          {
+            "start": "20:33",
+            "end": "20:36",
+            "cat": "research",
+            "src": "macos",
+            "title": "Spurious Correlations",
+            "note": "tylervigen.com"
+          },
+          {
+            "start": "20:36",
+            "end": "20:37",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Week 4 Prac - Data Science Ethics",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "20:37",
+            "end": "20:38",
+            "cat": "research",
+            "src": "macos",
+            "title": "Spurious Correlations",
+            "note": "tylervigen.com"
+          },
+          {
+            "start": "20:38",
+            "end": "20:41",
+            "cat": "research",
+            "src": "macos",
+            "title": "Spurious Correlations",
+            "note": "tylervigen.com"
+          },
+          {
+            "start": "20:41",
+            "end": "20:48",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Smallville - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "20:48",
+            "end": "21:02",
+            "cat": "research",
+            "src": "macos",
+            "title": "Popularity of the first name Katherine correlates with Burgl",
+            "note": "tylervigen.com"
+          },
+          {
+            "start": "21:02",
+            "end": "21:13",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "21:28",
+            "end": "21:36",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "21:39",
+            "end": "21:45",
+            "cat": "research",
+            "src": "macos",
+            "title": "Popularity of the first name Katherine correlates with Burgl",
+            "note": "tylervigen.com"
+          },
+          {
+            "start": "22:02",
+            "end": "22:04",
+            "cat": "coding",
+            "src": "vscode",
+            "title": "VS Code · settings.json",
+            "note": "1 hit"
+          },
+          {
+            "start": "22:04",
+            "end": "22:24",
+            "cat": "coding",
+            "src": "vscode",
+            "title": "VS Code · settings.json",
+            "note": "1 hit"
+          },
+          {
+            "start": "22:24",
+            "end": "22:26",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Scheduled work not working",
+            "note": "168 hits"
+          },
+          {
+            "start": "22:26",
+            "end": "22:38",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "22:38",
+            "end": "22:46",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "gelu - Google Search",
+            "note": "google.com"
+          }
+        ],
+        "logged": 331,
+        "real": 179,
+        "deep": 179,
+        "ratio": 0.5397662586808615,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "0m",
-          "justOneMoreThing": 0
+          "contextSwitches": 25,
+          "tabsOpened": 21,
+          "longestFocus": "1h 13m",
+          "justOneMoreThing": 4
         }
       },
       {
@@ -58775,18 +59088,83 @@
         "weekend": false,
         "dateShort": "Mon, Aug 17",
         "dateLong": "Monday, August 17",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "09:56",
+        "dayEnd": "10:20",
+        "events": [
+          {
+            "start": "09:56",
+            "end": "09:57",
+            "cat": "research",
+            "src": "macos",
+            "title": "deepseek.com/harness/",
+            "note": "deepseek.com"
+          },
+          {
+            "start": "09:57",
+            "end": "10:02",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(2) 主页 / X",
+            "note": "x.com"
+          },
+          {
+            "start": "10:02",
+            "end": "10:06",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "teams2",
+            "note": "com.microsoft.teams2"
+          },
+          {
+            "start": "10:06",
+            "end": "10:09",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(2) 主页 / X",
+            "note": "x.com"
+          },
+          {
+            "start": "10:09",
+            "end": "10:11",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "teams2",
+            "note": "com.microsoft.teams2"
+          },
+          {
+            "start": "10:11",
+            "end": "10:14",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(2) 主页 / X",
+            "note": "x.com"
+          },
+          {
+            "start": "10:14",
+            "end": "10:17",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Spurious Correlations",
+            "note": "tylervigen.com"
+          },
+          {
+            "start": "10:17",
+            "end": "10:20",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Week 4 Prac - Data Science Ethics",
+            "note": "content.ilearn.mq.edu.au"
+          }
+        ],
+        "logged": 24,
+        "real": 10,
+        "deep": 10,
+        "ratio": 0.4203744389303144,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "0m",
-          "justOneMoreThing": 0
+          "contextSwitches": 7,
+          "tabsOpened": 9,
+          "longestFocus": "4m",
+          "justOneMoreThing": 3
         }
       },
       {
@@ -68449,7 +68827,7 @@
           "end": "14:45",
           "cat": "admin",
           "src": "macos",
-          "title": "Inbox (2,795) - ada.ren.cn@gmail.com - Gmail",
+          "title": "Inbox (2,806) - ada.ren.cn@gmail.com - Gmail",
           "note": "mail.google.com"
         },
         {
@@ -68494,11 +68872,19 @@
         },
         {
           "start": "15:20",
-          "end": "15:23",
-          "cat": "personal",
+          "end": "15:22",
+          "cat": "admin",
           "src": "macos",
           "title": "WhatsApp",
           "note": "web.whatsapp.com"
+        },
+        {
+          "start": "15:22",
+          "end": "15:23",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Google Maps",
+          "note": "map.google.com"
         },
         {
           "start": "15:23",
@@ -68640,10 +69026,10 @@
       "logged": 301,
       "real": 203,
       "deep": 203,
-      "ratio": 0.6737566377404702,
+      "ratio": 0.6737653882885365,
       "stats": {
-        "contextSwitches": 43,
-        "tabsOpened": 24,
+        "contextSwitches": 44,
+        "tabsOpened": 27,
         "longestFocus": "33m",
         "justOneMoreThing": 9
       }
@@ -68655,17 +69041,9 @@
       "weekend": true,
       "dateShort": "Sat, Aug 15",
       "dateLong": "Saturday, August 15",
-      "dayStart": "10:44",
-      "dayEnd": "23:23",
+      "dayStart": "22:53",
+      "dayEnd": "23:34",
       "events": [
-        {
-          "start": "10:44",
-          "end": "10:49",
-          "cat": "coding",
-          "src": "local",
-          "title": "data.js",
-          "note": "1 hit"
-        },
         {
           "start": "22:53",
           "end": "22:54",
@@ -68692,21 +69070,45 @@
         },
         {
           "start": "23:01",
-          "end": "23:23",
+          "end": "23:03",
           "cat": "writing",
           "src": "macos",
           "title": "Progress Updates - Google Sheets",
           "note": "docs.google.com"
+        },
+        {
+          "start": "23:03",
+          "end": "23:07",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "23:07",
+          "end": "23:23",
+          "cat": "writing",
+          "src": "chrome",
+          "title": "Progress Updates - Google Sheets",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "23:29",
+          "end": "23:34",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
         }
       ],
-      "logged": 32,
-      "real": 28,
-      "deep": 28,
-      "ratio": 0.8833798235692949,
+      "logged": 33,
+      "real": 20,
+      "deep": 20,
+      "ratio": 0.5964002668697239,
       "stats": {
-        "contextSwitches": 4,
-        "tabsOpened": 3,
-        "longestFocus": "21m",
+        "contextSwitches": 6,
+        "tabsOpened": 6,
+        "longestFocus": "15m",
         "justOneMoreThing": 2
       }
     },
@@ -68717,18 +69119,307 @@
       "weekend": true,
       "dateShort": "Sun, Aug 16",
       "dateLong": "Sunday, August 16",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "10:45",
+      "dayEnd": "22:46",
+      "events": [
+        {
+          "start": "10:45",
+          "end": "10:50",
+          "cat": "coding",
+          "src": "local",
+          "title": "data.js",
+          "note": "1 hit"
+        },
+        {
+          "start": "15:21",
+          "end": "15:22",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "15:23",
+          "end": "15:24",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "15:25",
+          "end": "15:26",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(88) rachel english pronunciation - YouTube",
+          "note": "youtube.com"
+        },
+        {
+          "start": "15:26",
+          "end": "15:30",
+          "cat": "admin",
+          "src": "macos",
+          "title": "[AINews] Gemini 3.7 Flash brings GDM back to the forefront -",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "15:30",
+          "end": "15:31",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "15:31",
+          "end": "15:33",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "15:33",
+          "end": "16:06",
+          "cat": "research",
+          "src": "macos",
+          "title": "[AINews] Gemini 3.7 Flash brings GDM back to the forefront",
+          "note": "latent.space"
+        },
+        {
+          "start": "16:06",
+          "end": "16:21",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "16:21",
+          "end": "16:44",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "16:44",
+          "end": "16:46",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Ada (@adaren100) / X",
+          "note": "x.com"
+        },
+        {
+          "start": "16:46",
+          "end": "16:51",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "16:51",
+          "end": "16:58",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(2) 主页 / X",
+          "note": "x.com"
+        },
+        {
+          "start": "16:58",
+          "end": "17:12",
+          "cat": "coding",
+          "src": "macos",
+          "title": "构建并评估一致性审核工具 --- Building and evaluating alignment auditing ",
+          "note": "alignment.anthropic.com"
+        },
+        {
+          "start": "17:13",
+          "end": "17:35",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Persistent Systematic Biases in RLHF Reward Models harward -",
+          "note": "google.com"
+        },
+        {
+          "start": "17:35",
+          "end": "17:39",
+          "cat": "research",
+          "src": "macos",
+          "title": "Towards Monosemanticity: Decomposing Language Models With Di",
+          "note": "transformer-circuits.pub"
+        },
+        {
+          "start": "17:40",
+          "end": "18:00",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Upload job",
+          "note": "iprint.mq.edu.au:9443"
+        },
+        {
+          "start": "19:15",
+          "end": "19:35",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(88) Efficient LLM Inference with SGLang, Lianmin Zheng, xAI",
+          "note": "youtube.com"
+        },
+        {
+          "start": "19:35",
+          "end": "19:48",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Login to YSoft SafeQ 6",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "19:48",
+          "end": "20:23",
+          "cat": "coding",
+          "src": "macos",
+          "title": "COMP2200: Week 4 - \"COMP2200_Week_4.pdf",
+          "note": "chrome-extension://bpoadfkcbjbfhfodiogcn"
+        },
+        {
+          "start": "20:25",
+          "end": "20:30",
+          "cat": "coding",
+          "src": "macos",
+          "title": "COMP2200: Week 4 - \"COMP2200_Week_4.pdf",
+          "note": "chrome-extension://bpoadfkcbjbfhfodiogcn"
+        },
+        {
+          "start": "20:31",
+          "end": "20:33",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Week 4 Prac - Data Science Ethics",
+          "note": "content.ilearn.mq.edu.au"
+        },
+        {
+          "start": "20:33",
+          "end": "20:36",
+          "cat": "research",
+          "src": "macos",
+          "title": "Spurious Correlations",
+          "note": "tylervigen.com"
+        },
+        {
+          "start": "20:36",
+          "end": "20:37",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Week 4 Prac - Data Science Ethics",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "20:37",
+          "end": "20:38",
+          "cat": "research",
+          "src": "macos",
+          "title": "Spurious Correlations",
+          "note": "tylervigen.com"
+        },
+        {
+          "start": "20:38",
+          "end": "20:41",
+          "cat": "research",
+          "src": "macos",
+          "title": "Spurious Correlations",
+          "note": "tylervigen.com"
+        },
+        {
+          "start": "20:41",
+          "end": "20:48",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Smallville - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "20:48",
+          "end": "21:02",
+          "cat": "research",
+          "src": "macos",
+          "title": "Popularity of the first name Katherine correlates with Burgl",
+          "note": "tylervigen.com"
+        },
+        {
+          "start": "21:02",
+          "end": "21:13",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "21:28",
+          "end": "21:36",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "21:39",
+          "end": "21:45",
+          "cat": "research",
+          "src": "macos",
+          "title": "Popularity of the first name Katherine correlates with Burgl",
+          "note": "tylervigen.com"
+        },
+        {
+          "start": "22:02",
+          "end": "22:04",
+          "cat": "coding",
+          "src": "vscode",
+          "title": "VS Code · settings.json",
+          "note": "1 hit"
+        },
+        {
+          "start": "22:04",
+          "end": "22:24",
+          "cat": "coding",
+          "src": "vscode",
+          "title": "VS Code · settings.json",
+          "note": "1 hit"
+        },
+        {
+          "start": "22:24",
+          "end": "22:26",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Scheduled work not working",
+          "note": "168 hits"
+        },
+        {
+          "start": "22:26",
+          "end": "22:38",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "22:38",
+          "end": "22:46",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "gelu - Google Search",
+          "note": "google.com"
+        }
+      ],
+      "logged": 331,
+      "real": 179,
+      "deep": 179,
+      "ratio": 0.5397662586808615,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "0m",
-        "justOneMoreThing": 0
+        "contextSwitches": 25,
+        "tabsOpened": 21,
+        "longestFocus": "1h 13m",
+        "justOneMoreThing": 4
       }
     },
     {
@@ -68738,18 +69429,83 @@
       "weekend": false,
       "dateShort": "Mon, Aug 17",
       "dateLong": "Monday, August 17",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "09:56",
+      "dayEnd": "10:20",
+      "events": [
+        {
+          "start": "09:56",
+          "end": "09:57",
+          "cat": "research",
+          "src": "macos",
+          "title": "deepseek.com/harness/",
+          "note": "deepseek.com"
+        },
+        {
+          "start": "09:57",
+          "end": "10:02",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(2) 主页 / X",
+          "note": "x.com"
+        },
+        {
+          "start": "10:02",
+          "end": "10:06",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "teams2",
+          "note": "com.microsoft.teams2"
+        },
+        {
+          "start": "10:06",
+          "end": "10:09",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(2) 主页 / X",
+          "note": "x.com"
+        },
+        {
+          "start": "10:09",
+          "end": "10:11",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "teams2",
+          "note": "com.microsoft.teams2"
+        },
+        {
+          "start": "10:11",
+          "end": "10:14",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(2) 主页 / X",
+          "note": "x.com"
+        },
+        {
+          "start": "10:14",
+          "end": "10:17",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Spurious Correlations",
+          "note": "tylervigen.com"
+        },
+        {
+          "start": "10:17",
+          "end": "10:20",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Week 4 Prac - Data Science Ethics",
+          "note": "content.ilearn.mq.edu.au"
+        }
+      ],
+      "logged": 24,
+      "real": 10,
+      "deep": 10,
+      "ratio": 0.4203744389303144,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "0m",
-        "justOneMoreThing": 0
+        "contextSwitches": 7,
+        "tabsOpened": 9,
+        "longestFocus": "4m",
+        "justOneMoreThing": 3
       }
     },
     {
