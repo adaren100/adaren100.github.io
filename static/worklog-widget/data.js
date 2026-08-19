@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-08-18T10:23:11+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-08-19T10:20:10+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -59089,7 +59089,7 @@
         "dateShort": "Mon, Aug 17",
         "dateLong": "Monday, August 17",
         "dayStart": "09:56",
-        "dayEnd": "00:55",
+        "dayEnd": "00:50",
         "events": [
           {
             "start": "09:56",
@@ -59815,35 +59815,59 @@
             "start": "21:55",
             "end": "22:00",
             "cat": "coding",
-            "src": "chrome",
+            "src": "macos",
             "title": "paper/paper.pdf at main · cordiverse/paper",
             "note": "github.com"
           },
           {
             "start": "22:01",
-            "end": "22:21",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Audible | Listen to Audiobooks, Podcasts & Originals",
-            "note": "google.com"
+            "end": "22:28",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Amazon Sign In",
+            "note": "amazon.com.au"
           },
           {
-            "start": "00:50",
-            "end": "00:55",
+            "start": "22:39",
+            "end": "22:42",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Amazon Sign In",
+            "note": "amazon.com.au"
+          },
+          {
+            "start": "22:43",
+            "end": "23:01",
             "cat": "coding",
-            "src": "local",
-            "title": "visualization.ipynb",
-            "note": "1 hit"
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "23:08",
+            "end": "23:19",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "23:37",
+            "end": "00:50",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
           }
         ],
-        "logged": 548,
-        "real": 174,
-        "deep": 174,
-        "ratio": 0.3172556019641203,
+        "logged": 655,
+        "real": 270,
+        "deep": 270,
+        "ratio": 0.41285848661417823,
         "stats": {
           "contextSwitches": 45,
-          "tabsOpened": 45,
-          "longestFocus": "39m",
+          "tabsOpened": 39,
+          "longestFocus": "1h 41m",
           "justOneMoreThing": 5
         }
       },
@@ -59855,7 +59879,7 @@
         "dateShort": "Tue, Aug 18",
         "dateLong": "Tuesday, August 18",
         "dayStart": "10:01",
-        "dayEnd": "10:07",
+        "dayEnd": "22:20",
         "events": [
           {
             "start": "10:01",
@@ -59864,17 +59888,609 @@
             "src": "local",
             "title": "2026-08-17-the-defenders-window.md",
             "note": "3 hits"
+          },
+          {
+            "start": "10:23",
+            "end": "10:33",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "10:33",
+            "end": "10:38",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "10:38",
+            "end": "10:42",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "10:42",
+            "end": "10:56",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "10:56",
+            "end": "10:57",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Women's Scuba Mid-Rise Wide-Leg Pants Asia Fit in Ultra Ligh",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "10:57",
+            "end": "11:01",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:01",
+            "end": "11:06",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Women's Scuba Mid-Rise Wide-Leg Pants Asia Fit in Ultra Ligh",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "11:06",
+            "end": "12:00",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "12:03",
+            "end": "12:17",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "12:58",
+            "end": "13:03",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "13:04",
+            "end": "13:24",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "xos",
+            "note": "us.zoom.xos"
+          },
+          {
+            "start": "13:51",
+            "end": "13:58",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "xos",
+            "note": "us.zoom.xos"
+          },
+          {
+            "start": "13:58",
+            "end": "14:00",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "14:01",
+            "end": "14:12",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "Join from Zoom Workplace app - Zoom",
+            "note": "macquarie.zoom.us"
+          },
+          {
+            "start": "14:13",
+            "end": "14:15",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "14:16",
+            "end": "14:20",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "14:20",
+            "end": "14:27",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "Join from Zoom Workplace app - Zoom",
+            "note": "macquarie.zoom.us"
+          },
+          {
+            "start": "14:27",
+            "end": "14:34",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "14:34",
+            "end": "14:38",
+            "cat": "admin",
+            "src": "macos",
+            "title": "down arrow - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "14:38",
+            "end": "14:41",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "14:41",
+            "end": "14:43",
+            "cat": "admin",
+            "src": "macos",
+            "title": "down arrow - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "14:43",
+            "end": "14:59",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "14:59",
+            "end": "15:01",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "15:01",
+            "end": "15:02",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "Join from Zoom Workplace app - Zoom",
+            "note": "macquarie.zoom.us"
+          },
+          {
+            "start": "15:02",
+            "end": "15:15",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "15:15",
+            "end": "15:19",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "xos",
+            "note": "us.zoom.xos"
+          },
+          {
+            "start": "15:19",
+            "end": "15:23",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:23",
+            "end": "15:28",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "xos",
+            "note": "us.zoom.xos"
+          },
+          {
+            "start": "15:42",
+            "end": "15:47",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "xos",
+            "note": "us.zoom.xos"
+          },
+          {
+            "start": "15:51",
+            "end": "16:02",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "xos",
+            "note": "us.zoom.xos"
+          },
+          {
+            "start": "16:09",
+            "end": "16:12",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "16:13",
+            "end": "16:31",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "16:31",
+            "end": "16:34",
+            "cat": "coding",
+            "src": "macos",
+            "title": "BytePlus | AI-Native Cloud for Enterprise Growth",
+            "note": "byteplus.com"
+          },
+          {
+            "start": "16:34",
+            "end": "16:41",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Inbox (2,812) - ada.ren.cn@gmail.com - Gmail",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "16:41",
+            "end": "17:27",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "17:28",
+            "end": "17:28",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "FSE Teaching Associate EOI - Power Apps",
+            "note": "apps.powerapps.com"
+          },
+          {
+            "start": "17:28",
+            "end": "17:30",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Learning and Teaching at Macquarie University - Workday",
+            "note": "wd3.myworkday.com"
+          },
+          {
+            "start": "17:30",
+            "end": "17:34",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "FSE Teaching Associate EOI - Power Apps",
+            "note": "apps.powerapps.com"
+          },
+          {
+            "start": "17:34",
+            "end": "17:36",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Learning and Teaching at Macquarie University",
+            "note": "wd3-media.myworkdaycdn.com"
+          },
+          {
+            "start": "17:36",
+            "end": "17:45",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "FSE Teaching Associate EOI - Power Apps",
+            "note": "apps.powerapps.com"
+          },
+          {
+            "start": "17:45",
+            "end": "17:48",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Learning and Teaching at Macquarie University",
+            "note": "wd3-media.myworkdaycdn.com"
+          },
+          {
+            "start": "17:48",
+            "end": "17:53",
+            "cat": "writing",
+            "src": "macos",
+            "title": "My Drive - Google Drive",
+            "note": "drive.google.com"
+          },
+          {
+            "start": "17:54",
+            "end": "17:57",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Learning and teaching at Macquarie University - digital cour",
+            "note": "wd3.myworkday.com"
+          },
+          {
+            "start": "17:57",
+            "end": "17:58",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "17:58",
+            "end": "17:59",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "17:59",
+            "end": "18:03",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Progress Updates - Google Sheets",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "18:03",
+            "end": "18:06",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "18:06",
+            "end": "18:14",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Learning and teaching at Macquarie University - digital cour",
+            "note": "wd3.myworkday.com"
+          },
+          {
+            "start": "18:42",
+            "end": "19:02",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Workday mq - Sign in to Workday",
+            "note": "wd3.myworkday.com"
+          },
+          {
+            "start": "19:49",
+            "end": "20:03",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(89) YouTube",
+            "note": "youtube.com"
+          },
+          {
+            "start": "20:03",
+            "end": "20:09",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "20:09",
+            "end": "20:14",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(89) 【Anna阿姨】回国免税店买了什么｜护肤品 香水 爱马仕首饰 以及我一直在回购的那支面膜 - YouTube",
+            "note": "youtube.com"
+          },
+          {
+            "start": "20:14",
+            "end": "20:18",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "20:20",
+            "end": "20:42",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "20:43",
+            "end": "20:47",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "20:49",
+            "end": "20:54",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "20:54",
+            "end": "20:57",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "20:57",
+            "end": "20:59",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Workday mq - Sign in to Workday",
+            "note": "wd3.myworkday.com"
+          },
+          {
+            "start": "20:59",
+            "end": "21:03",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Enter Time - Workday",
+            "note": "wd3.myworkday.com"
+          },
+          {
+            "start": "21:03",
+            "end": "21:10",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Workday mq - Sign in to Workday",
+            "note": "wd3.myworkday.com"
+          },
+          {
+            "start": "21:10",
+            "end": "21:11",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Amazon.com.au : shampoo and conditioner",
+            "note": "amazon.com.au"
+          },
+          {
+            "start": "21:11",
+            "end": "21:12",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "21:12",
+            "end": "21:13",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "21:13",
+            "end": "21:16",
+            "cat": "writing",
+            "src": "vscode",
+            "title": "VS Code · README.md",
+            "note": "1 hit"
+          },
+          {
+            "start": "21:16",
+            "end": "21:24",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "21:24",
+            "end": "21:28",
+            "cat": "research",
+            "src": "macos",
+            "title": "README.md · Qwen/SAE-Res-Qwen3.5-9B-Base-W64K-L0_100 at main",
+            "note": "huggingface.co"
+          },
+          {
+            "start": "21:28",
+            "end": "21:33",
+            "cat": "research",
+            "src": "macos",
+            "title": "README.md · Qwen/SAE-Res-Qwen3.5-9B-Base-W64K-L0_100 at main",
+            "note": "huggingface.co"
+          },
+          {
+            "start": "21:33",
+            "end": "21:35",
+            "cat": "research",
+            "src": "macos",
+            "title": "README.md · Qwen/SAE-Res-Qwen3.5-9B-Base-W64K-L0_100 at main",
+            "note": "huggingface.co"
+          },
+          {
+            "start": "21:35",
+            "end": "21:37",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "21:37",
+            "end": "21:39",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "21:39",
+            "end": "21:42",
+            "cat": "research",
+            "src": "chrome",
+            "title": "README.md · Qwen/SAE-Res-Qwen3.5-9B-Base-W64K-L0_100 at main",
+            "note": "huggingface.co"
+          },
+          {
+            "start": "21:42",
+            "end": "21:46",
+            "cat": "research",
+            "src": "chrome",
+            "title": "README.md · Qwen/SAE-Res-Qwen3.5-9B-Base-W64K-L0_100 at main",
+            "note": "huggingface.co"
+          },
+          {
+            "start": "21:50",
+            "end": "21:55",
+            "cat": "coding",
+            "src": "local",
+            "title": "visualization.ipynb",
+            "note": "1 hit"
+          },
+          {
+            "start": "22:00",
+            "end": "22:20",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(89) Knut Jägersberg - YouTube",
+            "note": "youtube.com"
           }
         ],
-        "logged": 6,
-        "real": 6,
-        "deep": 6,
-        "ratio": 1.0,
+        "logged": 529,
+        "real": 371,
+        "deep": 371,
+        "ratio": 0.7010621378497599,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "6m",
-          "justOneMoreThing": 0
+          "contextSwitches": 51,
+          "tabsOpened": 42,
+          "longestFocus": "1h 40m",
+          "justOneMoreThing": 13
         }
       },
       {
@@ -59884,17 +60500,34 @@
         "weekend": false,
         "dateShort": "Wed, Aug 19",
         "dateLong": "Wednesday, August 19",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "10:07",
+        "dayEnd": "10:33",
+        "events": [
+          {
+            "start": "10:07",
+            "end": "10:27",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute",
+            "note": "openrouter.com"
+          },
+          {
+            "start": "10:27",
+            "end": "10:33",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Workday mq - Sign in to Workday",
+            "note": "url.au.m.mimecastprotect.com"
+          }
+        ],
+        "logged": 26,
+        "real": 20,
+        "deep": 20,
+        "ratio": 0.7606198986253405,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "0m",
+          "contextSwitches": 1,
+          "tabsOpened": 6,
+          "longestFocus": "20m",
           "justOneMoreThing": 0
         }
       },
@@ -70119,7 +70752,7 @@
       "dateShort": "Mon, Aug 17",
       "dateLong": "Monday, August 17",
       "dayStart": "09:56",
-      "dayEnd": "00:55",
+      "dayEnd": "00:50",
       "events": [
         {
           "start": "09:56",
@@ -70845,35 +71478,59 @@
           "start": "21:55",
           "end": "22:00",
           "cat": "coding",
-          "src": "chrome",
+          "src": "macos",
           "title": "paper/paper.pdf at main · cordiverse/paper",
           "note": "github.com"
         },
         {
           "start": "22:01",
-          "end": "22:21",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Audible | Listen to Audiobooks, Podcasts & Originals",
-          "note": "google.com"
+          "end": "22:28",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Amazon Sign In",
+          "note": "amazon.com.au"
         },
         {
-          "start": "00:50",
-          "end": "00:55",
+          "start": "22:39",
+          "end": "22:42",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Amazon Sign In",
+          "note": "amazon.com.au"
+        },
+        {
+          "start": "22:43",
+          "end": "23:01",
           "cat": "coding",
-          "src": "local",
-          "title": "visualization.ipynb",
-          "note": "1 hit"
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "23:08",
+          "end": "23:19",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "23:37",
+          "end": "00:50",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
         }
       ],
-      "logged": 548,
-      "real": 174,
-      "deep": 174,
-      "ratio": 0.3172556019641203,
+      "logged": 655,
+      "real": 270,
+      "deep": 270,
+      "ratio": 0.41285848661417823,
       "stats": {
         "contextSwitches": 45,
-        "tabsOpened": 45,
-        "longestFocus": "39m",
+        "tabsOpened": 39,
+        "longestFocus": "1h 41m",
         "justOneMoreThing": 5
       }
     },
@@ -70885,7 +71542,7 @@
       "dateShort": "Tue, Aug 18",
       "dateLong": "Tuesday, August 18",
       "dayStart": "10:01",
-      "dayEnd": "10:07",
+      "dayEnd": "22:20",
       "events": [
         {
           "start": "10:01",
@@ -70894,17 +71551,609 @@
           "src": "local",
           "title": "2026-08-17-the-defenders-window.md",
           "note": "3 hits"
+        },
+        {
+          "start": "10:23",
+          "end": "10:33",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "10:33",
+          "end": "10:38",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "10:38",
+          "end": "10:42",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "10:42",
+          "end": "10:56",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "10:56",
+          "end": "10:57",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Women's Scuba Mid-Rise Wide-Leg Pants Asia Fit in Ultra Ligh",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "10:57",
+          "end": "11:01",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:01",
+          "end": "11:06",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Women's Scuba Mid-Rise Wide-Leg Pants Asia Fit in Ultra Ligh",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "11:06",
+          "end": "12:00",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "12:03",
+          "end": "12:17",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "12:58",
+          "end": "13:03",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "13:04",
+          "end": "13:24",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "xos",
+          "note": "us.zoom.xos"
+        },
+        {
+          "start": "13:51",
+          "end": "13:58",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "xos",
+          "note": "us.zoom.xos"
+        },
+        {
+          "start": "13:58",
+          "end": "14:00",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "14:01",
+          "end": "14:12",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "Join from Zoom Workplace app - Zoom",
+          "note": "macquarie.zoom.us"
+        },
+        {
+          "start": "14:13",
+          "end": "14:15",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "14:16",
+          "end": "14:20",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "14:20",
+          "end": "14:27",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "Join from Zoom Workplace app - Zoom",
+          "note": "macquarie.zoom.us"
+        },
+        {
+          "start": "14:27",
+          "end": "14:34",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "14:34",
+          "end": "14:38",
+          "cat": "admin",
+          "src": "macos",
+          "title": "down arrow - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "14:38",
+          "end": "14:41",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "14:41",
+          "end": "14:43",
+          "cat": "admin",
+          "src": "macos",
+          "title": "down arrow - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "14:43",
+          "end": "14:59",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "14:59",
+          "end": "15:01",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "15:01",
+          "end": "15:02",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "Join from Zoom Workplace app - Zoom",
+          "note": "macquarie.zoom.us"
+        },
+        {
+          "start": "15:02",
+          "end": "15:15",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "15:15",
+          "end": "15:19",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "xos",
+          "note": "us.zoom.xos"
+        },
+        {
+          "start": "15:19",
+          "end": "15:23",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:23",
+          "end": "15:28",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "xos",
+          "note": "us.zoom.xos"
+        },
+        {
+          "start": "15:42",
+          "end": "15:47",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "xos",
+          "note": "us.zoom.xos"
+        },
+        {
+          "start": "15:51",
+          "end": "16:02",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "xos",
+          "note": "us.zoom.xos"
+        },
+        {
+          "start": "16:09",
+          "end": "16:12",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "16:13",
+          "end": "16:31",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "16:31",
+          "end": "16:34",
+          "cat": "coding",
+          "src": "macos",
+          "title": "BytePlus | AI-Native Cloud for Enterprise Growth",
+          "note": "byteplus.com"
+        },
+        {
+          "start": "16:34",
+          "end": "16:41",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Inbox (2,812) - ada.ren.cn@gmail.com - Gmail",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "16:41",
+          "end": "17:27",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "17:28",
+          "end": "17:28",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "FSE Teaching Associate EOI - Power Apps",
+          "note": "apps.powerapps.com"
+        },
+        {
+          "start": "17:28",
+          "end": "17:30",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Learning and Teaching at Macquarie University - Workday",
+          "note": "wd3.myworkday.com"
+        },
+        {
+          "start": "17:30",
+          "end": "17:34",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "FSE Teaching Associate EOI - Power Apps",
+          "note": "apps.powerapps.com"
+        },
+        {
+          "start": "17:34",
+          "end": "17:36",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Learning and Teaching at Macquarie University",
+          "note": "wd3-media.myworkdaycdn.com"
+        },
+        {
+          "start": "17:36",
+          "end": "17:45",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "FSE Teaching Associate EOI - Power Apps",
+          "note": "apps.powerapps.com"
+        },
+        {
+          "start": "17:45",
+          "end": "17:48",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Learning and Teaching at Macquarie University",
+          "note": "wd3-media.myworkdaycdn.com"
+        },
+        {
+          "start": "17:48",
+          "end": "17:53",
+          "cat": "writing",
+          "src": "macos",
+          "title": "My Drive - Google Drive",
+          "note": "drive.google.com"
+        },
+        {
+          "start": "17:54",
+          "end": "17:57",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Learning and teaching at Macquarie University - digital cour",
+          "note": "wd3.myworkday.com"
+        },
+        {
+          "start": "17:57",
+          "end": "17:58",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "17:58",
+          "end": "17:59",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "17:59",
+          "end": "18:03",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Progress Updates - Google Sheets",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "18:03",
+          "end": "18:06",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "18:06",
+          "end": "18:14",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Learning and teaching at Macquarie University - digital cour",
+          "note": "wd3.myworkday.com"
+        },
+        {
+          "start": "18:42",
+          "end": "19:02",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Workday mq - Sign in to Workday",
+          "note": "wd3.myworkday.com"
+        },
+        {
+          "start": "19:49",
+          "end": "20:03",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(89) YouTube",
+          "note": "youtube.com"
+        },
+        {
+          "start": "20:03",
+          "end": "20:09",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "20:09",
+          "end": "20:14",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(89) 【Anna阿姨】回国免税店买了什么｜护肤品 香水 爱马仕首饰 以及我一直在回购的那支面膜 - YouTube",
+          "note": "youtube.com"
+        },
+        {
+          "start": "20:14",
+          "end": "20:18",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "20:20",
+          "end": "20:42",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "20:43",
+          "end": "20:47",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "20:49",
+          "end": "20:54",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "20:54",
+          "end": "20:57",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "20:57",
+          "end": "20:59",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Workday mq - Sign in to Workday",
+          "note": "wd3.myworkday.com"
+        },
+        {
+          "start": "20:59",
+          "end": "21:03",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Enter Time - Workday",
+          "note": "wd3.myworkday.com"
+        },
+        {
+          "start": "21:03",
+          "end": "21:10",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Workday mq - Sign in to Workday",
+          "note": "wd3.myworkday.com"
+        },
+        {
+          "start": "21:10",
+          "end": "21:11",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Amazon.com.au : shampoo and conditioner",
+          "note": "amazon.com.au"
+        },
+        {
+          "start": "21:11",
+          "end": "21:12",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "21:12",
+          "end": "21:13",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "21:13",
+          "end": "21:16",
+          "cat": "writing",
+          "src": "vscode",
+          "title": "VS Code · README.md",
+          "note": "1 hit"
+        },
+        {
+          "start": "21:16",
+          "end": "21:24",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "21:24",
+          "end": "21:28",
+          "cat": "research",
+          "src": "macos",
+          "title": "README.md · Qwen/SAE-Res-Qwen3.5-9B-Base-W64K-L0_100 at main",
+          "note": "huggingface.co"
+        },
+        {
+          "start": "21:28",
+          "end": "21:33",
+          "cat": "research",
+          "src": "macos",
+          "title": "README.md · Qwen/SAE-Res-Qwen3.5-9B-Base-W64K-L0_100 at main",
+          "note": "huggingface.co"
+        },
+        {
+          "start": "21:33",
+          "end": "21:35",
+          "cat": "research",
+          "src": "macos",
+          "title": "README.md · Qwen/SAE-Res-Qwen3.5-9B-Base-W64K-L0_100 at main",
+          "note": "huggingface.co"
+        },
+        {
+          "start": "21:35",
+          "end": "21:37",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "21:37",
+          "end": "21:39",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "21:39",
+          "end": "21:42",
+          "cat": "research",
+          "src": "chrome",
+          "title": "README.md · Qwen/SAE-Res-Qwen3.5-9B-Base-W64K-L0_100 at main",
+          "note": "huggingface.co"
+        },
+        {
+          "start": "21:42",
+          "end": "21:46",
+          "cat": "research",
+          "src": "chrome",
+          "title": "README.md · Qwen/SAE-Res-Qwen3.5-9B-Base-W64K-L0_100 at main",
+          "note": "huggingface.co"
+        },
+        {
+          "start": "21:50",
+          "end": "21:55",
+          "cat": "coding",
+          "src": "local",
+          "title": "visualization.ipynb",
+          "note": "1 hit"
+        },
+        {
+          "start": "22:00",
+          "end": "22:20",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(89) Knut Jägersberg - YouTube",
+          "note": "youtube.com"
         }
       ],
-      "logged": 6,
-      "real": 6,
-      "deep": 6,
-      "ratio": 1.0,
+      "logged": 529,
+      "real": 371,
+      "deep": 371,
+      "ratio": 0.7010621378497599,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "6m",
-        "justOneMoreThing": 0
+        "contextSwitches": 51,
+        "tabsOpened": 42,
+        "longestFocus": "1h 40m",
+        "justOneMoreThing": 13
       }
     },
     {
@@ -70914,17 +72163,34 @@
       "weekend": false,
       "dateShort": "Wed, Aug 19",
       "dateLong": "Wednesday, August 19",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "10:07",
+      "dayEnd": "10:33",
+      "events": [
+        {
+          "start": "10:07",
+          "end": "10:27",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute",
+          "note": "openrouter.com"
+        },
+        {
+          "start": "10:27",
+          "end": "10:33",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Workday mq - Sign in to Workday",
+          "note": "url.au.m.mimecastprotect.com"
+        }
+      ],
+      "logged": 26,
+      "real": 20,
+      "deep": 20,
+      "ratio": 0.7606198986253405,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "0m",
+        "contextSwitches": 1,
+        "tabsOpened": 6,
+        "longestFocus": "20m",
         "justOneMoreThing": 0
       }
     },
