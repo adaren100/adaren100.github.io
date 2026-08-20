@@ -10,8 +10,8 @@ tags:
 ### OpenClaw
 
  OpenClaw has two layers:
-> - **The workspace** contains persona, user context, operating rules, memories, daily notes, skills, and project files.
-> - **The state** directory contains runtime configuration, credentials, per-agent state, session stores, transcripts, logs, and trajectory exports.
+- **The workspace** contains persona, user context, operating rules, memories, daily notes, skills, and project files.
+- **The state** directory contains runtime configuration, credentials, per-agent state, session stores, transcripts, logs, and trajectory exports.
 
 **OpenClaw Architecture：**
 
