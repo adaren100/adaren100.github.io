@@ -63,6 +63,9 @@ enableRobotsTXT = true
 [markup.goldmark.renderer]
   unsafe = true
 
+[markup.highlight]
+  noClasses = false
+
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
