@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-08-19T10:20:10+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-08-20T10:20:11+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -59082,1416 +59082,1416 @@
         "weekend": true
       },
       {
-        "key": "2026-8-17",
-        "dayNum": 17,
-        "dow": 1,
-        "weekend": false,
-        "dateShort": "Mon, Aug 17",
         "dateLong": "Monday, August 17",
-        "dayStart": "09:56",
+        "dateShort": "Mon, Aug 17",
         "dayEnd": "00:50",
+        "dayNum": 17,
+        "dayStart": "09:56",
+        "deep": 270,
+        "dow": 1,
         "events": [
           {
-            "start": "09:56",
+            "cat": "research",
             "end": "09:57",
-            "cat": "research",
+            "note": "deepseek.com",
             "src": "macos",
-            "title": "deepseek.com/harness/",
-            "note": "deepseek.com"
+            "start": "09:56",
+            "title": "deepseek.com/harness/"
           },
           {
-            "start": "09:57",
+            "cat": "personal",
             "end": "10:02",
-            "cat": "personal",
+            "note": "x.com",
             "src": "macos",
-            "title": "主页 / X",
-            "note": "x.com"
+            "start": "09:57",
+            "title": "主页 / X"
           },
           {
-            "start": "10:02",
+            "cat": "meeting",
             "end": "10:06",
-            "cat": "meeting",
+            "note": "com.microsoft.teams2",
             "src": "macos",
-            "title": "teams2",
-            "note": "com.microsoft.teams2"
+            "start": "10:02",
+            "title": "teams2"
           },
           {
-            "start": "10:06",
+            "cat": "personal",
             "end": "10:09",
-            "cat": "personal",
+            "note": "x.com",
             "src": "chrome",
-            "title": "主页 / X",
-            "note": "x.com"
+            "start": "10:06",
+            "title": "主页 / X"
           },
           {
-            "start": "10:09",
+            "cat": "meeting",
             "end": "10:11",
-            "cat": "meeting",
+            "note": "com.microsoft.teams2",
             "src": "macos",
-            "title": "teams2",
-            "note": "com.microsoft.teams2"
+            "start": "10:09",
+            "title": "teams2"
           },
           {
-            "start": "10:11",
+            "cat": "personal",
             "end": "10:14",
-            "cat": "personal",
+            "note": "x.com",
             "src": "macos",
-            "title": "主页 / X",
-            "note": "x.com"
+            "start": "10:11",
+            "title": "主页 / X"
           },
           {
-            "start": "10:14",
+            "cat": "meeting",
             "end": "10:17",
-            "cat": "meeting",
+            "note": "com.microsoft.teams2",
             "src": "macos",
-            "title": "teams2",
-            "note": "com.microsoft.teams2"
+            "start": "10:14",
+            "title": "teams2"
           },
           {
-            "start": "10:17",
+            "cat": "admin",
             "end": "10:35",
-            "cat": "admin",
+            "note": "content.ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Week 4 Prac - Data Science Ethics",
-            "note": "content.ilearn.mq.edu.au"
+            "start": "10:17",
+            "title": "Week 4 Prac - Data Science Ethics"
           },
           {
-            "start": "10:35",
+            "cat": "admin",
             "end": "10:40",
-            "cat": "admin",
+            "note": "content.ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Week 4 Prac - Data Science Ethics",
-            "note": "content.ilearn.mq.edu.au"
+            "start": "10:35",
+            "title": "Week 4 Prac - Data Science Ethics"
           },
           {
-            "start": "10:40",
-            "end": "10:46",
             "cat": "meeting",
+            "end": "10:46",
+            "note": "com.microsoft.teams2",
             "src": "macos",
-            "title": "teams2",
-            "note": "com.microsoft.teams2"
+            "start": "10:40",
+            "title": "teams2"
           },
           {
-            "start": "10:46",
+            "cat": "admin",
             "end": "10:47",
-            "cat": "admin",
+            "note": "content.ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Week 4 Prac - Data Science Ethics",
-            "note": "content.ilearn.mq.edu.au"
+            "start": "10:46",
+            "title": "Week 4 Prac - Data Science Ethics"
           },
           {
-            "start": "10:47",
+            "cat": "admin",
             "end": "11:14",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "chrome",
-            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "10:47",
+            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn"
           },
           {
-            "start": "11:22",
+            "cat": "admin",
             "end": "11:27",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "11:22",
+            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn"
           },
           {
-            "start": "11:45",
+            "cat": "admin",
             "end": "11:53",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "11:45",
+            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn"
           },
           {
-            "start": "11:56",
+            "cat": "admin",
             "end": "12:00",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "11:56",
+            "title": "Outlook"
           },
           {
-            "start": "12:01",
+            "cat": "admin",
             "end": "12:02",
-            "cat": "admin",
+            "note": "com.tinyspeck.slackmacgap",
             "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "start": "12:01",
+            "title": "slackmacgap"
           },
           {
-            "start": "12:02",
+            "cat": "admin",
             "end": "12:29",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Announcements | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "12:02",
+            "title": "Announcements | iLearn"
           },
           {
-            "start": "12:37",
+            "cat": "admin",
             "end": "12:43",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Announcements | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "12:37",
+            "title": "Announcements | iLearn"
           },
           {
-            "start": "12:43",
+            "cat": "writing",
             "end": "13:03",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Progress Updates - Google Sheets",
-            "note": "docs.google.com"
+            "start": "12:43",
+            "title": "Progress Updates - Google Sheets"
           },
           {
-            "start": "13:33",
+            "cat": "admin",
             "end": "13:37",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "13:33",
+            "title": "Outlook"
           },
           {
-            "start": "13:37",
+            "cat": "writing",
             "end": "13:43",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Progress Updates - Google Sheets",
-            "note": "docs.google.com"
+            "start": "13:37",
+            "title": "Progress Updates - Google Sheets"
           },
           {
-            "start": "13:43",
+            "cat": "admin",
             "end": "13:50",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "13:43",
+            "title": "Outlook"
           },
           {
-            "start": "13:51",
+            "cat": "admin",
             "end": "13:53",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "13:51",
+            "title": "Outlook"
           },
           {
-            "start": "13:55",
+            "cat": "admin",
             "end": "14:08",
-            "cat": "admin",
+            "note": "com.tinyspeck.slackmacgap",
             "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "start": "13:55",
+            "title": "slackmacgap"
           },
           {
-            "start": "14:08",
+            "cat": "admin",
             "end": "14:11",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "14:08",
+            "title": "Outlook"
           },
           {
-            "start": "14:11",
+            "cat": "research",
             "end": "14:14",
-            "cat": "research",
+            "note": "tylervigen.com",
             "src": "macos",
-            "title": "Spurious Correlations",
-            "note": "tylervigen.com"
+            "start": "14:11",
+            "title": "Spurious Correlations"
           },
           {
-            "start": "14:14",
+            "cat": "admin",
             "end": "14:32",
-            "cat": "admin",
+            "note": "content.ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Week 4 Prac - Data Science Ethics",
-            "note": "content.ilearn.mq.edu.au"
+            "start": "14:14",
+            "title": "Week 4 Prac - Data Science Ethics"
           },
           {
-            "start": "14:32",
+            "cat": "admin",
             "end": "14:37",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "macos",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "14:32",
+            "title": "Google Translate"
           },
           {
-            "start": "14:37",
+            "cat": "admin",
             "end": "14:42",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "14:37",
+            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn"
           },
           {
-            "start": "14:42",
+            "cat": "admin",
             "end": "14:43",
-            "cat": "admin",
+            "note": "content.ilearn.mq.edu.au",
             "src": "chrome",
-            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
-            "note": "content.ilearn.mq.edu.au"
+            "start": "14:42",
+            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn"
           },
           {
-            "start": "14:43",
+            "cat": "personal",
             "end": "14:48",
-            "cat": "personal",
+            "note": "x.com",
             "src": "macos",
-            "title": "主页 / X",
-            "note": "x.com"
+            "start": "14:43",
+            "title": "主页 / X"
           },
           {
-            "start": "14:48",
+            "cat": "coding",
             "end": "14:50",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "14:48",
+            "title": "codex"
           },
           {
-            "start": "14:50",
+            "cat": "admin",
             "end": "14:59",
-            "cat": "admin",
+            "note": "content.ilearn.mq.edu.au",
             "src": "chrome",
-            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
-            "note": "content.ilearn.mq.edu.au"
+            "start": "14:50",
+            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn"
           },
           {
-            "start": "14:59",
+            "cat": "personal",
             "end": "15:03",
-            "cat": "personal",
+            "note": "x.com",
             "src": "chrome",
-            "title": "X 上的 Yann LeCun：“Only in America. Tired of winning?” / X",
-            "note": "x.com"
+            "start": "14:59",
+            "title": "X 上的 Yann LeCun：“Only in America. Tired of winning?” / X"
           },
           {
-            "start": "15:14",
+            "cat": "personal",
             "end": "15:16",
-            "cat": "personal",
+            "note": "x.com",
             "src": "macos",
-            "title": "主页 / X",
-            "note": "x.com"
+            "start": "15:14",
+            "title": "主页 / X"
           },
           {
-            "start": "15:16",
+            "cat": "admin",
             "end": "15:21",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "15:16",
+            "title": "Outlook"
           },
           {
-            "start": "15:21",
+            "cat": "coding",
             "end": "15:27",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "15:21",
+            "title": "codex"
           },
           {
-            "start": "15:27",
+            "cat": "admin",
             "end": "15:29",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "chrome",
-            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Extra Support: Unit S",
-            "note": "ilearn.mq.edu.au"
+            "start": "15:27",
+            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Extra Support: Unit S"
           },
           {
-            "start": "15:29",
+            "cat": "admin",
             "end": "15:31",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "15:29",
+            "title": "Outlook"
           },
           {
-            "start": "15:31",
+            "cat": "admin",
             "end": "15:33",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "chrome",
-            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Extra Support: Unit S",
-            "note": "ilearn.mq.edu.au"
+            "start": "15:31",
+            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Extra Support: Unit S"
           },
           {
-            "start": "15:33",
+            "cat": "personal",
             "end": "15:34",
-            "cat": "personal",
+            "note": "x.com",
             "src": "macos",
-            "title": "X 上的 Peter Yang：“Ten minutes of talking gives Riley 80% of t",
-            "note": "x.com"
+            "start": "15:33",
+            "title": "X 上的 Peter Yang：“Ten minutes of talking gives Riley 80% of t"
           },
           {
-            "start": "15:34",
+            "cat": "coding",
             "end": "15:38",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "15:34",
+            "title": "VSCode"
           },
           {
-            "start": "15:38",
+            "cat": "admin",
             "end": "15:46",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "chrome",
-            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Extra Support: Unit S",
-            "note": "ilearn.mq.edu.au"
+            "start": "15:38",
+            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Extra Support: Unit S"
           },
           {
-            "start": "15:46",
+            "cat": "admin",
             "end": "15:48",
-            "cat": "admin",
+            "note": "com.microsoft.Excel",
             "src": "macos",
-            "title": "Excel",
-            "note": "com.microsoft.Excel"
+            "start": "15:46",
+            "title": "Excel"
           },
           {
-            "start": "15:49",
+            "cat": "coding",
             "end": "16:09",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "15:49",
+            "title": "VSCode"
           },
           {
-            "start": "16:09",
+            "cat": "coding",
             "end": "16:13",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "16:09",
+            "title": "VSCode"
           },
           {
-            "start": "16:13",
+            "cat": "coding",
             "end": "16:14",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "16:13",
+            "title": "VSCode"
           },
           {
-            "start": "16:15",
+            "cat": "coding",
             "end": "16:16",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "16:15",
+            "title": "VSCode"
           },
           {
-            "start": "16:16",
+            "cat": "coding",
             "end": "16:18",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "16:16",
+            "title": "VSCode"
           },
           {
-            "start": "16:18",
+            "cat": "coding",
             "end": "16:20",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "16:18",
+            "title": "VSCode"
           },
           {
-            "start": "16:20",
+            "cat": "coding",
             "end": "16:21",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "16:20",
+            "title": "VSCode"
           },
           {
-            "start": "16:21",
+            "cat": "coding",
             "end": "16:24",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "16:21",
+            "title": "VSCode"
           },
           {
-            "start": "16:24",
+            "cat": "coding",
             "end": "16:25",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "16:24",
+            "title": "VSCode"
           },
           {
-            "start": "16:25",
+            "cat": "coding",
             "end": "16:28",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "16:25",
+            "title": "VSCode"
           },
           {
-            "start": "16:28",
+            "cat": "admin",
             "end": "16:29",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "16:28",
+            "title": "Outlook"
           },
           {
-            "start": "16:29",
+            "cat": "admin",
             "end": "16:53",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "16:29",
+            "title": "Outlook"
           },
           {
-            "start": "16:54",
+            "cat": "admin",
             "end": "16:55",
-            "cat": "admin",
+            "note": "outlook.office.com",
             "src": "chrome",
-            "title": "Mail - COMP2200/6200 Unit Support - Outlook",
-            "note": "outlook.office.com"
+            "start": "16:54",
+            "title": "Mail - COMP2200/6200 Unit Support - Outlook"
           },
           {
-            "start": "16:55",
+            "cat": "coding",
             "end": "16:57",
-            "cat": "coding",
+            "note": "support.office.com",
             "src": "chrome",
-            "title": "Open a shared Mail, Calendar or People folder in Outlook for",
-            "note": "support.office.com"
+            "start": "16:55",
+            "title": "Open a shared Mail, Calendar or People folder in Outlook for"
           },
           {
-            "start": "16:57",
+            "cat": "admin",
             "end": "16:59",
-            "cat": "admin",
+            "note": "outlook.cloud.microsoft",
             "src": "macos",
-            "title": "Mail - COMP2200/6200 Unit Support - Outlook",
-            "note": "outlook.cloud.microsoft"
+            "start": "16:57",
+            "title": "Mail - COMP2200/6200 Unit Support - Outlook"
           },
           {
-            "start": "16:59",
+            "cat": "admin",
             "end": "17:13",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Machine Learning Project (page 1 of 7) | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "16:59",
+            "title": "Machine Learning Project (page 1 of 7) | iLearn"
           },
           {
-            "start": "17:14",
+            "cat": "writing",
             "end": "17:33",
-            "cat": "writing",
+            "note": "excalidraw.com",
             "src": "macos",
-            "title": "Excalidraw Whiteboard",
-            "note": "excalidraw.com"
+            "start": "17:14",
+            "title": "Excalidraw Whiteboard"
           },
           {
-            "start": "17:34",
+            "cat": "admin",
             "end": "17:54",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "ghibli - Google Search",
-            "note": "google.com"
+            "start": "17:34",
+            "title": "ghibli - Google Search"
           },
           {
-            "start": "17:55",
+            "cat": "admin",
             "end": "18:00",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "ghibli - Google Search",
-            "note": "google.com"
+            "start": "17:55",
+            "title": "ghibli - Google Search"
           },
           {
-            "start": "18:06",
+            "cat": "admin",
             "end": "18:13",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "ghibli - Google Search",
-            "note": "google.com"
+            "start": "18:06",
+            "title": "ghibli - Google Search"
           },
           {
-            "start": "18:13",
+            "cat": "admin",
             "end": "18:40",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "开盒 english explaination - Google Search",
-            "note": "google.com"
+            "start": "18:13",
+            "title": "开盒 english explaination - Google Search"
           },
           {
-            "start": "18:40",
+            "cat": "admin",
             "end": "18:45",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "chrome",
-            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "18:40",
+            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn"
           },
           {
-            "start": "18:45",
+            "cat": "admin",
             "end": "18:50",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Machine Learning Project (page 1 of 7) | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "18:45",
+            "title": "Machine Learning Project (page 1 of 7) | iLearn"
           },
           {
-            "start": "18:50",
+            "cat": "coding",
             "end": "18:54",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "18:50",
+            "title": "VSCode"
           },
           {
-            "start": "18:54",
+            "cat": "admin",
             "end": "19:09",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "chrome",
-            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "18:54",
+            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn"
           },
           {
-            "start": "19:35",
+            "cat": "coding",
             "end": "19:41",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "19:35",
+            "title": "VSCode"
           },
           {
-            "start": "19:43",
+            "cat": "writing",
             "end": "19:46",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "b2a9qqwi4.txt",
-            "note": "3 hits"
+            "start": "19:43",
+            "title": "b2a9qqwi4.txt"
           },
           {
-            "start": "19:49",
+            "cat": "coding",
             "end": "19:54",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "19:49",
+            "title": "VSCode"
           },
           {
-            "start": "20:18",
+            "cat": "coding",
             "end": "20:20",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "20:18",
+            "title": "VSCode"
           },
           {
-            "start": "20:21",
+            "cat": "coding",
             "end": "20:25",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "20:21",
+            "title": "VSCode"
           },
           {
-            "start": "21:13",
+            "cat": "coding",
             "end": "21:18",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "21:13",
+            "title": "VSCode"
           },
           {
-            "start": "21:19",
+            "cat": "writing",
             "end": "21:22",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "21:19",
+            "title": "claude-code.txt"
           },
           {
-            "start": "21:22",
+            "cat": "writing",
             "end": "21:23",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "21:22",
+            "title": "claude-code.txt"
           },
           {
-            "start": "21:23",
+            "cat": "coding",
             "end": "21:24",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "21:23",
+            "title": "VSCode"
           },
           {
-            "start": "21:24",
+            "cat": "coding",
             "end": "21:26",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "21:24",
+            "title": "VSCode"
           },
           {
-            "start": "21:26",
+            "cat": "coding",
             "end": "21:27",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "21:26",
+            "title": "VSCode"
           },
           {
-            "start": "21:27",
+            "cat": "coding",
             "end": "21:30",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "21:27",
+            "title": "VSCode"
           },
           {
-            "start": "21:30",
+            "cat": "coding",
             "end": "21:31",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "21:30",
+            "title": "VSCode"
           },
           {
-            "start": "21:31",
+            "cat": "coding",
             "end": "21:32",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "21:31",
+            "title": "VSCode"
           },
           {
-            "start": "21:33",
+            "cat": "admin",
             "end": "21:35",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "21:33",
+            "title": "Outlook"
           },
           {
-            "start": "21:35",
+            "cat": "admin",
             "end": "21:38",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "21:35",
+            "title": "Outlook"
           },
           {
-            "start": "21:38",
+            "cat": "admin",
             "end": "21:48",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "21:38",
+            "title": "Outlook"
           },
           {
-            "start": "21:48",
+            "cat": "admin",
             "end": "21:50",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "21:48",
+            "title": "Outlook"
           },
           {
+            "cat": "research",
+            "end": "21:52",
+            "note": "deepseek.com",
+            "src": "macos",
             "start": "21:50",
-            "end": "21:52",
-            "cat": "research",
-            "src": "macos",
-            "title": "deepseek.com/harness/",
-            "note": "deepseek.com"
+            "title": "deepseek.com/harness/"
           },
           {
-            "start": "21:52",
-            "end": "21:52",
             "cat": "admin",
+            "end": "21:52",
+            "note": "accounts.google.com",
             "src": "chrome",
-            "title": "Microsoft apps & services wants access to your Google Accoun",
-            "note": "accounts.google.com"
-          },
-          {
             "start": "21:52",
-            "end": "21:55",
+            "title": "Microsoft apps & services wants access to your Google Accoun"
+          },
+          {
             "cat": "research",
+            "end": "21:55",
+            "note": "deepseek.com",
             "src": "macos",
-            "title": "deepseek.com/harness/",
-            "note": "deepseek.com"
+            "start": "21:52",
+            "title": "deepseek.com/harness/"
           },
           {
-            "start": "21:55",
+            "cat": "coding",
             "end": "22:00",
-            "cat": "coding",
+            "note": "github.com",
             "src": "macos",
-            "title": "paper/paper.pdf at main · cordiverse/paper",
-            "note": "github.com"
+            "start": "21:55",
+            "title": "paper/paper.pdf at main · cordiverse/paper"
           },
           {
-            "start": "22:01",
+            "cat": "personal",
             "end": "22:28",
-            "cat": "personal",
+            "note": "amazon.com.au",
             "src": "macos",
-            "title": "Amazon Sign In",
-            "note": "amazon.com.au"
+            "start": "22:01",
+            "title": "Amazon Sign In"
           },
           {
-            "start": "22:39",
+            "cat": "personal",
             "end": "22:42",
-            "cat": "personal",
+            "note": "amazon.com.au",
             "src": "macos",
-            "title": "Amazon Sign In",
-            "note": "amazon.com.au"
+            "start": "22:39",
+            "title": "Amazon Sign In"
           },
           {
-            "start": "22:43",
+            "cat": "coding",
             "end": "23:01",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "22:43",
+            "title": "VSCode"
           },
           {
-            "start": "23:08",
+            "cat": "coding",
             "end": "23:19",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "23:08",
+            "title": "VSCode"
           },
           {
-            "start": "23:37",
-            "end": "00:50",
             "cat": "coding",
+            "end": "00:50",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "23:37",
+            "title": "VSCode"
           }
         ],
+        "key": "2026-8-17",
         "logged": 655,
-        "real": 270,
-        "deep": 270,
         "ratio": 0.41285848661417823,
+        "real": 270,
         "stats": {
           "contextSwitches": 45,
-          "tabsOpened": 39,
+          "justOneMoreThing": 5,
           "longestFocus": "1h 41m",
-          "justOneMoreThing": 5
-        }
+          "tabsOpened": 39
+        },
+        "weekend": false
       },
       {
-        "key": "2026-8-18",
-        "dayNum": 18,
-        "dow": 2,
-        "weekend": false,
-        "dateShort": "Tue, Aug 18",
         "dateLong": "Tuesday, August 18",
-        "dayStart": "10:01",
+        "dateShort": "Tue, Aug 18",
         "dayEnd": "22:20",
+        "dayNum": 18,
+        "dayStart": "10:01",
+        "deep": 371,
+        "dow": 2,
         "events": [
           {
-            "start": "10:01",
+            "cat": "writing",
             "end": "10:07",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "2026-08-17-the-defenders-window.md",
-            "note": "3 hits"
+            "start": "10:01",
+            "title": "2026-08-17-the-defenders-window.md"
           },
           {
-            "start": "10:23",
+            "cat": "coding",
             "end": "10:33",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "10:23",
+            "title": "VSCode"
           },
           {
-            "start": "10:33",
+            "cat": "coding",
             "end": "10:38",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "10:33",
+            "title": "VSCode"
           },
           {
-            "start": "10:38",
+            "cat": "admin",
             "end": "10:42",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "10:38",
+            "title": "Outlook"
           },
           {
-            "start": "10:42",
+            "cat": "coding",
             "end": "10:56",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "10:42",
+            "title": "VSCode"
           },
           {
-            "start": "10:56",
+            "cat": "admin",
             "end": "10:57",
-            "cat": "admin",
+            "note": "mail.google.com",
             "src": "chrome",
-            "title": "Women's Scuba Mid-Rise Wide-Leg Pants Asia Fit in Ultra Ligh",
-            "note": "mail.google.com"
+            "start": "10:56",
+            "title": "Women's Scuba Mid-Rise Wide-Leg Pants Asia Fit in Ultra Ligh"
           },
           {
-            "start": "10:57",
+            "cat": "coding",
             "end": "11:01",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "10:57",
+            "title": "VSCode"
           },
           {
-            "start": "11:01",
+            "cat": "admin",
             "end": "11:06",
-            "cat": "admin",
+            "note": "mail.google.com",
             "src": "chrome",
-            "title": "Women's Scuba Mid-Rise Wide-Leg Pants Asia Fit in Ultra Ligh",
-            "note": "mail.google.com"
+            "start": "11:01",
+            "title": "Women's Scuba Mid-Rise Wide-Leg Pants Asia Fit in Ultra Ligh"
           },
           {
-            "start": "11:06",
+            "cat": "coding",
             "end": "12:00",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "11:06",
+            "title": "VSCode"
           },
           {
-            "start": "12:03",
+            "cat": "coding",
             "end": "12:17",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "12:03",
+            "title": "VSCode"
           },
           {
-            "start": "12:58",
+            "cat": "coding",
             "end": "13:03",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "12:58",
+            "title": "VSCode"
           },
           {
-            "start": "13:04",
+            "cat": "meeting",
             "end": "13:24",
-            "cat": "meeting",
+            "note": "us.zoom.xos",
             "src": "macos",
-            "title": "xos",
-            "note": "us.zoom.xos"
+            "start": "13:04",
+            "title": "xos"
           },
           {
-            "start": "13:51",
+            "cat": "meeting",
             "end": "13:58",
-            "cat": "meeting",
+            "note": "us.zoom.xos",
             "src": "macos",
-            "title": "xos",
-            "note": "us.zoom.xos"
+            "start": "13:51",
+            "title": "xos"
           },
           {
-            "start": "13:58",
+            "cat": "admin",
             "end": "14:00",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "13:58",
+            "title": "Outlook"
           },
           {
-            "start": "14:01",
+            "cat": "meeting",
             "end": "14:12",
-            "cat": "meeting",
+            "note": "macquarie.zoom.us",
             "src": "macos",
-            "title": "Join from Zoom Workplace app - Zoom",
-            "note": "macquarie.zoom.us"
+            "start": "14:01",
+            "title": "Join from Zoom Workplace app - Zoom"
           },
           {
-            "start": "14:13",
+            "cat": "coding",
             "end": "14:15",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "14:13",
+            "title": "VSCode"
           },
           {
-            "start": "14:16",
+            "cat": "coding",
             "end": "14:20",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "14:16",
+            "title": "VSCode"
           },
           {
-            "start": "14:20",
+            "cat": "meeting",
             "end": "14:27",
-            "cat": "meeting",
+            "note": "macquarie.zoom.us",
             "src": "macos",
-            "title": "Join from Zoom Workplace app - Zoom",
-            "note": "macquarie.zoom.us"
+            "start": "14:20",
+            "title": "Join from Zoom Workplace app - Zoom"
           },
           {
-            "start": "14:27",
+            "cat": "admin",
             "end": "14:34",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "macos",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "14:27",
+            "title": "Google Translate"
           },
           {
-            "start": "14:34",
+            "cat": "admin",
             "end": "14:38",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "down arrow - Google Search",
-            "note": "google.com"
+            "start": "14:34",
+            "title": "down arrow - Google Search"
           },
           {
-            "start": "14:38",
+            "cat": "coding",
             "end": "14:41",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "14:38",
+            "title": "VSCode"
           },
           {
-            "start": "14:41",
+            "cat": "admin",
             "end": "14:43",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "down arrow - Google Search",
-            "note": "google.com"
+            "start": "14:41",
+            "title": "down arrow - Google Search"
           },
           {
-            "start": "14:43",
+            "cat": "coding",
             "end": "14:59",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "14:43",
+            "title": "VSCode"
           },
           {
-            "start": "14:59",
+            "cat": "admin",
             "end": "15:01",
-            "cat": "admin",
+            "note": "com.tinyspeck.slackmacgap",
             "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "start": "14:59",
+            "title": "slackmacgap"
           },
           {
-            "start": "15:01",
+            "cat": "meeting",
             "end": "15:02",
-            "cat": "meeting",
+            "note": "macquarie.zoom.us",
             "src": "macos",
-            "title": "Join from Zoom Workplace app - Zoom",
-            "note": "macquarie.zoom.us"
+            "start": "15:01",
+            "title": "Join from Zoom Workplace app - Zoom"
           },
           {
-            "start": "15:02",
+            "cat": "admin",
             "end": "15:15",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "macos",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "15:02",
+            "title": "Google Translate"
           },
           {
-            "start": "15:15",
+            "cat": "meeting",
             "end": "15:19",
-            "cat": "meeting",
+            "note": "us.zoom.xos",
             "src": "macos",
-            "title": "xos",
-            "note": "us.zoom.xos"
+            "start": "15:15",
+            "title": "xos"
           },
           {
-            "start": "15:19",
+            "cat": "coding",
             "end": "15:23",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "15:19",
+            "title": "VSCode"
           },
           {
-            "start": "15:23",
+            "cat": "meeting",
             "end": "15:28",
-            "cat": "meeting",
+            "note": "us.zoom.xos",
             "src": "macos",
-            "title": "xos",
-            "note": "us.zoom.xos"
+            "start": "15:23",
+            "title": "xos"
           },
           {
-            "start": "15:42",
+            "cat": "meeting",
             "end": "15:47",
-            "cat": "meeting",
+            "note": "us.zoom.xos",
             "src": "macos",
-            "title": "xos",
-            "note": "us.zoom.xos"
+            "start": "15:42",
+            "title": "xos"
           },
           {
-            "start": "15:51",
+            "cat": "meeting",
             "end": "16:02",
-            "cat": "meeting",
+            "note": "us.zoom.xos",
             "src": "macos",
-            "title": "xos",
-            "note": "us.zoom.xos"
+            "start": "15:51",
+            "title": "xos"
           },
           {
-            "start": "16:09",
+            "cat": "admin",
             "end": "16:12",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "16:09",
+            "title": "Outlook"
           },
           {
-            "start": "16:13",
+            "cat": "admin",
             "end": "16:31",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "macos",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "16:13",
+            "title": "Google Translate"
           },
           {
-            "start": "16:31",
+            "cat": "coding",
             "end": "16:34",
-            "cat": "coding",
+            "note": "byteplus.com",
             "src": "macos",
-            "title": "BytePlus | AI-Native Cloud for Enterprise Growth",
-            "note": "byteplus.com"
+            "start": "16:31",
+            "title": "BytePlus | AI-Native Cloud for Enterprise Growth"
           },
           {
-            "start": "16:34",
+            "cat": "admin",
             "end": "16:41",
-            "cat": "admin",
+            "note": "mail.google.com",
             "src": "macos",
-            "title": "Inbox (2,812) - ada.ren.cn@gmail.com - Gmail",
-            "note": "mail.google.com"
+            "start": "16:34",
+            "title": "Inbox (2,812) - ada.ren.cn@gmail.com - Gmail"
           },
           {
-            "start": "16:41",
+            "cat": "coding",
             "end": "17:27",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "16:41",
+            "title": "VSCode"
           },
           {
-            "start": "17:28",
+            "cat": "coding",
             "end": "17:28",
-            "cat": "coding",
+            "note": "apps.powerapps.com",
             "src": "chrome",
-            "title": "FSE Teaching Associate EOI - Power Apps",
-            "note": "apps.powerapps.com"
-          },
-          {
             "start": "17:28",
+            "title": "FSE Teaching Associate EOI - Power Apps"
+          },
+          {
+            "cat": "admin",
             "end": "17:30",
-            "cat": "admin",
+            "note": "wd3.myworkday.com",
             "src": "macos",
-            "title": "Learning and Teaching at Macquarie University - Workday",
-            "note": "wd3.myworkday.com"
+            "start": "17:28",
+            "title": "Learning and Teaching at Macquarie University - Workday"
           },
           {
-            "start": "17:30",
+            "cat": "coding",
             "end": "17:34",
-            "cat": "coding",
+            "note": "apps.powerapps.com",
             "src": "chrome",
-            "title": "FSE Teaching Associate EOI - Power Apps",
-            "note": "apps.powerapps.com"
+            "start": "17:30",
+            "title": "FSE Teaching Associate EOI - Power Apps"
           },
           {
-            "start": "17:34",
+            "cat": "admin",
             "end": "17:36",
-            "cat": "admin",
+            "note": "wd3-media.myworkdaycdn.com",
             "src": "macos",
-            "title": "Learning and Teaching at Macquarie University",
-            "note": "wd3-media.myworkdaycdn.com"
+            "start": "17:34",
+            "title": "Learning and Teaching at Macquarie University"
           },
           {
-            "start": "17:36",
+            "cat": "coding",
             "end": "17:45",
-            "cat": "coding",
+            "note": "apps.powerapps.com",
             "src": "chrome",
-            "title": "FSE Teaching Associate EOI - Power Apps",
-            "note": "apps.powerapps.com"
+            "start": "17:36",
+            "title": "FSE Teaching Associate EOI - Power Apps"
           },
           {
-            "start": "17:45",
+            "cat": "admin",
             "end": "17:48",
-            "cat": "admin",
+            "note": "wd3-media.myworkdaycdn.com",
             "src": "macos",
-            "title": "Learning and Teaching at Macquarie University",
-            "note": "wd3-media.myworkdaycdn.com"
+            "start": "17:45",
+            "title": "Learning and Teaching at Macquarie University"
           },
           {
-            "start": "17:48",
+            "cat": "writing",
             "end": "17:53",
-            "cat": "writing",
+            "note": "drive.google.com",
             "src": "macos",
-            "title": "My Drive - Google Drive",
-            "note": "drive.google.com"
+            "start": "17:48",
+            "title": "My Drive - Google Drive"
           },
           {
-            "start": "17:54",
+            "cat": "admin",
             "end": "17:57",
-            "cat": "admin",
+            "note": "wd3.myworkday.com",
             "src": "chrome",
-            "title": "Learning and teaching at Macquarie University - digital cour",
-            "note": "wd3.myworkday.com"
+            "start": "17:54",
+            "title": "Learning and teaching at Macquarie University - digital cour"
           },
           {
-            "start": "17:57",
+            "cat": "coding",
             "end": "17:58",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "17:57",
+            "title": "codex"
           },
           {
-            "start": "17:58",
+            "cat": "admin",
             "end": "17:59",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "17:58",
+            "title": "Outlook"
           },
           {
-            "start": "17:59",
+            "cat": "writing",
             "end": "18:03",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Progress Updates - Google Sheets",
-            "note": "docs.google.com"
+            "start": "17:59",
+            "title": "Progress Updates - Google Sheets"
           },
           {
-            "start": "18:03",
+            "cat": "admin",
             "end": "18:06",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "18:03",
+            "title": "Outlook"
           },
           {
-            "start": "18:06",
+            "cat": "admin",
             "end": "18:14",
-            "cat": "admin",
+            "note": "wd3.myworkday.com",
             "src": "chrome",
-            "title": "Learning and teaching at Macquarie University - digital cour",
-            "note": "wd3.myworkday.com"
+            "start": "18:06",
+            "title": "Learning and teaching at Macquarie University - digital cour"
           },
           {
-            "start": "18:42",
+            "cat": "admin",
             "end": "19:02",
-            "cat": "admin",
+            "note": "wd3.myworkday.com",
             "src": "chrome",
-            "title": "Workday mq - Sign in to Workday",
-            "note": "wd3.myworkday.com"
+            "start": "18:42",
+            "title": "Workday mq - Sign in to Workday"
           },
           {
-            "start": "19:49",
+            "cat": "personal",
             "end": "20:03",
-            "cat": "personal",
+            "note": "youtube.com",
             "src": "macos",
-            "title": "(89) YouTube",
-            "note": "youtube.com"
+            "start": "19:49",
+            "title": "(89) YouTube"
           },
           {
-            "start": "20:03",
+            "cat": "coding",
             "end": "20:09",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "20:03",
+            "title": "VSCode"
           },
           {
-            "start": "20:09",
+            "cat": "personal",
             "end": "20:14",
-            "cat": "personal",
+            "note": "youtube.com",
             "src": "chrome",
-            "title": "(89) 【Anna阿姨】回国免税店买了什么｜护肤品 香水 爱马仕首饰 以及我一直在回购的那支面膜 - YouTube",
-            "note": "youtube.com"
+            "start": "20:09",
+            "title": "(89) 【Anna阿姨】回国免税店买了什么｜护肤品 香水 爱马仕首饰 以及我一直在回购的那支面膜 - YouTube"
           },
           {
-            "start": "20:14",
+            "cat": "coding",
             "end": "20:18",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "20:14",
+            "title": "VSCode"
           },
           {
-            "start": "20:20",
+            "cat": "coding",
             "end": "20:42",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "20:20",
+            "title": "VSCode"
           },
           {
-            "start": "20:43",
+            "cat": "coding",
             "end": "20:47",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "20:43",
+            "title": "VSCode"
           },
           {
-            "start": "20:49",
+            "cat": "coding",
             "end": "20:54",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "20:49",
+            "title": "VSCode"
           },
           {
-            "start": "20:54",
+            "cat": "coding",
             "end": "20:57",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "20:54",
+            "title": "VSCode"
           },
           {
-            "start": "20:57",
+            "cat": "admin",
             "end": "20:59",
-            "cat": "admin",
+            "note": "wd3.myworkday.com",
             "src": "chrome",
-            "title": "Workday mq - Sign in to Workday",
-            "note": "wd3.myworkday.com"
+            "start": "20:57",
+            "title": "Workday mq - Sign in to Workday"
           },
           {
-            "start": "20:59",
+            "cat": "admin",
             "end": "21:03",
-            "cat": "admin",
+            "note": "wd3.myworkday.com",
             "src": "macos",
-            "title": "Enter Time - Workday",
-            "note": "wd3.myworkday.com"
+            "start": "20:59",
+            "title": "Enter Time - Workday"
           },
           {
-            "start": "21:03",
+            "cat": "admin",
             "end": "21:10",
-            "cat": "admin",
+            "note": "wd3.myworkday.com",
             "src": "chrome",
-            "title": "Workday mq - Sign in to Workday",
-            "note": "wd3.myworkday.com"
+            "start": "21:03",
+            "title": "Workday mq - Sign in to Workday"
           },
           {
-            "start": "21:10",
+            "cat": "personal",
             "end": "21:11",
-            "cat": "personal",
+            "note": "amazon.com.au",
             "src": "macos",
-            "title": "Amazon.com.au : shampoo and conditioner",
-            "note": "amazon.com.au"
+            "start": "21:10",
+            "title": "Amazon.com.au : shampoo and conditioner"
           },
           {
-            "start": "21:11",
+            "cat": "coding",
             "end": "21:12",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "21:11",
+            "title": "VSCode"
           },
           {
-            "start": "21:12",
+            "cat": "coding",
             "end": "21:13",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "21:12",
+            "title": "VSCode"
           },
           {
-            "start": "21:13",
-            "end": "21:16",
             "cat": "writing",
+            "end": "21:16",
+            "note": "1 hit",
             "src": "vscode",
-            "title": "VS Code · README.md",
-            "note": "1 hit"
+            "start": "21:13",
+            "title": "VS Code · README.md"
           },
           {
-            "start": "21:16",
+            "cat": "coding",
             "end": "21:24",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "21:16",
+            "title": "VSCode"
           },
           {
-            "start": "21:24",
+            "cat": "research",
             "end": "21:28",
-            "cat": "research",
+            "note": "huggingface.co",
             "src": "macos",
-            "title": "README.md · Qwen/SAE-Res-Qwen3.5-9B-Base-W64K-L0_100 at main",
-            "note": "huggingface.co"
+            "start": "21:24",
+            "title": "README.md · Qwen/SAE-Res-Qwen3.5-9B-Base-W64K-L0_100 at main"
           },
           {
-            "start": "21:28",
+            "cat": "research",
             "end": "21:33",
-            "cat": "research",
+            "note": "huggingface.co",
             "src": "macos",
-            "title": "README.md · Qwen/SAE-Res-Qwen3.5-9B-Base-W64K-L0_100 at main",
-            "note": "huggingface.co"
+            "start": "21:28",
+            "title": "README.md · Qwen/SAE-Res-Qwen3.5-9B-Base-W64K-L0_100 at main"
           },
           {
-            "start": "21:33",
+            "cat": "research",
             "end": "21:35",
-            "cat": "research",
+            "note": "huggingface.co",
             "src": "macos",
-            "title": "README.md · Qwen/SAE-Res-Qwen3.5-9B-Base-W64K-L0_100 at main",
-            "note": "huggingface.co"
+            "start": "21:33",
+            "title": "README.md · Qwen/SAE-Res-Qwen3.5-9B-Base-W64K-L0_100 at main"
           },
           {
-            "start": "21:35",
+            "cat": "coding",
             "end": "21:37",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "21:35",
+            "title": "VSCode"
           },
           {
-            "start": "21:37",
+            "cat": "coding",
             "end": "21:39",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "21:37",
+            "title": "VSCode"
           },
           {
-            "start": "21:39",
+            "cat": "research",
             "end": "21:42",
-            "cat": "research",
+            "note": "huggingface.co",
             "src": "chrome",
-            "title": "README.md · Qwen/SAE-Res-Qwen3.5-9B-Base-W64K-L0_100 at main",
-            "note": "huggingface.co"
+            "start": "21:39",
+            "title": "README.md · Qwen/SAE-Res-Qwen3.5-9B-Base-W64K-L0_100 at main"
           },
           {
-            "start": "21:42",
+            "cat": "research",
             "end": "21:46",
-            "cat": "research",
+            "note": "huggingface.co",
             "src": "chrome",
-            "title": "README.md · Qwen/SAE-Res-Qwen3.5-9B-Base-W64K-L0_100 at main",
-            "note": "huggingface.co"
+            "start": "21:42",
+            "title": "README.md · Qwen/SAE-Res-Qwen3.5-9B-Base-W64K-L0_100 at main"
           },
           {
-            "start": "21:50",
-            "end": "21:55",
             "cat": "coding",
+            "end": "21:55",
+            "note": "1 hit",
             "src": "local",
-            "title": "visualization.ipynb",
-            "note": "1 hit"
+            "start": "21:50",
+            "title": "visualization.ipynb"
           },
           {
-            "start": "22:00",
-            "end": "22:20",
             "cat": "personal",
+            "end": "22:20",
+            "note": "youtube.com",
             "src": "chrome",
-            "title": "(89) Knut Jägersberg - YouTube",
-            "note": "youtube.com"
+            "start": "22:00",
+            "title": "(89) Knut Jägersberg - YouTube"
           }
         ],
+        "key": "2026-8-18",
         "logged": 529,
-        "real": 371,
-        "deep": 371,
         "ratio": 0.7010621378497599,
+        "real": 371,
         "stats": {
           "contextSwitches": 51,
-          "tabsOpened": 42,
+          "justOneMoreThing": 13,
           "longestFocus": "1h 40m",
-          "justOneMoreThing": 13
-        }
+          "tabsOpened": 42
+        },
+        "weekend": false
       },
       {
         "key": "2026-8-19",
@@ -60501,10 +60501,66 @@
         "dateShort": "Wed, Aug 19",
         "dateLong": "Wednesday, August 19",
         "dayStart": "10:07",
-        "dayEnd": "10:33",
+        "dayEnd": "22:41",
         "events": [
           {
             "start": "10:07",
+            "end": "10:10",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "10:10",
+            "end": "10:12",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
+            "note": "sport.mq.edu.au"
+          },
+          {
+            "start": "10:12",
+            "end": "10:19",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "10:19",
+            "end": "10:20",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Home - Workday",
+            "note": "wd3.myworkday.com"
+          },
+          {
+            "start": "10:20",
+            "end": "10:21",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Home - Workday",
+            "note": "wd3.myworkday.com"
+          },
+          {
+            "start": "10:21",
+            "end": "10:23",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "10:23",
+            "end": "10:25",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "10:25",
             "end": "10:27",
             "cat": "coding",
             "src": "chrome",
@@ -60513,22 +60569,2270 @@
           },
           {
             "start": "10:27",
+            "end": "10:28",
+            "cat": "research",
+            "src": "macos",
+            "title": "Where the time actually went | Ada's Notes",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "10:28",
+            "end": "10:29",
+            "cat": "research",
+            "src": "macos",
+            "title": "Where the time actually went | Ada's Notes",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "10:30",
+            "end": "10:31",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "10:31",
             "end": "10:33",
+            "cat": "research",
+            "src": "macos",
+            "title": "Where the time actually went | Ada's Notes",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "10:35",
+            "end": "10:47",
+            "cat": "research",
+            "src": "macos",
+            "title": "Where the time actually went | Ada's Notes",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "11:04",
+            "end": "11:19",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:19",
+            "end": "11:21",
+            "cat": "personal",
+            "src": "macos",
+            "title": "主页 / X",
+            "note": "x.com"
+          },
+          {
+            "start": "11:22",
+            "end": "11:23",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:23",
+            "end": "11:24",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:24",
+            "end": "11:25",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:25",
+            "end": "11:27",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:27",
+            "end": "11:28",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:28",
+            "end": "11:30",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:30",
+            "end": "11:32",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:32",
+            "end": "11:33",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "11:33",
+            "end": "11:34",
+            "cat": "personal",
+            "src": "macos",
+            "title": "主页 / X",
+            "note": "x.com"
+          },
+          {
+            "start": "11:35",
+            "end": "11:36",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "11:36",
+            "end": "11:37",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:37",
+            "end": "11:38",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "主页 / X",
+            "note": "x.com"
+          },
+          {
+            "start": "11:38",
+            "end": "11:40",
+            "cat": "research",
+            "src": "macos",
+            "title": "openclaw 和 Hermes agent的对比",
+            "note": "perplexity.ai"
+          },
+          {
+            "start": "11:40",
+            "end": "11:41",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "11:41",
+            "end": "11:42",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "11:42",
+            "end": "11:43",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Daily papers of 18 Aug 2026 - ada.ren.cn@gmail.com - Gmail",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "11:43",
+            "end": "11:45",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Daily papers of 18 Aug 2026 - ada.ren.cn@gmail.com - Gmail",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "11:45",
+            "end": "11:46",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Daily papers of 18 Aug 2026 - ada.ren.cn@gmail.com - Gmail",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "11:46",
+            "end": "11:47",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:47",
+            "end": "11:48",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:48",
+            "end": "11:50",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:50",
+            "end": "11:51",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:51",
+            "end": "11:52",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "11:53",
+            "end": "11:54",
+            "cat": "research",
+            "src": "macos",
+            "title": "The 2026 Conference on Empirical Methods in Natural Language",
+            "note": "2026.emnlp.org"
+          },
+          {
+            "start": "11:54",
+            "end": "11:55",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "4 hits"
+          },
+          {
+            "start": "11:57",
+            "end": "11:58",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:58",
+            "end": "11:59",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:59",
+            "end": "12:01",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "12:01",
+            "end": "12:02",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute",
+            "note": "openrouter.ai"
+          },
+          {
+            "start": "12:02",
+            "end": "12:03",
+            "cat": "research",
+            "src": "macos",
+            "title": "Persistent Memory | Hermes Agent",
+            "note": "hermes-agent.nousresearch.com"
+          },
+          {
+            "start": "12:03",
+            "end": "12:04",
+            "cat": "research",
+            "src": "macos",
+            "title": "Persistent Memory | Hermes Agent",
+            "note": "hermes-agent.nousresearch.com"
+          },
+          {
+            "start": "12:04",
+            "end": "12:04",
+            "cat": "research",
+            "src": "macos",
+            "title": "Persistent Memory | Hermes Agent",
+            "note": "hermes-agent.nousresearch.com"
+          },
+          {
+            "start": "12:04",
+            "end": "12:05",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "12:05",
+            "end": "12:06",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "12:06",
+            "end": "12:08",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "12:09",
+            "end": "12:09",
+            "cat": "research",
+            "src": "macos",
+            "title": "Persistent Memory | Hermes Agent",
+            "note": "hermes-agent.nousresearch.com"
+          },
+          {
+            "start": "12:10",
+            "end": "12:13",
+            "cat": "research",
+            "src": "macos",
+            "title": "Persistent Memory | Hermes Agent",
+            "note": "hermes-agent.nousresearch.com"
+          },
+          {
+            "start": "12:13",
+            "end": "12:14",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Bundled Skills Catalog | Hermes Agent",
+            "note": "hermes-agent.nousresearch.com"
+          },
+          {
+            "start": "12:15",
+            "end": "12:16",
+            "cat": "research",
+            "src": "macos",
+            "title": "Bundled Skills Catalog | Hermes Agent",
+            "note": "hermes-agent.nousresearch.com"
+          },
+          {
+            "start": "12:16",
+            "end": "12:19",
+            "cat": "research",
+            "src": "macos",
+            "title": "Bundled Skills Catalog | Hermes Agent",
+            "note": "hermes-agent.nousresearch.com"
+          },
+          {
+            "start": "12:19",
+            "end": "12:19",
+            "cat": "research",
+            "src": "macos",
+            "title": "Bundled Skills Catalog | Hermes Agent",
+            "note": "hermes-agent.nousresearch.com"
+          },
+          {
+            "start": "12:19",
+            "end": "12:21",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Bundled Skills Catalog | Hermes Agent",
+            "note": "hermes-agent.nousresearch.com"
+          },
+          {
+            "start": "12:21",
+            "end": "12:23",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Bundled Skills Catalog | Hermes Agent",
+            "note": "hermes-agent.nousresearch.com"
+          },
+          {
+            "start": "12:23",
+            "end": "12:24",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Bundled Skills Catalog | Hermes Agent",
+            "note": "hermes-agent.nousresearch.com"
+          },
+          {
+            "start": "12:24",
+            "end": "12:26",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Bundled Skills Catalog | Hermes Agent",
+            "note": "hermes-agent.nousresearch.com"
+          },
+          {
+            "start": "12:26",
+            "end": "12:28",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Bundled Skills Catalog | Hermes Agent",
+            "note": "hermes-agent.nousresearch.com"
+          },
+          {
+            "start": "12:30",
+            "end": "12:31",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Bundled Skills Catalog | Hermes Agent",
+            "note": "hermes-agent.nousresearch.com"
+          },
+          {
+            "start": "12:31",
+            "end": "12:33",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Bundled Skills Catalog | Hermes Agent",
+            "note": "hermes-agent.nousresearch.com"
+          },
+          {
+            "start": "12:35",
+            "end": "12:36",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "12:36",
+            "end": "12:37",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "12:37",
+            "end": "12:38",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "12:38",
+            "end": "12:39",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "12:41",
+            "end": "12:42",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "12:42",
+            "end": "12:44",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "4 hits"
+          },
+          {
+            "start": "12:45",
+            "end": "12:47",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "12:47",
+            "end": "12:49",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "12:49",
+            "end": "12:49",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "12:49",
+            "end": "12:50",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "12:50",
+            "end": "12:52",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "12:53",
+            "end": "12:54",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "12:55",
+            "end": "12:57",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "4 hits"
+          },
+          {
+            "start": "12:58",
+            "end": "13:00",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "13:00",
+            "end": "13:02",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "13:02",
+            "end": "13:03",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "13:03",
+            "end": "13:05",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "13:06",
+            "end": "13:06",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "13:07",
+            "end": "13:08",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "6 hits"
+          },
+          {
+            "start": "13:08",
+            "end": "13:09",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "6 hits"
+          },
+          {
+            "start": "13:09",
+            "end": "13:10",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "13:12",
+            "end": "13:12",
             "cat": "admin",
             "src": "chrome",
-            "title": "Workday mq - Sign in to Workday",
-            "note": "url.au.m.mimecastprotect.com"
+            "title": "View Business Process from Notification - Workday",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "13:13",
+            "end": "13:14",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "View Business Process from Notification - Workday",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "13:14",
+            "end": "13:16",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "13:16",
+            "end": "13:17",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "View Business Process from Notification - Workday",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "13:17",
+            "end": "13:17",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "View Business Process from Notification - Workday",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "13:18",
+            "end": "13:19",
+            "cat": "research",
+            "src": "macos",
+            "title": "Optional Skills Catalog | Hermes Agent",
+            "note": "hermes-agent.nousresearch.com"
+          },
+          {
+            "start": "13:20",
+            "end": "13:21",
+            "cat": "research",
+            "src": "macos",
+            "title": "Optional Skills Catalog | Hermes Agent",
+            "note": "hermes-agent.nousresearch.com"
+          },
+          {
+            "start": "13:22",
+            "end": "13:23",
+            "cat": "research",
+            "src": "macos",
+            "title": "Optional Skills Catalog | Hermes Agent",
+            "note": "hermes-agent.nousresearch.com"
+          },
+          {
+            "start": "13:23",
+            "end": "13:24",
+            "cat": "research",
+            "src": "macos",
+            "title": "Optional Skills Catalog | Hermes Agent",
+            "note": "hermes-agent.nousresearch.com"
+          },
+          {
+            "start": "13:25",
+            "end": "13:27",
+            "cat": "coding",
+            "src": "macos",
+            "title": "hermes-agent/run_agent.py at main · NousResearch/hermes-agen",
+            "note": "github.com"
+          },
+          {
+            "start": "13:28",
+            "end": "13:30",
+            "cat": "coding",
+            "src": "macos",
+            "title": "hermes-agent/run_agent.py at main · NousResearch/hermes-agen",
+            "note": "github.com"
+          },
+          {
+            "start": "13:30",
+            "end": "13:31",
+            "cat": "coding",
+            "src": "macos",
+            "title": "hermes-agent/run_agent.py at main · NousResearch/hermes-agen",
+            "note": "github.com"
+          },
+          {
+            "start": "13:32",
+            "end": "13:32",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "13:32",
+            "end": "13:35",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "13:35",
+            "end": "13:36",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "13:36",
+            "end": "13:37",
+            "cat": "research",
+            "src": "macos",
+            "title": "Agent Loop Internals | Hermes Agent",
+            "note": "hermes-agent.nousresearch.com"
+          },
+          {
+            "start": "13:37",
+            "end": "13:37",
+            "cat": "research",
+            "src": "macos",
+            "title": "Agent Loop Internals | Hermes Agent",
+            "note": "hermes-agent.nousresearch.com"
+          },
+          {
+            "start": "13:37",
+            "end": "13:38",
+            "cat": "research",
+            "src": "macos",
+            "title": "Agent Loop Internals | Hermes Agent",
+            "note": "hermes-agent.nousresearch.com"
+          },
+          {
+            "start": "13:39",
+            "end": "13:40",
+            "cat": "research",
+            "src": "macos",
+            "title": "Agent Loop Internals | Hermes Agent",
+            "note": "hermes-agent.nousresearch.com"
+          },
+          {
+            "start": "13:40",
+            "end": "13:41",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "13:41",
+            "end": "13:42",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "13:42",
+            "end": "13:43",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "13:44",
+            "end": "13:46",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Working with Skills | Hermes Agent",
+            "note": "hermes-agent.nousresearch.com"
+          },
+          {
+            "start": "13:46",
+            "end": "13:47",
+            "cat": "research",
+            "src": "macos",
+            "title": "Skills System | Hermes Agent",
+            "note": "hermes-agent.nousresearch.com"
+          },
+          {
+            "start": "13:47",
+            "end": "13:49",
+            "cat": "research",
+            "src": "macos",
+            "title": "Skills System | Hermes Agent",
+            "note": "hermes-agent.nousresearch.com"
+          },
+          {
+            "start": "13:49",
+            "end": "13:51",
+            "cat": "research",
+            "src": "macos",
+            "title": "Skills System | Hermes Agent",
+            "note": "hermes-agent.nousresearch.com"
+          },
+          {
+            "start": "13:51",
+            "end": "13:52",
+            "cat": "research",
+            "src": "macos",
+            "title": "Skills System | Hermes Agent",
+            "note": "hermes-agent.nousresearch.com"
+          },
+          {
+            "start": "13:52",
+            "end": "13:54",
+            "cat": "research",
+            "src": "macos",
+            "title": "Skills System | Hermes Agent",
+            "note": "hermes-agent.nousresearch.com"
+          },
+          {
+            "start": "13:56",
+            "end": "13:58",
+            "cat": "research",
+            "src": "macos",
+            "title": "Skills System | Hermes Agent",
+            "note": "hermes-agent.nousresearch.com"
+          },
+          {
+            "start": "14:01",
+            "end": "14:03",
+            "cat": "research",
+            "src": "macos",
+            "title": "Skills System | Hermes Agent",
+            "note": "hermes-agent.nousresearch.com"
+          },
+          {
+            "start": "14:03",
+            "end": "14:04",
+            "cat": "research",
+            "src": "macos",
+            "title": "Skills System | Hermes Agent",
+            "note": "hermes-agent.nousresearch.com"
+          },
+          {
+            "start": "14:04",
+            "end": "14:06",
+            "cat": "research",
+            "src": "macos",
+            "title": "Skills System | Hermes Agent",
+            "note": "hermes-agent.nousresearch.com"
+          },
+          {
+            "start": "14:06",
+            "end": "14:08",
+            "cat": "research",
+            "src": "macos",
+            "title": "Skills System | Hermes Agent",
+            "note": "hermes-agent.nousresearch.com"
+          },
+          {
+            "start": "14:08",
+            "end": "14:09",
+            "cat": "research",
+            "src": "macos",
+            "title": "Skills System | Hermes Agent",
+            "note": "hermes-agent.nousresearch.com"
+          },
+          {
+            "start": "14:09",
+            "end": "14:10",
+            "cat": "research",
+            "src": "macos",
+            "title": "Skills System | Hermes Agent",
+            "note": "hermes-agent.nousresearch.com"
+          },
+          {
+            "start": "14:10",
+            "end": "14:11",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
+            "note": "google.com"
+          },
+          {
+            "start": "14:13",
+            "end": "14:15",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Academic Dates - Calendar | MQ Sydney",
+            "note": "students.mq.edu.au"
+          },
+          {
+            "start": "14:18",
+            "end": "14:19",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Agent workspace - OpenClaw",
+            "note": "docs.openclaw.ai"
+          },
+          {
+            "start": "14:19",
+            "end": "14:20",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Agent workspace - OpenClaw",
+            "note": "docs.openclaw.ai"
+          },
+          {
+            "start": "14:20",
+            "end": "14:21",
+            "cat": "research",
+            "src": "macos",
+            "title": "openclaw 和 Hermes agent的对比",
+            "note": "perplexity.ai"
+          },
+          {
+            "start": "14:21",
+            "end": "14:22",
+            "cat": "research",
+            "src": "macos",
+            "title": "openclaw 和 Hermes agent的对比",
+            "note": "perplexity.ai"
+          },
+          {
+            "start": "14:22",
+            "end": "14:24",
+            "cat": "research",
+            "src": "macos",
+            "title": "openclaw 和 Hermes agent的对比",
+            "note": "perplexity.ai"
+          },
+          {
+            "start": "14:24",
+            "end": "14:26",
+            "cat": "writing",
+            "src": "macos",
+            "title": "obsidian",
+            "note": "md.obsidian"
+          },
+          {
+            "start": "14:28",
+            "end": "14:29",
+            "cat": "research",
+            "src": "macos",
+            "title": "openclaw 和 Hermes agent的对比",
+            "note": "perplexity.ai"
+          },
+          {
+            "start": "14:29",
+            "end": "14:30",
+            "cat": "research",
+            "src": "macos",
+            "title": "openclaw 和 Hermes agent的对比",
+            "note": "perplexity.ai"
+          },
+          {
+            "start": "14:30",
+            "end": "14:31",
+            "cat": "writing",
+            "src": "macos",
+            "title": "obsidian",
+            "note": "md.obsidian"
+          },
+          {
+            "start": "14:33",
+            "end": "14:34",
+            "cat": "writing",
+            "src": "macos",
+            "title": "obsidian",
+            "note": "md.obsidian"
+          },
+          {
+            "start": "14:34",
+            "end": "14:36",
+            "cat": "writing",
+            "src": "macos",
+            "title": "obsidian",
+            "note": "md.obsidian"
+          },
+          {
+            "start": "14:36",
+            "end": "14:37",
+            "cat": "writing",
+            "src": "macos",
+            "title": "obsidian",
+            "note": "md.obsidian"
+          },
+          {
+            "start": "14:37",
+            "end": "14:38",
+            "cat": "writing",
+            "src": "macos",
+            "title": "obsidian",
+            "note": "md.obsidian"
+          },
+          {
+            "start": "14:38",
+            "end": "14:39",
+            "cat": "writing",
+            "src": "macos",
+            "title": "obsidian",
+            "note": "md.obsidian"
+          },
+          {
+            "start": "14:40",
+            "end": "14:41",
+            "cat": "writing",
+            "src": "macos",
+            "title": "obsidian",
+            "note": "md.obsidian"
+          },
+          {
+            "start": "14:42",
+            "end": "14:42",
+            "cat": "writing",
+            "src": "macos",
+            "title": "obsidian",
+            "note": "md.obsidian"
+          },
+          {
+            "start": "14:42",
+            "end": "14:43",
+            "cat": "research",
+            "src": "macos",
+            "title": "openclaw 和 Hermes agent的对比",
+            "note": "perplexity.ai"
+          },
+          {
+            "start": "14:45",
+            "end": "14:46",
+            "cat": "research",
+            "src": "macos",
+            "title": "openclaw 和 Hermes agent的对比",
+            "note": "perplexity.ai"
+          },
+          {
+            "start": "14:46",
+            "end": "14:48",
+            "cat": "research",
+            "src": "macos",
+            "title": "openclaw 和 Hermes agent的对比",
+            "note": "perplexity.ai"
+          },
+          {
+            "start": "14:49",
+            "end": "14:50",
+            "cat": "writing",
+            "src": "macos",
+            "title": "obsidian",
+            "note": "md.obsidian"
+          },
+          {
+            "start": "14:50",
+            "end": "14:51",
+            "cat": "writing",
+            "src": "macos",
+            "title": "obsidian",
+            "note": "md.obsidian"
+          },
+          {
+            "start": "14:51",
+            "end": "14:53",
+            "cat": "writing",
+            "src": "macos",
+            "title": "obsidian",
+            "note": "md.obsidian"
+          },
+          {
+            "start": "14:53",
+            "end": "14:54",
+            "cat": "writing",
+            "src": "macos",
+            "title": "obsidian",
+            "note": "md.obsidian"
+          },
+          {
+            "start": "14:54",
+            "end": "14:55",
+            "cat": "writing",
+            "src": "macos",
+            "title": "obsidian",
+            "note": "md.obsidian"
+          },
+          {
+            "start": "14:55",
+            "end": "14:56",
+            "cat": "writing",
+            "src": "macos",
+            "title": "obsidian",
+            "note": "md.obsidian"
+          },
+          {
+            "start": "14:58",
+            "end": "14:59",
+            "cat": "writing",
+            "src": "macos",
+            "title": "obsidian",
+            "note": "md.obsidian"
+          },
+          {
+            "start": "14:59",
+            "end": "15:01",
+            "cat": "writing",
+            "src": "macos",
+            "title": "obsidian",
+            "note": "md.obsidian"
+          },
+          {
+            "start": "15:01",
+            "end": "15:01",
+            "cat": "writing",
+            "src": "macos",
+            "title": "obsidian",
+            "note": "md.obsidian"
+          },
+          {
+            "start": "15:03",
+            "end": "15:03",
+            "cat": "writing",
+            "src": "macos",
+            "title": "obsidian",
+            "note": "md.obsidian"
+          },
+          {
+            "start": "15:03",
+            "end": "15:05",
+            "cat": "writing",
+            "src": "macos",
+            "title": "obsidian",
+            "note": "md.obsidian"
+          },
+          {
+            "start": "15:06",
+            "end": "15:07",
+            "cat": "writing",
+            "src": "macos",
+            "title": "obsidian",
+            "note": "md.obsidian"
+          },
+          {
+            "start": "15:07",
+            "end": "15:08",
+            "cat": "writing",
+            "src": "macos",
+            "title": "obsidian",
+            "note": "md.obsidian"
+          },
+          {
+            "start": "15:08",
+            "end": "15:09",
+            "cat": "writing",
+            "src": "macos",
+            "title": "obsidian",
+            "note": "md.obsidian"
+          },
+          {
+            "start": "15:09",
+            "end": "15:10",
+            "cat": "research",
+            "src": "macos",
+            "title": "Skills System | Hermes Agent",
+            "note": "hermes-agent.nousresearch.com"
+          },
+          {
+            "start": "15:11",
+            "end": "15:12",
+            "cat": "research",
+            "src": "macos",
+            "title": "Skills System | Hermes Agent",
+            "note": "hermes-agent.nousresearch.com"
+          },
+          {
+            "start": "15:14",
+            "end": "15:15",
+            "cat": "writing",
+            "src": "macos",
+            "title": "obsidian",
+            "note": "md.obsidian"
+          },
+          {
+            "start": "15:16",
+            "end": "15:17",
+            "cat": "writing",
+            "src": "macos",
+            "title": "obsidian",
+            "note": "md.obsidian"
+          },
+          {
+            "start": "15:19",
+            "end": "15:19",
+            "cat": "writing",
+            "src": "macos",
+            "title": "obsidian",
+            "note": "md.obsidian"
+          },
+          {
+            "start": "15:19",
+            "end": "15:20",
+            "cat": "writing",
+            "src": "macos",
+            "title": "obsidian",
+            "note": "md.obsidian"
+          },
+          {
+            "start": "15:20",
+            "end": "15:21",
+            "cat": "writing",
+            "src": "macos",
+            "title": "obsidian",
+            "note": "md.obsidian"
+          },
+          {
+            "start": "15:22",
+            "end": "15:22",
+            "cat": "writing",
+            "src": "macos",
+            "title": "obsidian",
+            "note": "md.obsidian"
+          },
+          {
+            "start": "15:22",
+            "end": "15:24",
+            "cat": "writing",
+            "src": "macos",
+            "title": "obsidian",
+            "note": "md.obsidian"
+          },
+          {
+            "start": "15:25",
+            "end": "15:27",
+            "cat": "research",
+            "src": "macos",
+            "title": "openclaw 和 Hermes agent的对比",
+            "note": "perplexity.ai"
+          },
+          {
+            "start": "15:27",
+            "end": "15:27",
+            "cat": "research",
+            "src": "macos",
+            "title": "openclaw 和 Hermes agent的对比",
+            "note": "perplexity.ai"
+          },
+          {
+            "start": "15:27",
+            "end": "15:28",
+            "cat": "writing",
+            "src": "macos",
+            "title": "obsidian",
+            "note": "md.obsidian"
+          },
+          {
+            "start": "15:30",
+            "end": "15:32",
+            "cat": "writing",
+            "src": "macos",
+            "title": "obsidian",
+            "note": "md.obsidian"
+          },
+          {
+            "start": "15:32",
+            "end": "15:33",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Memory overview - OpenClaw",
+            "note": "docs.openclaw.ai"
+          },
+          {
+            "start": "15:33",
+            "end": "15:35",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Memory overview - OpenClaw",
+            "note": "docs.openclaw.ai"
+          },
+          {
+            "start": "15:37",
+            "end": "15:38",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Memory overview - OpenClaw",
+            "note": "docs.openclaw.ai"
+          },
+          {
+            "start": "15:38",
+            "end": "15:39",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Memory overview - OpenClaw",
+            "note": "docs.openclaw.ai"
+          },
+          {
+            "start": "15:39",
+            "end": "15:40",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Memory overview - OpenClaw",
+            "note": "docs.openclaw.ai"
+          },
+          {
+            "start": "15:42",
+            "end": "15:42",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Memory overview - OpenClaw",
+            "note": "docs.openclaw.ai"
+          },
+          {
+            "start": "15:43",
+            "end": "15:44",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Memory overview - OpenClaw",
+            "note": "docs.openclaw.ai"
+          },
+          {
+            "start": "15:44",
+            "end": "15:45",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Memory overview - OpenClaw",
+            "note": "docs.openclaw.ai"
+          },
+          {
+            "start": "15:45",
+            "end": "15:46",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Memory overview - OpenClaw",
+            "note": "docs.openclaw.ai"
+          },
+          {
+            "start": "15:46",
+            "end": "15:46",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Memory overview - OpenClaw",
+            "note": "docs.openclaw.ai"
+          },
+          {
+            "start": "15:48",
+            "end": "15:48",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Memory overview - OpenClaw",
+            "note": "docs.openclaw.ai"
+          },
+          {
+            "start": "15:49",
+            "end": "15:50",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Memory overview - OpenClaw",
+            "note": "docs.openclaw.ai"
+          },
+          {
+            "start": "15:50",
+            "end": "15:51",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Memory overview - OpenClaw",
+            "note": "docs.openclaw.ai"
+          },
+          {
+            "start": "15:53",
+            "end": "15:53",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Memory overview - OpenClaw",
+            "note": "docs.openclaw.ai"
+          },
+          {
+            "start": "15:54",
+            "end": "15:55",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Memory overview - OpenClaw",
+            "note": "docs.openclaw.ai"
+          },
+          {
+            "start": "15:55",
+            "end": "15:56",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "15:56",
+            "end": "15:57",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Preview question: DEMO KNN Distance: Euclidean distance (Q3)",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "15:58",
+            "end": "16:10",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Excel",
+            "note": "com.microsoft.Excel"
+          },
+          {
+            "start": "16:10",
+            "end": "16:16",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Preview question: DEMO KNN Distance: Euclidean distance (Q3)",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "16:19",
+            "end": "16:30",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Preview question: DEMO Q1 KNN Orange Operation | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "16:30",
+            "end": "16:47",
+            "cat": "research",
+            "src": "macos",
+            "title": "CN2 algorithm - Wikipedia",
+            "note": "en.wikipedia.org"
+          },
+          {
+            "start": "16:47",
+            "end": "16:50",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Preview question: DEMO Result explanation 1 | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "16:50",
+            "end": "16:57",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:57",
+            "end": "16:58",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Preview question: DEMO Result explanation 1 | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "16:59",
+            "end": "17:04",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "17:05",
+            "end": "17:08",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "17:09",
+            "end": "17:09",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute",
+            "note": "openrouter.ai"
+          },
+          {
+            "start": "17:10",
+            "end": "17:11",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "17:11",
+            "end": "17:12",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "17:12",
+            "end": "17:13",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "17:13",
+            "end": "17:13",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "17:15",
+            "end": "17:16",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "17:17",
+            "end": "17:18",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "17:18",
+            "end": "17:19",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute",
+            "note": "openrouter.ai"
+          },
+          {
+            "start": "17:20",
+            "end": "17:21",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute",
+            "note": "openrouter.ai"
+          },
+          {
+            "start": "17:23",
+            "end": "17:24",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute",
+            "note": "openrouter.ai"
+          },
+          {
+            "start": "17:24",
+            "end": "17:25",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute",
+            "note": "openrouter.ai"
+          },
+          {
+            "start": "17:25",
+            "end": "17:25",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "17:25",
+            "end": "17:27",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "18:51",
+            "end": "18:58",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "18:58",
+            "end": "19:07",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Workspace Overview | Settings | OpenRouter",
+            "note": "openrouter.ai"
+          },
+          {
+            "start": "19:07",
+            "end": "19:07",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "19:07",
+            "end": "19:08",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "19:08",
+            "end": "19:10",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "19:10",
+            "end": "19:11",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "19:11",
+            "end": "19:12",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "19:13",
+            "end": "19:14",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Workspace Overview | Settings | OpenRouter",
+            "note": "openrouter.ai"
+          },
+          {
+            "start": "19:15",
+            "end": "19:16",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Workspace Overview | Settings | OpenRouter",
+            "note": "openrouter.ai"
+          },
+          {
+            "start": "19:16",
+            "end": "19:16",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Workspace Overview | Settings | OpenRouter",
+            "note": "openrouter.ai"
+          },
+          {
+            "start": "19:18",
+            "end": "19:19",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "19:21",
+            "end": "19:22",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "19:24",
+            "end": "19:24",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "19:27",
+            "end": "19:28",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "19:30",
+            "end": "19:31",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "19:33",
+            "end": "19:34",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "19:35",
+            "end": "19:36",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "19:38",
+            "end": "19:39",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "19:40",
+            "end": "19:41",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "19:42",
+            "end": "19:43",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "19:43",
+            "end": "19:44",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "19:45",
+            "end": "19:46",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "19:47",
+            "end": "19:48",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "19:48",
+            "end": "19:49",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "19:50",
+            "end": "19:51",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "19:52",
+            "end": "19:52",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "19:52",
+            "end": "19:53",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "19:53",
+            "end": "19:54",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "19:54",
+            "end": "19:55",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "19:55",
+            "end": "19:57",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "19:59",
+            "end": "20:00",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "20:00",
+            "end": "20:02",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "20:05",
+            "end": "20:06",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "20:06",
+            "end": "20:08",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "20:08",
+            "end": "20:08",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "20:08",
+            "end": "20:09",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "20:09",
+            "end": "20:10",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Partnering with CodeAI to prepare the first AI generation | ",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "20:11",
+            "end": "20:13",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Partnering with CodeAI to prepare the first AI generation | ",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "20:13",
+            "end": "20:13",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Partnering with CodeAI to prepare the first AI generation | ",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "20:13",
+            "end": "20:14",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Partnering with CodeAI to prepare the first AI generation | ",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "20:14",
+            "end": "20:15",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Partnering with CodeAI to prepare the first AI generation | ",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "20:16",
+            "end": "20:25",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Partnering with CodeAI to prepare the first AI generation | ",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "20:25",
+            "end": "20:26",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Partnering with CodeAI to prepare the first AI generation | ",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "20:26",
+            "end": "20:26",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Partnering with CodeAI to prepare the first AI generation | ",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "20:26",
+            "end": "20:27",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Partnering with CodeAI to prepare the first AI generation | ",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "20:27",
+            "end": "20:28",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Partnering with CodeAI to prepare the first AI generation | ",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "20:28",
+            "end": "20:29",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Partnering with CodeAI to prepare the first AI generation | ",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "20:31",
+            "end": "20:31",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Partnering with CodeAI to prepare the first AI generation | ",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "20:32",
+            "end": "20:32",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Partnering with CodeAI to prepare the first AI generation | ",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "20:32",
+            "end": "20:33",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Partnering with CodeAI to prepare the first AI generation | ",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "20:33",
+            "end": "20:34",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Partnering with CodeAI to prepare the first AI generation | ",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "20:36",
+            "end": "20:36",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Partnering with CodeAI to prepare the first AI generation | ",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "20:38",
+            "end": "20:38",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Preview question: Decision Tree Feature Importance 1 | iLear",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "20:38",
+            "end": "20:39",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Preview question: Decision Tree Feature Importance 1 | iLear",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "20:40",
+            "end": "20:40",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Preview question: Decision Tree Feature Importance 1 | iLear",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "20:40",
+            "end": "20:41",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Preview question: Decision Tree Feature Importance 1 | iLear",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "20:43",
+            "end": "20:44",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Preview question: Decision Tree Feature Importance 1 | iLear",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "20:44",
+            "end": "20:44",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Preview question: Decision Tree Feature Importance 1 | iLear",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "20:45",
+            "end": "20:45",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Preview question: Decision Tree Feature Importance 1 | iLear",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "20:45",
+            "end": "20:46",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Preview question: Decision Tree Feature Importance 1 | iLear",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "20:47",
+            "end": "20:47",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Preview question: Decision Tree Feature Importance 1 | iLear",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "20:49",
+            "end": "20:49",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Preview question: Decision Tree Feature Importance 1 | iLear",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "20:49",
+            "end": "20:50",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Preview question: Decision Tree Feature Importance 1 | iLear",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "20:50",
+            "end": "20:51",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Preview question: Decision Tree Feature Importance 1 | iLear",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "20:53",
+            "end": "20:54",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Preview question: Decision Tree Feature Importance 1 | iLear",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "20:54",
+            "end": "20:55",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Preview question: Decision Tree Feature Importance 1 | iLear",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "20:56",
+            "end": "20:57",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Preview question: Decision Tree Feature Importance 1 | iLear",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "20:59",
+            "end": "21:00",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Preview question: Decision Tree Feature Importance 1 | iLear",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "21:01",
+            "end": "21:01",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Preview question: Decision Tree Feature Importance 1 | iLear",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "21:01",
+            "end": "21:02",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Preview question: Decision Tree Feature Importance 1 | iLear",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "21:02",
+            "end": "21:03",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Preview question: Decision Tree Feature Importance 1 | iLear",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "21:05",
+            "end": "21:06",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Preview question: Decision Tree Feature Importance 1 | iLear",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "21:06",
+            "end": "21:07",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Preview question: Decision Tree Feature Importance 1 | iLear",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "21:07",
+            "end": "21:08",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Preview question: Decision Tree Feature Importance 1 | iLear",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "21:11",
+            "end": "21:12",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "DecisionTreeRegressor — scikit-learn 1.9.0 documentation",
+            "note": "scikit-learn.org"
+          },
+          {
+            "start": "21:13",
+            "end": "21:13",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "DecisionTreeRegressor — scikit-learn 1.9.0 documentation",
+            "note": "scikit-learn.org"
+          },
+          {
+            "start": "21:15",
+            "end": "21:16",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "DecisionTreeRegressor — scikit-learn 1.9.0 documentation",
+            "note": "scikit-learn.org"
+          },
+          {
+            "start": "21:18",
+            "end": "21:18",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "DecisionTreeRegressor — scikit-learn 1.9.0 documentation",
+            "note": "scikit-learn.org"
+          },
+          {
+            "start": "21:18",
+            "end": "21:19",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "DecisionTreeRegressor — scikit-learn 1.9.0 documentation",
+            "note": "scikit-learn.org"
+          },
+          {
+            "start": "21:20",
+            "end": "21:21",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Preview question: Decision Tree Feature Importance 1 | iLear",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "21:22",
+            "end": "21:30",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Preview question: Decision Tree Feature Importance 1 | iLear",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "21:30",
+            "end": "21:50",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Colab  |  Google for Developers",
+            "note": "colab.google"
+          },
+          {
+            "start": "21:50",
+            "end": "22:00",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Preview question: Evaluation Measure | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "22:08",
+            "end": "22:41",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Preview question: DEMO Result explanation 4 | iLearn",
+            "note": "ilearn.mq.edu.au"
           }
         ],
-        "logged": 26,
-        "real": 20,
-        "deep": 20,
-        "ratio": 0.7606198986253405,
+        "logged": 487,
+        "real": 362,
+        "deep": 362,
+        "ratio": 0.7435332898785116,
         "stats": {
-          "contextSwitches": 1,
-          "tabsOpened": 6,
-          "longestFocus": "20m",
-          "justOneMoreThing": 0
+          "contextSwitches": 63,
+          "tabsOpened": 240,
+          "longestFocus": "1h 28m",
+          "justOneMoreThing": 6
         }
       },
       {
@@ -60538,17 +62842,26 @@
         "weekend": false,
         "dateShort": "Thu, Aug 20",
         "dateLong": "Thursday, August 20",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "10:17",
+        "dayEnd": "10:22",
+        "events": [
+          {
+            "start": "10:17",
+            "end": "10:22",
+            "cat": "writing",
+            "src": "local",
+            "title": "2026-08-19-replit.md",
+            "note": "3 hits"
+          }
+        ],
+        "logged": 5,
+        "real": 5,
+        "deep": 5,
+        "ratio": 1.0,
         "stats": {
           "contextSwitches": 0,
           "tabsOpened": 0,
-          "longestFocus": "0m",
+          "longestFocus": "5m",
           "justOneMoreThing": 0
         }
       },
@@ -70745,1416 +73058,1416 @@
       "weekend": true
     },
     {
-      "key": "2026-8-17",
-      "dayNum": 17,
-      "dow": 1,
-      "weekend": false,
-      "dateShort": "Mon, Aug 17",
       "dateLong": "Monday, August 17",
-      "dayStart": "09:56",
+      "dateShort": "Mon, Aug 17",
       "dayEnd": "00:50",
+      "dayNum": 17,
+      "dayStart": "09:56",
+      "deep": 270,
+      "dow": 1,
       "events": [
         {
-          "start": "09:56",
+          "cat": "research",
           "end": "09:57",
-          "cat": "research",
+          "note": "deepseek.com",
           "src": "macos",
-          "title": "deepseek.com/harness/",
-          "note": "deepseek.com"
+          "start": "09:56",
+          "title": "deepseek.com/harness/"
         },
         {
-          "start": "09:57",
+          "cat": "personal",
           "end": "10:02",
-          "cat": "personal",
+          "note": "x.com",
           "src": "macos",
-          "title": "主页 / X",
-          "note": "x.com"
+          "start": "09:57",
+          "title": "主页 / X"
         },
         {
-          "start": "10:02",
+          "cat": "meeting",
           "end": "10:06",
-          "cat": "meeting",
+          "note": "com.microsoft.teams2",
           "src": "macos",
-          "title": "teams2",
-          "note": "com.microsoft.teams2"
+          "start": "10:02",
+          "title": "teams2"
         },
         {
-          "start": "10:06",
+          "cat": "personal",
           "end": "10:09",
-          "cat": "personal",
+          "note": "x.com",
           "src": "chrome",
-          "title": "主页 / X",
-          "note": "x.com"
+          "start": "10:06",
+          "title": "主页 / X"
         },
         {
-          "start": "10:09",
+          "cat": "meeting",
           "end": "10:11",
-          "cat": "meeting",
+          "note": "com.microsoft.teams2",
           "src": "macos",
-          "title": "teams2",
-          "note": "com.microsoft.teams2"
+          "start": "10:09",
+          "title": "teams2"
         },
         {
-          "start": "10:11",
+          "cat": "personal",
           "end": "10:14",
-          "cat": "personal",
+          "note": "x.com",
           "src": "macos",
-          "title": "主页 / X",
-          "note": "x.com"
+          "start": "10:11",
+          "title": "主页 / X"
         },
         {
-          "start": "10:14",
+          "cat": "meeting",
           "end": "10:17",
-          "cat": "meeting",
+          "note": "com.microsoft.teams2",
           "src": "macos",
-          "title": "teams2",
-          "note": "com.microsoft.teams2"
+          "start": "10:14",
+          "title": "teams2"
         },
         {
-          "start": "10:17",
+          "cat": "admin",
           "end": "10:35",
-          "cat": "admin",
+          "note": "content.ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Week 4 Prac - Data Science Ethics",
-          "note": "content.ilearn.mq.edu.au"
+          "start": "10:17",
+          "title": "Week 4 Prac - Data Science Ethics"
         },
         {
-          "start": "10:35",
+          "cat": "admin",
           "end": "10:40",
-          "cat": "admin",
+          "note": "content.ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Week 4 Prac - Data Science Ethics",
-          "note": "content.ilearn.mq.edu.au"
+          "start": "10:35",
+          "title": "Week 4 Prac - Data Science Ethics"
         },
         {
-          "start": "10:40",
-          "end": "10:46",
           "cat": "meeting",
+          "end": "10:46",
+          "note": "com.microsoft.teams2",
           "src": "macos",
-          "title": "teams2",
-          "note": "com.microsoft.teams2"
+          "start": "10:40",
+          "title": "teams2"
         },
         {
-          "start": "10:46",
+          "cat": "admin",
           "end": "10:47",
-          "cat": "admin",
+          "note": "content.ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Week 4 Prac - Data Science Ethics",
-          "note": "content.ilearn.mq.edu.au"
+          "start": "10:46",
+          "title": "Week 4 Prac - Data Science Ethics"
         },
         {
-          "start": "10:47",
+          "cat": "admin",
           "end": "11:14",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "chrome",
-          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "10:47",
+          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn"
         },
         {
-          "start": "11:22",
+          "cat": "admin",
           "end": "11:27",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "11:22",
+          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn"
         },
         {
-          "start": "11:45",
+          "cat": "admin",
           "end": "11:53",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "11:45",
+          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn"
         },
         {
-          "start": "11:56",
+          "cat": "admin",
           "end": "12:00",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "11:56",
+          "title": "Outlook"
         },
         {
-          "start": "12:01",
+          "cat": "admin",
           "end": "12:02",
-          "cat": "admin",
+          "note": "com.tinyspeck.slackmacgap",
           "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "start": "12:01",
+          "title": "slackmacgap"
         },
         {
-          "start": "12:02",
+          "cat": "admin",
           "end": "12:29",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Announcements | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "12:02",
+          "title": "Announcements | iLearn"
         },
         {
-          "start": "12:37",
+          "cat": "admin",
           "end": "12:43",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Announcements | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "12:37",
+          "title": "Announcements | iLearn"
         },
         {
-          "start": "12:43",
+          "cat": "writing",
           "end": "13:03",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Progress Updates - Google Sheets",
-          "note": "docs.google.com"
+          "start": "12:43",
+          "title": "Progress Updates - Google Sheets"
         },
         {
-          "start": "13:33",
+          "cat": "admin",
           "end": "13:37",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "13:33",
+          "title": "Outlook"
         },
         {
-          "start": "13:37",
+          "cat": "writing",
           "end": "13:43",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Progress Updates - Google Sheets",
-          "note": "docs.google.com"
+          "start": "13:37",
+          "title": "Progress Updates - Google Sheets"
         },
         {
-          "start": "13:43",
+          "cat": "admin",
           "end": "13:50",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "13:43",
+          "title": "Outlook"
         },
         {
-          "start": "13:51",
+          "cat": "admin",
           "end": "13:53",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "13:51",
+          "title": "Outlook"
         },
         {
-          "start": "13:55",
+          "cat": "admin",
           "end": "14:08",
-          "cat": "admin",
+          "note": "com.tinyspeck.slackmacgap",
           "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "start": "13:55",
+          "title": "slackmacgap"
         },
         {
-          "start": "14:08",
+          "cat": "admin",
           "end": "14:11",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "14:08",
+          "title": "Outlook"
         },
         {
-          "start": "14:11",
+          "cat": "research",
           "end": "14:14",
-          "cat": "research",
+          "note": "tylervigen.com",
           "src": "macos",
-          "title": "Spurious Correlations",
-          "note": "tylervigen.com"
+          "start": "14:11",
+          "title": "Spurious Correlations"
         },
         {
-          "start": "14:14",
+          "cat": "admin",
           "end": "14:32",
-          "cat": "admin",
+          "note": "content.ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Week 4 Prac - Data Science Ethics",
-          "note": "content.ilearn.mq.edu.au"
+          "start": "14:14",
+          "title": "Week 4 Prac - Data Science Ethics"
         },
         {
-          "start": "14:32",
+          "cat": "admin",
           "end": "14:37",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "macos",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "14:32",
+          "title": "Google Translate"
         },
         {
-          "start": "14:37",
+          "cat": "admin",
           "end": "14:42",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "14:37",
+          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn"
         },
         {
-          "start": "14:42",
+          "cat": "admin",
           "end": "14:43",
-          "cat": "admin",
+          "note": "content.ilearn.mq.edu.au",
           "src": "chrome",
-          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
-          "note": "content.ilearn.mq.edu.au"
+          "start": "14:42",
+          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn"
         },
         {
-          "start": "14:43",
+          "cat": "personal",
           "end": "14:48",
-          "cat": "personal",
+          "note": "x.com",
           "src": "macos",
-          "title": "主页 / X",
-          "note": "x.com"
+          "start": "14:43",
+          "title": "主页 / X"
         },
         {
-          "start": "14:48",
+          "cat": "coding",
           "end": "14:50",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "14:48",
+          "title": "codex"
         },
         {
-          "start": "14:50",
+          "cat": "admin",
           "end": "14:59",
-          "cat": "admin",
+          "note": "content.ilearn.mq.edu.au",
           "src": "chrome",
-          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
-          "note": "content.ilearn.mq.edu.au"
+          "start": "14:50",
+          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn"
         },
         {
-          "start": "14:59",
+          "cat": "personal",
           "end": "15:03",
-          "cat": "personal",
+          "note": "x.com",
           "src": "chrome",
-          "title": "X 上的 Yann LeCun：“Only in America. Tired of winning?” / X",
-          "note": "x.com"
+          "start": "14:59",
+          "title": "X 上的 Yann LeCun：“Only in America. Tired of winning?” / X"
         },
         {
-          "start": "15:14",
+          "cat": "personal",
           "end": "15:16",
-          "cat": "personal",
+          "note": "x.com",
           "src": "macos",
-          "title": "主页 / X",
-          "note": "x.com"
+          "start": "15:14",
+          "title": "主页 / X"
         },
         {
-          "start": "15:16",
+          "cat": "admin",
           "end": "15:21",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "15:16",
+          "title": "Outlook"
         },
         {
-          "start": "15:21",
+          "cat": "coding",
           "end": "15:27",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "15:21",
+          "title": "codex"
         },
         {
-          "start": "15:27",
+          "cat": "admin",
           "end": "15:29",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "chrome",
-          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Extra Support: Unit S",
-          "note": "ilearn.mq.edu.au"
+          "start": "15:27",
+          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Extra Support: Unit S"
         },
         {
-          "start": "15:29",
+          "cat": "admin",
           "end": "15:31",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "15:29",
+          "title": "Outlook"
         },
         {
-          "start": "15:31",
+          "cat": "admin",
           "end": "15:33",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "chrome",
-          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Extra Support: Unit S",
-          "note": "ilearn.mq.edu.au"
+          "start": "15:31",
+          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Extra Support: Unit S"
         },
         {
-          "start": "15:33",
+          "cat": "personal",
           "end": "15:34",
-          "cat": "personal",
+          "note": "x.com",
           "src": "macos",
-          "title": "X 上的 Peter Yang：“Ten minutes of talking gives Riley 80% of t",
-          "note": "x.com"
+          "start": "15:33",
+          "title": "X 上的 Peter Yang：“Ten minutes of talking gives Riley 80% of t"
         },
         {
-          "start": "15:34",
+          "cat": "coding",
           "end": "15:38",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "15:34",
+          "title": "VSCode"
         },
         {
-          "start": "15:38",
+          "cat": "admin",
           "end": "15:46",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "chrome",
-          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Extra Support: Unit S",
-          "note": "ilearn.mq.edu.au"
+          "start": "15:38",
+          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Extra Support: Unit S"
         },
         {
-          "start": "15:46",
+          "cat": "admin",
           "end": "15:48",
-          "cat": "admin",
+          "note": "com.microsoft.Excel",
           "src": "macos",
-          "title": "Excel",
-          "note": "com.microsoft.Excel"
+          "start": "15:46",
+          "title": "Excel"
         },
         {
-          "start": "15:49",
+          "cat": "coding",
           "end": "16:09",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "15:49",
+          "title": "VSCode"
         },
         {
-          "start": "16:09",
+          "cat": "coding",
           "end": "16:13",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "16:09",
+          "title": "VSCode"
         },
         {
-          "start": "16:13",
+          "cat": "coding",
           "end": "16:14",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "16:13",
+          "title": "VSCode"
         },
         {
-          "start": "16:15",
+          "cat": "coding",
           "end": "16:16",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "16:15",
+          "title": "VSCode"
         },
         {
-          "start": "16:16",
+          "cat": "coding",
           "end": "16:18",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "16:16",
+          "title": "VSCode"
         },
         {
-          "start": "16:18",
+          "cat": "coding",
           "end": "16:20",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "16:18",
+          "title": "VSCode"
         },
         {
-          "start": "16:20",
+          "cat": "coding",
           "end": "16:21",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "16:20",
+          "title": "VSCode"
         },
         {
-          "start": "16:21",
+          "cat": "coding",
           "end": "16:24",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "16:21",
+          "title": "VSCode"
         },
         {
-          "start": "16:24",
+          "cat": "coding",
           "end": "16:25",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "16:24",
+          "title": "VSCode"
         },
         {
-          "start": "16:25",
+          "cat": "coding",
           "end": "16:28",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "16:25",
+          "title": "VSCode"
         },
         {
-          "start": "16:28",
+          "cat": "admin",
           "end": "16:29",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "16:28",
+          "title": "Outlook"
         },
         {
-          "start": "16:29",
+          "cat": "admin",
           "end": "16:53",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "16:29",
+          "title": "Outlook"
         },
         {
-          "start": "16:54",
+          "cat": "admin",
           "end": "16:55",
-          "cat": "admin",
+          "note": "outlook.office.com",
           "src": "chrome",
-          "title": "Mail - COMP2200/6200 Unit Support - Outlook",
-          "note": "outlook.office.com"
+          "start": "16:54",
+          "title": "Mail - COMP2200/6200 Unit Support - Outlook"
         },
         {
-          "start": "16:55",
+          "cat": "coding",
           "end": "16:57",
-          "cat": "coding",
+          "note": "support.office.com",
           "src": "chrome",
-          "title": "Open a shared Mail, Calendar or People folder in Outlook for",
-          "note": "support.office.com"
+          "start": "16:55",
+          "title": "Open a shared Mail, Calendar or People folder in Outlook for"
         },
         {
-          "start": "16:57",
+          "cat": "admin",
           "end": "16:59",
-          "cat": "admin",
+          "note": "outlook.cloud.microsoft",
           "src": "macos",
-          "title": "Mail - COMP2200/6200 Unit Support - Outlook",
-          "note": "outlook.cloud.microsoft"
+          "start": "16:57",
+          "title": "Mail - COMP2200/6200 Unit Support - Outlook"
         },
         {
-          "start": "16:59",
+          "cat": "admin",
           "end": "17:13",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Machine Learning Project (page 1 of 7) | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "16:59",
+          "title": "Machine Learning Project (page 1 of 7) | iLearn"
         },
         {
-          "start": "17:14",
+          "cat": "writing",
           "end": "17:33",
-          "cat": "writing",
+          "note": "excalidraw.com",
           "src": "macos",
-          "title": "Excalidraw Whiteboard",
-          "note": "excalidraw.com"
+          "start": "17:14",
+          "title": "Excalidraw Whiteboard"
         },
         {
-          "start": "17:34",
+          "cat": "admin",
           "end": "17:54",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "ghibli - Google Search",
-          "note": "google.com"
+          "start": "17:34",
+          "title": "ghibli - Google Search"
         },
         {
-          "start": "17:55",
+          "cat": "admin",
           "end": "18:00",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "ghibli - Google Search",
-          "note": "google.com"
+          "start": "17:55",
+          "title": "ghibli - Google Search"
         },
         {
-          "start": "18:06",
+          "cat": "admin",
           "end": "18:13",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "ghibli - Google Search",
-          "note": "google.com"
+          "start": "18:06",
+          "title": "ghibli - Google Search"
         },
         {
-          "start": "18:13",
+          "cat": "admin",
           "end": "18:40",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "开盒 english explaination - Google Search",
-          "note": "google.com"
+          "start": "18:13",
+          "title": "开盒 english explaination - Google Search"
         },
         {
-          "start": "18:40",
+          "cat": "admin",
           "end": "18:45",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "chrome",
-          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "18:40",
+          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn"
         },
         {
-          "start": "18:45",
+          "cat": "admin",
           "end": "18:50",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Machine Learning Project (page 1 of 7) | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "18:45",
+          "title": "Machine Learning Project (page 1 of 7) | iLearn"
         },
         {
-          "start": "18:50",
+          "cat": "coding",
           "end": "18:54",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "18:50",
+          "title": "VSCode"
         },
         {
-          "start": "18:54",
+          "cat": "admin",
           "end": "19:09",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "chrome",
-          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "18:54",
+          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn"
         },
         {
-          "start": "19:35",
+          "cat": "coding",
           "end": "19:41",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "19:35",
+          "title": "VSCode"
         },
         {
-          "start": "19:43",
+          "cat": "writing",
           "end": "19:46",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "b2a9qqwi4.txt",
-          "note": "3 hits"
+          "start": "19:43",
+          "title": "b2a9qqwi4.txt"
         },
         {
-          "start": "19:49",
+          "cat": "coding",
           "end": "19:54",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "19:49",
+          "title": "VSCode"
         },
         {
-          "start": "20:18",
+          "cat": "coding",
           "end": "20:20",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "20:18",
+          "title": "VSCode"
         },
         {
-          "start": "20:21",
+          "cat": "coding",
           "end": "20:25",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "20:21",
+          "title": "VSCode"
         },
         {
-          "start": "21:13",
+          "cat": "coding",
           "end": "21:18",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "21:13",
+          "title": "VSCode"
         },
         {
-          "start": "21:19",
+          "cat": "writing",
           "end": "21:22",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "21:19",
+          "title": "claude-code.txt"
         },
         {
-          "start": "21:22",
+          "cat": "writing",
           "end": "21:23",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "21:22",
+          "title": "claude-code.txt"
         },
         {
-          "start": "21:23",
+          "cat": "coding",
           "end": "21:24",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "21:23",
+          "title": "VSCode"
         },
         {
-          "start": "21:24",
+          "cat": "coding",
           "end": "21:26",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "21:24",
+          "title": "VSCode"
         },
         {
-          "start": "21:26",
+          "cat": "coding",
           "end": "21:27",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "21:26",
+          "title": "VSCode"
         },
         {
-          "start": "21:27",
+          "cat": "coding",
           "end": "21:30",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "21:27",
+          "title": "VSCode"
         },
         {
-          "start": "21:30",
+          "cat": "coding",
           "end": "21:31",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "21:30",
+          "title": "VSCode"
         },
         {
-          "start": "21:31",
+          "cat": "coding",
           "end": "21:32",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "21:31",
+          "title": "VSCode"
         },
         {
-          "start": "21:33",
+          "cat": "admin",
           "end": "21:35",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "21:33",
+          "title": "Outlook"
         },
         {
-          "start": "21:35",
+          "cat": "admin",
           "end": "21:38",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "21:35",
+          "title": "Outlook"
         },
         {
-          "start": "21:38",
+          "cat": "admin",
           "end": "21:48",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "21:38",
+          "title": "Outlook"
         },
         {
-          "start": "21:48",
+          "cat": "admin",
           "end": "21:50",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "21:48",
+          "title": "Outlook"
         },
         {
+          "cat": "research",
+          "end": "21:52",
+          "note": "deepseek.com",
+          "src": "macos",
           "start": "21:50",
-          "end": "21:52",
-          "cat": "research",
-          "src": "macos",
-          "title": "deepseek.com/harness/",
-          "note": "deepseek.com"
+          "title": "deepseek.com/harness/"
         },
         {
-          "start": "21:52",
-          "end": "21:52",
           "cat": "admin",
+          "end": "21:52",
+          "note": "accounts.google.com",
           "src": "chrome",
-          "title": "Microsoft apps & services wants access to your Google Accoun",
-          "note": "accounts.google.com"
-        },
-        {
           "start": "21:52",
-          "end": "21:55",
+          "title": "Microsoft apps & services wants access to your Google Accoun"
+        },
+        {
           "cat": "research",
+          "end": "21:55",
+          "note": "deepseek.com",
           "src": "macos",
-          "title": "deepseek.com/harness/",
-          "note": "deepseek.com"
+          "start": "21:52",
+          "title": "deepseek.com/harness/"
         },
         {
-          "start": "21:55",
+          "cat": "coding",
           "end": "22:00",
-          "cat": "coding",
+          "note": "github.com",
           "src": "macos",
-          "title": "paper/paper.pdf at main · cordiverse/paper",
-          "note": "github.com"
+          "start": "21:55",
+          "title": "paper/paper.pdf at main · cordiverse/paper"
         },
         {
-          "start": "22:01",
+          "cat": "personal",
           "end": "22:28",
-          "cat": "personal",
+          "note": "amazon.com.au",
           "src": "macos",
-          "title": "Amazon Sign In",
-          "note": "amazon.com.au"
+          "start": "22:01",
+          "title": "Amazon Sign In"
         },
         {
-          "start": "22:39",
+          "cat": "personal",
           "end": "22:42",
-          "cat": "personal",
+          "note": "amazon.com.au",
           "src": "macos",
-          "title": "Amazon Sign In",
-          "note": "amazon.com.au"
+          "start": "22:39",
+          "title": "Amazon Sign In"
         },
         {
-          "start": "22:43",
+          "cat": "coding",
           "end": "23:01",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "22:43",
+          "title": "VSCode"
         },
         {
-          "start": "23:08",
+          "cat": "coding",
           "end": "23:19",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "23:08",
+          "title": "VSCode"
         },
         {
-          "start": "23:37",
-          "end": "00:50",
           "cat": "coding",
+          "end": "00:50",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "23:37",
+          "title": "VSCode"
         }
       ],
+      "key": "2026-8-17",
       "logged": 655,
-      "real": 270,
-      "deep": 270,
       "ratio": 0.41285848661417823,
+      "real": 270,
       "stats": {
         "contextSwitches": 45,
-        "tabsOpened": 39,
+        "justOneMoreThing": 5,
         "longestFocus": "1h 41m",
-        "justOneMoreThing": 5
-      }
+        "tabsOpened": 39
+      },
+      "weekend": false
     },
     {
-      "key": "2026-8-18",
-      "dayNum": 18,
-      "dow": 2,
-      "weekend": false,
-      "dateShort": "Tue, Aug 18",
       "dateLong": "Tuesday, August 18",
-      "dayStart": "10:01",
+      "dateShort": "Tue, Aug 18",
       "dayEnd": "22:20",
+      "dayNum": 18,
+      "dayStart": "10:01",
+      "deep": 371,
+      "dow": 2,
       "events": [
         {
-          "start": "10:01",
+          "cat": "writing",
           "end": "10:07",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "2026-08-17-the-defenders-window.md",
-          "note": "3 hits"
+          "start": "10:01",
+          "title": "2026-08-17-the-defenders-window.md"
         },
         {
-          "start": "10:23",
+          "cat": "coding",
           "end": "10:33",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "10:23",
+          "title": "VSCode"
         },
         {
-          "start": "10:33",
+          "cat": "coding",
           "end": "10:38",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "10:33",
+          "title": "VSCode"
         },
         {
-          "start": "10:38",
+          "cat": "admin",
           "end": "10:42",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "10:38",
+          "title": "Outlook"
         },
         {
-          "start": "10:42",
+          "cat": "coding",
           "end": "10:56",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "10:42",
+          "title": "VSCode"
         },
         {
-          "start": "10:56",
+          "cat": "admin",
           "end": "10:57",
-          "cat": "admin",
+          "note": "mail.google.com",
           "src": "chrome",
-          "title": "Women's Scuba Mid-Rise Wide-Leg Pants Asia Fit in Ultra Ligh",
-          "note": "mail.google.com"
+          "start": "10:56",
+          "title": "Women's Scuba Mid-Rise Wide-Leg Pants Asia Fit in Ultra Ligh"
         },
         {
-          "start": "10:57",
+          "cat": "coding",
           "end": "11:01",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "10:57",
+          "title": "VSCode"
         },
         {
-          "start": "11:01",
+          "cat": "admin",
           "end": "11:06",
-          "cat": "admin",
+          "note": "mail.google.com",
           "src": "chrome",
-          "title": "Women's Scuba Mid-Rise Wide-Leg Pants Asia Fit in Ultra Ligh",
-          "note": "mail.google.com"
+          "start": "11:01",
+          "title": "Women's Scuba Mid-Rise Wide-Leg Pants Asia Fit in Ultra Ligh"
         },
         {
-          "start": "11:06",
+          "cat": "coding",
           "end": "12:00",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "11:06",
+          "title": "VSCode"
         },
         {
-          "start": "12:03",
+          "cat": "coding",
           "end": "12:17",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "12:03",
+          "title": "VSCode"
         },
         {
-          "start": "12:58",
+          "cat": "coding",
           "end": "13:03",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "12:58",
+          "title": "VSCode"
         },
         {
-          "start": "13:04",
+          "cat": "meeting",
           "end": "13:24",
-          "cat": "meeting",
+          "note": "us.zoom.xos",
           "src": "macos",
-          "title": "xos",
-          "note": "us.zoom.xos"
+          "start": "13:04",
+          "title": "xos"
         },
         {
-          "start": "13:51",
+          "cat": "meeting",
           "end": "13:58",
-          "cat": "meeting",
+          "note": "us.zoom.xos",
           "src": "macos",
-          "title": "xos",
-          "note": "us.zoom.xos"
+          "start": "13:51",
+          "title": "xos"
         },
         {
-          "start": "13:58",
+          "cat": "admin",
           "end": "14:00",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "13:58",
+          "title": "Outlook"
         },
         {
-          "start": "14:01",
+          "cat": "meeting",
           "end": "14:12",
-          "cat": "meeting",
+          "note": "macquarie.zoom.us",
           "src": "macos",
-          "title": "Join from Zoom Workplace app - Zoom",
-          "note": "macquarie.zoom.us"
+          "start": "14:01",
+          "title": "Join from Zoom Workplace app - Zoom"
         },
         {
-          "start": "14:13",
+          "cat": "coding",
           "end": "14:15",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "14:13",
+          "title": "VSCode"
         },
         {
-          "start": "14:16",
+          "cat": "coding",
           "end": "14:20",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "14:16",
+          "title": "VSCode"
         },
         {
-          "start": "14:20",
+          "cat": "meeting",
           "end": "14:27",
-          "cat": "meeting",
+          "note": "macquarie.zoom.us",
           "src": "macos",
-          "title": "Join from Zoom Workplace app - Zoom",
-          "note": "macquarie.zoom.us"
+          "start": "14:20",
+          "title": "Join from Zoom Workplace app - Zoom"
         },
         {
-          "start": "14:27",
+          "cat": "admin",
           "end": "14:34",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "macos",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "14:27",
+          "title": "Google Translate"
         },
         {
-          "start": "14:34",
+          "cat": "admin",
           "end": "14:38",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "down arrow - Google Search",
-          "note": "google.com"
+          "start": "14:34",
+          "title": "down arrow - Google Search"
         },
         {
-          "start": "14:38",
+          "cat": "coding",
           "end": "14:41",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "14:38",
+          "title": "VSCode"
         },
         {
-          "start": "14:41",
+          "cat": "admin",
           "end": "14:43",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "down arrow - Google Search",
-          "note": "google.com"
+          "start": "14:41",
+          "title": "down arrow - Google Search"
         },
         {
-          "start": "14:43",
+          "cat": "coding",
           "end": "14:59",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "14:43",
+          "title": "VSCode"
         },
         {
-          "start": "14:59",
+          "cat": "admin",
           "end": "15:01",
-          "cat": "admin",
+          "note": "com.tinyspeck.slackmacgap",
           "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "start": "14:59",
+          "title": "slackmacgap"
         },
         {
-          "start": "15:01",
+          "cat": "meeting",
           "end": "15:02",
-          "cat": "meeting",
+          "note": "macquarie.zoom.us",
           "src": "macos",
-          "title": "Join from Zoom Workplace app - Zoom",
-          "note": "macquarie.zoom.us"
+          "start": "15:01",
+          "title": "Join from Zoom Workplace app - Zoom"
         },
         {
-          "start": "15:02",
+          "cat": "admin",
           "end": "15:15",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "macos",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "15:02",
+          "title": "Google Translate"
         },
         {
-          "start": "15:15",
+          "cat": "meeting",
           "end": "15:19",
-          "cat": "meeting",
+          "note": "us.zoom.xos",
           "src": "macos",
-          "title": "xos",
-          "note": "us.zoom.xos"
+          "start": "15:15",
+          "title": "xos"
         },
         {
-          "start": "15:19",
+          "cat": "coding",
           "end": "15:23",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "15:19",
+          "title": "VSCode"
         },
         {
-          "start": "15:23",
+          "cat": "meeting",
           "end": "15:28",
-          "cat": "meeting",
+          "note": "us.zoom.xos",
           "src": "macos",
-          "title": "xos",
-          "note": "us.zoom.xos"
+          "start": "15:23",
+          "title": "xos"
         },
         {
-          "start": "15:42",
+          "cat": "meeting",
           "end": "15:47",
-          "cat": "meeting",
+          "note": "us.zoom.xos",
           "src": "macos",
-          "title": "xos",
-          "note": "us.zoom.xos"
+          "start": "15:42",
+          "title": "xos"
         },
         {
-          "start": "15:51",
+          "cat": "meeting",
           "end": "16:02",
-          "cat": "meeting",
+          "note": "us.zoom.xos",
           "src": "macos",
-          "title": "xos",
-          "note": "us.zoom.xos"
+          "start": "15:51",
+          "title": "xos"
         },
         {
-          "start": "16:09",
+          "cat": "admin",
           "end": "16:12",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "16:09",
+          "title": "Outlook"
         },
         {
-          "start": "16:13",
+          "cat": "admin",
           "end": "16:31",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "macos",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "16:13",
+          "title": "Google Translate"
         },
         {
-          "start": "16:31",
+          "cat": "coding",
           "end": "16:34",
-          "cat": "coding",
+          "note": "byteplus.com",
           "src": "macos",
-          "title": "BytePlus | AI-Native Cloud for Enterprise Growth",
-          "note": "byteplus.com"
+          "start": "16:31",
+          "title": "BytePlus | AI-Native Cloud for Enterprise Growth"
         },
         {
-          "start": "16:34",
+          "cat": "admin",
           "end": "16:41",
-          "cat": "admin",
+          "note": "mail.google.com",
           "src": "macos",
-          "title": "Inbox (2,812) - ada.ren.cn@gmail.com - Gmail",
-          "note": "mail.google.com"
+          "start": "16:34",
+          "title": "Inbox (2,812) - ada.ren.cn@gmail.com - Gmail"
         },
         {
-          "start": "16:41",
+          "cat": "coding",
           "end": "17:27",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "16:41",
+          "title": "VSCode"
         },
         {
-          "start": "17:28",
+          "cat": "coding",
           "end": "17:28",
-          "cat": "coding",
+          "note": "apps.powerapps.com",
           "src": "chrome",
-          "title": "FSE Teaching Associate EOI - Power Apps",
-          "note": "apps.powerapps.com"
-        },
-        {
           "start": "17:28",
+          "title": "FSE Teaching Associate EOI - Power Apps"
+        },
+        {
+          "cat": "admin",
           "end": "17:30",
-          "cat": "admin",
+          "note": "wd3.myworkday.com",
           "src": "macos",
-          "title": "Learning and Teaching at Macquarie University - Workday",
-          "note": "wd3.myworkday.com"
+          "start": "17:28",
+          "title": "Learning and Teaching at Macquarie University - Workday"
         },
         {
-          "start": "17:30",
+          "cat": "coding",
           "end": "17:34",
-          "cat": "coding",
+          "note": "apps.powerapps.com",
           "src": "chrome",
-          "title": "FSE Teaching Associate EOI - Power Apps",
-          "note": "apps.powerapps.com"
+          "start": "17:30",
+          "title": "FSE Teaching Associate EOI - Power Apps"
         },
         {
-          "start": "17:34",
+          "cat": "admin",
           "end": "17:36",
-          "cat": "admin",
+          "note": "wd3-media.myworkdaycdn.com",
           "src": "macos",
-          "title": "Learning and Teaching at Macquarie University",
-          "note": "wd3-media.myworkdaycdn.com"
+          "start": "17:34",
+          "title": "Learning and Teaching at Macquarie University"
         },
         {
-          "start": "17:36",
+          "cat": "coding",
           "end": "17:45",
-          "cat": "coding",
+          "note": "apps.powerapps.com",
           "src": "chrome",
-          "title": "FSE Teaching Associate EOI - Power Apps",
-          "note": "apps.powerapps.com"
+          "start": "17:36",
+          "title": "FSE Teaching Associate EOI - Power Apps"
         },
         {
-          "start": "17:45",
+          "cat": "admin",
           "end": "17:48",
-          "cat": "admin",
+          "note": "wd3-media.myworkdaycdn.com",
           "src": "macos",
-          "title": "Learning and Teaching at Macquarie University",
-          "note": "wd3-media.myworkdaycdn.com"
+          "start": "17:45",
+          "title": "Learning and Teaching at Macquarie University"
         },
         {
-          "start": "17:48",
+          "cat": "writing",
           "end": "17:53",
-          "cat": "writing",
+          "note": "drive.google.com",
           "src": "macos",
-          "title": "My Drive - Google Drive",
-          "note": "drive.google.com"
+          "start": "17:48",
+          "title": "My Drive - Google Drive"
         },
         {
-          "start": "17:54",
+          "cat": "admin",
           "end": "17:57",
-          "cat": "admin",
+          "note": "wd3.myworkday.com",
           "src": "chrome",
-          "title": "Learning and teaching at Macquarie University - digital cour",
-          "note": "wd3.myworkday.com"
+          "start": "17:54",
+          "title": "Learning and teaching at Macquarie University - digital cour"
         },
         {
-          "start": "17:57",
+          "cat": "coding",
           "end": "17:58",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "17:57",
+          "title": "codex"
         },
         {
-          "start": "17:58",
+          "cat": "admin",
           "end": "17:59",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "17:58",
+          "title": "Outlook"
         },
         {
-          "start": "17:59",
+          "cat": "writing",
           "end": "18:03",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Progress Updates - Google Sheets",
-          "note": "docs.google.com"
+          "start": "17:59",
+          "title": "Progress Updates - Google Sheets"
         },
         {
-          "start": "18:03",
+          "cat": "admin",
           "end": "18:06",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "18:03",
+          "title": "Outlook"
         },
         {
-          "start": "18:06",
+          "cat": "admin",
           "end": "18:14",
-          "cat": "admin",
+          "note": "wd3.myworkday.com",
           "src": "chrome",
-          "title": "Learning and teaching at Macquarie University - digital cour",
-          "note": "wd3.myworkday.com"
+          "start": "18:06",
+          "title": "Learning and teaching at Macquarie University - digital cour"
         },
         {
-          "start": "18:42",
+          "cat": "admin",
           "end": "19:02",
-          "cat": "admin",
+          "note": "wd3.myworkday.com",
           "src": "chrome",
-          "title": "Workday mq - Sign in to Workday",
-          "note": "wd3.myworkday.com"
+          "start": "18:42",
+          "title": "Workday mq - Sign in to Workday"
         },
         {
-          "start": "19:49",
+          "cat": "personal",
           "end": "20:03",
-          "cat": "personal",
+          "note": "youtube.com",
           "src": "macos",
-          "title": "(89) YouTube",
-          "note": "youtube.com"
+          "start": "19:49",
+          "title": "(89) YouTube"
         },
         {
-          "start": "20:03",
+          "cat": "coding",
           "end": "20:09",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "20:03",
+          "title": "VSCode"
         },
         {
-          "start": "20:09",
+          "cat": "personal",
           "end": "20:14",
-          "cat": "personal",
+          "note": "youtube.com",
           "src": "chrome",
-          "title": "(89) 【Anna阿姨】回国免税店买了什么｜护肤品 香水 爱马仕首饰 以及我一直在回购的那支面膜 - YouTube",
-          "note": "youtube.com"
+          "start": "20:09",
+          "title": "(89) 【Anna阿姨】回国免税店买了什么｜护肤品 香水 爱马仕首饰 以及我一直在回购的那支面膜 - YouTube"
         },
         {
-          "start": "20:14",
+          "cat": "coding",
           "end": "20:18",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "20:14",
+          "title": "VSCode"
         },
         {
-          "start": "20:20",
+          "cat": "coding",
           "end": "20:42",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "20:20",
+          "title": "VSCode"
         },
         {
-          "start": "20:43",
+          "cat": "coding",
           "end": "20:47",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "20:43",
+          "title": "VSCode"
         },
         {
-          "start": "20:49",
+          "cat": "coding",
           "end": "20:54",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "20:49",
+          "title": "VSCode"
         },
         {
-          "start": "20:54",
+          "cat": "coding",
           "end": "20:57",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "20:54",
+          "title": "VSCode"
         },
         {
-          "start": "20:57",
+          "cat": "admin",
           "end": "20:59",
-          "cat": "admin",
+          "note": "wd3.myworkday.com",
           "src": "chrome",
-          "title": "Workday mq - Sign in to Workday",
-          "note": "wd3.myworkday.com"
+          "start": "20:57",
+          "title": "Workday mq - Sign in to Workday"
         },
         {
-          "start": "20:59",
+          "cat": "admin",
           "end": "21:03",
-          "cat": "admin",
+          "note": "wd3.myworkday.com",
           "src": "macos",
-          "title": "Enter Time - Workday",
-          "note": "wd3.myworkday.com"
+          "start": "20:59",
+          "title": "Enter Time - Workday"
         },
         {
-          "start": "21:03",
+          "cat": "admin",
           "end": "21:10",
-          "cat": "admin",
+          "note": "wd3.myworkday.com",
           "src": "chrome",
-          "title": "Workday mq - Sign in to Workday",
-          "note": "wd3.myworkday.com"
+          "start": "21:03",
+          "title": "Workday mq - Sign in to Workday"
         },
         {
-          "start": "21:10",
+          "cat": "personal",
           "end": "21:11",
-          "cat": "personal",
+          "note": "amazon.com.au",
           "src": "macos",
-          "title": "Amazon.com.au : shampoo and conditioner",
-          "note": "amazon.com.au"
+          "start": "21:10",
+          "title": "Amazon.com.au : shampoo and conditioner"
         },
         {
-          "start": "21:11",
+          "cat": "coding",
           "end": "21:12",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "21:11",
+          "title": "VSCode"
         },
         {
-          "start": "21:12",
+          "cat": "coding",
           "end": "21:13",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "21:12",
+          "title": "VSCode"
         },
         {
-          "start": "21:13",
-          "end": "21:16",
           "cat": "writing",
+          "end": "21:16",
+          "note": "1 hit",
           "src": "vscode",
-          "title": "VS Code · README.md",
-          "note": "1 hit"
+          "start": "21:13",
+          "title": "VS Code · README.md"
         },
         {
-          "start": "21:16",
+          "cat": "coding",
           "end": "21:24",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "21:16",
+          "title": "VSCode"
         },
         {
-          "start": "21:24",
+          "cat": "research",
           "end": "21:28",
-          "cat": "research",
+          "note": "huggingface.co",
           "src": "macos",
-          "title": "README.md · Qwen/SAE-Res-Qwen3.5-9B-Base-W64K-L0_100 at main",
-          "note": "huggingface.co"
+          "start": "21:24",
+          "title": "README.md · Qwen/SAE-Res-Qwen3.5-9B-Base-W64K-L0_100 at main"
         },
         {
-          "start": "21:28",
+          "cat": "research",
           "end": "21:33",
-          "cat": "research",
+          "note": "huggingface.co",
           "src": "macos",
-          "title": "README.md · Qwen/SAE-Res-Qwen3.5-9B-Base-W64K-L0_100 at main",
-          "note": "huggingface.co"
+          "start": "21:28",
+          "title": "README.md · Qwen/SAE-Res-Qwen3.5-9B-Base-W64K-L0_100 at main"
         },
         {
-          "start": "21:33",
+          "cat": "research",
           "end": "21:35",
-          "cat": "research",
+          "note": "huggingface.co",
           "src": "macos",
-          "title": "README.md · Qwen/SAE-Res-Qwen3.5-9B-Base-W64K-L0_100 at main",
-          "note": "huggingface.co"
+          "start": "21:33",
+          "title": "README.md · Qwen/SAE-Res-Qwen3.5-9B-Base-W64K-L0_100 at main"
         },
         {
-          "start": "21:35",
+          "cat": "coding",
           "end": "21:37",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "21:35",
+          "title": "VSCode"
         },
         {
-          "start": "21:37",
+          "cat": "coding",
           "end": "21:39",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "21:37",
+          "title": "VSCode"
         },
         {
-          "start": "21:39",
+          "cat": "research",
           "end": "21:42",
-          "cat": "research",
+          "note": "huggingface.co",
           "src": "chrome",
-          "title": "README.md · Qwen/SAE-Res-Qwen3.5-9B-Base-W64K-L0_100 at main",
-          "note": "huggingface.co"
+          "start": "21:39",
+          "title": "README.md · Qwen/SAE-Res-Qwen3.5-9B-Base-W64K-L0_100 at main"
         },
         {
-          "start": "21:42",
+          "cat": "research",
           "end": "21:46",
-          "cat": "research",
+          "note": "huggingface.co",
           "src": "chrome",
-          "title": "README.md · Qwen/SAE-Res-Qwen3.5-9B-Base-W64K-L0_100 at main",
-          "note": "huggingface.co"
+          "start": "21:42",
+          "title": "README.md · Qwen/SAE-Res-Qwen3.5-9B-Base-W64K-L0_100 at main"
         },
         {
-          "start": "21:50",
-          "end": "21:55",
           "cat": "coding",
+          "end": "21:55",
+          "note": "1 hit",
           "src": "local",
-          "title": "visualization.ipynb",
-          "note": "1 hit"
+          "start": "21:50",
+          "title": "visualization.ipynb"
         },
         {
-          "start": "22:00",
-          "end": "22:20",
           "cat": "personal",
+          "end": "22:20",
+          "note": "youtube.com",
           "src": "chrome",
-          "title": "(89) Knut Jägersberg - YouTube",
-          "note": "youtube.com"
+          "start": "22:00",
+          "title": "(89) Knut Jägersberg - YouTube"
         }
       ],
+      "key": "2026-8-18",
       "logged": 529,
-      "real": 371,
-      "deep": 371,
       "ratio": 0.7010621378497599,
+      "real": 371,
       "stats": {
         "contextSwitches": 51,
-        "tabsOpened": 42,
+        "justOneMoreThing": 13,
         "longestFocus": "1h 40m",
-        "justOneMoreThing": 13
-      }
+        "tabsOpened": 42
+      },
+      "weekend": false
     },
     {
       "key": "2026-8-19",
@@ -72164,10 +74477,66 @@
       "dateShort": "Wed, Aug 19",
       "dateLong": "Wednesday, August 19",
       "dayStart": "10:07",
-      "dayEnd": "10:33",
+      "dayEnd": "22:41",
       "events": [
         {
           "start": "10:07",
+          "end": "10:10",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "10:10",
+          "end": "10:12",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
+          "note": "sport.mq.edu.au"
+        },
+        {
+          "start": "10:12",
+          "end": "10:19",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "10:19",
+          "end": "10:20",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Home - Workday",
+          "note": "wd3.myworkday.com"
+        },
+        {
+          "start": "10:20",
+          "end": "10:21",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Home - Workday",
+          "note": "wd3.myworkday.com"
+        },
+        {
+          "start": "10:21",
+          "end": "10:23",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "10:23",
+          "end": "10:25",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "10:25",
           "end": "10:27",
           "cat": "coding",
           "src": "chrome",
@@ -72176,22 +74545,2270 @@
         },
         {
           "start": "10:27",
+          "end": "10:28",
+          "cat": "research",
+          "src": "macos",
+          "title": "Where the time actually went | Ada's Notes",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "10:28",
+          "end": "10:29",
+          "cat": "research",
+          "src": "macos",
+          "title": "Where the time actually went | Ada's Notes",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "10:30",
+          "end": "10:31",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "10:31",
           "end": "10:33",
+          "cat": "research",
+          "src": "macos",
+          "title": "Where the time actually went | Ada's Notes",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "10:35",
+          "end": "10:47",
+          "cat": "research",
+          "src": "macos",
+          "title": "Where the time actually went | Ada's Notes",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "11:04",
+          "end": "11:19",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:19",
+          "end": "11:21",
+          "cat": "personal",
+          "src": "macos",
+          "title": "主页 / X",
+          "note": "x.com"
+        },
+        {
+          "start": "11:22",
+          "end": "11:23",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:23",
+          "end": "11:24",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:24",
+          "end": "11:25",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:25",
+          "end": "11:27",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:27",
+          "end": "11:28",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:28",
+          "end": "11:30",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:30",
+          "end": "11:32",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:32",
+          "end": "11:33",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "11:33",
+          "end": "11:34",
+          "cat": "personal",
+          "src": "macos",
+          "title": "主页 / X",
+          "note": "x.com"
+        },
+        {
+          "start": "11:35",
+          "end": "11:36",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "11:36",
+          "end": "11:37",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:37",
+          "end": "11:38",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "主页 / X",
+          "note": "x.com"
+        },
+        {
+          "start": "11:38",
+          "end": "11:40",
+          "cat": "research",
+          "src": "macos",
+          "title": "openclaw 和 Hermes agent的对比",
+          "note": "perplexity.ai"
+        },
+        {
+          "start": "11:40",
+          "end": "11:41",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "11:41",
+          "end": "11:42",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "11:42",
+          "end": "11:43",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Daily papers of 18 Aug 2026 - ada.ren.cn@gmail.com - Gmail",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "11:43",
+          "end": "11:45",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Daily papers of 18 Aug 2026 - ada.ren.cn@gmail.com - Gmail",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "11:45",
+          "end": "11:46",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Daily papers of 18 Aug 2026 - ada.ren.cn@gmail.com - Gmail",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "11:46",
+          "end": "11:47",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:47",
+          "end": "11:48",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:48",
+          "end": "11:50",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:50",
+          "end": "11:51",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:51",
+          "end": "11:52",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "11:53",
+          "end": "11:54",
+          "cat": "research",
+          "src": "macos",
+          "title": "The 2026 Conference on Empirical Methods in Natural Language",
+          "note": "2026.emnlp.org"
+        },
+        {
+          "start": "11:54",
+          "end": "11:55",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "4 hits"
+        },
+        {
+          "start": "11:57",
+          "end": "11:58",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:58",
+          "end": "11:59",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:59",
+          "end": "12:01",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "12:01",
+          "end": "12:02",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute",
+          "note": "openrouter.ai"
+        },
+        {
+          "start": "12:02",
+          "end": "12:03",
+          "cat": "research",
+          "src": "macos",
+          "title": "Persistent Memory | Hermes Agent",
+          "note": "hermes-agent.nousresearch.com"
+        },
+        {
+          "start": "12:03",
+          "end": "12:04",
+          "cat": "research",
+          "src": "macos",
+          "title": "Persistent Memory | Hermes Agent",
+          "note": "hermes-agent.nousresearch.com"
+        },
+        {
+          "start": "12:04",
+          "end": "12:04",
+          "cat": "research",
+          "src": "macos",
+          "title": "Persistent Memory | Hermes Agent",
+          "note": "hermes-agent.nousresearch.com"
+        },
+        {
+          "start": "12:04",
+          "end": "12:05",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "12:05",
+          "end": "12:06",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "12:06",
+          "end": "12:08",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "12:09",
+          "end": "12:09",
+          "cat": "research",
+          "src": "macos",
+          "title": "Persistent Memory | Hermes Agent",
+          "note": "hermes-agent.nousresearch.com"
+        },
+        {
+          "start": "12:10",
+          "end": "12:13",
+          "cat": "research",
+          "src": "macos",
+          "title": "Persistent Memory | Hermes Agent",
+          "note": "hermes-agent.nousresearch.com"
+        },
+        {
+          "start": "12:13",
+          "end": "12:14",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Bundled Skills Catalog | Hermes Agent",
+          "note": "hermes-agent.nousresearch.com"
+        },
+        {
+          "start": "12:15",
+          "end": "12:16",
+          "cat": "research",
+          "src": "macos",
+          "title": "Bundled Skills Catalog | Hermes Agent",
+          "note": "hermes-agent.nousresearch.com"
+        },
+        {
+          "start": "12:16",
+          "end": "12:19",
+          "cat": "research",
+          "src": "macos",
+          "title": "Bundled Skills Catalog | Hermes Agent",
+          "note": "hermes-agent.nousresearch.com"
+        },
+        {
+          "start": "12:19",
+          "end": "12:19",
+          "cat": "research",
+          "src": "macos",
+          "title": "Bundled Skills Catalog | Hermes Agent",
+          "note": "hermes-agent.nousresearch.com"
+        },
+        {
+          "start": "12:19",
+          "end": "12:21",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Bundled Skills Catalog | Hermes Agent",
+          "note": "hermes-agent.nousresearch.com"
+        },
+        {
+          "start": "12:21",
+          "end": "12:23",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Bundled Skills Catalog | Hermes Agent",
+          "note": "hermes-agent.nousresearch.com"
+        },
+        {
+          "start": "12:23",
+          "end": "12:24",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Bundled Skills Catalog | Hermes Agent",
+          "note": "hermes-agent.nousresearch.com"
+        },
+        {
+          "start": "12:24",
+          "end": "12:26",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Bundled Skills Catalog | Hermes Agent",
+          "note": "hermes-agent.nousresearch.com"
+        },
+        {
+          "start": "12:26",
+          "end": "12:28",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Bundled Skills Catalog | Hermes Agent",
+          "note": "hermes-agent.nousresearch.com"
+        },
+        {
+          "start": "12:30",
+          "end": "12:31",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Bundled Skills Catalog | Hermes Agent",
+          "note": "hermes-agent.nousresearch.com"
+        },
+        {
+          "start": "12:31",
+          "end": "12:33",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Bundled Skills Catalog | Hermes Agent",
+          "note": "hermes-agent.nousresearch.com"
+        },
+        {
+          "start": "12:35",
+          "end": "12:36",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "12:36",
+          "end": "12:37",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "12:37",
+          "end": "12:38",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "12:38",
+          "end": "12:39",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "12:41",
+          "end": "12:42",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "12:42",
+          "end": "12:44",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "4 hits"
+        },
+        {
+          "start": "12:45",
+          "end": "12:47",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "12:47",
+          "end": "12:49",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "12:49",
+          "end": "12:49",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "12:49",
+          "end": "12:50",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "12:50",
+          "end": "12:52",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "12:53",
+          "end": "12:54",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "12:55",
+          "end": "12:57",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "4 hits"
+        },
+        {
+          "start": "12:58",
+          "end": "13:00",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "13:00",
+          "end": "13:02",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "13:02",
+          "end": "13:03",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "13:03",
+          "end": "13:05",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "13:06",
+          "end": "13:06",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "13:07",
+          "end": "13:08",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "6 hits"
+        },
+        {
+          "start": "13:08",
+          "end": "13:09",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "6 hits"
+        },
+        {
+          "start": "13:09",
+          "end": "13:10",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "13:12",
+          "end": "13:12",
           "cat": "admin",
           "src": "chrome",
-          "title": "Workday mq - Sign in to Workday",
-          "note": "url.au.m.mimecastprotect.com"
+          "title": "View Business Process from Notification - Workday",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "13:13",
+          "end": "13:14",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "View Business Process from Notification - Workday",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "13:14",
+          "end": "13:16",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "13:16",
+          "end": "13:17",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "View Business Process from Notification - Workday",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "13:17",
+          "end": "13:17",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "View Business Process from Notification - Workday",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "13:18",
+          "end": "13:19",
+          "cat": "research",
+          "src": "macos",
+          "title": "Optional Skills Catalog | Hermes Agent",
+          "note": "hermes-agent.nousresearch.com"
+        },
+        {
+          "start": "13:20",
+          "end": "13:21",
+          "cat": "research",
+          "src": "macos",
+          "title": "Optional Skills Catalog | Hermes Agent",
+          "note": "hermes-agent.nousresearch.com"
+        },
+        {
+          "start": "13:22",
+          "end": "13:23",
+          "cat": "research",
+          "src": "macos",
+          "title": "Optional Skills Catalog | Hermes Agent",
+          "note": "hermes-agent.nousresearch.com"
+        },
+        {
+          "start": "13:23",
+          "end": "13:24",
+          "cat": "research",
+          "src": "macos",
+          "title": "Optional Skills Catalog | Hermes Agent",
+          "note": "hermes-agent.nousresearch.com"
+        },
+        {
+          "start": "13:25",
+          "end": "13:27",
+          "cat": "coding",
+          "src": "macos",
+          "title": "hermes-agent/run_agent.py at main · NousResearch/hermes-agen",
+          "note": "github.com"
+        },
+        {
+          "start": "13:28",
+          "end": "13:30",
+          "cat": "coding",
+          "src": "macos",
+          "title": "hermes-agent/run_agent.py at main · NousResearch/hermes-agen",
+          "note": "github.com"
+        },
+        {
+          "start": "13:30",
+          "end": "13:31",
+          "cat": "coding",
+          "src": "macos",
+          "title": "hermes-agent/run_agent.py at main · NousResearch/hermes-agen",
+          "note": "github.com"
+        },
+        {
+          "start": "13:32",
+          "end": "13:32",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "13:32",
+          "end": "13:35",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "13:35",
+          "end": "13:36",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "13:36",
+          "end": "13:37",
+          "cat": "research",
+          "src": "macos",
+          "title": "Agent Loop Internals | Hermes Agent",
+          "note": "hermes-agent.nousresearch.com"
+        },
+        {
+          "start": "13:37",
+          "end": "13:37",
+          "cat": "research",
+          "src": "macos",
+          "title": "Agent Loop Internals | Hermes Agent",
+          "note": "hermes-agent.nousresearch.com"
+        },
+        {
+          "start": "13:37",
+          "end": "13:38",
+          "cat": "research",
+          "src": "macos",
+          "title": "Agent Loop Internals | Hermes Agent",
+          "note": "hermes-agent.nousresearch.com"
+        },
+        {
+          "start": "13:39",
+          "end": "13:40",
+          "cat": "research",
+          "src": "macos",
+          "title": "Agent Loop Internals | Hermes Agent",
+          "note": "hermes-agent.nousresearch.com"
+        },
+        {
+          "start": "13:40",
+          "end": "13:41",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "13:41",
+          "end": "13:42",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "13:42",
+          "end": "13:43",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "13:44",
+          "end": "13:46",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Working with Skills | Hermes Agent",
+          "note": "hermes-agent.nousresearch.com"
+        },
+        {
+          "start": "13:46",
+          "end": "13:47",
+          "cat": "research",
+          "src": "macos",
+          "title": "Skills System | Hermes Agent",
+          "note": "hermes-agent.nousresearch.com"
+        },
+        {
+          "start": "13:47",
+          "end": "13:49",
+          "cat": "research",
+          "src": "macos",
+          "title": "Skills System | Hermes Agent",
+          "note": "hermes-agent.nousresearch.com"
+        },
+        {
+          "start": "13:49",
+          "end": "13:51",
+          "cat": "research",
+          "src": "macos",
+          "title": "Skills System | Hermes Agent",
+          "note": "hermes-agent.nousresearch.com"
+        },
+        {
+          "start": "13:51",
+          "end": "13:52",
+          "cat": "research",
+          "src": "macos",
+          "title": "Skills System | Hermes Agent",
+          "note": "hermes-agent.nousresearch.com"
+        },
+        {
+          "start": "13:52",
+          "end": "13:54",
+          "cat": "research",
+          "src": "macos",
+          "title": "Skills System | Hermes Agent",
+          "note": "hermes-agent.nousresearch.com"
+        },
+        {
+          "start": "13:56",
+          "end": "13:58",
+          "cat": "research",
+          "src": "macos",
+          "title": "Skills System | Hermes Agent",
+          "note": "hermes-agent.nousresearch.com"
+        },
+        {
+          "start": "14:01",
+          "end": "14:03",
+          "cat": "research",
+          "src": "macos",
+          "title": "Skills System | Hermes Agent",
+          "note": "hermes-agent.nousresearch.com"
+        },
+        {
+          "start": "14:03",
+          "end": "14:04",
+          "cat": "research",
+          "src": "macos",
+          "title": "Skills System | Hermes Agent",
+          "note": "hermes-agent.nousresearch.com"
+        },
+        {
+          "start": "14:04",
+          "end": "14:06",
+          "cat": "research",
+          "src": "macos",
+          "title": "Skills System | Hermes Agent",
+          "note": "hermes-agent.nousresearch.com"
+        },
+        {
+          "start": "14:06",
+          "end": "14:08",
+          "cat": "research",
+          "src": "macos",
+          "title": "Skills System | Hermes Agent",
+          "note": "hermes-agent.nousresearch.com"
+        },
+        {
+          "start": "14:08",
+          "end": "14:09",
+          "cat": "research",
+          "src": "macos",
+          "title": "Skills System | Hermes Agent",
+          "note": "hermes-agent.nousresearch.com"
+        },
+        {
+          "start": "14:09",
+          "end": "14:10",
+          "cat": "research",
+          "src": "macos",
+          "title": "Skills System | Hermes Agent",
+          "note": "hermes-agent.nousresearch.com"
+        },
+        {
+          "start": "14:10",
+          "end": "14:11",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
+          "note": "google.com"
+        },
+        {
+          "start": "14:13",
+          "end": "14:15",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Academic Dates - Calendar | MQ Sydney",
+          "note": "students.mq.edu.au"
+        },
+        {
+          "start": "14:18",
+          "end": "14:19",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Agent workspace - OpenClaw",
+          "note": "docs.openclaw.ai"
+        },
+        {
+          "start": "14:19",
+          "end": "14:20",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Agent workspace - OpenClaw",
+          "note": "docs.openclaw.ai"
+        },
+        {
+          "start": "14:20",
+          "end": "14:21",
+          "cat": "research",
+          "src": "macos",
+          "title": "openclaw 和 Hermes agent的对比",
+          "note": "perplexity.ai"
+        },
+        {
+          "start": "14:21",
+          "end": "14:22",
+          "cat": "research",
+          "src": "macos",
+          "title": "openclaw 和 Hermes agent的对比",
+          "note": "perplexity.ai"
+        },
+        {
+          "start": "14:22",
+          "end": "14:24",
+          "cat": "research",
+          "src": "macos",
+          "title": "openclaw 和 Hermes agent的对比",
+          "note": "perplexity.ai"
+        },
+        {
+          "start": "14:24",
+          "end": "14:26",
+          "cat": "writing",
+          "src": "macos",
+          "title": "obsidian",
+          "note": "md.obsidian"
+        },
+        {
+          "start": "14:28",
+          "end": "14:29",
+          "cat": "research",
+          "src": "macos",
+          "title": "openclaw 和 Hermes agent的对比",
+          "note": "perplexity.ai"
+        },
+        {
+          "start": "14:29",
+          "end": "14:30",
+          "cat": "research",
+          "src": "macos",
+          "title": "openclaw 和 Hermes agent的对比",
+          "note": "perplexity.ai"
+        },
+        {
+          "start": "14:30",
+          "end": "14:31",
+          "cat": "writing",
+          "src": "macos",
+          "title": "obsidian",
+          "note": "md.obsidian"
+        },
+        {
+          "start": "14:33",
+          "end": "14:34",
+          "cat": "writing",
+          "src": "macos",
+          "title": "obsidian",
+          "note": "md.obsidian"
+        },
+        {
+          "start": "14:34",
+          "end": "14:36",
+          "cat": "writing",
+          "src": "macos",
+          "title": "obsidian",
+          "note": "md.obsidian"
+        },
+        {
+          "start": "14:36",
+          "end": "14:37",
+          "cat": "writing",
+          "src": "macos",
+          "title": "obsidian",
+          "note": "md.obsidian"
+        },
+        {
+          "start": "14:37",
+          "end": "14:38",
+          "cat": "writing",
+          "src": "macos",
+          "title": "obsidian",
+          "note": "md.obsidian"
+        },
+        {
+          "start": "14:38",
+          "end": "14:39",
+          "cat": "writing",
+          "src": "macos",
+          "title": "obsidian",
+          "note": "md.obsidian"
+        },
+        {
+          "start": "14:40",
+          "end": "14:41",
+          "cat": "writing",
+          "src": "macos",
+          "title": "obsidian",
+          "note": "md.obsidian"
+        },
+        {
+          "start": "14:42",
+          "end": "14:42",
+          "cat": "writing",
+          "src": "macos",
+          "title": "obsidian",
+          "note": "md.obsidian"
+        },
+        {
+          "start": "14:42",
+          "end": "14:43",
+          "cat": "research",
+          "src": "macos",
+          "title": "openclaw 和 Hermes agent的对比",
+          "note": "perplexity.ai"
+        },
+        {
+          "start": "14:45",
+          "end": "14:46",
+          "cat": "research",
+          "src": "macos",
+          "title": "openclaw 和 Hermes agent的对比",
+          "note": "perplexity.ai"
+        },
+        {
+          "start": "14:46",
+          "end": "14:48",
+          "cat": "research",
+          "src": "macos",
+          "title": "openclaw 和 Hermes agent的对比",
+          "note": "perplexity.ai"
+        },
+        {
+          "start": "14:49",
+          "end": "14:50",
+          "cat": "writing",
+          "src": "macos",
+          "title": "obsidian",
+          "note": "md.obsidian"
+        },
+        {
+          "start": "14:50",
+          "end": "14:51",
+          "cat": "writing",
+          "src": "macos",
+          "title": "obsidian",
+          "note": "md.obsidian"
+        },
+        {
+          "start": "14:51",
+          "end": "14:53",
+          "cat": "writing",
+          "src": "macos",
+          "title": "obsidian",
+          "note": "md.obsidian"
+        },
+        {
+          "start": "14:53",
+          "end": "14:54",
+          "cat": "writing",
+          "src": "macos",
+          "title": "obsidian",
+          "note": "md.obsidian"
+        },
+        {
+          "start": "14:54",
+          "end": "14:55",
+          "cat": "writing",
+          "src": "macos",
+          "title": "obsidian",
+          "note": "md.obsidian"
+        },
+        {
+          "start": "14:55",
+          "end": "14:56",
+          "cat": "writing",
+          "src": "macos",
+          "title": "obsidian",
+          "note": "md.obsidian"
+        },
+        {
+          "start": "14:58",
+          "end": "14:59",
+          "cat": "writing",
+          "src": "macos",
+          "title": "obsidian",
+          "note": "md.obsidian"
+        },
+        {
+          "start": "14:59",
+          "end": "15:01",
+          "cat": "writing",
+          "src": "macos",
+          "title": "obsidian",
+          "note": "md.obsidian"
+        },
+        {
+          "start": "15:01",
+          "end": "15:01",
+          "cat": "writing",
+          "src": "macos",
+          "title": "obsidian",
+          "note": "md.obsidian"
+        },
+        {
+          "start": "15:03",
+          "end": "15:03",
+          "cat": "writing",
+          "src": "macos",
+          "title": "obsidian",
+          "note": "md.obsidian"
+        },
+        {
+          "start": "15:03",
+          "end": "15:05",
+          "cat": "writing",
+          "src": "macos",
+          "title": "obsidian",
+          "note": "md.obsidian"
+        },
+        {
+          "start": "15:06",
+          "end": "15:07",
+          "cat": "writing",
+          "src": "macos",
+          "title": "obsidian",
+          "note": "md.obsidian"
+        },
+        {
+          "start": "15:07",
+          "end": "15:08",
+          "cat": "writing",
+          "src": "macos",
+          "title": "obsidian",
+          "note": "md.obsidian"
+        },
+        {
+          "start": "15:08",
+          "end": "15:09",
+          "cat": "writing",
+          "src": "macos",
+          "title": "obsidian",
+          "note": "md.obsidian"
+        },
+        {
+          "start": "15:09",
+          "end": "15:10",
+          "cat": "research",
+          "src": "macos",
+          "title": "Skills System | Hermes Agent",
+          "note": "hermes-agent.nousresearch.com"
+        },
+        {
+          "start": "15:11",
+          "end": "15:12",
+          "cat": "research",
+          "src": "macos",
+          "title": "Skills System | Hermes Agent",
+          "note": "hermes-agent.nousresearch.com"
+        },
+        {
+          "start": "15:14",
+          "end": "15:15",
+          "cat": "writing",
+          "src": "macos",
+          "title": "obsidian",
+          "note": "md.obsidian"
+        },
+        {
+          "start": "15:16",
+          "end": "15:17",
+          "cat": "writing",
+          "src": "macos",
+          "title": "obsidian",
+          "note": "md.obsidian"
+        },
+        {
+          "start": "15:19",
+          "end": "15:19",
+          "cat": "writing",
+          "src": "macos",
+          "title": "obsidian",
+          "note": "md.obsidian"
+        },
+        {
+          "start": "15:19",
+          "end": "15:20",
+          "cat": "writing",
+          "src": "macos",
+          "title": "obsidian",
+          "note": "md.obsidian"
+        },
+        {
+          "start": "15:20",
+          "end": "15:21",
+          "cat": "writing",
+          "src": "macos",
+          "title": "obsidian",
+          "note": "md.obsidian"
+        },
+        {
+          "start": "15:22",
+          "end": "15:22",
+          "cat": "writing",
+          "src": "macos",
+          "title": "obsidian",
+          "note": "md.obsidian"
+        },
+        {
+          "start": "15:22",
+          "end": "15:24",
+          "cat": "writing",
+          "src": "macos",
+          "title": "obsidian",
+          "note": "md.obsidian"
+        },
+        {
+          "start": "15:25",
+          "end": "15:27",
+          "cat": "research",
+          "src": "macos",
+          "title": "openclaw 和 Hermes agent的对比",
+          "note": "perplexity.ai"
+        },
+        {
+          "start": "15:27",
+          "end": "15:27",
+          "cat": "research",
+          "src": "macos",
+          "title": "openclaw 和 Hermes agent的对比",
+          "note": "perplexity.ai"
+        },
+        {
+          "start": "15:27",
+          "end": "15:28",
+          "cat": "writing",
+          "src": "macos",
+          "title": "obsidian",
+          "note": "md.obsidian"
+        },
+        {
+          "start": "15:30",
+          "end": "15:32",
+          "cat": "writing",
+          "src": "macos",
+          "title": "obsidian",
+          "note": "md.obsidian"
+        },
+        {
+          "start": "15:32",
+          "end": "15:33",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Memory overview - OpenClaw",
+          "note": "docs.openclaw.ai"
+        },
+        {
+          "start": "15:33",
+          "end": "15:35",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Memory overview - OpenClaw",
+          "note": "docs.openclaw.ai"
+        },
+        {
+          "start": "15:37",
+          "end": "15:38",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Memory overview - OpenClaw",
+          "note": "docs.openclaw.ai"
+        },
+        {
+          "start": "15:38",
+          "end": "15:39",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Memory overview - OpenClaw",
+          "note": "docs.openclaw.ai"
+        },
+        {
+          "start": "15:39",
+          "end": "15:40",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Memory overview - OpenClaw",
+          "note": "docs.openclaw.ai"
+        },
+        {
+          "start": "15:42",
+          "end": "15:42",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Memory overview - OpenClaw",
+          "note": "docs.openclaw.ai"
+        },
+        {
+          "start": "15:43",
+          "end": "15:44",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Memory overview - OpenClaw",
+          "note": "docs.openclaw.ai"
+        },
+        {
+          "start": "15:44",
+          "end": "15:45",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Memory overview - OpenClaw",
+          "note": "docs.openclaw.ai"
+        },
+        {
+          "start": "15:45",
+          "end": "15:46",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Memory overview - OpenClaw",
+          "note": "docs.openclaw.ai"
+        },
+        {
+          "start": "15:46",
+          "end": "15:46",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Memory overview - OpenClaw",
+          "note": "docs.openclaw.ai"
+        },
+        {
+          "start": "15:48",
+          "end": "15:48",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Memory overview - OpenClaw",
+          "note": "docs.openclaw.ai"
+        },
+        {
+          "start": "15:49",
+          "end": "15:50",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Memory overview - OpenClaw",
+          "note": "docs.openclaw.ai"
+        },
+        {
+          "start": "15:50",
+          "end": "15:51",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Memory overview - OpenClaw",
+          "note": "docs.openclaw.ai"
+        },
+        {
+          "start": "15:53",
+          "end": "15:53",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Memory overview - OpenClaw",
+          "note": "docs.openclaw.ai"
+        },
+        {
+          "start": "15:54",
+          "end": "15:55",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Memory overview - OpenClaw",
+          "note": "docs.openclaw.ai"
+        },
+        {
+          "start": "15:55",
+          "end": "15:56",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "15:56",
+          "end": "15:57",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Preview question: DEMO KNN Distance: Euclidean distance (Q3)",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "15:58",
+          "end": "16:10",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Excel",
+          "note": "com.microsoft.Excel"
+        },
+        {
+          "start": "16:10",
+          "end": "16:16",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Preview question: DEMO KNN Distance: Euclidean distance (Q3)",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "16:19",
+          "end": "16:30",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Preview question: DEMO Q1 KNN Orange Operation | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "16:30",
+          "end": "16:47",
+          "cat": "research",
+          "src": "macos",
+          "title": "CN2 algorithm - Wikipedia",
+          "note": "en.wikipedia.org"
+        },
+        {
+          "start": "16:47",
+          "end": "16:50",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Preview question: DEMO Result explanation 1 | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "16:50",
+          "end": "16:57",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:57",
+          "end": "16:58",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Preview question: DEMO Result explanation 1 | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "16:59",
+          "end": "17:04",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "17:05",
+          "end": "17:08",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "17:09",
+          "end": "17:09",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute",
+          "note": "openrouter.ai"
+        },
+        {
+          "start": "17:10",
+          "end": "17:11",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "17:11",
+          "end": "17:12",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "17:12",
+          "end": "17:13",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "17:13",
+          "end": "17:13",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "17:15",
+          "end": "17:16",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "17:17",
+          "end": "17:18",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "17:18",
+          "end": "17:19",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute",
+          "note": "openrouter.ai"
+        },
+        {
+          "start": "17:20",
+          "end": "17:21",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute",
+          "note": "openrouter.ai"
+        },
+        {
+          "start": "17:23",
+          "end": "17:24",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute",
+          "note": "openrouter.ai"
+        },
+        {
+          "start": "17:24",
+          "end": "17:25",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute",
+          "note": "openrouter.ai"
+        },
+        {
+          "start": "17:25",
+          "end": "17:25",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "17:25",
+          "end": "17:27",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "18:51",
+          "end": "18:58",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "18:58",
+          "end": "19:07",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Workspace Overview | Settings | OpenRouter",
+          "note": "openrouter.ai"
+        },
+        {
+          "start": "19:07",
+          "end": "19:07",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "19:07",
+          "end": "19:08",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "19:08",
+          "end": "19:10",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "19:10",
+          "end": "19:11",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "19:11",
+          "end": "19:12",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "19:13",
+          "end": "19:14",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Workspace Overview | Settings | OpenRouter",
+          "note": "openrouter.ai"
+        },
+        {
+          "start": "19:15",
+          "end": "19:16",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Workspace Overview | Settings | OpenRouter",
+          "note": "openrouter.ai"
+        },
+        {
+          "start": "19:16",
+          "end": "19:16",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Workspace Overview | Settings | OpenRouter",
+          "note": "openrouter.ai"
+        },
+        {
+          "start": "19:18",
+          "end": "19:19",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "19:21",
+          "end": "19:22",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "19:24",
+          "end": "19:24",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "19:27",
+          "end": "19:28",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "19:30",
+          "end": "19:31",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "19:33",
+          "end": "19:34",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "19:35",
+          "end": "19:36",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "19:38",
+          "end": "19:39",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "19:40",
+          "end": "19:41",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "19:42",
+          "end": "19:43",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "19:43",
+          "end": "19:44",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "19:45",
+          "end": "19:46",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "19:47",
+          "end": "19:48",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "19:48",
+          "end": "19:49",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "19:50",
+          "end": "19:51",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "19:52",
+          "end": "19:52",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "19:52",
+          "end": "19:53",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "19:53",
+          "end": "19:54",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "19:54",
+          "end": "19:55",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "19:55",
+          "end": "19:57",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "19:59",
+          "end": "20:00",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "20:00",
+          "end": "20:02",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "20:05",
+          "end": "20:06",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "20:06",
+          "end": "20:08",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "20:08",
+          "end": "20:08",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "20:08",
+          "end": "20:09",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "20:09",
+          "end": "20:10",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Partnering with CodeAI to prepare the first AI generation | ",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "20:11",
+          "end": "20:13",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Partnering with CodeAI to prepare the first AI generation | ",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "20:13",
+          "end": "20:13",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Partnering with CodeAI to prepare the first AI generation | ",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "20:13",
+          "end": "20:14",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Partnering with CodeAI to prepare the first AI generation | ",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "20:14",
+          "end": "20:15",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Partnering with CodeAI to prepare the first AI generation | ",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "20:16",
+          "end": "20:25",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Partnering with CodeAI to prepare the first AI generation | ",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "20:25",
+          "end": "20:26",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Partnering with CodeAI to prepare the first AI generation | ",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "20:26",
+          "end": "20:26",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Partnering with CodeAI to prepare the first AI generation | ",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "20:26",
+          "end": "20:27",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Partnering with CodeAI to prepare the first AI generation | ",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "20:27",
+          "end": "20:28",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Partnering with CodeAI to prepare the first AI generation | ",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "20:28",
+          "end": "20:29",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Partnering with CodeAI to prepare the first AI generation | ",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "20:31",
+          "end": "20:31",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Partnering with CodeAI to prepare the first AI generation | ",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "20:32",
+          "end": "20:32",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Partnering with CodeAI to prepare the first AI generation | ",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "20:32",
+          "end": "20:33",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Partnering with CodeAI to prepare the first AI generation | ",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "20:33",
+          "end": "20:34",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Partnering with CodeAI to prepare the first AI generation | ",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "20:36",
+          "end": "20:36",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Partnering with CodeAI to prepare the first AI generation | ",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "20:38",
+          "end": "20:38",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Preview question: Decision Tree Feature Importance 1 | iLear",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "20:38",
+          "end": "20:39",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Preview question: Decision Tree Feature Importance 1 | iLear",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "20:40",
+          "end": "20:40",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Preview question: Decision Tree Feature Importance 1 | iLear",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "20:40",
+          "end": "20:41",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Preview question: Decision Tree Feature Importance 1 | iLear",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "20:43",
+          "end": "20:44",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Preview question: Decision Tree Feature Importance 1 | iLear",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "20:44",
+          "end": "20:44",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Preview question: Decision Tree Feature Importance 1 | iLear",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "20:45",
+          "end": "20:45",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Preview question: Decision Tree Feature Importance 1 | iLear",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "20:45",
+          "end": "20:46",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Preview question: Decision Tree Feature Importance 1 | iLear",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "20:47",
+          "end": "20:47",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Preview question: Decision Tree Feature Importance 1 | iLear",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "20:49",
+          "end": "20:49",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Preview question: Decision Tree Feature Importance 1 | iLear",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "20:49",
+          "end": "20:50",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Preview question: Decision Tree Feature Importance 1 | iLear",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "20:50",
+          "end": "20:51",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Preview question: Decision Tree Feature Importance 1 | iLear",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "20:53",
+          "end": "20:54",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Preview question: Decision Tree Feature Importance 1 | iLear",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "20:54",
+          "end": "20:55",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Preview question: Decision Tree Feature Importance 1 | iLear",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "20:56",
+          "end": "20:57",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Preview question: Decision Tree Feature Importance 1 | iLear",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "20:59",
+          "end": "21:00",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Preview question: Decision Tree Feature Importance 1 | iLear",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "21:01",
+          "end": "21:01",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Preview question: Decision Tree Feature Importance 1 | iLear",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "21:01",
+          "end": "21:02",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Preview question: Decision Tree Feature Importance 1 | iLear",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "21:02",
+          "end": "21:03",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Preview question: Decision Tree Feature Importance 1 | iLear",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "21:05",
+          "end": "21:06",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Preview question: Decision Tree Feature Importance 1 | iLear",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "21:06",
+          "end": "21:07",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Preview question: Decision Tree Feature Importance 1 | iLear",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "21:07",
+          "end": "21:08",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Preview question: Decision Tree Feature Importance 1 | iLear",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "21:11",
+          "end": "21:12",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "DecisionTreeRegressor — scikit-learn 1.9.0 documentation",
+          "note": "scikit-learn.org"
+        },
+        {
+          "start": "21:13",
+          "end": "21:13",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "DecisionTreeRegressor — scikit-learn 1.9.0 documentation",
+          "note": "scikit-learn.org"
+        },
+        {
+          "start": "21:15",
+          "end": "21:16",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "DecisionTreeRegressor — scikit-learn 1.9.0 documentation",
+          "note": "scikit-learn.org"
+        },
+        {
+          "start": "21:18",
+          "end": "21:18",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "DecisionTreeRegressor — scikit-learn 1.9.0 documentation",
+          "note": "scikit-learn.org"
+        },
+        {
+          "start": "21:18",
+          "end": "21:19",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "DecisionTreeRegressor — scikit-learn 1.9.0 documentation",
+          "note": "scikit-learn.org"
+        },
+        {
+          "start": "21:20",
+          "end": "21:21",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Preview question: Decision Tree Feature Importance 1 | iLear",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "21:22",
+          "end": "21:30",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Preview question: Decision Tree Feature Importance 1 | iLear",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "21:30",
+          "end": "21:50",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Colab  |  Google for Developers",
+          "note": "colab.google"
+        },
+        {
+          "start": "21:50",
+          "end": "22:00",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Preview question: Evaluation Measure | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "22:08",
+          "end": "22:41",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Preview question: DEMO Result explanation 4 | iLearn",
+          "note": "ilearn.mq.edu.au"
         }
       ],
-      "logged": 26,
-      "real": 20,
-      "deep": 20,
-      "ratio": 0.7606198986253405,
+      "logged": 487,
+      "real": 362,
+      "deep": 362,
+      "ratio": 0.7435332898785116,
       "stats": {
-        "contextSwitches": 1,
-        "tabsOpened": 6,
-        "longestFocus": "20m",
-        "justOneMoreThing": 0
+        "contextSwitches": 63,
+        "tabsOpened": 240,
+        "longestFocus": "1h 28m",
+        "justOneMoreThing": 6
       }
     },
     {
@@ -72201,17 +76818,26 @@
       "weekend": false,
       "dateShort": "Thu, Aug 20",
       "dateLong": "Thursday, August 20",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "10:17",
+      "dayEnd": "10:22",
+      "events": [
+        {
+          "start": "10:17",
+          "end": "10:22",
+          "cat": "writing",
+          "src": "local",
+          "title": "2026-08-19-replit.md",
+          "note": "3 hits"
+        }
+      ],
+      "logged": 5,
+      "real": 5,
+      "deep": 5,
+      "ratio": 1.0,
       "stats": {
         "contextSwitches": 0,
         "tabsOpened": 0,
-        "longestFocus": "0m",
+        "longestFocus": "5m",
         "justOneMoreThing": 0
       }
     },
