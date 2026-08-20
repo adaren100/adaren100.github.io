@@ -107,11 +107,11 @@ Model
 = Agent Runtime
 ```
 
-DeepSeek harness was released after the others. It is natural to introduce more flexible assembling paradigms. Developers can choose which components to include based on their requirements, including:
+DeepSeek harness was released after the others. It is natural to introduce more flexible assembling paradigms. Developers can choose which components to include, based on questions such as:
 - How the **agent loop** plans, calls tools, retries, and terminates, and whether to add a review agent, verifier, or memory writer? 
-- Whether **memory** should use Markdown, a database, a vector store, or custom storage? 
+- Whether **memory** should use Markdown, a database, a vector store, or custom storage.
 - Whether **skills** should be static documents, dynamically generated modules, or versioned code.
-- **Session and Workspace**: How **sessions** are stored and resumed? How tools and code are isolated through **sandboxes**.
+- **Session and Workspace**: How **sessions** are stored and resumed, and how tools and code are isolated through **sandboxes**.
 
  It could implement a workspace-memory design similar to OpenClaw or a task-review and skill-distillation loop similar to Hermes.
 
