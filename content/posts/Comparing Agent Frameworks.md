@@ -9,7 +9,7 @@ tags:
 
 ### OpenClaw
 
- OpenClaw has two layers:
+OpenClaw has two layers:
 - **The workspace** contains persona, user context, operating rules, memories, daily notes, skills, and project files.
 - **The state** directory contains runtime configuration, credentials, per-agent state, session stores, transcripts, logs, and trajectory exports.
 
@@ -34,16 +34,16 @@ tags:
     └── trajectory exports
 ```
 
-OpenClaw defines its roles, tones, and personality by using SOUL, USER, AGENTS, accompanied by daily memory, long-term memory, and state. This setup enables it behave like a considerate personal assistant. 
+OpenClaw defines its roles, tones, and personality by using SOUL, USER, AGENTS, accompanied by daily memory, long-term memory, and state. This setup enables it to behave like a considerate personal assistant. 
 
-Compared to Hermes, OpenClaw emphasizes the importance of memory. It includes daily notes (memory) and long-term memory. 
-https://docs.openclaw.ai/concepts/memory
+Compared to Hermes, OpenClaw emphasizes the importance of memory. It includes daily notes (memory) and long-term memory — see the
+[OpenClaw memory docs](https://docs.openclaw.ai/concepts/memory).
 
 ### Hermes
 
-Hermes emphasizes the importance of skills. It has a mechanism to **create, patch, edit, and delete skills**, along with writing and removing supporting a skill's supporting files. 
+Hermes emphasizes the importance of skills. It has a mechanism to **create, patch, edit, and delete skills**, along with writing and removing a skill's supporting files. 
 
-They also have a token efficient way to retrieve skills.
+It also has a token-efficient way to retrieve skills.
 
 ```text
 Level 0: skills_list()           → [{name, description, category}, ...]   (~3k tokens)
@@ -107,13 +107,13 @@ Model
 = Agent Runtime
 ```
 
-DeepSeek harness was released after the others. It is natural to introduce more flexible assembling paradigms. Developers can choose which components to include, based on questions such as:
-- How the **agent loop** plans, calls tools, retries, and terminates, and whether to add a review agent, verifier, or memory writer? 
+The DeepSeek harness was released after the others. It is natural to introduce more flexible assembling paradigms. Developers can choose which components to include, based on questions such as:
+- How the **agent loop** plans, calls tools, retries, and terminates, and whether to add a review agent, verifier, or memory writer.
 - Whether **memory** should use Markdown, a database, a vector store, or custom storage.
 - Whether **skills** should be static documents, dynamically generated modules, or versioned code.
-- **Session and Workspace**: How **sessions** are stored and resumed, and how tools and code are isolated through **sandboxes**.
+- **Session and Workspace**: how **sessions** are stored and resumed, and how tools and code are isolated through **sandboxes**.
 
- It could implement a workspace-memory design similar to OpenClaw or a task-review and skill-distillation loop similar to Hermes.
+It could implement a workspace-memory design similar to OpenClaw or a task-review and skill-distillation loop similar to Hermes.
 
 ### Conclusion
 
