@@ -34,14 +34,14 @@ tags:
     └── trajectory exports
 ```
 
-OpenClaw define its roles, tones, personality by using SOUL, USER, AGENTS, accompanied by daily memory, long-term memory, and state. This setup enable it compile like a considerate personal assistant. 
+OpenClaw defines its roles, tones, and personality by using SOUL, USER, AGENTS, accompanied by daily memory, long-term memory, and state. This setup enables it behave like a considerate personal assistant. 
 
-Compared to Hermes, OpenClaw emphasis the importance of memory. It includes daily notes(memory) and long-term memory. 
+Compared to Hermes, OpenClaw emphasizes the importance of memory. It includes daily notes (memory) and long-term memory. 
 https://docs.openclaw.ai/concepts/memory
 
 ### Hermes
 
-Hermes emphasis the importance of skills. It has a mechanism to **create, patch, edit, and delete skills**, accompanied with writing and remove supporting files of skills. 
+Hermes emphasizes the importance of skills. It has a mechanism to **create, patch, edit, and delete skills**, along with writing and removing supporting a skill's supporting files. 
 
 They also have a token efficient way to retrieve skills.
 
@@ -90,7 +90,7 @@ Level 2: skill_view(name, path)  → Specific reference file                (var
 ```
 
 
-After execution of each task, Hermes incorporate a process to post-task review, and then keep the fact into Memory and workflows to skills.
+After execution of each task, Hermes runs a process to post-task review, and then writes the facts into Memory and workflows into skills.
 
 ### DeepSeek Harness
 
@@ -107,9 +107,9 @@ Model
 = Agent Runtime
 ```
 
-DeepSeek harness come after other harness. It is nature to introduce more flexible assembling paradigms. Developers can decide the incorporated components according to usage requirements, including:
-- How the **agent loop** plans, calls tools, retries, and terminates, Whether to add a review agent, verifier, or memory writer.
-- Whether **memory** should use Markdown, a database, a vector store, or custom storage.
+DeepSeek harness released after other harness. It is natural to introduce more flexible assembling paradigms. Developers can choose which components to include based on their requirements, including:
+- How the **agent loop** plans, calls tools, retries, and terminates; whether to add a review agent, verifier, or memory writer? 
+- Whether **memory** should use Markdown, a database, a vector store, or custom storage? 
 - Whether **skills** should be static documents, dynamically generated modules, or versioned code.
 - **Session and Workspace**: How **sessions** are stored and resumed? How tools and code are isolated through **sandboxes**.
 
