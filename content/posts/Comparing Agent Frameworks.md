@@ -90,7 +90,7 @@ Level 2: skill_view(name, path)  → Specific reference file                (var
 ```
 
 
-After execution of each task, Hermes runs a process to post-task review, and then writes the facts into Memory and workflows into skills.
+After execution of each task, Hermes runs a post-task review, and then writes the facts into Memory and workflows into skills.
 
 ### DeepSeek Harness
 
@@ -107,8 +107,8 @@ Model
 = Agent Runtime
 ```
 
-DeepSeek harness released after other harness. It is natural to introduce more flexible assembling paradigms. Developers can choose which components to include based on their requirements, including:
-- How the **agent loop** plans, calls tools, retries, and terminates; whether to add a review agent, verifier, or memory writer? 
+DeepSeek harness was released after the others. It is natural to introduce more flexible assembling paradigms. Developers can choose which components to include based on their requirements, including:
+- How the **agent loop** plans, calls tools, retries, and terminates, and whether to add a review agent, verifier, or memory writer? 
 - Whether **memory** should use Markdown, a database, a vector store, or custom storage? 
 - Whether **skills** should be static documents, dynamically generated modules, or versioned code.
 - **Session and Workspace**: How **sessions** are stored and resumed? How tools and code are isolated through **sandboxes**.
