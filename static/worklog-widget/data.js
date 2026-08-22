@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-08-21T10:20:11+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-08-22T10:35:23+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -62836,3202 +62836,3202 @@
         "weekend": false
       },
       {
-        "key": "2026-8-20",
-        "dayNum": 20,
-        "dow": 4,
-        "weekend": false,
-        "dateShort": "Thu, Aug 20",
         "dateLong": "Thursday, August 20",
-        "dayStart": "10:15",
+        "dateShort": "Thu, Aug 20",
         "dayEnd": "00:35",
+        "dayNum": 20,
+        "dayStart": "10:15",
+        "deep": 640,
+        "dow": 4,
         "events": [
           {
-            "start": "10:15",
+            "cat": "admin",
             "end": "10:16",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "10:15",
+            "title": "Outlook"
           },
           {
-            "start": "10:16",
+            "cat": "coding",
             "end": "10:19",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "10:16",
+            "title": "VSCode"
           },
           {
-            "start": "10:19",
+            "cat": "admin",
             "end": "10:21",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "10:19",
+            "title": "Outlook"
           },
           {
-            "start": "10:21",
+            "cat": "coding",
             "end": "10:25",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "10:21",
+            "title": "VSCode"
           },
           {
-            "start": "10:26",
+            "cat": "admin",
             "end": "10:27",
-            "cat": "admin",
+            "note": "sport.mq.edu.au",
             "src": "macos",
-            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
-            "note": "sport.mq.edu.au"
+            "start": "10:26",
+            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni"
           },
           {
-            "start": "10:27",
+            "cat": "coding",
             "end": "10:37",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "10:27",
+            "title": "VSCode"
           },
           {
-            "start": "10:37",
+            "cat": "research",
             "end": "10:40",
-            "cat": "research",
+            "note": "openreview.net",
             "src": "chrome",
-            "title": "Position: LLMs can't jump | OpenReview",
-            "note": "openreview.net"
+            "start": "10:37",
+            "title": "Position: LLMs can't jump | OpenReview"
           },
           {
-            "start": "10:40",
+            "cat": "coding",
             "end": "10:42",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "10:40",
+            "title": "VSCode"
           },
           {
-            "start": "10:42",
+            "cat": "research",
             "end": "10:44",
-            "cat": "research",
+            "note": "openreview.net",
             "src": "macos",
-            "title": "Position: LLMs can't jump | OpenReview",
-            "note": "openreview.net"
+            "start": "10:42",
+            "title": "Position: LLMs can't jump | OpenReview"
           },
           {
-            "start": "10:44",
+            "cat": "coding",
             "end": "11:14",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "10:44",
+            "title": "VSCode"
           },
           {
-            "start": "11:14",
+            "cat": "coding",
             "end": "11:18",
-            "cat": "coding",
+            "note": "openrouter.ai",
             "src": "macos",
-            "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute",
-            "note": "openrouter.ai"
+            "start": "11:14",
+            "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute"
           },
           {
-            "start": "11:18",
+            "cat": "coding",
             "end": "11:23",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "11:18",
+            "title": "VSCode"
           },
           {
-            "start": "11:23",
+            "cat": "coding",
             "end": "11:24",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "11:23",
+            "title": "VSCode"
           },
           {
-            "start": "11:24",
+            "cat": "coding",
             "end": "11:28",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "11:24",
+            "title": "VSCode"
           },
           {
-            "start": "11:29",
+            "cat": "coding",
             "end": "11:32",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "11:29",
+            "title": "VSCode"
           },
           {
-            "start": "11:32",
+            "cat": "coding",
             "end": "11:33",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "11:32",
+            "title": "VSCode"
           },
           {
-            "start": "11:33",
+            "cat": "coding",
             "end": "11:34",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "11:33",
+            "title": "VSCode"
           },
           {
-            "start": "11:34",
+            "cat": "writing",
             "end": "11:35",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "11:34",
+            "title": "claude-code.txt"
           },
           {
-            "start": "11:35",
+            "cat": "research",
             "end": "11:37",
-            "cat": "research",
+            "note": "openai.com",
             "src": "macos",
-            "title": "Offering Zero Data Retention for frontier models | OpenAI",
-            "note": "openai.com"
+            "start": "11:35",
+            "title": "Offering Zero Data Retention for frontier models | OpenAI"
           },
           {
-            "start": "11:37",
+            "cat": "research",
             "end": "11:38",
-            "cat": "research",
+            "note": "openai.com",
             "src": "macos",
-            "title": "Offering Zero Data Retention for frontier models | OpenAI",
-            "note": "openai.com"
+            "start": "11:37",
+            "title": "Offering Zero Data Retention for frontier models | OpenAI"
           },
           {
-            "start": "11:38",
+            "cat": "coding",
             "end": "11:39",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "11:38",
+            "title": "VSCode"
           },
           {
-            "start": "11:39",
+            "cat": "coding",
             "end": "11:44",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "11:39",
+            "title": "VSCode"
           },
           {
-            "start": "11:44",
+            "cat": "coding",
             "end": "11:45",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "11:44",
+            "title": "VSCode"
           },
           {
-            "start": "11:45",
+            "cat": "coding",
             "end": "11:46",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "11:45",
+            "title": "VSCode"
           },
           {
-            "start": "11:46",
+            "cat": "coding",
             "end": "11:47",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "11:46",
+            "title": "VSCode"
           },
           {
-            "start": "11:47",
+            "cat": "coding",
             "end": "11:48",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "11:47",
+            "title": "VSCode"
           },
           {
-            "start": "11:48",
+            "cat": "writing",
             "end": "11:49",
-            "cat": "writing",
+            "note": "md.obsidian",
             "src": "macos",
-            "title": "obsidian",
-            "note": "md.obsidian"
+            "start": "11:48",
+            "title": "obsidian"
           },
           {
-            "start": "11:49",
+            "cat": "writing",
             "end": "11:50",
-            "cat": "writing",
+            "note": "md.obsidian",
             "src": "macos",
-            "title": "obsidian",
-            "note": "md.obsidian"
+            "start": "11:49",
+            "title": "obsidian"
           },
           {
-            "start": "11:50",
+            "cat": "writing",
             "end": "11:51",
-            "cat": "writing",
+            "note": "md.obsidian",
             "src": "macos",
-            "title": "obsidian",
-            "note": "md.obsidian"
+            "start": "11:50",
+            "title": "obsidian"
           },
           {
-            "start": "11:51",
+            "cat": "writing",
             "end": "11:52",
-            "cat": "writing",
+            "note": "md.obsidian",
             "src": "macos",
-            "title": "obsidian",
-            "note": "md.obsidian"
+            "start": "11:51",
+            "title": "obsidian"
           },
           {
-            "start": "11:52",
+            "cat": "writing",
             "end": "11:53",
-            "cat": "writing",
+            "note": "md.obsidian",
             "src": "macos",
-            "title": "obsidian",
-            "note": "md.obsidian"
+            "start": "11:52",
+            "title": "obsidian"
           },
           {
-            "start": "11:53",
+            "cat": "writing",
             "end": "11:54",
-            "cat": "writing",
+            "note": "md.obsidian",
             "src": "macos",
-            "title": "obsidian",
-            "note": "md.obsidian"
+            "start": "11:53",
+            "title": "obsidian"
           },
           {
-            "start": "11:54",
+            "cat": "writing",
             "end": "11:57",
-            "cat": "writing",
+            "note": "md.obsidian",
             "src": "macos",
-            "title": "obsidian",
-            "note": "md.obsidian"
+            "start": "11:54",
+            "title": "obsidian"
           },
           {
-            "start": "11:57",
+            "cat": "writing",
             "end": "11:59",
-            "cat": "writing",
+            "note": "md.obsidian",
             "src": "macos",
-            "title": "obsidian",
-            "note": "md.obsidian"
+            "start": "11:57",
+            "title": "obsidian"
           },
           {
-            "start": "11:59",
+            "cat": "writing",
             "end": "12:04",
-            "cat": "writing",
+            "note": "md.obsidian",
             "src": "macos",
-            "title": "obsidian",
-            "note": "md.obsidian"
+            "start": "11:59",
+            "title": "obsidian"
           },
           {
-            "start": "12:04",
+            "cat": "writing",
             "end": "12:05",
-            "cat": "writing",
+            "note": "md.obsidian",
             "src": "macos",
-            "title": "obsidian",
-            "note": "md.obsidian"
+            "start": "12:04",
+            "title": "obsidian"
           },
           {
-            "start": "12:05",
+            "cat": "writing",
             "end": "12:10",
-            "cat": "writing",
+            "note": "md.obsidian",
             "src": "macos",
-            "title": "obsidian",
-            "note": "md.obsidian"
+            "start": "12:05",
+            "title": "obsidian"
           },
           {
-            "start": "12:10",
+            "cat": "writing",
             "end": "12:12",
-            "cat": "writing",
+            "note": "md.obsidian",
             "src": "macos",
-            "title": "obsidian",
-            "note": "md.obsidian"
+            "start": "12:10",
+            "title": "obsidian"
           },
           {
-            "start": "12:12",
+            "cat": "writing",
             "end": "12:13",
-            "cat": "writing",
+            "note": "md.obsidian",
             "src": "macos",
-            "title": "obsidian",
-            "note": "md.obsidian"
+            "start": "12:12",
+            "title": "obsidian"
           },
           {
-            "start": "12:13",
+            "cat": "research",
             "end": "12:15",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "chrome",
-            "title": "Posts | Ada's Notes",
-            "note": "adaren100.github.io"
+            "start": "12:13",
+            "title": "Posts | Ada's Notes"
           },
           {
+            "cat": "research",
+            "end": "12:20",
+            "note": "adaren100.github.io",
+            "src": "chrome",
             "start": "12:15",
-            "end": "12:20",
-            "cat": "research",
-            "src": "chrome",
-            "title": "Posts | Ada's Notes",
-            "note": "adaren100.github.io"
+            "title": "Posts | Ada's Notes"
           },
           {
-            "start": "12:20",
-            "end": "12:20",
             "cat": "research",
+            "end": "12:20",
+            "note": "adaren100.github.io",
             "src": "chrome",
-            "title": "Posts | Ada's Notes",
-            "note": "adaren100.github.io"
+            "start": "12:20",
+            "title": "Posts | Ada's Notes"
           },
           {
-            "start": "12:20",
+            "cat": "research",
             "end": "12:22",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "chrome",
-            "title": "Posts | Ada's Notes",
-            "note": "adaren100.github.io"
+            "start": "12:20",
+            "title": "Posts | Ada's Notes"
           },
           {
-            "start": "12:22",
+            "cat": "research",
             "end": "12:23",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "chrome",
-            "title": "Posts | Ada's Notes",
-            "note": "adaren100.github.io"
+            "start": "12:22",
+            "title": "Posts | Ada's Notes"
           },
           {
-            "start": "12:23",
+            "cat": "research",
             "end": "12:25",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "chrome",
-            "title": "Posts | Ada's Notes",
-            "note": "adaren100.github.io"
+            "start": "12:23",
+            "title": "Posts | Ada's Notes"
           },
           {
-            "start": "12:25",
+            "cat": "research",
             "end": "12:27",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "chrome",
-            "title": "Posts | Ada's Notes",
-            "note": "adaren100.github.io"
+            "start": "12:25",
+            "title": "Posts | Ada's Notes"
           },
           {
-            "start": "12:27",
+            "cat": "research",
             "end": "12:28",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "chrome",
-            "title": "Posts | Ada's Notes",
-            "note": "adaren100.github.io"
+            "start": "12:27",
+            "title": "Posts | Ada's Notes"
           },
           {
-            "start": "12:28",
+            "cat": "research",
             "end": "12:32",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "chrome",
-            "title": "Posts | Ada's Notes",
-            "note": "adaren100.github.io"
+            "start": "12:28",
+            "title": "Posts | Ada's Notes"
           },
           {
-            "start": "12:52",
+            "cat": "research",
             "end": "12:56",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "macos",
-            "title": "Posts | Ada's Notes",
-            "note": "adaren100.github.io"
+            "start": "12:52",
+            "title": "Posts | Ada's Notes"
           },
           {
-            "start": "12:57",
+            "cat": "coding",
             "end": "12:58",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "12:57",
+            "title": "VSCode"
           },
           {
-            "start": "12:59",
+            "cat": "coding",
             "end": "12:59",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
-          },
-          {
             "start": "12:59",
+            "title": "VSCode"
+          },
+          {
+            "cat": "coding",
             "end": "13:00",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "12:59",
+            "title": "VSCode"
           },
           {
-            "start": "13:00",
+            "cat": "coding",
             "end": "13:01",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "13:00",
+            "title": "VSCode"
           },
           {
-            "start": "13:02",
+            "cat": "coding",
             "end": "13:03",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "13:02",
+            "title": "codex"
           },
           {
-            "start": "13:04",
+            "cat": "writing",
             "end": "13:05",
-            "cat": "writing",
+            "note": "md.obsidian",
             "src": "macos",
-            "title": "obsidian",
-            "note": "md.obsidian"
+            "start": "13:04",
+            "title": "obsidian"
           },
           {
-            "start": "13:06",
+            "cat": "coding",
             "end": "13:07",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "13:06",
+            "title": "codex"
           },
           {
-            "start": "13:08",
+            "cat": "coding",
             "end": "13:09",
-            "cat": "coding",
+            "note": "openrouter.ai",
             "src": "chrome",
-            "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute",
-            "note": "openrouter.ai"
+            "start": "13:08",
+            "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute"
           },
           {
-            "start": "13:09",
+            "cat": "writing",
             "end": "13:10",
-            "cat": "writing",
+            "note": "111 hits",
             "src": "claude",
-            "title": "发布文章：Agent Frameworks 对比",
-            "note": "111 hits"
+            "start": "13:09",
+            "title": "发布文章：Agent Frameworks 对比"
           },
           {
-            "start": "13:12",
+            "cat": "writing",
             "end": "13:13",
-            "cat": "writing",
+            "note": "111 hits",
             "src": "claude",
-            "title": "发布文章：Agent Frameworks 对比",
-            "note": "111 hits"
+            "start": "13:12",
+            "title": "发布文章：Agent Frameworks 对比"
           },
           {
-            "start": "13:15",
+            "cat": "writing",
             "end": "13:16",
-            "cat": "writing",
+            "note": "111 hits",
             "src": "claude",
-            "title": "发布文章：Agent Frameworks 对比",
-            "note": "111 hits"
+            "start": "13:15",
+            "title": "发布文章：Agent Frameworks 对比"
           },
           {
-            "start": "13:16",
+            "cat": "writing",
             "end": "13:18",
-            "cat": "writing",
+            "note": "111 hits",
             "src": "claude",
-            "title": "发布文章：Agent Frameworks 对比",
-            "note": "111 hits"
+            "start": "13:16",
+            "title": "发布文章：Agent Frameworks 对比"
           },
           {
-            "start": "13:18",
+            "cat": "writing",
             "end": "13:19",
-            "cat": "writing",
+            "note": "md.obsidian",
             "src": "macos",
-            "title": "obsidian",
-            "note": "md.obsidian"
+            "start": "13:18",
+            "title": "obsidian"
           },
           {
+            "cat": "writing",
+            "end": "13:22",
+            "note": "md.obsidian",
+            "src": "macos",
             "start": "13:20",
-            "end": "13:22",
-            "cat": "writing",
-            "src": "macos",
-            "title": "obsidian",
-            "note": "md.obsidian"
+            "title": "obsidian"
           },
           {
-            "start": "13:22",
-            "end": "13:22",
             "cat": "coding",
+            "end": "13:22",
+            "note": "openrouter.ai",
             "src": "chrome",
-            "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute",
-            "note": "openrouter.ai"
+            "start": "13:22",
+            "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute"
           },
           {
-            "start": "13:22",
+            "cat": "writing",
             "end": "13:41",
-            "cat": "writing",
+            "note": "md.obsidian",
             "src": "macos",
-            "title": "obsidian",
-            "note": "md.obsidian"
+            "start": "13:22",
+            "title": "obsidian"
           },
           {
-            "start": "13:41",
+            "cat": "writing",
             "end": "13:43",
-            "cat": "writing",
+            "note": "85 hits",
             "src": "claude",
-            "title": "发布文章：Agent Frameworks 对比",
-            "note": "85 hits"
+            "start": "13:41",
+            "title": "发布文章：Agent Frameworks 对比"
           },
           {
-            "start": "13:43",
+            "cat": "writing",
             "end": "13:44",
-            "cat": "writing",
+            "note": "85 hits",
             "src": "claude",
-            "title": "发布文章：Agent Frameworks 对比",
-            "note": "85 hits"
+            "start": "13:43",
+            "title": "发布文章：Agent Frameworks 对比"
           },
           {
-            "start": "13:44",
+            "cat": "writing",
             "end": "13:45",
-            "cat": "writing",
+            "note": "md.obsidian",
             "src": "macos",
-            "title": "obsidian",
-            "note": "md.obsidian"
+            "start": "13:44",
+            "title": "obsidian"
           },
           {
-            "start": "13:46",
+            "cat": "coding",
             "end": "13:47",
-            "cat": "coding",
+            "note": "openrouter.ai",
             "src": "chrome",
-            "title": "Workspace Overview | Settings | OpenRouter",
-            "note": "openrouter.ai"
+            "start": "13:46",
+            "title": "Workspace Overview | Settings | OpenRouter"
           },
           {
-            "start": "13:48",
+            "cat": "writing",
             "end": "13:49",
-            "cat": "writing",
+            "note": "214 hits",
             "src": "claude",
-            "title": "发布文章：Agent Frameworks 对比",
-            "note": "214 hits"
+            "start": "13:48",
+            "title": "发布文章：Agent Frameworks 对比"
           },
           {
-            "start": "13:50",
+            "cat": "writing",
             "end": "13:51",
-            "cat": "writing",
+            "note": "214 hits",
             "src": "claude",
-            "title": "发布文章：Agent Frameworks 对比",
-            "note": "214 hits"
+            "start": "13:50",
+            "title": "发布文章：Agent Frameworks 对比"
           },
           {
+            "cat": "writing",
+            "end": "13:53",
+            "note": "214 hits",
+            "src": "claude",
             "start": "13:52",
-            "end": "13:53",
-            "cat": "writing",
-            "src": "claude",
-            "title": "发布文章：Agent Frameworks 对比",
-            "note": "214 hits"
+            "title": "发布文章：Agent Frameworks 对比"
           },
           {
-            "start": "13:53",
-            "end": "13:53",
             "cat": "writing",
+            "end": "13:53",
+            "note": "214 hits",
             "src": "claude",
-            "title": "发布文章：Agent Frameworks 对比",
-            "note": "214 hits"
+            "start": "13:53",
+            "title": "发布文章：Agent Frameworks 对比"
           },
           {
-            "start": "13:53",
+            "cat": "writing",
             "end": "13:54",
-            "cat": "writing",
+            "note": "214 hits",
             "src": "claude",
-            "title": "发布文章：Agent Frameworks 对比",
-            "note": "214 hits"
+            "start": "13:53",
+            "title": "发布文章：Agent Frameworks 对比"
           },
           {
-            "start": "13:54",
+            "cat": "writing",
             "end": "13:56",
-            "cat": "writing",
+            "note": "214 hits",
             "src": "claude",
-            "title": "发布文章：Agent Frameworks 对比",
-            "note": "214 hits"
+            "start": "13:54",
+            "title": "发布文章：Agent Frameworks 对比"
           },
           {
-            "start": "13:57",
+            "cat": "writing",
             "end": "13:59",
-            "cat": "writing",
+            "note": "214 hits",
             "src": "claude",
-            "title": "发布文章：Agent Frameworks 对比",
-            "note": "214 hits"
+            "start": "13:57",
+            "title": "发布文章：Agent Frameworks 对比"
           },
           {
-            "start": "14:00",
+            "cat": "writing",
             "end": "14:01",
-            "cat": "writing",
+            "note": "214 hits",
             "src": "claude",
-            "title": "发布文章：Agent Frameworks 对比",
-            "note": "214 hits"
+            "start": "14:00",
+            "title": "发布文章：Agent Frameworks 对比"
           },
           {
-            "start": "14:01",
+            "cat": "writing",
             "end": "14:02",
-            "cat": "writing",
+            "note": "214 hits",
             "src": "claude",
-            "title": "发布文章：Agent Frameworks 对比",
-            "note": "214 hits"
+            "start": "14:01",
+            "title": "发布文章：Agent Frameworks 对比"
           },
           {
+            "cat": "writing",
+            "end": "14:04",
+            "note": "214 hits",
+            "src": "claude",
             "start": "14:02",
-            "end": "14:04",
-            "cat": "writing",
-            "src": "claude",
-            "title": "发布文章：Agent Frameworks 对比",
-            "note": "214 hits"
+            "title": "发布文章：Agent Frameworks 对比"
           },
           {
+            "cat": "writing",
+            "end": "14:04",
+            "note": "214 hits",
+            "src": "claude",
             "start": "14:04",
-            "end": "14:04",
-            "cat": "writing",
-            "src": "claude",
-            "title": "发布文章：Agent Frameworks 对比",
-            "note": "214 hits"
+            "title": "发布文章：Agent Frameworks 对比"
           },
           {
-            "start": "14:05",
+            "cat": "writing",
             "end": "14:06",
-            "cat": "writing",
+            "note": "214 hits",
             "src": "claude",
-            "title": "发布文章：Agent Frameworks 对比",
-            "note": "214 hits"
+            "start": "14:05",
+            "title": "发布文章：Agent Frameworks 对比"
           },
           {
-            "start": "14:06",
+            "cat": "writing",
             "end": "14:07",
-            "cat": "writing",
+            "note": "214 hits",
             "src": "claude",
-            "title": "发布文章：Agent Frameworks 对比",
-            "note": "214 hits"
+            "start": "14:06",
+            "title": "发布文章：Agent Frameworks 对比"
           },
           {
-            "start": "14:07",
+            "cat": "writing",
             "end": "14:08",
-            "cat": "writing",
+            "note": "214 hits",
             "src": "claude",
-            "title": "发布文章：Agent Frameworks 对比",
-            "note": "214 hits"
+            "start": "14:07",
+            "title": "发布文章：Agent Frameworks 对比"
           },
           {
-            "start": "14:09",
+            "cat": "writing",
             "end": "14:09",
-            "cat": "writing",
+            "note": "214 hits",
             "src": "claude",
-            "title": "发布文章：Agent Frameworks 对比",
-            "note": "214 hits"
+            "start": "14:09",
+            "title": "发布文章：Agent Frameworks 对比"
           },
           {
-            "start": "14:10",
+            "cat": "writing",
             "end": "14:11",
-            "cat": "writing",
+            "note": "md.obsidian",
             "src": "macos",
-            "title": "obsidian",
-            "note": "md.obsidian"
+            "start": "14:10",
+            "title": "obsidian"
           },
           {
-            "start": "14:15",
+            "cat": "writing",
             "end": "14:16",
-            "cat": "writing",
+            "note": "md.obsidian",
             "src": "macos",
-            "title": "obsidian",
-            "note": "md.obsidian"
+            "start": "14:15",
+            "title": "obsidian"
           },
           {
-            "start": "14:17",
+            "cat": "writing",
             "end": "14:18",
-            "cat": "writing",
+            "note": "md.obsidian",
             "src": "macos",
-            "title": "obsidian",
-            "note": "md.obsidian"
+            "start": "14:17",
+            "title": "obsidian"
           },
           {
-            "start": "14:19",
+            "cat": "writing",
             "end": "14:20",
-            "cat": "writing",
+            "note": "md.obsidian",
             "src": "macos",
-            "title": "obsidian",
-            "note": "md.obsidian"
+            "start": "14:19",
+            "title": "obsidian"
           },
           {
-            "start": "14:20",
+            "cat": "writing",
             "end": "14:21",
-            "cat": "writing",
+            "note": "md.obsidian",
             "src": "macos",
-            "title": "obsidian",
-            "note": "md.obsidian"
+            "start": "14:20",
+            "title": "obsidian"
           },
           {
-            "start": "14:21",
+            "cat": "writing",
             "end": "14:22",
-            "cat": "writing",
+            "note": "md.obsidian",
             "src": "macos",
-            "title": "obsidian",
-            "note": "md.obsidian"
+            "start": "14:21",
+            "title": "obsidian"
           },
           {
-            "start": "14:22",
+            "cat": "writing",
             "end": "14:23",
-            "cat": "writing",
+            "note": "md.obsidian",
             "src": "macos",
-            "title": "obsidian",
-            "note": "md.obsidian"
+            "start": "14:22",
+            "title": "obsidian"
           },
           {
-            "start": "14:23",
+            "cat": "writing",
             "end": "14:24",
-            "cat": "writing",
+            "note": "md.obsidian",
             "src": "macos",
-            "title": "obsidian",
-            "note": "md.obsidian"
+            "start": "14:23",
+            "title": "obsidian"
           },
           {
-            "start": "14:24",
+            "cat": "writing",
             "end": "14:25",
-            "cat": "writing",
+            "note": "md.obsidian",
             "src": "macos",
-            "title": "obsidian",
-            "note": "md.obsidian"
+            "start": "14:24",
+            "title": "obsidian"
           },
           {
-            "start": "14:26",
+            "cat": "writing",
             "end": "14:28",
-            "cat": "writing",
+            "note": "36 hits",
             "src": "claude",
-            "title": "发布文章：Agent Frameworks 对比",
-            "note": "36 hits"
+            "start": "14:26",
+            "title": "发布文章：Agent Frameworks 对比"
           },
           {
-            "start": "14:29",
+            "cat": "writing",
             "end": "14:30",
-            "cat": "writing",
+            "note": "36 hits",
             "src": "claude",
-            "title": "发布文章：Agent Frameworks 对比",
-            "note": "36 hits"
+            "start": "14:29",
+            "title": "发布文章：Agent Frameworks 对比"
           },
           {
-            "start": "14:30",
+            "cat": "writing",
             "end": "14:31",
-            "cat": "writing",
+            "note": "36 hits",
             "src": "claude",
-            "title": "发布文章：Agent Frameworks 对比",
-            "note": "36 hits"
+            "start": "14:30",
+            "title": "发布文章：Agent Frameworks 对比"
           },
           {
-            "start": "14:32",
+            "cat": "writing",
             "end": "14:33",
-            "cat": "writing",
+            "note": "4 hits",
             "src": "local",
-            "title": "Comparing Agent Frameworks.md",
-            "note": "4 hits"
+            "start": "14:32",
+            "title": "Comparing Agent Frameworks.md"
           },
           {
-            "start": "14:33",
+            "cat": "writing",
             "end": "14:34",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "br7v3cavr.txt",
-            "note": "3 hits"
+            "start": "14:33",
+            "title": "br7v3cavr.txt"
           },
           {
-            "start": "14:35",
+            "cat": "writing",
             "end": "14:36",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "bnzdxjob0.txt",
-            "note": "3 hits"
+            "start": "14:35",
+            "title": "bnzdxjob0.txt"
           },
           {
-            "start": "14:37",
+            "cat": "admin",
             "end": "14:38",
-            "cat": "admin",
+            "note": "google.com",
             "src": "chrome",
-            "title": "许家印 - Google Search",
-            "note": "google.com"
+            "start": "14:37",
+            "title": "许家印 - Google Search"
           },
           {
-            "start": "14:41",
+            "cat": "admin",
             "end": "14:42",
-            "cat": "admin",
+            "note": "google.com",
             "src": "chrome",
-            "title": "许家印 - Google Search",
-            "note": "google.com"
+            "start": "14:41",
+            "title": "许家印 - Google Search"
           },
           {
-            "start": "14:42",
+            "cat": "admin",
             "end": "14:43",
-            "cat": "admin",
+            "note": "google.com",
             "src": "chrome",
-            "title": "许家印 - Google Search",
-            "note": "google.com"
+            "start": "14:42",
+            "title": "许家印 - Google Search"
           },
           {
-            "start": "14:44",
+            "cat": "admin",
             "end": "14:45",
-            "cat": "admin",
+            "note": "google.com",
             "src": "chrome",
-            "title": "许家印 - Google Search",
-            "note": "google.com"
+            "start": "14:44",
+            "title": "许家印 - Google Search"
           },
           {
-            "start": "14:46",
+            "cat": "coding",
             "end": "14:46",
-            "cat": "coding",
+            "note": "81 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "81 hits"
+            "start": "14:46",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "14:47",
+            "cat": "coding",
             "end": "14:48",
-            "cat": "coding",
+            "note": "81 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "81 hits"
+            "start": "14:47",
+            "title": "Claude session · harbor"
           },
           {
+            "cat": "coding",
+            "end": "14:53",
+            "note": "81 hits",
+            "src": "claude",
             "start": "14:52",
-            "end": "14:53",
-            "cat": "coding",
-            "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "81 hits"
+            "title": "Claude session · harbor"
           },
           {
+            "cat": "coding",
+            "end": "14:53",
+            "note": "openrouter.ai",
+            "src": "chrome",
             "start": "14:53",
-            "end": "14:53",
-            "cat": "coding",
-            "src": "chrome",
-            "title": "Activity | OpenRouter",
-            "note": "openrouter.ai"
+            "title": "Activity | OpenRouter"
           },
           {
+            "cat": "coding",
+            "end": "14:56",
+            "note": "openrouter.ai",
+            "src": "chrome",
             "start": "14:55",
-            "end": "14:56",
-            "cat": "coding",
-            "src": "chrome",
-            "title": "Activity | OpenRouter",
-            "note": "openrouter.ai"
+            "title": "Activity | OpenRouter"
           },
           {
-            "start": "14:56",
-            "end": "14:56",
             "cat": "coding",
+            "end": "14:56",
+            "note": "openrouter.ai",
             "src": "chrome",
-            "title": "Activity | OpenRouter",
-            "note": "openrouter.ai"
+            "start": "14:56",
+            "title": "Activity | OpenRouter"
           },
           {
-            "start": "14:56",
+            "cat": "coding",
             "end": "14:57",
-            "cat": "coding",
+            "note": "openrouter.ai",
             "src": "chrome",
-            "title": "Activity | OpenRouter",
-            "note": "openrouter.ai"
+            "start": "14:56",
+            "title": "Activity | OpenRouter"
           },
           {
-            "start": "14:59",
+            "cat": "coding",
             "end": "15:00",
-            "cat": "coding",
+            "note": "openrouter.ai",
             "src": "chrome",
-            "title": "Activity | OpenRouter",
-            "note": "openrouter.ai"
+            "start": "14:59",
+            "title": "Activity | OpenRouter"
           },
           {
-            "start": "15:01",
+            "cat": "coding",
             "end": "15:02",
-            "cat": "coding",
+            "note": "openrouter.ai",
             "src": "chrome",
-            "title": "Activity | OpenRouter",
-            "note": "openrouter.ai"
+            "start": "15:01",
+            "title": "Activity | OpenRouter"
           },
           {
-            "start": "15:03",
+            "cat": "coding",
             "end": "15:03",
-            "cat": "coding",
+            "note": "openrouter.ai",
             "src": "chrome",
-            "title": "Activity | OpenRouter",
-            "note": "openrouter.ai"
+            "start": "15:03",
+            "title": "Activity | OpenRouter"
           },
           {
-            "start": "15:04",
+            "cat": "coding",
             "end": "15:05",
-            "cat": "coding",
+            "note": "openrouter.ai",
             "src": "chrome",
-            "title": "Activity | OpenRouter",
-            "note": "openrouter.ai"
+            "start": "15:04",
+            "title": "Activity | OpenRouter"
           },
           {
-            "start": "15:05",
+            "cat": "coding",
             "end": "15:07",
-            "cat": "coding",
+            "note": "openrouter.ai",
             "src": "chrome",
-            "title": "Activity | OpenRouter",
-            "note": "openrouter.ai"
+            "start": "15:05",
+            "title": "Activity | OpenRouter"
           },
           {
-            "start": "15:08",
+            "cat": "coding",
             "end": "15:08",
-            "cat": "coding",
+            "note": "openrouter.ai",
             "src": "chrome",
-            "title": "Activity | OpenRouter",
-            "note": "openrouter.ai"
+            "start": "15:08",
+            "title": "Activity | OpenRouter"
           },
           {
-            "start": "15:09",
+            "cat": "coding",
             "end": "15:10",
-            "cat": "coding",
+            "note": "openrouter.ai",
             "src": "chrome",
-            "title": "Activity | OpenRouter",
-            "note": "openrouter.ai"
+            "start": "15:09",
+            "title": "Activity | OpenRouter"
           },
           {
-            "start": "15:10",
+            "cat": "writing",
             "end": "15:12",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "15:10",
+            "title": "claude-code.txt"
           },
           {
-            "start": "15:12",
+            "cat": "writing",
             "end": "15:13",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "b1ojda255.txt",
-            "note": "3 hits"
+            "start": "15:12",
+            "title": "b1ojda255.txt"
           },
           {
-            "start": "15:14",
+            "cat": "writing",
             "end": "15:14",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "15:14",
+            "title": "claude-code.txt"
           },
           {
-            "start": "15:15",
+            "cat": "research",
             "end": "15:17",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "chrome",
-            "title": "Scaling Inherently Interpretable Language Models",
-            "note": "arxiv.org"
+            "start": "15:15",
+            "title": "Scaling Inherently Interpretable Language Models"
           },
           {
-            "start": "15:18",
+            "cat": "research",
             "end": "15:19",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "chrome",
-            "title": "Scaling Inherently Interpretable Language Models",
-            "note": "arxiv.org"
+            "start": "15:18",
+            "title": "Scaling Inherently Interpretable Language Models"
           },
           {
-            "start": "15:21",
+            "cat": "research",
             "end": "15:22",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "chrome",
-            "title": "Scaling Inherently Interpretable Language Models",
-            "note": "arxiv.org"
+            "start": "15:21",
+            "title": "Scaling Inherently Interpretable Language Models"
           },
           {
-            "start": "15:22",
+            "cat": "research",
             "end": "15:23",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "chrome",
-            "title": "Scaling Inherently Interpretable Language Models",
-            "note": "arxiv.org"
+            "start": "15:22",
+            "title": "Scaling Inherently Interpretable Language Models"
           },
           {
-            "start": "15:24",
+            "cat": "writing",
             "end": "15:25",
-            "cat": "writing",
+            "note": "md.obsidian",
             "src": "macos",
-            "title": "obsidian",
-            "note": "md.obsidian"
+            "start": "15:24",
+            "title": "obsidian"
           },
           {
-            "start": "15:26",
+            "cat": "personal",
             "end": "15:26",
-            "cat": "personal",
+            "note": "file:///Users/ada/Downloads/%E4%B8%AD%E5",
             "src": "chrome",
-            "title": "中国互联网发展脉络 · 分类明细表",
-            "note": "file:///Users/ada/Downloads/%E4%B8%AD%E5"
+            "start": "15:26",
+            "title": "中国互联网发展脉络 · 分类明细表"
           },
           {
-            "start": "15:27",
+            "cat": "personal",
             "end": "15:28",
-            "cat": "personal",
+            "note": "file:///Users/ada/Downloads/%E4%B8%AD%E5",
             "src": "chrome",
-            "title": "中国互联网发展脉络 · 分类明细表",
-            "note": "file:///Users/ada/Downloads/%E4%B8%AD%E5"
+            "start": "15:27",
+            "title": "中国互联网发展脉络 · 分类明细表"
           },
           {
-            "start": "15:28",
+            "cat": "writing",
             "end": "15:29",
-            "cat": "writing",
+            "note": "md.obsidian",
             "src": "macos",
-            "title": "obsidian",
-            "note": "md.obsidian"
+            "start": "15:28",
+            "title": "obsidian"
           },
           {
-            "start": "15:31",
+            "cat": "writing",
             "end": "15:33",
-            "cat": "writing",
+            "note": "md.obsidian",
             "src": "macos",
-            "title": "obsidian",
-            "note": "md.obsidian"
+            "start": "15:31",
+            "title": "obsidian"
           },
           {
-            "start": "15:33",
+            "cat": "writing",
             "end": "15:35",
-            "cat": "writing",
+            "note": "md.obsidian",
             "src": "macos",
-            "title": "obsidian",
-            "note": "md.obsidian"
+            "start": "15:33",
+            "title": "obsidian"
           },
           {
-            "start": "15:35",
+            "cat": "writing",
             "end": "15:36",
-            "cat": "writing",
+            "note": "md.obsidian",
             "src": "macos",
-            "title": "obsidian",
-            "note": "md.obsidian"
+            "start": "15:35",
+            "title": "obsidian"
           },
           {
-            "start": "15:38",
+            "cat": "writing",
             "end": "15:39",
-            "cat": "writing",
+            "note": "md.obsidian",
             "src": "macos",
-            "title": "obsidian",
-            "note": "md.obsidian"
+            "start": "15:38",
+            "title": "obsidian"
           },
           {
-            "start": "15:39",
+            "cat": "writing",
             "end": "15:40",
-            "cat": "writing",
+            "note": "md.obsidian",
             "src": "macos",
-            "title": "obsidian",
-            "note": "md.obsidian"
+            "start": "15:39",
+            "title": "obsidian"
           },
           {
+            "cat": "personal",
+            "end": "15:41",
+            "note": "file:///Users/ada/Downloads/%E4%B8%AD%E5",
+            "src": "chrome",
             "start": "15:40",
-            "end": "15:41",
-            "cat": "personal",
-            "src": "chrome",
-            "title": "中国互联网发展脉络 · 分类明细表",
-            "note": "file:///Users/ada/Downloads/%E4%B8%AD%E5"
+            "title": "中国互联网发展脉络 · 分类明细表"
           },
           {
+            "cat": "coding",
+            "end": "15:41",
+            "note": "com.microsoft.VSCode",
+            "src": "macos",
             "start": "15:41",
-            "end": "15:41",
-            "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "title": "VSCode"
           },
           {
-            "start": "15:43",
+            "cat": "personal",
             "end": "15:44",
-            "cat": "personal",
+            "note": "file:///Users/ada/Downloads/%E4%B8%AD%E5",
             "src": "chrome",
-            "title": "中国互联网发展脉络 · 分类明细表",
-            "note": "file:///Users/ada/Downloads/%E4%B8%AD%E5"
+            "start": "15:43",
+            "title": "中国互联网发展脉络 · 分类明细表"
           },
           {
-            "start": "15:44",
+            "cat": "personal",
             "end": "15:45",
-            "cat": "personal",
+            "note": "file:///Users/ada/Downloads/%E4%B8%AD%E5",
             "src": "chrome",
-            "title": "中国互联网发展脉络 · 分类明细表",
-            "note": "file:///Users/ada/Downloads/%E4%B8%AD%E5"
+            "start": "15:44",
+            "title": "中国互联网发展脉络 · 分类明细表"
           },
           {
-            "start": "15:46",
+            "cat": "writing",
             "end": "15:47",
-            "cat": "writing",
+            "note": "md.obsidian",
             "src": "macos",
-            "title": "obsidian",
-            "note": "md.obsidian"
+            "start": "15:46",
+            "title": "obsidian"
           },
           {
-            "start": "15:48",
+            "cat": "writing",
             "end": "15:48",
-            "cat": "writing",
+            "note": "md.obsidian",
             "src": "macos",
-            "title": "obsidian",
-            "note": "md.obsidian"
+            "start": "15:48",
+            "title": "obsidian"
           },
           {
-            "start": "15:49",
+            "cat": "personal",
             "end": "15:50",
-            "cat": "personal",
+            "note": "file:///Users/ada/Downloads/%E4%B8%AD%E5",
             "src": "chrome",
-            "title": "中国互联网发展脉络 · 分类明细表",
-            "note": "file:///Users/ada/Downloads/%E4%B8%AD%E5"
+            "start": "15:49",
+            "title": "中国互联网发展脉络 · 分类明细表"
           },
           {
-            "start": "15:51",
+            "cat": "writing",
             "end": "15:52",
-            "cat": "writing",
+            "note": "md.obsidian",
             "src": "macos",
-            "title": "obsidian",
-            "note": "md.obsidian"
+            "start": "15:51",
+            "title": "obsidian"
           },
           {
+            "cat": "personal",
+            "end": "15:54",
+            "note": "file:///Users/ada/Downloads/%E4%B8%AD%E5",
+            "src": "chrome",
             "start": "15:52",
-            "end": "15:54",
-            "cat": "personal",
-            "src": "chrome",
-            "title": "中国互联网发展脉络 · 分类明细表",
-            "note": "file:///Users/ada/Downloads/%E4%B8%AD%E5"
+            "title": "中国互联网发展脉络 · 分类明细表"
           },
           {
+            "cat": "personal",
+            "end": "15:54",
+            "note": "file:///Users/ada/Downloads/%E4%B8%AD%E5",
+            "src": "chrome",
             "start": "15:54",
-            "end": "15:54",
-            "cat": "personal",
-            "src": "chrome",
-            "title": "中国互联网发展脉络 · 分类明细表",
-            "note": "file:///Users/ada/Downloads/%E4%B8%AD%E5"
+            "title": "中国互联网发展脉络 · 分类明细表"
           },
           {
-            "start": "15:55",
+            "cat": "writing",
             "end": "15:55",
-            "cat": "writing",
+            "note": "md.obsidian",
             "src": "macos",
-            "title": "obsidian",
-            "note": "md.obsidian"
+            "start": "15:55",
+            "title": "obsidian"
           },
           {
-            "start": "15:58",
+            "cat": "personal",
             "end": "15:58",
-            "cat": "personal",
+            "note": "file:///Users/ada/Downloads/%E4%B8%AD%E5",
             "src": "chrome",
-            "title": "中国互联网发展脉络 · 分类明细表",
-            "note": "file:///Users/ada/Downloads/%E4%B8%AD%E5"
+            "start": "15:58",
+            "title": "中国互联网发展脉络 · 分类明细表"
           },
           {
-            "start": "15:59",
+            "cat": "personal",
             "end": "16:00",
-            "cat": "personal",
+            "note": "file:///Users/ada/Downloads/%E4%B8%AD%E5",
             "src": "chrome",
-            "title": "中国互联网发展脉络 · 分类明细表",
-            "note": "file:///Users/ada/Downloads/%E4%B8%AD%E5"
+            "start": "15:59",
+            "title": "中国互联网发展脉络 · 分类明细表"
           },
           {
-            "start": "16:00",
+            "cat": "writing",
             "end": "16:01",
-            "cat": "writing",
+            "note": "md.obsidian",
             "src": "macos",
-            "title": "obsidian",
-            "note": "md.obsidian"
+            "start": "16:00",
+            "title": "obsidian"
           },
           {
-            "start": "16:02",
+            "cat": "writing",
             "end": "16:03",
-            "cat": "writing",
+            "note": "md.obsidian",
             "src": "macos",
-            "title": "obsidian",
-            "note": "md.obsidian"
+            "start": "16:02",
+            "title": "obsidian"
           },
           {
-            "start": "16:03",
+            "cat": "writing",
             "end": "16:04",
-            "cat": "writing",
+            "note": "md.obsidian",
             "src": "macos",
-            "title": "obsidian",
-            "note": "md.obsidian"
+            "start": "16:03",
+            "title": "obsidian"
           },
           {
-            "start": "16:07",
+            "cat": "coding",
             "end": "16:08",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "16:07",
+            "title": "codex"
           },
           {
-            "start": "16:15",
+            "cat": "admin",
             "end": "16:16",
-            "cat": "admin",
+            "note": "com.microsoft.Excel",
             "src": "macos",
-            "title": "Excel",
-            "note": "com.microsoft.Excel"
+            "start": "16:15",
+            "title": "Excel"
           },
           {
-            "start": "16:16",
+            "cat": "coding",
             "end": "16:17",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "16:16",
+            "title": "codex"
           },
           {
-            "start": "16:17",
+            "cat": "admin",
             "end": "16:19",
-            "cat": "admin",
+            "note": "com.microsoft.Excel",
             "src": "macos",
-            "title": "Excel",
-            "note": "com.microsoft.Excel"
+            "start": "16:17",
+            "title": "Excel"
           },
           {
-            "start": "16:20",
+            "cat": "admin",
             "end": "16:21",
-            "cat": "admin",
+            "note": "com.microsoft.Excel",
             "src": "macos",
-            "title": "Excel",
-            "note": "com.microsoft.Excel"
+            "start": "16:20",
+            "title": "Excel"
           },
           {
-            "start": "16:21",
+            "cat": "coding",
             "end": "16:23",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "16:21",
+            "title": "codex"
           },
           {
-            "start": "16:25",
-            "end": "16:26",
             "cat": "research",
+            "end": "16:26",
+            "note": "adaren100.github.io",
             "src": "macos",
-            "title": "AI Digest — August 20, 2026 | Ada's Notes",
-            "note": "adaren100.github.io"
+            "start": "16:25",
+            "title": "AI Digest — August 20, 2026 | Ada's Notes"
           },
           {
-            "start": "16:26",
+            "cat": "coding",
             "end": "16:33",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "16:26",
+            "title": "VSCode"
           },
           {
+            "cat": "admin",
+            "end": "16:34",
+            "note": "com.microsoft.Excel",
+            "src": "macos",
             "start": "16:33",
-            "end": "16:34",
-            "cat": "admin",
-            "src": "macos",
-            "title": "Excel",
-            "note": "com.microsoft.Excel"
+            "title": "Excel"
           },
           {
+            "cat": "coding",
+            "end": "16:34",
+            "note": "openrouter.ai",
+            "src": "chrome",
             "start": "16:34",
-            "end": "16:34",
-            "cat": "coding",
-            "src": "chrome",
-            "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute",
-            "note": "openrouter.ai"
+            "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute"
           },
           {
-            "start": "16:35",
+            "cat": "coding",
             "end": "16:37",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "16:35",
+            "title": "VSCode"
           },
           {
-            "start": "16:38",
+            "cat": "admin",
             "end": "16:42",
-            "cat": "admin",
+            "note": "com.microsoft.Excel",
             "src": "macos",
-            "title": "Excel",
-            "note": "com.microsoft.Excel"
+            "start": "16:38",
+            "title": "Excel"
           },
           {
-            "start": "16:43",
+            "cat": "admin",
             "end": "16:45",
-            "cat": "admin",
+            "note": "com.microsoft.Excel",
             "src": "macos",
-            "title": "Excel",
-            "note": "com.microsoft.Excel"
+            "start": "16:43",
+            "title": "Excel"
           },
           {
-            "start": "16:46",
+            "cat": "admin",
             "end": "16:49",
-            "cat": "admin",
+            "note": "com.microsoft.Excel",
             "src": "macos",
-            "title": "Excel",
-            "note": "com.microsoft.Excel"
+            "start": "16:46",
+            "title": "Excel"
           },
           {
-            "start": "16:49",
+            "cat": "admin",
             "end": "16:51",
-            "cat": "admin",
+            "note": "com.microsoft.Excel",
             "src": "macos",
-            "title": "Excel",
-            "note": "com.microsoft.Excel"
+            "start": "16:49",
+            "title": "Excel"
           },
           {
-            "start": "16:51",
+            "cat": "coding",
             "end": "16:53",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "16:51",
+            "title": "VSCode"
           },
           {
-            "start": "16:53",
+            "cat": "writing",
             "end": "16:54",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "16:53",
+            "title": "claude-code.txt"
           },
           {
-            "start": "16:54",
+            "cat": "writing",
             "end": "16:57",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "16:54",
+            "title": "claude-code.txt"
           },
           {
-            "start": "16:57",
+            "cat": "coding",
             "end": "16:58",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "16:57",
+            "title": "VSCode"
           },
           {
-            "start": "16:58",
+            "cat": "coding",
             "end": "16:59",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "16:58",
+            "title": "VSCode"
           },
           {
-            "start": "16:59",
+            "cat": "coding",
             "end": "17:00",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "16:59",
+            "title": "VSCode"
           },
           {
-            "start": "17:00",
+            "cat": "coding",
             "end": "17:01",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "17:00",
+            "title": "VSCode"
           },
           {
-            "start": "17:01",
+            "cat": "coding",
             "end": "17:02",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "17:01",
+            "title": "VSCode"
           },
           {
-            "start": "17:02",
+            "cat": "coding",
             "end": "17:04",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "17:02",
+            "title": "VSCode"
           },
           {
-            "start": "17:04",
+            "cat": "coding",
             "end": "17:05",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "17:04",
+            "title": "VSCode"
           },
           {
-            "start": "17:05",
+            "cat": "coding",
             "end": "17:06",
-            "cat": "coding",
+            "note": "51 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "51 hits"
+            "start": "17:05",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "17:06",
+            "cat": "coding",
             "end": "17:07",
-            "cat": "coding",
+            "note": "51 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "51 hits"
+            "start": "17:06",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "17:07",
+            "cat": "coding",
             "end": "17:08",
-            "cat": "coding",
+            "note": "51 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "51 hits"
+            "start": "17:07",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "17:09",
+            "cat": "coding",
             "end": "17:11",
-            "cat": "coding",
+            "note": "51 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "51 hits"
+            "start": "17:09",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "17:11",
+            "cat": "admin",
             "end": "17:13",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "17:11",
+            "title": "Outlook"
           },
           {
-            "start": "17:14",
+            "cat": "admin",
             "end": "17:15",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "17:14",
+            "title": "Outlook"
           },
           {
-            "start": "17:15",
+            "cat": "writing",
             "end": "17:19",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "17:15",
+            "title": "claude-code.txt"
           },
           {
-            "start": "17:19",
+            "cat": "writing",
             "end": "17:24",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "17:19",
+            "title": "claude-code.txt"
           },
           {
-            "start": "17:24",
+            "cat": "writing",
             "end": "17:28",
-            "cat": "writing",
+            "note": "2 hits",
             "src": "local",
-            "title": "bdeevzor2.txt",
-            "note": "2 hits"
+            "start": "17:24",
+            "title": "bdeevzor2.txt"
           },
           {
-            "start": "17:28",
+            "cat": "writing",
             "end": "17:32",
-            "cat": "writing",
+            "note": "2 hits",
             "src": "local",
-            "title": "bdeevzor2.txt",
-            "note": "2 hits"
+            "start": "17:28",
+            "title": "bdeevzor2.txt"
           },
           {
-            "start": "17:33",
+            "cat": "writing",
             "end": "17:37",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "17:33",
+            "title": "claude-code.txt"
           },
           {
-            "start": "17:37",
+            "cat": "coding",
             "end": "17:41",
-            "cat": "coding",
+            "note": "5 hits",
             "src": "local",
-            "title": "result.json",
-            "note": "5 hits"
+            "start": "17:37",
+            "title": "result.json"
           },
           {
-            "start": "17:41",
+            "cat": "coding",
             "end": "17:42",
-            "cat": "coding",
+            "note": "5 hits",
             "src": "local",
-            "title": "result.json",
-            "note": "5 hits"
+            "start": "17:41",
+            "title": "result.json"
           },
           {
-            "start": "17:43",
+            "cat": "coding",
             "end": "17:44",
-            "cat": "coding",
+            "note": "5 hits",
             "src": "local",
-            "title": "result.json",
-            "note": "5 hits"
+            "start": "17:43",
+            "title": "result.json"
           },
           {
-            "start": "17:44",
+            "cat": "coding",
             "end": "17:45",
-            "cat": "coding",
+            "note": "5 hits",
             "src": "local",
-            "title": "result.json",
-            "note": "5 hits"
+            "start": "17:44",
+            "title": "result.json"
           },
           {
-            "start": "17:45",
+            "cat": "writing",
             "end": "17:46",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "17:45",
+            "title": "claude-code.txt"
           },
           {
-            "start": "17:46",
+            "cat": "writing",
             "end": "17:47",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "17:46",
+            "title": "reward.txt"
           },
           {
-            "start": "17:48",
+            "cat": "writing",
             "end": "17:49",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "17:48",
+            "title": "reward.txt"
           },
           {
-            "start": "17:49",
+            "cat": "writing",
             "end": "17:50",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "17:49",
+            "title": "claude-code.txt"
           },
           {
-            "start": "17:50",
+            "cat": "writing",
             "end": "17:52",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "17:50",
+            "title": "claude-code.txt"
           },
           {
-            "start": "17:52",
+            "cat": "writing",
             "end": "17:53",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "17:52",
+            "title": "claude-code.txt"
           },
           {
-            "start": "17:53",
+            "cat": "writing",
             "end": "17:55",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "17:53",
+            "title": "claude-code.txt"
           },
           {
-            "start": "17:55",
+            "cat": "writing",
             "end": "17:56",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "17:55",
+            "title": "claude-code.txt"
           },
           {
-            "start": "17:56",
+            "cat": "writing",
             "end": "17:58",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "17:56",
+            "title": "claude-code.txt"
           },
           {
-            "start": "17:58",
+            "cat": "writing",
             "end": "18:01",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "17:58",
+            "title": "claude-code.txt"
           },
           {
-            "start": "18:01",
+            "cat": "writing",
             "end": "18:04",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "18:01",
+            "title": "claude-code.txt"
           },
           {
-            "start": "18:04",
+            "cat": "writing",
             "end": "18:05",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "18:04",
+            "title": "claude-code.txt"
           },
           {
-            "start": "18:06",
+            "cat": "coding",
             "end": "18:06",
-            "cat": "coding",
+            "note": "5 hits",
             "src": "local",
-            "title": "result.json",
-            "note": "5 hits"
+            "start": "18:06",
+            "title": "result.json"
           },
           {
-            "start": "18:07",
+            "cat": "coding",
             "end": "18:09",
-            "cat": "coding",
+            "note": "5 hits",
             "src": "local",
-            "title": "result.json",
-            "note": "5 hits"
+            "start": "18:07",
+            "title": "result.json"
           },
           {
-            "start": "18:09",
+            "cat": "writing",
             "end": "18:10",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "18:09",
+            "title": "reward.txt"
           },
           {
+            "cat": "writing",
+            "end": "18:11",
+            "note": "3 hits",
+            "src": "local",
             "start": "18:10",
-            "end": "18:11",
-            "cat": "writing",
-            "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "title": "reward.txt"
           },
           {
+            "cat": "writing",
+            "end": "18:11",
+            "note": "3 hits",
+            "src": "local",
             "start": "18:11",
-            "end": "18:11",
-            "cat": "writing",
-            "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "title": "reward.txt"
           },
           {
-            "start": "18:12",
+            "cat": "writing",
             "end": "18:14",
-            "cat": "writing",
+            "note": "2 hits",
             "src": "local",
-            "title": "baef1qb6f.txt",
-            "note": "2 hits"
+            "start": "18:12",
+            "title": "baef1qb6f.txt"
           },
           {
-            "start": "18:14",
+            "cat": "writing",
             "end": "18:16",
-            "cat": "writing",
+            "note": "2 hits",
             "src": "local",
-            "title": "baef1qb6f.txt",
-            "note": "2 hits"
+            "start": "18:14",
+            "title": "baef1qb6f.txt"
           },
           {
-            "start": "18:16",
+            "cat": "writing",
             "end": "18:17",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "18:16",
+            "title": "claude-code.txt"
           },
           {
-            "start": "18:17",
+            "cat": "writing",
             "end": "18:19",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "18:17",
+            "title": "claude-code.txt"
           },
           {
-            "start": "18:19",
+            "cat": "writing",
             "end": "18:21",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "18:19",
+            "title": "claude-code.txt"
           },
           {
-            "start": "18:21",
+            "cat": "writing",
             "end": "18:22",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "18:21",
+            "title": "claude-code.txt"
           },
           {
-            "start": "18:22",
+            "cat": "writing",
             "end": "18:24",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "18:22",
+            "title": "claude-code.txt"
           },
           {
-            "start": "18:24",
+            "cat": "writing",
             "end": "18:26",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "18:24",
+            "title": "claude-code.txt"
           },
           {
-            "start": "18:26",
+            "cat": "writing",
             "end": "18:27",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "18:26",
+            "title": "claude-code.txt"
           },
           {
-            "start": "18:27",
+            "cat": "writing",
             "end": "18:28",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "18:27",
+            "title": "claude-code.txt"
           },
           {
-            "start": "18:29",
+            "cat": "coding",
             "end": "18:30",
-            "cat": "coding",
+            "note": "5 hits",
             "src": "local",
-            "title": "result.json",
-            "note": "5 hits"
+            "start": "18:29",
+            "title": "result.json"
           },
           {
-            "start": "18:30",
+            "cat": "coding",
             "end": "18:31",
-            "cat": "coding",
+            "note": "5 hits",
             "src": "local",
-            "title": "result.json",
-            "note": "5 hits"
+            "start": "18:30",
+            "title": "result.json"
           },
           {
-            "start": "18:32",
+            "cat": "writing",
             "end": "18:33",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "18:32",
+            "title": "reward.txt"
           },
           {
-            "start": "18:33",
+            "cat": "writing",
             "end": "18:34",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "18:33",
+            "title": "reward.txt"
           },
           {
-            "start": "18:34",
+            "cat": "writing",
             "end": "18:35",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "18:34",
+            "title": "reward.txt"
           },
           {
-            "start": "18:36",
+            "cat": "writing",
             "end": "18:38",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "18:36",
+            "title": "claude-code.txt"
           },
           {
-            "start": "18:38",
+            "cat": "writing",
             "end": "18:41",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "18:38",
+            "title": "claude-code.txt"
           },
           {
-            "start": "18:41",
+            "cat": "writing",
             "end": "18:43",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "18:41",
+            "title": "claude-code.txt"
           },
           {
-            "start": "18:43",
+            "cat": "admin",
             "end": "18:45",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "18:43",
+            "title": "Outlook"
           },
           {
-            "start": "18:45",
+            "cat": "admin",
             "end": "18:46",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "18:45",
+            "title": "Outlook"
           },
           {
-            "start": "18:46",
+            "cat": "admin",
             "end": "18:47",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "18:46",
+            "title": "Outlook"
           },
           {
-            "start": "18:47",
+            "cat": "coding",
             "end": "18:49",
-            "cat": "coding",
+            "note": "openrouter.ai",
             "src": "macos",
-            "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute",
-            "note": "openrouter.ai"
+            "start": "18:47",
+            "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute"
           },
           {
-            "start": "18:50",
+            "cat": "coding",
             "end": "18:50",
-            "cat": "coding",
+            "note": "openrouter.ai",
             "src": "macos",
-            "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute",
-            "note": "openrouter.ai"
-          },
-          {
             "start": "18:50",
+            "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute"
+          },
+          {
+            "cat": "coding",
             "end": "18:51",
-            "cat": "coding",
+            "note": "openrouter.ai",
             "src": "macos",
-            "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute",
-            "note": "openrouter.ai"
+            "start": "18:50",
+            "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute"
           },
           {
-            "start": "18:51",
+            "cat": "coding",
             "end": "18:53",
-            "cat": "coding",
+            "note": "openrouter.ai",
             "src": "macos",
-            "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute",
-            "note": "openrouter.ai"
+            "start": "18:51",
+            "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute"
           },
           {
-            "start": "18:53",
+            "cat": "writing",
             "end": "18:54",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "18:53",
+            "title": "claude-code.txt"
           },
           {
-            "start": "18:55",
+            "cat": "writing",
             "end": "18:55",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
-          },
-          {
             "start": "18:55",
+            "title": "reward.txt"
+          },
+          {
+            "cat": "writing",
             "end": "18:56",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "18:55",
+            "title": "reward.txt"
           },
           {
-            "start": "18:56",
+            "cat": "writing",
             "end": "18:57",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "18:56",
+            "title": "claude-code.txt"
           },
           {
-            "start": "18:57",
+            "cat": "writing",
             "end": "18:59",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "18:57",
+            "title": "claude-code.txt"
           },
           {
-            "start": "18:59",
+            "cat": "writing",
             "end": "19:00",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "18:59",
+            "title": "claude-code.txt"
           },
           {
-            "start": "19:00",
+            "cat": "writing",
             "end": "19:02",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "19:00",
+            "title": "claude-code.txt"
           },
           {
-            "start": "19:02",
+            "cat": "writing",
             "end": "19:03",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "19:02",
+            "title": "claude-code.txt"
           },
           {
-            "start": "19:03",
+            "cat": "writing",
             "end": "19:05",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "19:03",
+            "title": "claude-code.txt"
           },
           {
-            "start": "19:05",
+            "cat": "writing",
             "end": "19:06",
-            "cat": "writing",
+            "note": "2 hits",
             "src": "local",
-            "title": "brldbjhn1.txt",
-            "note": "2 hits"
+            "start": "19:05",
+            "title": "brldbjhn1.txt"
           },
           {
-            "start": "19:06",
+            "cat": "writing",
             "end": "19:08",
-            "cat": "writing",
+            "note": "2 hits",
             "src": "local",
-            "title": "brldbjhn1.txt",
-            "note": "2 hits"
+            "start": "19:06",
+            "title": "brldbjhn1.txt"
           },
           {
-            "start": "19:08",
+            "cat": "coding",
             "end": "19:10",
-            "cat": "coding",
+            "note": "openrouter.ai",
             "src": "macos",
-            "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute",
-            "note": "openrouter.ai"
+            "start": "19:08",
+            "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute"
           },
           {
-            "start": "19:10",
+            "cat": "coding",
             "end": "19:11",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "19:10",
+            "title": "VSCode"
           },
           {
-            "start": "19:12",
+            "cat": "coding",
             "end": "19:15",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "19:12",
+            "title": "VSCode"
           },
           {
-            "start": "19:15",
+            "cat": "coding",
             "end": "19:16",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "19:15",
+            "title": "VSCode"
           },
           {
-            "start": "19:17",
+            "cat": "writing",
             "end": "19:19",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "19:17",
+            "title": "claude-code.txt"
           },
           {
+            "cat": "coding",
+            "end": "19:21",
+            "note": "com.microsoft.VSCode",
+            "src": "macos",
             "start": "19:19",
-            "end": "19:21",
-            "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "title": "VSCode"
           },
           {
-            "start": "19:21",
-            "end": "19:21",
             "cat": "coding",
+            "end": "19:21",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "19:21",
+            "title": "VSCode"
           },
           {
-            "start": "19:21",
+            "cat": "coding",
             "end": "19:26",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "19:21",
+            "title": "VSCode"
           },
           {
-            "start": "19:26",
+            "cat": "coding",
             "end": "19:27",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "19:26",
+            "title": "VSCode"
           },
           {
-            "start": "19:27",
+            "cat": "coding",
             "end": "19:31",
-            "cat": "coding",
+            "note": "21 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "21 hits"
+            "start": "19:27",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "19:31",
+            "cat": "coding",
             "end": "19:32",
-            "cat": "coding",
+            "note": "21 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "21 hits"
+            "start": "19:31",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "19:32",
+            "cat": "coding",
             "end": "19:35",
-            "cat": "coding",
+            "note": "21 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "21 hits"
+            "start": "19:32",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "19:35",
+            "cat": "coding",
             "end": "19:36",
-            "cat": "coding",
+            "note": "21 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "21 hits"
+            "start": "19:35",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "19:36",
+            "cat": "coding",
             "end": "19:39",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "19:36",
+            "title": "VSCode"
           },
           {
+            "cat": "coding",
+            "end": "19:40",
+            "note": "com.microsoft.VSCode",
+            "src": "macos",
             "start": "19:39",
-            "end": "19:40",
-            "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "title": "VSCode"
           },
           {
+            "cat": "coding",
+            "end": "19:40",
+            "note": "com.microsoft.VSCode",
+            "src": "macos",
             "start": "19:40",
-            "end": "19:40",
-            "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "title": "VSCode"
           },
           {
-            "start": "19:41",
+            "cat": "coding",
             "end": "19:44",
-            "cat": "coding",
+            "note": "openrouter.ai",
             "src": "macos",
-            "title": "Workspace Overview | Settings | OpenRouter",
-            "note": "openrouter.ai"
+            "start": "19:41",
+            "title": "Workspace Overview | Settings | OpenRouter"
           },
           {
+            "cat": "coding",
+            "end": "19:45",
+            "note": "openrouter.ai",
+            "src": "macos",
             "start": "19:44",
-            "end": "19:45",
-            "cat": "coding",
-            "src": "macos",
-            "title": "Workspace Overview | Settings | OpenRouter",
-            "note": "openrouter.ai"
+            "title": "Workspace Overview | Settings | OpenRouter"
           },
           {
+            "cat": "coding",
+            "end": "19:45",
+            "note": "openrouter.ai",
+            "src": "macos",
             "start": "19:45",
-            "end": "19:45",
-            "cat": "coding",
-            "src": "macos",
-            "title": "Workspace Overview | Settings | OpenRouter",
-            "note": "openrouter.ai"
+            "title": "Workspace Overview | Settings | OpenRouter"
           },
           {
-            "start": "19:46",
+            "cat": "coding",
             "end": "19:47",
-            "cat": "coding",
+            "note": "openrouter.ai",
             "src": "macos",
-            "title": "Workspace Overview | Settings | OpenRouter",
-            "note": "openrouter.ai"
+            "start": "19:46",
+            "title": "Workspace Overview | Settings | OpenRouter"
           },
           {
-            "start": "19:47",
+            "cat": "coding",
             "end": "19:52",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "19:47",
+            "title": "VSCode"
           },
           {
-            "start": "19:52",
+            "cat": "coding",
             "end": "19:57",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "19:52",
+            "title": "VSCode"
           },
           {
-            "start": "19:58",
+            "cat": "coding",
             "end": "20:03",
-            "cat": "coding",
+            "note": "24 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "24 hits"
+            "start": "19:58",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "20:03",
+            "cat": "coding",
             "end": "20:07",
-            "cat": "coding",
+            "note": "36 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "36 hits"
+            "start": "20:03",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "20:07",
+            "cat": "coding",
             "end": "20:08",
-            "cat": "coding",
+            "note": "36 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "36 hits"
+            "start": "20:07",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "20:08",
+            "cat": "coding",
             "end": "20:12",
-            "cat": "coding",
+            "note": "36 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "36 hits"
+            "start": "20:08",
+            "title": "Claude session · harbor"
           },
           {
+            "cat": "coding",
+            "end": "20:14",
+            "note": "com.microsoft.VSCode",
+            "src": "macos",
             "start": "20:12",
-            "end": "20:14",
-            "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "title": "VSCode"
           },
           {
-            "start": "20:14",
-            "end": "20:14",
             "cat": "coding",
+            "end": "20:14",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "20:14",
+            "title": "VSCode"
           },
           {
-            "start": "20:14",
+            "cat": "coding",
             "end": "20:15",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "20:14",
+            "title": "VSCode"
           },
           {
+            "cat": "coding",
+            "end": "20:19",
+            "note": "34 hits",
+            "src": "claude",
             "start": "20:16",
-            "end": "20:19",
-            "cat": "coding",
-            "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "34 hits"
+            "title": "Claude session · harbor"
           },
           {
-            "start": "20:19",
-            "end": "20:19",
             "cat": "coding",
+            "end": "20:19",
+            "note": "34 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "34 hits"
+            "start": "20:19",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "20:19",
+            "cat": "coding",
             "end": "20:20",
-            "cat": "coding",
+            "note": "34 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "34 hits"
+            "start": "20:19",
+            "title": "Claude session · harbor"
           },
           {
+            "cat": "coding",
+            "end": "20:20",
+            "note": "34 hits",
+            "src": "claude",
             "start": "20:20",
-            "end": "20:20",
-            "cat": "coding",
-            "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "34 hits"
+            "title": "Claude session · harbor"
           },
           {
-            "start": "20:21",
+            "cat": "coding",
             "end": "20:25",
-            "cat": "coding",
+            "note": "34 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "34 hits"
+            "start": "20:21",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "20:25",
+            "cat": "coding",
             "end": "20:26",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "20:25",
+            "title": "VSCode"
           },
           {
-            "start": "20:26",
+            "cat": "coding",
             "end": "20:29",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "20:26",
+            "title": "VSCode"
           },
           {
-            "start": "20:29",
+            "cat": "coding",
             "end": "20:30",
-            "cat": "coding",
+            "note": "23 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "23 hits"
+            "start": "20:29",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "20:30",
+            "cat": "coding",
             "end": "20:33",
-            "cat": "coding",
+            "note": "23 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "23 hits"
+            "start": "20:30",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "20:34",
+            "cat": "coding",
             "end": "20:38",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "20:34",
+            "title": "VSCode"
           },
           {
-            "start": "20:38",
+            "cat": "coding",
             "end": "20:43",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "20:38",
+            "title": "VSCode"
           },
           {
-            "start": "20:44",
+            "cat": "coding",
             "end": "20:44",
-            "cat": "coding",
+            "note": "17 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "17 hits"
-          },
-          {
             "start": "20:44",
+            "title": "Claude session · harbor"
+          },
+          {
+            "cat": "coding",
             "end": "20:45",
-            "cat": "coding",
+            "note": "17 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "17 hits"
+            "start": "20:44",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "20:45",
+            "cat": "coding",
             "end": "20:47",
-            "cat": "coding",
+            "note": "17 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "17 hits"
+            "start": "20:45",
+            "title": "Claude session · harbor"
           },
           {
+            "cat": "coding",
+            "end": "20:49",
+            "note": "com.microsoft.VSCode",
+            "src": "macos",
             "start": "20:48",
-            "end": "20:49",
-            "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "title": "VSCode"
           },
           {
-            "start": "20:49",
-            "end": "20:49",
             "cat": "coding",
+            "end": "20:49",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "20:49",
+            "title": "VSCode"
           },
           {
-            "start": "20:49",
+            "cat": "coding",
             "end": "20:50",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "20:49",
+            "title": "VSCode"
           },
           {
-            "start": "20:50",
+            "cat": "coding",
             "end": "20:51",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "20:50",
+            "title": "VSCode"
           },
           {
-            "start": "20:51",
+            "cat": "coding",
             "end": "20:55",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "20:51",
+            "title": "VSCode"
           },
           {
-            "start": "20:55",
+            "cat": "coding",
             "end": "20:56",
-            "cat": "coding",
+            "note": "33 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "33 hits"
+            "start": "20:55",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "20:56",
+            "cat": "coding",
             "end": "21:00",
-            "cat": "coding",
+            "note": "33 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "33 hits"
+            "start": "20:56",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "21:00",
+            "cat": "coding",
             "end": "21:05",
-            "cat": "coding",
+            "note": "33 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "33 hits"
+            "start": "21:00",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "21:05",
+            "cat": "coding",
             "end": "21:09",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "21:05",
+            "title": "VSCode"
           },
           {
-            "start": "21:09",
+            "cat": "coding",
             "end": "21:10",
-            "cat": "coding",
+            "note": "291 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "291 hits"
+            "start": "21:09",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "21:10",
+            "cat": "coding",
             "end": "21:14",
-            "cat": "coding",
+            "note": "291 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "291 hits"
+            "start": "21:10",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "21:14",
+            "cat": "coding",
             "end": "21:15",
-            "cat": "coding",
+            "note": "291 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "291 hits"
+            "start": "21:14",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "21:15",
+            "cat": "coding",
             "end": "21:16",
-            "cat": "coding",
+            "note": "291 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "291 hits"
+            "start": "21:15",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "21:16",
+            "cat": "coding",
             "end": "21:17",
-            "cat": "coding",
+            "note": "291 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "291 hits"
+            "start": "21:16",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "21:18",
+            "cat": "coding",
             "end": "21:19",
-            "cat": "coding",
+            "note": "291 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "291 hits"
+            "start": "21:18",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "21:19",
+            "cat": "coding",
             "end": "21:20",
-            "cat": "coding",
+            "note": "291 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "291 hits"
+            "start": "21:19",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "21:20",
+            "cat": "coding",
             "end": "21:21",
-            "cat": "coding",
+            "note": "291 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "291 hits"
+            "start": "21:20",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "21:21",
+            "cat": "coding",
             "end": "21:22",
-            "cat": "coding",
+            "note": "291 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "291 hits"
+            "start": "21:21",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "21:23",
+            "cat": "coding",
             "end": "21:25",
-            "cat": "coding",
+            "note": "291 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "291 hits"
+            "start": "21:23",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "21:25",
+            "cat": "coding",
             "end": "21:26",
-            "cat": "coding",
+            "note": "291 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "291 hits"
+            "start": "21:25",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "21:27",
+            "cat": "coding",
             "end": "21:30",
-            "cat": "coding",
+            "note": "291 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "291 hits"
+            "start": "21:27",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "21:30",
+            "cat": "coding",
             "end": "21:31",
-            "cat": "coding",
+            "note": "291 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "291 hits"
+            "start": "21:30",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "21:31",
+            "cat": "coding",
             "end": "21:36",
-            "cat": "coding",
+            "note": "291 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "291 hits"
+            "start": "21:31",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "21:36",
+            "cat": "coding",
             "end": "21:37",
-            "cat": "coding",
+            "note": "291 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "291 hits"
+            "start": "21:36",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "21:37",
+            "cat": "coding",
             "end": "21:42",
-            "cat": "coding",
+            "note": "291 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "291 hits"
+            "start": "21:37",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "21:42",
+            "cat": "coding",
             "end": "21:44",
-            "cat": "coding",
+            "note": "291 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "291 hits"
+            "start": "21:42",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "21:44",
+            "cat": "coding",
             "end": "21:47",
-            "cat": "coding",
+            "note": "291 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "291 hits"
+            "start": "21:44",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "21:47",
+            "cat": "writing",
             "end": "21:49",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "21:47",
+            "title": "claude-code.txt"
           },
           {
-            "start": "21:50",
+            "cat": "writing",
             "end": "21:55",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "21:50",
+            "title": "claude-code.txt"
           },
           {
-            "start": "22:12",
+            "cat": "coding",
             "end": "22:13",
-            "cat": "coding",
+            "note": "1 hit",
             "src": "local",
-            "title": "fee_calculator.py",
-            "note": "1 hit"
+            "start": "22:12",
+            "title": "fee_calculator.py"
           },
           {
-            "start": "22:13",
+            "cat": "coding",
             "end": "22:14",
-            "cat": "coding",
+            "note": "1 hit",
             "src": "local",
-            "title": "fee_calculator.py",
-            "note": "1 hit"
+            "start": "22:13",
+            "title": "fee_calculator.py"
           },
           {
-            "start": "22:14",
+            "cat": "coding",
             "end": "22:15",
-            "cat": "coding",
+            "note": "1 hit",
             "src": "local",
-            "title": "fee_calculator.py",
-            "note": "1 hit"
+            "start": "22:14",
+            "title": "fee_calculator.py"
           },
           {
-            "start": "22:15",
+            "cat": "coding",
             "end": "22:16",
-            "cat": "coding",
+            "note": "1 hit",
             "src": "local",
-            "title": "fee_calculator.py",
-            "note": "1 hit"
+            "start": "22:15",
+            "title": "fee_calculator.py"
           },
           {
-            "start": "22:16",
+            "cat": "coding",
             "end": "22:17",
-            "cat": "coding",
+            "note": "1 hit",
             "src": "local",
-            "title": "fee_calculator.py",
-            "note": "1 hit"
+            "start": "22:16",
+            "title": "fee_calculator.py"
           },
           {
-            "start": "22:17",
+            "cat": "writing",
             "end": "22:18",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "22:17",
+            "title": "claude-code.txt"
           },
           {
-            "start": "22:18",
+            "cat": "writing",
             "end": "22:19",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "22:18",
+            "title": "reward.txt"
           },
           {
+            "cat": "writing",
+            "end": "22:20",
+            "note": "3 hits",
+            "src": "local",
             "start": "22:19",
-            "end": "22:20",
-            "cat": "writing",
-            "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "title": "reward.txt"
           },
           {
-            "start": "22:20",
-            "end": "22:20",
             "cat": "writing",
+            "end": "22:20",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "22:20",
+            "title": "reward.txt"
           },
           {
-            "start": "22:20",
+            "cat": "writing",
             "end": "22:21",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "22:20",
+            "title": "reward.txt"
           },
           {
-            "start": "22:21",
+            "cat": "writing",
             "end": "22:22",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "22:21",
+            "title": "reward.txt"
           },
           {
-            "start": "22:22",
+            "cat": "writing",
             "end": "22:23",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "22:22",
+            "title": "claude-code.txt"
           },
           {
-            "start": "22:23",
+            "cat": "writing",
             "end": "22:25",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "22:23",
+            "title": "claude-code.txt"
           },
           {
-            "start": "22:25",
+            "cat": "writing",
             "end": "22:27",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "22:25",
+            "title": "claude-code.txt"
           },
           {
-            "start": "22:27",
+            "cat": "writing",
             "end": "22:28",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "22:27",
+            "title": "claude-code.txt"
           },
           {
-            "start": "22:28",
+            "cat": "writing",
             "end": "22:30",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "22:28",
+            "title": "claude-code.txt"
           },
           {
-            "start": "22:30",
+            "cat": "writing",
             "end": "22:32",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "22:30",
+            "title": "claude-code.txt"
           },
           {
-            "start": "22:32",
+            "cat": "writing",
             "end": "22:34",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "22:32",
+            "title": "claude-code.txt"
           },
           {
-            "start": "22:34",
+            "cat": "writing",
             "end": "22:35",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "22:34",
+            "title": "claude-code.txt"
           },
           {
-            "start": "22:35",
+            "cat": "writing",
             "end": "22:37",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "22:35",
+            "title": "claude-code.txt"
           },
           {
-            "start": "22:37",
+            "cat": "writing",
             "end": "22:38",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "22:37",
+            "title": "claude-code.txt"
           },
           {
-            "start": "22:38",
+            "cat": "writing",
             "end": "22:39",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "22:38",
+            "title": "claude-code.txt"
           },
           {
-            "start": "22:39",
+            "cat": "coding",
             "end": "22:40",
-            "cat": "coding",
+            "note": "5 hits",
             "src": "local",
-            "title": "result.json",
-            "note": "5 hits"
+            "start": "22:39",
+            "title": "result.json"
           },
           {
-            "start": "22:40",
+            "cat": "coding",
             "end": "22:42",
-            "cat": "coding",
+            "note": "5 hits",
             "src": "local",
-            "title": "result.json",
-            "note": "5 hits"
+            "start": "22:40",
+            "title": "result.json"
           },
           {
+            "cat": "writing",
+            "end": "22:43",
+            "note": "3 hits",
+            "src": "local",
             "start": "22:42",
-            "end": "22:43",
-            "cat": "writing",
-            "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "title": "reward.txt"
           },
           {
+            "cat": "writing",
+            "end": "22:43",
+            "note": "3 hits",
+            "src": "local",
             "start": "22:43",
-            "end": "22:43",
-            "cat": "writing",
-            "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "title": "reward.txt"
           },
           {
-            "start": "22:44",
+            "cat": "writing",
             "end": "22:45",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "22:44",
+            "title": "reward.txt"
           },
           {
-            "start": "22:45",
+            "cat": "writing",
             "end": "22:49",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "22:45",
+            "title": "claude-code.txt"
           },
           {
-            "start": "22:49",
+            "cat": "writing",
             "end": "22:50",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "22:49",
+            "title": "claude-code.txt"
           },
           {
-            "start": "22:50",
+            "cat": "writing",
             "end": "22:54",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "22:50",
+            "title": "claude-code.txt"
           },
           {
-            "start": "22:56",
+            "cat": "writing",
             "end": "23:01",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "22:56",
+            "title": "claude-code.txt"
           },
           {
-            "start": "23:01",
+            "cat": "writing",
             "end": "23:05",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "23:01",
+            "title": "claude-code.txt"
           },
           {
-            "start": "23:05",
+            "cat": "writing",
             "end": "23:06",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "23:05",
+            "title": "claude-code.txt"
           },
           {
-            "start": "23:06",
+            "cat": "writing",
             "end": "23:10",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "23:06",
+            "title": "claude-code.txt"
           },
           {
-            "start": "23:10",
+            "cat": "coding",
             "end": "23:12",
-            "cat": "coding",
+            "note": "5 hits",
             "src": "local",
-            "title": "result.json",
-            "note": "5 hits"
+            "start": "23:10",
+            "title": "result.json"
           },
           {
-            "start": "23:12",
+            "cat": "coding",
             "end": "23:13",
-            "cat": "coding",
+            "note": "5 hits",
             "src": "local",
-            "title": "result.json",
-            "note": "5 hits"
+            "start": "23:12",
+            "title": "result.json"
           },
           {
-            "start": "23:13",
+            "cat": "coding",
             "end": "23:14",
-            "cat": "coding",
+            "note": "5 hits",
             "src": "local",
-            "title": "result.json",
-            "note": "5 hits"
+            "start": "23:13",
+            "title": "result.json"
           },
           {
-            "start": "23:14",
+            "cat": "writing",
             "end": "23:15",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "23:14",
+            "title": "claude-code.txt"
           },
           {
-            "start": "23:15",
+            "cat": "writing",
             "end": "23:16",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "23:15",
+            "title": "reward.txt"
           },
           {
-            "start": "23:16",
+            "cat": "writing",
             "end": "23:17",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "23:16",
+            "title": "reward.txt"
           },
           {
-            "start": "23:17",
+            "cat": "writing",
             "end": "23:18",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "23:17",
+            "title": "reward.txt"
           },
           {
-            "start": "23:18",
+            "cat": "writing",
             "end": "23:19",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "23:18",
+            "title": "claude-code.txt"
           },
           {
-            "start": "23:19",
+            "cat": "writing",
             "end": "23:21",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "23:19",
+            "title": "claude-code.txt"
           },
           {
-            "start": "23:21",
+            "cat": "writing",
             "end": "23:24",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "23:21",
+            "title": "claude-code.txt"
           },
           {
-            "start": "23:25",
+            "cat": "writing",
             "end": "23:29",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "23:25",
+            "title": "claude-code.txt"
           },
           {
-            "start": "23:29",
+            "cat": "writing",
             "end": "23:30",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "23:29",
+            "title": "claude-code.txt"
           },
           {
-            "start": "23:30",
+            "cat": "writing",
             "end": "23:32",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "23:30",
+            "title": "claude-code.txt"
           },
           {
-            "start": "23:32",
+            "cat": "writing",
             "end": "23:34",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "23:32",
+            "title": "claude-code.txt"
           },
           {
+            "cat": "writing",
+            "end": "23:37",
+            "note": "1 hit",
+            "src": "local",
             "start": "23:34",
-            "end": "23:37",
-            "cat": "writing",
-            "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "title": "claude-code.txt"
           },
           {
-            "start": "23:37",
-            "end": "23:37",
             "cat": "writing",
+            "end": "23:37",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "23:37",
+            "title": "claude-code.txt"
           },
           {
-            "start": "23:37",
-            "end": "23:39",
             "cat": "coding",
+            "end": "23:39",
+            "note": "5 hits",
             "src": "local",
-            "title": "result.json",
-            "note": "5 hits"
+            "start": "23:37",
+            "title": "result.json"
           },
           {
+            "cat": "coding",
+            "end": "23:39",
+            "note": "5 hits",
+            "src": "local",
             "start": "23:39",
-            "end": "23:39",
-            "cat": "coding",
-            "src": "local",
-            "title": "result.json",
-            "note": "5 hits"
+            "title": "result.json"
           },
           {
-            "start": "23:40",
+            "cat": "coding",
             "end": "23:41",
-            "cat": "coding",
+            "note": "5 hits",
             "src": "local",
-            "title": "result.json",
-            "note": "5 hits"
+            "start": "23:40",
+            "title": "result.json"
           },
           {
+            "cat": "writing",
+            "end": "23:42",
+            "note": "1 hit",
+            "src": "local",
             "start": "23:41",
-            "end": "23:42",
-            "cat": "writing",
-            "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "title": "claude-code.txt"
           },
           {
-            "start": "23:42",
-            "end": "23:42",
             "cat": "writing",
+            "end": "23:42",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "23:42",
+            "title": "reward.txt"
           },
           {
-            "start": "23:42",
+            "cat": "writing",
             "end": "23:44",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "23:42",
+            "title": "reward.txt"
           },
           {
+            "cat": "writing",
+            "end": "23:44",
+            "note": "3 hits",
+            "src": "local",
             "start": "23:44",
-            "end": "23:44",
-            "cat": "writing",
-            "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "title": "reward.txt"
           },
           {
-            "start": "23:45",
+            "cat": "writing",
             "end": "23:47",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "23:45",
+            "title": "claude-code.txt"
           },
           {
-            "start": "23:47",
+            "cat": "writing",
             "end": "23:49",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "23:47",
+            "title": "claude-code.txt"
           },
           {
-            "start": "23:49",
+            "cat": "writing",
             "end": "23:50",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "23:49",
+            "title": "claude-code.txt"
           },
           {
-            "start": "23:50",
+            "cat": "writing",
             "end": "23:52",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "23:50",
+            "title": "claude-code.txt"
           },
           {
-            "start": "23:52",
+            "cat": "writing",
             "end": "23:54",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "23:52",
+            "title": "claude-code.txt"
           },
           {
-            "start": "23:54",
+            "cat": "writing",
             "end": "23:55",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "23:54",
+            "title": "claude-code.txt"
           },
           {
-            "start": "23:55",
+            "cat": "writing",
             "end": "23:57",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "23:55",
+            "title": "claude-code.txt"
           },
           {
-            "start": "23:57",
+            "cat": "writing",
             "end": "23:59",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "23:57",
+            "title": "claude-code.txt"
           },
           {
+            "cat": "writing",
+            "end": "00:01",
+            "note": "1 hit",
+            "src": "local",
             "start": "23:59",
-            "end": "00:01",
-            "cat": "writing",
-            "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "title": "claude-code.txt"
           },
           {
+            "cat": "writing",
+            "end": "00:01",
+            "note": "1 hit",
+            "src": "local",
             "start": "00:01",
-            "end": "00:01",
-            "cat": "writing",
-            "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "title": "claude-code.txt"
           },
           {
-            "start": "00:03",
+            "cat": "coding",
             "end": "00:05",
-            "cat": "coding",
+            "note": "5 hits",
             "src": "local",
-            "title": "result.json",
-            "note": "5 hits"
+            "start": "00:03",
+            "title": "result.json"
           },
           {
-            "start": "00:05",
+            "cat": "writing",
             "end": "00:06",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "00:05",
+            "title": "claude-code.txt"
           },
           {
-            "start": "00:08",
+            "cat": "coding",
             "end": "00:11",
-            "cat": "coding",
+            "note": "openrouter.ai",
             "src": "chrome",
-            "title": "Credits | OpenRouter",
-            "note": "openrouter.ai"
+            "start": "00:08",
+            "title": "Credits | OpenRouter"
           },
           {
-            "start": "00:12",
+            "cat": "coding",
             "end": "00:16",
-            "cat": "coding",
+            "note": "openrouter.ai",
             "src": "chrome",
-            "title": "Credits | OpenRouter",
-            "note": "openrouter.ai"
+            "start": "00:12",
+            "title": "Credits | OpenRouter"
           },
           {
-            "start": "00:17",
+            "cat": "coding",
             "end": "00:20",
-            "cat": "coding",
+            "note": "openrouter.ai",
             "src": "chrome",
-            "title": "Credits | OpenRouter",
-            "note": "openrouter.ai"
+            "start": "00:17",
+            "title": "Credits | OpenRouter"
           },
           {
-            "start": "00:20",
+            "cat": "coding",
             "end": "00:21",
-            "cat": "coding",
+            "note": "openrouter.ai",
             "src": "chrome",
-            "title": "Credits | OpenRouter",
-            "note": "openrouter.ai"
+            "start": "00:20",
+            "title": "Credits | OpenRouter"
           },
           {
-            "start": "00:21",
+            "cat": "coding",
             "end": "00:24",
-            "cat": "coding",
+            "note": "openrouter.ai",
             "src": "chrome",
-            "title": "Credits | OpenRouter",
-            "note": "openrouter.ai"
+            "start": "00:21",
+            "title": "Credits | OpenRouter"
           },
           {
-            "start": "00:24",
+            "cat": "coding",
             "end": "00:25",
-            "cat": "coding",
+            "note": "openrouter.ai",
             "src": "chrome",
-            "title": "Credits | OpenRouter",
-            "note": "openrouter.ai"
+            "start": "00:24",
+            "title": "Credits | OpenRouter"
           },
           {
-            "start": "00:25",
+            "cat": "coding",
             "end": "00:26",
-            "cat": "coding",
+            "note": "openrouter.ai",
             "src": "chrome",
-            "title": "Credits | OpenRouter",
-            "note": "openrouter.ai"
+            "start": "00:25",
+            "title": "Credits | OpenRouter"
           },
           {
-            "start": "00:26",
+            "cat": "writing",
             "end": "00:28",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "00:26",
+            "title": "claude-code.txt"
           },
           {
-            "start": "00:28",
+            "cat": "writing",
             "end": "00:29",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "00:28",
+            "title": "claude-code.txt"
           },
           {
-            "start": "00:29",
+            "cat": "coding",
             "end": "00:30",
-            "cat": "coding",
+            "note": "5 hits",
             "src": "local",
-            "title": "result.json",
-            "note": "5 hits"
+            "start": "00:29",
+            "title": "result.json"
           },
           {
+            "cat": "coding",
+            "end": "00:33",
+            "note": "5 hits",
+            "src": "local",
             "start": "00:30",
-            "end": "00:33",
-            "cat": "coding",
-            "src": "local",
-            "title": "result.json",
-            "note": "5 hits"
+            "title": "result.json"
           },
           {
-            "start": "00:33",
-            "end": "00:33",
             "cat": "writing",
+            "end": "00:33",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "00:33",
+            "title": "claude-code.txt"
           },
           {
-            "start": "00:33",
+            "cat": "writing",
             "end": "00:34",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "00:33",
+            "title": "reward.txt"
           },
           {
-            "start": "00:34",
-            "end": "00:35",
             "cat": "writing",
+            "end": "00:35",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "00:34",
+            "title": "reward.txt"
           }
         ],
+        "key": "2026-8-20",
         "logged": 680,
-        "real": 640,
-        "deep": 640,
         "ratio": 0.9414565717775443,
+        "real": 640,
         "stats": {
           "contextSwitches": 81,
-          "tabsOpened": 150,
+          "justOneMoreThing": 6,
           "longestFocus": "5h",
-          "justOneMoreThing": 6
-        }
+          "tabsOpened": 150
+        },
+        "weekend": false
       },
       {
         "key": "2026-8-21",
@@ -66041,7 +66041,7 @@
         "dateShort": "Fri, Aug 21",
         "dateLong": "Friday, August 21",
         "dayStart": "09:29",
-        "dayEnd": "10:25",
+        "dayEnd": "18:29",
         "events": [
           {
             "start": "09:29",
@@ -66052,39 +66052,1687 @@
             "note": "openrouter.ai"
           },
           {
-            "start": "10:05",
-            "end": "10:11",
-            "cat": "writing",
-            "src": "local",
-            "title": "2026-08-20-introducing-ai-futures.md",
-            "note": "2 hits"
-          },
-          {
-            "start": "10:11",
+            "start": "10:04",
             "end": "10:23",
             "cat": "coding",
-            "src": "local",
-            "title": "visualization.ipynb",
-            "note": "2 hits"
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
           },
           {
             "start": "10:23",
-            "end": "10:25",
+            "end": "10:37",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "10:37",
+            "end": "10:44",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Trending Papers + Weekly Seminar - ada.ren.cn@gmail.com - Gm",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "10:44",
+            "end": "10:46",
+            "cat": "research",
+            "src": "macos",
+            "title": "Why Does CLAUDE.md Keep Growing? Catastrophic Remembering in",
+            "note": "alphaxiv.org"
+          },
+          {
+            "start": "10:46",
+            "end": "10:47",
+            "cat": "research",
+            "src": "macos",
+            "title": "Why Does CLAUDE.md Keep Growing?Catastrophic Remembering in ",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "10:47",
+            "end": "10:54",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Trending Papers + Weekly Seminar - ada.ren.cn@gmail.com - Gm",
+            "note": "accounts.google.com"
+          },
+          {
+            "start": "10:55",
+            "end": "10:59",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Feed | LinkedIn",
+            "note": "linkedin.com"
+          },
+          {
+            "start": "10:59",
+            "end": "11:04",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:04",
+            "end": "11:06",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:06",
+            "end": "11:10",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Feed | LinkedIn",
+            "note": "linkedin.com"
+          },
+          {
+            "start": "11:11",
+            "end": "11:15",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:15",
+            "end": "11:15",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:16",
+            "end": "11:20",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:20",
+            "end": "11:21",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:21",
+            "end": "11:23",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:24",
+            "end": "11:26",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Feed | LinkedIn",
+            "note": "linkedin.com"
+          },
+          {
+            "start": "11:26",
+            "end": "11:27",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "11:27",
+            "end": "11:31",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "11:32",
+            "end": "11:34",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "11:35",
+            "end": "11:35",
+            "cat": "research",
+            "src": "macos",
+            "title": "Introducing AI Futures | OpenAI",
+            "note": "openai.com"
+          },
+          {
+            "start": "11:36",
+            "end": "11:40",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Stampli cuts launch hours by 68% using ChatGPT Work | Ada's ",
+            "note": "openai.com"
+          },
+          {
+            "start": "11:40",
+            "end": "11:41",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Deep Finance",
+            "note": "deepfinance.com.au"
+          },
+          {
+            "start": "11:42",
+            "end": "11:44",
+            "cat": "research",
+            "src": "macos",
+            "title": "AI Digest — August 21, 2026 | Ada's Notes",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "11:44",
+            "end": "11:45",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(3) Madhu Guru (@realmadhuguru) / X",
+            "note": "x.com"
+          },
+          {
+            "start": "11:45",
+            "end": "11:47",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(3) Madhu Guru (@realmadhuguru) / X",
+            "note": "x.com"
+          },
+          {
+            "start": "11:47",
+            "end": "11:48",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(3) Madhu Guru (@realmadhuguru) / X",
+            "note": "x.com"
+          },
+          {
+            "start": "11:48",
+            "end": "11:48",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(3) Madhu Guru (@realmadhuguru) / X",
+            "note": "x.com"
+          },
+          {
+            "start": "11:48",
+            "end": "11:49",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(3) Madhu Guru (@realmadhuguru) / X",
+            "note": "x.com"
+          },
+          {
+            "start": "11:49",
+            "end": "11:49",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(3) Madhu Guru (@realmadhuguru) / X",
+            "note": "x.com"
+          },
+          {
+            "start": "11:49",
+            "end": "11:50",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Stampli cuts launch hours by 68% using ChatGPT Work | Ada's ",
+            "note": "openai.com"
+          },
+          {
+            "start": "11:50",
+            "end": "11:52",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(89) Full Walkthrough: Workflow for AI Coding — Matt Pocock ",
+            "note": "youtube.com"
+          },
+          {
+            "start": "11:52",
+            "end": "11:53",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(89) Full Walkthrough: Workflow for AI Coding — Matt Pocock ",
+            "note": "youtube.com"
+          },
+          {
+            "start": "11:53",
+            "end": "11:53",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(89) Full Walkthrough: Workflow for AI Coding — Matt Pocock ",
+            "note": "youtube.com"
+          },
+          {
+            "start": "11:54",
+            "end": "11:55",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(3) X 上的 swyx：“by total views, matt’s now the top @aidotengi",
+            "note": "x.com"
+          },
+          {
+            "start": "11:56",
+            "end": "12:01",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(3) X 上的 swyx：“by total views, matt’s now the top @aidotengi",
+            "note": "x.com"
+          },
+          {
+            "start": "12:01",
+            "end": "12:02",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "4 hits"
+          },
+          {
+            "start": "12:03",
+            "end": "12:07",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "12:07",
+            "end": "12:08",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Workspace Overview | Settings | OpenRouter",
+            "note": "openrouter.ai"
+          },
+          {
+            "start": "12:08",
+            "end": "12:13",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Workspace Overview | Settings | OpenRouter",
+            "note": "openrouter.ai"
+          },
+          {
+            "start": "12:13",
+            "end": "12:15",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Workspace Overview | Settings | OpenRouter",
+            "note": "openrouter.ai"
+          },
+          {
+            "start": "12:15",
+            "end": "12:20",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Workspace Overview | Settings | OpenRouter",
+            "note": "openrouter.ai"
+          },
+          {
+            "start": "12:20",
+            "end": "12:22",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Workspace Overview | Settings | OpenRouter",
+            "note": "openrouter.ai"
+          },
+          {
+            "start": "12:22",
+            "end": "12:27",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "12:27",
+            "end": "12:31",
             "cat": "coding",
             "src": "local",
-            "title": "test_codex_auth.py",
+            "title": "lock.json",
+            "note": "6 hits"
+          },
+          {
+            "start": "12:31",
+            "end": "12:32",
+            "cat": "coding",
+            "src": "local",
+            "title": "lock.json",
+            "note": "6 hits"
+          },
+          {
+            "start": "12:32",
+            "end": "12:33",
+            "cat": "coding",
+            "src": "local",
+            "title": "lock.json",
+            "note": "6 hits"
+          },
+          {
+            "start": "12:33",
+            "end": "12:34",
+            "cat": "coding",
+            "src": "local",
+            "title": "lock.json",
+            "note": "6 hits"
+          },
+          {
+            "start": "12:34",
+            "end": "12:34",
+            "cat": "coding",
+            "src": "local",
+            "title": "lock.json",
+            "note": "6 hits"
+          },
+          {
+            "start": "12:34",
+            "end": "12:36",
+            "cat": "coding",
+            "src": "local",
+            "title": "lock.json",
+            "note": "6 hits"
+          },
+          {
+            "start": "12:36",
+            "end": "12:36",
+            "cat": "writing",
+            "src": "local",
+            "title": "README.md",
+            "note": "2 hits"
+          },
+          {
+            "start": "12:36",
+            "end": "12:37",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "12:37",
+            "end": "12:38",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "12:38",
+            "end": "12:38",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "12:39",
+            "end": "12:39",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "12:39",
+            "end": "12:49",
+            "cat": "coding",
+            "src": "local",
+            "title": "lock.json",
+            "note": "5 hits"
+          },
+          {
+            "start": "12:49",
+            "end": "12:57",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "12:57",
+            "end": "13:02",
+            "cat": "writing",
+            "src": "local",
+            "title": "codex.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "13:02",
+            "end": "13:03",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "13:03",
+            "end": "13:08",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "13:08",
+            "end": "13:09",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "13:09",
+            "end": "13:14",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "13:14",
+            "end": "13:16",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "13:16",
+            "end": "13:21",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "13:21",
+            "end": "13:22",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "13:22",
+            "end": "13:27",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "13:27",
+            "end": "13:28",
+            "cat": "coding",
+            "src": "local",
+            "title": "lock.json",
+            "note": "4 hits"
+          },
+          {
+            "start": "13:28",
+            "end": "13:29",
+            "cat": "coding",
+            "src": "local",
+            "title": "lock.json",
+            "note": "4 hits"
+          },
+          {
+            "start": "13:29",
+            "end": "13:30",
+            "cat": "coding",
+            "src": "local",
+            "title": "lock.json",
+            "note": "4 hits"
+          },
+          {
+            "start": "13:30",
+            "end": "13:31",
+            "cat": "coding",
+            "src": "local",
+            "title": "lock.json",
+            "note": "4 hits"
+          },
+          {
+            "start": "13:31",
+            "end": "13:32",
+            "cat": "coding",
+            "src": "local",
+            "title": "lock.json",
+            "note": "4 hits"
+          },
+          {
+            "start": "13:32",
+            "end": "13:33",
+            "cat": "writing",
+            "src": "local",
+            "title": "codex.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "13:33",
+            "end": "13:34",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "13:34",
+            "end": "13:35",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "13:35",
+            "end": "13:36",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "13:36",
+            "end": "13:37",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "13:39",
+            "end": "13:40",
+            "cat": "writing",
+            "src": "local",
+            "title": "codex.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "13:40",
+            "end": "13:44",
+            "cat": "coding",
+            "src": "macos",
+            "title": "OpenRouter",
+            "note": "openrouter.ai"
+          },
+          {
+            "start": "13:45",
+            "end": "13:46",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "13:46",
+            "end": "13:48",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "OpenRouter",
+            "note": "openrouter.com"
+          },
+          {
+            "start": "13:48",
+            "end": "13:49",
+            "cat": "research",
+            "src": "macos",
+            "title": "Venues | OpenReview",
+            "note": "openreview.net"
+          },
+          {
+            "start": "13:49",
+            "end": "13:50",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "OpenRouter",
+            "note": "openrouter.com"
+          },
+          {
+            "start": "13:50",
+            "end": "13:51",
+            "cat": "research",
+            "src": "macos",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+            "note": "openreview.net"
+          },
+          {
+            "start": "13:51",
+            "end": "13:52",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "OpenRouter",
+            "note": "openrouter.com"
+          },
+          {
+            "start": "13:52",
+            "end": "13:55",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "13:55",
+            "end": "13:56",
+            "cat": "research",
+            "src": "macos",
+            "title": "EMNLP 2026 Conference Authors | OpenReview",
+            "note": "openreview.net"
+          },
+          {
+            "start": "13:56",
+            "end": "13:56",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "13:57",
+            "end": "13:59",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "14:00",
+            "end": "14:02",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "14:02",
+            "end": "14:03",
+            "cat": "admin",
+            "src": "macos",
+            "title": "roosters - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "14:03",
+            "end": "14:06",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "14:07",
+            "end": "14:07",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "14:08",
+            "end": "14:11",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "14:11",
+            "end": "14:12",
+            "cat": "research",
+            "src": "macos",
+            "title": "EMNLP 2026 Conference Authors | OpenReview",
+            "note": "openreview.net"
+          },
+          {
+            "start": "14:12",
+            "end": "14:14",
+            "cat": "research",
+            "src": "macos",
+            "title": "EMNLP 2026 Conference Authors | OpenReview",
+            "note": "openreview.net"
+          },
+          {
+            "start": "14:14",
+            "end": "14:15",
+            "cat": "research",
+            "src": "macos",
+            "title": "EMNLP 2026 Conference Authors | OpenReview",
+            "note": "openreview.net"
+          },
+          {
+            "start": "14:15",
+            "end": "14:16",
+            "cat": "research",
+            "src": "macos",
+            "title": "EMNLP 2026 Conference Authors | OpenReview",
+            "note": "openreview.net"
+          },
+          {
+            "start": "14:17",
+            "end": "14:17",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Google Maps",
+            "note": "map.google.com"
+          },
+          {
+            "start": "14:17",
+            "end": "14:19",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Google Maps",
+            "note": "map.google.com"
+          },
+          {
+            "start": "14:20",
+            "end": "14:21",
+            "cat": "research",
+            "src": "macos",
+            "title": "EMNLP 2026 Conference Authors | OpenReview",
+            "note": "openreview.net"
+          },
+          {
+            "start": "14:21",
+            "end": "14:22",
+            "cat": "research",
+            "src": "macos",
+            "title": "EMNLP 2026 Conference Authors | OpenReview",
+            "note": "openreview.net"
+          },
+          {
+            "start": "14:22",
+            "end": "14:27",
+            "cat": "research",
+            "src": "macos",
+            "title": "EMNLP 2026 Conference Authors | OpenReview",
+            "note": "openreview.net"
+          },
+          {
+            "start": "14:27",
+            "end": "14:28",
+            "cat": "research",
+            "src": "macos",
+            "title": "EMNLP 2026 Conference Authors | OpenReview",
+            "note": "openreview.net"
+          },
+          {
+            "start": "14:28",
+            "end": "14:29",
+            "cat": "research",
+            "src": "macos",
+            "title": "EMNLP 2026 Conference Authors | OpenReview",
+            "note": "openreview.net"
+          },
+          {
+            "start": "14:29",
+            "end": "14:31",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Silico - the platform for ambitious AI research",
+            "note": "goodfire.com"
+          },
+          {
+            "start": "14:31",
+            "end": "14:33",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Chargrill Charlie - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "14:34",
+            "end": "14:36",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+            "note": "openreview.net"
+          },
+          {
+            "start": "14:37",
+            "end": "14:37",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Get Silico - Individuals",
+            "note": "goodfire.com"
+          },
+          {
+            "start": "14:37",
+            "end": "14:38",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "14:38",
+            "end": "14:40",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "14:40",
+            "end": "14:43",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "14:43",
+            "end": "14:45",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Get Silico - Individuals",
+            "note": "goodfire.com"
+          },
+          {
+            "start": "14:45",
+            "end": "14:46",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "14:46",
+            "end": "14:49",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "14:49",
+            "end": "14:51",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Goodfire AI",
+            "note": "goodfire.com"
+          },
+          {
+            "start": "14:51",
+            "end": "14:52",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Goodfire AI",
+            "note": "goodfire.com"
+          },
+          {
+            "start": "14:52",
+            "end": "14:53",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Goodfire AI",
+            "note": "goodfire.com"
+          },
+          {
+            "start": "14:53",
+            "end": "14:55",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Goodfire AI",
+            "note": "goodfire.com"
+          },
+          {
+            "start": "14:55",
+            "end": "14:56",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Goodfire AI",
+            "note": "goodfire.com"
+          },
+          {
+            "start": "14:56",
+            "end": "14:57",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Goodfire AI",
+            "note": "goodfire.com"
+          },
+          {
+            "start": "14:57",
+            "end": "14:58",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "Week5_5.1_Hands On Activity.mp4",
+            "note": "echo360.net.au"
+          },
+          {
+            "start": "14:58",
+            "end": "15:00",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "Week5_5.1_Hands On Activity.mp4",
+            "note": "echo360.net.au"
+          },
+          {
+            "start": "15:00",
+            "end": "15:01",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "Week5_5.1_Hands On Activity.mp4",
+            "note": "echo360.net.au"
+          },
+          {
+            "start": "15:01",
+            "end": "15:02",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "Week5_5.1_Hands On Activity.mp4",
+            "note": "echo360.net.au"
+          },
+          {
+            "start": "15:02",
+            "end": "15:07",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "Week5_5.1_Hands On Activity.mp4",
+            "note": "echo360.net.au"
+          },
+          {
+            "start": "15:07",
+            "end": "15:12",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "Week5_5.1_Hands On Activity.mp4",
+            "note": "echo360.net.au"
+          },
+          {
+            "start": "15:12",
+            "end": "15:16",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "Week5_5.1_Hands On Activity.mp4",
+            "note": "echo360.net.au"
+          },
+          {
+            "start": "15:17",
+            "end": "15:21",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "Week5_5.1_Hands On Activity.mp4",
+            "note": "echo360.net.au"
+          },
+          {
+            "start": "15:21",
+            "end": "15:25",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "Week5_5.1_Hands On Activity.mp4",
+            "note": "echo360.net.au"
+          },
+          {
+            "start": "15:25",
+            "end": "15:26",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "Week5_5.1_Hands On Activity.mp4",
+            "note": "echo360.net.au"
+          },
+          {
+            "start": "15:26",
+            "end": "15:27",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "Week5_5.1_Hands On Activity.mp4",
+            "note": "echo360.net.au"
+          },
+          {
+            "start": "15:27",
+            "end": "15:27",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "Week5_5.1_Hands On Activity.mp4",
+            "note": "echo360.net.au"
+          },
+          {
+            "start": "15:27",
+            "end": "15:28",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "Week5_5.1_Hands On Activity.mp4",
+            "note": "echo360.net.au"
+          },
+          {
+            "start": "15:29",
+            "end": "15:29",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "15:30",
+            "end": "15:32",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "15:32",
+            "end": "15:32",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "15:32",
+            "end": "15:33",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "Week5_5.1_Hands On Activity.mp4",
+            "note": "echo360.net.au"
+          },
+          {
+            "start": "15:33",
+            "end": "15:35",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "Week5_5.1_Hands On Activity.mp4",
+            "note": "echo360.net.au"
+          },
+          {
+            "start": "15:35",
+            "end": "15:37",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "Week5_5.1_Hands On Activity.mp4",
+            "note": "echo360.net.au"
+          },
+          {
+            "start": "15:37",
+            "end": "15:42",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "Week5_5.1_Hands On Activity.mp4",
+            "note": "echo360.net.au"
+          },
+          {
+            "start": "15:42",
+            "end": "15:47",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "Week5_5.1_Hands On Activity.mp4",
+            "note": "echo360.net.au"
+          },
+          {
+            "start": "15:48",
+            "end": "15:49",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "Week5_5.1_Hands On Activity.mp4",
+            "note": "echo360.net.au"
+          },
+          {
+            "start": "15:49",
+            "end": "15:51",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(89) Knut Jägersberg - YouTube",
+            "note": "youtube.com"
+          },
+          {
+            "start": "15:51",
+            "end": "15:52",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "15:52",
+            "end": "15:52",
+            "cat": "personal",
+            "src": "macos",
+            "title": "AI Engineer World's Fair 2026: June 29 - July 2, San Francis",
+            "note": "ai.engineer"
+          },
+          {
+            "start": "15:53",
+            "end": "15:57",
+            "cat": "personal",
+            "src": "macos",
+            "title": "AI Engineer World's Fair 2026: June 29 - July 2, San Francis",
+            "note": "ai.engineer"
+          },
+          {
+            "start": "15:57",
+            "end": "16:00",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "AI Engineer World's Fair 2026: June 29 - July 2, San Francis",
+            "note": "youtube.com"
+          },
+          {
+            "start": "16:01",
+            "end": "16:04",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Home Page - Neuropedia \"Redefining the Neuro World\"",
+            "note": "neuropedia.net"
+          },
+          {
+            "start": "16:04",
+            "end": "16:05",
+            "cat": "research",
+            "src": "macos",
+            "title": "‪Johnny Lin‬ - ‪Google Scholar‬",
+            "note": "scholar.google.com"
+          },
+          {
+            "start": "16:05",
+            "end": "16:06",
+            "cat": "research",
+            "src": "macos",
+            "title": "Natural Language Autoencoders – Llama3.3-70B-IT ｜ Neuronpedi",
+            "note": "neuronpedia.org"
+          },
+          {
+            "start": "16:06",
+            "end": "16:07",
+            "cat": "research",
+            "src": "macos",
+            "title": "Natural Language Autoencoders – Llama3.3-70B-IT ｜ Neuronpedi",
+            "note": "neuronpedia.org"
+          },
+          {
+            "start": "16:07",
+            "end": "16:08",
+            "cat": "research",
+            "src": "macos",
+            "title": "Natural Language Autoencoders – Llama3.3-70B-IT ｜ Neuronpedi",
+            "note": "neuronpedia.org"
+          },
+          {
+            "start": "16:08",
+            "end": "16:08",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "AI Engineer World's Fair 2026: June 29 - July 2, San Francis",
+            "note": "youtube.com"
+          },
+          {
+            "start": "16:08",
+            "end": "16:09",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "AI Engineer World's Fair 2026: June 29 - July 2, San Francis",
+            "note": "youtube.com"
+          },
+          {
+            "start": "16:09",
+            "end": "16:11",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "AI Engineer World's Fair 2026: June 29 - July 2, San Francis",
+            "note": "youtube.com"
+          },
+          {
+            "start": "16:12",
+            "end": "16:13",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Natural Language Autoencoders – Llama3.3-70B-IT ｜ Neuronpedi",
+            "note": "neuronpedia.org"
+          },
+          {
+            "start": "16:13",
+            "end": "16:13",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Natural Language Autoencoders – Llama3.3-70B-IT ｜ Neuronpedi",
+            "note": "neuronpedia.org"
+          },
+          {
+            "start": "16:13",
+            "end": "16:14",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Natural Language Autoencoders – Llama3.3-70B-IT ｜ Neuronpedi",
+            "note": "neuronpedia.org"
+          },
+          {
+            "start": "16:14",
+            "end": "16:16",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Natural Language Autoencoders – Llama3.3-70B-IT ｜ Neuronpedi",
+            "note": "neuronpedia.org"
+          },
+          {
+            "start": "16:16",
+            "end": "16:21",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Natural Language Autoencoders – Llama3.3-70B-IT ｜ Neuronpedi",
+            "note": "neuronpedia.org"
+          },
+          {
+            "start": "16:21",
+            "end": "16:25",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Natural Language Autoencoders – Llama3.3-70B-IT ｜ Neuronpedi",
+            "note": "neuronpedia.org"
+          },
+          {
+            "start": "16:25",
+            "end": "16:26",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Natural Language Autoencoders – Llama3.3-70B-IT ｜ Neuronpedi",
+            "note": "neuronpedia.org"
+          },
+          {
+            "start": "16:26",
+            "end": "16:29",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Natural Language Autoencoders – Llama3.3-70B-IT ｜ Neuronpedi",
+            "note": "neuronpedia.org"
+          },
+          {
+            "start": "16:29",
+            "end": "16:30",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Natural Language Autoencoders – Llama3.3-70B-IT ｜ Neuronpedi",
+            "note": "neuronpedia.org"
+          },
+          {
+            "start": "16:30",
+            "end": "16:34",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Natural Language Autoencoders – Llama3.3-70B-IT ｜ Neuronpedi",
+            "note": "neuronpedia.org"
+          },
+          {
+            "start": "16:34",
+            "end": "16:35",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Natural Language Autoencoders – Llama3.3-70B-IT ｜ Neuronpedi",
+            "note": "neuronpedia.org"
+          },
+          {
+            "start": "16:36",
+            "end": "16:37",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Natural Language Autoencoders – Llama3.3-70B-IT ｜ Neuronpedi",
+            "note": "neuronpedia.org"
+          },
+          {
+            "start": "16:37",
+            "end": "16:38",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Natural Language Autoencoders – Llama3.3-70B-IT ｜ Neuronpedi",
+            "note": "neuronpedia.org"
+          },
+          {
+            "start": "16:38",
+            "end": "16:38",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Natural Language Autoencoders – Llama3.3-70B-IT ｜ Neuronpedi",
+            "note": "neuronpedia.org"
+          },
+          {
+            "start": "16:38",
+            "end": "16:39",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Natural Language Autoencoders – Llama3.3-70B-IT ｜ Neuronpedi",
+            "note": "neuronpedia.org"
+          },
+          {
+            "start": "16:39",
+            "end": "16:41",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Natural Language Autoencoders – Llama3.3-70B-IT ｜ Neuronpedi",
+            "note": "neuronpedia.org"
+          },
+          {
+            "start": "16:41",
+            "end": "16:42",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "16:42",
+            "end": "16:43",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "16:43",
+            "end": "16:43",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "16:43",
+            "end": "16:44",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "16:46",
+            "end": "16:50",
+            "cat": "writing",
+            "src": "local",
+            "title": "codex.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "16:50",
+            "end": "16:51",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Place Your Order – Amazon Checkout",
+            "note": "amazon.com.au"
+          },
+          {
+            "start": "16:51",
+            "end": "16:53",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Place Your Order – Amazon Checkout",
+            "note": "amazon.com.au"
+          },
+          {
+            "start": "16:53",
+            "end": "16:54",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "16:54",
+            "end": "16:59",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "17:01",
+            "end": "17:06",
+            "cat": "coding",
+            "src": "local",
+            "title": "manifest.json",
+            "note": "2 hits"
+          },
+          {
+            "start": "17:06",
+            "end": "17:07",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "17:07",
+            "end": "17:12",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "17:12",
+            "end": "17:13",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "17:13",
+            "end": "17:18",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "17:18",
+            "end": "17:21",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "5 hits"
+          },
+          {
+            "start": "17:21",
+            "end": "17:22",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "5 hits"
+          },
+          {
+            "start": "17:22",
+            "end": "17:23",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "5 hits"
+          },
+          {
+            "start": "17:23",
+            "end": "17:24",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "5 hits"
+          },
+          {
+            "start": "17:24",
+            "end": "17:26",
+            "cat": "writing",
+            "src": "local",
+            "title": "README.md",
+            "note": "2 hits"
+          },
+          {
+            "start": "17:26",
+            "end": "17:27",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "17:27",
+            "end": "17:28",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "17:28",
+            "end": "17:29",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "17:29",
+            "end": "17:31",
+            "cat": "coding",
+            "src": "local",
+            "title": "fee_engine.py",
+            "note": "1 hit"
+          },
+          {
+            "start": "17:34",
+            "end": "17:39",
+            "cat": "writing",
+            "src": "local",
+            "title": "codex.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "17:39",
+            "end": "17:44",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "17:45",
+            "end": "17:49",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "17:50",
+            "end": "17:55",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "17:55",
+            "end": "17:55",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "17:55",
+            "end": "18:00",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "18:00",
+            "end": "18:01",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "18:01",
+            "end": "18:06",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "18:06",
+            "end": "18:09",
+            "cat": "coding",
+            "src": "local",
+            "title": "lock.json",
+            "note": "7 hits"
+          },
+          {
+            "start": "18:09",
+            "end": "18:09",
+            "cat": "coding",
+            "src": "local",
+            "title": "lock.json",
+            "note": "7 hits"
+          },
+          {
+            "start": "18:10",
+            "end": "18:13",
+            "cat": "coding",
+            "src": "local",
+            "title": "lock.json",
+            "note": "7 hits"
+          },
+          {
+            "start": "18:13",
+            "end": "18:14",
+            "cat": "writing",
+            "src": "local",
+            "title": "codex.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "18:14",
+            "end": "18:14",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "18:18",
+            "end": "18:23",
+            "cat": "writing",
+            "src": "local",
+            "title": "codex.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "18:23",
+            "end": "18:24",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "18:24",
+            "end": "18:29",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
             "note": "3 hits"
           }
         ],
-        "logged": 39,
-        "real": 39,
-        "deep": 39,
-        "ratio": 1.0,
+        "logged": 484,
+        "real": 381,
+        "deep": 381,
+        "ratio": 0.787954961973575,
         "stats": {
-          "contextSwitches": 2,
-          "tabsOpened": 3,
-          "longestFocus": "39m",
-          "justOneMoreThing": 0
+          "contextSwitches": 65,
+          "tabsOpened": 117,
+          "longestFocus": "1h 39m",
+          "justOneMoreThing": 6
         }
       },
       {
@@ -66094,17 +67742,26 @@
         "weekend": true,
         "dateShort": "Sat, Aug 22",
         "dateLong": "Saturday, August 22",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "10:11",
+        "dayEnd": "10:16",
+        "events": [
+          {
+            "start": "10:11",
+            "end": "10:16",
+            "cat": "writing",
+            "src": "local",
+            "title": "codex.txt",
+            "note": "1 hit"
+          }
+        ],
+        "logged": 5,
+        "real": 5,
+        "deep": 5,
+        "ratio": 1.0,
         "stats": {
           "contextSwitches": 0,
           "tabsOpened": 0,
-          "longestFocus": "0m",
+          "longestFocus": "5m",
           "justOneMoreThing": 0
         }
       },
@@ -80013,3202 +81670,3202 @@
       "weekend": false
     },
     {
-      "key": "2026-8-20",
-      "dayNum": 20,
-      "dow": 4,
-      "weekend": false,
-      "dateShort": "Thu, Aug 20",
       "dateLong": "Thursday, August 20",
-      "dayStart": "10:15",
+      "dateShort": "Thu, Aug 20",
       "dayEnd": "00:35",
+      "dayNum": 20,
+      "dayStart": "10:15",
+      "deep": 640,
+      "dow": 4,
       "events": [
         {
-          "start": "10:15",
+          "cat": "admin",
           "end": "10:16",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "10:15",
+          "title": "Outlook"
         },
         {
-          "start": "10:16",
+          "cat": "coding",
           "end": "10:19",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "10:16",
+          "title": "VSCode"
         },
         {
-          "start": "10:19",
+          "cat": "admin",
           "end": "10:21",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "10:19",
+          "title": "Outlook"
         },
         {
-          "start": "10:21",
+          "cat": "coding",
           "end": "10:25",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "10:21",
+          "title": "VSCode"
         },
         {
-          "start": "10:26",
+          "cat": "admin",
           "end": "10:27",
-          "cat": "admin",
+          "note": "sport.mq.edu.au",
           "src": "macos",
-          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
-          "note": "sport.mq.edu.au"
+          "start": "10:26",
+          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni"
         },
         {
-          "start": "10:27",
+          "cat": "coding",
           "end": "10:37",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "10:27",
+          "title": "VSCode"
         },
         {
-          "start": "10:37",
+          "cat": "research",
           "end": "10:40",
-          "cat": "research",
+          "note": "openreview.net",
           "src": "chrome",
-          "title": "Position: LLMs can't jump | OpenReview",
-          "note": "openreview.net"
+          "start": "10:37",
+          "title": "Position: LLMs can't jump | OpenReview"
         },
         {
-          "start": "10:40",
+          "cat": "coding",
           "end": "10:42",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "10:40",
+          "title": "VSCode"
         },
         {
-          "start": "10:42",
+          "cat": "research",
           "end": "10:44",
-          "cat": "research",
+          "note": "openreview.net",
           "src": "macos",
-          "title": "Position: LLMs can't jump | OpenReview",
-          "note": "openreview.net"
+          "start": "10:42",
+          "title": "Position: LLMs can't jump | OpenReview"
         },
         {
-          "start": "10:44",
+          "cat": "coding",
           "end": "11:14",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "10:44",
+          "title": "VSCode"
         },
         {
-          "start": "11:14",
+          "cat": "coding",
           "end": "11:18",
-          "cat": "coding",
+          "note": "openrouter.ai",
           "src": "macos",
-          "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute",
-          "note": "openrouter.ai"
+          "start": "11:14",
+          "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute"
         },
         {
-          "start": "11:18",
+          "cat": "coding",
           "end": "11:23",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "11:18",
+          "title": "VSCode"
         },
         {
-          "start": "11:23",
+          "cat": "coding",
           "end": "11:24",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "11:23",
+          "title": "VSCode"
         },
         {
-          "start": "11:24",
+          "cat": "coding",
           "end": "11:28",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "11:24",
+          "title": "VSCode"
         },
         {
-          "start": "11:29",
+          "cat": "coding",
           "end": "11:32",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "11:29",
+          "title": "VSCode"
         },
         {
-          "start": "11:32",
+          "cat": "coding",
           "end": "11:33",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "11:32",
+          "title": "VSCode"
         },
         {
-          "start": "11:33",
+          "cat": "coding",
           "end": "11:34",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "11:33",
+          "title": "VSCode"
         },
         {
-          "start": "11:34",
+          "cat": "writing",
           "end": "11:35",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "11:34",
+          "title": "claude-code.txt"
         },
         {
-          "start": "11:35",
+          "cat": "research",
           "end": "11:37",
-          "cat": "research",
+          "note": "openai.com",
           "src": "macos",
-          "title": "Offering Zero Data Retention for frontier models | OpenAI",
-          "note": "openai.com"
+          "start": "11:35",
+          "title": "Offering Zero Data Retention for frontier models | OpenAI"
         },
         {
-          "start": "11:37",
+          "cat": "research",
           "end": "11:38",
-          "cat": "research",
+          "note": "openai.com",
           "src": "macos",
-          "title": "Offering Zero Data Retention for frontier models | OpenAI",
-          "note": "openai.com"
+          "start": "11:37",
+          "title": "Offering Zero Data Retention for frontier models | OpenAI"
         },
         {
-          "start": "11:38",
+          "cat": "coding",
           "end": "11:39",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "11:38",
+          "title": "VSCode"
         },
         {
-          "start": "11:39",
+          "cat": "coding",
           "end": "11:44",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "11:39",
+          "title": "VSCode"
         },
         {
-          "start": "11:44",
+          "cat": "coding",
           "end": "11:45",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "11:44",
+          "title": "VSCode"
         },
         {
-          "start": "11:45",
+          "cat": "coding",
           "end": "11:46",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "11:45",
+          "title": "VSCode"
         },
         {
-          "start": "11:46",
+          "cat": "coding",
           "end": "11:47",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "11:46",
+          "title": "VSCode"
         },
         {
-          "start": "11:47",
+          "cat": "coding",
           "end": "11:48",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "11:47",
+          "title": "VSCode"
         },
         {
-          "start": "11:48",
+          "cat": "writing",
           "end": "11:49",
-          "cat": "writing",
+          "note": "md.obsidian",
           "src": "macos",
-          "title": "obsidian",
-          "note": "md.obsidian"
+          "start": "11:48",
+          "title": "obsidian"
         },
         {
-          "start": "11:49",
+          "cat": "writing",
           "end": "11:50",
-          "cat": "writing",
+          "note": "md.obsidian",
           "src": "macos",
-          "title": "obsidian",
-          "note": "md.obsidian"
+          "start": "11:49",
+          "title": "obsidian"
         },
         {
-          "start": "11:50",
+          "cat": "writing",
           "end": "11:51",
-          "cat": "writing",
+          "note": "md.obsidian",
           "src": "macos",
-          "title": "obsidian",
-          "note": "md.obsidian"
+          "start": "11:50",
+          "title": "obsidian"
         },
         {
-          "start": "11:51",
+          "cat": "writing",
           "end": "11:52",
-          "cat": "writing",
+          "note": "md.obsidian",
           "src": "macos",
-          "title": "obsidian",
-          "note": "md.obsidian"
+          "start": "11:51",
+          "title": "obsidian"
         },
         {
-          "start": "11:52",
+          "cat": "writing",
           "end": "11:53",
-          "cat": "writing",
+          "note": "md.obsidian",
           "src": "macos",
-          "title": "obsidian",
-          "note": "md.obsidian"
+          "start": "11:52",
+          "title": "obsidian"
         },
         {
-          "start": "11:53",
+          "cat": "writing",
           "end": "11:54",
-          "cat": "writing",
+          "note": "md.obsidian",
           "src": "macos",
-          "title": "obsidian",
-          "note": "md.obsidian"
+          "start": "11:53",
+          "title": "obsidian"
         },
         {
-          "start": "11:54",
+          "cat": "writing",
           "end": "11:57",
-          "cat": "writing",
+          "note": "md.obsidian",
           "src": "macos",
-          "title": "obsidian",
-          "note": "md.obsidian"
+          "start": "11:54",
+          "title": "obsidian"
         },
         {
-          "start": "11:57",
+          "cat": "writing",
           "end": "11:59",
-          "cat": "writing",
+          "note": "md.obsidian",
           "src": "macos",
-          "title": "obsidian",
-          "note": "md.obsidian"
+          "start": "11:57",
+          "title": "obsidian"
         },
         {
-          "start": "11:59",
+          "cat": "writing",
           "end": "12:04",
-          "cat": "writing",
+          "note": "md.obsidian",
           "src": "macos",
-          "title": "obsidian",
-          "note": "md.obsidian"
+          "start": "11:59",
+          "title": "obsidian"
         },
         {
-          "start": "12:04",
+          "cat": "writing",
           "end": "12:05",
-          "cat": "writing",
+          "note": "md.obsidian",
           "src": "macos",
-          "title": "obsidian",
-          "note": "md.obsidian"
+          "start": "12:04",
+          "title": "obsidian"
         },
         {
-          "start": "12:05",
+          "cat": "writing",
           "end": "12:10",
-          "cat": "writing",
+          "note": "md.obsidian",
           "src": "macos",
-          "title": "obsidian",
-          "note": "md.obsidian"
+          "start": "12:05",
+          "title": "obsidian"
         },
         {
-          "start": "12:10",
+          "cat": "writing",
           "end": "12:12",
-          "cat": "writing",
+          "note": "md.obsidian",
           "src": "macos",
-          "title": "obsidian",
-          "note": "md.obsidian"
+          "start": "12:10",
+          "title": "obsidian"
         },
         {
-          "start": "12:12",
+          "cat": "writing",
           "end": "12:13",
-          "cat": "writing",
+          "note": "md.obsidian",
           "src": "macos",
-          "title": "obsidian",
-          "note": "md.obsidian"
+          "start": "12:12",
+          "title": "obsidian"
         },
         {
-          "start": "12:13",
+          "cat": "research",
           "end": "12:15",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "chrome",
-          "title": "Posts | Ada's Notes",
-          "note": "adaren100.github.io"
+          "start": "12:13",
+          "title": "Posts | Ada's Notes"
         },
         {
+          "cat": "research",
+          "end": "12:20",
+          "note": "adaren100.github.io",
+          "src": "chrome",
           "start": "12:15",
-          "end": "12:20",
-          "cat": "research",
-          "src": "chrome",
-          "title": "Posts | Ada's Notes",
-          "note": "adaren100.github.io"
+          "title": "Posts | Ada's Notes"
         },
         {
-          "start": "12:20",
-          "end": "12:20",
           "cat": "research",
+          "end": "12:20",
+          "note": "adaren100.github.io",
           "src": "chrome",
-          "title": "Posts | Ada's Notes",
-          "note": "adaren100.github.io"
+          "start": "12:20",
+          "title": "Posts | Ada's Notes"
         },
         {
-          "start": "12:20",
+          "cat": "research",
           "end": "12:22",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "chrome",
-          "title": "Posts | Ada's Notes",
-          "note": "adaren100.github.io"
+          "start": "12:20",
+          "title": "Posts | Ada's Notes"
         },
         {
-          "start": "12:22",
+          "cat": "research",
           "end": "12:23",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "chrome",
-          "title": "Posts | Ada's Notes",
-          "note": "adaren100.github.io"
+          "start": "12:22",
+          "title": "Posts | Ada's Notes"
         },
         {
-          "start": "12:23",
+          "cat": "research",
           "end": "12:25",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "chrome",
-          "title": "Posts | Ada's Notes",
-          "note": "adaren100.github.io"
+          "start": "12:23",
+          "title": "Posts | Ada's Notes"
         },
         {
-          "start": "12:25",
+          "cat": "research",
           "end": "12:27",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "chrome",
-          "title": "Posts | Ada's Notes",
-          "note": "adaren100.github.io"
+          "start": "12:25",
+          "title": "Posts | Ada's Notes"
         },
         {
-          "start": "12:27",
+          "cat": "research",
           "end": "12:28",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "chrome",
-          "title": "Posts | Ada's Notes",
-          "note": "adaren100.github.io"
+          "start": "12:27",
+          "title": "Posts | Ada's Notes"
         },
         {
-          "start": "12:28",
+          "cat": "research",
           "end": "12:32",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "chrome",
-          "title": "Posts | Ada's Notes",
-          "note": "adaren100.github.io"
+          "start": "12:28",
+          "title": "Posts | Ada's Notes"
         },
         {
-          "start": "12:52",
+          "cat": "research",
           "end": "12:56",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "macos",
-          "title": "Posts | Ada's Notes",
-          "note": "adaren100.github.io"
+          "start": "12:52",
+          "title": "Posts | Ada's Notes"
         },
         {
-          "start": "12:57",
+          "cat": "coding",
           "end": "12:58",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "12:57",
+          "title": "VSCode"
         },
         {
-          "start": "12:59",
+          "cat": "coding",
           "end": "12:59",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
-        },
-        {
           "start": "12:59",
+          "title": "VSCode"
+        },
+        {
+          "cat": "coding",
           "end": "13:00",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "12:59",
+          "title": "VSCode"
         },
         {
-          "start": "13:00",
+          "cat": "coding",
           "end": "13:01",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "13:00",
+          "title": "VSCode"
         },
         {
-          "start": "13:02",
+          "cat": "coding",
           "end": "13:03",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "13:02",
+          "title": "codex"
         },
         {
-          "start": "13:04",
+          "cat": "writing",
           "end": "13:05",
-          "cat": "writing",
+          "note": "md.obsidian",
           "src": "macos",
-          "title": "obsidian",
-          "note": "md.obsidian"
+          "start": "13:04",
+          "title": "obsidian"
         },
         {
-          "start": "13:06",
+          "cat": "coding",
           "end": "13:07",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "13:06",
+          "title": "codex"
         },
         {
-          "start": "13:08",
+          "cat": "coding",
           "end": "13:09",
-          "cat": "coding",
+          "note": "openrouter.ai",
           "src": "chrome",
-          "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute",
-          "note": "openrouter.ai"
+          "start": "13:08",
+          "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute"
         },
         {
-          "start": "13:09",
+          "cat": "writing",
           "end": "13:10",
-          "cat": "writing",
+          "note": "111 hits",
           "src": "claude",
-          "title": "发布文章：Agent Frameworks 对比",
-          "note": "111 hits"
+          "start": "13:09",
+          "title": "发布文章：Agent Frameworks 对比"
         },
         {
-          "start": "13:12",
+          "cat": "writing",
           "end": "13:13",
-          "cat": "writing",
+          "note": "111 hits",
           "src": "claude",
-          "title": "发布文章：Agent Frameworks 对比",
-          "note": "111 hits"
+          "start": "13:12",
+          "title": "发布文章：Agent Frameworks 对比"
         },
         {
-          "start": "13:15",
+          "cat": "writing",
           "end": "13:16",
-          "cat": "writing",
+          "note": "111 hits",
           "src": "claude",
-          "title": "发布文章：Agent Frameworks 对比",
-          "note": "111 hits"
+          "start": "13:15",
+          "title": "发布文章：Agent Frameworks 对比"
         },
         {
-          "start": "13:16",
+          "cat": "writing",
           "end": "13:18",
-          "cat": "writing",
+          "note": "111 hits",
           "src": "claude",
-          "title": "发布文章：Agent Frameworks 对比",
-          "note": "111 hits"
+          "start": "13:16",
+          "title": "发布文章：Agent Frameworks 对比"
         },
         {
-          "start": "13:18",
+          "cat": "writing",
           "end": "13:19",
-          "cat": "writing",
+          "note": "md.obsidian",
           "src": "macos",
-          "title": "obsidian",
-          "note": "md.obsidian"
+          "start": "13:18",
+          "title": "obsidian"
         },
         {
+          "cat": "writing",
+          "end": "13:22",
+          "note": "md.obsidian",
+          "src": "macos",
           "start": "13:20",
-          "end": "13:22",
-          "cat": "writing",
-          "src": "macos",
-          "title": "obsidian",
-          "note": "md.obsidian"
+          "title": "obsidian"
         },
         {
-          "start": "13:22",
-          "end": "13:22",
           "cat": "coding",
+          "end": "13:22",
+          "note": "openrouter.ai",
           "src": "chrome",
-          "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute",
-          "note": "openrouter.ai"
+          "start": "13:22",
+          "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute"
         },
         {
-          "start": "13:22",
+          "cat": "writing",
           "end": "13:41",
-          "cat": "writing",
+          "note": "md.obsidian",
           "src": "macos",
-          "title": "obsidian",
-          "note": "md.obsidian"
+          "start": "13:22",
+          "title": "obsidian"
         },
         {
-          "start": "13:41",
+          "cat": "writing",
           "end": "13:43",
-          "cat": "writing",
+          "note": "85 hits",
           "src": "claude",
-          "title": "发布文章：Agent Frameworks 对比",
-          "note": "85 hits"
+          "start": "13:41",
+          "title": "发布文章：Agent Frameworks 对比"
         },
         {
-          "start": "13:43",
+          "cat": "writing",
           "end": "13:44",
-          "cat": "writing",
+          "note": "85 hits",
           "src": "claude",
-          "title": "发布文章：Agent Frameworks 对比",
-          "note": "85 hits"
+          "start": "13:43",
+          "title": "发布文章：Agent Frameworks 对比"
         },
         {
-          "start": "13:44",
+          "cat": "writing",
           "end": "13:45",
-          "cat": "writing",
+          "note": "md.obsidian",
           "src": "macos",
-          "title": "obsidian",
-          "note": "md.obsidian"
+          "start": "13:44",
+          "title": "obsidian"
         },
         {
-          "start": "13:46",
+          "cat": "coding",
           "end": "13:47",
-          "cat": "coding",
+          "note": "openrouter.ai",
           "src": "chrome",
-          "title": "Workspace Overview | Settings | OpenRouter",
-          "note": "openrouter.ai"
+          "start": "13:46",
+          "title": "Workspace Overview | Settings | OpenRouter"
         },
         {
-          "start": "13:48",
+          "cat": "writing",
           "end": "13:49",
-          "cat": "writing",
+          "note": "214 hits",
           "src": "claude",
-          "title": "发布文章：Agent Frameworks 对比",
-          "note": "214 hits"
+          "start": "13:48",
+          "title": "发布文章：Agent Frameworks 对比"
         },
         {
-          "start": "13:50",
+          "cat": "writing",
           "end": "13:51",
-          "cat": "writing",
+          "note": "214 hits",
           "src": "claude",
-          "title": "发布文章：Agent Frameworks 对比",
-          "note": "214 hits"
+          "start": "13:50",
+          "title": "发布文章：Agent Frameworks 对比"
         },
         {
+          "cat": "writing",
+          "end": "13:53",
+          "note": "214 hits",
+          "src": "claude",
           "start": "13:52",
-          "end": "13:53",
-          "cat": "writing",
-          "src": "claude",
-          "title": "发布文章：Agent Frameworks 对比",
-          "note": "214 hits"
+          "title": "发布文章：Agent Frameworks 对比"
         },
         {
-          "start": "13:53",
-          "end": "13:53",
           "cat": "writing",
+          "end": "13:53",
+          "note": "214 hits",
           "src": "claude",
-          "title": "发布文章：Agent Frameworks 对比",
-          "note": "214 hits"
+          "start": "13:53",
+          "title": "发布文章：Agent Frameworks 对比"
         },
         {
-          "start": "13:53",
+          "cat": "writing",
           "end": "13:54",
-          "cat": "writing",
+          "note": "214 hits",
           "src": "claude",
-          "title": "发布文章：Agent Frameworks 对比",
-          "note": "214 hits"
+          "start": "13:53",
+          "title": "发布文章：Agent Frameworks 对比"
         },
         {
-          "start": "13:54",
+          "cat": "writing",
           "end": "13:56",
-          "cat": "writing",
+          "note": "214 hits",
           "src": "claude",
-          "title": "发布文章：Agent Frameworks 对比",
-          "note": "214 hits"
+          "start": "13:54",
+          "title": "发布文章：Agent Frameworks 对比"
         },
         {
-          "start": "13:57",
+          "cat": "writing",
           "end": "13:59",
-          "cat": "writing",
+          "note": "214 hits",
           "src": "claude",
-          "title": "发布文章：Agent Frameworks 对比",
-          "note": "214 hits"
+          "start": "13:57",
+          "title": "发布文章：Agent Frameworks 对比"
         },
         {
-          "start": "14:00",
+          "cat": "writing",
           "end": "14:01",
-          "cat": "writing",
+          "note": "214 hits",
           "src": "claude",
-          "title": "发布文章：Agent Frameworks 对比",
-          "note": "214 hits"
+          "start": "14:00",
+          "title": "发布文章：Agent Frameworks 对比"
         },
         {
-          "start": "14:01",
+          "cat": "writing",
           "end": "14:02",
-          "cat": "writing",
+          "note": "214 hits",
           "src": "claude",
-          "title": "发布文章：Agent Frameworks 对比",
-          "note": "214 hits"
+          "start": "14:01",
+          "title": "发布文章：Agent Frameworks 对比"
         },
         {
+          "cat": "writing",
+          "end": "14:04",
+          "note": "214 hits",
+          "src": "claude",
           "start": "14:02",
-          "end": "14:04",
-          "cat": "writing",
-          "src": "claude",
-          "title": "发布文章：Agent Frameworks 对比",
-          "note": "214 hits"
+          "title": "发布文章：Agent Frameworks 对比"
         },
         {
+          "cat": "writing",
+          "end": "14:04",
+          "note": "214 hits",
+          "src": "claude",
           "start": "14:04",
-          "end": "14:04",
-          "cat": "writing",
-          "src": "claude",
-          "title": "发布文章：Agent Frameworks 对比",
-          "note": "214 hits"
+          "title": "发布文章：Agent Frameworks 对比"
         },
         {
-          "start": "14:05",
+          "cat": "writing",
           "end": "14:06",
-          "cat": "writing",
+          "note": "214 hits",
           "src": "claude",
-          "title": "发布文章：Agent Frameworks 对比",
-          "note": "214 hits"
+          "start": "14:05",
+          "title": "发布文章：Agent Frameworks 对比"
         },
         {
-          "start": "14:06",
+          "cat": "writing",
           "end": "14:07",
-          "cat": "writing",
+          "note": "214 hits",
           "src": "claude",
-          "title": "发布文章：Agent Frameworks 对比",
-          "note": "214 hits"
+          "start": "14:06",
+          "title": "发布文章：Agent Frameworks 对比"
         },
         {
-          "start": "14:07",
+          "cat": "writing",
           "end": "14:08",
-          "cat": "writing",
+          "note": "214 hits",
           "src": "claude",
-          "title": "发布文章：Agent Frameworks 对比",
-          "note": "214 hits"
+          "start": "14:07",
+          "title": "发布文章：Agent Frameworks 对比"
         },
         {
-          "start": "14:09",
+          "cat": "writing",
           "end": "14:09",
-          "cat": "writing",
+          "note": "214 hits",
           "src": "claude",
-          "title": "发布文章：Agent Frameworks 对比",
-          "note": "214 hits"
+          "start": "14:09",
+          "title": "发布文章：Agent Frameworks 对比"
         },
         {
-          "start": "14:10",
+          "cat": "writing",
           "end": "14:11",
-          "cat": "writing",
+          "note": "md.obsidian",
           "src": "macos",
-          "title": "obsidian",
-          "note": "md.obsidian"
+          "start": "14:10",
+          "title": "obsidian"
         },
         {
-          "start": "14:15",
+          "cat": "writing",
           "end": "14:16",
-          "cat": "writing",
+          "note": "md.obsidian",
           "src": "macos",
-          "title": "obsidian",
-          "note": "md.obsidian"
+          "start": "14:15",
+          "title": "obsidian"
         },
         {
-          "start": "14:17",
+          "cat": "writing",
           "end": "14:18",
-          "cat": "writing",
+          "note": "md.obsidian",
           "src": "macos",
-          "title": "obsidian",
-          "note": "md.obsidian"
+          "start": "14:17",
+          "title": "obsidian"
         },
         {
-          "start": "14:19",
+          "cat": "writing",
           "end": "14:20",
-          "cat": "writing",
+          "note": "md.obsidian",
           "src": "macos",
-          "title": "obsidian",
-          "note": "md.obsidian"
+          "start": "14:19",
+          "title": "obsidian"
         },
         {
-          "start": "14:20",
+          "cat": "writing",
           "end": "14:21",
-          "cat": "writing",
+          "note": "md.obsidian",
           "src": "macos",
-          "title": "obsidian",
-          "note": "md.obsidian"
+          "start": "14:20",
+          "title": "obsidian"
         },
         {
-          "start": "14:21",
+          "cat": "writing",
           "end": "14:22",
-          "cat": "writing",
+          "note": "md.obsidian",
           "src": "macos",
-          "title": "obsidian",
-          "note": "md.obsidian"
+          "start": "14:21",
+          "title": "obsidian"
         },
         {
-          "start": "14:22",
+          "cat": "writing",
           "end": "14:23",
-          "cat": "writing",
+          "note": "md.obsidian",
           "src": "macos",
-          "title": "obsidian",
-          "note": "md.obsidian"
+          "start": "14:22",
+          "title": "obsidian"
         },
         {
-          "start": "14:23",
+          "cat": "writing",
           "end": "14:24",
-          "cat": "writing",
+          "note": "md.obsidian",
           "src": "macos",
-          "title": "obsidian",
-          "note": "md.obsidian"
+          "start": "14:23",
+          "title": "obsidian"
         },
         {
-          "start": "14:24",
+          "cat": "writing",
           "end": "14:25",
-          "cat": "writing",
+          "note": "md.obsidian",
           "src": "macos",
-          "title": "obsidian",
-          "note": "md.obsidian"
+          "start": "14:24",
+          "title": "obsidian"
         },
         {
-          "start": "14:26",
+          "cat": "writing",
           "end": "14:28",
-          "cat": "writing",
+          "note": "36 hits",
           "src": "claude",
-          "title": "发布文章：Agent Frameworks 对比",
-          "note": "36 hits"
+          "start": "14:26",
+          "title": "发布文章：Agent Frameworks 对比"
         },
         {
-          "start": "14:29",
+          "cat": "writing",
           "end": "14:30",
-          "cat": "writing",
+          "note": "36 hits",
           "src": "claude",
-          "title": "发布文章：Agent Frameworks 对比",
-          "note": "36 hits"
+          "start": "14:29",
+          "title": "发布文章：Agent Frameworks 对比"
         },
         {
-          "start": "14:30",
+          "cat": "writing",
           "end": "14:31",
-          "cat": "writing",
+          "note": "36 hits",
           "src": "claude",
-          "title": "发布文章：Agent Frameworks 对比",
-          "note": "36 hits"
+          "start": "14:30",
+          "title": "发布文章：Agent Frameworks 对比"
         },
         {
-          "start": "14:32",
+          "cat": "writing",
           "end": "14:33",
-          "cat": "writing",
+          "note": "4 hits",
           "src": "local",
-          "title": "Comparing Agent Frameworks.md",
-          "note": "4 hits"
+          "start": "14:32",
+          "title": "Comparing Agent Frameworks.md"
         },
         {
-          "start": "14:33",
+          "cat": "writing",
           "end": "14:34",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "br7v3cavr.txt",
-          "note": "3 hits"
+          "start": "14:33",
+          "title": "br7v3cavr.txt"
         },
         {
-          "start": "14:35",
+          "cat": "writing",
           "end": "14:36",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "bnzdxjob0.txt",
-          "note": "3 hits"
+          "start": "14:35",
+          "title": "bnzdxjob0.txt"
         },
         {
-          "start": "14:37",
+          "cat": "admin",
           "end": "14:38",
-          "cat": "admin",
+          "note": "google.com",
           "src": "chrome",
-          "title": "许家印 - Google Search",
-          "note": "google.com"
+          "start": "14:37",
+          "title": "许家印 - Google Search"
         },
         {
-          "start": "14:41",
+          "cat": "admin",
           "end": "14:42",
-          "cat": "admin",
+          "note": "google.com",
           "src": "chrome",
-          "title": "许家印 - Google Search",
-          "note": "google.com"
+          "start": "14:41",
+          "title": "许家印 - Google Search"
         },
         {
-          "start": "14:42",
+          "cat": "admin",
           "end": "14:43",
-          "cat": "admin",
+          "note": "google.com",
           "src": "chrome",
-          "title": "许家印 - Google Search",
-          "note": "google.com"
+          "start": "14:42",
+          "title": "许家印 - Google Search"
         },
         {
-          "start": "14:44",
+          "cat": "admin",
           "end": "14:45",
-          "cat": "admin",
+          "note": "google.com",
           "src": "chrome",
-          "title": "许家印 - Google Search",
-          "note": "google.com"
+          "start": "14:44",
+          "title": "许家印 - Google Search"
         },
         {
-          "start": "14:46",
+          "cat": "coding",
           "end": "14:46",
-          "cat": "coding",
+          "note": "81 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "81 hits"
+          "start": "14:46",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "14:47",
+          "cat": "coding",
           "end": "14:48",
-          "cat": "coding",
+          "note": "81 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "81 hits"
+          "start": "14:47",
+          "title": "Claude session · harbor"
         },
         {
+          "cat": "coding",
+          "end": "14:53",
+          "note": "81 hits",
+          "src": "claude",
           "start": "14:52",
-          "end": "14:53",
-          "cat": "coding",
-          "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "81 hits"
+          "title": "Claude session · harbor"
         },
         {
+          "cat": "coding",
+          "end": "14:53",
+          "note": "openrouter.ai",
+          "src": "chrome",
           "start": "14:53",
-          "end": "14:53",
-          "cat": "coding",
-          "src": "chrome",
-          "title": "Activity | OpenRouter",
-          "note": "openrouter.ai"
+          "title": "Activity | OpenRouter"
         },
         {
+          "cat": "coding",
+          "end": "14:56",
+          "note": "openrouter.ai",
+          "src": "chrome",
           "start": "14:55",
-          "end": "14:56",
-          "cat": "coding",
-          "src": "chrome",
-          "title": "Activity | OpenRouter",
-          "note": "openrouter.ai"
+          "title": "Activity | OpenRouter"
         },
         {
-          "start": "14:56",
-          "end": "14:56",
           "cat": "coding",
+          "end": "14:56",
+          "note": "openrouter.ai",
           "src": "chrome",
-          "title": "Activity | OpenRouter",
-          "note": "openrouter.ai"
+          "start": "14:56",
+          "title": "Activity | OpenRouter"
         },
         {
-          "start": "14:56",
+          "cat": "coding",
           "end": "14:57",
-          "cat": "coding",
+          "note": "openrouter.ai",
           "src": "chrome",
-          "title": "Activity | OpenRouter",
-          "note": "openrouter.ai"
+          "start": "14:56",
+          "title": "Activity | OpenRouter"
         },
         {
-          "start": "14:59",
+          "cat": "coding",
           "end": "15:00",
-          "cat": "coding",
+          "note": "openrouter.ai",
           "src": "chrome",
-          "title": "Activity | OpenRouter",
-          "note": "openrouter.ai"
+          "start": "14:59",
+          "title": "Activity | OpenRouter"
         },
         {
-          "start": "15:01",
+          "cat": "coding",
           "end": "15:02",
-          "cat": "coding",
+          "note": "openrouter.ai",
           "src": "chrome",
-          "title": "Activity | OpenRouter",
-          "note": "openrouter.ai"
+          "start": "15:01",
+          "title": "Activity | OpenRouter"
         },
         {
-          "start": "15:03",
+          "cat": "coding",
           "end": "15:03",
-          "cat": "coding",
+          "note": "openrouter.ai",
           "src": "chrome",
-          "title": "Activity | OpenRouter",
-          "note": "openrouter.ai"
+          "start": "15:03",
+          "title": "Activity | OpenRouter"
         },
         {
-          "start": "15:04",
+          "cat": "coding",
           "end": "15:05",
-          "cat": "coding",
+          "note": "openrouter.ai",
           "src": "chrome",
-          "title": "Activity | OpenRouter",
-          "note": "openrouter.ai"
+          "start": "15:04",
+          "title": "Activity | OpenRouter"
         },
         {
-          "start": "15:05",
+          "cat": "coding",
           "end": "15:07",
-          "cat": "coding",
+          "note": "openrouter.ai",
           "src": "chrome",
-          "title": "Activity | OpenRouter",
-          "note": "openrouter.ai"
+          "start": "15:05",
+          "title": "Activity | OpenRouter"
         },
         {
-          "start": "15:08",
+          "cat": "coding",
           "end": "15:08",
-          "cat": "coding",
+          "note": "openrouter.ai",
           "src": "chrome",
-          "title": "Activity | OpenRouter",
-          "note": "openrouter.ai"
+          "start": "15:08",
+          "title": "Activity | OpenRouter"
         },
         {
-          "start": "15:09",
+          "cat": "coding",
           "end": "15:10",
-          "cat": "coding",
+          "note": "openrouter.ai",
           "src": "chrome",
-          "title": "Activity | OpenRouter",
-          "note": "openrouter.ai"
+          "start": "15:09",
+          "title": "Activity | OpenRouter"
         },
         {
-          "start": "15:10",
+          "cat": "writing",
           "end": "15:12",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "15:10",
+          "title": "claude-code.txt"
         },
         {
-          "start": "15:12",
+          "cat": "writing",
           "end": "15:13",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "b1ojda255.txt",
-          "note": "3 hits"
+          "start": "15:12",
+          "title": "b1ojda255.txt"
         },
         {
-          "start": "15:14",
+          "cat": "writing",
           "end": "15:14",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "15:14",
+          "title": "claude-code.txt"
         },
         {
-          "start": "15:15",
+          "cat": "research",
           "end": "15:17",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "chrome",
-          "title": "Scaling Inherently Interpretable Language Models",
-          "note": "arxiv.org"
+          "start": "15:15",
+          "title": "Scaling Inherently Interpretable Language Models"
         },
         {
-          "start": "15:18",
+          "cat": "research",
           "end": "15:19",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "chrome",
-          "title": "Scaling Inherently Interpretable Language Models",
-          "note": "arxiv.org"
+          "start": "15:18",
+          "title": "Scaling Inherently Interpretable Language Models"
         },
         {
-          "start": "15:21",
+          "cat": "research",
           "end": "15:22",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "chrome",
-          "title": "Scaling Inherently Interpretable Language Models",
-          "note": "arxiv.org"
+          "start": "15:21",
+          "title": "Scaling Inherently Interpretable Language Models"
         },
         {
-          "start": "15:22",
+          "cat": "research",
           "end": "15:23",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "chrome",
-          "title": "Scaling Inherently Interpretable Language Models",
-          "note": "arxiv.org"
+          "start": "15:22",
+          "title": "Scaling Inherently Interpretable Language Models"
         },
         {
-          "start": "15:24",
+          "cat": "writing",
           "end": "15:25",
-          "cat": "writing",
+          "note": "md.obsidian",
           "src": "macos",
-          "title": "obsidian",
-          "note": "md.obsidian"
+          "start": "15:24",
+          "title": "obsidian"
         },
         {
-          "start": "15:26",
+          "cat": "personal",
           "end": "15:26",
-          "cat": "personal",
+          "note": "file:///Users/ada/Downloads/%E4%B8%AD%E5",
           "src": "chrome",
-          "title": "中国互联网发展脉络 · 分类明细表",
-          "note": "file:///Users/ada/Downloads/%E4%B8%AD%E5"
+          "start": "15:26",
+          "title": "中国互联网发展脉络 · 分类明细表"
         },
         {
-          "start": "15:27",
+          "cat": "personal",
           "end": "15:28",
-          "cat": "personal",
+          "note": "file:///Users/ada/Downloads/%E4%B8%AD%E5",
           "src": "chrome",
-          "title": "中国互联网发展脉络 · 分类明细表",
-          "note": "file:///Users/ada/Downloads/%E4%B8%AD%E5"
+          "start": "15:27",
+          "title": "中国互联网发展脉络 · 分类明细表"
         },
         {
-          "start": "15:28",
+          "cat": "writing",
           "end": "15:29",
-          "cat": "writing",
+          "note": "md.obsidian",
           "src": "macos",
-          "title": "obsidian",
-          "note": "md.obsidian"
+          "start": "15:28",
+          "title": "obsidian"
         },
         {
-          "start": "15:31",
+          "cat": "writing",
           "end": "15:33",
-          "cat": "writing",
+          "note": "md.obsidian",
           "src": "macos",
-          "title": "obsidian",
-          "note": "md.obsidian"
+          "start": "15:31",
+          "title": "obsidian"
         },
         {
-          "start": "15:33",
+          "cat": "writing",
           "end": "15:35",
-          "cat": "writing",
+          "note": "md.obsidian",
           "src": "macos",
-          "title": "obsidian",
-          "note": "md.obsidian"
+          "start": "15:33",
+          "title": "obsidian"
         },
         {
-          "start": "15:35",
+          "cat": "writing",
           "end": "15:36",
-          "cat": "writing",
+          "note": "md.obsidian",
           "src": "macos",
-          "title": "obsidian",
-          "note": "md.obsidian"
+          "start": "15:35",
+          "title": "obsidian"
         },
         {
-          "start": "15:38",
+          "cat": "writing",
           "end": "15:39",
-          "cat": "writing",
+          "note": "md.obsidian",
           "src": "macos",
-          "title": "obsidian",
-          "note": "md.obsidian"
+          "start": "15:38",
+          "title": "obsidian"
         },
         {
-          "start": "15:39",
+          "cat": "writing",
           "end": "15:40",
-          "cat": "writing",
+          "note": "md.obsidian",
           "src": "macos",
-          "title": "obsidian",
-          "note": "md.obsidian"
+          "start": "15:39",
+          "title": "obsidian"
         },
         {
+          "cat": "personal",
+          "end": "15:41",
+          "note": "file:///Users/ada/Downloads/%E4%B8%AD%E5",
+          "src": "chrome",
           "start": "15:40",
-          "end": "15:41",
-          "cat": "personal",
-          "src": "chrome",
-          "title": "中国互联网发展脉络 · 分类明细表",
-          "note": "file:///Users/ada/Downloads/%E4%B8%AD%E5"
+          "title": "中国互联网发展脉络 · 分类明细表"
         },
         {
+          "cat": "coding",
+          "end": "15:41",
+          "note": "com.microsoft.VSCode",
+          "src": "macos",
           "start": "15:41",
-          "end": "15:41",
-          "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "title": "VSCode"
         },
         {
-          "start": "15:43",
+          "cat": "personal",
           "end": "15:44",
-          "cat": "personal",
+          "note": "file:///Users/ada/Downloads/%E4%B8%AD%E5",
           "src": "chrome",
-          "title": "中国互联网发展脉络 · 分类明细表",
-          "note": "file:///Users/ada/Downloads/%E4%B8%AD%E5"
+          "start": "15:43",
+          "title": "中国互联网发展脉络 · 分类明细表"
         },
         {
-          "start": "15:44",
+          "cat": "personal",
           "end": "15:45",
-          "cat": "personal",
+          "note": "file:///Users/ada/Downloads/%E4%B8%AD%E5",
           "src": "chrome",
-          "title": "中国互联网发展脉络 · 分类明细表",
-          "note": "file:///Users/ada/Downloads/%E4%B8%AD%E5"
+          "start": "15:44",
+          "title": "中国互联网发展脉络 · 分类明细表"
         },
         {
-          "start": "15:46",
+          "cat": "writing",
           "end": "15:47",
-          "cat": "writing",
+          "note": "md.obsidian",
           "src": "macos",
-          "title": "obsidian",
-          "note": "md.obsidian"
+          "start": "15:46",
+          "title": "obsidian"
         },
         {
-          "start": "15:48",
+          "cat": "writing",
           "end": "15:48",
-          "cat": "writing",
+          "note": "md.obsidian",
           "src": "macos",
-          "title": "obsidian",
-          "note": "md.obsidian"
+          "start": "15:48",
+          "title": "obsidian"
         },
         {
-          "start": "15:49",
+          "cat": "personal",
           "end": "15:50",
-          "cat": "personal",
+          "note": "file:///Users/ada/Downloads/%E4%B8%AD%E5",
           "src": "chrome",
-          "title": "中国互联网发展脉络 · 分类明细表",
-          "note": "file:///Users/ada/Downloads/%E4%B8%AD%E5"
+          "start": "15:49",
+          "title": "中国互联网发展脉络 · 分类明细表"
         },
         {
-          "start": "15:51",
+          "cat": "writing",
           "end": "15:52",
-          "cat": "writing",
+          "note": "md.obsidian",
           "src": "macos",
-          "title": "obsidian",
-          "note": "md.obsidian"
+          "start": "15:51",
+          "title": "obsidian"
         },
         {
+          "cat": "personal",
+          "end": "15:54",
+          "note": "file:///Users/ada/Downloads/%E4%B8%AD%E5",
+          "src": "chrome",
           "start": "15:52",
-          "end": "15:54",
-          "cat": "personal",
-          "src": "chrome",
-          "title": "中国互联网发展脉络 · 分类明细表",
-          "note": "file:///Users/ada/Downloads/%E4%B8%AD%E5"
+          "title": "中国互联网发展脉络 · 分类明细表"
         },
         {
+          "cat": "personal",
+          "end": "15:54",
+          "note": "file:///Users/ada/Downloads/%E4%B8%AD%E5",
+          "src": "chrome",
           "start": "15:54",
-          "end": "15:54",
-          "cat": "personal",
-          "src": "chrome",
-          "title": "中国互联网发展脉络 · 分类明细表",
-          "note": "file:///Users/ada/Downloads/%E4%B8%AD%E5"
+          "title": "中国互联网发展脉络 · 分类明细表"
         },
         {
-          "start": "15:55",
+          "cat": "writing",
           "end": "15:55",
-          "cat": "writing",
+          "note": "md.obsidian",
           "src": "macos",
-          "title": "obsidian",
-          "note": "md.obsidian"
+          "start": "15:55",
+          "title": "obsidian"
         },
         {
-          "start": "15:58",
+          "cat": "personal",
           "end": "15:58",
-          "cat": "personal",
+          "note": "file:///Users/ada/Downloads/%E4%B8%AD%E5",
           "src": "chrome",
-          "title": "中国互联网发展脉络 · 分类明细表",
-          "note": "file:///Users/ada/Downloads/%E4%B8%AD%E5"
+          "start": "15:58",
+          "title": "中国互联网发展脉络 · 分类明细表"
         },
         {
-          "start": "15:59",
+          "cat": "personal",
           "end": "16:00",
-          "cat": "personal",
+          "note": "file:///Users/ada/Downloads/%E4%B8%AD%E5",
           "src": "chrome",
-          "title": "中国互联网发展脉络 · 分类明细表",
-          "note": "file:///Users/ada/Downloads/%E4%B8%AD%E5"
+          "start": "15:59",
+          "title": "中国互联网发展脉络 · 分类明细表"
         },
         {
-          "start": "16:00",
+          "cat": "writing",
           "end": "16:01",
-          "cat": "writing",
+          "note": "md.obsidian",
           "src": "macos",
-          "title": "obsidian",
-          "note": "md.obsidian"
+          "start": "16:00",
+          "title": "obsidian"
         },
         {
-          "start": "16:02",
+          "cat": "writing",
           "end": "16:03",
-          "cat": "writing",
+          "note": "md.obsidian",
           "src": "macos",
-          "title": "obsidian",
-          "note": "md.obsidian"
+          "start": "16:02",
+          "title": "obsidian"
         },
         {
-          "start": "16:03",
+          "cat": "writing",
           "end": "16:04",
-          "cat": "writing",
+          "note": "md.obsidian",
           "src": "macos",
-          "title": "obsidian",
-          "note": "md.obsidian"
+          "start": "16:03",
+          "title": "obsidian"
         },
         {
-          "start": "16:07",
+          "cat": "coding",
           "end": "16:08",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "16:07",
+          "title": "codex"
         },
         {
-          "start": "16:15",
+          "cat": "admin",
           "end": "16:16",
-          "cat": "admin",
+          "note": "com.microsoft.Excel",
           "src": "macos",
-          "title": "Excel",
-          "note": "com.microsoft.Excel"
+          "start": "16:15",
+          "title": "Excel"
         },
         {
-          "start": "16:16",
+          "cat": "coding",
           "end": "16:17",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "16:16",
+          "title": "codex"
         },
         {
-          "start": "16:17",
+          "cat": "admin",
           "end": "16:19",
-          "cat": "admin",
+          "note": "com.microsoft.Excel",
           "src": "macos",
-          "title": "Excel",
-          "note": "com.microsoft.Excel"
+          "start": "16:17",
+          "title": "Excel"
         },
         {
-          "start": "16:20",
+          "cat": "admin",
           "end": "16:21",
-          "cat": "admin",
+          "note": "com.microsoft.Excel",
           "src": "macos",
-          "title": "Excel",
-          "note": "com.microsoft.Excel"
+          "start": "16:20",
+          "title": "Excel"
         },
         {
-          "start": "16:21",
+          "cat": "coding",
           "end": "16:23",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "16:21",
+          "title": "codex"
         },
         {
-          "start": "16:25",
-          "end": "16:26",
           "cat": "research",
+          "end": "16:26",
+          "note": "adaren100.github.io",
           "src": "macos",
-          "title": "AI Digest — August 20, 2026 | Ada's Notes",
-          "note": "adaren100.github.io"
+          "start": "16:25",
+          "title": "AI Digest — August 20, 2026 | Ada's Notes"
         },
         {
-          "start": "16:26",
+          "cat": "coding",
           "end": "16:33",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "16:26",
+          "title": "VSCode"
         },
         {
+          "cat": "admin",
+          "end": "16:34",
+          "note": "com.microsoft.Excel",
+          "src": "macos",
           "start": "16:33",
-          "end": "16:34",
-          "cat": "admin",
-          "src": "macos",
-          "title": "Excel",
-          "note": "com.microsoft.Excel"
+          "title": "Excel"
         },
         {
+          "cat": "coding",
+          "end": "16:34",
+          "note": "openrouter.ai",
+          "src": "chrome",
           "start": "16:34",
-          "end": "16:34",
-          "cat": "coding",
-          "src": "chrome",
-          "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute",
-          "note": "openrouter.ai"
+          "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute"
         },
         {
-          "start": "16:35",
+          "cat": "coding",
           "end": "16:37",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "16:35",
+          "title": "VSCode"
         },
         {
-          "start": "16:38",
+          "cat": "admin",
           "end": "16:42",
-          "cat": "admin",
+          "note": "com.microsoft.Excel",
           "src": "macos",
-          "title": "Excel",
-          "note": "com.microsoft.Excel"
+          "start": "16:38",
+          "title": "Excel"
         },
         {
-          "start": "16:43",
+          "cat": "admin",
           "end": "16:45",
-          "cat": "admin",
+          "note": "com.microsoft.Excel",
           "src": "macos",
-          "title": "Excel",
-          "note": "com.microsoft.Excel"
+          "start": "16:43",
+          "title": "Excel"
         },
         {
-          "start": "16:46",
+          "cat": "admin",
           "end": "16:49",
-          "cat": "admin",
+          "note": "com.microsoft.Excel",
           "src": "macos",
-          "title": "Excel",
-          "note": "com.microsoft.Excel"
+          "start": "16:46",
+          "title": "Excel"
         },
         {
-          "start": "16:49",
+          "cat": "admin",
           "end": "16:51",
-          "cat": "admin",
+          "note": "com.microsoft.Excel",
           "src": "macos",
-          "title": "Excel",
-          "note": "com.microsoft.Excel"
+          "start": "16:49",
+          "title": "Excel"
         },
         {
-          "start": "16:51",
+          "cat": "coding",
           "end": "16:53",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "16:51",
+          "title": "VSCode"
         },
         {
-          "start": "16:53",
+          "cat": "writing",
           "end": "16:54",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "16:53",
+          "title": "claude-code.txt"
         },
         {
-          "start": "16:54",
+          "cat": "writing",
           "end": "16:57",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "16:54",
+          "title": "claude-code.txt"
         },
         {
-          "start": "16:57",
+          "cat": "coding",
           "end": "16:58",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "16:57",
+          "title": "VSCode"
         },
         {
-          "start": "16:58",
+          "cat": "coding",
           "end": "16:59",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "16:58",
+          "title": "VSCode"
         },
         {
-          "start": "16:59",
+          "cat": "coding",
           "end": "17:00",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "16:59",
+          "title": "VSCode"
         },
         {
-          "start": "17:00",
+          "cat": "coding",
           "end": "17:01",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "17:00",
+          "title": "VSCode"
         },
         {
-          "start": "17:01",
+          "cat": "coding",
           "end": "17:02",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "17:01",
+          "title": "VSCode"
         },
         {
-          "start": "17:02",
+          "cat": "coding",
           "end": "17:04",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "17:02",
+          "title": "VSCode"
         },
         {
-          "start": "17:04",
+          "cat": "coding",
           "end": "17:05",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "17:04",
+          "title": "VSCode"
         },
         {
-          "start": "17:05",
+          "cat": "coding",
           "end": "17:06",
-          "cat": "coding",
+          "note": "51 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "51 hits"
+          "start": "17:05",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "17:06",
+          "cat": "coding",
           "end": "17:07",
-          "cat": "coding",
+          "note": "51 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "51 hits"
+          "start": "17:06",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "17:07",
+          "cat": "coding",
           "end": "17:08",
-          "cat": "coding",
+          "note": "51 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "51 hits"
+          "start": "17:07",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "17:09",
+          "cat": "coding",
           "end": "17:11",
-          "cat": "coding",
+          "note": "51 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "51 hits"
+          "start": "17:09",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "17:11",
+          "cat": "admin",
           "end": "17:13",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "17:11",
+          "title": "Outlook"
         },
         {
-          "start": "17:14",
+          "cat": "admin",
           "end": "17:15",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "17:14",
+          "title": "Outlook"
         },
         {
-          "start": "17:15",
+          "cat": "writing",
           "end": "17:19",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "17:15",
+          "title": "claude-code.txt"
         },
         {
-          "start": "17:19",
+          "cat": "writing",
           "end": "17:24",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "17:19",
+          "title": "claude-code.txt"
         },
         {
-          "start": "17:24",
+          "cat": "writing",
           "end": "17:28",
-          "cat": "writing",
+          "note": "2 hits",
           "src": "local",
-          "title": "bdeevzor2.txt",
-          "note": "2 hits"
+          "start": "17:24",
+          "title": "bdeevzor2.txt"
         },
         {
-          "start": "17:28",
+          "cat": "writing",
           "end": "17:32",
-          "cat": "writing",
+          "note": "2 hits",
           "src": "local",
-          "title": "bdeevzor2.txt",
-          "note": "2 hits"
+          "start": "17:28",
+          "title": "bdeevzor2.txt"
         },
         {
-          "start": "17:33",
+          "cat": "writing",
           "end": "17:37",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "17:33",
+          "title": "claude-code.txt"
         },
         {
-          "start": "17:37",
+          "cat": "coding",
           "end": "17:41",
-          "cat": "coding",
+          "note": "5 hits",
           "src": "local",
-          "title": "result.json",
-          "note": "5 hits"
+          "start": "17:37",
+          "title": "result.json"
         },
         {
-          "start": "17:41",
+          "cat": "coding",
           "end": "17:42",
-          "cat": "coding",
+          "note": "5 hits",
           "src": "local",
-          "title": "result.json",
-          "note": "5 hits"
+          "start": "17:41",
+          "title": "result.json"
         },
         {
-          "start": "17:43",
+          "cat": "coding",
           "end": "17:44",
-          "cat": "coding",
+          "note": "5 hits",
           "src": "local",
-          "title": "result.json",
-          "note": "5 hits"
+          "start": "17:43",
+          "title": "result.json"
         },
         {
-          "start": "17:44",
+          "cat": "coding",
           "end": "17:45",
-          "cat": "coding",
+          "note": "5 hits",
           "src": "local",
-          "title": "result.json",
-          "note": "5 hits"
+          "start": "17:44",
+          "title": "result.json"
         },
         {
-          "start": "17:45",
+          "cat": "writing",
           "end": "17:46",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "17:45",
+          "title": "claude-code.txt"
         },
         {
-          "start": "17:46",
+          "cat": "writing",
           "end": "17:47",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "17:46",
+          "title": "reward.txt"
         },
         {
-          "start": "17:48",
+          "cat": "writing",
           "end": "17:49",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "17:48",
+          "title": "reward.txt"
         },
         {
-          "start": "17:49",
+          "cat": "writing",
           "end": "17:50",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "17:49",
+          "title": "claude-code.txt"
         },
         {
-          "start": "17:50",
+          "cat": "writing",
           "end": "17:52",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "17:50",
+          "title": "claude-code.txt"
         },
         {
-          "start": "17:52",
+          "cat": "writing",
           "end": "17:53",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "17:52",
+          "title": "claude-code.txt"
         },
         {
-          "start": "17:53",
+          "cat": "writing",
           "end": "17:55",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "17:53",
+          "title": "claude-code.txt"
         },
         {
-          "start": "17:55",
+          "cat": "writing",
           "end": "17:56",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "17:55",
+          "title": "claude-code.txt"
         },
         {
-          "start": "17:56",
+          "cat": "writing",
           "end": "17:58",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "17:56",
+          "title": "claude-code.txt"
         },
         {
-          "start": "17:58",
+          "cat": "writing",
           "end": "18:01",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "17:58",
+          "title": "claude-code.txt"
         },
         {
-          "start": "18:01",
+          "cat": "writing",
           "end": "18:04",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "18:01",
+          "title": "claude-code.txt"
         },
         {
-          "start": "18:04",
+          "cat": "writing",
           "end": "18:05",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "18:04",
+          "title": "claude-code.txt"
         },
         {
-          "start": "18:06",
+          "cat": "coding",
           "end": "18:06",
-          "cat": "coding",
+          "note": "5 hits",
           "src": "local",
-          "title": "result.json",
-          "note": "5 hits"
+          "start": "18:06",
+          "title": "result.json"
         },
         {
-          "start": "18:07",
+          "cat": "coding",
           "end": "18:09",
-          "cat": "coding",
+          "note": "5 hits",
           "src": "local",
-          "title": "result.json",
-          "note": "5 hits"
+          "start": "18:07",
+          "title": "result.json"
         },
         {
-          "start": "18:09",
+          "cat": "writing",
           "end": "18:10",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "18:09",
+          "title": "reward.txt"
         },
         {
+          "cat": "writing",
+          "end": "18:11",
+          "note": "3 hits",
+          "src": "local",
           "start": "18:10",
-          "end": "18:11",
-          "cat": "writing",
-          "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "title": "reward.txt"
         },
         {
+          "cat": "writing",
+          "end": "18:11",
+          "note": "3 hits",
+          "src": "local",
           "start": "18:11",
-          "end": "18:11",
-          "cat": "writing",
-          "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "title": "reward.txt"
         },
         {
-          "start": "18:12",
+          "cat": "writing",
           "end": "18:14",
-          "cat": "writing",
+          "note": "2 hits",
           "src": "local",
-          "title": "baef1qb6f.txt",
-          "note": "2 hits"
+          "start": "18:12",
+          "title": "baef1qb6f.txt"
         },
         {
-          "start": "18:14",
+          "cat": "writing",
           "end": "18:16",
-          "cat": "writing",
+          "note": "2 hits",
           "src": "local",
-          "title": "baef1qb6f.txt",
-          "note": "2 hits"
+          "start": "18:14",
+          "title": "baef1qb6f.txt"
         },
         {
-          "start": "18:16",
+          "cat": "writing",
           "end": "18:17",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "18:16",
+          "title": "claude-code.txt"
         },
         {
-          "start": "18:17",
+          "cat": "writing",
           "end": "18:19",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "18:17",
+          "title": "claude-code.txt"
         },
         {
-          "start": "18:19",
+          "cat": "writing",
           "end": "18:21",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "18:19",
+          "title": "claude-code.txt"
         },
         {
-          "start": "18:21",
+          "cat": "writing",
           "end": "18:22",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "18:21",
+          "title": "claude-code.txt"
         },
         {
-          "start": "18:22",
+          "cat": "writing",
           "end": "18:24",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "18:22",
+          "title": "claude-code.txt"
         },
         {
-          "start": "18:24",
+          "cat": "writing",
           "end": "18:26",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "18:24",
+          "title": "claude-code.txt"
         },
         {
-          "start": "18:26",
+          "cat": "writing",
           "end": "18:27",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "18:26",
+          "title": "claude-code.txt"
         },
         {
-          "start": "18:27",
+          "cat": "writing",
           "end": "18:28",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "18:27",
+          "title": "claude-code.txt"
         },
         {
-          "start": "18:29",
+          "cat": "coding",
           "end": "18:30",
-          "cat": "coding",
+          "note": "5 hits",
           "src": "local",
-          "title": "result.json",
-          "note": "5 hits"
+          "start": "18:29",
+          "title": "result.json"
         },
         {
-          "start": "18:30",
+          "cat": "coding",
           "end": "18:31",
-          "cat": "coding",
+          "note": "5 hits",
           "src": "local",
-          "title": "result.json",
-          "note": "5 hits"
+          "start": "18:30",
+          "title": "result.json"
         },
         {
-          "start": "18:32",
+          "cat": "writing",
           "end": "18:33",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "18:32",
+          "title": "reward.txt"
         },
         {
-          "start": "18:33",
+          "cat": "writing",
           "end": "18:34",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "18:33",
+          "title": "reward.txt"
         },
         {
-          "start": "18:34",
+          "cat": "writing",
           "end": "18:35",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "18:34",
+          "title": "reward.txt"
         },
         {
-          "start": "18:36",
+          "cat": "writing",
           "end": "18:38",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "18:36",
+          "title": "claude-code.txt"
         },
         {
-          "start": "18:38",
+          "cat": "writing",
           "end": "18:41",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "18:38",
+          "title": "claude-code.txt"
         },
         {
-          "start": "18:41",
+          "cat": "writing",
           "end": "18:43",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "18:41",
+          "title": "claude-code.txt"
         },
         {
-          "start": "18:43",
+          "cat": "admin",
           "end": "18:45",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "18:43",
+          "title": "Outlook"
         },
         {
-          "start": "18:45",
+          "cat": "admin",
           "end": "18:46",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "18:45",
+          "title": "Outlook"
         },
         {
-          "start": "18:46",
+          "cat": "admin",
           "end": "18:47",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "18:46",
+          "title": "Outlook"
         },
         {
-          "start": "18:47",
+          "cat": "coding",
           "end": "18:49",
-          "cat": "coding",
+          "note": "openrouter.ai",
           "src": "macos",
-          "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute",
-          "note": "openrouter.ai"
+          "start": "18:47",
+          "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute"
         },
         {
-          "start": "18:50",
+          "cat": "coding",
           "end": "18:50",
-          "cat": "coding",
+          "note": "openrouter.ai",
           "src": "macos",
-          "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute",
-          "note": "openrouter.ai"
-        },
-        {
           "start": "18:50",
+          "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute"
+        },
+        {
+          "cat": "coding",
           "end": "18:51",
-          "cat": "coding",
+          "note": "openrouter.ai",
           "src": "macos",
-          "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute",
-          "note": "openrouter.ai"
+          "start": "18:50",
+          "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute"
         },
         {
-          "start": "18:51",
+          "cat": "coding",
           "end": "18:53",
-          "cat": "coding",
+          "note": "openrouter.ai",
           "src": "macos",
-          "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute",
-          "note": "openrouter.ai"
+          "start": "18:51",
+          "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute"
         },
         {
-          "start": "18:53",
+          "cat": "writing",
           "end": "18:54",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "18:53",
+          "title": "claude-code.txt"
         },
         {
-          "start": "18:55",
+          "cat": "writing",
           "end": "18:55",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
-        },
-        {
           "start": "18:55",
+          "title": "reward.txt"
+        },
+        {
+          "cat": "writing",
           "end": "18:56",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "18:55",
+          "title": "reward.txt"
         },
         {
-          "start": "18:56",
+          "cat": "writing",
           "end": "18:57",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "18:56",
+          "title": "claude-code.txt"
         },
         {
-          "start": "18:57",
+          "cat": "writing",
           "end": "18:59",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "18:57",
+          "title": "claude-code.txt"
         },
         {
-          "start": "18:59",
+          "cat": "writing",
           "end": "19:00",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "18:59",
+          "title": "claude-code.txt"
         },
         {
-          "start": "19:00",
+          "cat": "writing",
           "end": "19:02",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "19:00",
+          "title": "claude-code.txt"
         },
         {
-          "start": "19:02",
+          "cat": "writing",
           "end": "19:03",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "19:02",
+          "title": "claude-code.txt"
         },
         {
-          "start": "19:03",
+          "cat": "writing",
           "end": "19:05",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "19:03",
+          "title": "claude-code.txt"
         },
         {
-          "start": "19:05",
+          "cat": "writing",
           "end": "19:06",
-          "cat": "writing",
+          "note": "2 hits",
           "src": "local",
-          "title": "brldbjhn1.txt",
-          "note": "2 hits"
+          "start": "19:05",
+          "title": "brldbjhn1.txt"
         },
         {
-          "start": "19:06",
+          "cat": "writing",
           "end": "19:08",
-          "cat": "writing",
+          "note": "2 hits",
           "src": "local",
-          "title": "brldbjhn1.txt",
-          "note": "2 hits"
+          "start": "19:06",
+          "title": "brldbjhn1.txt"
         },
         {
-          "start": "19:08",
+          "cat": "coding",
           "end": "19:10",
-          "cat": "coding",
+          "note": "openrouter.ai",
           "src": "macos",
-          "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute",
-          "note": "openrouter.ai"
+          "start": "19:08",
+          "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute"
         },
         {
-          "start": "19:10",
+          "cat": "coding",
           "end": "19:11",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "19:10",
+          "title": "VSCode"
         },
         {
-          "start": "19:12",
+          "cat": "coding",
           "end": "19:15",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "19:12",
+          "title": "VSCode"
         },
         {
-          "start": "19:15",
+          "cat": "coding",
           "end": "19:16",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "19:15",
+          "title": "VSCode"
         },
         {
-          "start": "19:17",
+          "cat": "writing",
           "end": "19:19",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "19:17",
+          "title": "claude-code.txt"
         },
         {
+          "cat": "coding",
+          "end": "19:21",
+          "note": "com.microsoft.VSCode",
+          "src": "macos",
           "start": "19:19",
-          "end": "19:21",
-          "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "title": "VSCode"
         },
         {
-          "start": "19:21",
-          "end": "19:21",
           "cat": "coding",
+          "end": "19:21",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "19:21",
+          "title": "VSCode"
         },
         {
-          "start": "19:21",
+          "cat": "coding",
           "end": "19:26",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "19:21",
+          "title": "VSCode"
         },
         {
-          "start": "19:26",
+          "cat": "coding",
           "end": "19:27",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "19:26",
+          "title": "VSCode"
         },
         {
-          "start": "19:27",
+          "cat": "coding",
           "end": "19:31",
-          "cat": "coding",
+          "note": "21 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "21 hits"
+          "start": "19:27",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "19:31",
+          "cat": "coding",
           "end": "19:32",
-          "cat": "coding",
+          "note": "21 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "21 hits"
+          "start": "19:31",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "19:32",
+          "cat": "coding",
           "end": "19:35",
-          "cat": "coding",
+          "note": "21 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "21 hits"
+          "start": "19:32",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "19:35",
+          "cat": "coding",
           "end": "19:36",
-          "cat": "coding",
+          "note": "21 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "21 hits"
+          "start": "19:35",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "19:36",
+          "cat": "coding",
           "end": "19:39",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "19:36",
+          "title": "VSCode"
         },
         {
+          "cat": "coding",
+          "end": "19:40",
+          "note": "com.microsoft.VSCode",
+          "src": "macos",
           "start": "19:39",
-          "end": "19:40",
-          "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "title": "VSCode"
         },
         {
+          "cat": "coding",
+          "end": "19:40",
+          "note": "com.microsoft.VSCode",
+          "src": "macos",
           "start": "19:40",
-          "end": "19:40",
-          "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "title": "VSCode"
         },
         {
-          "start": "19:41",
+          "cat": "coding",
           "end": "19:44",
-          "cat": "coding",
+          "note": "openrouter.ai",
           "src": "macos",
-          "title": "Workspace Overview | Settings | OpenRouter",
-          "note": "openrouter.ai"
+          "start": "19:41",
+          "title": "Workspace Overview | Settings | OpenRouter"
         },
         {
+          "cat": "coding",
+          "end": "19:45",
+          "note": "openrouter.ai",
+          "src": "macos",
           "start": "19:44",
-          "end": "19:45",
-          "cat": "coding",
-          "src": "macos",
-          "title": "Workspace Overview | Settings | OpenRouter",
-          "note": "openrouter.ai"
+          "title": "Workspace Overview | Settings | OpenRouter"
         },
         {
+          "cat": "coding",
+          "end": "19:45",
+          "note": "openrouter.ai",
+          "src": "macos",
           "start": "19:45",
-          "end": "19:45",
-          "cat": "coding",
-          "src": "macos",
-          "title": "Workspace Overview | Settings | OpenRouter",
-          "note": "openrouter.ai"
+          "title": "Workspace Overview | Settings | OpenRouter"
         },
         {
-          "start": "19:46",
+          "cat": "coding",
           "end": "19:47",
-          "cat": "coding",
+          "note": "openrouter.ai",
           "src": "macos",
-          "title": "Workspace Overview | Settings | OpenRouter",
-          "note": "openrouter.ai"
+          "start": "19:46",
+          "title": "Workspace Overview | Settings | OpenRouter"
         },
         {
-          "start": "19:47",
+          "cat": "coding",
           "end": "19:52",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "19:47",
+          "title": "VSCode"
         },
         {
-          "start": "19:52",
+          "cat": "coding",
           "end": "19:57",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "19:52",
+          "title": "VSCode"
         },
         {
-          "start": "19:58",
+          "cat": "coding",
           "end": "20:03",
-          "cat": "coding",
+          "note": "24 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "24 hits"
+          "start": "19:58",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "20:03",
+          "cat": "coding",
           "end": "20:07",
-          "cat": "coding",
+          "note": "36 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "36 hits"
+          "start": "20:03",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "20:07",
+          "cat": "coding",
           "end": "20:08",
-          "cat": "coding",
+          "note": "36 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "36 hits"
+          "start": "20:07",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "20:08",
+          "cat": "coding",
           "end": "20:12",
-          "cat": "coding",
+          "note": "36 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "36 hits"
+          "start": "20:08",
+          "title": "Claude session · harbor"
         },
         {
+          "cat": "coding",
+          "end": "20:14",
+          "note": "com.microsoft.VSCode",
+          "src": "macos",
           "start": "20:12",
-          "end": "20:14",
-          "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "title": "VSCode"
         },
         {
-          "start": "20:14",
-          "end": "20:14",
           "cat": "coding",
+          "end": "20:14",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "20:14",
+          "title": "VSCode"
         },
         {
-          "start": "20:14",
+          "cat": "coding",
           "end": "20:15",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "20:14",
+          "title": "VSCode"
         },
         {
+          "cat": "coding",
+          "end": "20:19",
+          "note": "34 hits",
+          "src": "claude",
           "start": "20:16",
-          "end": "20:19",
-          "cat": "coding",
-          "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "34 hits"
+          "title": "Claude session · harbor"
         },
         {
-          "start": "20:19",
-          "end": "20:19",
           "cat": "coding",
+          "end": "20:19",
+          "note": "34 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "34 hits"
+          "start": "20:19",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "20:19",
+          "cat": "coding",
           "end": "20:20",
-          "cat": "coding",
+          "note": "34 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "34 hits"
+          "start": "20:19",
+          "title": "Claude session · harbor"
         },
         {
+          "cat": "coding",
+          "end": "20:20",
+          "note": "34 hits",
+          "src": "claude",
           "start": "20:20",
-          "end": "20:20",
-          "cat": "coding",
-          "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "34 hits"
+          "title": "Claude session · harbor"
         },
         {
-          "start": "20:21",
+          "cat": "coding",
           "end": "20:25",
-          "cat": "coding",
+          "note": "34 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "34 hits"
+          "start": "20:21",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "20:25",
+          "cat": "coding",
           "end": "20:26",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "20:25",
+          "title": "VSCode"
         },
         {
-          "start": "20:26",
+          "cat": "coding",
           "end": "20:29",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "20:26",
+          "title": "VSCode"
         },
         {
-          "start": "20:29",
+          "cat": "coding",
           "end": "20:30",
-          "cat": "coding",
+          "note": "23 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "23 hits"
+          "start": "20:29",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "20:30",
+          "cat": "coding",
           "end": "20:33",
-          "cat": "coding",
+          "note": "23 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "23 hits"
+          "start": "20:30",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "20:34",
+          "cat": "coding",
           "end": "20:38",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "20:34",
+          "title": "VSCode"
         },
         {
-          "start": "20:38",
+          "cat": "coding",
           "end": "20:43",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "20:38",
+          "title": "VSCode"
         },
         {
-          "start": "20:44",
+          "cat": "coding",
           "end": "20:44",
-          "cat": "coding",
+          "note": "17 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "17 hits"
-        },
-        {
           "start": "20:44",
+          "title": "Claude session · harbor"
+        },
+        {
+          "cat": "coding",
           "end": "20:45",
-          "cat": "coding",
+          "note": "17 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "17 hits"
+          "start": "20:44",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "20:45",
+          "cat": "coding",
           "end": "20:47",
-          "cat": "coding",
+          "note": "17 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "17 hits"
+          "start": "20:45",
+          "title": "Claude session · harbor"
         },
         {
+          "cat": "coding",
+          "end": "20:49",
+          "note": "com.microsoft.VSCode",
+          "src": "macos",
           "start": "20:48",
-          "end": "20:49",
-          "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "title": "VSCode"
         },
         {
-          "start": "20:49",
-          "end": "20:49",
           "cat": "coding",
+          "end": "20:49",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "20:49",
+          "title": "VSCode"
         },
         {
-          "start": "20:49",
+          "cat": "coding",
           "end": "20:50",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "20:49",
+          "title": "VSCode"
         },
         {
-          "start": "20:50",
+          "cat": "coding",
           "end": "20:51",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "20:50",
+          "title": "VSCode"
         },
         {
-          "start": "20:51",
+          "cat": "coding",
           "end": "20:55",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "20:51",
+          "title": "VSCode"
         },
         {
-          "start": "20:55",
+          "cat": "coding",
           "end": "20:56",
-          "cat": "coding",
+          "note": "33 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "33 hits"
+          "start": "20:55",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "20:56",
+          "cat": "coding",
           "end": "21:00",
-          "cat": "coding",
+          "note": "33 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "33 hits"
+          "start": "20:56",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "21:00",
+          "cat": "coding",
           "end": "21:05",
-          "cat": "coding",
+          "note": "33 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "33 hits"
+          "start": "21:00",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "21:05",
+          "cat": "coding",
           "end": "21:09",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "21:05",
+          "title": "VSCode"
         },
         {
-          "start": "21:09",
+          "cat": "coding",
           "end": "21:10",
-          "cat": "coding",
+          "note": "291 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "291 hits"
+          "start": "21:09",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "21:10",
+          "cat": "coding",
           "end": "21:14",
-          "cat": "coding",
+          "note": "291 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "291 hits"
+          "start": "21:10",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "21:14",
+          "cat": "coding",
           "end": "21:15",
-          "cat": "coding",
+          "note": "291 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "291 hits"
+          "start": "21:14",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "21:15",
+          "cat": "coding",
           "end": "21:16",
-          "cat": "coding",
+          "note": "291 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "291 hits"
+          "start": "21:15",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "21:16",
+          "cat": "coding",
           "end": "21:17",
-          "cat": "coding",
+          "note": "291 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "291 hits"
+          "start": "21:16",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "21:18",
+          "cat": "coding",
           "end": "21:19",
-          "cat": "coding",
+          "note": "291 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "291 hits"
+          "start": "21:18",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "21:19",
+          "cat": "coding",
           "end": "21:20",
-          "cat": "coding",
+          "note": "291 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "291 hits"
+          "start": "21:19",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "21:20",
+          "cat": "coding",
           "end": "21:21",
-          "cat": "coding",
+          "note": "291 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "291 hits"
+          "start": "21:20",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "21:21",
+          "cat": "coding",
           "end": "21:22",
-          "cat": "coding",
+          "note": "291 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "291 hits"
+          "start": "21:21",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "21:23",
+          "cat": "coding",
           "end": "21:25",
-          "cat": "coding",
+          "note": "291 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "291 hits"
+          "start": "21:23",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "21:25",
+          "cat": "coding",
           "end": "21:26",
-          "cat": "coding",
+          "note": "291 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "291 hits"
+          "start": "21:25",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "21:27",
+          "cat": "coding",
           "end": "21:30",
-          "cat": "coding",
+          "note": "291 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "291 hits"
+          "start": "21:27",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "21:30",
+          "cat": "coding",
           "end": "21:31",
-          "cat": "coding",
+          "note": "291 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "291 hits"
+          "start": "21:30",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "21:31",
+          "cat": "coding",
           "end": "21:36",
-          "cat": "coding",
+          "note": "291 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "291 hits"
+          "start": "21:31",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "21:36",
+          "cat": "coding",
           "end": "21:37",
-          "cat": "coding",
+          "note": "291 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "291 hits"
+          "start": "21:36",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "21:37",
+          "cat": "coding",
           "end": "21:42",
-          "cat": "coding",
+          "note": "291 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "291 hits"
+          "start": "21:37",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "21:42",
+          "cat": "coding",
           "end": "21:44",
-          "cat": "coding",
+          "note": "291 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "291 hits"
+          "start": "21:42",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "21:44",
+          "cat": "coding",
           "end": "21:47",
-          "cat": "coding",
+          "note": "291 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "291 hits"
+          "start": "21:44",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "21:47",
+          "cat": "writing",
           "end": "21:49",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "21:47",
+          "title": "claude-code.txt"
         },
         {
-          "start": "21:50",
+          "cat": "writing",
           "end": "21:55",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "21:50",
+          "title": "claude-code.txt"
         },
         {
-          "start": "22:12",
+          "cat": "coding",
           "end": "22:13",
-          "cat": "coding",
+          "note": "1 hit",
           "src": "local",
-          "title": "fee_calculator.py",
-          "note": "1 hit"
+          "start": "22:12",
+          "title": "fee_calculator.py"
         },
         {
-          "start": "22:13",
+          "cat": "coding",
           "end": "22:14",
-          "cat": "coding",
+          "note": "1 hit",
           "src": "local",
-          "title": "fee_calculator.py",
-          "note": "1 hit"
+          "start": "22:13",
+          "title": "fee_calculator.py"
         },
         {
-          "start": "22:14",
+          "cat": "coding",
           "end": "22:15",
-          "cat": "coding",
+          "note": "1 hit",
           "src": "local",
-          "title": "fee_calculator.py",
-          "note": "1 hit"
+          "start": "22:14",
+          "title": "fee_calculator.py"
         },
         {
-          "start": "22:15",
+          "cat": "coding",
           "end": "22:16",
-          "cat": "coding",
+          "note": "1 hit",
           "src": "local",
-          "title": "fee_calculator.py",
-          "note": "1 hit"
+          "start": "22:15",
+          "title": "fee_calculator.py"
         },
         {
-          "start": "22:16",
+          "cat": "coding",
           "end": "22:17",
-          "cat": "coding",
+          "note": "1 hit",
           "src": "local",
-          "title": "fee_calculator.py",
-          "note": "1 hit"
+          "start": "22:16",
+          "title": "fee_calculator.py"
         },
         {
-          "start": "22:17",
+          "cat": "writing",
           "end": "22:18",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "22:17",
+          "title": "claude-code.txt"
         },
         {
-          "start": "22:18",
+          "cat": "writing",
           "end": "22:19",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "22:18",
+          "title": "reward.txt"
         },
         {
+          "cat": "writing",
+          "end": "22:20",
+          "note": "3 hits",
+          "src": "local",
           "start": "22:19",
-          "end": "22:20",
-          "cat": "writing",
-          "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "title": "reward.txt"
         },
         {
-          "start": "22:20",
-          "end": "22:20",
           "cat": "writing",
+          "end": "22:20",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "22:20",
+          "title": "reward.txt"
         },
         {
-          "start": "22:20",
+          "cat": "writing",
           "end": "22:21",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "22:20",
+          "title": "reward.txt"
         },
         {
-          "start": "22:21",
+          "cat": "writing",
           "end": "22:22",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "22:21",
+          "title": "reward.txt"
         },
         {
-          "start": "22:22",
+          "cat": "writing",
           "end": "22:23",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "22:22",
+          "title": "claude-code.txt"
         },
         {
-          "start": "22:23",
+          "cat": "writing",
           "end": "22:25",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "22:23",
+          "title": "claude-code.txt"
         },
         {
-          "start": "22:25",
+          "cat": "writing",
           "end": "22:27",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "22:25",
+          "title": "claude-code.txt"
         },
         {
-          "start": "22:27",
+          "cat": "writing",
           "end": "22:28",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "22:27",
+          "title": "claude-code.txt"
         },
         {
-          "start": "22:28",
+          "cat": "writing",
           "end": "22:30",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "22:28",
+          "title": "claude-code.txt"
         },
         {
-          "start": "22:30",
+          "cat": "writing",
           "end": "22:32",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "22:30",
+          "title": "claude-code.txt"
         },
         {
-          "start": "22:32",
+          "cat": "writing",
           "end": "22:34",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "22:32",
+          "title": "claude-code.txt"
         },
         {
-          "start": "22:34",
+          "cat": "writing",
           "end": "22:35",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "22:34",
+          "title": "claude-code.txt"
         },
         {
-          "start": "22:35",
+          "cat": "writing",
           "end": "22:37",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "22:35",
+          "title": "claude-code.txt"
         },
         {
-          "start": "22:37",
+          "cat": "writing",
           "end": "22:38",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "22:37",
+          "title": "claude-code.txt"
         },
         {
-          "start": "22:38",
+          "cat": "writing",
           "end": "22:39",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "22:38",
+          "title": "claude-code.txt"
         },
         {
-          "start": "22:39",
+          "cat": "coding",
           "end": "22:40",
-          "cat": "coding",
+          "note": "5 hits",
           "src": "local",
-          "title": "result.json",
-          "note": "5 hits"
+          "start": "22:39",
+          "title": "result.json"
         },
         {
-          "start": "22:40",
+          "cat": "coding",
           "end": "22:42",
-          "cat": "coding",
+          "note": "5 hits",
           "src": "local",
-          "title": "result.json",
-          "note": "5 hits"
+          "start": "22:40",
+          "title": "result.json"
         },
         {
+          "cat": "writing",
+          "end": "22:43",
+          "note": "3 hits",
+          "src": "local",
           "start": "22:42",
-          "end": "22:43",
-          "cat": "writing",
-          "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "title": "reward.txt"
         },
         {
+          "cat": "writing",
+          "end": "22:43",
+          "note": "3 hits",
+          "src": "local",
           "start": "22:43",
-          "end": "22:43",
-          "cat": "writing",
-          "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "title": "reward.txt"
         },
         {
-          "start": "22:44",
+          "cat": "writing",
           "end": "22:45",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "22:44",
+          "title": "reward.txt"
         },
         {
-          "start": "22:45",
+          "cat": "writing",
           "end": "22:49",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "22:45",
+          "title": "claude-code.txt"
         },
         {
-          "start": "22:49",
+          "cat": "writing",
           "end": "22:50",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "22:49",
+          "title": "claude-code.txt"
         },
         {
-          "start": "22:50",
+          "cat": "writing",
           "end": "22:54",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "22:50",
+          "title": "claude-code.txt"
         },
         {
-          "start": "22:56",
+          "cat": "writing",
           "end": "23:01",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "22:56",
+          "title": "claude-code.txt"
         },
         {
-          "start": "23:01",
+          "cat": "writing",
           "end": "23:05",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "23:01",
+          "title": "claude-code.txt"
         },
         {
-          "start": "23:05",
+          "cat": "writing",
           "end": "23:06",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "23:05",
+          "title": "claude-code.txt"
         },
         {
-          "start": "23:06",
+          "cat": "writing",
           "end": "23:10",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "23:06",
+          "title": "claude-code.txt"
         },
         {
-          "start": "23:10",
+          "cat": "coding",
           "end": "23:12",
-          "cat": "coding",
+          "note": "5 hits",
           "src": "local",
-          "title": "result.json",
-          "note": "5 hits"
+          "start": "23:10",
+          "title": "result.json"
         },
         {
-          "start": "23:12",
+          "cat": "coding",
           "end": "23:13",
-          "cat": "coding",
+          "note": "5 hits",
           "src": "local",
-          "title": "result.json",
-          "note": "5 hits"
+          "start": "23:12",
+          "title": "result.json"
         },
         {
-          "start": "23:13",
+          "cat": "coding",
           "end": "23:14",
-          "cat": "coding",
+          "note": "5 hits",
           "src": "local",
-          "title": "result.json",
-          "note": "5 hits"
+          "start": "23:13",
+          "title": "result.json"
         },
         {
-          "start": "23:14",
+          "cat": "writing",
           "end": "23:15",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "23:14",
+          "title": "claude-code.txt"
         },
         {
-          "start": "23:15",
+          "cat": "writing",
           "end": "23:16",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "23:15",
+          "title": "reward.txt"
         },
         {
-          "start": "23:16",
+          "cat": "writing",
           "end": "23:17",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "23:16",
+          "title": "reward.txt"
         },
         {
-          "start": "23:17",
+          "cat": "writing",
           "end": "23:18",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "23:17",
+          "title": "reward.txt"
         },
         {
-          "start": "23:18",
+          "cat": "writing",
           "end": "23:19",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "23:18",
+          "title": "claude-code.txt"
         },
         {
-          "start": "23:19",
+          "cat": "writing",
           "end": "23:21",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "23:19",
+          "title": "claude-code.txt"
         },
         {
-          "start": "23:21",
+          "cat": "writing",
           "end": "23:24",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "23:21",
+          "title": "claude-code.txt"
         },
         {
-          "start": "23:25",
+          "cat": "writing",
           "end": "23:29",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "23:25",
+          "title": "claude-code.txt"
         },
         {
-          "start": "23:29",
+          "cat": "writing",
           "end": "23:30",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "23:29",
+          "title": "claude-code.txt"
         },
         {
-          "start": "23:30",
+          "cat": "writing",
           "end": "23:32",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "23:30",
+          "title": "claude-code.txt"
         },
         {
-          "start": "23:32",
+          "cat": "writing",
           "end": "23:34",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "23:32",
+          "title": "claude-code.txt"
         },
         {
+          "cat": "writing",
+          "end": "23:37",
+          "note": "1 hit",
+          "src": "local",
           "start": "23:34",
-          "end": "23:37",
-          "cat": "writing",
-          "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "title": "claude-code.txt"
         },
         {
-          "start": "23:37",
-          "end": "23:37",
           "cat": "writing",
+          "end": "23:37",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "23:37",
+          "title": "claude-code.txt"
         },
         {
-          "start": "23:37",
-          "end": "23:39",
           "cat": "coding",
+          "end": "23:39",
+          "note": "5 hits",
           "src": "local",
-          "title": "result.json",
-          "note": "5 hits"
+          "start": "23:37",
+          "title": "result.json"
         },
         {
+          "cat": "coding",
+          "end": "23:39",
+          "note": "5 hits",
+          "src": "local",
           "start": "23:39",
-          "end": "23:39",
-          "cat": "coding",
-          "src": "local",
-          "title": "result.json",
-          "note": "5 hits"
+          "title": "result.json"
         },
         {
-          "start": "23:40",
+          "cat": "coding",
           "end": "23:41",
-          "cat": "coding",
+          "note": "5 hits",
           "src": "local",
-          "title": "result.json",
-          "note": "5 hits"
+          "start": "23:40",
+          "title": "result.json"
         },
         {
+          "cat": "writing",
+          "end": "23:42",
+          "note": "1 hit",
+          "src": "local",
           "start": "23:41",
-          "end": "23:42",
-          "cat": "writing",
-          "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "title": "claude-code.txt"
         },
         {
-          "start": "23:42",
-          "end": "23:42",
           "cat": "writing",
+          "end": "23:42",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "23:42",
+          "title": "reward.txt"
         },
         {
-          "start": "23:42",
+          "cat": "writing",
           "end": "23:44",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "23:42",
+          "title": "reward.txt"
         },
         {
+          "cat": "writing",
+          "end": "23:44",
+          "note": "3 hits",
+          "src": "local",
           "start": "23:44",
-          "end": "23:44",
-          "cat": "writing",
-          "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "title": "reward.txt"
         },
         {
-          "start": "23:45",
+          "cat": "writing",
           "end": "23:47",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "23:45",
+          "title": "claude-code.txt"
         },
         {
-          "start": "23:47",
+          "cat": "writing",
           "end": "23:49",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "23:47",
+          "title": "claude-code.txt"
         },
         {
-          "start": "23:49",
+          "cat": "writing",
           "end": "23:50",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "23:49",
+          "title": "claude-code.txt"
         },
         {
-          "start": "23:50",
+          "cat": "writing",
           "end": "23:52",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "23:50",
+          "title": "claude-code.txt"
         },
         {
-          "start": "23:52",
+          "cat": "writing",
           "end": "23:54",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "23:52",
+          "title": "claude-code.txt"
         },
         {
-          "start": "23:54",
+          "cat": "writing",
           "end": "23:55",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "23:54",
+          "title": "claude-code.txt"
         },
         {
-          "start": "23:55",
+          "cat": "writing",
           "end": "23:57",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "23:55",
+          "title": "claude-code.txt"
         },
         {
-          "start": "23:57",
+          "cat": "writing",
           "end": "23:59",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "23:57",
+          "title": "claude-code.txt"
         },
         {
+          "cat": "writing",
+          "end": "00:01",
+          "note": "1 hit",
+          "src": "local",
           "start": "23:59",
-          "end": "00:01",
-          "cat": "writing",
-          "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "title": "claude-code.txt"
         },
         {
+          "cat": "writing",
+          "end": "00:01",
+          "note": "1 hit",
+          "src": "local",
           "start": "00:01",
-          "end": "00:01",
-          "cat": "writing",
-          "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "title": "claude-code.txt"
         },
         {
-          "start": "00:03",
+          "cat": "coding",
           "end": "00:05",
-          "cat": "coding",
+          "note": "5 hits",
           "src": "local",
-          "title": "result.json",
-          "note": "5 hits"
+          "start": "00:03",
+          "title": "result.json"
         },
         {
-          "start": "00:05",
+          "cat": "writing",
           "end": "00:06",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "00:05",
+          "title": "claude-code.txt"
         },
         {
-          "start": "00:08",
+          "cat": "coding",
           "end": "00:11",
-          "cat": "coding",
+          "note": "openrouter.ai",
           "src": "chrome",
-          "title": "Credits | OpenRouter",
-          "note": "openrouter.ai"
+          "start": "00:08",
+          "title": "Credits | OpenRouter"
         },
         {
-          "start": "00:12",
+          "cat": "coding",
           "end": "00:16",
-          "cat": "coding",
+          "note": "openrouter.ai",
           "src": "chrome",
-          "title": "Credits | OpenRouter",
-          "note": "openrouter.ai"
+          "start": "00:12",
+          "title": "Credits | OpenRouter"
         },
         {
-          "start": "00:17",
+          "cat": "coding",
           "end": "00:20",
-          "cat": "coding",
+          "note": "openrouter.ai",
           "src": "chrome",
-          "title": "Credits | OpenRouter",
-          "note": "openrouter.ai"
+          "start": "00:17",
+          "title": "Credits | OpenRouter"
         },
         {
-          "start": "00:20",
+          "cat": "coding",
           "end": "00:21",
-          "cat": "coding",
+          "note": "openrouter.ai",
           "src": "chrome",
-          "title": "Credits | OpenRouter",
-          "note": "openrouter.ai"
+          "start": "00:20",
+          "title": "Credits | OpenRouter"
         },
         {
-          "start": "00:21",
+          "cat": "coding",
           "end": "00:24",
-          "cat": "coding",
+          "note": "openrouter.ai",
           "src": "chrome",
-          "title": "Credits | OpenRouter",
-          "note": "openrouter.ai"
+          "start": "00:21",
+          "title": "Credits | OpenRouter"
         },
         {
-          "start": "00:24",
+          "cat": "coding",
           "end": "00:25",
-          "cat": "coding",
+          "note": "openrouter.ai",
           "src": "chrome",
-          "title": "Credits | OpenRouter",
-          "note": "openrouter.ai"
+          "start": "00:24",
+          "title": "Credits | OpenRouter"
         },
         {
-          "start": "00:25",
+          "cat": "coding",
           "end": "00:26",
-          "cat": "coding",
+          "note": "openrouter.ai",
           "src": "chrome",
-          "title": "Credits | OpenRouter",
-          "note": "openrouter.ai"
+          "start": "00:25",
+          "title": "Credits | OpenRouter"
         },
         {
-          "start": "00:26",
+          "cat": "writing",
           "end": "00:28",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "00:26",
+          "title": "claude-code.txt"
         },
         {
-          "start": "00:28",
+          "cat": "writing",
           "end": "00:29",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "00:28",
+          "title": "claude-code.txt"
         },
         {
-          "start": "00:29",
+          "cat": "coding",
           "end": "00:30",
-          "cat": "coding",
+          "note": "5 hits",
           "src": "local",
-          "title": "result.json",
-          "note": "5 hits"
+          "start": "00:29",
+          "title": "result.json"
         },
         {
+          "cat": "coding",
+          "end": "00:33",
+          "note": "5 hits",
+          "src": "local",
           "start": "00:30",
-          "end": "00:33",
-          "cat": "coding",
-          "src": "local",
-          "title": "result.json",
-          "note": "5 hits"
+          "title": "result.json"
         },
         {
-          "start": "00:33",
-          "end": "00:33",
           "cat": "writing",
+          "end": "00:33",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "00:33",
+          "title": "claude-code.txt"
         },
         {
-          "start": "00:33",
+          "cat": "writing",
           "end": "00:34",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "00:33",
+          "title": "reward.txt"
         },
         {
-          "start": "00:34",
-          "end": "00:35",
           "cat": "writing",
+          "end": "00:35",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "00:34",
+          "title": "reward.txt"
         }
       ],
+      "key": "2026-8-20",
       "logged": 680,
-      "real": 640,
-      "deep": 640,
       "ratio": 0.9414565717775443,
+      "real": 640,
       "stats": {
         "contextSwitches": 81,
-        "tabsOpened": 150,
+        "justOneMoreThing": 6,
         "longestFocus": "5h",
-        "justOneMoreThing": 6
-      }
+        "tabsOpened": 150
+      },
+      "weekend": false
     },
     {
       "key": "2026-8-21",
@@ -83218,7 +84875,7 @@
       "dateShort": "Fri, Aug 21",
       "dateLong": "Friday, August 21",
       "dayStart": "09:29",
-      "dayEnd": "10:25",
+      "dayEnd": "18:29",
       "events": [
         {
           "start": "09:29",
@@ -83229,39 +84886,1687 @@
           "note": "openrouter.ai"
         },
         {
-          "start": "10:05",
-          "end": "10:11",
-          "cat": "writing",
-          "src": "local",
-          "title": "2026-08-20-introducing-ai-futures.md",
-          "note": "2 hits"
-        },
-        {
-          "start": "10:11",
+          "start": "10:04",
           "end": "10:23",
           "cat": "coding",
-          "src": "local",
-          "title": "visualization.ipynb",
-          "note": "2 hits"
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
         },
         {
           "start": "10:23",
-          "end": "10:25",
+          "end": "10:37",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "10:37",
+          "end": "10:44",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Trending Papers + Weekly Seminar - ada.ren.cn@gmail.com - Gm",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "10:44",
+          "end": "10:46",
+          "cat": "research",
+          "src": "macos",
+          "title": "Why Does CLAUDE.md Keep Growing? Catastrophic Remembering in",
+          "note": "alphaxiv.org"
+        },
+        {
+          "start": "10:46",
+          "end": "10:47",
+          "cat": "research",
+          "src": "macos",
+          "title": "Why Does CLAUDE.md Keep Growing?Catastrophic Remembering in ",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "10:47",
+          "end": "10:54",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Trending Papers + Weekly Seminar - ada.ren.cn@gmail.com - Gm",
+          "note": "accounts.google.com"
+        },
+        {
+          "start": "10:55",
+          "end": "10:59",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Feed | LinkedIn",
+          "note": "linkedin.com"
+        },
+        {
+          "start": "10:59",
+          "end": "11:04",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:04",
+          "end": "11:06",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:06",
+          "end": "11:10",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Feed | LinkedIn",
+          "note": "linkedin.com"
+        },
+        {
+          "start": "11:11",
+          "end": "11:15",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:15",
+          "end": "11:15",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:16",
+          "end": "11:20",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:20",
+          "end": "11:21",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:21",
+          "end": "11:23",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:24",
+          "end": "11:26",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Feed | LinkedIn",
+          "note": "linkedin.com"
+        },
+        {
+          "start": "11:26",
+          "end": "11:27",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "11:27",
+          "end": "11:31",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "11:32",
+          "end": "11:34",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "11:35",
+          "end": "11:35",
+          "cat": "research",
+          "src": "macos",
+          "title": "Introducing AI Futures | OpenAI",
+          "note": "openai.com"
+        },
+        {
+          "start": "11:36",
+          "end": "11:40",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Stampli cuts launch hours by 68% using ChatGPT Work | Ada's ",
+          "note": "openai.com"
+        },
+        {
+          "start": "11:40",
+          "end": "11:41",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Deep Finance",
+          "note": "deepfinance.com.au"
+        },
+        {
+          "start": "11:42",
+          "end": "11:44",
+          "cat": "research",
+          "src": "macos",
+          "title": "AI Digest — August 21, 2026 | Ada's Notes",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "11:44",
+          "end": "11:45",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(3) Madhu Guru (@realmadhuguru) / X",
+          "note": "x.com"
+        },
+        {
+          "start": "11:45",
+          "end": "11:47",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(3) Madhu Guru (@realmadhuguru) / X",
+          "note": "x.com"
+        },
+        {
+          "start": "11:47",
+          "end": "11:48",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(3) Madhu Guru (@realmadhuguru) / X",
+          "note": "x.com"
+        },
+        {
+          "start": "11:48",
+          "end": "11:48",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(3) Madhu Guru (@realmadhuguru) / X",
+          "note": "x.com"
+        },
+        {
+          "start": "11:48",
+          "end": "11:49",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(3) Madhu Guru (@realmadhuguru) / X",
+          "note": "x.com"
+        },
+        {
+          "start": "11:49",
+          "end": "11:49",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(3) Madhu Guru (@realmadhuguru) / X",
+          "note": "x.com"
+        },
+        {
+          "start": "11:49",
+          "end": "11:50",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Stampli cuts launch hours by 68% using ChatGPT Work | Ada's ",
+          "note": "openai.com"
+        },
+        {
+          "start": "11:50",
+          "end": "11:52",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(89) Full Walkthrough: Workflow for AI Coding — Matt Pocock ",
+          "note": "youtube.com"
+        },
+        {
+          "start": "11:52",
+          "end": "11:53",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(89) Full Walkthrough: Workflow for AI Coding — Matt Pocock ",
+          "note": "youtube.com"
+        },
+        {
+          "start": "11:53",
+          "end": "11:53",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(89) Full Walkthrough: Workflow for AI Coding — Matt Pocock ",
+          "note": "youtube.com"
+        },
+        {
+          "start": "11:54",
+          "end": "11:55",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(3) X 上的 swyx：“by total views, matt’s now the top @aidotengi",
+          "note": "x.com"
+        },
+        {
+          "start": "11:56",
+          "end": "12:01",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(3) X 上的 swyx：“by total views, matt’s now the top @aidotengi",
+          "note": "x.com"
+        },
+        {
+          "start": "12:01",
+          "end": "12:02",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "4 hits"
+        },
+        {
+          "start": "12:03",
+          "end": "12:07",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "12:07",
+          "end": "12:08",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Workspace Overview | Settings | OpenRouter",
+          "note": "openrouter.ai"
+        },
+        {
+          "start": "12:08",
+          "end": "12:13",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Workspace Overview | Settings | OpenRouter",
+          "note": "openrouter.ai"
+        },
+        {
+          "start": "12:13",
+          "end": "12:15",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Workspace Overview | Settings | OpenRouter",
+          "note": "openrouter.ai"
+        },
+        {
+          "start": "12:15",
+          "end": "12:20",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Workspace Overview | Settings | OpenRouter",
+          "note": "openrouter.ai"
+        },
+        {
+          "start": "12:20",
+          "end": "12:22",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Workspace Overview | Settings | OpenRouter",
+          "note": "openrouter.ai"
+        },
+        {
+          "start": "12:22",
+          "end": "12:27",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "12:27",
+          "end": "12:31",
           "cat": "coding",
           "src": "local",
-          "title": "test_codex_auth.py",
+          "title": "lock.json",
+          "note": "6 hits"
+        },
+        {
+          "start": "12:31",
+          "end": "12:32",
+          "cat": "coding",
+          "src": "local",
+          "title": "lock.json",
+          "note": "6 hits"
+        },
+        {
+          "start": "12:32",
+          "end": "12:33",
+          "cat": "coding",
+          "src": "local",
+          "title": "lock.json",
+          "note": "6 hits"
+        },
+        {
+          "start": "12:33",
+          "end": "12:34",
+          "cat": "coding",
+          "src": "local",
+          "title": "lock.json",
+          "note": "6 hits"
+        },
+        {
+          "start": "12:34",
+          "end": "12:34",
+          "cat": "coding",
+          "src": "local",
+          "title": "lock.json",
+          "note": "6 hits"
+        },
+        {
+          "start": "12:34",
+          "end": "12:36",
+          "cat": "coding",
+          "src": "local",
+          "title": "lock.json",
+          "note": "6 hits"
+        },
+        {
+          "start": "12:36",
+          "end": "12:36",
+          "cat": "writing",
+          "src": "local",
+          "title": "README.md",
+          "note": "2 hits"
+        },
+        {
+          "start": "12:36",
+          "end": "12:37",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "12:37",
+          "end": "12:38",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "12:38",
+          "end": "12:38",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "12:39",
+          "end": "12:39",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "12:39",
+          "end": "12:49",
+          "cat": "coding",
+          "src": "local",
+          "title": "lock.json",
+          "note": "5 hits"
+        },
+        {
+          "start": "12:49",
+          "end": "12:57",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "12:57",
+          "end": "13:02",
+          "cat": "writing",
+          "src": "local",
+          "title": "codex.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "13:02",
+          "end": "13:03",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "13:03",
+          "end": "13:08",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "13:08",
+          "end": "13:09",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "13:09",
+          "end": "13:14",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "13:14",
+          "end": "13:16",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "13:16",
+          "end": "13:21",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "13:21",
+          "end": "13:22",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "13:22",
+          "end": "13:27",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "13:27",
+          "end": "13:28",
+          "cat": "coding",
+          "src": "local",
+          "title": "lock.json",
+          "note": "4 hits"
+        },
+        {
+          "start": "13:28",
+          "end": "13:29",
+          "cat": "coding",
+          "src": "local",
+          "title": "lock.json",
+          "note": "4 hits"
+        },
+        {
+          "start": "13:29",
+          "end": "13:30",
+          "cat": "coding",
+          "src": "local",
+          "title": "lock.json",
+          "note": "4 hits"
+        },
+        {
+          "start": "13:30",
+          "end": "13:31",
+          "cat": "coding",
+          "src": "local",
+          "title": "lock.json",
+          "note": "4 hits"
+        },
+        {
+          "start": "13:31",
+          "end": "13:32",
+          "cat": "coding",
+          "src": "local",
+          "title": "lock.json",
+          "note": "4 hits"
+        },
+        {
+          "start": "13:32",
+          "end": "13:33",
+          "cat": "writing",
+          "src": "local",
+          "title": "codex.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "13:33",
+          "end": "13:34",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "13:34",
+          "end": "13:35",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "13:35",
+          "end": "13:36",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "13:36",
+          "end": "13:37",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "13:39",
+          "end": "13:40",
+          "cat": "writing",
+          "src": "local",
+          "title": "codex.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "13:40",
+          "end": "13:44",
+          "cat": "coding",
+          "src": "macos",
+          "title": "OpenRouter",
+          "note": "openrouter.ai"
+        },
+        {
+          "start": "13:45",
+          "end": "13:46",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "13:46",
+          "end": "13:48",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "OpenRouter",
+          "note": "openrouter.com"
+        },
+        {
+          "start": "13:48",
+          "end": "13:49",
+          "cat": "research",
+          "src": "macos",
+          "title": "Venues | OpenReview",
+          "note": "openreview.net"
+        },
+        {
+          "start": "13:49",
+          "end": "13:50",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "OpenRouter",
+          "note": "openrouter.com"
+        },
+        {
+          "start": "13:50",
+          "end": "13:51",
+          "cat": "research",
+          "src": "macos",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+          "note": "openreview.net"
+        },
+        {
+          "start": "13:51",
+          "end": "13:52",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "OpenRouter",
+          "note": "openrouter.com"
+        },
+        {
+          "start": "13:52",
+          "end": "13:55",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "13:55",
+          "end": "13:56",
+          "cat": "research",
+          "src": "macos",
+          "title": "EMNLP 2026 Conference Authors | OpenReview",
+          "note": "openreview.net"
+        },
+        {
+          "start": "13:56",
+          "end": "13:56",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "13:57",
+          "end": "13:59",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "14:00",
+          "end": "14:02",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "14:02",
+          "end": "14:03",
+          "cat": "admin",
+          "src": "macos",
+          "title": "roosters - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "14:03",
+          "end": "14:06",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "14:07",
+          "end": "14:07",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "14:08",
+          "end": "14:11",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "14:11",
+          "end": "14:12",
+          "cat": "research",
+          "src": "macos",
+          "title": "EMNLP 2026 Conference Authors | OpenReview",
+          "note": "openreview.net"
+        },
+        {
+          "start": "14:12",
+          "end": "14:14",
+          "cat": "research",
+          "src": "macos",
+          "title": "EMNLP 2026 Conference Authors | OpenReview",
+          "note": "openreview.net"
+        },
+        {
+          "start": "14:14",
+          "end": "14:15",
+          "cat": "research",
+          "src": "macos",
+          "title": "EMNLP 2026 Conference Authors | OpenReview",
+          "note": "openreview.net"
+        },
+        {
+          "start": "14:15",
+          "end": "14:16",
+          "cat": "research",
+          "src": "macos",
+          "title": "EMNLP 2026 Conference Authors | OpenReview",
+          "note": "openreview.net"
+        },
+        {
+          "start": "14:17",
+          "end": "14:17",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Google Maps",
+          "note": "map.google.com"
+        },
+        {
+          "start": "14:17",
+          "end": "14:19",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Google Maps",
+          "note": "map.google.com"
+        },
+        {
+          "start": "14:20",
+          "end": "14:21",
+          "cat": "research",
+          "src": "macos",
+          "title": "EMNLP 2026 Conference Authors | OpenReview",
+          "note": "openreview.net"
+        },
+        {
+          "start": "14:21",
+          "end": "14:22",
+          "cat": "research",
+          "src": "macos",
+          "title": "EMNLP 2026 Conference Authors | OpenReview",
+          "note": "openreview.net"
+        },
+        {
+          "start": "14:22",
+          "end": "14:27",
+          "cat": "research",
+          "src": "macos",
+          "title": "EMNLP 2026 Conference Authors | OpenReview",
+          "note": "openreview.net"
+        },
+        {
+          "start": "14:27",
+          "end": "14:28",
+          "cat": "research",
+          "src": "macos",
+          "title": "EMNLP 2026 Conference Authors | OpenReview",
+          "note": "openreview.net"
+        },
+        {
+          "start": "14:28",
+          "end": "14:29",
+          "cat": "research",
+          "src": "macos",
+          "title": "EMNLP 2026 Conference Authors | OpenReview",
+          "note": "openreview.net"
+        },
+        {
+          "start": "14:29",
+          "end": "14:31",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Silico - the platform for ambitious AI research",
+          "note": "goodfire.com"
+        },
+        {
+          "start": "14:31",
+          "end": "14:33",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Chargrill Charlie - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "14:34",
+          "end": "14:36",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+          "note": "openreview.net"
+        },
+        {
+          "start": "14:37",
+          "end": "14:37",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Get Silico - Individuals",
+          "note": "goodfire.com"
+        },
+        {
+          "start": "14:37",
+          "end": "14:38",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "14:38",
+          "end": "14:40",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "14:40",
+          "end": "14:43",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "14:43",
+          "end": "14:45",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Get Silico - Individuals",
+          "note": "goodfire.com"
+        },
+        {
+          "start": "14:45",
+          "end": "14:46",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "14:46",
+          "end": "14:49",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "14:49",
+          "end": "14:51",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Goodfire AI",
+          "note": "goodfire.com"
+        },
+        {
+          "start": "14:51",
+          "end": "14:52",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Goodfire AI",
+          "note": "goodfire.com"
+        },
+        {
+          "start": "14:52",
+          "end": "14:53",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Goodfire AI",
+          "note": "goodfire.com"
+        },
+        {
+          "start": "14:53",
+          "end": "14:55",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Goodfire AI",
+          "note": "goodfire.com"
+        },
+        {
+          "start": "14:55",
+          "end": "14:56",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Goodfire AI",
+          "note": "goodfire.com"
+        },
+        {
+          "start": "14:56",
+          "end": "14:57",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Goodfire AI",
+          "note": "goodfire.com"
+        },
+        {
+          "start": "14:57",
+          "end": "14:58",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "Week5_5.1_Hands On Activity.mp4",
+          "note": "echo360.net.au"
+        },
+        {
+          "start": "14:58",
+          "end": "15:00",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "Week5_5.1_Hands On Activity.mp4",
+          "note": "echo360.net.au"
+        },
+        {
+          "start": "15:00",
+          "end": "15:01",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "Week5_5.1_Hands On Activity.mp4",
+          "note": "echo360.net.au"
+        },
+        {
+          "start": "15:01",
+          "end": "15:02",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "Week5_5.1_Hands On Activity.mp4",
+          "note": "echo360.net.au"
+        },
+        {
+          "start": "15:02",
+          "end": "15:07",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "Week5_5.1_Hands On Activity.mp4",
+          "note": "echo360.net.au"
+        },
+        {
+          "start": "15:07",
+          "end": "15:12",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "Week5_5.1_Hands On Activity.mp4",
+          "note": "echo360.net.au"
+        },
+        {
+          "start": "15:12",
+          "end": "15:16",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "Week5_5.1_Hands On Activity.mp4",
+          "note": "echo360.net.au"
+        },
+        {
+          "start": "15:17",
+          "end": "15:21",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "Week5_5.1_Hands On Activity.mp4",
+          "note": "echo360.net.au"
+        },
+        {
+          "start": "15:21",
+          "end": "15:25",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "Week5_5.1_Hands On Activity.mp4",
+          "note": "echo360.net.au"
+        },
+        {
+          "start": "15:25",
+          "end": "15:26",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "Week5_5.1_Hands On Activity.mp4",
+          "note": "echo360.net.au"
+        },
+        {
+          "start": "15:26",
+          "end": "15:27",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "Week5_5.1_Hands On Activity.mp4",
+          "note": "echo360.net.au"
+        },
+        {
+          "start": "15:27",
+          "end": "15:27",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "Week5_5.1_Hands On Activity.mp4",
+          "note": "echo360.net.au"
+        },
+        {
+          "start": "15:27",
+          "end": "15:28",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "Week5_5.1_Hands On Activity.mp4",
+          "note": "echo360.net.au"
+        },
+        {
+          "start": "15:29",
+          "end": "15:29",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "15:30",
+          "end": "15:32",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "15:32",
+          "end": "15:32",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "15:32",
+          "end": "15:33",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "Week5_5.1_Hands On Activity.mp4",
+          "note": "echo360.net.au"
+        },
+        {
+          "start": "15:33",
+          "end": "15:35",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "Week5_5.1_Hands On Activity.mp4",
+          "note": "echo360.net.au"
+        },
+        {
+          "start": "15:35",
+          "end": "15:37",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "Week5_5.1_Hands On Activity.mp4",
+          "note": "echo360.net.au"
+        },
+        {
+          "start": "15:37",
+          "end": "15:42",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "Week5_5.1_Hands On Activity.mp4",
+          "note": "echo360.net.au"
+        },
+        {
+          "start": "15:42",
+          "end": "15:47",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "Week5_5.1_Hands On Activity.mp4",
+          "note": "echo360.net.au"
+        },
+        {
+          "start": "15:48",
+          "end": "15:49",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "Week5_5.1_Hands On Activity.mp4",
+          "note": "echo360.net.au"
+        },
+        {
+          "start": "15:49",
+          "end": "15:51",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(89) Knut Jägersberg - YouTube",
+          "note": "youtube.com"
+        },
+        {
+          "start": "15:51",
+          "end": "15:52",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "15:52",
+          "end": "15:52",
+          "cat": "personal",
+          "src": "macos",
+          "title": "AI Engineer World's Fair 2026: June 29 - July 2, San Francis",
+          "note": "ai.engineer"
+        },
+        {
+          "start": "15:53",
+          "end": "15:57",
+          "cat": "personal",
+          "src": "macos",
+          "title": "AI Engineer World's Fair 2026: June 29 - July 2, San Francis",
+          "note": "ai.engineer"
+        },
+        {
+          "start": "15:57",
+          "end": "16:00",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "AI Engineer World's Fair 2026: June 29 - July 2, San Francis",
+          "note": "youtube.com"
+        },
+        {
+          "start": "16:01",
+          "end": "16:04",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Home Page - Neuropedia \"Redefining the Neuro World\"",
+          "note": "neuropedia.net"
+        },
+        {
+          "start": "16:04",
+          "end": "16:05",
+          "cat": "research",
+          "src": "macos",
+          "title": "‪Johnny Lin‬ - ‪Google Scholar‬",
+          "note": "scholar.google.com"
+        },
+        {
+          "start": "16:05",
+          "end": "16:06",
+          "cat": "research",
+          "src": "macos",
+          "title": "Natural Language Autoencoders – Llama3.3-70B-IT ｜ Neuronpedi",
+          "note": "neuronpedia.org"
+        },
+        {
+          "start": "16:06",
+          "end": "16:07",
+          "cat": "research",
+          "src": "macos",
+          "title": "Natural Language Autoencoders – Llama3.3-70B-IT ｜ Neuronpedi",
+          "note": "neuronpedia.org"
+        },
+        {
+          "start": "16:07",
+          "end": "16:08",
+          "cat": "research",
+          "src": "macos",
+          "title": "Natural Language Autoencoders – Llama3.3-70B-IT ｜ Neuronpedi",
+          "note": "neuronpedia.org"
+        },
+        {
+          "start": "16:08",
+          "end": "16:08",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "AI Engineer World's Fair 2026: June 29 - July 2, San Francis",
+          "note": "youtube.com"
+        },
+        {
+          "start": "16:08",
+          "end": "16:09",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "AI Engineer World's Fair 2026: June 29 - July 2, San Francis",
+          "note": "youtube.com"
+        },
+        {
+          "start": "16:09",
+          "end": "16:11",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "AI Engineer World's Fair 2026: June 29 - July 2, San Francis",
+          "note": "youtube.com"
+        },
+        {
+          "start": "16:12",
+          "end": "16:13",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Natural Language Autoencoders – Llama3.3-70B-IT ｜ Neuronpedi",
+          "note": "neuronpedia.org"
+        },
+        {
+          "start": "16:13",
+          "end": "16:13",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Natural Language Autoencoders – Llama3.3-70B-IT ｜ Neuronpedi",
+          "note": "neuronpedia.org"
+        },
+        {
+          "start": "16:13",
+          "end": "16:14",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Natural Language Autoencoders – Llama3.3-70B-IT ｜ Neuronpedi",
+          "note": "neuronpedia.org"
+        },
+        {
+          "start": "16:14",
+          "end": "16:16",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Natural Language Autoencoders – Llama3.3-70B-IT ｜ Neuronpedi",
+          "note": "neuronpedia.org"
+        },
+        {
+          "start": "16:16",
+          "end": "16:21",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Natural Language Autoencoders – Llama3.3-70B-IT ｜ Neuronpedi",
+          "note": "neuronpedia.org"
+        },
+        {
+          "start": "16:21",
+          "end": "16:25",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Natural Language Autoencoders – Llama3.3-70B-IT ｜ Neuronpedi",
+          "note": "neuronpedia.org"
+        },
+        {
+          "start": "16:25",
+          "end": "16:26",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Natural Language Autoencoders – Llama3.3-70B-IT ｜ Neuronpedi",
+          "note": "neuronpedia.org"
+        },
+        {
+          "start": "16:26",
+          "end": "16:29",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Natural Language Autoencoders – Llama3.3-70B-IT ｜ Neuronpedi",
+          "note": "neuronpedia.org"
+        },
+        {
+          "start": "16:29",
+          "end": "16:30",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Natural Language Autoencoders – Llama3.3-70B-IT ｜ Neuronpedi",
+          "note": "neuronpedia.org"
+        },
+        {
+          "start": "16:30",
+          "end": "16:34",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Natural Language Autoencoders – Llama3.3-70B-IT ｜ Neuronpedi",
+          "note": "neuronpedia.org"
+        },
+        {
+          "start": "16:34",
+          "end": "16:35",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Natural Language Autoencoders – Llama3.3-70B-IT ｜ Neuronpedi",
+          "note": "neuronpedia.org"
+        },
+        {
+          "start": "16:36",
+          "end": "16:37",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Natural Language Autoencoders – Llama3.3-70B-IT ｜ Neuronpedi",
+          "note": "neuronpedia.org"
+        },
+        {
+          "start": "16:37",
+          "end": "16:38",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Natural Language Autoencoders – Llama3.3-70B-IT ｜ Neuronpedi",
+          "note": "neuronpedia.org"
+        },
+        {
+          "start": "16:38",
+          "end": "16:38",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Natural Language Autoencoders – Llama3.3-70B-IT ｜ Neuronpedi",
+          "note": "neuronpedia.org"
+        },
+        {
+          "start": "16:38",
+          "end": "16:39",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Natural Language Autoencoders – Llama3.3-70B-IT ｜ Neuronpedi",
+          "note": "neuronpedia.org"
+        },
+        {
+          "start": "16:39",
+          "end": "16:41",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Natural Language Autoencoders – Llama3.3-70B-IT ｜ Neuronpedi",
+          "note": "neuronpedia.org"
+        },
+        {
+          "start": "16:41",
+          "end": "16:42",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "16:42",
+          "end": "16:43",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "16:43",
+          "end": "16:43",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "16:43",
+          "end": "16:44",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "16:46",
+          "end": "16:50",
+          "cat": "writing",
+          "src": "local",
+          "title": "codex.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "16:50",
+          "end": "16:51",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Place Your Order – Amazon Checkout",
+          "note": "amazon.com.au"
+        },
+        {
+          "start": "16:51",
+          "end": "16:53",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Place Your Order – Amazon Checkout",
+          "note": "amazon.com.au"
+        },
+        {
+          "start": "16:53",
+          "end": "16:54",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "16:54",
+          "end": "16:59",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "17:01",
+          "end": "17:06",
+          "cat": "coding",
+          "src": "local",
+          "title": "manifest.json",
+          "note": "2 hits"
+        },
+        {
+          "start": "17:06",
+          "end": "17:07",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "17:07",
+          "end": "17:12",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "17:12",
+          "end": "17:13",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "17:13",
+          "end": "17:18",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "17:18",
+          "end": "17:21",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "5 hits"
+        },
+        {
+          "start": "17:21",
+          "end": "17:22",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "5 hits"
+        },
+        {
+          "start": "17:22",
+          "end": "17:23",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "5 hits"
+        },
+        {
+          "start": "17:23",
+          "end": "17:24",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "5 hits"
+        },
+        {
+          "start": "17:24",
+          "end": "17:26",
+          "cat": "writing",
+          "src": "local",
+          "title": "README.md",
+          "note": "2 hits"
+        },
+        {
+          "start": "17:26",
+          "end": "17:27",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "17:27",
+          "end": "17:28",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "17:28",
+          "end": "17:29",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "17:29",
+          "end": "17:31",
+          "cat": "coding",
+          "src": "local",
+          "title": "fee_engine.py",
+          "note": "1 hit"
+        },
+        {
+          "start": "17:34",
+          "end": "17:39",
+          "cat": "writing",
+          "src": "local",
+          "title": "codex.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "17:39",
+          "end": "17:44",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "17:45",
+          "end": "17:49",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "17:50",
+          "end": "17:55",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "17:55",
+          "end": "17:55",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "17:55",
+          "end": "18:00",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "18:00",
+          "end": "18:01",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "18:01",
+          "end": "18:06",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "18:06",
+          "end": "18:09",
+          "cat": "coding",
+          "src": "local",
+          "title": "lock.json",
+          "note": "7 hits"
+        },
+        {
+          "start": "18:09",
+          "end": "18:09",
+          "cat": "coding",
+          "src": "local",
+          "title": "lock.json",
+          "note": "7 hits"
+        },
+        {
+          "start": "18:10",
+          "end": "18:13",
+          "cat": "coding",
+          "src": "local",
+          "title": "lock.json",
+          "note": "7 hits"
+        },
+        {
+          "start": "18:13",
+          "end": "18:14",
+          "cat": "writing",
+          "src": "local",
+          "title": "codex.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "18:14",
+          "end": "18:14",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "18:18",
+          "end": "18:23",
+          "cat": "writing",
+          "src": "local",
+          "title": "codex.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "18:23",
+          "end": "18:24",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "18:24",
+          "end": "18:29",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
           "note": "3 hits"
         }
       ],
-      "logged": 39,
-      "real": 39,
-      "deep": 39,
-      "ratio": 1.0,
+      "logged": 484,
+      "real": 381,
+      "deep": 381,
+      "ratio": 0.787954961973575,
       "stats": {
-        "contextSwitches": 2,
-        "tabsOpened": 3,
-        "longestFocus": "39m",
-        "justOneMoreThing": 0
+        "contextSwitches": 65,
+        "tabsOpened": 117,
+        "longestFocus": "1h 39m",
+        "justOneMoreThing": 6
       }
     },
     {
@@ -83271,17 +86576,26 @@
       "weekend": true,
       "dateShort": "Sat, Aug 22",
       "dateLong": "Saturday, August 22",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "10:11",
+      "dayEnd": "10:16",
+      "events": [
+        {
+          "start": "10:11",
+          "end": "10:16",
+          "cat": "writing",
+          "src": "local",
+          "title": "codex.txt",
+          "note": "1 hit"
+        }
+      ],
+      "logged": 5,
+      "real": 5,
+      "deep": 5,
+      "ratio": 1.0,
       "stats": {
         "contextSwitches": 0,
         "tabsOpened": 0,
-        "longestFocus": "0m",
+        "longestFocus": "5m",
         "justOneMoreThing": 0
       }
     },
