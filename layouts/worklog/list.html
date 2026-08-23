@@ -6,10 +6,18 @@
 <div class="log-hero">
   <div class="log-note">
     <a class="crumb" href="{{ "/" | relURL }}">← Back to notes</a>
-    <div class="log-eyebrow">{{ .Params.eyebrow | default "This month, honestly" }}</div>
-    <h1 class="log-title">{{ .Title | default "Where the time actually went" }}</h1>
+    {{- /* Marginalia hero: the eyebrow runs vertically up the left margin on
+           wide screens and folds back to a normal line under 980px. */}}
+    <div class="log-side">{{ .Params.eyebrow | default "Opening your laptop is already a win" }}</div>
+    <h1 class="log-title">
+      {{ .Title | default "How a PhD Can Survive?" }}
+      {{- with .Params.subtitle }}<span class="sm">{{ . }}</span>{{ end }}
+    </h1>
+    {{- with .Params.slab }}
+    <div class="log-slab"><p lang="zh-Hans">{{ . }}</p></div>
+    {{- end }}
     {{- with .Params.description }}
-    <p class="log-lede">{{ . }}</p>
+    <p class="log-kicker">{{ . }}</p>
     {{- end }}
     {{- with .Content }}
     <div class="log-body">{{ . }}</div>

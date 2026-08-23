@@ -12,21 +12,21 @@
 <section class="microlog" id="microlog" hidden>
   <div class="microlog-in">
     <div class="ml-text">
-      <div class="ml-eyebrow">This month, honestly</div>
+      <div class="ml-eyebrow">Opening the laptop is already a win</div>
       <p class="ml-headline">
-        Only <b data-ml="pct">—%</b> of my logged hours<br>were actually real work.
+        <b data-ml="perday">—h</b> a day at the laptop.<br>Here's what it went into.
       </p>
     </div>
     <div class="ml-spark">
       <div class="ml-bars" data-ml="bars"></div>
       <div class="ml-axis">
         <span data-ml="month">—</span>
-        <span>green = real work · each bar = a day</span>
+        <span>Hours at the laptop, per day</span>
       </div>
     </div>
     <div class="ml-cta">
-      <div class="ml-stat"><span data-ml="real">—</span>h</div>
-      <div class="ml-stat-sub">real of <span data-ml="logged">—</span>h logged</div>
+      <div class="ml-stat"><span data-ml="logged">—</span>h</div>
+      <div class="ml-stat-sub">at the laptop this month</div>
       <a class="ml-link" href="{{ "/worklog/" | relURL }}">Open the honest log →</a>
     </div>
   </div>
@@ -41,25 +41,26 @@
       a.real += d.real || 0; a.logged += d.logged || 0; return a;
     }, { real: 0, logged: 0 });
     if (!totals.logged) return;
-    var pct = Math.round((totals.real / totals.logged) * 100);
+    // "hours at the laptop", not a real-work ratio — the band reports where the
+    // time went, it doesn't grade it
+    var fmtDur = function (min) {
+      var h = Math.floor(min / 60), m = min % 60;
+      return h ? (m ? h + 'h ' + m + 'm' : h + 'h') : m + 'm';
+    };
     var sec = document.getElementById('microlog');
-    sec.querySelector('[data-ml="pct"]').textContent = pct + '%';
-    sec.querySelector('[data-ml="real"]').textContent = Math.round(totals.real / 60);
+    sec.querySelector('[data-ml="perday"]').textContent =
+      (totals.logged / 60 / M.days.length).toFixed(1) + 'h';
     sec.querySelector('[data-ml="logged"]').textContent = Math.round(totals.logged / 60);
     sec.querySelector('[data-ml="month"]').textContent = M.month || '';
     var maxLogged = Math.max.apply(null, M.days.map(function (d) { return d.logged || 0; })) || 1;
     var bars = sec.querySelector('[data-ml="bars"]');
     var frag = document.createDocumentFragment();
     M.days.forEach(function (d) {
+      // one solid bar per day: height is time at the laptop, no nested split
       var bar = document.createElement('div');
       bar.className = 'ml-bar';
       bar.style.height = ((d.logged / maxLogged) * 100) + '%';
-      var fillPct = d.logged ? (d.real / d.logged) * 100 : 0;
-      bar.title = (d.dateShort || '') + ': ' + Math.round(d.real / 60 * 10) / 10 + 'h real of ' + Math.round(d.logged / 60 * 10) / 10 + 'h';
-      var seg = document.createElement('span');
-      seg.className = 'ml-bar-seg';
-      seg.style.height = fillPct + '%';
-      bar.appendChild(seg);
+      bar.title = (d.dateShort || '') + ': ' + fmtDur(d.logged || 0) + ' at the laptop';
       frag.appendChild(bar);
     });
     bars.appendChild(frag);

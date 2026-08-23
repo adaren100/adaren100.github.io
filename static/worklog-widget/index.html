@@ -146,7 +146,8 @@
   }
   .wl-leak:hover { background: var(--track); }
   .wl-leak.is-active { background: var(--track); }
-  .wl-leak-name { display: flex; align-items: center; gap: 9px; font-size: 12px; color: var(--ink); }
+  .wl-leak-name { display: flex; align-items: center; gap: 9px; font-size: 12px; color: var(--ink); min-width: 0; }
+  .wl-leak-label { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
   .wl-bar-track { height: 12px; background: var(--track); border-radius: 6px; overflow: hidden; }
   .wl-bar-fill { display: block; height: 100%; border-radius: 6px; transition: width .6s cubic-bezier(.2,.8,.2,1); }
   .wl-leak-dur { font-size: 11px; color: var(--muted); text-align: right; font-variant-numeric: tabular-nums; }
@@ -180,8 +181,8 @@
   .wl-month-intro { font-family: var(--serif); font-size: 23px; line-height: 1.2; color: var(--ink); margin: 16px 0 18px; max-width: none; white-space: nowrap; }
   .wl-card.compact .wl-month-intro { font-size: 20px; margin: 12px 0 14px; white-space: normal; }
   .wl-cal { margin-top: 2px; display: flex; flex-direction: column; gap: 5px; flex: 1 1 auto; min-height: 0; }
-  .wl-cal-head { display: grid; grid-template-columns: repeat(7, 1fr); gap: 5px; flex: none; }
-  .wl-cal-week { display: grid; grid-template-columns: repeat(7, 1fr); grid-template-rows: 1fr; gap: 5px; flex: 1 1 0; min-height: 0; }
+  .wl-cal-head { display: grid; grid-template-columns: repeat(7, minmax(0, 1fr)); gap: 5px; flex: none; }
+  .wl-cal-week { display: grid; grid-template-columns: repeat(7, minmax(0, 1fr)); grid-template-rows: 1fr; gap: 5px; flex: 1 1 0; min-height: 0; }
   .wl-cal-dow { font-size: 9px; color: var(--muted); letter-spacing: .06em; text-transform: uppercase; padding-left: 1px; }
   .wl-cal-empty { pointer-events: none; }
   .wl-cal-cell {
@@ -198,6 +199,9 @@
   .wl-cal-cell.is-weekend { border-style: dashed; }
   .wl-cal-cell.is-dim { opacity: .32; }
   .wl-cal-num { font-size: 10px; color: var(--muted); font-variant-numeric: tabular-nums; }
+  /* both muted figures fall under 4.5:1 once the tile tint saturates */
+  .wl-cal-cell.is-heavy .wl-cal-num,
+  .wl-cal-cell.is-heavy .wl-cal-focus { color: var(--ink); }
   .wl-cal-real { font-family: var(--serif); font-size: 18px; line-height: 1; color: var(--ink); white-space: nowrap; }
   .wl-cal-figs { display: flex; flex-direction: column; gap: 3px; align-items: flex-start; }
   .wl-cal-focus { font-family: var(--mono); font-size: 9.5px; letter-spacing: .02em; color: var(--muted); white-space: nowrap; }
@@ -257,6 +261,39 @@
   .wl-card.compact .wl-leak-head { font-size: 17px; margin: 18px 0 9px; }
   .wl-card.compact .wl-stats { margin-top: 16px; }
   .wl-card.compact .wl-cal-cell { border-radius: 7px; padding: 5px; }
+
+  /* ---- keyboard focus ----
+     The widget had no :focus rule anywhere, so keyboard users had no idea
+     where they were. :focus-visible keeps the ring off mouse clicks. */
+  :focus-visible { outline: 2px solid #2952a8; outline-offset: 2px; border-radius: 4px; }
+  .wl-seg:focus-visible { outline-offset: -2px; }   /* .wl-segs clips its children */
+  .wl-cal-cell:focus-visible { outline-offset: 1px; z-index: 5; }
+
+  /* ---- narrow screens ----
+     The card is fluid, so under ~560px its content box drops below ~270px —
+     where the nowrap headlines used to run off the edge. */
+  @media (max-width: 560px) {
+    .wl-card { padding: 22px 18px 18px; }
+    .wl-v1 { font-size: 27px; white-space: normal; }
+    .wl-v2 { font-size: 17px; white-space: normal; }
+    .wl-month-intro { font-size: 17px; white-space: normal; }
+    .wl-leak-head { font-size: 17px; }
+    .wl-leak { grid-template-columns: minmax(80px, 1fr) 1fr 44px 10px; gap: 8px; }
+    .wl-leak-name { font-size: 11.5px; gap: 7px; }
+    .wl-act { grid-template-columns: 44px 1fr 12px 42px; gap: 7px; }
+    /* the longest stat line needs more than half the card */
+    .wl-stats { grid-template-columns: 1fr; gap: 7px; margin-top: 16px; padding-top: 12px; }
+    .wl-cal-scale { flex-wrap: wrap; gap: 6px 8px; }
+    .wl-cal-hint { display: none; }
+    .wl-cal-cell { padding: 5px 5px; }
+    .wl-cal-real { font-size: 13px; }
+    .wl-cal-num { font-size: 9px; }
+    /* the timeline tip is clamped to its band and reachable by focus, so it
+       stays; the calendar's is pure :hover — useless on touch, and centred on
+       its cell with nothing to clamp it against */
+    .wl-tip { width: min(244px, calc(100vw - 44px)); }
+    .wl-cal-tip { display: none; }
+  }
 </style>
 </head>
 <body>
@@ -354,8 +391,8 @@
             <div className="wl-topbar">
               <span className="wl-kicker">HONEST WORKLOG</span>
               <span className="wl-toggle">
-                <button className={view === "day" ? "is-on" : ""} onClick={() => setView("day")}>Day</button>
-                <button className={view === "month" ? "is-on" : ""} onClick={() => setView("month")}>Month</button>
+                <button aria-pressed={view === "day"} className={view === "day" ? "is-on" : ""} onClick={() => setView("day")}>Day</button>
+                <button aria-pressed={view === "month"} className={view === "month" ? "is-on" : ""} onClick={() => setView("month")}>Month</button>
               </span>
             </div>
 

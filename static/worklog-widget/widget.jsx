@@ -58,12 +58,18 @@ function Timeline({ events, cats, span, t0, active, setActive }) {
             const w = ((eMin - s) / total) * 100;
             const dim = active && active !== e.cat;
             const isHover = hover === i;
+            // a real button, not a div: the title and note live only in the
+            // tooltip, so hover-only put them out of reach of keyboard and touch
             return (
-              <div
+              <button
+                type="button"
                 key={i}
                 className={"wl-seg" + (isHover ? " is-hover" : "")}
                 style={{ position: "absolute", left: left + "%", width: w + "%", background: cats[e.cat].color, opacity: dim ? 0.16 : 1 }}
+                aria-label={`${fmtClock(e.start)}–${fmtClock(e.end)}, ${fmtDur(eMin - s)}, ${cats[e.cat].label}: ${e.title}`}
                 onMouseEnter={() => setHover(i)}
+                onFocus={() => setHover(i)}
+                onBlur={() => setHover(null)}
               />
             );
           })}
@@ -135,7 +141,8 @@ function Leaks({ events, cats, total, active, setActive }) {
             >
               <span className="wl-leak-name">
                 <span className="wl-dot" style={{ background: r.color }} />
-                {r.label}
+                {/* wrapped so it can ellipsize — a bare text node can't */}
+                <span className="wl-leak-label">{r.label}</span>
               </span>
               <span className="wl-bar-track">
                 <span className="wl-bar-fill" style={{ width: (r.min / max * 100) + "%", background: r.color }} />

@@ -1,10 +1,12 @@
 ---
-title: "Where the time actually went"
-eyebrow: "How a PhD can survives, My laptop tell all."
-description: "Every hour logged by honesty worklog."
+title: "How a PhD Can Survive?"
+subtitle: "My laptop can tell."
+eyebrow: "Opening your laptop is already a win"
+slab: "打开电脑，就是胜利！"
+description: "Every hour, as the laptop saw it."
 ---
 
-**Reading · Coding · Writing** count as real work.
+**Reading · Coding · Writing · Meeting** count as real work.
 **Slacking** and **doomscrolling**, regrettably, do not.
 
 Tap any day to see where it actually went.

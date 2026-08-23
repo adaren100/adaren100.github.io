@@ -13,7 +13,7 @@
   --border:       #dad0c1;
   --ink:          #16161a;
   --ink-mid:      #6b6258;
-  --ink-faint:    #a89d91;
+  --ink-faint:    #726b63;   /* was #a89d91 — 2.4:1 on paper at 10px */
   --accent:       #1e3a72;
   --accent-bright:#2952a8;
   --accent-light: #e8edf8;
@@ -43,7 +43,7 @@
   --border:       #2a3140;
   --ink:          #f0ece2;
   --ink-mid:      #a39d92;
-  --ink-faint:    #6b6258;
+  --ink-faint:    #928578;   /* was #6b6258 — 3.0:1; clears 4.5 on paper-dark too */
   --accent:       #7da7d4;
   --accent-bright:#a3c1de;
   --accent-light: #1f2a3d;
@@ -76,7 +76,9 @@ body {
   max-width: var(--content-max);
   margin: 0 auto;
   padding: 0 var(--page-pad);
-  height: var(--nav-h);
+  /* min-height, not height: identical at desktop, but lets the nav grow into a
+     second row once the menu wraps instead of overflowing the page */
+  min-height: var(--nav-h);
   display: flex;
   align-items: center;
 }
@@ -86,9 +88,11 @@ nav.nav {
   width: 100%;
   margin: 0;
   padding: 0;
-  height: 100%;
   display: flex;
-  flex-wrap: nowrap;
+  /* was nowrap: the menu's items are nowrap text so it could not shrink, and
+     flexbox squeezed the only shrinkable thing — the brand — to one letter wide */
+  flex-wrap: wrap;
+  gap: 8px 20px;
   align-items: center;
   justify-content: space-between;
   background: transparent;
@@ -102,17 +106,21 @@ nav.nav {
   margin: 0;
 }
 
+.logo { flex: none; }
+
 .logo a {
   font-family: var(--font-display);
   font-weight: 700;
   font-size: 22px;
   letter-spacing: -0.01em;
   color: var(--ink);
+  white-space: nowrap;   /* never let the brand break mid-word */
 }
 
 #menu, .menu {
   display: flex;
-  gap: 36px;
+  flex-wrap: wrap;
+  gap: 10px 36px;
   margin: 0;
   padding: 0;
   list-style: none;
@@ -764,6 +772,11 @@ nav.nav {
   .post-title, h1.post-title { font-size: 30px; }
   .home-post-row { grid-template-columns: 48px 1fr; }
   .home-post-tags { grid-column: 2; padding-top: 4px; }
+  /* tighten the wrapped menu so it costs two rows, not four */
+  .header { padding-top: 12px; padding-bottom: 12px; }
+  #menu, .menu { gap: 8px 16px; }
+  #menu a, .menu a { font-size: 10px; letter-spacing: 0.06em; }
+  .logo a { font-size: 19px; }
 }
 
 /* ──────────────────────────────────────────────────────────────
@@ -974,16 +987,16 @@ nav.nav {
 .ml-headline b { color: var(--accent); font-weight: 700; }
 .ml-spark { flex: 1 1 auto; min-width: 0; display: flex; flex-direction: column; gap: 8px; }
 .ml-bars { display: flex; align-items: flex-end; gap: 3px; height: 50px; }
+/* one solid bar per day — height is hours at the laptop. (Was a track with a
+   nested green "real work" fill; the band no longer splits the day that way.) */
 .ml-bar {
   flex: 1 1 0; min-width: 2px; border-radius: 2px 2px 0 0;
-  background: rgba(22,22,26,.07);
-  display: flex; flex-direction: column-reverse; overflow: hidden;
+  background: #3f9d6f;
 }
-.ml-bar-seg { width: 100%; background: #3f9d6f; }
 .ml-axis {
   display: flex; justify-content: space-between;
   font-family: var(--font-mono); font-size: 9px;
-  color: #b8ad9f; letter-spacing: .04em;
+  color: var(--ink-faint); letter-spacing: .04em;  /* was #b8ad9f — 1.9:1 at 9px */
 }
 .ml-cta { flex: none; display: flex; flex-direction: column; align-items: flex-end; gap: 5px; text-align: right; }
 .ml-stat {
@@ -1020,9 +1033,29 @@ nav.nav {
   font-family: var(--font-mono); font-size: 10px; letter-spacing: .14em;
   text-transform: uppercase; color: var(--ink-faint); margin-bottom: 16px;
 }
+.log-note { position: relative; }
+/* vertical marginal eyebrow, Marginalia direction */
+.log-side {
+  position: absolute; left: 24px; top: 152px; writing-mode: vertical-rl;
+  font-family: var(--font-mono); font-size: 10px; letter-spacing: .3em;
+  text-transform: uppercase; color: var(--ink-faint);
+}
 .log-title {
-  font-family: var(--font-display); font-weight: 700; font-size: 42px;
-  line-height: 1.08; letter-spacing: -.02em; margin: 0 0 22px;
+  font-family: var(--font-display); font-weight: 700; font-size: 52px;
+  line-height: .94; letter-spacing: -.035em; margin: 0 0 4px;
+}
+.log-title .sm {
+  display: block; font-size: 26px; font-style: italic; font-weight: 600;
+  letter-spacing: -.01em; color: var(--ink-mid); margin-top: 10px;
+}
+.log-slab { margin: 34px 0 0; padding-left: 14px; border-left: 3px solid var(--accent-bright); }
+.log-slab p {
+  font-family: "Songti SC", "Noto Serif SC", "Source Han Serif SC", serif;
+  font-size: 21px; line-height: 1.6; letter-spacing: .06em; margin: 0; color: var(--ink);
+}
+.log-kicker {
+  font-family: var(--font-mono); font-size: 10.5px; letter-spacing: .05em;
+  line-height: 1.9; color: var(--ink-faint); margin: 34px 0 0;
 }
 .log-lede {
   font-family: var(--font-body); font-style: italic; font-size: 16px; line-height: 1.75;
@@ -1041,4 +1074,14 @@ nav.nav {
   .log-hero { grid-template-columns: 1fr; }
   .log-note { border-right: 0; border-bottom: 1px solid var(--border); padding: 48px var(--page-pad); }
   .log-stage { padding: 32px var(--page-pad) 56px; }
+  /* no left margin to run up once the column is full width */
+  .log-side {
+    position: static; writing-mode: horizontal-tb; letter-spacing: .14em;
+    line-height: 1.9; margin: 0 0 20px; max-width: 22ch;
+  }
+}
+@media (max-width: 560px) {
+  .log-title { font-size: 38px; }
+  .log-title .sm { font-size: 20px; }
+  .log-slab p { font-size: 18px; }
 }

@@ -48,15 +48,27 @@
               const a = aggDay(d);
               const leakCat = a.leak && cats[a.leak] ? cats[a.leak] : null;
               const tint = rgba(HC, 0.07 + d.ratio * 0.9);
+              // tint = 0.07 + ratio*0.9; --muted crosses under 4.5:1 against it at
+              // ratio 0.202, so flip the day number to --ink (13:1 there) above 0.20
+              const heavy = d.ratio > 0.20;
+              const label = d.logged
+                ? `${d.dateShort}: ${window.fmtDur(d.logged)} at the laptop, `
+                  + `${window.fmtDur(d.real)} real work`
+                  + (leakCat ? `, mostly ${leakCat.label.toLowerCase()}` : "")
+                : `${d.dateShort}: nothing logged`;
               return (
-                <button key={ci} className={"wl-cal-cell" + (d.weekend ? " is-weekend" : "")} style={{ background: tint }}
+                <button key={ci}
+                  className={"wl-cal-cell" + (d.weekend ? " is-weekend" : "") + (heavy ? " is-heavy" : "")}
+                  style={{ background: tint }}
+                  aria-label={label}
                   onClick={() => onSelectDay(idx)}>
                   <span className="wl-cal-num">{d.dayNum}</span>
                   <span className="wl-cal-figs">
                     <span className="wl-cal-real">{d.logged ? window.fmtDur(d.logged) : "—"}</span>
                     <span className="wl-cal-focus">{d.real ? window.fmtDur(d.real) + " real" : "no real work"}</span>
                   </span>
-                  <span className="wl-cal-tip">
+                  {/* duplicated by aria-label above, so keep it out of the name */}
+                  <span className="wl-cal-tip" aria-hidden="true">
                     <span className="wl-tip-head">
                       <span className="wl-tip-time">{d.dateShort}</span>
                       <span className="wl-tip-dur">{window.fmtDur(d.logged)}</span>
