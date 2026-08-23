@@ -6,7 +6,9 @@
 {{- define "main" }}
 
 {{- /* ── Micro worklog teaser (sparkline). Populated client-side from
-       /worklog-widget/data.js so the band stays in sync with the widget. */ -}}
+       /worklog-widget/summary.js — a ~2KB per-day roll-up built alongside
+       data.js. The full log is megabytes and grows nightly; the homepage only
+       needs one bar per day, so it must not load data.js. */ -}}
 <section class="microlog" id="microlog" hidden>
   <div class="microlog-in">
     <div class="ml-text">
@@ -29,10 +31,11 @@
     </div>
   </div>
 </section>
-<script src="{{ "/worklog-widget/data.js" | relURL }}" defer></script>
+<script src="{{ "/worklog-widget/summary.js" | relURL }}" defer></script>
 <script defer>
   window.addEventListener('DOMContentLoaded', function () {
-    var M = window.WORKLOG_MONTH;
+    // WORKLOG_MONTH is the fallback for a page that still has the full log loaded
+    var M = window.WORKLOG_SUMMARY || window.WORKLOG_MONTH;
     if (!M || !M.days || !M.days.length) return;
     var totals = M.days.reduce(function (a, d) {
       a.real += d.real || 0; a.logged += d.logged || 0; return a;
