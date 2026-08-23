@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-08-22T10:35:23+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-08-23T10:40:31+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -67742,12 +67742,50 @@
         "weekend": true,
         "dateShort": "Sat, Aug 22",
         "dateLong": "Saturday, August 22",
-        "dayStart": "10:11",
-        "dayEnd": "10:16",
+        "dayStart": "10:35",
+        "dayEnd": "13:43",
         "events": [
           {
-            "start": "10:11",
-            "end": "10:16",
+            "start": "10:35",
+            "end": "10:40",
+            "cat": "coding",
+            "src": "local",
+            "title": "data.js",
+            "note": "1 hit"
+          },
+          {
+            "start": "13:38",
+            "end": "13:43",
+            "cat": "writing",
+            "src": "local",
+            "title": "codex.txt",
+            "note": "1 hit"
+          }
+        ],
+        "logged": 10,
+        "real": 10,
+        "deep": 10,
+        "ratio": 1.0,
+        "stats": {
+          "contextSwitches": 1,
+          "tabsOpened": 0,
+          "longestFocus": "10m",
+          "justOneMoreThing": 0
+        }
+      },
+      {
+        "key": "2026-8-23",
+        "dayNum": 23,
+        "dow": 0,
+        "weekend": true,
+        "dateShort": "Sun, Aug 23",
+        "dateLong": "Sunday, August 23",
+        "dayStart": "09:49",
+        "dayEnd": "09:54",
+        "events": [
+          {
+            "start": "09:49",
+            "end": "09:54",
             "cat": "writing",
             "src": "local",
             "title": "codex.txt",
@@ -67762,27 +67800,6 @@
           "contextSwitches": 0,
           "tabsOpened": 0,
           "longestFocus": "5m",
-          "justOneMoreThing": 0
-        }
-      },
-      {
-        "key": "2026-8-23",
-        "dayNum": 23,
-        "dow": 0,
-        "weekend": true,
-        "dateShort": "Sun, Aug 23",
-        "dateLong": "Sunday, August 23",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
-        "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "0m",
           "justOneMoreThing": 0
         }
       },
@@ -86576,12 +86593,50 @@
       "weekend": true,
       "dateShort": "Sat, Aug 22",
       "dateLong": "Saturday, August 22",
-      "dayStart": "10:11",
-      "dayEnd": "10:16",
+      "dayStart": "10:35",
+      "dayEnd": "13:43",
       "events": [
         {
-          "start": "10:11",
-          "end": "10:16",
+          "start": "10:35",
+          "end": "10:40",
+          "cat": "coding",
+          "src": "local",
+          "title": "data.js",
+          "note": "1 hit"
+        },
+        {
+          "start": "13:38",
+          "end": "13:43",
+          "cat": "writing",
+          "src": "local",
+          "title": "codex.txt",
+          "note": "1 hit"
+        }
+      ],
+      "logged": 10,
+      "real": 10,
+      "deep": 10,
+      "ratio": 1.0,
+      "stats": {
+        "contextSwitches": 1,
+        "tabsOpened": 0,
+        "longestFocus": "10m",
+        "justOneMoreThing": 0
+      }
+    },
+    {
+      "key": "2026-8-23",
+      "dayNum": 23,
+      "dow": 0,
+      "weekend": true,
+      "dateShort": "Sun, Aug 23",
+      "dateLong": "Sunday, August 23",
+      "dayStart": "09:49",
+      "dayEnd": "09:54",
+      "events": [
+        {
+          "start": "09:49",
+          "end": "09:54",
           "cat": "writing",
           "src": "local",
           "title": "codex.txt",
@@ -86596,27 +86651,6 @@
         "contextSwitches": 0,
         "tabsOpened": 0,
         "longestFocus": "5m",
-        "justOneMoreThing": 0
-      }
-    },
-    {
-      "key": "2026-8-23",
-      "dayNum": 23,
-      "dow": 0,
-      "weekend": true,
-      "dateShort": "Sun, Aug 23",
-      "dateLong": "Sunday, August 23",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
-      "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "0m",
         "justOneMoreThing": 0
       }
     },
