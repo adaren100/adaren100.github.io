@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-08-26T10:20:11+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-08-27T10:20:14+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -69400,16 +69400,8 @@
             "end": "10:25",
             "cat": "coding",
             "src": "local",
-            "title": "domain_cats.json",
-            "note": "4 hits"
-          },
-          {
-            "start": "10:25",
-            "end": "10:28",
-            "cat": "coding",
-            "src": "chrome",
-            "title": "NousResearch/hermes-agent: The agent that grows with you",
-            "note": "github.com"
+            "title": "snapshots.json",
+            "note": "1 hit"
           },
           {
             "start": "10:28",
@@ -69420,36 +69412,12 @@
             "note": "63 hits"
           },
           {
-            "start": "10:41",
-            "end": "10:43",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Welcome back - OpenAI",
-            "note": "auth.openai.com"
-          },
-          {
             "start": "10:43",
             "end": "10:48",
             "cat": "coding",
             "src": "claude",
             "title": "Claude session · harbor",
             "note": "27 hits"
-          },
-          {
-            "start": "10:48",
-            "end": "11:01",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Welcome back - OpenAI",
-            "note": "auth.openai.com"
-          },
-          {
-            "start": "11:13",
-            "end": "11:17",
-            "cat": "personal",
-            "src": "chrome",
-            "title": "股权投资市场回暖，清科控股2025年净利润增长近5倍 - 21经济网",
-            "note": "m.thepaper.cn"
           },
           {
             "start": "11:17",
@@ -69460,30 +69428,6 @@
             "note": "157 hits"
           },
           {
-            "start": "11:32",
-            "end": "11:35",
-            "cat": "personal",
-            "src": "chrome",
-            "title": "股权投资市场回暖，清科控股2025年净利润增长近5倍 - 21经济网",
-            "note": "m.thepaper.cn"
-          },
-          {
-            "start": "11:38",
-            "end": "11:46",
-            "cat": "research",
-            "src": "chrome",
-            "title": "‪Usman Naseem‬ - ‪Google Scholar‬",
-            "note": "scholar.google.com"
-          },
-          {
-            "start": "11:48",
-            "end": "11:49",
-            "cat": "research",
-            "src": "chrome",
-            "title": "Rest Graphql Debug — Debug REST/GraphQL APIs: status codes, ",
-            "note": "hermes-agent.nousresearch.com"
-          },
-          {
             "start": "11:49",
             "end": "12:04",
             "cat": "coding",
@@ -69492,52 +69436,20 @@
             "note": "110 hits"
           },
           {
-            "start": "12:04",
-            "end": "12:09",
-            "cat": "research",
-            "src": "chrome",
-            "title": "Rest Graphql Debug — Debug REST/GraphQL APIs: status codes, ",
-            "note": "hermes-agent.nousresearch.com"
-          },
-          {
-            "start": "12:09",
-            "end": "12:18",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Sign in to Codex with ChatGPT - OpenAI",
-            "note": "auth.openai.com"
-          },
-          {
-            "start": "12:18",
-            "end": "12:32",
-            "cat": "research",
-            "src": "chrome",
-            "title": "AI Digest — August 25, 2026 | Ada's Notes",
-            "note": "chatgpt.com"
-          },
-          {
-            "start": "13:15",
-            "end": "13:35",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "[AINews] Andrew Ng gets into AI Engineering - ada.ren.cn@gma",
-            "note": "accounts.google.com"
-          },
-          {
-            "start": "13:35",
-            "end": "13:38",
-            "cat": "coding",
-            "src": "chrome",
-            "title": "Usage limit best practices | Anthropic Help Center",
-            "note": "support.anthropic.com"
-          },
-          {
-            "start": "13:38",
+            "start": "13:57",
             "end": "13:59",
-            "cat": "personal",
-            "src": "chrome",
-            "title": "The Rise of Deepfakes: How AI Changed Porn, Politics, and Re",
-            "note": "youtu.be"
+            "cat": "coding",
+            "src": "local",
+            "title": "config.json",
+            "note": "2 hits"
+          },
+          {
+            "start": "13:59",
+            "end": "13:59",
+            "cat": "coding",
+            "src": "local",
+            "title": "config.json",
+            "note": "2 hits"
           },
           {
             "start": "13:59",
@@ -69565,110 +69477,86 @@
           },
           {
             "start": "14:02",
-            "end": "14:03",
+            "end": "14:04",
             "cat": "writing",
             "src": "local",
             "title": "hermes.txt",
             "note": "1 hit"
           },
           {
-            "start": "14:03",
-            "end": "14:04",
-            "cat": "research",
-            "src": "chrome",
-            "title": "周柏豪_百度百科",
-            "note": "baike.baidu.com"
-          },
-          {
             "start": "14:04",
             "end": "14:04",
-            "cat": "research",
-            "src": "chrome",
-            "title": "周柏豪_百度百科",
-            "note": "baike.baidu.com"
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
           },
           {
             "start": "14:04",
             "end": "14:06",
-            "cat": "research",
-            "src": "chrome",
-            "title": "周柏豪_百度百科",
-            "note": "baike.baidu.com"
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
           },
           {
             "start": "14:06",
             "end": "14:06",
-            "cat": "research",
-            "src": "chrome",
-            "title": "周柏豪_百度百科",
-            "note": "baike.baidu.com"
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
           },
           {
             "start": "14:06",
             "end": "14:07",
-            "cat": "research",
-            "src": "chrome",
-            "title": "周柏豪_百度百科",
-            "note": "baike.baidu.com"
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
           },
           {
             "start": "14:07",
-            "end": "14:12",
-            "cat": "research",
-            "src": "chrome",
-            "title": "周柏豪_百度百科",
-            "note": "baike.baidu.com"
-          },
-          {
-            "start": "14:12",
             "end": "14:19",
             "cat": "coding",
-            "src": "chrome",
-            "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute",
-            "note": "file:///Users/ada/Documents/MQ/repo/harb"
+            "src": "local",
+            "title": "result.json",
+            "note": "3 hits"
           },
           {
             "start": "14:19",
             "end": "14:23",
-            "cat": "coding",
-            "src": "chrome",
-            "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute",
-            "note": "file:///Users/ada/Documents/MQ/repo/harb"
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
           },
           {
             "start": "14:23",
             "end": "14:24",
-            "cat": "coding",
-            "src": "chrome",
-            "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute",
-            "note": "file:///Users/ada/Documents/MQ/repo/harb"
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
           },
           {
             "start": "14:24",
             "end": "14:28",
-            "cat": "coding",
-            "src": "chrome",
-            "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute",
-            "note": "file:///Users/ada/Documents/MQ/repo/harb"
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
           },
           {
             "start": "14:28",
             "end": "14:32",
-            "cat": "coding",
-            "src": "chrome",
-            "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute",
-            "note": "file:///Users/ada/Documents/MQ/repo/harb"
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
           },
           {
             "start": "14:32",
-            "end": "14:34",
-            "cat": "coding",
-            "src": "chrome",
-            "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute",
-            "note": "file:///Users/ada/Documents/MQ/repo/harb"
-          },
-          {
-            "start": "14:34",
             "end": "14:35",
             "cat": "writing",
             "src": "local",
@@ -69732,36 +69620,28 @@
             "note": "4 hits"
           },
           {
-            "start": "15:04",
+            "start": "15:11",
+            "end": "15:16",
+            "cat": "writing",
+            "src": "local",
+            "title": "README.md",
+            "note": "1 hit"
+          },
+          {
+            "start": "15:18",
             "end": "15:23",
             "cat": "coding",
-            "src": "chrome",
-            "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute",
-            "note": "openrouter.ai"
+            "src": "local",
+            "title": "evaluation.py",
+            "note": "2 hits"
           },
           {
             "start": "15:24",
-            "end": "15:25",
-            "cat": "coding",
-            "src": "chrome",
-            "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute",
-            "note": "openrouter.ai"
-          },
-          {
-            "start": "15:25",
             "end": "15:29",
             "cat": "writing",
             "src": "local",
             "title": "hermes.txt",
             "note": "1 hit"
-          },
-          {
-            "start": "15:30",
-            "end": "15:50",
-            "cat": "coding",
-            "src": "chrome",
-            "title": "Workspace Overview | Settings | OpenRouter",
-            "note": "openrouter.ai"
           },
           {
             "start": "15:54",
@@ -69796,12 +69676,20 @@
             "note": "4 hits"
           },
           {
-            "start": "16:36",
+            "start": "16:38",
+            "end": "16:48",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "96 hits"
+          },
+          {
+            "start": "16:52",
             "end": "16:57",
             "cat": "coding",
-            "src": "local",
-            "title": "result.json",
-            "note": "6 hits"
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "56 hits"
           },
           {
             "start": "16:57",
@@ -69829,7 +69717,7 @@
           },
           {
             "start": "17:02",
-            "end": "17:02",
+            "end": "17:03",
             "cat": "coding",
             "src": "claude",
             "title": "Claude session · harbor",
@@ -69879,20 +69767,12 @@
             "start": "18:48",
             "end": "18:56",
             "cat": "coding",
-            "src": "chrome",
-            "title": "Claude Sonnet 5 - API Pricing & Benchmarks | OpenRouter",
-            "note": "openrouter.ai"
+            "src": "local",
+            "title": "config.json",
+            "note": "2 hits"
           },
           {
             "start": "18:56",
-            "end": "18:57",
-            "cat": "coding",
-            "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "78 hits"
-          },
-          {
-            "start": "18:58",
             "end": "19:00",
             "cat": "coding",
             "src": "claude",
@@ -69918,42 +69798,42 @@
           {
             "start": "19:03",
             "end": "19:05",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Inbox (2,861) - ada.ren.cn@gmail.com - Gmail",
-            "note": "mail.google.com"
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
           },
           {
             "start": "19:05",
             "end": "19:11",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Inbox (2,861) - ada.ren.cn@gmail.com - Gmail",
-            "note": "mail.google.com"
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
           },
           {
             "start": "19:11",
             "end": "19:13",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Inbox (2,861) - ada.ren.cn@gmail.com - Gmail",
-            "note": "mail.google.com"
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
           },
           {
             "start": "19:13",
             "end": "19:16",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Inbox (2,861) - ada.ren.cn@gmail.com - Gmail",
-            "note": "mail.google.com"
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
           },
           {
             "start": "19:16",
-            "end": "19:17",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Inbox (2,861) - ada.ren.cn@gmail.com - Gmail",
-            "note": "mail.google.com"
+            "end": "19:18",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
           },
           {
             "start": "19:18",
@@ -69975,121 +69855,121 @@
             "start": "19:30",
             "end": "19:31",
             "cat": "coding",
-            "src": "chrome",
-            "title": "Manage usage credits for paid Claude plans | Anthropic Help ",
-            "note": "openrouter.ai"
+            "src": "local",
+            "title": "result.json",
+            "note": "4 hits"
           },
           {
             "start": "19:31",
             "end": "19:34",
             "cat": "coding",
-            "src": "chrome",
-            "title": "Manage usage credits for paid Claude plans | Anthropic Help ",
-            "note": "openrouter.ai"
+            "src": "local",
+            "title": "result.json",
+            "note": "4 hits"
+          },
+          {
+            "start": "19:35",
+            "end": "19:35",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
           },
           {
             "start": "19:36",
             "end": "19:39",
-            "cat": "coding",
-            "src": "chrome",
-            "title": "Manage usage credits for paid Claude plans | Anthropic Help ",
-            "note": "openrouter.ai"
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
           },
           {
             "start": "19:39",
             "end": "19:40",
             "cat": "coding",
-            "src": "chrome",
-            "title": "Manage usage credits for paid Claude plans | Anthropic Help ",
-            "note": "openrouter.ai"
+            "src": "local",
+            "title": "analyze.py",
+            "note": "3 hits"
           },
           {
             "start": "19:40",
             "end": "19:42",
             "cat": "coding",
-            "src": "chrome",
-            "title": "Manage usage credits for paid Claude plans | Anthropic Help ",
-            "note": "openrouter.ai"
+            "src": "local",
+            "title": "analyze.py",
+            "note": "3 hits"
           },
           {
             "start": "19:42",
-            "end": "19:45",
+            "end": "19:43",
             "cat": "coding",
-            "src": "chrome",
-            "title": "Manage usage credits for paid Claude plans | Anthropic Help ",
-            "note": "openrouter.ai"
+            "src": "local",
+            "title": "analyze.py",
+            "note": "3 hits"
+          },
+          {
+            "start": "19:43",
+            "end": "19:45",
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
           },
           {
             "start": "19:45",
             "end": "19:47",
-            "cat": "coding",
-            "src": "chrome",
-            "title": "Manage usage credits for paid Claude plans | Anthropic Help ",
-            "note": "openrouter.ai"
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
           },
           {
             "start": "19:47",
             "end": "19:47",
-            "cat": "coding",
-            "src": "chrome",
-            "title": "Manage usage credits for paid Claude plans | Anthropic Help ",
-            "note": "openrouter.ai"
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
           },
           {
             "start": "19:47",
             "end": "19:50",
-            "cat": "coding",
-            "src": "chrome",
-            "title": "Manage usage credits for paid Claude plans | Anthropic Help ",
-            "note": "openrouter.ai"
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
           },
           {
             "start": "19:50",
             "end": "19:52",
-            "cat": "coding",
-            "src": "chrome",
-            "title": "Manage usage credits for paid Claude plans | Anthropic Help ",
-            "note": "openrouter.ai"
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
           },
           {
             "start": "19:52",
             "end": "19:52",
             "cat": "coding",
-            "src": "chrome",
-            "title": "Manage usage credits for paid Claude plans | Anthropic Help ",
-            "note": "openrouter.ai"
+            "src": "local",
+            "title": "result.json",
+            "note": "4 hits"
           },
           {
             "start": "19:54",
-            "end": "19:55",
-            "cat": "coding",
-            "src": "chrome",
-            "title": "Manage usage credits for paid Claude plans | Anthropic Help ",
-            "note": "openrouter.ai"
-          },
-          {
-            "start": "19:55",
-            "end": "19:55",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Sign in - Google Accounts",
-            "note": "accounts.google.com"
-          },
-          {
-            "start": "19:55",
             "end": "19:57",
             "cat": "coding",
-            "src": "chrome",
-            "title": "Billing | Claude Platform",
-            "note": "platform.claude.com"
+            "src": "local",
+            "title": "result.json",
+            "note": "4 hits"
           },
           {
             "start": "19:59",
             "end": "20:05",
             "cat": "coding",
-            "src": "chrome",
-            "title": "Billing | Claude Platform",
-            "note": "platform.claude.com"
+            "src": "local",
+            "title": "result.json",
+            "note": "3 hits"
           },
           {
             "start": "20:05",
@@ -70141,83 +70021,67 @@
           },
           {
             "start": "20:23",
-            "end": "20:23",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Workday mq - Sign in to Workday",
-            "note": "accounts.google.com"
-          },
-          {
-            "start": "20:23",
             "end": "20:24",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Workday mq - Sign in to Workday",
-            "note": "accounts.google.com"
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
           },
           {
             "start": "20:24",
             "end": "20:26",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Workday mq - Sign in to Workday",
-            "note": "accounts.google.com"
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
           },
           {
             "start": "20:26",
             "end": "20:28",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Workday mq - Sign in to Workday",
-            "note": "accounts.google.com"
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
           },
           {
             "start": "20:28",
             "end": "20:31",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Workday mq - Sign in to Workday",
-            "note": "accounts.google.com"
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
           },
           {
             "start": "20:31",
-            "end": "20:32",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Workday mq - Sign in to Workday",
-            "note": "accounts.google.com"
-          },
-          {
-            "start": "20:32",
             "end": "20:33",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Workday mq - Sign in to Workday",
-            "note": "accounts.google.com"
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
           },
           {
             "start": "20:33",
             "end": "20:36",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Workday mq - Sign in to Workday",
-            "note": "accounts.google.com"
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "6 hits"
           },
           {
             "start": "20:38",
             "end": "20:40",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Workday mq - Sign in to Workday",
-            "note": "accounts.google.com"
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "6 hits"
           },
           {
             "start": "20:40",
             "end": "20:41",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "FSE L&T Induction Module for Teaching Associates",
-            "note": "wd3.myworkday.com"
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
           },
           {
             "start": "20:43",
@@ -70237,35 +70101,19 @@
           },
           {
             "start": "20:49",
-            "end": "20:51",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "FSE L&T Induction Module for Teaching Associates",
-            "note": "wd3.myworkday.com"
-          },
-          {
-            "start": "20:51",
-            "end": "20:52",
-            "cat": "coding",
-            "src": "chrome",
-            "title": "Sign in to your account",
-            "note": "office.com"
-          },
-          {
-            "start": "20:52",
             "end": "20:53",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Breaches of academic integrity - Staff Academic Integrity Mo",
-            "note": "mqoutlook.sharepoint.com"
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
           },
           {
             "start": "20:53",
             "end": "20:54",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Breaches of academic integrity - Staff Academic Integrity Mo",
-            "note": "mqoutlook.sharepoint.com"
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
           },
           {
             "start": "20:54",
@@ -70294,58 +70142,58 @@
           {
             "start": "21:02",
             "end": "21:02",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Breaches of academic integrity - Staff Academic Integrity Mo",
-            "note": "mqoutlook.sharepoint.com"
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
           },
           {
             "start": "21:02",
             "end": "21:07",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Breaches of academic integrity - Staff Academic Integrity Mo",
-            "note": "mqoutlook.sharepoint.com"
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
           },
           {
             "start": "21:07",
-            "end": "21:10",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Breaches of academic integrity - Staff Academic Integrity Mo",
-            "note": "mqoutlook.sharepoint.com"
+            "end": "21:09",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "4 hits"
           },
           {
             "start": "21:12",
             "end": "21:13",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Breaches of academic integrity - Staff Academic Integrity Mo",
-            "note": "mqoutlook.sharepoint.com"
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
           },
           {
             "start": "21:13",
             "end": "21:15",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Breaches of academic integrity - Staff Academic Integrity Mo",
-            "note": "mqoutlook.sharepoint.com"
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
           },
           {
             "start": "21:15",
             "end": "21:15",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Breaches of academic integrity - Staff Academic Integrity Mo",
-            "note": "mqoutlook.sharepoint.com"
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
           },
           {
             "start": "21:17",
             "end": "21:18",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Breaches of academic integrity - Staff Academic Integrity Mo",
-            "note": "mqoutlook.sharepoint.com"
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
           },
           {
             "start": "21:18",
@@ -70390,50 +70238,50 @@
           {
             "start": "21:26",
             "end": "21:29",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Breaches of academic integrity - Staff Academic Integrity Mo",
-            "note": "mqoutlook.sharepoint.com"
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "9 hits"
           },
           {
             "start": "21:29",
             "end": "21:30",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Breaches of academic integrity - Staff Academic Integrity Mo",
-            "note": "mqoutlook.sharepoint.com"
+            "cat": "coding",
+            "src": "local",
+            "title": "task2_finalize.py",
+            "note": "2 hits"
           },
           {
             "start": "21:31",
             "end": "21:33",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Breaches of academic integrity - Staff Academic Integrity Mo",
-            "note": "mqoutlook.sharepoint.com"
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "3 hits"
           },
           {
             "start": "21:33",
             "end": "21:34",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Breaches of academic integrity - Staff Academic Integrity Mo",
-            "note": "mqoutlook.sharepoint.com"
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "3 hits"
           },
           {
             "start": "21:35",
             "end": "21:36",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Breaches of academic integrity - Staff Academic Integrity Mo",
-            "note": "mqoutlook.sharepoint.com"
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
           },
           {
             "start": "21:36",
             "end": "21:37",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Breaches of academic integrity - Staff Academic Integrity Mo",
-            "note": "mqoutlook.sharepoint.com"
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
           },
           {
             "start": "21:37",
@@ -70510,125 +70358,117 @@
           {
             "start": "21:50",
             "end": "21:51",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Breaches of academic integrity - Staff Academic Integrity Mo",
-            "note": "mqoutlook.sharepoint.com"
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
           },
           {
             "start": "21:52",
             "end": "21:53",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Breaches of academic integrity - Staff Academic Integrity Mo",
-            "note": "mqoutlook.sharepoint.com"
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
           },
           {
             "start": "21:53",
             "end": "21:55",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Breaches of academic integrity - Staff Academic Integrity Mo",
-            "note": "mqoutlook.sharepoint.com"
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
           },
           {
             "start": "21:55",
             "end": "21:56",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Breaches of academic integrity - Staff Academic Integrity Mo",
-            "note": "mqoutlook.sharepoint.com"
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
           },
           {
             "start": "21:56",
             "end": "21:57",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Breaches of academic integrity - Staff Academic Integrity Mo",
-            "note": "mqoutlook.sharepoint.com"
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "13 hits"
           },
           {
             "start": "21:59",
             "end": "22:00",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Breaches of academic integrity - Staff Academic Integrity Mo",
-            "note": "mqoutlook.sharepoint.com"
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "13 hits"
           },
           {
             "start": "22:00",
             "end": "22:02",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Breaches of academic integrity - Staff Academic Integrity Mo",
-            "note": "mqoutlook.sharepoint.com"
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
           },
           {
             "start": "22:04",
             "end": "22:04",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Breaches of academic integrity - Staff Academic Integrity Mo",
-            "note": "mqoutlook.sharepoint.com"
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
           },
           {
             "start": "22:04",
             "end": "22:05",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Breaches of academic integrity - Staff Academic Integrity Mo",
-            "note": "mqoutlook.sharepoint.com"
+            "cat": "writing",
+            "src": "local",
+            "title": "hermes.txt",
+            "note": "1 hit"
           },
           {
             "start": "22:05",
             "end": "22:06",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Breaches of academic integrity - Staff Academic Integrity Mo",
-            "note": "mqoutlook.sharepoint.com"
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
           },
           {
             "start": "22:06",
             "end": "22:08",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Breaches of academic integrity - Staff Academic Integrity Mo",
-            "note": "mqoutlook.sharepoint.com"
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
           },
           {
             "start": "22:08",
             "end": "22:09",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Breaches of academic integrity - Staff Academic Integrity Mo",
-            "note": "mqoutlook.sharepoint.com"
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
           },
           {
             "start": "22:09",
             "end": "22:10",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Breaches of academic integrity - Staff Academic Integrity Mo",
-            "note": "mqoutlook.sharepoint.com"
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
           },
           {
             "start": "22:12",
             "end": "22:13",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Breaches of academic integrity - Staff Academic Integrity Mo",
-            "note": "mqoutlook.sharepoint.com"
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
           },
           {
             "start": "22:13",
-            "end": "22:14",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Breaches of academic integrity - Staff Academic Integrity Mo",
-            "note": "mqoutlook.sharepoint.com"
-          },
-          {
-            "start": "22:14",
             "end": "22:15",
             "cat": "coding",
             "src": "local",
@@ -71540,15 +71380,15 @@
             "note": "6 hits"
           }
         ],
-        "logged": 742,
-        "real": 594,
-        "deep": 594,
-        "ratio": 0.8010596795069106,
+        "logged": 607,
+        "real": 607,
+        "deep": 607,
+        "ratio": 1.0,
         "stats": {
-          "contextSwitches": 82,
-          "tabsOpened": 273,
-          "longestFocus": "4h 9m",
-          "justOneMoreThing": 5
+          "contextSwitches": 71,
+          "tabsOpened": 0,
+          "longestFocus": "10h 7m",
+          "justOneMoreThing": 0
         }
       },
       {
@@ -71559,42 +71399,442 @@
         "dateShort": "Wed, Aug 26",
         "dateLong": "Wednesday, August 26",
         "dayStart": "10:02",
-        "dayEnd": "10:33",
+        "dayEnd": "02:18",
         "events": [
           {
             "start": "10:02",
-            "end": "10:22",
+            "end": "10:25",
             "cat": "coding",
             "src": "claude",
             "title": "Claude session · harbor",
-            "note": "199 hits"
+            "note": "225 hits"
           },
           {
-            "start": "10:22",
-            "end": "10:24",
-            "cat": "admin",
+            "start": "10:33",
+            "end": "10:34",
+            "cat": "writing",
+            "src": "local",
+            "title": "2026-08-26.md",
+            "note": "1 hit"
+          },
+          {
+            "start": "10:34",
+            "end": "10:40",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "47 hits"
+          },
+          {
+            "start": "12:04",
+            "end": "12:12",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "41 hits"
+          },
+          {
+            "start": "14:29",
+            "end": "14:34",
+            "cat": "coding",
+            "src": "local",
+            "title": "config.json",
+            "note": "2 hits"
+          },
+          {
+            "start": "14:39",
+            "end": "14:44",
+            "cat": "writing",
+            "src": "local",
+            "title": "codex.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "14:44",
+            "end": "14:49",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "14:49",
+            "end": "14:54",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "14:54",
+            "end": "15:03",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "15:03",
+            "end": "15:08",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "15:08",
+            "end": "15:13",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "15:13",
+            "end": "15:21",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "15:21",
+            "end": "15:22",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "15:22",
+            "end": "15:26",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "15:26",
+            "end": "15:27",
+            "cat": "writing",
+            "src": "local",
+            "title": "codex.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "15:27",
+            "end": "15:31",
+            "cat": "coding",
+            "src": "local",
+            "title": "fee_calc.py",
+            "note": "1 hit"
+          },
+          {
+            "start": "15:32",
+            "end": "15:36",
+            "cat": "writing",
+            "src": "local",
+            "title": "README.md",
+            "note": "2 hits"
+          },
+          {
+            "start": "15:41",
+            "end": "15:46",
+            "cat": "writing",
+            "src": "local",
+            "title": "codex.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "15:57",
+            "end": "16:06",
+            "cat": "coding",
+            "src": "local",
+            "title": "run_experiment.sh",
+            "note": "6 hits"
+          },
+          {
+            "start": "16:36",
+            "end": "16:38",
+            "cat": "writing",
+            "src": "vscode",
+            "title": "VS Code · README.md",
+            "note": "1 hit"
+          },
+          {
+            "start": "16:38",
+            "end": "16:39",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "16:39",
+            "end": "16:40",
+            "cat": "writing",
+            "src": "vscode",
+            "title": "VS Code · README.md",
+            "note": "1 hit"
+          },
+          {
+            "start": "16:41",
+            "end": "16:56",
+            "cat": "coding",
             "src": "chrome",
-            "title": "Update Bank Details, TFN Declaration and Super Choice of Fun",
-            "note": "aus01.safelinks.protection.outlook.com"
+            "title": "Workspace Overview | Settings | OpenRouter",
+            "note": "openrouter.ai"
           },
           {
-            "start": "10:25",
-            "end": "10:33",
+            "start": "16:56",
+            "end": "16:59",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Workspace Overview | Settings | OpenRouter",
+            "note": "openrouter.ai"
+          },
+          {
+            "start": "16:59",
+            "end": "17:02",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(3) Facebook",
+            "note": "facebook.com"
+          },
+          {
+            "start": "17:02",
+            "end": "17:03",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "17:03",
+            "end": "17:07",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "17:07",
+            "end": "17:08",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(3) Facebook",
+            "note": "facebook.com"
+          },
+          {
+            "start": "17:08",
+            "end": "17:22",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(3) Facebook",
+            "note": "facebook.com"
+          },
+          {
+            "start": "17:28",
+            "end": "17:33",
+            "cat": "writing",
+            "src": "local",
+            "title": "codex.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "17:37",
+            "end": "17:41",
+            "cat": "coding",
+            "src": "local",
+            "title": "candidates.json",
+            "note": "5 hits"
+          },
+          {
+            "start": "17:41",
+            "end": "17:46",
+            "cat": "coding",
+            "src": "local",
+            "title": "candidates.json",
+            "note": "5 hits"
+          },
+          {
+            "start": "17:46",
+            "end": "17:48",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "17:48",
+            "end": "17:53",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "17:53",
+            "end": "17:54",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "17:55",
+            "end": "17:59",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "18:39",
+            "end": "19:06",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "19:20",
+            "end": "19:25",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "19:27",
+            "end": "19:46",
             "cat": "research",
+            "src": "macos",
+            "title": "Qwen Studio",
+            "note": "chat.qwen.ai"
+          },
+          {
+            "start": "19:46",
+            "end": "20:01",
+            "cat": "research",
+            "src": "macos",
+            "title": "Qwen Studio",
+            "note": "chat.qwen.ai"
+          },
+          {
+            "start": "20:01",
+            "end": "20:06",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "20:06",
+            "end": "20:09",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "21 hits"
+          },
+          {
+            "start": "20:10",
+            "end": "20:12",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Yiyang Zhuge",
+            "note": "bc.edu"
+          },
+          {
+            "start": "20:13",
+            "end": "20:19",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Yiyang Zhuge (@ZhugeYY) / X",
+            "note": "x.com"
+          },
+          {
+            "start": "20:19",
+            "end": "20:47",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "20:48",
+            "end": "20:49",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "81 hits"
+          },
+          {
+            "start": "20:50",
+            "end": "20:51",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "81 hits"
+          },
+          {
+            "start": "20:51",
+            "end": "20:54",
+            "cat": "personal",
             "src": "chrome",
-            "title": "Disrupting a new covert influence campaign from Russia | Ope",
-            "note": "adaren100.github.io"
+            "title": "Amazon.com.au: Shop online for Electronics, Apparel, Toys, B",
+            "note": "amazon.com.au"
+          },
+          {
+            "start": "20:54",
+            "end": "21:00",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "38 hits"
+          },
+          {
+            "start": "21:00",
+            "end": "21:02",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Amazon.com.au: Shop online for Electronics, Apparel, Toys, B",
+            "note": "amazon.com.au"
+          },
+          {
+            "start": "21:02",
+            "end": "22:36",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "22:49",
+            "end": "22:54",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "01:58",
+            "end": "02:18",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "non slip fitness mat suitable balance exercises sweat proof ",
+            "note": "temu.com"
           }
         ],
-        "logged": 31,
-        "real": 29,
-        "deep": 29,
-        "ratio": 0.9364832412721892,
+        "logged": 429,
+        "real": 378,
+        "deep": 378,
+        "ratio": 0.8810633105622089,
         "stats": {
-          "contextSwitches": 2,
-          "tabsOpened": 6,
-          "longestFocus": "21m",
-          "justOneMoreThing": 1
+          "contextSwitches": 27,
+          "tabsOpened": 21,
+          "longestFocus": "2h 14m",
+          "justOneMoreThing": 3
         }
       },
       {
@@ -91982,16 +92222,8 @@
           "end": "10:25",
           "cat": "coding",
           "src": "local",
-          "title": "domain_cats.json",
-          "note": "4 hits"
-        },
-        {
-          "start": "10:25",
-          "end": "10:28",
-          "cat": "coding",
-          "src": "chrome",
-          "title": "NousResearch/hermes-agent: The agent that grows with you",
-          "note": "github.com"
+          "title": "snapshots.json",
+          "note": "1 hit"
         },
         {
           "start": "10:28",
@@ -92002,36 +92234,12 @@
           "note": "63 hits"
         },
         {
-          "start": "10:41",
-          "end": "10:43",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Welcome back - OpenAI",
-          "note": "auth.openai.com"
-        },
-        {
           "start": "10:43",
           "end": "10:48",
           "cat": "coding",
           "src": "claude",
           "title": "Claude session · harbor",
           "note": "27 hits"
-        },
-        {
-          "start": "10:48",
-          "end": "11:01",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Welcome back - OpenAI",
-          "note": "auth.openai.com"
-        },
-        {
-          "start": "11:13",
-          "end": "11:17",
-          "cat": "personal",
-          "src": "chrome",
-          "title": "股权投资市场回暖，清科控股2025年净利润增长近5倍 - 21经济网",
-          "note": "m.thepaper.cn"
         },
         {
           "start": "11:17",
@@ -92042,30 +92250,6 @@
           "note": "157 hits"
         },
         {
-          "start": "11:32",
-          "end": "11:35",
-          "cat": "personal",
-          "src": "chrome",
-          "title": "股权投资市场回暖，清科控股2025年净利润增长近5倍 - 21经济网",
-          "note": "m.thepaper.cn"
-        },
-        {
-          "start": "11:38",
-          "end": "11:46",
-          "cat": "research",
-          "src": "chrome",
-          "title": "‪Usman Naseem‬ - ‪Google Scholar‬",
-          "note": "scholar.google.com"
-        },
-        {
-          "start": "11:48",
-          "end": "11:49",
-          "cat": "research",
-          "src": "chrome",
-          "title": "Rest Graphql Debug — Debug REST/GraphQL APIs: status codes, ",
-          "note": "hermes-agent.nousresearch.com"
-        },
-        {
           "start": "11:49",
           "end": "12:04",
           "cat": "coding",
@@ -92074,52 +92258,20 @@
           "note": "110 hits"
         },
         {
-          "start": "12:04",
-          "end": "12:09",
-          "cat": "research",
-          "src": "chrome",
-          "title": "Rest Graphql Debug — Debug REST/GraphQL APIs: status codes, ",
-          "note": "hermes-agent.nousresearch.com"
-        },
-        {
-          "start": "12:09",
-          "end": "12:18",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Sign in to Codex with ChatGPT - OpenAI",
-          "note": "auth.openai.com"
-        },
-        {
-          "start": "12:18",
-          "end": "12:32",
-          "cat": "research",
-          "src": "chrome",
-          "title": "AI Digest — August 25, 2026 | Ada's Notes",
-          "note": "chatgpt.com"
-        },
-        {
-          "start": "13:15",
-          "end": "13:35",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "[AINews] Andrew Ng gets into AI Engineering - ada.ren.cn@gma",
-          "note": "accounts.google.com"
-        },
-        {
-          "start": "13:35",
-          "end": "13:38",
-          "cat": "coding",
-          "src": "chrome",
-          "title": "Usage limit best practices | Anthropic Help Center",
-          "note": "support.anthropic.com"
-        },
-        {
-          "start": "13:38",
+          "start": "13:57",
           "end": "13:59",
-          "cat": "personal",
-          "src": "chrome",
-          "title": "The Rise of Deepfakes: How AI Changed Porn, Politics, and Re",
-          "note": "youtu.be"
+          "cat": "coding",
+          "src": "local",
+          "title": "config.json",
+          "note": "2 hits"
+        },
+        {
+          "start": "13:59",
+          "end": "13:59",
+          "cat": "coding",
+          "src": "local",
+          "title": "config.json",
+          "note": "2 hits"
         },
         {
           "start": "13:59",
@@ -92147,110 +92299,86 @@
         },
         {
           "start": "14:02",
-          "end": "14:03",
+          "end": "14:04",
           "cat": "writing",
           "src": "local",
           "title": "hermes.txt",
           "note": "1 hit"
         },
         {
-          "start": "14:03",
-          "end": "14:04",
-          "cat": "research",
-          "src": "chrome",
-          "title": "周柏豪_百度百科",
-          "note": "baike.baidu.com"
-        },
-        {
           "start": "14:04",
           "end": "14:04",
-          "cat": "research",
-          "src": "chrome",
-          "title": "周柏豪_百度百科",
-          "note": "baike.baidu.com"
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
         },
         {
           "start": "14:04",
           "end": "14:06",
-          "cat": "research",
-          "src": "chrome",
-          "title": "周柏豪_百度百科",
-          "note": "baike.baidu.com"
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
         },
         {
           "start": "14:06",
           "end": "14:06",
-          "cat": "research",
-          "src": "chrome",
-          "title": "周柏豪_百度百科",
-          "note": "baike.baidu.com"
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
         },
         {
           "start": "14:06",
           "end": "14:07",
-          "cat": "research",
-          "src": "chrome",
-          "title": "周柏豪_百度百科",
-          "note": "baike.baidu.com"
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
         },
         {
           "start": "14:07",
-          "end": "14:12",
-          "cat": "research",
-          "src": "chrome",
-          "title": "周柏豪_百度百科",
-          "note": "baike.baidu.com"
-        },
-        {
-          "start": "14:12",
           "end": "14:19",
           "cat": "coding",
-          "src": "chrome",
-          "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute",
-          "note": "file:///Users/ada/Documents/MQ/repo/harb"
+          "src": "local",
+          "title": "result.json",
+          "note": "3 hits"
         },
         {
           "start": "14:19",
           "end": "14:23",
-          "cat": "coding",
-          "src": "chrome",
-          "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute",
-          "note": "file:///Users/ada/Documents/MQ/repo/harb"
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
         },
         {
           "start": "14:23",
           "end": "14:24",
-          "cat": "coding",
-          "src": "chrome",
-          "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute",
-          "note": "file:///Users/ada/Documents/MQ/repo/harb"
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
         },
         {
           "start": "14:24",
           "end": "14:28",
-          "cat": "coding",
-          "src": "chrome",
-          "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute",
-          "note": "file:///Users/ada/Documents/MQ/repo/harb"
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
         },
         {
           "start": "14:28",
           "end": "14:32",
-          "cat": "coding",
-          "src": "chrome",
-          "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute",
-          "note": "file:///Users/ada/Documents/MQ/repo/harb"
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
         },
         {
           "start": "14:32",
-          "end": "14:34",
-          "cat": "coding",
-          "src": "chrome",
-          "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute",
-          "note": "file:///Users/ada/Documents/MQ/repo/harb"
-        },
-        {
-          "start": "14:34",
           "end": "14:35",
           "cat": "writing",
           "src": "local",
@@ -92314,36 +92442,28 @@
           "note": "4 hits"
         },
         {
-          "start": "15:04",
+          "start": "15:11",
+          "end": "15:16",
+          "cat": "writing",
+          "src": "local",
+          "title": "README.md",
+          "note": "1 hit"
+        },
+        {
+          "start": "15:18",
           "end": "15:23",
           "cat": "coding",
-          "src": "chrome",
-          "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute",
-          "note": "openrouter.ai"
+          "src": "local",
+          "title": "evaluation.py",
+          "note": "2 hits"
         },
         {
           "start": "15:24",
-          "end": "15:25",
-          "cat": "coding",
-          "src": "chrome",
-          "title": "Compare AI Models: Pricing, Context & Benchmarks | OpenRoute",
-          "note": "openrouter.ai"
-        },
-        {
-          "start": "15:25",
           "end": "15:29",
           "cat": "writing",
           "src": "local",
           "title": "hermes.txt",
           "note": "1 hit"
-        },
-        {
-          "start": "15:30",
-          "end": "15:50",
-          "cat": "coding",
-          "src": "chrome",
-          "title": "Workspace Overview | Settings | OpenRouter",
-          "note": "openrouter.ai"
         },
         {
           "start": "15:54",
@@ -92378,12 +92498,20 @@
           "note": "4 hits"
         },
         {
-          "start": "16:36",
+          "start": "16:38",
+          "end": "16:48",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "96 hits"
+        },
+        {
+          "start": "16:52",
           "end": "16:57",
           "cat": "coding",
-          "src": "local",
-          "title": "result.json",
-          "note": "6 hits"
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "56 hits"
         },
         {
           "start": "16:57",
@@ -92411,7 +92539,7 @@
         },
         {
           "start": "17:02",
-          "end": "17:02",
+          "end": "17:03",
           "cat": "coding",
           "src": "claude",
           "title": "Claude session · harbor",
@@ -92461,20 +92589,12 @@
           "start": "18:48",
           "end": "18:56",
           "cat": "coding",
-          "src": "chrome",
-          "title": "Claude Sonnet 5 - API Pricing & Benchmarks | OpenRouter",
-          "note": "openrouter.ai"
+          "src": "local",
+          "title": "config.json",
+          "note": "2 hits"
         },
         {
           "start": "18:56",
-          "end": "18:57",
-          "cat": "coding",
-          "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "78 hits"
-        },
-        {
-          "start": "18:58",
           "end": "19:00",
           "cat": "coding",
           "src": "claude",
@@ -92500,42 +92620,42 @@
         {
           "start": "19:03",
           "end": "19:05",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Inbox (2,861) - ada.ren.cn@gmail.com - Gmail",
-          "note": "mail.google.com"
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
         },
         {
           "start": "19:05",
           "end": "19:11",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Inbox (2,861) - ada.ren.cn@gmail.com - Gmail",
-          "note": "mail.google.com"
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
         },
         {
           "start": "19:11",
           "end": "19:13",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Inbox (2,861) - ada.ren.cn@gmail.com - Gmail",
-          "note": "mail.google.com"
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
         },
         {
           "start": "19:13",
           "end": "19:16",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Inbox (2,861) - ada.ren.cn@gmail.com - Gmail",
-          "note": "mail.google.com"
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
         },
         {
           "start": "19:16",
-          "end": "19:17",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Inbox (2,861) - ada.ren.cn@gmail.com - Gmail",
-          "note": "mail.google.com"
+          "end": "19:18",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
         },
         {
           "start": "19:18",
@@ -92557,121 +92677,121 @@
           "start": "19:30",
           "end": "19:31",
           "cat": "coding",
-          "src": "chrome",
-          "title": "Manage usage credits for paid Claude plans | Anthropic Help ",
-          "note": "openrouter.ai"
+          "src": "local",
+          "title": "result.json",
+          "note": "4 hits"
         },
         {
           "start": "19:31",
           "end": "19:34",
           "cat": "coding",
-          "src": "chrome",
-          "title": "Manage usage credits for paid Claude plans | Anthropic Help ",
-          "note": "openrouter.ai"
+          "src": "local",
+          "title": "result.json",
+          "note": "4 hits"
+        },
+        {
+          "start": "19:35",
+          "end": "19:35",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
         },
         {
           "start": "19:36",
           "end": "19:39",
-          "cat": "coding",
-          "src": "chrome",
-          "title": "Manage usage credits for paid Claude plans | Anthropic Help ",
-          "note": "openrouter.ai"
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
         },
         {
           "start": "19:39",
           "end": "19:40",
           "cat": "coding",
-          "src": "chrome",
-          "title": "Manage usage credits for paid Claude plans | Anthropic Help ",
-          "note": "openrouter.ai"
+          "src": "local",
+          "title": "analyze.py",
+          "note": "3 hits"
         },
         {
           "start": "19:40",
           "end": "19:42",
           "cat": "coding",
-          "src": "chrome",
-          "title": "Manage usage credits for paid Claude plans | Anthropic Help ",
-          "note": "openrouter.ai"
+          "src": "local",
+          "title": "analyze.py",
+          "note": "3 hits"
         },
         {
           "start": "19:42",
-          "end": "19:45",
+          "end": "19:43",
           "cat": "coding",
-          "src": "chrome",
-          "title": "Manage usage credits for paid Claude plans | Anthropic Help ",
-          "note": "openrouter.ai"
+          "src": "local",
+          "title": "analyze.py",
+          "note": "3 hits"
+        },
+        {
+          "start": "19:43",
+          "end": "19:45",
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
         },
         {
           "start": "19:45",
           "end": "19:47",
-          "cat": "coding",
-          "src": "chrome",
-          "title": "Manage usage credits for paid Claude plans | Anthropic Help ",
-          "note": "openrouter.ai"
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
         },
         {
           "start": "19:47",
           "end": "19:47",
-          "cat": "coding",
-          "src": "chrome",
-          "title": "Manage usage credits for paid Claude plans | Anthropic Help ",
-          "note": "openrouter.ai"
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
         },
         {
           "start": "19:47",
           "end": "19:50",
-          "cat": "coding",
-          "src": "chrome",
-          "title": "Manage usage credits for paid Claude plans | Anthropic Help ",
-          "note": "openrouter.ai"
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
         },
         {
           "start": "19:50",
           "end": "19:52",
-          "cat": "coding",
-          "src": "chrome",
-          "title": "Manage usage credits for paid Claude plans | Anthropic Help ",
-          "note": "openrouter.ai"
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
         },
         {
           "start": "19:52",
           "end": "19:52",
           "cat": "coding",
-          "src": "chrome",
-          "title": "Manage usage credits for paid Claude plans | Anthropic Help ",
-          "note": "openrouter.ai"
+          "src": "local",
+          "title": "result.json",
+          "note": "4 hits"
         },
         {
           "start": "19:54",
-          "end": "19:55",
-          "cat": "coding",
-          "src": "chrome",
-          "title": "Manage usage credits for paid Claude plans | Anthropic Help ",
-          "note": "openrouter.ai"
-        },
-        {
-          "start": "19:55",
-          "end": "19:55",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Sign in - Google Accounts",
-          "note": "accounts.google.com"
-        },
-        {
-          "start": "19:55",
           "end": "19:57",
           "cat": "coding",
-          "src": "chrome",
-          "title": "Billing | Claude Platform",
-          "note": "platform.claude.com"
+          "src": "local",
+          "title": "result.json",
+          "note": "4 hits"
         },
         {
           "start": "19:59",
           "end": "20:05",
           "cat": "coding",
-          "src": "chrome",
-          "title": "Billing | Claude Platform",
-          "note": "platform.claude.com"
+          "src": "local",
+          "title": "result.json",
+          "note": "3 hits"
         },
         {
           "start": "20:05",
@@ -92723,83 +92843,67 @@
         },
         {
           "start": "20:23",
-          "end": "20:23",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Workday mq - Sign in to Workday",
-          "note": "accounts.google.com"
-        },
-        {
-          "start": "20:23",
           "end": "20:24",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Workday mq - Sign in to Workday",
-          "note": "accounts.google.com"
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
         },
         {
           "start": "20:24",
           "end": "20:26",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Workday mq - Sign in to Workday",
-          "note": "accounts.google.com"
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
         },
         {
           "start": "20:26",
           "end": "20:28",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Workday mq - Sign in to Workday",
-          "note": "accounts.google.com"
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
         },
         {
           "start": "20:28",
           "end": "20:31",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Workday mq - Sign in to Workday",
-          "note": "accounts.google.com"
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
         },
         {
           "start": "20:31",
-          "end": "20:32",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Workday mq - Sign in to Workday",
-          "note": "accounts.google.com"
-        },
-        {
-          "start": "20:32",
           "end": "20:33",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Workday mq - Sign in to Workday",
-          "note": "accounts.google.com"
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
         },
         {
           "start": "20:33",
           "end": "20:36",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Workday mq - Sign in to Workday",
-          "note": "accounts.google.com"
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "6 hits"
         },
         {
           "start": "20:38",
           "end": "20:40",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Workday mq - Sign in to Workday",
-          "note": "accounts.google.com"
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "6 hits"
         },
         {
           "start": "20:40",
           "end": "20:41",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "FSE L&T Induction Module for Teaching Associates",
-          "note": "wd3.myworkday.com"
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
         },
         {
           "start": "20:43",
@@ -92819,35 +92923,19 @@
         },
         {
           "start": "20:49",
-          "end": "20:51",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "FSE L&T Induction Module for Teaching Associates",
-          "note": "wd3.myworkday.com"
-        },
-        {
-          "start": "20:51",
-          "end": "20:52",
-          "cat": "coding",
-          "src": "chrome",
-          "title": "Sign in to your account",
-          "note": "office.com"
-        },
-        {
-          "start": "20:52",
           "end": "20:53",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Breaches of academic integrity - Staff Academic Integrity Mo",
-          "note": "mqoutlook.sharepoint.com"
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
         },
         {
           "start": "20:53",
           "end": "20:54",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Breaches of academic integrity - Staff Academic Integrity Mo",
-          "note": "mqoutlook.sharepoint.com"
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
         },
         {
           "start": "20:54",
@@ -92876,58 +92964,58 @@
         {
           "start": "21:02",
           "end": "21:02",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Breaches of academic integrity - Staff Academic Integrity Mo",
-          "note": "mqoutlook.sharepoint.com"
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
         },
         {
           "start": "21:02",
           "end": "21:07",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Breaches of academic integrity - Staff Academic Integrity Mo",
-          "note": "mqoutlook.sharepoint.com"
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
         },
         {
           "start": "21:07",
-          "end": "21:10",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Breaches of academic integrity - Staff Academic Integrity Mo",
-          "note": "mqoutlook.sharepoint.com"
+          "end": "21:09",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "4 hits"
         },
         {
           "start": "21:12",
           "end": "21:13",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Breaches of academic integrity - Staff Academic Integrity Mo",
-          "note": "mqoutlook.sharepoint.com"
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
         },
         {
           "start": "21:13",
           "end": "21:15",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Breaches of academic integrity - Staff Academic Integrity Mo",
-          "note": "mqoutlook.sharepoint.com"
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
         },
         {
           "start": "21:15",
           "end": "21:15",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Breaches of academic integrity - Staff Academic Integrity Mo",
-          "note": "mqoutlook.sharepoint.com"
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
         },
         {
           "start": "21:17",
           "end": "21:18",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Breaches of academic integrity - Staff Academic Integrity Mo",
-          "note": "mqoutlook.sharepoint.com"
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
         },
         {
           "start": "21:18",
@@ -92972,50 +93060,50 @@
         {
           "start": "21:26",
           "end": "21:29",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Breaches of academic integrity - Staff Academic Integrity Mo",
-          "note": "mqoutlook.sharepoint.com"
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "9 hits"
         },
         {
           "start": "21:29",
           "end": "21:30",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Breaches of academic integrity - Staff Academic Integrity Mo",
-          "note": "mqoutlook.sharepoint.com"
+          "cat": "coding",
+          "src": "local",
+          "title": "task2_finalize.py",
+          "note": "2 hits"
         },
         {
           "start": "21:31",
           "end": "21:33",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Breaches of academic integrity - Staff Academic Integrity Mo",
-          "note": "mqoutlook.sharepoint.com"
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "3 hits"
         },
         {
           "start": "21:33",
           "end": "21:34",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Breaches of academic integrity - Staff Academic Integrity Mo",
-          "note": "mqoutlook.sharepoint.com"
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "3 hits"
         },
         {
           "start": "21:35",
           "end": "21:36",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Breaches of academic integrity - Staff Academic Integrity Mo",
-          "note": "mqoutlook.sharepoint.com"
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
         },
         {
           "start": "21:36",
           "end": "21:37",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Breaches of academic integrity - Staff Academic Integrity Mo",
-          "note": "mqoutlook.sharepoint.com"
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
         },
         {
           "start": "21:37",
@@ -93092,125 +93180,117 @@
         {
           "start": "21:50",
           "end": "21:51",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Breaches of academic integrity - Staff Academic Integrity Mo",
-          "note": "mqoutlook.sharepoint.com"
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
         },
         {
           "start": "21:52",
           "end": "21:53",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Breaches of academic integrity - Staff Academic Integrity Mo",
-          "note": "mqoutlook.sharepoint.com"
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
         },
         {
           "start": "21:53",
           "end": "21:55",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Breaches of academic integrity - Staff Academic Integrity Mo",
-          "note": "mqoutlook.sharepoint.com"
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
         },
         {
           "start": "21:55",
           "end": "21:56",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Breaches of academic integrity - Staff Academic Integrity Mo",
-          "note": "mqoutlook.sharepoint.com"
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
         },
         {
           "start": "21:56",
           "end": "21:57",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Breaches of academic integrity - Staff Academic Integrity Mo",
-          "note": "mqoutlook.sharepoint.com"
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "13 hits"
         },
         {
           "start": "21:59",
           "end": "22:00",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Breaches of academic integrity - Staff Academic Integrity Mo",
-          "note": "mqoutlook.sharepoint.com"
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "13 hits"
         },
         {
           "start": "22:00",
           "end": "22:02",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Breaches of academic integrity - Staff Academic Integrity Mo",
-          "note": "mqoutlook.sharepoint.com"
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
         },
         {
           "start": "22:04",
           "end": "22:04",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Breaches of academic integrity - Staff Academic Integrity Mo",
-          "note": "mqoutlook.sharepoint.com"
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
         },
         {
           "start": "22:04",
           "end": "22:05",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Breaches of academic integrity - Staff Academic Integrity Mo",
-          "note": "mqoutlook.sharepoint.com"
+          "cat": "writing",
+          "src": "local",
+          "title": "hermes.txt",
+          "note": "1 hit"
         },
         {
           "start": "22:05",
           "end": "22:06",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Breaches of academic integrity - Staff Academic Integrity Mo",
-          "note": "mqoutlook.sharepoint.com"
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
         },
         {
           "start": "22:06",
           "end": "22:08",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Breaches of academic integrity - Staff Academic Integrity Mo",
-          "note": "mqoutlook.sharepoint.com"
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
         },
         {
           "start": "22:08",
           "end": "22:09",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Breaches of academic integrity - Staff Academic Integrity Mo",
-          "note": "mqoutlook.sharepoint.com"
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
         },
         {
           "start": "22:09",
           "end": "22:10",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Breaches of academic integrity - Staff Academic Integrity Mo",
-          "note": "mqoutlook.sharepoint.com"
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
         },
         {
           "start": "22:12",
           "end": "22:13",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Breaches of academic integrity - Staff Academic Integrity Mo",
-          "note": "mqoutlook.sharepoint.com"
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
         },
         {
           "start": "22:13",
-          "end": "22:14",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Breaches of academic integrity - Staff Academic Integrity Mo",
-          "note": "mqoutlook.sharepoint.com"
-        },
-        {
-          "start": "22:14",
           "end": "22:15",
           "cat": "coding",
           "src": "local",
@@ -94122,15 +94202,15 @@
           "note": "6 hits"
         }
       ],
-      "logged": 742,
-      "real": 594,
-      "deep": 594,
-      "ratio": 0.8010596795069106,
+      "logged": 607,
+      "real": 607,
+      "deep": 607,
+      "ratio": 1.0,
       "stats": {
-        "contextSwitches": 82,
-        "tabsOpened": 273,
-        "longestFocus": "4h 9m",
-        "justOneMoreThing": 5
+        "contextSwitches": 71,
+        "tabsOpened": 0,
+        "longestFocus": "10h 7m",
+        "justOneMoreThing": 0
       }
     },
     {
@@ -94141,42 +94221,442 @@
       "dateShort": "Wed, Aug 26",
       "dateLong": "Wednesday, August 26",
       "dayStart": "10:02",
-      "dayEnd": "10:33",
+      "dayEnd": "02:18",
       "events": [
         {
           "start": "10:02",
-          "end": "10:22",
+          "end": "10:25",
           "cat": "coding",
           "src": "claude",
           "title": "Claude session · harbor",
-          "note": "199 hits"
+          "note": "225 hits"
         },
         {
-          "start": "10:22",
-          "end": "10:24",
-          "cat": "admin",
+          "start": "10:33",
+          "end": "10:34",
+          "cat": "writing",
+          "src": "local",
+          "title": "2026-08-26.md",
+          "note": "1 hit"
+        },
+        {
+          "start": "10:34",
+          "end": "10:40",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "47 hits"
+        },
+        {
+          "start": "12:04",
+          "end": "12:12",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "41 hits"
+        },
+        {
+          "start": "14:29",
+          "end": "14:34",
+          "cat": "coding",
+          "src": "local",
+          "title": "config.json",
+          "note": "2 hits"
+        },
+        {
+          "start": "14:39",
+          "end": "14:44",
+          "cat": "writing",
+          "src": "local",
+          "title": "codex.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "14:44",
+          "end": "14:49",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "14:49",
+          "end": "14:54",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "14:54",
+          "end": "15:03",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "15:03",
+          "end": "15:08",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "15:08",
+          "end": "15:13",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "15:13",
+          "end": "15:21",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "15:21",
+          "end": "15:22",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "15:22",
+          "end": "15:26",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "15:26",
+          "end": "15:27",
+          "cat": "writing",
+          "src": "local",
+          "title": "codex.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "15:27",
+          "end": "15:31",
+          "cat": "coding",
+          "src": "local",
+          "title": "fee_calc.py",
+          "note": "1 hit"
+        },
+        {
+          "start": "15:32",
+          "end": "15:36",
+          "cat": "writing",
+          "src": "local",
+          "title": "README.md",
+          "note": "2 hits"
+        },
+        {
+          "start": "15:41",
+          "end": "15:46",
+          "cat": "writing",
+          "src": "local",
+          "title": "codex.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "15:57",
+          "end": "16:06",
+          "cat": "coding",
+          "src": "local",
+          "title": "run_experiment.sh",
+          "note": "6 hits"
+        },
+        {
+          "start": "16:36",
+          "end": "16:38",
+          "cat": "writing",
+          "src": "vscode",
+          "title": "VS Code · README.md",
+          "note": "1 hit"
+        },
+        {
+          "start": "16:38",
+          "end": "16:39",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "16:39",
+          "end": "16:40",
+          "cat": "writing",
+          "src": "vscode",
+          "title": "VS Code · README.md",
+          "note": "1 hit"
+        },
+        {
+          "start": "16:41",
+          "end": "16:56",
+          "cat": "coding",
           "src": "chrome",
-          "title": "Update Bank Details, TFN Declaration and Super Choice of Fun",
-          "note": "aus01.safelinks.protection.outlook.com"
+          "title": "Workspace Overview | Settings | OpenRouter",
+          "note": "openrouter.ai"
         },
         {
-          "start": "10:25",
-          "end": "10:33",
+          "start": "16:56",
+          "end": "16:59",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Workspace Overview | Settings | OpenRouter",
+          "note": "openrouter.ai"
+        },
+        {
+          "start": "16:59",
+          "end": "17:02",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(3) Facebook",
+          "note": "facebook.com"
+        },
+        {
+          "start": "17:02",
+          "end": "17:03",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "17:03",
+          "end": "17:07",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "17:07",
+          "end": "17:08",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(3) Facebook",
+          "note": "facebook.com"
+        },
+        {
+          "start": "17:08",
+          "end": "17:22",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(3) Facebook",
+          "note": "facebook.com"
+        },
+        {
+          "start": "17:28",
+          "end": "17:33",
+          "cat": "writing",
+          "src": "local",
+          "title": "codex.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "17:37",
+          "end": "17:41",
+          "cat": "coding",
+          "src": "local",
+          "title": "candidates.json",
+          "note": "5 hits"
+        },
+        {
+          "start": "17:41",
+          "end": "17:46",
+          "cat": "coding",
+          "src": "local",
+          "title": "candidates.json",
+          "note": "5 hits"
+        },
+        {
+          "start": "17:46",
+          "end": "17:48",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "17:48",
+          "end": "17:53",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "17:53",
+          "end": "17:54",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "17:55",
+          "end": "17:59",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "18:39",
+          "end": "19:06",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "19:20",
+          "end": "19:25",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "19:27",
+          "end": "19:46",
           "cat": "research",
+          "src": "macos",
+          "title": "Qwen Studio",
+          "note": "chat.qwen.ai"
+        },
+        {
+          "start": "19:46",
+          "end": "20:01",
+          "cat": "research",
+          "src": "macos",
+          "title": "Qwen Studio",
+          "note": "chat.qwen.ai"
+        },
+        {
+          "start": "20:01",
+          "end": "20:06",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "20:06",
+          "end": "20:09",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "21 hits"
+        },
+        {
+          "start": "20:10",
+          "end": "20:12",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Yiyang Zhuge",
+          "note": "bc.edu"
+        },
+        {
+          "start": "20:13",
+          "end": "20:19",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Yiyang Zhuge (@ZhugeYY) / X",
+          "note": "x.com"
+        },
+        {
+          "start": "20:19",
+          "end": "20:47",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "20:48",
+          "end": "20:49",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "81 hits"
+        },
+        {
+          "start": "20:50",
+          "end": "20:51",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "81 hits"
+        },
+        {
+          "start": "20:51",
+          "end": "20:54",
+          "cat": "personal",
           "src": "chrome",
-          "title": "Disrupting a new covert influence campaign from Russia | Ope",
-          "note": "adaren100.github.io"
+          "title": "Amazon.com.au: Shop online for Electronics, Apparel, Toys, B",
+          "note": "amazon.com.au"
+        },
+        {
+          "start": "20:54",
+          "end": "21:00",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "38 hits"
+        },
+        {
+          "start": "21:00",
+          "end": "21:02",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Amazon.com.au: Shop online for Electronics, Apparel, Toys, B",
+          "note": "amazon.com.au"
+        },
+        {
+          "start": "21:02",
+          "end": "22:36",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "22:49",
+          "end": "22:54",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "01:58",
+          "end": "02:18",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "non slip fitness mat suitable balance exercises sweat proof ",
+          "note": "temu.com"
         }
       ],
-      "logged": 31,
-      "real": 29,
-      "deep": 29,
-      "ratio": 0.9364832412721892,
+      "logged": 429,
+      "real": 378,
+      "deep": 378,
+      "ratio": 0.8810633105622089,
       "stats": {
-        "contextSwitches": 2,
-        "tabsOpened": 6,
-        "longestFocus": "21m",
-        "justOneMoreThing": 1
+        "contextSwitches": 27,
+        "tabsOpened": 21,
+        "longestFocus": "2h 14m",
+        "justOneMoreThing": 3
       }
     },
     {
