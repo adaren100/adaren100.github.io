@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-08-27T10:20:14+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-08-28T10:20:08+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -69378,2464 +69378,2464 @@
         "weekend": false
       },
       {
-        "key": "2026-8-25",
-        "dayNum": 25,
-        "dow": 2,
-        "weekend": false,
-        "dateShort": "Tue, Aug 25",
         "dateLong": "Tuesday, August 25",
-        "dayStart": "10:01",
+        "dateShort": "Tue, Aug 25",
         "dayEnd": "03:44",
+        "dayNum": 25,
+        "dayStart": "10:01",
+        "deep": 607,
+        "dow": 2,
         "events": [
           {
-            "start": "10:01",
+            "cat": "writing",
             "end": "10:06",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "2026-08-24-gpt-5-6-in-kiro.md",
-            "note": "1 hit"
+            "start": "10:01",
+            "title": "2026-08-24-gpt-5-6-in-kiro.md"
           },
           {
-            "start": "10:20",
+            "cat": "coding",
             "end": "10:25",
-            "cat": "coding",
+            "note": "1 hit",
             "src": "local",
-            "title": "snapshots.json",
-            "note": "1 hit"
+            "start": "10:20",
+            "title": "snapshots.json"
           },
           {
-            "start": "10:28",
+            "cat": "coding",
             "end": "10:41",
-            "cat": "coding",
+            "note": "63 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "63 hits"
+            "start": "10:28",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "10:43",
+            "cat": "coding",
             "end": "10:48",
-            "cat": "coding",
+            "note": "27 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "27 hits"
+            "start": "10:43",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "11:17",
+            "cat": "coding",
             "end": "11:32",
-            "cat": "coding",
+            "note": "157 hits",
             "src": "claude",
-            "title": "Hermes agent setup",
-            "note": "157 hits"
+            "start": "11:17",
+            "title": "Hermes agent setup"
           },
           {
-            "start": "11:49",
+            "cat": "coding",
             "end": "12:04",
-            "cat": "coding",
+            "note": "110 hits",
             "src": "claude",
-            "title": "Hermes agent setup",
-            "note": "110 hits"
+            "start": "11:49",
+            "title": "Hermes agent setup"
           },
           {
+            "cat": "coding",
+            "end": "13:59",
+            "note": "2 hits",
+            "src": "local",
             "start": "13:57",
+            "title": "config.json"
+          },
+          {
+            "cat": "coding",
             "end": "13:59",
-            "cat": "coding",
+            "note": "2 hits",
             "src": "local",
-            "title": "config.json",
-            "note": "2 hits"
-          },
-          {
             "start": "13:59",
-            "end": "13:59",
-            "cat": "coding",
-            "src": "local",
-            "title": "config.json",
-            "note": "2 hits"
+            "title": "config.json"
           },
           {
+            "cat": "coding",
+            "end": "14:01",
+            "note": "2 hits",
+            "src": "local",
             "start": "13:59",
-            "end": "14:01",
-            "cat": "coding",
-            "src": "local",
-            "title": "config.json",
-            "note": "2 hits"
+            "title": "config.json"
           },
           {
-            "start": "14:01",
-            "end": "14:01",
             "cat": "coding",
+            "end": "14:01",
+            "note": "2 hits",
             "src": "local",
-            "title": "config.json",
-            "note": "2 hits"
+            "start": "14:01",
+            "title": "config.json"
           },
           {
-            "start": "14:01",
+            "cat": "coding",
             "end": "14:02",
-            "cat": "coding",
+            "note": "2 hits",
             "src": "local",
-            "title": "config.json",
-            "note": "2 hits"
+            "start": "14:01",
+            "title": "config.json"
           },
           {
+            "cat": "writing",
+            "end": "14:04",
+            "note": "1 hit",
+            "src": "local",
             "start": "14:02",
+            "title": "hermes.txt"
+          },
+          {
+            "cat": "writing",
             "end": "14:04",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "hermes.txt",
-            "note": "1 hit"
-          },
-          {
             "start": "14:04",
-            "end": "14:04",
-            "cat": "writing",
-            "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "title": "reward.txt"
           },
           {
+            "cat": "writing",
+            "end": "14:06",
+            "note": "3 hits",
+            "src": "local",
             "start": "14:04",
-            "end": "14:06",
-            "cat": "writing",
-            "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "title": "reward.txt"
           },
           {
-            "start": "14:06",
-            "end": "14:06",
             "cat": "writing",
+            "end": "14:06",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "14:06",
+            "title": "reward.txt"
           },
           {
-            "start": "14:06",
+            "cat": "writing",
             "end": "14:07",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "14:06",
+            "title": "reward.txt"
           },
           {
-            "start": "14:07",
+            "cat": "coding",
             "end": "14:19",
-            "cat": "coding",
+            "note": "3 hits",
             "src": "local",
-            "title": "result.json",
-            "note": "3 hits"
+            "start": "14:07",
+            "title": "result.json"
           },
           {
-            "start": "14:19",
+            "cat": "writing",
             "end": "14:23",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "hermes.txt",
-            "note": "1 hit"
+            "start": "14:19",
+            "title": "hermes.txt"
           },
           {
-            "start": "14:23",
+            "cat": "writing",
             "end": "14:24",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "hermes.txt",
-            "note": "1 hit"
+            "start": "14:23",
+            "title": "hermes.txt"
           },
           {
-            "start": "14:24",
+            "cat": "writing",
             "end": "14:28",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "14:24",
+            "title": "reward.txt"
           },
           {
-            "start": "14:28",
+            "cat": "writing",
             "end": "14:32",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "14:28",
+            "title": "reward.txt"
           },
           {
-            "start": "14:32",
+            "cat": "writing",
             "end": "14:35",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "14:32",
+            "title": "reward.txt"
           },
           {
-            "start": "14:35",
+            "cat": "writing",
             "end": "14:37",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "14:35",
+            "title": "reward.txt"
           },
           {
-            "start": "14:37",
+            "cat": "coding",
             "end": "14:38",
-            "cat": "coding",
+            "note": "1 hit",
             "src": "local",
-            "title": "lock.json",
-            "note": "1 hit"
+            "start": "14:37",
+            "title": "lock.json"
           },
           {
-            "start": "14:38",
+            "cat": "writing",
             "end": "14:40",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "hermes.txt",
-            "note": "1 hit"
+            "start": "14:38",
+            "title": "hermes.txt"
           },
           {
-            "start": "14:44",
+            "cat": "coding",
             "end": "14:46",
-            "cat": "coding",
+            "note": "1 hit",
             "src": "local",
-            "title": "lock.json",
-            "note": "1 hit"
+            "start": "14:44",
+            "title": "lock.json"
           },
           {
-            "start": "14:46",
+            "cat": "coding",
             "end": "14:49",
-            "cat": "coding",
+            "note": "1 hit",
             "src": "local",
-            "title": "lock.json",
-            "note": "1 hit"
+            "start": "14:46",
+            "title": "lock.json"
           },
           {
-            "start": "14:49",
+            "cat": "writing",
             "end": "14:51",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "hermes.txt",
-            "note": "1 hit"
+            "start": "14:49",
+            "title": "hermes.txt"
           },
           {
-            "start": "14:51",
+            "cat": "coding",
             "end": "14:59",
-            "cat": "coding",
+            "note": "4 hits",
             "src": "local",
-            "title": "result.json",
-            "note": "4 hits"
+            "start": "14:51",
+            "title": "result.json"
           },
           {
-            "start": "15:11",
+            "cat": "writing",
             "end": "15:16",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "README.md",
-            "note": "1 hit"
+            "start": "15:11",
+            "title": "README.md"
           },
           {
-            "start": "15:18",
+            "cat": "coding",
             "end": "15:23",
-            "cat": "coding",
+            "note": "2 hits",
             "src": "local",
-            "title": "evaluation.py",
-            "note": "2 hits"
+            "start": "15:18",
+            "title": "evaluation.py"
           },
           {
-            "start": "15:24",
+            "cat": "writing",
             "end": "15:29",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "hermes.txt",
-            "note": "1 hit"
+            "start": "15:24",
+            "title": "hermes.txt"
           },
           {
-            "start": "15:54",
+            "cat": "writing",
             "end": "15:59",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "hermes.txt",
-            "note": "1 hit"
+            "start": "15:54",
+            "title": "hermes.txt"
           },
           {
-            "start": "16:11",
+            "cat": "coding",
             "end": "16:19",
-            "cat": "coding",
+            "note": "73 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "73 hits"
+            "start": "16:11",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "16:24",
+            "cat": "writing",
             "end": "16:29",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "hermes.txt",
-            "note": "1 hit"
+            "start": "16:24",
+            "title": "hermes.txt"
           },
           {
-            "start": "16:29",
+            "cat": "writing",
             "end": "16:36",
-            "cat": "writing",
+            "note": "4 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "4 hits"
+            "start": "16:29",
+            "title": "reward.txt"
           },
           {
-            "start": "16:38",
+            "cat": "coding",
             "end": "16:48",
-            "cat": "coding",
+            "note": "96 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "96 hits"
+            "start": "16:38",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "16:52",
+            "cat": "coding",
             "end": "16:57",
-            "cat": "coding",
+            "note": "56 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "56 hits"
+            "start": "16:52",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "16:57",
+            "cat": "coding",
             "end": "16:59",
-            "cat": "coding",
+            "note": "56 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "56 hits"
+            "start": "16:57",
+            "title": "Claude session · harbor"
           },
           {
+            "cat": "coding",
+            "end": "17:01",
+            "note": "56 hits",
+            "src": "claude",
             "start": "17:00",
-            "end": "17:01",
-            "cat": "coding",
-            "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "56 hits"
+            "title": "Claude session · harbor"
           },
           {
+            "cat": "coding",
+            "end": "17:01",
+            "note": "56 hits",
+            "src": "claude",
             "start": "17:01",
-            "end": "17:01",
-            "cat": "coding",
-            "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "56 hits"
+            "title": "Claude session · harbor"
           },
           {
-            "start": "17:02",
+            "cat": "coding",
             "end": "17:03",
-            "cat": "coding",
+            "note": "56 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "56 hits"
+            "start": "17:02",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "17:03",
+            "cat": "writing",
             "end": "17:04",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
+            "start": "17:03",
+            "title": "claude-code.txt"
           },
           {
-            "start": "17:05",
+            "cat": "writing",
             "end": "17:06",
-            "cat": "writing",
+            "note": "4 hits",
             "src": "local",
-            "title": "b2m8gvb5s.txt",
-            "note": "4 hits"
+            "start": "17:05",
+            "title": "b2m8gvb5s.txt"
           },
           {
-            "start": "17:06",
+            "cat": "coding",
             "end": "17:08",
-            "cat": "coding",
+            "note": "20 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "20 hits"
+            "start": "17:06",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "17:08",
+            "cat": "coding",
             "end": "17:10",
-            "cat": "coding",
+            "note": "20 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "20 hits"
+            "start": "17:08",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "17:10",
+            "cat": "coding",
             "end": "17:11",
-            "cat": "coding",
+            "note": "20 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "20 hits"
+            "start": "17:10",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "18:48",
+            "cat": "coding",
             "end": "18:56",
-            "cat": "coding",
+            "note": "2 hits",
             "src": "local",
-            "title": "config.json",
-            "note": "2 hits"
+            "start": "18:48",
+            "title": "config.json"
           },
           {
-            "start": "18:56",
+            "cat": "coding",
             "end": "19:00",
-            "cat": "coding",
+            "note": "78 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "78 hits"
+            "start": "18:56",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "19:00",
+            "cat": "coding",
             "end": "19:01",
-            "cat": "coding",
+            "note": "78 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "78 hits"
+            "start": "19:00",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "19:01",
+            "cat": "coding",
             "end": "19:03",
-            "cat": "coding",
+            "note": "78 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "78 hits"
+            "start": "19:01",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "19:03",
+            "cat": "writing",
             "end": "19:05",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "19:03",
+            "title": "reward.txt"
           },
           {
-            "start": "19:05",
+            "cat": "writing",
             "end": "19:11",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "19:05",
+            "title": "reward.txt"
           },
           {
-            "start": "19:11",
+            "cat": "writing",
             "end": "19:13",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "19:11",
+            "title": "reward.txt"
           },
           {
-            "start": "19:13",
+            "cat": "writing",
             "end": "19:16",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "19:13",
+            "title": "reward.txt"
           },
           {
-            "start": "19:16",
+            "cat": "writing",
             "end": "19:18",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "19:16",
+            "title": "reward.txt"
           },
           {
-            "start": "19:18",
+            "cat": "writing",
             "end": "19:21",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "19:18",
+            "title": "reward.txt"
           },
           {
-            "start": "19:21",
+            "cat": "coding",
             "end": "19:30",
-            "cat": "coding",
+            "note": "4 hits",
             "src": "local",
-            "title": "result.json",
-            "note": "4 hits"
+            "start": "19:21",
+            "title": "result.json"
           },
           {
-            "start": "19:30",
+            "cat": "coding",
             "end": "19:31",
-            "cat": "coding",
+            "note": "4 hits",
             "src": "local",
-            "title": "result.json",
-            "note": "4 hits"
+            "start": "19:30",
+            "title": "result.json"
           },
           {
-            "start": "19:31",
+            "cat": "coding",
             "end": "19:34",
-            "cat": "coding",
+            "note": "4 hits",
             "src": "local",
-            "title": "result.json",
-            "note": "4 hits"
+            "start": "19:31",
+            "title": "result.json"
           },
           {
-            "start": "19:35",
+            "cat": "writing",
             "end": "19:35",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "19:35",
+            "title": "reward.txt"
           },
           {
-            "start": "19:36",
+            "cat": "writing",
             "end": "19:39",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "hermes.txt",
-            "note": "1 hit"
+            "start": "19:36",
+            "title": "hermes.txt"
           },
           {
-            "start": "19:39",
+            "cat": "coding",
             "end": "19:40",
-            "cat": "coding",
+            "note": "3 hits",
             "src": "local",
-            "title": "analyze.py",
-            "note": "3 hits"
+            "start": "19:39",
+            "title": "analyze.py"
           },
           {
-            "start": "19:40",
+            "cat": "coding",
             "end": "19:42",
-            "cat": "coding",
+            "note": "3 hits",
             "src": "local",
-            "title": "analyze.py",
-            "note": "3 hits"
+            "start": "19:40",
+            "title": "analyze.py"
           },
           {
-            "start": "19:42",
+            "cat": "coding",
             "end": "19:43",
-            "cat": "coding",
+            "note": "3 hits",
             "src": "local",
-            "title": "analyze.py",
-            "note": "3 hits"
+            "start": "19:42",
+            "title": "analyze.py"
           },
           {
-            "start": "19:43",
+            "cat": "writing",
             "end": "19:45",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "hermes.txt",
-            "note": "1 hit"
+            "start": "19:43",
+            "title": "hermes.txt"
           },
           {
+            "cat": "writing",
+            "end": "19:47",
+            "note": "3 hits",
+            "src": "local",
             "start": "19:45",
-            "end": "19:47",
-            "cat": "writing",
-            "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "title": "reward.txt"
           },
           {
-            "start": "19:47",
-            "end": "19:47",
             "cat": "writing",
+            "end": "19:47",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "19:47",
+            "title": "reward.txt"
           },
           {
-            "start": "19:47",
+            "cat": "writing",
             "end": "19:50",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "19:47",
+            "title": "reward.txt"
           },
           {
+            "cat": "writing",
+            "end": "19:52",
+            "note": "3 hits",
+            "src": "local",
             "start": "19:50",
-            "end": "19:52",
-            "cat": "writing",
-            "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "title": "reward.txt"
           },
           {
+            "cat": "coding",
+            "end": "19:52",
+            "note": "4 hits",
+            "src": "local",
             "start": "19:52",
-            "end": "19:52",
-            "cat": "coding",
-            "src": "local",
-            "title": "result.json",
-            "note": "4 hits"
+            "title": "result.json"
           },
           {
-            "start": "19:54",
+            "cat": "coding",
             "end": "19:57",
-            "cat": "coding",
+            "note": "4 hits",
             "src": "local",
-            "title": "result.json",
-            "note": "4 hits"
+            "start": "19:54",
+            "title": "result.json"
           },
           {
-            "start": "19:59",
+            "cat": "coding",
             "end": "20:05",
-            "cat": "coding",
+            "note": "3 hits",
             "src": "local",
-            "title": "result.json",
-            "note": "3 hits"
+            "start": "19:59",
+            "title": "result.json"
           },
           {
-            "start": "20:05",
+            "cat": "coding",
             "end": "20:09",
-            "cat": "coding",
+            "note": "132 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "132 hits"
+            "start": "20:05",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "20:09",
+            "cat": "coding",
             "end": "20:13",
-            "cat": "coding",
+            "note": "132 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "132 hits"
+            "start": "20:09",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "20:13",
+            "cat": "coding",
             "end": "20:14",
-            "cat": "coding",
+            "note": "132 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "132 hits"
+            "start": "20:13",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "20:14",
+            "cat": "coding",
             "end": "20:18",
-            "cat": "coding",
+            "note": "132 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "132 hits"
+            "start": "20:14",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "20:18",
+            "cat": "coding",
             "end": "20:19",
-            "cat": "coding",
+            "note": "132 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "132 hits"
+            "start": "20:18",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "20:19",
+            "cat": "coding",
             "end": "20:23",
-            "cat": "coding",
+            "note": "132 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "132 hits"
+            "start": "20:19",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "20:23",
+            "cat": "writing",
             "end": "20:24",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "20:23",
+            "title": "reward.txt"
           },
           {
-            "start": "20:24",
+            "cat": "writing",
             "end": "20:26",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "20:24",
+            "title": "reward.txt"
           },
           {
-            "start": "20:26",
+            "cat": "writing",
             "end": "20:28",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "20:26",
+            "title": "reward.txt"
           },
           {
-            "start": "20:28",
+            "cat": "writing",
             "end": "20:31",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "20:28",
+            "title": "reward.txt"
           },
           {
-            "start": "20:31",
+            "cat": "writing",
             "end": "20:33",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "20:31",
+            "title": "reward.txt"
           },
           {
-            "start": "20:33",
+            "cat": "coding",
             "end": "20:36",
-            "cat": "coding",
+            "note": "6 hits",
             "src": "local",
-            "title": "result.json",
-            "note": "6 hits"
+            "start": "20:33",
+            "title": "result.json"
           },
           {
-            "start": "20:38",
+            "cat": "coding",
             "end": "20:40",
-            "cat": "coding",
+            "note": "6 hits",
             "src": "local",
-            "title": "result.json",
-            "note": "6 hits"
+            "start": "20:38",
+            "title": "result.json"
           },
           {
-            "start": "20:40",
+            "cat": "writing",
             "end": "20:41",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "hermes.txt",
-            "note": "1 hit"
+            "start": "20:40",
+            "title": "hermes.txt"
           },
           {
-            "start": "20:43",
+            "cat": "coding",
             "end": "20:44",
-            "cat": "coding",
+            "note": "30 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "30 hits"
+            "start": "20:43",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "20:44",
+            "cat": "coding",
             "end": "20:48",
-            "cat": "coding",
+            "note": "30 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "30 hits"
+            "start": "20:44",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "20:49",
+            "cat": "writing",
             "end": "20:53",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "20:49",
+            "title": "reward.txt"
           },
           {
-            "start": "20:53",
+            "cat": "writing",
             "end": "20:54",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "20:53",
+            "title": "reward.txt"
           },
           {
-            "start": "20:54",
+            "cat": "coding",
             "end": "20:57",
-            "cat": "coding",
+            "note": "30 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "30 hits"
+            "start": "20:54",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "20:57",
+            "cat": "coding",
             "end": "20:59",
-            "cat": "coding",
+            "note": "30 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "30 hits"
+            "start": "20:57",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "20:59",
+            "cat": "coding",
             "end": "21:01",
-            "cat": "coding",
+            "note": "30 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "30 hits"
+            "start": "20:59",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "21:02",
+            "cat": "writing",
             "end": "21:02",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
-          },
-          {
             "start": "21:02",
+            "title": "reward.txt"
+          },
+          {
+            "cat": "writing",
             "end": "21:07",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "21:02",
+            "title": "reward.txt"
           },
           {
-            "start": "21:07",
+            "cat": "coding",
             "end": "21:09",
-            "cat": "coding",
+            "note": "4 hits",
             "src": "local",
-            "title": "result.json",
-            "note": "4 hits"
+            "start": "21:07",
+            "title": "result.json"
           },
           {
-            "start": "21:12",
+            "cat": "writing",
             "end": "21:13",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "hermes.txt",
-            "note": "1 hit"
+            "start": "21:12",
+            "title": "hermes.txt"
           },
           {
+            "cat": "writing",
+            "end": "21:15",
+            "note": "1 hit",
+            "src": "local",
             "start": "21:13",
-            "end": "21:15",
-            "cat": "writing",
-            "src": "local",
-            "title": "hermes.txt",
-            "note": "1 hit"
+            "title": "hermes.txt"
           },
           {
+            "cat": "writing",
+            "end": "21:15",
+            "note": "1 hit",
+            "src": "local",
             "start": "21:15",
-            "end": "21:15",
-            "cat": "writing",
-            "src": "local",
-            "title": "hermes.txt",
-            "note": "1 hit"
+            "title": "hermes.txt"
           },
           {
-            "start": "21:17",
+            "cat": "writing",
             "end": "21:18",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "hermes.txt",
-            "note": "1 hit"
+            "start": "21:17",
+            "title": "hermes.txt"
           },
           {
-            "start": "21:18",
+            "cat": "coding",
             "end": "21:19",
-            "cat": "coding",
+            "note": "34 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "34 hits"
+            "start": "21:18",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "21:19",
+            "cat": "coding",
             "end": "21:20",
-            "cat": "coding",
+            "note": "34 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "34 hits"
+            "start": "21:19",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "21:20",
+            "cat": "coding",
             "end": "21:21",
-            "cat": "coding",
+            "note": "34 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "34 hits"
+            "start": "21:20",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "21:21",
+            "cat": "coding",
             "end": "21:22",
-            "cat": "coding",
+            "note": "34 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "34 hits"
+            "start": "21:21",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "21:22",
+            "cat": "coding",
             "end": "21:24",
-            "cat": "coding",
+            "note": "34 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "34 hits"
+            "start": "21:22",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "21:26",
+            "cat": "coding",
             "end": "21:29",
-            "cat": "coding",
+            "note": "9 hits",
             "src": "local",
-            "title": "result.json",
-            "note": "9 hits"
+            "start": "21:26",
+            "title": "result.json"
           },
           {
-            "start": "21:29",
+            "cat": "coding",
             "end": "21:30",
-            "cat": "coding",
+            "note": "2 hits",
             "src": "local",
-            "title": "task2_finalize.py",
-            "note": "2 hits"
+            "start": "21:29",
+            "title": "task2_finalize.py"
           },
           {
-            "start": "21:31",
+            "cat": "coding",
             "end": "21:33",
-            "cat": "coding",
+            "note": "3 hits",
             "src": "local",
-            "title": "result.json",
-            "note": "3 hits"
+            "start": "21:31",
+            "title": "result.json"
           },
           {
-            "start": "21:33",
+            "cat": "coding",
             "end": "21:34",
-            "cat": "coding",
+            "note": "3 hits",
             "src": "local",
-            "title": "result.json",
-            "note": "3 hits"
+            "start": "21:33",
+            "title": "result.json"
           },
           {
-            "start": "21:35",
+            "cat": "writing",
             "end": "21:36",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "hermes.txt",
-            "note": "1 hit"
+            "start": "21:35",
+            "title": "hermes.txt"
           },
           {
-            "start": "21:36",
+            "cat": "writing",
             "end": "21:37",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "21:36",
+            "title": "reward.txt"
           },
           {
+            "cat": "coding",
+            "end": "21:38",
+            "note": "78 hits",
+            "src": "claude",
             "start": "21:37",
-            "end": "21:38",
-            "cat": "coding",
-            "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "78 hits"
+            "title": "Claude session · harbor"
           },
           {
-            "start": "21:38",
-            "end": "21:38",
             "cat": "coding",
+            "end": "21:38",
+            "note": "78 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "78 hits"
+            "start": "21:38",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "21:38",
+            "cat": "coding",
             "end": "21:40",
-            "cat": "coding",
+            "note": "78 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "78 hits"
+            "start": "21:38",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "21:40",
+            "cat": "coding",
             "end": "21:41",
-            "cat": "coding",
+            "note": "78 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "78 hits"
+            "start": "21:40",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "21:43",
+            "cat": "coding",
             "end": "21:43",
-            "cat": "coding",
+            "note": "78 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "78 hits"
-          },
-          {
             "start": "21:43",
+            "title": "Claude session · harbor"
+          },
+          {
+            "cat": "coding",
             "end": "21:45",
-            "cat": "coding",
+            "note": "78 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "78 hits"
+            "start": "21:43",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "21:45",
+            "cat": "coding",
             "end": "21:46",
-            "cat": "coding",
+            "note": "78 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "78 hits"
+            "start": "21:45",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "21:48",
+            "cat": "coding",
             "end": "21:48",
-            "cat": "coding",
+            "note": "78 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "78 hits"
-          },
-          {
             "start": "21:48",
+            "title": "Claude session · harbor"
+          },
+          {
+            "cat": "coding",
             "end": "21:50",
-            "cat": "coding",
+            "note": "78 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "78 hits"
+            "start": "21:48",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "21:50",
+            "cat": "writing",
             "end": "21:51",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "21:50",
+            "title": "reward.txt"
           },
           {
-            "start": "21:52",
+            "cat": "writing",
             "end": "21:53",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "21:52",
+            "title": "reward.txt"
           },
           {
-            "start": "21:53",
+            "cat": "writing",
             "end": "21:55",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "21:53",
+            "title": "reward.txt"
           },
           {
-            "start": "21:55",
+            "cat": "writing",
             "end": "21:56",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "21:55",
+            "title": "reward.txt"
           },
           {
-            "start": "21:56",
+            "cat": "coding",
             "end": "21:57",
-            "cat": "coding",
+            "note": "13 hits",
             "src": "local",
-            "title": "result.json",
-            "note": "13 hits"
+            "start": "21:56",
+            "title": "result.json"
           },
           {
-            "start": "21:59",
+            "cat": "coding",
             "end": "22:00",
-            "cat": "coding",
+            "note": "13 hits",
             "src": "local",
-            "title": "result.json",
-            "note": "13 hits"
+            "start": "21:59",
+            "title": "result.json"
           },
           {
-            "start": "22:00",
+            "cat": "writing",
             "end": "22:02",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "hermes.txt",
-            "note": "1 hit"
+            "start": "22:00",
+            "title": "hermes.txt"
           },
           {
-            "start": "22:04",
+            "cat": "writing",
             "end": "22:04",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "hermes.txt",
-            "note": "1 hit"
-          },
-          {
             "start": "22:04",
+            "title": "hermes.txt"
+          },
+          {
+            "cat": "writing",
             "end": "22:05",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "hermes.txt",
-            "note": "1 hit"
+            "start": "22:04",
+            "title": "hermes.txt"
           },
           {
-            "start": "22:05",
+            "cat": "writing",
             "end": "22:06",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "22:05",
+            "title": "reward.txt"
           },
           {
-            "start": "22:06",
+            "cat": "writing",
             "end": "22:08",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "22:06",
+            "title": "reward.txt"
           },
           {
-            "start": "22:08",
+            "cat": "writing",
             "end": "22:09",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "22:08",
+            "title": "reward.txt"
           },
           {
-            "start": "22:09",
+            "cat": "writing",
             "end": "22:10",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "22:09",
+            "title": "reward.txt"
           },
           {
-            "start": "22:12",
+            "cat": "writing",
             "end": "22:13",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "22:12",
+            "title": "reward.txt"
           },
           {
-            "start": "22:13",
+            "cat": "coding",
             "end": "22:15",
-            "cat": "coding",
+            "note": "7 hits",
             "src": "local",
-            "title": "result.json",
-            "note": "7 hits"
+            "start": "22:13",
+            "title": "result.json"
           },
           {
-            "start": "22:46",
+            "cat": "coding",
             "end": "22:53",
-            "cat": "coding",
+            "note": "5 hits",
             "src": "local",
-            "title": "config.json",
-            "note": "5 hits"
+            "start": "22:46",
+            "title": "config.json"
           },
           {
-            "start": "22:54",
+            "cat": "coding",
             "end": "22:58",
-            "cat": "coding",
+            "note": "5 hits",
             "src": "local",
-            "title": "config.json",
-            "note": "5 hits"
+            "start": "22:54",
+            "title": "config.json"
           },
           {
-            "start": "22:59",
+            "cat": "coding",
             "end": "23:03",
-            "cat": "coding",
+            "note": "1 hit",
             "src": "local",
-            "title": "final.py",
-            "note": "1 hit"
+            "start": "22:59",
+            "title": "final.py"
           },
           {
-            "start": "23:03",
+            "cat": "coding",
             "end": "23:04",
-            "cat": "coding",
+            "note": "1 hit",
             "src": "local",
-            "title": "final.py",
-            "note": "1 hit"
+            "start": "23:03",
+            "title": "final.py"
           },
           {
-            "start": "23:04",
+            "cat": "coding",
             "end": "23:05",
-            "cat": "coding",
+            "note": "1 hit",
             "src": "local",
-            "title": "final.py",
-            "note": "1 hit"
+            "start": "23:04",
+            "title": "final.py"
           },
           {
-            "start": "23:06",
+            "cat": "coding",
             "end": "23:07",
-            "cat": "coding",
+            "note": "1 hit",
             "src": "local",
-            "title": "final.py",
-            "note": "1 hit"
+            "start": "23:06",
+            "title": "final.py"
           },
           {
-            "start": "23:08",
+            "cat": "coding",
             "end": "23:10",
-            "cat": "coding",
+            "note": "1 hit",
             "src": "local",
-            "title": "final.py",
-            "note": "1 hit"
+            "start": "23:08",
+            "title": "final.py"
           },
           {
-            "start": "23:11",
+            "cat": "coding",
             "end": "23:12",
-            "cat": "coding",
+            "note": "1 hit",
             "src": "local",
-            "title": "final.py",
-            "note": "1 hit"
+            "start": "23:11",
+            "title": "final.py"
           },
           {
-            "start": "23:12",
+            "cat": "coding",
             "end": "23:19",
-            "cat": "coding",
+            "note": "4 hits",
             "src": "local",
-            "title": "result.json",
-            "note": "4 hits"
+            "start": "23:12",
+            "title": "result.json"
           },
           {
-            "start": "23:19",
+            "cat": "coding",
             "end": "23:20",
-            "cat": "coding",
+            "note": "4 hits",
             "src": "local",
-            "title": "result.json",
-            "note": "4 hits"
+            "start": "23:19",
+            "title": "result.json"
           },
           {
-            "start": "23:21",
+            "cat": "coding",
             "end": "23:22",
-            "cat": "coding",
+            "note": "4 hits",
             "src": "local",
-            "title": "result.json",
-            "note": "4 hits"
+            "start": "23:21",
+            "title": "result.json"
           },
           {
-            "start": "23:22",
+            "cat": "writing",
             "end": "23:24",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "hermes.txt",
-            "note": "1 hit"
+            "start": "23:22",
+            "title": "hermes.txt"
           },
           {
-            "start": "23:24",
+            "cat": "writing",
             "end": "23:25",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "23:24",
+            "title": "reward.txt"
           },
           {
-            "start": "23:28",
+            "cat": "writing",
             "end": "23:32",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "hermes.txt",
-            "note": "1 hit"
+            "start": "23:28",
+            "title": "hermes.txt"
           },
           {
-            "start": "23:33",
+            "cat": "writing",
             "end": "23:37",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "23:33",
+            "title": "reward.txt"
           },
           {
-            "start": "23:38",
+            "cat": "coding",
             "end": "23:40",
-            "cat": "coding",
+            "note": "3 hits",
             "src": "local",
-            "title": "analyze.py",
-            "note": "3 hits"
+            "start": "23:38",
+            "title": "analyze.py"
           },
           {
-            "start": "23:40",
+            "cat": "coding",
             "end": "23:44",
-            "cat": "coding",
+            "note": "3 hits",
             "src": "local",
-            "title": "analyze.py",
-            "note": "3 hits"
+            "start": "23:40",
+            "title": "analyze.py"
           },
           {
-            "start": "23:44",
+            "cat": "writing",
             "end": "23:45",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "hermes.txt",
-            "note": "1 hit"
+            "start": "23:44",
+            "title": "hermes.txt"
           },
           {
-            "start": "23:45",
+            "cat": "writing",
             "end": "23:50",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "23:45",
+            "title": "reward.txt"
           },
           {
-            "start": "23:50",
+            "cat": "writing",
             "end": "23:53",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "23:50",
+            "title": "reward.txt"
           },
           {
-            "start": "23:53",
+            "cat": "writing",
             "end": "23:58",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "23:53",
+            "title": "reward.txt"
           },
           {
-            "start": "23:58",
+            "cat": "coding",
             "end": "00:04",
-            "cat": "coding",
+            "note": "5 hits",
             "src": "local",
-            "title": "result.json",
-            "note": "5 hits"
+            "start": "23:58",
+            "title": "result.json"
           },
           {
-            "start": "00:06",
+            "cat": "coding",
             "end": "00:09",
-            "cat": "coding",
+            "note": "5 hits",
             "src": "local",
-            "title": "result.json",
-            "note": "5 hits"
+            "start": "00:06",
+            "title": "result.json"
           },
           {
-            "start": "00:09",
+            "cat": "writing",
             "end": "00:10",
-            "cat": "writing",
+            "note": "2 hits",
             "src": "local",
-            "title": "README.md",
-            "note": "2 hits"
+            "start": "00:09",
+            "title": "README.md"
           },
           {
-            "start": "00:13",
+            "cat": "writing",
             "end": "00:18",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "hermes.txt",
-            "note": "1 hit"
+            "start": "00:13",
+            "title": "hermes.txt"
           },
           {
-            "start": "00:18",
+            "cat": "writing",
             "end": "00:22",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "00:18",
+            "title": "reward.txt"
           },
           {
-            "start": "00:22",
+            "cat": "writing",
             "end": "00:27",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "00:22",
+            "title": "reward.txt"
           },
           {
-            "start": "00:27",
+            "cat": "coding",
             "end": "00:30",
-            "cat": "coding",
+            "note": "2 hits",
             "src": "local",
-            "title": "compute.py",
-            "note": "2 hits"
+            "start": "00:27",
+            "title": "compute.py"
           },
           {
-            "start": "00:30",
+            "cat": "coding",
             "end": "00:34",
-            "cat": "coding",
+            "note": "2 hits",
             "src": "local",
-            "title": "compute.py",
-            "note": "2 hits"
+            "start": "00:30",
+            "title": "compute.py"
           },
           {
-            "start": "00:34",
+            "cat": "writing",
             "end": "00:35",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "hermes.txt",
-            "note": "1 hit"
+            "start": "00:34",
+            "title": "hermes.txt"
           },
           {
-            "start": "00:35",
+            "cat": "writing",
             "end": "00:36",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "00:35",
+            "title": "reward.txt"
           },
           {
-            "start": "00:36",
+            "cat": "writing",
             "end": "00:37",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "00:36",
+            "title": "reward.txt"
           },
           {
-            "start": "00:37",
+            "cat": "writing",
             "end": "00:41",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "00:37",
+            "title": "reward.txt"
           },
           {
-            "start": "00:41",
+            "cat": "writing",
             "end": "00:42",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "00:41",
+            "title": "reward.txt"
           },
           {
-            "start": "00:42",
+            "cat": "coding",
             "end": "00:49",
-            "cat": "coding",
+            "note": "4 hits",
             "src": "local",
-            "title": "result.json",
-            "note": "4 hits"
+            "start": "00:42",
+            "title": "result.json"
           },
           {
-            "start": "00:49",
+            "cat": "coding",
             "end": "00:50",
-            "cat": "coding",
+            "note": "4 hits",
             "src": "local",
-            "title": "result.json",
-            "note": "4 hits"
+            "start": "00:49",
+            "title": "result.json"
           },
           {
-            "start": "00:51",
+            "cat": "coding",
             "end": "00:52",
-            "cat": "coding",
+            "note": "4 hits",
             "src": "local",
-            "title": "result.json",
-            "note": "4 hits"
+            "start": "00:51",
+            "title": "result.json"
           },
           {
-            "start": "00:52",
+            "cat": "writing",
             "end": "00:54",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "hermes.txt",
-            "note": "1 hit"
+            "start": "00:52",
+            "title": "hermes.txt"
           },
           {
-            "start": "00:54",
+            "cat": "writing",
             "end": "00:55",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "hermes.txt",
-            "note": "1 hit"
+            "start": "00:54",
+            "title": "hermes.txt"
           },
           {
-            "start": "01:00",
+            "cat": "writing",
             "end": "01:05",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "hermes.txt",
-            "note": "1 hit"
+            "start": "01:00",
+            "title": "hermes.txt"
           },
           {
-            "start": "01:05",
+            "cat": "writing",
             "end": "01:06",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "01:05",
+            "title": "reward.txt"
           },
           {
-            "start": "01:06",
+            "cat": "writing",
             "end": "01:11",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "01:06",
+            "title": "reward.txt"
           },
           {
-            "start": "01:11",
+            "cat": "coding",
             "end": "01:15",
-            "cat": "coding",
+            "note": "2 hits",
             "src": "local",
-            "title": "compute.py",
-            "note": "2 hits"
+            "start": "01:11",
+            "title": "compute.py"
           },
           {
-            "start": "01:15",
+            "cat": "coding",
             "end": "01:18",
-            "cat": "coding",
+            "note": "2 hits",
             "src": "local",
-            "title": "compute.py",
-            "note": "2 hits"
+            "start": "01:15",
+            "title": "compute.py"
           },
           {
-            "start": "01:18",
+            "cat": "writing",
             "end": "01:20",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "hermes.txt",
-            "note": "1 hit"
+            "start": "01:18",
+            "title": "hermes.txt"
           },
           {
-            "start": "01:20",
+            "cat": "coding",
             "end": "01:23",
-            "cat": "coding",
+            "note": "2 hits",
             "src": "local",
-            "title": "compute.py",
-            "note": "2 hits"
+            "start": "01:20",
+            "title": "compute.py"
           },
           {
+            "cat": "coding",
+            "end": "01:25",
+            "note": "2 hits",
+            "src": "local",
             "start": "01:23",
-            "end": "01:25",
-            "cat": "coding",
-            "src": "local",
-            "title": "compute.py",
-            "note": "2 hits"
+            "title": "compute.py"
           },
           {
-            "start": "01:25",
-            "end": "01:25",
             "cat": "writing",
+            "end": "01:25",
+            "note": "1 hit",
             "src": "local",
-            "title": "hermes.txt",
-            "note": "1 hit"
+            "start": "01:25",
+            "title": "hermes.txt"
           },
           {
-            "start": "01:25",
+            "cat": "coding",
             "end": "01:28",
-            "cat": "coding",
+            "note": "6 hits",
             "src": "local",
-            "title": "analyze.py",
-            "note": "6 hits"
+            "start": "01:25",
+            "title": "analyze.py"
           },
           {
-            "start": "01:28",
+            "cat": "coding",
             "end": "01:30",
-            "cat": "coding",
+            "note": "4 hits",
             "src": "local",
-            "title": "result.json",
-            "note": "4 hits"
+            "start": "01:28",
+            "title": "result.json"
           },
           {
-            "start": "01:30",
+            "cat": "coding",
             "end": "01:31",
-            "cat": "coding",
+            "note": "4 hits",
             "src": "local",
-            "title": "result.json",
-            "note": "4 hits"
+            "start": "01:30",
+            "title": "result.json"
           },
           {
-            "start": "01:32",
+            "cat": "writing",
             "end": "01:35",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "hermes.txt",
-            "note": "1 hit"
+            "start": "01:32",
+            "title": "hermes.txt"
           },
           {
-            "start": "01:35",
+            "cat": "writing",
             "end": "01:36",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "01:35",
+            "title": "reward.txt"
           },
           {
-            "start": "01:37",
+            "cat": "coding",
             "end": "01:41",
-            "cat": "coding",
+            "note": "7 hits",
             "src": "local",
-            "title": "result.json",
-            "note": "7 hits"
+            "start": "01:37",
+            "title": "result.json"
           },
           {
-            "start": "01:41",
+            "cat": "coding",
             "end": "01:42",
-            "cat": "coding",
+            "note": "7 hits",
             "src": "local",
-            "title": "result.json",
-            "note": "7 hits"
+            "start": "01:41",
+            "title": "result.json"
           },
           {
-            "start": "01:42",
+            "cat": "writing",
             "end": "01:46",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "01:42",
+            "title": "reward.txt"
           },
           {
-            "start": "01:46",
+            "cat": "writing",
             "end": "01:47",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "01:46",
+            "title": "reward.txt"
           },
           {
-            "start": "01:47",
+            "cat": "writing",
             "end": "01:52",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "01:47",
+            "title": "reward.txt"
           },
           {
-            "start": "01:53",
+            "cat": "writing",
             "end": "01:54",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "01:53",
+            "title": "reward.txt"
           },
           {
-            "start": "01:54",
+            "cat": "writing",
             "end": "01:58",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "01:54",
+            "title": "reward.txt"
           },
           {
-            "start": "01:58",
+            "cat": "coding",
             "end": "01:59",
-            "cat": "coding",
+            "note": "3 hits",
             "src": "local",
-            "title": "compute_fees.py",
-            "note": "3 hits"
+            "start": "01:58",
+            "title": "compute_fees.py"
           },
           {
-            "start": "01:59",
+            "cat": "coding",
             "end": "02:06",
-            "cat": "coding",
+            "note": "5 hits",
             "src": "local",
-            "title": "result.json",
-            "note": "5 hits"
+            "start": "01:59",
+            "title": "result.json"
           },
           {
-            "start": "02:06",
+            "cat": "coding",
             "end": "02:07",
-            "cat": "coding",
+            "note": "5 hits",
             "src": "local",
-            "title": "result.json",
-            "note": "5 hits"
+            "start": "02:06",
+            "title": "result.json"
           },
           {
-            "start": "02:08",
+            "cat": "writing",
             "end": "02:11",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "hermes.txt",
-            "note": "1 hit"
+            "start": "02:08",
+            "title": "hermes.txt"
           },
           {
-            "start": "02:11",
+            "cat": "writing",
             "end": "02:12",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "02:11",
+            "title": "reward.txt"
           },
           {
-            "start": "02:14",
+            "cat": "writing",
             "end": "02:16",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "hermes.txt",
-            "note": "1 hit"
+            "start": "02:14",
+            "title": "hermes.txt"
           },
           {
-            "start": "02:17",
+            "cat": "writing",
             "end": "02:18",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "02:17",
+            "title": "reward.txt"
           },
           {
-            "start": "02:18",
+            "cat": "writing",
             "end": "02:21",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "02:18",
+            "title": "reward.txt"
           },
           {
-            "start": "02:21",
+            "cat": "writing",
             "end": "02:23",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "02:21",
+            "title": "reward.txt"
           },
           {
-            "start": "02:23",
+            "cat": "writing",
             "end": "02:24",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "02:23",
+            "title": "reward.txt"
           },
           {
-            "start": "02:26",
+            "cat": "coding",
             "end": "02:26",
-            "cat": "coding",
+            "note": "4 hits",
             "src": "local",
-            "title": "result.json",
-            "note": "4 hits"
-          },
-          {
             "start": "02:26",
+            "title": "result.json"
+          },
+          {
+            "cat": "coding",
             "end": "02:29",
-            "cat": "coding",
+            "note": "4 hits",
             "src": "local",
-            "title": "result.json",
-            "note": "4 hits"
+            "start": "02:26",
+            "title": "result.json"
           },
           {
-            "start": "02:29",
+            "cat": "writing",
             "end": "02:30",
-            "cat": "writing",
+            "note": "2 hits",
             "src": "local",
-            "title": "README.md",
-            "note": "2 hits"
+            "start": "02:29",
+            "title": "README.md"
           },
           {
-            "start": "02:32",
+            "cat": "writing",
             "end": "02:33",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "hermes.txt",
-            "note": "1 hit"
+            "start": "02:32",
+            "title": "hermes.txt"
           },
           {
-            "start": "02:33",
+            "cat": "writing",
             "end": "02:35",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "hermes.txt",
-            "note": "1 hit"
+            "start": "02:33",
+            "title": "hermes.txt"
           },
           {
-            "start": "02:35",
+            "cat": "writing",
             "end": "02:36",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "02:35",
+            "title": "reward.txt"
           },
           {
-            "start": "02:36",
+            "cat": "writing",
             "end": "02:37",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "02:36",
+            "title": "reward.txt"
           },
           {
-            "start": "02:37",
+            "cat": "writing",
             "end": "02:38",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "02:37",
+            "title": "reward.txt"
           },
           {
-            "start": "02:38",
+            "cat": "writing",
             "end": "02:40",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "02:38",
+            "title": "reward.txt"
           },
           {
-            "start": "02:40",
+            "cat": "writing",
             "end": "02:41",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "02:40",
+            "title": "reward.txt"
           },
           {
-            "start": "02:43",
+            "cat": "coding",
             "end": "02:45",
-            "cat": "coding",
+            "note": "6 hits",
             "src": "local",
-            "title": "result.json",
-            "note": "6 hits"
+            "start": "02:43",
+            "title": "result.json"
           },
           {
-            "start": "02:45",
+            "cat": "writing",
             "end": "02:46",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "hermes.txt",
-            "note": "1 hit"
+            "start": "02:45",
+            "title": "hermes.txt"
           },
           {
-            "start": "02:46",
+            "cat": "coding",
             "end": "02:47",
-            "cat": "coding",
+            "note": "2 hits",
             "src": "local",
-            "title": "compute.py",
-            "note": "2 hits"
+            "start": "02:46",
+            "title": "compute.py"
           },
           {
-            "start": "02:49",
+            "cat": "writing",
             "end": "02:51",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "hermes.txt",
-            "note": "1 hit"
+            "start": "02:49",
+            "title": "hermes.txt"
           },
           {
-            "start": "02:51",
+            "cat": "writing",
             "end": "02:53",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "02:51",
+            "title": "reward.txt"
           },
           {
-            "start": "02:53",
+            "cat": "writing",
             "end": "02:55",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "02:53",
+            "title": "reward.txt"
           },
           {
-            "start": "02:55",
+            "cat": "writing",
             "end": "02:56",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "02:55",
+            "title": "reward.txt"
           },
           {
-            "start": "02:56",
+            "cat": "writing",
             "end": "02:57",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "02:56",
+            "title": "reward.txt"
           },
           {
-            "start": "02:57",
+            "cat": "writing",
             "end": "02:58",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "02:57",
+            "title": "reward.txt"
           },
           {
-            "start": "02:58",
+            "cat": "writing",
             "end": "02:59",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "02:58",
+            "title": "reward.txt"
           },
           {
-            "start": "03:00",
+            "cat": "writing",
             "end": "03:01",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "03:00",
+            "title": "reward.txt"
           },
           {
-            "start": "03:01",
+            "cat": "writing",
             "end": "03:02",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "03:01",
+            "title": "reward.txt"
           },
           {
-            "start": "03:02",
+            "cat": "coding",
             "end": "03:03",
-            "cat": "coding",
+            "note": "4 hits",
             "src": "local",
-            "title": "result.json",
-            "note": "4 hits"
+            "start": "03:02",
+            "title": "result.json"
           },
           {
-            "start": "03:03",
+            "cat": "writing",
             "end": "03:04",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "hermes.txt",
-            "note": "1 hit"
+            "start": "03:03",
+            "title": "hermes.txt"
           },
           {
-            "start": "03:05",
+            "cat": "writing",
             "end": "03:06",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "03:05",
+            "title": "reward.txt"
           },
           {
-            "start": "03:06",
+            "cat": "writing",
             "end": "03:07",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "03:06",
+            "title": "reward.txt"
           },
           {
-            "start": "03:07",
+            "cat": "writing",
             "end": "03:09",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "hermes.txt",
-            "note": "1 hit"
+            "start": "03:07",
+            "title": "hermes.txt"
           },
           {
-            "start": "03:09",
+            "cat": "writing",
             "end": "03:11",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "03:09",
+            "title": "reward.txt"
           },
           {
-            "start": "03:11",
+            "cat": "writing",
             "end": "03:12",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "03:11",
+            "title": "reward.txt"
           },
           {
-            "start": "03:13",
+            "cat": "writing",
             "end": "03:15",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "03:13",
+            "title": "reward.txt"
           },
           {
-            "start": "03:15",
+            "cat": "writing",
             "end": "03:18",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "03:15",
+            "title": "reward.txt"
           },
           {
-            "start": "03:18",
+            "cat": "coding",
             "end": "03:19",
-            "cat": "coding",
+            "note": "3 hits",
             "src": "local",
-            "title": "analyze.py",
-            "note": "3 hits"
+            "start": "03:18",
+            "title": "analyze.py"
           },
           {
+            "cat": "writing",
+            "end": "03:20",
+            "note": "1 hit",
+            "src": "local",
             "start": "03:19",
-            "end": "03:20",
-            "cat": "writing",
-            "src": "local",
-            "title": "hermes.txt",
-            "note": "1 hit"
+            "title": "hermes.txt"
           },
           {
+            "cat": "coding",
+            "end": "03:20",
+            "note": "5 hits",
+            "src": "local",
             "start": "03:20",
-            "end": "03:20",
-            "cat": "coding",
-            "src": "local",
-            "title": "result.json",
-            "note": "5 hits"
+            "title": "result.json"
           },
           {
-            "start": "03:23",
+            "cat": "writing",
             "end": "03:25",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "hermes.txt",
-            "note": "1 hit"
+            "start": "03:23",
+            "title": "hermes.txt"
           },
           {
-            "start": "03:28",
+            "cat": "writing",
             "end": "03:31",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "hermes.txt",
-            "note": "1 hit"
+            "start": "03:28",
+            "title": "hermes.txt"
           },
           {
-            "start": "03:31",
+            "cat": "writing",
             "end": "03:32",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "hermes.txt",
-            "note": "1 hit"
+            "start": "03:31",
+            "title": "hermes.txt"
           },
           {
-            "start": "03:32",
+            "cat": "writing",
             "end": "03:34",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "03:32",
+            "title": "reward.txt"
           },
           {
-            "start": "03:34",
+            "cat": "writing",
             "end": "03:35",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "03:34",
+            "title": "reward.txt"
           },
           {
-            "start": "03:35",
+            "cat": "writing",
             "end": "03:36",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "03:35",
+            "title": "reward.txt"
           },
           {
-            "start": "03:36",
+            "cat": "writing",
             "end": "03:37",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "03:36",
+            "title": "reward.txt"
           },
           {
-            "start": "03:37",
+            "cat": "writing",
             "end": "03:39",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "03:37",
+            "title": "reward.txt"
           },
           {
-            "start": "03:41",
-            "end": "03:44",
             "cat": "coding",
+            "end": "03:44",
+            "note": "6 hits",
             "src": "local",
-            "title": "result.json",
-            "note": "6 hits"
+            "start": "03:41",
+            "title": "result.json"
           }
         ],
+        "key": "2026-8-25",
         "logged": 607,
-        "real": 607,
-        "deep": 607,
         "ratio": 1.0,
+        "real": 607,
         "stats": {
           "contextSwitches": 71,
-          "tabsOpened": 0,
+          "justOneMoreThing": 0,
           "longestFocus": "10h 7m",
-          "justOneMoreThing": 0
-        }
+          "tabsOpened": 0
+        },
+        "weekend": false
       },
       {
-        "key": "2026-8-26",
-        "dayNum": 26,
-        "dow": 3,
-        "weekend": false,
-        "dateShort": "Wed, Aug 26",
         "dateLong": "Wednesday, August 26",
-        "dayStart": "10:02",
+        "dateShort": "Wed, Aug 26",
         "dayEnd": "02:18",
+        "dayNum": 26,
+        "dayStart": "10:02",
+        "deep": 378,
+        "dow": 3,
         "events": [
           {
-            "start": "10:02",
+            "cat": "coding",
             "end": "10:25",
-            "cat": "coding",
+            "note": "225 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "225 hits"
+            "start": "10:02",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "10:33",
+            "cat": "writing",
             "end": "10:34",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "2026-08-26.md",
-            "note": "1 hit"
+            "start": "10:33",
+            "title": "2026-08-26.md"
           },
           {
-            "start": "10:34",
+            "cat": "coding",
             "end": "10:40",
-            "cat": "coding",
+            "note": "47 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "47 hits"
+            "start": "10:34",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "12:04",
+            "cat": "coding",
             "end": "12:12",
-            "cat": "coding",
+            "note": "41 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "41 hits"
+            "start": "12:04",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "14:29",
+            "cat": "coding",
             "end": "14:34",
-            "cat": "coding",
+            "note": "2 hits",
             "src": "local",
-            "title": "config.json",
-            "note": "2 hits"
+            "start": "14:29",
+            "title": "config.json"
           },
           {
-            "start": "14:39",
+            "cat": "writing",
             "end": "14:44",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "codex.txt",
-            "note": "1 hit"
+            "start": "14:39",
+            "title": "codex.txt"
           },
           {
-            "start": "14:44",
+            "cat": "writing",
             "end": "14:49",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "14:44",
+            "title": "reward.txt"
           },
           {
-            "start": "14:49",
+            "cat": "writing",
             "end": "14:54",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "14:49",
+            "title": "reward.txt"
           },
           {
-            "start": "14:54",
+            "cat": "writing",
             "end": "15:03",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "14:54",
+            "title": "reward.txt"
           },
           {
-            "start": "15:03",
+            "cat": "writing",
             "end": "15:08",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "15:03",
+            "title": "reward.txt"
           },
           {
-            "start": "15:08",
+            "cat": "writing",
             "end": "15:13",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "15:08",
+            "title": "reward.txt"
           },
           {
-            "start": "15:13",
+            "cat": "writing",
             "end": "15:21",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "15:13",
+            "title": "reward.txt"
           },
           {
-            "start": "15:21",
+            "cat": "writing",
             "end": "15:22",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "15:21",
+            "title": "reward.txt"
           },
           {
-            "start": "15:22",
+            "cat": "writing",
             "end": "15:26",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "15:22",
+            "title": "reward.txt"
           },
           {
-            "start": "15:26",
+            "cat": "writing",
             "end": "15:27",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "codex.txt",
-            "note": "1 hit"
+            "start": "15:26",
+            "title": "codex.txt"
           },
           {
-            "start": "15:27",
+            "cat": "coding",
             "end": "15:31",
-            "cat": "coding",
+            "note": "1 hit",
             "src": "local",
-            "title": "fee_calc.py",
-            "note": "1 hit"
+            "start": "15:27",
+            "title": "fee_calc.py"
           },
           {
-            "start": "15:32",
+            "cat": "writing",
             "end": "15:36",
-            "cat": "writing",
+            "note": "2 hits",
             "src": "local",
-            "title": "README.md",
-            "note": "2 hits"
+            "start": "15:32",
+            "title": "README.md"
           },
           {
-            "start": "15:41",
+            "cat": "writing",
             "end": "15:46",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "codex.txt",
-            "note": "1 hit"
+            "start": "15:41",
+            "title": "codex.txt"
           },
           {
-            "start": "15:57",
+            "cat": "coding",
             "end": "16:06",
-            "cat": "coding",
+            "note": "6 hits",
             "src": "local",
-            "title": "run_experiment.sh",
-            "note": "6 hits"
+            "start": "15:57",
+            "title": "run_experiment.sh"
           },
           {
-            "start": "16:36",
+            "cat": "writing",
             "end": "16:38",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "vscode",
-            "title": "VS Code · README.md",
-            "note": "1 hit"
+            "start": "16:36",
+            "title": "VS Code · README.md"
           },
           {
-            "start": "16:38",
+            "cat": "coding",
             "end": "16:39",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "16:38",
+            "title": "codex"
           },
           {
-            "start": "16:39",
+            "cat": "writing",
             "end": "16:40",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "vscode",
-            "title": "VS Code · README.md",
-            "note": "1 hit"
+            "start": "16:39",
+            "title": "VS Code · README.md"
           },
           {
-            "start": "16:41",
+            "cat": "coding",
             "end": "16:56",
-            "cat": "coding",
+            "note": "openrouter.ai",
             "src": "chrome",
-            "title": "Workspace Overview | Settings | OpenRouter",
-            "note": "openrouter.ai"
+            "start": "16:41",
+            "title": "Workspace Overview | Settings | OpenRouter"
           },
           {
-            "start": "16:56",
+            "cat": "coding",
             "end": "16:59",
-            "cat": "coding",
+            "note": "openrouter.ai",
             "src": "macos",
-            "title": "Workspace Overview | Settings | OpenRouter",
-            "note": "openrouter.ai"
+            "start": "16:56",
+            "title": "Workspace Overview | Settings | OpenRouter"
           },
           {
-            "start": "16:59",
+            "cat": "personal",
             "end": "17:02",
-            "cat": "personal",
+            "note": "facebook.com",
             "src": "chrome",
-            "title": "(3) Facebook",
-            "note": "facebook.com"
+            "start": "16:59",
+            "title": "(3) Facebook"
           },
           {
-            "start": "17:02",
+            "cat": "coding",
             "end": "17:03",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "17:02",
+            "title": "VSCode"
           },
           {
-            "start": "17:03",
+            "cat": "coding",
             "end": "17:07",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "17:03",
+            "title": "VSCode"
           },
           {
-            "start": "17:07",
+            "cat": "personal",
             "end": "17:08",
-            "cat": "personal",
+            "note": "facebook.com",
             "src": "chrome",
-            "title": "(3) Facebook",
-            "note": "facebook.com"
+            "start": "17:07",
+            "title": "(3) Facebook"
           },
           {
-            "start": "17:08",
+            "cat": "personal",
             "end": "17:22",
-            "cat": "personal",
+            "note": "facebook.com",
             "src": "chrome",
-            "title": "(3) Facebook",
-            "note": "facebook.com"
+            "start": "17:08",
+            "title": "(3) Facebook"
           },
           {
-            "start": "17:28",
+            "cat": "writing",
             "end": "17:33",
-            "cat": "writing",
+            "note": "1 hit",
             "src": "local",
-            "title": "codex.txt",
-            "note": "1 hit"
+            "start": "17:28",
+            "title": "codex.txt"
           },
           {
-            "start": "17:37",
+            "cat": "coding",
             "end": "17:41",
-            "cat": "coding",
+            "note": "5 hits",
             "src": "local",
-            "title": "candidates.json",
-            "note": "5 hits"
+            "start": "17:37",
+            "title": "candidates.json"
           },
           {
-            "start": "17:41",
+            "cat": "coding",
             "end": "17:46",
-            "cat": "coding",
+            "note": "5 hits",
             "src": "local",
-            "title": "candidates.json",
-            "note": "5 hits"
+            "start": "17:41",
+            "title": "candidates.json"
           },
           {
-            "start": "17:46",
+            "cat": "writing",
             "end": "17:48",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "17:46",
+            "title": "reward.txt"
           },
           {
-            "start": "17:48",
+            "cat": "writing",
             "end": "17:53",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "17:48",
+            "title": "reward.txt"
           },
           {
-            "start": "17:53",
+            "cat": "writing",
             "end": "17:54",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "17:53",
+            "title": "reward.txt"
           },
           {
-            "start": "17:55",
+            "cat": "writing",
             "end": "17:59",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "start": "17:55",
+            "title": "reward.txt"
           },
           {
-            "start": "18:39",
+            "cat": "coding",
             "end": "19:06",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "18:39",
+            "title": "VSCode"
           },
           {
-            "start": "19:20",
+            "cat": "coding",
             "end": "19:25",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "19:20",
+            "title": "VSCode"
           },
           {
-            "start": "19:27",
+            "cat": "research",
             "end": "19:46",
-            "cat": "research",
+            "note": "chat.qwen.ai",
             "src": "macos",
-            "title": "Qwen Studio",
-            "note": "chat.qwen.ai"
+            "start": "19:27",
+            "title": "Qwen Studio"
           },
           {
-            "start": "19:46",
+            "cat": "research",
             "end": "20:01",
-            "cat": "research",
+            "note": "chat.qwen.ai",
             "src": "macos",
-            "title": "Qwen Studio",
-            "note": "chat.qwen.ai"
+            "start": "19:46",
+            "title": "Qwen Studio"
           },
           {
-            "start": "20:01",
+            "cat": "coding",
             "end": "20:06",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "20:01",
+            "title": "VSCode"
           },
           {
-            "start": "20:06",
+            "cat": "coding",
             "end": "20:09",
-            "cat": "coding",
+            "note": "21 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "21 hits"
+            "start": "20:06",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "20:10",
-            "end": "20:12",
             "cat": "admin",
+            "end": "20:12",
+            "note": "bc.edu",
             "src": "macos",
-            "title": "Yiyang Zhuge",
-            "note": "bc.edu"
+            "start": "20:10",
+            "title": "Yiyang Zhuge"
           },
           {
-            "start": "20:13",
+            "cat": "personal",
             "end": "20:19",
-            "cat": "personal",
+            "note": "x.com",
             "src": "macos",
-            "title": "Yiyang Zhuge (@ZhugeYY) / X",
-            "note": "x.com"
+            "start": "20:13",
+            "title": "Yiyang Zhuge (@ZhugeYY) / X"
           },
           {
-            "start": "20:19",
+            "cat": "coding",
             "end": "20:47",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "20:19",
+            "title": "VSCode"
           },
           {
-            "start": "20:48",
+            "cat": "coding",
             "end": "20:49",
-            "cat": "coding",
+            "note": "81 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "81 hits"
+            "start": "20:48",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "20:50",
+            "cat": "coding",
             "end": "20:51",
-            "cat": "coding",
+            "note": "81 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "81 hits"
+            "start": "20:50",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "20:51",
+            "cat": "personal",
             "end": "20:54",
-            "cat": "personal",
+            "note": "amazon.com.au",
             "src": "chrome",
-            "title": "Amazon.com.au: Shop online for Electronics, Apparel, Toys, B",
-            "note": "amazon.com.au"
+            "start": "20:51",
+            "title": "Amazon.com.au: Shop online for Electronics, Apparel, Toys, B"
           },
           {
-            "start": "20:54",
+            "cat": "coding",
             "end": "21:00",
-            "cat": "coding",
+            "note": "38 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "38 hits"
+            "start": "20:54",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "21:00",
+            "cat": "personal",
             "end": "21:02",
-            "cat": "personal",
+            "note": "amazon.com.au",
             "src": "chrome",
-            "title": "Amazon.com.au: Shop online for Electronics, Apparel, Toys, B",
-            "note": "amazon.com.au"
+            "start": "21:00",
+            "title": "Amazon.com.au: Shop online for Electronics, Apparel, Toys, B"
           },
           {
-            "start": "21:02",
+            "cat": "coding",
             "end": "22:36",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "21:02",
+            "title": "VSCode"
           },
           {
-            "start": "22:49",
+            "cat": "coding",
             "end": "22:54",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "22:49",
+            "title": "VSCode"
           },
           {
-            "start": "01:58",
-            "end": "02:18",
             "cat": "personal",
+            "end": "02:18",
+            "note": "temu.com",
             "src": "chrome",
-            "title": "non slip fitness mat suitable balance exercises sweat proof ",
-            "note": "temu.com"
+            "start": "01:58",
+            "title": "non slip fitness mat suitable balance exercises sweat proof "
           }
         ],
+        "key": "2026-8-26",
         "logged": 429,
-        "real": 378,
-        "deep": 378,
         "ratio": 0.8810633105622089,
+        "real": 378,
         "stats": {
           "contextSwitches": 27,
-          "tabsOpened": 21,
+          "justOneMoreThing": 3,
           "longestFocus": "2h 14m",
-          "justOneMoreThing": 3
-        }
+          "tabsOpened": 21
+        },
+        "weekend": false
       },
       {
         "key": "2026-8-27",
@@ -71844,18 +71844,883 @@
         "weekend": false,
         "dateShort": "Thu, Aug 27",
         "dateLong": "Thursday, August 27",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "10:16",
+        "dayEnd": "05:59",
+        "events": [
+          {
+            "start": "10:16",
+            "end": "10:20",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "10:20",
+            "end": "10:21",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
+            "note": "sport.mq.edu.au"
+          },
+          {
+            "start": "10:21",
+            "end": "10:22",
+            "cat": "research",
+            "src": "macos",
+            "title": "Introducing the Seventh Cohort of Bloomberg Data Science Ph.",
+            "note": "bloomberg.com"
+          },
+          {
+            "start": "10:22",
+            "end": "10:23",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Data Science Ph.D. Fellowship | Bloomberg LP",
+            "note": "url.au.m.mimecastprotect.com"
+          },
+          {
+            "start": "10:23",
+            "end": "10:25",
+            "cat": "coding",
+            "src": "macos",
+            "title": "OpenTelemetry - CNCF",
+            "note": "github.com"
+          },
+          {
+            "start": "10:25",
+            "end": "10:26",
+            "cat": "research",
+            "src": "macos",
+            "title": "The Shift to Agentic AI: Evidence from Codex",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "10:26",
+            "end": "10:27",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Data Science Ph.D. Fellowship | Bloomberg LP",
+            "note": "url.au.m.mimecastprotect.com"
+          },
+          {
+            "start": "10:27",
+            "end": "10:35",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "10:35",
+            "end": "10:38",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Data Science Ph.D. Fellowship | Bloomberg LP",
+            "note": "url.au.m.mimecastprotect.com"
+          },
+          {
+            "start": "10:38",
+            "end": "10:39",
+            "cat": "research",
+            "src": "macos",
+            "title": "Paper page - A Multi-AI-agent Framework Enabling End-to-end ",
+            "note": "huggingface.co"
+          },
+          {
+            "start": "10:40",
+            "end": "10:41",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "10:41",
+            "end": "10:49",
+            "cat": "coding",
+            "src": "macos",
+            "title": "iterm2",
+            "note": "com.googlecode.iterm2"
+          },
+          {
+            "start": "10:49",
+            "end": "10:53",
+            "cat": "research",
+            "src": "macos",
+            "title": "Self-Harness: Harnesses That Improve Themselves",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "10:53",
+            "end": "10:55",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "10:56",
+            "end": "11:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "13 hits"
+          },
+          {
+            "start": "11:03",
+            "end": "11:09",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Paper page - A Multi-AI-agent Framework Enabling End-to-end ",
+            "note": "huggingface.co"
+          },
+          {
+            "start": "11:20",
+            "end": "11:27",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:43",
+            "end": "11:58",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:59",
+            "end": "12:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "22 hits"
+          },
+          {
+            "start": "12:03",
+            "end": "12:06",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "12:07",
+            "end": "12:16",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "12:16",
+            "end": "12:33",
+            "cat": "research",
+            "src": "macos",
+            "title": "ChatGPT",
+            "note": "chatgpt.com"
+          },
+          {
+            "start": "13:10",
+            "end": "13:13",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "3 hits"
+          },
+          {
+            "start": "13:15",
+            "end": "13:18",
+            "cat": "coding",
+            "src": "local",
+            "title": "config.json",
+            "note": "2 hits"
+          },
+          {
+            "start": "13:20",
+            "end": "13:34",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Buy Mac Studio, M5 Ultra Chip, 30-core CPU, 64-core GPU, 256",
+            "note": "apple.com"
+          },
+          {
+            "start": "13:34",
+            "end": "13:35",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Education Pricing and Student Discounts - Education - Apple ",
+            "note": "google.com"
+          },
+          {
+            "start": "13:35",
+            "end": "13:36",
+            "cat": "personal",
+            "src": "macos",
+            "title": "UNiDAYS",
+            "note": "myunidays.com"
+          },
+          {
+            "start": "13:36",
+            "end": "13:37",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Buy Mac Studio, M5 Ultra Chip, 36-core CPU, 80-core GPU, 256",
+            "note": "apple.com"
+          },
+          {
+            "start": "13:38",
+            "end": "13:42",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "13:42",
+            "end": "13:47",
+            "cat": "admin",
+            "src": "macos",
+            "title": "TV & Home - Apple (AU)",
+            "note": "apple.com"
+          },
+          {
+            "start": "13:48",
+            "end": "13:48",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "13:49",
+            "end": "13:52",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "13:52",
+            "end": "13:55",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "13:55",
+            "end": "13:55",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "13:56",
+            "end": "13:57",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Effective harnesses for long-running agents \\ Anthropic",
+            "note": "anthropic.com"
+          },
+          {
+            "start": "13:58",
+            "end": "13:58",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Level up your live entertainment lineup, Ada! - ada.ren.cn@g",
+            "note": "apple.com"
+          },
+          {
+            "start": "13:58",
+            "end": "13:59",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "14:00",
+            "end": "14:01",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "14:02",
+            "end": "14:06",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "14:06",
+            "end": "14:07",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(1) ✍🏻 2 Hours of Deep Focus BGM | Study & Work MUSIC Playli",
+            "note": "youtube.com"
+          },
+          {
+            "start": "14:07",
+            "end": "14:11",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "14:11",
+            "end": "14:16",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "14:16",
+            "end": "14:25",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "14:25",
+            "end": "14:36",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "14:36",
+            "end": "14:41",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "248 hits"
+          },
+          {
+            "start": "14:41",
+            "end": "14:44",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "248 hits"
+          },
+          {
+            "start": "14:44",
+            "end": "14:46",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "248 hits"
+          },
+          {
+            "start": "14:46",
+            "end": "14:56",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "248 hits"
+          },
+          {
+            "start": "14:56",
+            "end": "14:57",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "14:57",
+            "end": "15:11",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:11",
+            "end": "15:12",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "99 hits"
+          },
+          {
+            "start": "15:12",
+            "end": "15:13",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "99 hits"
+          },
+          {
+            "start": "15:14",
+            "end": "15:15",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "99 hits"
+          },
+          {
+            "start": "15:15",
+            "end": "15:16",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "99 hits"
+          },
+          {
+            "start": "15:16",
+            "end": "15:20",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "99 hits"
+          },
+          {
+            "start": "15:21",
+            "end": "15:22",
+            "cat": "writing",
+            "src": "macos",
+            "title": "obsidian",
+            "note": "md.obsidian"
+          },
+          {
+            "start": "15:22",
+            "end": "15:24",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "teams2",
+            "note": "com.microsoft.teams2"
+          },
+          {
+            "start": "15:24",
+            "end": "15:27",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "terms - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "15:27",
+            "end": "15:30",
+            "cat": "writing",
+            "src": "macos",
+            "title": "obsidian",
+            "note": "md.obsidian"
+          },
+          {
+            "start": "15:30",
+            "end": "15:33",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "terms - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "15:33",
+            "end": "15:35",
+            "cat": "writing",
+            "src": "macos",
+            "title": "TextEdit",
+            "note": "com.apple.TextEdit"
+          },
+          {
+            "start": "15:35",
+            "end": "15:36",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "terms - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "15:36",
+            "end": "15:37",
+            "cat": "writing",
+            "src": "macos",
+            "title": "obsidian",
+            "note": "md.obsidian"
+          },
+          {
+            "start": "15:37",
+            "end": "15:41",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "terms - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "15:41",
+            "end": "15:45",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Ideas2.pptx",
+            "note": "mqoutlook-my.sharepoint.com"
+          },
+          {
+            "start": "15:45",
+            "end": "15:46",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "23 hits"
+          },
+          {
+            "start": "15:46",
+            "end": "15:47",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "23 hits"
+          },
+          {
+            "start": "15:47",
+            "end": "15:50",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "23 hits"
+          },
+          {
+            "start": "15:50",
+            "end": "15:54",
+            "cat": "writing",
+            "src": "macos",
+            "title": "obsidian",
+            "note": "md.obsidian"
+          },
+          {
+            "start": "15:55",
+            "end": "16:00",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:00",
+            "end": "16:02",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "11 hits"
+          },
+          {
+            "start": "16:02",
+            "end": "16:03",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "Meet - vxk-wxvo-rbh",
+            "note": "meet.google.com"
+          },
+          {
+            "start": "16:03",
+            "end": "16:05",
+            "cat": "coding",
+            "src": "macos",
+            "title": "240716u3u1yy41w",
+            "note": "com.todesktop.240716u3u1yy41w"
+          },
+          {
+            "start": "16:05",
+            "end": "16:05",
+            "cat": "coding",
+            "src": "macos",
+            "title": "240716u3u1yy41w",
+            "note": "com.todesktop.240716u3u1yy41w"
+          },
+          {
+            "start": "16:05",
+            "end": "16:14",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "Meet - vxk-wxvo-rbh",
+            "note": "meet.google.com"
+          },
+          {
+            "start": "16:15",
+            "end": "16:23",
+            "cat": "meeting",
+            "src": "chrome",
+            "title": "Meet - vxk-wxvo-rbh",
+            "note": "meet.google.com"
+          },
+          {
+            "start": "16:28",
+            "end": "16:59",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "Meet - vxk-wxvo-rbh",
+            "note": "meet.google.com"
+          },
+          {
+            "start": "16:59",
+            "end": "17:01",
+            "cat": "admin",
+            "src": "macos",
+            "title": "(32) Discord | Friends",
+            "note": "discord.com"
+          },
+          {
+            "start": "17:01",
+            "end": "17:02",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "Google Meet",
+            "note": "meet.google.com"
+          },
+          {
+            "start": "17:02",
+            "end": "17:03",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "17:03",
+            "end": "17:07",
+            "cat": "coding",
+            "src": "macos",
+            "title": "240716u3u1yy41w",
+            "note": "com.todesktop.240716u3u1yy41w"
+          },
+          {
+            "start": "17:07",
+            "end": "17:21",
+            "cat": "meeting",
+            "src": "chrome",
+            "title": "Google Meet",
+            "note": "meet.google.com"
+          },
+          {
+            "start": "17:21",
+            "end": "17:26",
+            "cat": "writing",
+            "src": "chrome",
+            "title": "Untitled document - Google Docs",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "18:57",
+            "end": "19:08",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "92 hits"
+          },
+          {
+            "start": "19:08",
+            "end": "19:10",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "19:10",
+            "end": "19:11",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "19:11",
+            "end": "19:15",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Bruno Mars is bringing The Romantic Tour to Australia in Feb",
+            "note": "outlook.office.com"
+          },
+          {
+            "start": "19:15",
+            "end": "19:17",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Bruno Mars is bringing The Romantic Tour to Australia in Feb",
+            "note": "outlook.office.com"
+          },
+          {
+            "start": "19:17",
+            "end": "19:19",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Order Confirmation",
+            "note": "lululemon.com.au"
+          },
+          {
+            "start": "19:19",
+            "end": "19:25",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "19:25",
+            "end": "19:27",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(1) YouTube",
+            "note": "youtube.com"
+          },
+          {
+            "start": "19:27",
+            "end": "19:27",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Bruno Mars is bringing The Romantic Tour to Australia in Feb",
+            "note": "outlook.office.com"
+          },
+          {
+            "start": "19:27",
+            "end": "19:29",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(1) bruno mars concert - YouTube",
+            "note": "youtube.com"
+          },
+          {
+            "start": "19:29",
+            "end": "19:35",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "19:35",
+            "end": "19:40",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "License to Train Textured High-Rise Short 4\" | Lululemon AU",
+            "note": "lululemon.com.au"
+          },
+          {
+            "start": "19:40",
+            "end": "19:43",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "License to Train Textured High-Rise Short 4\" | Lululemon AU",
+            "note": "lululemon.com.au"
+          },
+          {
+            "start": "19:43",
+            "end": "19:57",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "19:57",
+            "end": "20:02",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "20:02",
+            "end": "20:07",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "20:07",
+            "end": "20:11",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "20:11",
+            "end": "20:16",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "20:16",
+            "end": "21:49",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "21:49",
+            "end": "21:54",
+            "cat": "coding",
+            "src": "local",
+            "title": "visualization.ipynb",
+            "note": "1 hit"
+          },
+          {
+            "start": "23:44",
+            "end": "23:48",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "23:50",
+            "end": "23:59",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "‎Amphetamine App - App Store",
+            "note": "apps.apple.com"
+          },
+          {
+            "start": "23:59",
+            "end": "00:00",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "00:01",
+            "end": "00:04",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "00:04",
+            "end": "05:59",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          }
+        ],
+        "logged": 889,
+        "real": 816,
+        "deep": 816,
+        "ratio": 0.9176592416467318,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "0m",
-          "justOneMoreThing": 0
+          "contextSwitches": 65,
+          "tabsOpened": 60,
+          "longestFocus": "8h 23m",
+          "justOneMoreThing": 11
         }
       },
       {
@@ -71865,18 +72730,59 @@
         "weekend": false,
         "dateShort": "Fri, Aug 28",
         "dateLong": "Friday, August 28",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "06:00",
+        "dayEnd": "10:24",
+        "events": [
+          {
+            "start": "06:00",
+            "end": "09:35",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "10:07",
+            "end": "10:13",
+            "cat": "writing",
+            "src": "local",
+            "title": "2026-08-28-gemini-omni-1-1-flash-lets-you-build-with-more-co",
+            "note": "12 hits"
+          },
+          {
+            "start": "10:14",
+            "end": "10:17",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Nvidia buys Hugging Face for $12.9B - ada.ren.cn@gmail.com -",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "10:18",
+            "end": "10:23",
+            "cat": "coding",
+            "src": "local",
+            "title": "config.json",
+            "note": "3 hits"
+          },
+          {
+            "start": "10:23",
+            "end": "10:24",
+            "cat": "writing",
+            "src": "local",
+            "title": "codex.txt",
+            "note": "1 hit"
+          }
+        ],
+        "logged": 231,
+        "real": 228,
+        "deep": 228,
+        "ratio": 0.9870367608976386,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "0m",
-          "justOneMoreThing": 0
+          "contextSwitches": 4,
+          "tabsOpened": 3,
+          "longestFocus": "3h 42m",
+          "justOneMoreThing": 1
         }
       },
       {
@@ -92200,2464 +93106,2464 @@
       "weekend": false
     },
     {
-      "key": "2026-8-25",
-      "dayNum": 25,
-      "dow": 2,
-      "weekend": false,
-      "dateShort": "Tue, Aug 25",
       "dateLong": "Tuesday, August 25",
-      "dayStart": "10:01",
+      "dateShort": "Tue, Aug 25",
       "dayEnd": "03:44",
+      "dayNum": 25,
+      "dayStart": "10:01",
+      "deep": 607,
+      "dow": 2,
       "events": [
         {
-          "start": "10:01",
+          "cat": "writing",
           "end": "10:06",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "2026-08-24-gpt-5-6-in-kiro.md",
-          "note": "1 hit"
+          "start": "10:01",
+          "title": "2026-08-24-gpt-5-6-in-kiro.md"
         },
         {
-          "start": "10:20",
+          "cat": "coding",
           "end": "10:25",
-          "cat": "coding",
+          "note": "1 hit",
           "src": "local",
-          "title": "snapshots.json",
-          "note": "1 hit"
+          "start": "10:20",
+          "title": "snapshots.json"
         },
         {
-          "start": "10:28",
+          "cat": "coding",
           "end": "10:41",
-          "cat": "coding",
+          "note": "63 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "63 hits"
+          "start": "10:28",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "10:43",
+          "cat": "coding",
           "end": "10:48",
-          "cat": "coding",
+          "note": "27 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "27 hits"
+          "start": "10:43",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "11:17",
+          "cat": "coding",
           "end": "11:32",
-          "cat": "coding",
+          "note": "157 hits",
           "src": "claude",
-          "title": "Hermes agent setup",
-          "note": "157 hits"
+          "start": "11:17",
+          "title": "Hermes agent setup"
         },
         {
-          "start": "11:49",
+          "cat": "coding",
           "end": "12:04",
-          "cat": "coding",
+          "note": "110 hits",
           "src": "claude",
-          "title": "Hermes agent setup",
-          "note": "110 hits"
+          "start": "11:49",
+          "title": "Hermes agent setup"
         },
         {
+          "cat": "coding",
+          "end": "13:59",
+          "note": "2 hits",
+          "src": "local",
           "start": "13:57",
+          "title": "config.json"
+        },
+        {
+          "cat": "coding",
           "end": "13:59",
-          "cat": "coding",
+          "note": "2 hits",
           "src": "local",
-          "title": "config.json",
-          "note": "2 hits"
-        },
-        {
           "start": "13:59",
-          "end": "13:59",
-          "cat": "coding",
-          "src": "local",
-          "title": "config.json",
-          "note": "2 hits"
+          "title": "config.json"
         },
         {
+          "cat": "coding",
+          "end": "14:01",
+          "note": "2 hits",
+          "src": "local",
           "start": "13:59",
-          "end": "14:01",
-          "cat": "coding",
-          "src": "local",
-          "title": "config.json",
-          "note": "2 hits"
+          "title": "config.json"
         },
         {
-          "start": "14:01",
-          "end": "14:01",
           "cat": "coding",
+          "end": "14:01",
+          "note": "2 hits",
           "src": "local",
-          "title": "config.json",
-          "note": "2 hits"
+          "start": "14:01",
+          "title": "config.json"
         },
         {
-          "start": "14:01",
+          "cat": "coding",
           "end": "14:02",
-          "cat": "coding",
+          "note": "2 hits",
           "src": "local",
-          "title": "config.json",
-          "note": "2 hits"
+          "start": "14:01",
+          "title": "config.json"
         },
         {
+          "cat": "writing",
+          "end": "14:04",
+          "note": "1 hit",
+          "src": "local",
           "start": "14:02",
+          "title": "hermes.txt"
+        },
+        {
+          "cat": "writing",
           "end": "14:04",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "hermes.txt",
-          "note": "1 hit"
-        },
-        {
           "start": "14:04",
-          "end": "14:04",
-          "cat": "writing",
-          "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "title": "reward.txt"
         },
         {
+          "cat": "writing",
+          "end": "14:06",
+          "note": "3 hits",
+          "src": "local",
           "start": "14:04",
-          "end": "14:06",
-          "cat": "writing",
-          "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "title": "reward.txt"
         },
         {
-          "start": "14:06",
-          "end": "14:06",
           "cat": "writing",
+          "end": "14:06",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "14:06",
+          "title": "reward.txt"
         },
         {
-          "start": "14:06",
+          "cat": "writing",
           "end": "14:07",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "14:06",
+          "title": "reward.txt"
         },
         {
-          "start": "14:07",
+          "cat": "coding",
           "end": "14:19",
-          "cat": "coding",
+          "note": "3 hits",
           "src": "local",
-          "title": "result.json",
-          "note": "3 hits"
+          "start": "14:07",
+          "title": "result.json"
         },
         {
-          "start": "14:19",
+          "cat": "writing",
           "end": "14:23",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "hermes.txt",
-          "note": "1 hit"
+          "start": "14:19",
+          "title": "hermes.txt"
         },
         {
-          "start": "14:23",
+          "cat": "writing",
           "end": "14:24",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "hermes.txt",
-          "note": "1 hit"
+          "start": "14:23",
+          "title": "hermes.txt"
         },
         {
-          "start": "14:24",
+          "cat": "writing",
           "end": "14:28",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "14:24",
+          "title": "reward.txt"
         },
         {
-          "start": "14:28",
+          "cat": "writing",
           "end": "14:32",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "14:28",
+          "title": "reward.txt"
         },
         {
-          "start": "14:32",
+          "cat": "writing",
           "end": "14:35",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "14:32",
+          "title": "reward.txt"
         },
         {
-          "start": "14:35",
+          "cat": "writing",
           "end": "14:37",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "14:35",
+          "title": "reward.txt"
         },
         {
-          "start": "14:37",
+          "cat": "coding",
           "end": "14:38",
-          "cat": "coding",
+          "note": "1 hit",
           "src": "local",
-          "title": "lock.json",
-          "note": "1 hit"
+          "start": "14:37",
+          "title": "lock.json"
         },
         {
-          "start": "14:38",
+          "cat": "writing",
           "end": "14:40",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "hermes.txt",
-          "note": "1 hit"
+          "start": "14:38",
+          "title": "hermes.txt"
         },
         {
-          "start": "14:44",
+          "cat": "coding",
           "end": "14:46",
-          "cat": "coding",
+          "note": "1 hit",
           "src": "local",
-          "title": "lock.json",
-          "note": "1 hit"
+          "start": "14:44",
+          "title": "lock.json"
         },
         {
-          "start": "14:46",
+          "cat": "coding",
           "end": "14:49",
-          "cat": "coding",
+          "note": "1 hit",
           "src": "local",
-          "title": "lock.json",
-          "note": "1 hit"
+          "start": "14:46",
+          "title": "lock.json"
         },
         {
-          "start": "14:49",
+          "cat": "writing",
           "end": "14:51",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "hermes.txt",
-          "note": "1 hit"
+          "start": "14:49",
+          "title": "hermes.txt"
         },
         {
-          "start": "14:51",
+          "cat": "coding",
           "end": "14:59",
-          "cat": "coding",
+          "note": "4 hits",
           "src": "local",
-          "title": "result.json",
-          "note": "4 hits"
+          "start": "14:51",
+          "title": "result.json"
         },
         {
-          "start": "15:11",
+          "cat": "writing",
           "end": "15:16",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "README.md",
-          "note": "1 hit"
+          "start": "15:11",
+          "title": "README.md"
         },
         {
-          "start": "15:18",
+          "cat": "coding",
           "end": "15:23",
-          "cat": "coding",
+          "note": "2 hits",
           "src": "local",
-          "title": "evaluation.py",
-          "note": "2 hits"
+          "start": "15:18",
+          "title": "evaluation.py"
         },
         {
-          "start": "15:24",
+          "cat": "writing",
           "end": "15:29",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "hermes.txt",
-          "note": "1 hit"
+          "start": "15:24",
+          "title": "hermes.txt"
         },
         {
-          "start": "15:54",
+          "cat": "writing",
           "end": "15:59",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "hermes.txt",
-          "note": "1 hit"
+          "start": "15:54",
+          "title": "hermes.txt"
         },
         {
-          "start": "16:11",
+          "cat": "coding",
           "end": "16:19",
-          "cat": "coding",
+          "note": "73 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "73 hits"
+          "start": "16:11",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "16:24",
+          "cat": "writing",
           "end": "16:29",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "hermes.txt",
-          "note": "1 hit"
+          "start": "16:24",
+          "title": "hermes.txt"
         },
         {
-          "start": "16:29",
+          "cat": "writing",
           "end": "16:36",
-          "cat": "writing",
+          "note": "4 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "4 hits"
+          "start": "16:29",
+          "title": "reward.txt"
         },
         {
-          "start": "16:38",
+          "cat": "coding",
           "end": "16:48",
-          "cat": "coding",
+          "note": "96 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "96 hits"
+          "start": "16:38",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "16:52",
+          "cat": "coding",
           "end": "16:57",
-          "cat": "coding",
+          "note": "56 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "56 hits"
+          "start": "16:52",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "16:57",
+          "cat": "coding",
           "end": "16:59",
-          "cat": "coding",
+          "note": "56 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "56 hits"
+          "start": "16:57",
+          "title": "Claude session · harbor"
         },
         {
+          "cat": "coding",
+          "end": "17:01",
+          "note": "56 hits",
+          "src": "claude",
           "start": "17:00",
-          "end": "17:01",
-          "cat": "coding",
-          "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "56 hits"
+          "title": "Claude session · harbor"
         },
         {
+          "cat": "coding",
+          "end": "17:01",
+          "note": "56 hits",
+          "src": "claude",
           "start": "17:01",
-          "end": "17:01",
-          "cat": "coding",
-          "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "56 hits"
+          "title": "Claude session · harbor"
         },
         {
-          "start": "17:02",
+          "cat": "coding",
           "end": "17:03",
-          "cat": "coding",
+          "note": "56 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "56 hits"
+          "start": "17:02",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "17:03",
+          "cat": "writing",
           "end": "17:04",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
+          "start": "17:03",
+          "title": "claude-code.txt"
         },
         {
-          "start": "17:05",
+          "cat": "writing",
           "end": "17:06",
-          "cat": "writing",
+          "note": "4 hits",
           "src": "local",
-          "title": "b2m8gvb5s.txt",
-          "note": "4 hits"
+          "start": "17:05",
+          "title": "b2m8gvb5s.txt"
         },
         {
-          "start": "17:06",
+          "cat": "coding",
           "end": "17:08",
-          "cat": "coding",
+          "note": "20 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "20 hits"
+          "start": "17:06",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "17:08",
+          "cat": "coding",
           "end": "17:10",
-          "cat": "coding",
+          "note": "20 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "20 hits"
+          "start": "17:08",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "17:10",
+          "cat": "coding",
           "end": "17:11",
-          "cat": "coding",
+          "note": "20 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "20 hits"
+          "start": "17:10",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "18:48",
+          "cat": "coding",
           "end": "18:56",
-          "cat": "coding",
+          "note": "2 hits",
           "src": "local",
-          "title": "config.json",
-          "note": "2 hits"
+          "start": "18:48",
+          "title": "config.json"
         },
         {
-          "start": "18:56",
+          "cat": "coding",
           "end": "19:00",
-          "cat": "coding",
+          "note": "78 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "78 hits"
+          "start": "18:56",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "19:00",
+          "cat": "coding",
           "end": "19:01",
-          "cat": "coding",
+          "note": "78 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "78 hits"
+          "start": "19:00",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "19:01",
+          "cat": "coding",
           "end": "19:03",
-          "cat": "coding",
+          "note": "78 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "78 hits"
+          "start": "19:01",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "19:03",
+          "cat": "writing",
           "end": "19:05",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "19:03",
+          "title": "reward.txt"
         },
         {
-          "start": "19:05",
+          "cat": "writing",
           "end": "19:11",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "19:05",
+          "title": "reward.txt"
         },
         {
-          "start": "19:11",
+          "cat": "writing",
           "end": "19:13",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "19:11",
+          "title": "reward.txt"
         },
         {
-          "start": "19:13",
+          "cat": "writing",
           "end": "19:16",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "19:13",
+          "title": "reward.txt"
         },
         {
-          "start": "19:16",
+          "cat": "writing",
           "end": "19:18",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "19:16",
+          "title": "reward.txt"
         },
         {
-          "start": "19:18",
+          "cat": "writing",
           "end": "19:21",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "19:18",
+          "title": "reward.txt"
         },
         {
-          "start": "19:21",
+          "cat": "coding",
           "end": "19:30",
-          "cat": "coding",
+          "note": "4 hits",
           "src": "local",
-          "title": "result.json",
-          "note": "4 hits"
+          "start": "19:21",
+          "title": "result.json"
         },
         {
-          "start": "19:30",
+          "cat": "coding",
           "end": "19:31",
-          "cat": "coding",
+          "note": "4 hits",
           "src": "local",
-          "title": "result.json",
-          "note": "4 hits"
+          "start": "19:30",
+          "title": "result.json"
         },
         {
-          "start": "19:31",
+          "cat": "coding",
           "end": "19:34",
-          "cat": "coding",
+          "note": "4 hits",
           "src": "local",
-          "title": "result.json",
-          "note": "4 hits"
+          "start": "19:31",
+          "title": "result.json"
         },
         {
-          "start": "19:35",
+          "cat": "writing",
           "end": "19:35",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "19:35",
+          "title": "reward.txt"
         },
         {
-          "start": "19:36",
+          "cat": "writing",
           "end": "19:39",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "hermes.txt",
-          "note": "1 hit"
+          "start": "19:36",
+          "title": "hermes.txt"
         },
         {
-          "start": "19:39",
+          "cat": "coding",
           "end": "19:40",
-          "cat": "coding",
+          "note": "3 hits",
           "src": "local",
-          "title": "analyze.py",
-          "note": "3 hits"
+          "start": "19:39",
+          "title": "analyze.py"
         },
         {
-          "start": "19:40",
+          "cat": "coding",
           "end": "19:42",
-          "cat": "coding",
+          "note": "3 hits",
           "src": "local",
-          "title": "analyze.py",
-          "note": "3 hits"
+          "start": "19:40",
+          "title": "analyze.py"
         },
         {
-          "start": "19:42",
+          "cat": "coding",
           "end": "19:43",
-          "cat": "coding",
+          "note": "3 hits",
           "src": "local",
-          "title": "analyze.py",
-          "note": "3 hits"
+          "start": "19:42",
+          "title": "analyze.py"
         },
         {
-          "start": "19:43",
+          "cat": "writing",
           "end": "19:45",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "hermes.txt",
-          "note": "1 hit"
+          "start": "19:43",
+          "title": "hermes.txt"
         },
         {
+          "cat": "writing",
+          "end": "19:47",
+          "note": "3 hits",
+          "src": "local",
           "start": "19:45",
-          "end": "19:47",
-          "cat": "writing",
-          "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "title": "reward.txt"
         },
         {
-          "start": "19:47",
-          "end": "19:47",
           "cat": "writing",
+          "end": "19:47",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "19:47",
+          "title": "reward.txt"
         },
         {
-          "start": "19:47",
+          "cat": "writing",
           "end": "19:50",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "19:47",
+          "title": "reward.txt"
         },
         {
+          "cat": "writing",
+          "end": "19:52",
+          "note": "3 hits",
+          "src": "local",
           "start": "19:50",
-          "end": "19:52",
-          "cat": "writing",
-          "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "title": "reward.txt"
         },
         {
+          "cat": "coding",
+          "end": "19:52",
+          "note": "4 hits",
+          "src": "local",
           "start": "19:52",
-          "end": "19:52",
-          "cat": "coding",
-          "src": "local",
-          "title": "result.json",
-          "note": "4 hits"
+          "title": "result.json"
         },
         {
-          "start": "19:54",
+          "cat": "coding",
           "end": "19:57",
-          "cat": "coding",
+          "note": "4 hits",
           "src": "local",
-          "title": "result.json",
-          "note": "4 hits"
+          "start": "19:54",
+          "title": "result.json"
         },
         {
-          "start": "19:59",
+          "cat": "coding",
           "end": "20:05",
-          "cat": "coding",
+          "note": "3 hits",
           "src": "local",
-          "title": "result.json",
-          "note": "3 hits"
+          "start": "19:59",
+          "title": "result.json"
         },
         {
-          "start": "20:05",
+          "cat": "coding",
           "end": "20:09",
-          "cat": "coding",
+          "note": "132 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "132 hits"
+          "start": "20:05",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "20:09",
+          "cat": "coding",
           "end": "20:13",
-          "cat": "coding",
+          "note": "132 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "132 hits"
+          "start": "20:09",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "20:13",
+          "cat": "coding",
           "end": "20:14",
-          "cat": "coding",
+          "note": "132 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "132 hits"
+          "start": "20:13",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "20:14",
+          "cat": "coding",
           "end": "20:18",
-          "cat": "coding",
+          "note": "132 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "132 hits"
+          "start": "20:14",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "20:18",
+          "cat": "coding",
           "end": "20:19",
-          "cat": "coding",
+          "note": "132 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "132 hits"
+          "start": "20:18",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "20:19",
+          "cat": "coding",
           "end": "20:23",
-          "cat": "coding",
+          "note": "132 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "132 hits"
+          "start": "20:19",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "20:23",
+          "cat": "writing",
           "end": "20:24",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "20:23",
+          "title": "reward.txt"
         },
         {
-          "start": "20:24",
+          "cat": "writing",
           "end": "20:26",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "20:24",
+          "title": "reward.txt"
         },
         {
-          "start": "20:26",
+          "cat": "writing",
           "end": "20:28",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "20:26",
+          "title": "reward.txt"
         },
         {
-          "start": "20:28",
+          "cat": "writing",
           "end": "20:31",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "20:28",
+          "title": "reward.txt"
         },
         {
-          "start": "20:31",
+          "cat": "writing",
           "end": "20:33",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "20:31",
+          "title": "reward.txt"
         },
         {
-          "start": "20:33",
+          "cat": "coding",
           "end": "20:36",
-          "cat": "coding",
+          "note": "6 hits",
           "src": "local",
-          "title": "result.json",
-          "note": "6 hits"
+          "start": "20:33",
+          "title": "result.json"
         },
         {
-          "start": "20:38",
+          "cat": "coding",
           "end": "20:40",
-          "cat": "coding",
+          "note": "6 hits",
           "src": "local",
-          "title": "result.json",
-          "note": "6 hits"
+          "start": "20:38",
+          "title": "result.json"
         },
         {
-          "start": "20:40",
+          "cat": "writing",
           "end": "20:41",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "hermes.txt",
-          "note": "1 hit"
+          "start": "20:40",
+          "title": "hermes.txt"
         },
         {
-          "start": "20:43",
+          "cat": "coding",
           "end": "20:44",
-          "cat": "coding",
+          "note": "30 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "30 hits"
+          "start": "20:43",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "20:44",
+          "cat": "coding",
           "end": "20:48",
-          "cat": "coding",
+          "note": "30 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "30 hits"
+          "start": "20:44",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "20:49",
+          "cat": "writing",
           "end": "20:53",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "20:49",
+          "title": "reward.txt"
         },
         {
-          "start": "20:53",
+          "cat": "writing",
           "end": "20:54",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "20:53",
+          "title": "reward.txt"
         },
         {
-          "start": "20:54",
+          "cat": "coding",
           "end": "20:57",
-          "cat": "coding",
+          "note": "30 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "30 hits"
+          "start": "20:54",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "20:57",
+          "cat": "coding",
           "end": "20:59",
-          "cat": "coding",
+          "note": "30 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "30 hits"
+          "start": "20:57",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "20:59",
+          "cat": "coding",
           "end": "21:01",
-          "cat": "coding",
+          "note": "30 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "30 hits"
+          "start": "20:59",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "21:02",
+          "cat": "writing",
           "end": "21:02",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
-        },
-        {
           "start": "21:02",
+          "title": "reward.txt"
+        },
+        {
+          "cat": "writing",
           "end": "21:07",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "21:02",
+          "title": "reward.txt"
         },
         {
-          "start": "21:07",
+          "cat": "coding",
           "end": "21:09",
-          "cat": "coding",
+          "note": "4 hits",
           "src": "local",
-          "title": "result.json",
-          "note": "4 hits"
+          "start": "21:07",
+          "title": "result.json"
         },
         {
-          "start": "21:12",
+          "cat": "writing",
           "end": "21:13",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "hermes.txt",
-          "note": "1 hit"
+          "start": "21:12",
+          "title": "hermes.txt"
         },
         {
+          "cat": "writing",
+          "end": "21:15",
+          "note": "1 hit",
+          "src": "local",
           "start": "21:13",
-          "end": "21:15",
-          "cat": "writing",
-          "src": "local",
-          "title": "hermes.txt",
-          "note": "1 hit"
+          "title": "hermes.txt"
         },
         {
+          "cat": "writing",
+          "end": "21:15",
+          "note": "1 hit",
+          "src": "local",
           "start": "21:15",
-          "end": "21:15",
-          "cat": "writing",
-          "src": "local",
-          "title": "hermes.txt",
-          "note": "1 hit"
+          "title": "hermes.txt"
         },
         {
-          "start": "21:17",
+          "cat": "writing",
           "end": "21:18",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "hermes.txt",
-          "note": "1 hit"
+          "start": "21:17",
+          "title": "hermes.txt"
         },
         {
-          "start": "21:18",
+          "cat": "coding",
           "end": "21:19",
-          "cat": "coding",
+          "note": "34 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "34 hits"
+          "start": "21:18",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "21:19",
+          "cat": "coding",
           "end": "21:20",
-          "cat": "coding",
+          "note": "34 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "34 hits"
+          "start": "21:19",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "21:20",
+          "cat": "coding",
           "end": "21:21",
-          "cat": "coding",
+          "note": "34 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "34 hits"
+          "start": "21:20",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "21:21",
+          "cat": "coding",
           "end": "21:22",
-          "cat": "coding",
+          "note": "34 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "34 hits"
+          "start": "21:21",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "21:22",
+          "cat": "coding",
           "end": "21:24",
-          "cat": "coding",
+          "note": "34 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "34 hits"
+          "start": "21:22",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "21:26",
+          "cat": "coding",
           "end": "21:29",
-          "cat": "coding",
+          "note": "9 hits",
           "src": "local",
-          "title": "result.json",
-          "note": "9 hits"
+          "start": "21:26",
+          "title": "result.json"
         },
         {
-          "start": "21:29",
+          "cat": "coding",
           "end": "21:30",
-          "cat": "coding",
+          "note": "2 hits",
           "src": "local",
-          "title": "task2_finalize.py",
-          "note": "2 hits"
+          "start": "21:29",
+          "title": "task2_finalize.py"
         },
         {
-          "start": "21:31",
+          "cat": "coding",
           "end": "21:33",
-          "cat": "coding",
+          "note": "3 hits",
           "src": "local",
-          "title": "result.json",
-          "note": "3 hits"
+          "start": "21:31",
+          "title": "result.json"
         },
         {
-          "start": "21:33",
+          "cat": "coding",
           "end": "21:34",
-          "cat": "coding",
+          "note": "3 hits",
           "src": "local",
-          "title": "result.json",
-          "note": "3 hits"
+          "start": "21:33",
+          "title": "result.json"
         },
         {
-          "start": "21:35",
+          "cat": "writing",
           "end": "21:36",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "hermes.txt",
-          "note": "1 hit"
+          "start": "21:35",
+          "title": "hermes.txt"
         },
         {
-          "start": "21:36",
+          "cat": "writing",
           "end": "21:37",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "21:36",
+          "title": "reward.txt"
         },
         {
+          "cat": "coding",
+          "end": "21:38",
+          "note": "78 hits",
+          "src": "claude",
           "start": "21:37",
-          "end": "21:38",
-          "cat": "coding",
-          "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "78 hits"
+          "title": "Claude session · harbor"
         },
         {
-          "start": "21:38",
-          "end": "21:38",
           "cat": "coding",
+          "end": "21:38",
+          "note": "78 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "78 hits"
+          "start": "21:38",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "21:38",
+          "cat": "coding",
           "end": "21:40",
-          "cat": "coding",
+          "note": "78 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "78 hits"
+          "start": "21:38",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "21:40",
+          "cat": "coding",
           "end": "21:41",
-          "cat": "coding",
+          "note": "78 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "78 hits"
+          "start": "21:40",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "21:43",
+          "cat": "coding",
           "end": "21:43",
-          "cat": "coding",
+          "note": "78 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "78 hits"
-        },
-        {
           "start": "21:43",
+          "title": "Claude session · harbor"
+        },
+        {
+          "cat": "coding",
           "end": "21:45",
-          "cat": "coding",
+          "note": "78 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "78 hits"
+          "start": "21:43",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "21:45",
+          "cat": "coding",
           "end": "21:46",
-          "cat": "coding",
+          "note": "78 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "78 hits"
+          "start": "21:45",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "21:48",
+          "cat": "coding",
           "end": "21:48",
-          "cat": "coding",
+          "note": "78 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "78 hits"
-        },
-        {
           "start": "21:48",
+          "title": "Claude session · harbor"
+        },
+        {
+          "cat": "coding",
           "end": "21:50",
-          "cat": "coding",
+          "note": "78 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "78 hits"
+          "start": "21:48",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "21:50",
+          "cat": "writing",
           "end": "21:51",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "21:50",
+          "title": "reward.txt"
         },
         {
-          "start": "21:52",
+          "cat": "writing",
           "end": "21:53",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "21:52",
+          "title": "reward.txt"
         },
         {
-          "start": "21:53",
+          "cat": "writing",
           "end": "21:55",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "21:53",
+          "title": "reward.txt"
         },
         {
-          "start": "21:55",
+          "cat": "writing",
           "end": "21:56",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "21:55",
+          "title": "reward.txt"
         },
         {
-          "start": "21:56",
+          "cat": "coding",
           "end": "21:57",
-          "cat": "coding",
+          "note": "13 hits",
           "src": "local",
-          "title": "result.json",
-          "note": "13 hits"
+          "start": "21:56",
+          "title": "result.json"
         },
         {
-          "start": "21:59",
+          "cat": "coding",
           "end": "22:00",
-          "cat": "coding",
+          "note": "13 hits",
           "src": "local",
-          "title": "result.json",
-          "note": "13 hits"
+          "start": "21:59",
+          "title": "result.json"
         },
         {
-          "start": "22:00",
+          "cat": "writing",
           "end": "22:02",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "hermes.txt",
-          "note": "1 hit"
+          "start": "22:00",
+          "title": "hermes.txt"
         },
         {
-          "start": "22:04",
+          "cat": "writing",
           "end": "22:04",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "hermes.txt",
-          "note": "1 hit"
-        },
-        {
           "start": "22:04",
+          "title": "hermes.txt"
+        },
+        {
+          "cat": "writing",
           "end": "22:05",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "hermes.txt",
-          "note": "1 hit"
+          "start": "22:04",
+          "title": "hermes.txt"
         },
         {
-          "start": "22:05",
+          "cat": "writing",
           "end": "22:06",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "22:05",
+          "title": "reward.txt"
         },
         {
-          "start": "22:06",
+          "cat": "writing",
           "end": "22:08",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "22:06",
+          "title": "reward.txt"
         },
         {
-          "start": "22:08",
+          "cat": "writing",
           "end": "22:09",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "22:08",
+          "title": "reward.txt"
         },
         {
-          "start": "22:09",
+          "cat": "writing",
           "end": "22:10",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "22:09",
+          "title": "reward.txt"
         },
         {
-          "start": "22:12",
+          "cat": "writing",
           "end": "22:13",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "22:12",
+          "title": "reward.txt"
         },
         {
-          "start": "22:13",
+          "cat": "coding",
           "end": "22:15",
-          "cat": "coding",
+          "note": "7 hits",
           "src": "local",
-          "title": "result.json",
-          "note": "7 hits"
+          "start": "22:13",
+          "title": "result.json"
         },
         {
-          "start": "22:46",
+          "cat": "coding",
           "end": "22:53",
-          "cat": "coding",
+          "note": "5 hits",
           "src": "local",
-          "title": "config.json",
-          "note": "5 hits"
+          "start": "22:46",
+          "title": "config.json"
         },
         {
-          "start": "22:54",
+          "cat": "coding",
           "end": "22:58",
-          "cat": "coding",
+          "note": "5 hits",
           "src": "local",
-          "title": "config.json",
-          "note": "5 hits"
+          "start": "22:54",
+          "title": "config.json"
         },
         {
-          "start": "22:59",
+          "cat": "coding",
           "end": "23:03",
-          "cat": "coding",
+          "note": "1 hit",
           "src": "local",
-          "title": "final.py",
-          "note": "1 hit"
+          "start": "22:59",
+          "title": "final.py"
         },
         {
-          "start": "23:03",
+          "cat": "coding",
           "end": "23:04",
-          "cat": "coding",
+          "note": "1 hit",
           "src": "local",
-          "title": "final.py",
-          "note": "1 hit"
+          "start": "23:03",
+          "title": "final.py"
         },
         {
-          "start": "23:04",
+          "cat": "coding",
           "end": "23:05",
-          "cat": "coding",
+          "note": "1 hit",
           "src": "local",
-          "title": "final.py",
-          "note": "1 hit"
+          "start": "23:04",
+          "title": "final.py"
         },
         {
-          "start": "23:06",
+          "cat": "coding",
           "end": "23:07",
-          "cat": "coding",
+          "note": "1 hit",
           "src": "local",
-          "title": "final.py",
-          "note": "1 hit"
+          "start": "23:06",
+          "title": "final.py"
         },
         {
-          "start": "23:08",
+          "cat": "coding",
           "end": "23:10",
-          "cat": "coding",
+          "note": "1 hit",
           "src": "local",
-          "title": "final.py",
-          "note": "1 hit"
+          "start": "23:08",
+          "title": "final.py"
         },
         {
-          "start": "23:11",
+          "cat": "coding",
           "end": "23:12",
-          "cat": "coding",
+          "note": "1 hit",
           "src": "local",
-          "title": "final.py",
-          "note": "1 hit"
+          "start": "23:11",
+          "title": "final.py"
         },
         {
-          "start": "23:12",
+          "cat": "coding",
           "end": "23:19",
-          "cat": "coding",
+          "note": "4 hits",
           "src": "local",
-          "title": "result.json",
-          "note": "4 hits"
+          "start": "23:12",
+          "title": "result.json"
         },
         {
-          "start": "23:19",
+          "cat": "coding",
           "end": "23:20",
-          "cat": "coding",
+          "note": "4 hits",
           "src": "local",
-          "title": "result.json",
-          "note": "4 hits"
+          "start": "23:19",
+          "title": "result.json"
         },
         {
-          "start": "23:21",
+          "cat": "coding",
           "end": "23:22",
-          "cat": "coding",
+          "note": "4 hits",
           "src": "local",
-          "title": "result.json",
-          "note": "4 hits"
+          "start": "23:21",
+          "title": "result.json"
         },
         {
-          "start": "23:22",
+          "cat": "writing",
           "end": "23:24",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "hermes.txt",
-          "note": "1 hit"
+          "start": "23:22",
+          "title": "hermes.txt"
         },
         {
-          "start": "23:24",
+          "cat": "writing",
           "end": "23:25",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "23:24",
+          "title": "reward.txt"
         },
         {
-          "start": "23:28",
+          "cat": "writing",
           "end": "23:32",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "hermes.txt",
-          "note": "1 hit"
+          "start": "23:28",
+          "title": "hermes.txt"
         },
         {
-          "start": "23:33",
+          "cat": "writing",
           "end": "23:37",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "23:33",
+          "title": "reward.txt"
         },
         {
-          "start": "23:38",
+          "cat": "coding",
           "end": "23:40",
-          "cat": "coding",
+          "note": "3 hits",
           "src": "local",
-          "title": "analyze.py",
-          "note": "3 hits"
+          "start": "23:38",
+          "title": "analyze.py"
         },
         {
-          "start": "23:40",
+          "cat": "coding",
           "end": "23:44",
-          "cat": "coding",
+          "note": "3 hits",
           "src": "local",
-          "title": "analyze.py",
-          "note": "3 hits"
+          "start": "23:40",
+          "title": "analyze.py"
         },
         {
-          "start": "23:44",
+          "cat": "writing",
           "end": "23:45",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "hermes.txt",
-          "note": "1 hit"
+          "start": "23:44",
+          "title": "hermes.txt"
         },
         {
-          "start": "23:45",
+          "cat": "writing",
           "end": "23:50",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "23:45",
+          "title": "reward.txt"
         },
         {
-          "start": "23:50",
+          "cat": "writing",
           "end": "23:53",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "23:50",
+          "title": "reward.txt"
         },
         {
-          "start": "23:53",
+          "cat": "writing",
           "end": "23:58",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "23:53",
+          "title": "reward.txt"
         },
         {
-          "start": "23:58",
+          "cat": "coding",
           "end": "00:04",
-          "cat": "coding",
+          "note": "5 hits",
           "src": "local",
-          "title": "result.json",
-          "note": "5 hits"
+          "start": "23:58",
+          "title": "result.json"
         },
         {
-          "start": "00:06",
+          "cat": "coding",
           "end": "00:09",
-          "cat": "coding",
+          "note": "5 hits",
           "src": "local",
-          "title": "result.json",
-          "note": "5 hits"
+          "start": "00:06",
+          "title": "result.json"
         },
         {
-          "start": "00:09",
+          "cat": "writing",
           "end": "00:10",
-          "cat": "writing",
+          "note": "2 hits",
           "src": "local",
-          "title": "README.md",
-          "note": "2 hits"
+          "start": "00:09",
+          "title": "README.md"
         },
         {
-          "start": "00:13",
+          "cat": "writing",
           "end": "00:18",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "hermes.txt",
-          "note": "1 hit"
+          "start": "00:13",
+          "title": "hermes.txt"
         },
         {
-          "start": "00:18",
+          "cat": "writing",
           "end": "00:22",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "00:18",
+          "title": "reward.txt"
         },
         {
-          "start": "00:22",
+          "cat": "writing",
           "end": "00:27",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "00:22",
+          "title": "reward.txt"
         },
         {
-          "start": "00:27",
+          "cat": "coding",
           "end": "00:30",
-          "cat": "coding",
+          "note": "2 hits",
           "src": "local",
-          "title": "compute.py",
-          "note": "2 hits"
+          "start": "00:27",
+          "title": "compute.py"
         },
         {
-          "start": "00:30",
+          "cat": "coding",
           "end": "00:34",
-          "cat": "coding",
+          "note": "2 hits",
           "src": "local",
-          "title": "compute.py",
-          "note": "2 hits"
+          "start": "00:30",
+          "title": "compute.py"
         },
         {
-          "start": "00:34",
+          "cat": "writing",
           "end": "00:35",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "hermes.txt",
-          "note": "1 hit"
+          "start": "00:34",
+          "title": "hermes.txt"
         },
         {
-          "start": "00:35",
+          "cat": "writing",
           "end": "00:36",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "00:35",
+          "title": "reward.txt"
         },
         {
-          "start": "00:36",
+          "cat": "writing",
           "end": "00:37",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "00:36",
+          "title": "reward.txt"
         },
         {
-          "start": "00:37",
+          "cat": "writing",
           "end": "00:41",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "00:37",
+          "title": "reward.txt"
         },
         {
-          "start": "00:41",
+          "cat": "writing",
           "end": "00:42",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "00:41",
+          "title": "reward.txt"
         },
         {
-          "start": "00:42",
+          "cat": "coding",
           "end": "00:49",
-          "cat": "coding",
+          "note": "4 hits",
           "src": "local",
-          "title": "result.json",
-          "note": "4 hits"
+          "start": "00:42",
+          "title": "result.json"
         },
         {
-          "start": "00:49",
+          "cat": "coding",
           "end": "00:50",
-          "cat": "coding",
+          "note": "4 hits",
           "src": "local",
-          "title": "result.json",
-          "note": "4 hits"
+          "start": "00:49",
+          "title": "result.json"
         },
         {
-          "start": "00:51",
+          "cat": "coding",
           "end": "00:52",
-          "cat": "coding",
+          "note": "4 hits",
           "src": "local",
-          "title": "result.json",
-          "note": "4 hits"
+          "start": "00:51",
+          "title": "result.json"
         },
         {
-          "start": "00:52",
+          "cat": "writing",
           "end": "00:54",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "hermes.txt",
-          "note": "1 hit"
+          "start": "00:52",
+          "title": "hermes.txt"
         },
         {
-          "start": "00:54",
+          "cat": "writing",
           "end": "00:55",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "hermes.txt",
-          "note": "1 hit"
+          "start": "00:54",
+          "title": "hermes.txt"
         },
         {
-          "start": "01:00",
+          "cat": "writing",
           "end": "01:05",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "hermes.txt",
-          "note": "1 hit"
+          "start": "01:00",
+          "title": "hermes.txt"
         },
         {
-          "start": "01:05",
+          "cat": "writing",
           "end": "01:06",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "01:05",
+          "title": "reward.txt"
         },
         {
-          "start": "01:06",
+          "cat": "writing",
           "end": "01:11",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "01:06",
+          "title": "reward.txt"
         },
         {
-          "start": "01:11",
+          "cat": "coding",
           "end": "01:15",
-          "cat": "coding",
+          "note": "2 hits",
           "src": "local",
-          "title": "compute.py",
-          "note": "2 hits"
+          "start": "01:11",
+          "title": "compute.py"
         },
         {
-          "start": "01:15",
+          "cat": "coding",
           "end": "01:18",
-          "cat": "coding",
+          "note": "2 hits",
           "src": "local",
-          "title": "compute.py",
-          "note": "2 hits"
+          "start": "01:15",
+          "title": "compute.py"
         },
         {
-          "start": "01:18",
+          "cat": "writing",
           "end": "01:20",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "hermes.txt",
-          "note": "1 hit"
+          "start": "01:18",
+          "title": "hermes.txt"
         },
         {
-          "start": "01:20",
+          "cat": "coding",
           "end": "01:23",
-          "cat": "coding",
+          "note": "2 hits",
           "src": "local",
-          "title": "compute.py",
-          "note": "2 hits"
+          "start": "01:20",
+          "title": "compute.py"
         },
         {
+          "cat": "coding",
+          "end": "01:25",
+          "note": "2 hits",
+          "src": "local",
           "start": "01:23",
-          "end": "01:25",
-          "cat": "coding",
-          "src": "local",
-          "title": "compute.py",
-          "note": "2 hits"
+          "title": "compute.py"
         },
         {
-          "start": "01:25",
-          "end": "01:25",
           "cat": "writing",
+          "end": "01:25",
+          "note": "1 hit",
           "src": "local",
-          "title": "hermes.txt",
-          "note": "1 hit"
+          "start": "01:25",
+          "title": "hermes.txt"
         },
         {
-          "start": "01:25",
+          "cat": "coding",
           "end": "01:28",
-          "cat": "coding",
+          "note": "6 hits",
           "src": "local",
-          "title": "analyze.py",
-          "note": "6 hits"
+          "start": "01:25",
+          "title": "analyze.py"
         },
         {
-          "start": "01:28",
+          "cat": "coding",
           "end": "01:30",
-          "cat": "coding",
+          "note": "4 hits",
           "src": "local",
-          "title": "result.json",
-          "note": "4 hits"
+          "start": "01:28",
+          "title": "result.json"
         },
         {
-          "start": "01:30",
+          "cat": "coding",
           "end": "01:31",
-          "cat": "coding",
+          "note": "4 hits",
           "src": "local",
-          "title": "result.json",
-          "note": "4 hits"
+          "start": "01:30",
+          "title": "result.json"
         },
         {
-          "start": "01:32",
+          "cat": "writing",
           "end": "01:35",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "hermes.txt",
-          "note": "1 hit"
+          "start": "01:32",
+          "title": "hermes.txt"
         },
         {
-          "start": "01:35",
+          "cat": "writing",
           "end": "01:36",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "01:35",
+          "title": "reward.txt"
         },
         {
-          "start": "01:37",
+          "cat": "coding",
           "end": "01:41",
-          "cat": "coding",
+          "note": "7 hits",
           "src": "local",
-          "title": "result.json",
-          "note": "7 hits"
+          "start": "01:37",
+          "title": "result.json"
         },
         {
-          "start": "01:41",
+          "cat": "coding",
           "end": "01:42",
-          "cat": "coding",
+          "note": "7 hits",
           "src": "local",
-          "title": "result.json",
-          "note": "7 hits"
+          "start": "01:41",
+          "title": "result.json"
         },
         {
-          "start": "01:42",
+          "cat": "writing",
           "end": "01:46",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "01:42",
+          "title": "reward.txt"
         },
         {
-          "start": "01:46",
+          "cat": "writing",
           "end": "01:47",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "01:46",
+          "title": "reward.txt"
         },
         {
-          "start": "01:47",
+          "cat": "writing",
           "end": "01:52",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "01:47",
+          "title": "reward.txt"
         },
         {
-          "start": "01:53",
+          "cat": "writing",
           "end": "01:54",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "01:53",
+          "title": "reward.txt"
         },
         {
-          "start": "01:54",
+          "cat": "writing",
           "end": "01:58",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "01:54",
+          "title": "reward.txt"
         },
         {
-          "start": "01:58",
+          "cat": "coding",
           "end": "01:59",
-          "cat": "coding",
+          "note": "3 hits",
           "src": "local",
-          "title": "compute_fees.py",
-          "note": "3 hits"
+          "start": "01:58",
+          "title": "compute_fees.py"
         },
         {
-          "start": "01:59",
+          "cat": "coding",
           "end": "02:06",
-          "cat": "coding",
+          "note": "5 hits",
           "src": "local",
-          "title": "result.json",
-          "note": "5 hits"
+          "start": "01:59",
+          "title": "result.json"
         },
         {
-          "start": "02:06",
+          "cat": "coding",
           "end": "02:07",
-          "cat": "coding",
+          "note": "5 hits",
           "src": "local",
-          "title": "result.json",
-          "note": "5 hits"
+          "start": "02:06",
+          "title": "result.json"
         },
         {
-          "start": "02:08",
+          "cat": "writing",
           "end": "02:11",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "hermes.txt",
-          "note": "1 hit"
+          "start": "02:08",
+          "title": "hermes.txt"
         },
         {
-          "start": "02:11",
+          "cat": "writing",
           "end": "02:12",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "02:11",
+          "title": "reward.txt"
         },
         {
-          "start": "02:14",
+          "cat": "writing",
           "end": "02:16",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "hermes.txt",
-          "note": "1 hit"
+          "start": "02:14",
+          "title": "hermes.txt"
         },
         {
-          "start": "02:17",
+          "cat": "writing",
           "end": "02:18",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "02:17",
+          "title": "reward.txt"
         },
         {
-          "start": "02:18",
+          "cat": "writing",
           "end": "02:21",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "02:18",
+          "title": "reward.txt"
         },
         {
-          "start": "02:21",
+          "cat": "writing",
           "end": "02:23",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "02:21",
+          "title": "reward.txt"
         },
         {
-          "start": "02:23",
+          "cat": "writing",
           "end": "02:24",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "02:23",
+          "title": "reward.txt"
         },
         {
-          "start": "02:26",
+          "cat": "coding",
           "end": "02:26",
-          "cat": "coding",
+          "note": "4 hits",
           "src": "local",
-          "title": "result.json",
-          "note": "4 hits"
-        },
-        {
           "start": "02:26",
+          "title": "result.json"
+        },
+        {
+          "cat": "coding",
           "end": "02:29",
-          "cat": "coding",
+          "note": "4 hits",
           "src": "local",
-          "title": "result.json",
-          "note": "4 hits"
+          "start": "02:26",
+          "title": "result.json"
         },
         {
-          "start": "02:29",
+          "cat": "writing",
           "end": "02:30",
-          "cat": "writing",
+          "note": "2 hits",
           "src": "local",
-          "title": "README.md",
-          "note": "2 hits"
+          "start": "02:29",
+          "title": "README.md"
         },
         {
-          "start": "02:32",
+          "cat": "writing",
           "end": "02:33",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "hermes.txt",
-          "note": "1 hit"
+          "start": "02:32",
+          "title": "hermes.txt"
         },
         {
-          "start": "02:33",
+          "cat": "writing",
           "end": "02:35",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "hermes.txt",
-          "note": "1 hit"
+          "start": "02:33",
+          "title": "hermes.txt"
         },
         {
-          "start": "02:35",
+          "cat": "writing",
           "end": "02:36",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "02:35",
+          "title": "reward.txt"
         },
         {
-          "start": "02:36",
+          "cat": "writing",
           "end": "02:37",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "02:36",
+          "title": "reward.txt"
         },
         {
-          "start": "02:37",
+          "cat": "writing",
           "end": "02:38",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "02:37",
+          "title": "reward.txt"
         },
         {
-          "start": "02:38",
+          "cat": "writing",
           "end": "02:40",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "02:38",
+          "title": "reward.txt"
         },
         {
-          "start": "02:40",
+          "cat": "writing",
           "end": "02:41",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "02:40",
+          "title": "reward.txt"
         },
         {
-          "start": "02:43",
+          "cat": "coding",
           "end": "02:45",
-          "cat": "coding",
+          "note": "6 hits",
           "src": "local",
-          "title": "result.json",
-          "note": "6 hits"
+          "start": "02:43",
+          "title": "result.json"
         },
         {
-          "start": "02:45",
+          "cat": "writing",
           "end": "02:46",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "hermes.txt",
-          "note": "1 hit"
+          "start": "02:45",
+          "title": "hermes.txt"
         },
         {
-          "start": "02:46",
+          "cat": "coding",
           "end": "02:47",
-          "cat": "coding",
+          "note": "2 hits",
           "src": "local",
-          "title": "compute.py",
-          "note": "2 hits"
+          "start": "02:46",
+          "title": "compute.py"
         },
         {
-          "start": "02:49",
+          "cat": "writing",
           "end": "02:51",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "hermes.txt",
-          "note": "1 hit"
+          "start": "02:49",
+          "title": "hermes.txt"
         },
         {
-          "start": "02:51",
+          "cat": "writing",
           "end": "02:53",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "02:51",
+          "title": "reward.txt"
         },
         {
-          "start": "02:53",
+          "cat": "writing",
           "end": "02:55",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "02:53",
+          "title": "reward.txt"
         },
         {
-          "start": "02:55",
+          "cat": "writing",
           "end": "02:56",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "02:55",
+          "title": "reward.txt"
         },
         {
-          "start": "02:56",
+          "cat": "writing",
           "end": "02:57",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "02:56",
+          "title": "reward.txt"
         },
         {
-          "start": "02:57",
+          "cat": "writing",
           "end": "02:58",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "02:57",
+          "title": "reward.txt"
         },
         {
-          "start": "02:58",
+          "cat": "writing",
           "end": "02:59",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "02:58",
+          "title": "reward.txt"
         },
         {
-          "start": "03:00",
+          "cat": "writing",
           "end": "03:01",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "03:00",
+          "title": "reward.txt"
         },
         {
-          "start": "03:01",
+          "cat": "writing",
           "end": "03:02",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "03:01",
+          "title": "reward.txt"
         },
         {
-          "start": "03:02",
+          "cat": "coding",
           "end": "03:03",
-          "cat": "coding",
+          "note": "4 hits",
           "src": "local",
-          "title": "result.json",
-          "note": "4 hits"
+          "start": "03:02",
+          "title": "result.json"
         },
         {
-          "start": "03:03",
+          "cat": "writing",
           "end": "03:04",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "hermes.txt",
-          "note": "1 hit"
+          "start": "03:03",
+          "title": "hermes.txt"
         },
         {
-          "start": "03:05",
+          "cat": "writing",
           "end": "03:06",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "03:05",
+          "title": "reward.txt"
         },
         {
-          "start": "03:06",
+          "cat": "writing",
           "end": "03:07",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "03:06",
+          "title": "reward.txt"
         },
         {
-          "start": "03:07",
+          "cat": "writing",
           "end": "03:09",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "hermes.txt",
-          "note": "1 hit"
+          "start": "03:07",
+          "title": "hermes.txt"
         },
         {
-          "start": "03:09",
+          "cat": "writing",
           "end": "03:11",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "03:09",
+          "title": "reward.txt"
         },
         {
-          "start": "03:11",
+          "cat": "writing",
           "end": "03:12",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "03:11",
+          "title": "reward.txt"
         },
         {
-          "start": "03:13",
+          "cat": "writing",
           "end": "03:15",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "03:13",
+          "title": "reward.txt"
         },
         {
-          "start": "03:15",
+          "cat": "writing",
           "end": "03:18",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "03:15",
+          "title": "reward.txt"
         },
         {
-          "start": "03:18",
+          "cat": "coding",
           "end": "03:19",
-          "cat": "coding",
+          "note": "3 hits",
           "src": "local",
-          "title": "analyze.py",
-          "note": "3 hits"
+          "start": "03:18",
+          "title": "analyze.py"
         },
         {
+          "cat": "writing",
+          "end": "03:20",
+          "note": "1 hit",
+          "src": "local",
           "start": "03:19",
-          "end": "03:20",
-          "cat": "writing",
-          "src": "local",
-          "title": "hermes.txt",
-          "note": "1 hit"
+          "title": "hermes.txt"
         },
         {
+          "cat": "coding",
+          "end": "03:20",
+          "note": "5 hits",
+          "src": "local",
           "start": "03:20",
-          "end": "03:20",
-          "cat": "coding",
-          "src": "local",
-          "title": "result.json",
-          "note": "5 hits"
+          "title": "result.json"
         },
         {
-          "start": "03:23",
+          "cat": "writing",
           "end": "03:25",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "hermes.txt",
-          "note": "1 hit"
+          "start": "03:23",
+          "title": "hermes.txt"
         },
         {
-          "start": "03:28",
+          "cat": "writing",
           "end": "03:31",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "hermes.txt",
-          "note": "1 hit"
+          "start": "03:28",
+          "title": "hermes.txt"
         },
         {
-          "start": "03:31",
+          "cat": "writing",
           "end": "03:32",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "hermes.txt",
-          "note": "1 hit"
+          "start": "03:31",
+          "title": "hermes.txt"
         },
         {
-          "start": "03:32",
+          "cat": "writing",
           "end": "03:34",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "03:32",
+          "title": "reward.txt"
         },
         {
-          "start": "03:34",
+          "cat": "writing",
           "end": "03:35",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "03:34",
+          "title": "reward.txt"
         },
         {
-          "start": "03:35",
+          "cat": "writing",
           "end": "03:36",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "03:35",
+          "title": "reward.txt"
         },
         {
-          "start": "03:36",
+          "cat": "writing",
           "end": "03:37",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "03:36",
+          "title": "reward.txt"
         },
         {
-          "start": "03:37",
+          "cat": "writing",
           "end": "03:39",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "03:37",
+          "title": "reward.txt"
         },
         {
-          "start": "03:41",
-          "end": "03:44",
           "cat": "coding",
+          "end": "03:44",
+          "note": "6 hits",
           "src": "local",
-          "title": "result.json",
-          "note": "6 hits"
+          "start": "03:41",
+          "title": "result.json"
         }
       ],
+      "key": "2026-8-25",
       "logged": 607,
-      "real": 607,
-      "deep": 607,
       "ratio": 1.0,
+      "real": 607,
       "stats": {
         "contextSwitches": 71,
-        "tabsOpened": 0,
+        "justOneMoreThing": 0,
         "longestFocus": "10h 7m",
-        "justOneMoreThing": 0
-      }
+        "tabsOpened": 0
+      },
+      "weekend": false
     },
     {
-      "key": "2026-8-26",
-      "dayNum": 26,
-      "dow": 3,
-      "weekend": false,
-      "dateShort": "Wed, Aug 26",
       "dateLong": "Wednesday, August 26",
-      "dayStart": "10:02",
+      "dateShort": "Wed, Aug 26",
       "dayEnd": "02:18",
+      "dayNum": 26,
+      "dayStart": "10:02",
+      "deep": 378,
+      "dow": 3,
       "events": [
         {
-          "start": "10:02",
+          "cat": "coding",
           "end": "10:25",
-          "cat": "coding",
+          "note": "225 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "225 hits"
+          "start": "10:02",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "10:33",
+          "cat": "writing",
           "end": "10:34",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "2026-08-26.md",
-          "note": "1 hit"
+          "start": "10:33",
+          "title": "2026-08-26.md"
         },
         {
-          "start": "10:34",
+          "cat": "coding",
           "end": "10:40",
-          "cat": "coding",
+          "note": "47 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "47 hits"
+          "start": "10:34",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "12:04",
+          "cat": "coding",
           "end": "12:12",
-          "cat": "coding",
+          "note": "41 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "41 hits"
+          "start": "12:04",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "14:29",
+          "cat": "coding",
           "end": "14:34",
-          "cat": "coding",
+          "note": "2 hits",
           "src": "local",
-          "title": "config.json",
-          "note": "2 hits"
+          "start": "14:29",
+          "title": "config.json"
         },
         {
-          "start": "14:39",
+          "cat": "writing",
           "end": "14:44",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "codex.txt",
-          "note": "1 hit"
+          "start": "14:39",
+          "title": "codex.txt"
         },
         {
-          "start": "14:44",
+          "cat": "writing",
           "end": "14:49",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "14:44",
+          "title": "reward.txt"
         },
         {
-          "start": "14:49",
+          "cat": "writing",
           "end": "14:54",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "14:49",
+          "title": "reward.txt"
         },
         {
-          "start": "14:54",
+          "cat": "writing",
           "end": "15:03",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "14:54",
+          "title": "reward.txt"
         },
         {
-          "start": "15:03",
+          "cat": "writing",
           "end": "15:08",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "15:03",
+          "title": "reward.txt"
         },
         {
-          "start": "15:08",
+          "cat": "writing",
           "end": "15:13",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "15:08",
+          "title": "reward.txt"
         },
         {
-          "start": "15:13",
+          "cat": "writing",
           "end": "15:21",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "15:13",
+          "title": "reward.txt"
         },
         {
-          "start": "15:21",
+          "cat": "writing",
           "end": "15:22",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "15:21",
+          "title": "reward.txt"
         },
         {
-          "start": "15:22",
+          "cat": "writing",
           "end": "15:26",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "15:22",
+          "title": "reward.txt"
         },
         {
-          "start": "15:26",
+          "cat": "writing",
           "end": "15:27",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "codex.txt",
-          "note": "1 hit"
+          "start": "15:26",
+          "title": "codex.txt"
         },
         {
-          "start": "15:27",
+          "cat": "coding",
           "end": "15:31",
-          "cat": "coding",
+          "note": "1 hit",
           "src": "local",
-          "title": "fee_calc.py",
-          "note": "1 hit"
+          "start": "15:27",
+          "title": "fee_calc.py"
         },
         {
-          "start": "15:32",
+          "cat": "writing",
           "end": "15:36",
-          "cat": "writing",
+          "note": "2 hits",
           "src": "local",
-          "title": "README.md",
-          "note": "2 hits"
+          "start": "15:32",
+          "title": "README.md"
         },
         {
-          "start": "15:41",
+          "cat": "writing",
           "end": "15:46",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "codex.txt",
-          "note": "1 hit"
+          "start": "15:41",
+          "title": "codex.txt"
         },
         {
-          "start": "15:57",
+          "cat": "coding",
           "end": "16:06",
-          "cat": "coding",
+          "note": "6 hits",
           "src": "local",
-          "title": "run_experiment.sh",
-          "note": "6 hits"
+          "start": "15:57",
+          "title": "run_experiment.sh"
         },
         {
-          "start": "16:36",
+          "cat": "writing",
           "end": "16:38",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "vscode",
-          "title": "VS Code · README.md",
-          "note": "1 hit"
+          "start": "16:36",
+          "title": "VS Code · README.md"
         },
         {
-          "start": "16:38",
+          "cat": "coding",
           "end": "16:39",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "16:38",
+          "title": "codex"
         },
         {
-          "start": "16:39",
+          "cat": "writing",
           "end": "16:40",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "vscode",
-          "title": "VS Code · README.md",
-          "note": "1 hit"
+          "start": "16:39",
+          "title": "VS Code · README.md"
         },
         {
-          "start": "16:41",
+          "cat": "coding",
           "end": "16:56",
-          "cat": "coding",
+          "note": "openrouter.ai",
           "src": "chrome",
-          "title": "Workspace Overview | Settings | OpenRouter",
-          "note": "openrouter.ai"
+          "start": "16:41",
+          "title": "Workspace Overview | Settings | OpenRouter"
         },
         {
-          "start": "16:56",
+          "cat": "coding",
           "end": "16:59",
-          "cat": "coding",
+          "note": "openrouter.ai",
           "src": "macos",
-          "title": "Workspace Overview | Settings | OpenRouter",
-          "note": "openrouter.ai"
+          "start": "16:56",
+          "title": "Workspace Overview | Settings | OpenRouter"
         },
         {
-          "start": "16:59",
+          "cat": "personal",
           "end": "17:02",
-          "cat": "personal",
+          "note": "facebook.com",
           "src": "chrome",
-          "title": "(3) Facebook",
-          "note": "facebook.com"
+          "start": "16:59",
+          "title": "(3) Facebook"
         },
         {
-          "start": "17:02",
+          "cat": "coding",
           "end": "17:03",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "17:02",
+          "title": "VSCode"
         },
         {
-          "start": "17:03",
+          "cat": "coding",
           "end": "17:07",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "17:03",
+          "title": "VSCode"
         },
         {
-          "start": "17:07",
+          "cat": "personal",
           "end": "17:08",
-          "cat": "personal",
+          "note": "facebook.com",
           "src": "chrome",
-          "title": "(3) Facebook",
-          "note": "facebook.com"
+          "start": "17:07",
+          "title": "(3) Facebook"
         },
         {
-          "start": "17:08",
+          "cat": "personal",
           "end": "17:22",
-          "cat": "personal",
+          "note": "facebook.com",
           "src": "chrome",
-          "title": "(3) Facebook",
-          "note": "facebook.com"
+          "start": "17:08",
+          "title": "(3) Facebook"
         },
         {
-          "start": "17:28",
+          "cat": "writing",
           "end": "17:33",
-          "cat": "writing",
+          "note": "1 hit",
           "src": "local",
-          "title": "codex.txt",
-          "note": "1 hit"
+          "start": "17:28",
+          "title": "codex.txt"
         },
         {
-          "start": "17:37",
+          "cat": "coding",
           "end": "17:41",
-          "cat": "coding",
+          "note": "5 hits",
           "src": "local",
-          "title": "candidates.json",
-          "note": "5 hits"
+          "start": "17:37",
+          "title": "candidates.json"
         },
         {
-          "start": "17:41",
+          "cat": "coding",
           "end": "17:46",
-          "cat": "coding",
+          "note": "5 hits",
           "src": "local",
-          "title": "candidates.json",
-          "note": "5 hits"
+          "start": "17:41",
+          "title": "candidates.json"
         },
         {
-          "start": "17:46",
+          "cat": "writing",
           "end": "17:48",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "17:46",
+          "title": "reward.txt"
         },
         {
-          "start": "17:48",
+          "cat": "writing",
           "end": "17:53",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "17:48",
+          "title": "reward.txt"
         },
         {
-          "start": "17:53",
+          "cat": "writing",
           "end": "17:54",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "17:53",
+          "title": "reward.txt"
         },
         {
-          "start": "17:55",
+          "cat": "writing",
           "end": "17:59",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "start": "17:55",
+          "title": "reward.txt"
         },
         {
-          "start": "18:39",
+          "cat": "coding",
           "end": "19:06",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "18:39",
+          "title": "VSCode"
         },
         {
-          "start": "19:20",
+          "cat": "coding",
           "end": "19:25",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "19:20",
+          "title": "VSCode"
         },
         {
-          "start": "19:27",
+          "cat": "research",
           "end": "19:46",
-          "cat": "research",
+          "note": "chat.qwen.ai",
           "src": "macos",
-          "title": "Qwen Studio",
-          "note": "chat.qwen.ai"
+          "start": "19:27",
+          "title": "Qwen Studio"
         },
         {
-          "start": "19:46",
+          "cat": "research",
           "end": "20:01",
-          "cat": "research",
+          "note": "chat.qwen.ai",
           "src": "macos",
-          "title": "Qwen Studio",
-          "note": "chat.qwen.ai"
+          "start": "19:46",
+          "title": "Qwen Studio"
         },
         {
-          "start": "20:01",
+          "cat": "coding",
           "end": "20:06",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "20:01",
+          "title": "VSCode"
         },
         {
-          "start": "20:06",
+          "cat": "coding",
           "end": "20:09",
-          "cat": "coding",
+          "note": "21 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "21 hits"
+          "start": "20:06",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "20:10",
-          "end": "20:12",
           "cat": "admin",
+          "end": "20:12",
+          "note": "bc.edu",
           "src": "macos",
-          "title": "Yiyang Zhuge",
-          "note": "bc.edu"
+          "start": "20:10",
+          "title": "Yiyang Zhuge"
         },
         {
-          "start": "20:13",
+          "cat": "personal",
           "end": "20:19",
-          "cat": "personal",
+          "note": "x.com",
           "src": "macos",
-          "title": "Yiyang Zhuge (@ZhugeYY) / X",
-          "note": "x.com"
+          "start": "20:13",
+          "title": "Yiyang Zhuge (@ZhugeYY) / X"
         },
         {
-          "start": "20:19",
+          "cat": "coding",
           "end": "20:47",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "20:19",
+          "title": "VSCode"
         },
         {
-          "start": "20:48",
+          "cat": "coding",
           "end": "20:49",
-          "cat": "coding",
+          "note": "81 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "81 hits"
+          "start": "20:48",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "20:50",
+          "cat": "coding",
           "end": "20:51",
-          "cat": "coding",
+          "note": "81 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "81 hits"
+          "start": "20:50",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "20:51",
+          "cat": "personal",
           "end": "20:54",
-          "cat": "personal",
+          "note": "amazon.com.au",
           "src": "chrome",
-          "title": "Amazon.com.au: Shop online for Electronics, Apparel, Toys, B",
-          "note": "amazon.com.au"
+          "start": "20:51",
+          "title": "Amazon.com.au: Shop online for Electronics, Apparel, Toys, B"
         },
         {
-          "start": "20:54",
+          "cat": "coding",
           "end": "21:00",
-          "cat": "coding",
+          "note": "38 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "38 hits"
+          "start": "20:54",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "21:00",
+          "cat": "personal",
           "end": "21:02",
-          "cat": "personal",
+          "note": "amazon.com.au",
           "src": "chrome",
-          "title": "Amazon.com.au: Shop online for Electronics, Apparel, Toys, B",
-          "note": "amazon.com.au"
+          "start": "21:00",
+          "title": "Amazon.com.au: Shop online for Electronics, Apparel, Toys, B"
         },
         {
-          "start": "21:02",
+          "cat": "coding",
           "end": "22:36",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "21:02",
+          "title": "VSCode"
         },
         {
-          "start": "22:49",
+          "cat": "coding",
           "end": "22:54",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "22:49",
+          "title": "VSCode"
         },
         {
-          "start": "01:58",
-          "end": "02:18",
           "cat": "personal",
+          "end": "02:18",
+          "note": "temu.com",
           "src": "chrome",
-          "title": "non slip fitness mat suitable balance exercises sweat proof ",
-          "note": "temu.com"
+          "start": "01:58",
+          "title": "non slip fitness mat suitable balance exercises sweat proof "
         }
       ],
+      "key": "2026-8-26",
       "logged": 429,
-      "real": 378,
-      "deep": 378,
       "ratio": 0.8810633105622089,
+      "real": 378,
       "stats": {
         "contextSwitches": 27,
-        "tabsOpened": 21,
+        "justOneMoreThing": 3,
         "longestFocus": "2h 14m",
-        "justOneMoreThing": 3
-      }
+        "tabsOpened": 21
+      },
+      "weekend": false
     },
     {
       "key": "2026-8-27",
@@ -94666,18 +95572,883 @@
       "weekend": false,
       "dateShort": "Thu, Aug 27",
       "dateLong": "Thursday, August 27",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "10:16",
+      "dayEnd": "05:59",
+      "events": [
+        {
+          "start": "10:16",
+          "end": "10:20",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "10:20",
+          "end": "10:21",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
+          "note": "sport.mq.edu.au"
+        },
+        {
+          "start": "10:21",
+          "end": "10:22",
+          "cat": "research",
+          "src": "macos",
+          "title": "Introducing the Seventh Cohort of Bloomberg Data Science Ph.",
+          "note": "bloomberg.com"
+        },
+        {
+          "start": "10:22",
+          "end": "10:23",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Data Science Ph.D. Fellowship | Bloomberg LP",
+          "note": "url.au.m.mimecastprotect.com"
+        },
+        {
+          "start": "10:23",
+          "end": "10:25",
+          "cat": "coding",
+          "src": "macos",
+          "title": "OpenTelemetry - CNCF",
+          "note": "github.com"
+        },
+        {
+          "start": "10:25",
+          "end": "10:26",
+          "cat": "research",
+          "src": "macos",
+          "title": "The Shift to Agentic AI: Evidence from Codex",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "10:26",
+          "end": "10:27",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Data Science Ph.D. Fellowship | Bloomberg LP",
+          "note": "url.au.m.mimecastprotect.com"
+        },
+        {
+          "start": "10:27",
+          "end": "10:35",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "10:35",
+          "end": "10:38",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Data Science Ph.D. Fellowship | Bloomberg LP",
+          "note": "url.au.m.mimecastprotect.com"
+        },
+        {
+          "start": "10:38",
+          "end": "10:39",
+          "cat": "research",
+          "src": "macos",
+          "title": "Paper page - A Multi-AI-agent Framework Enabling End-to-end ",
+          "note": "huggingface.co"
+        },
+        {
+          "start": "10:40",
+          "end": "10:41",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "10:41",
+          "end": "10:49",
+          "cat": "coding",
+          "src": "macos",
+          "title": "iterm2",
+          "note": "com.googlecode.iterm2"
+        },
+        {
+          "start": "10:49",
+          "end": "10:53",
+          "cat": "research",
+          "src": "macos",
+          "title": "Self-Harness: Harnesses That Improve Themselves",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "10:53",
+          "end": "10:55",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "10:56",
+          "end": "11:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "13 hits"
+        },
+        {
+          "start": "11:03",
+          "end": "11:09",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Paper page - A Multi-AI-agent Framework Enabling End-to-end ",
+          "note": "huggingface.co"
+        },
+        {
+          "start": "11:20",
+          "end": "11:27",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:43",
+          "end": "11:58",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:59",
+          "end": "12:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "22 hits"
+        },
+        {
+          "start": "12:03",
+          "end": "12:06",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "12:07",
+          "end": "12:16",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "12:16",
+          "end": "12:33",
+          "cat": "research",
+          "src": "macos",
+          "title": "ChatGPT",
+          "note": "chatgpt.com"
+        },
+        {
+          "start": "13:10",
+          "end": "13:13",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "3 hits"
+        },
+        {
+          "start": "13:15",
+          "end": "13:18",
+          "cat": "coding",
+          "src": "local",
+          "title": "config.json",
+          "note": "2 hits"
+        },
+        {
+          "start": "13:20",
+          "end": "13:34",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Buy Mac Studio, M5 Ultra Chip, 30-core CPU, 64-core GPU, 256",
+          "note": "apple.com"
+        },
+        {
+          "start": "13:34",
+          "end": "13:35",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Education Pricing and Student Discounts - Education - Apple ",
+          "note": "google.com"
+        },
+        {
+          "start": "13:35",
+          "end": "13:36",
+          "cat": "personal",
+          "src": "macos",
+          "title": "UNiDAYS",
+          "note": "myunidays.com"
+        },
+        {
+          "start": "13:36",
+          "end": "13:37",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Buy Mac Studio, M5 Ultra Chip, 36-core CPU, 80-core GPU, 256",
+          "note": "apple.com"
+        },
+        {
+          "start": "13:38",
+          "end": "13:42",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "13:42",
+          "end": "13:47",
+          "cat": "admin",
+          "src": "macos",
+          "title": "TV & Home - Apple (AU)",
+          "note": "apple.com"
+        },
+        {
+          "start": "13:48",
+          "end": "13:48",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "13:49",
+          "end": "13:52",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "13:52",
+          "end": "13:55",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "13:55",
+          "end": "13:55",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "13:56",
+          "end": "13:57",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Effective harnesses for long-running agents \\ Anthropic",
+          "note": "anthropic.com"
+        },
+        {
+          "start": "13:58",
+          "end": "13:58",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Level up your live entertainment lineup, Ada! - ada.ren.cn@g",
+          "note": "apple.com"
+        },
+        {
+          "start": "13:58",
+          "end": "13:59",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "14:00",
+          "end": "14:01",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "14:02",
+          "end": "14:06",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "14:06",
+          "end": "14:07",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(1) ✍🏻 2 Hours of Deep Focus BGM | Study & Work MUSIC Playli",
+          "note": "youtube.com"
+        },
+        {
+          "start": "14:07",
+          "end": "14:11",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "14:11",
+          "end": "14:16",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "14:16",
+          "end": "14:25",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "14:25",
+          "end": "14:36",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "14:36",
+          "end": "14:41",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "248 hits"
+        },
+        {
+          "start": "14:41",
+          "end": "14:44",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "248 hits"
+        },
+        {
+          "start": "14:44",
+          "end": "14:46",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "248 hits"
+        },
+        {
+          "start": "14:46",
+          "end": "14:56",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "248 hits"
+        },
+        {
+          "start": "14:56",
+          "end": "14:57",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "14:57",
+          "end": "15:11",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:11",
+          "end": "15:12",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "99 hits"
+        },
+        {
+          "start": "15:12",
+          "end": "15:13",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "99 hits"
+        },
+        {
+          "start": "15:14",
+          "end": "15:15",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "99 hits"
+        },
+        {
+          "start": "15:15",
+          "end": "15:16",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "99 hits"
+        },
+        {
+          "start": "15:16",
+          "end": "15:20",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "99 hits"
+        },
+        {
+          "start": "15:21",
+          "end": "15:22",
+          "cat": "writing",
+          "src": "macos",
+          "title": "obsidian",
+          "note": "md.obsidian"
+        },
+        {
+          "start": "15:22",
+          "end": "15:24",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "teams2",
+          "note": "com.microsoft.teams2"
+        },
+        {
+          "start": "15:24",
+          "end": "15:27",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "terms - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "15:27",
+          "end": "15:30",
+          "cat": "writing",
+          "src": "macos",
+          "title": "obsidian",
+          "note": "md.obsidian"
+        },
+        {
+          "start": "15:30",
+          "end": "15:33",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "terms - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "15:33",
+          "end": "15:35",
+          "cat": "writing",
+          "src": "macos",
+          "title": "TextEdit",
+          "note": "com.apple.TextEdit"
+        },
+        {
+          "start": "15:35",
+          "end": "15:36",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "terms - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "15:36",
+          "end": "15:37",
+          "cat": "writing",
+          "src": "macos",
+          "title": "obsidian",
+          "note": "md.obsidian"
+        },
+        {
+          "start": "15:37",
+          "end": "15:41",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "terms - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "15:41",
+          "end": "15:45",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Ideas2.pptx",
+          "note": "mqoutlook-my.sharepoint.com"
+        },
+        {
+          "start": "15:45",
+          "end": "15:46",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "23 hits"
+        },
+        {
+          "start": "15:46",
+          "end": "15:47",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "23 hits"
+        },
+        {
+          "start": "15:47",
+          "end": "15:50",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "23 hits"
+        },
+        {
+          "start": "15:50",
+          "end": "15:54",
+          "cat": "writing",
+          "src": "macos",
+          "title": "obsidian",
+          "note": "md.obsidian"
+        },
+        {
+          "start": "15:55",
+          "end": "16:00",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:00",
+          "end": "16:02",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "11 hits"
+        },
+        {
+          "start": "16:02",
+          "end": "16:03",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "Meet - vxk-wxvo-rbh",
+          "note": "meet.google.com"
+        },
+        {
+          "start": "16:03",
+          "end": "16:05",
+          "cat": "coding",
+          "src": "macos",
+          "title": "240716u3u1yy41w",
+          "note": "com.todesktop.240716u3u1yy41w"
+        },
+        {
+          "start": "16:05",
+          "end": "16:05",
+          "cat": "coding",
+          "src": "macos",
+          "title": "240716u3u1yy41w",
+          "note": "com.todesktop.240716u3u1yy41w"
+        },
+        {
+          "start": "16:05",
+          "end": "16:14",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "Meet - vxk-wxvo-rbh",
+          "note": "meet.google.com"
+        },
+        {
+          "start": "16:15",
+          "end": "16:23",
+          "cat": "meeting",
+          "src": "chrome",
+          "title": "Meet - vxk-wxvo-rbh",
+          "note": "meet.google.com"
+        },
+        {
+          "start": "16:28",
+          "end": "16:59",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "Meet - vxk-wxvo-rbh",
+          "note": "meet.google.com"
+        },
+        {
+          "start": "16:59",
+          "end": "17:01",
+          "cat": "admin",
+          "src": "macos",
+          "title": "(32) Discord | Friends",
+          "note": "discord.com"
+        },
+        {
+          "start": "17:01",
+          "end": "17:02",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "Google Meet",
+          "note": "meet.google.com"
+        },
+        {
+          "start": "17:02",
+          "end": "17:03",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "17:03",
+          "end": "17:07",
+          "cat": "coding",
+          "src": "macos",
+          "title": "240716u3u1yy41w",
+          "note": "com.todesktop.240716u3u1yy41w"
+        },
+        {
+          "start": "17:07",
+          "end": "17:21",
+          "cat": "meeting",
+          "src": "chrome",
+          "title": "Google Meet",
+          "note": "meet.google.com"
+        },
+        {
+          "start": "17:21",
+          "end": "17:26",
+          "cat": "writing",
+          "src": "chrome",
+          "title": "Untitled document - Google Docs",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "18:57",
+          "end": "19:08",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "92 hits"
+        },
+        {
+          "start": "19:08",
+          "end": "19:10",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "19:10",
+          "end": "19:11",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "19:11",
+          "end": "19:15",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Bruno Mars is bringing The Romantic Tour to Australia in Feb",
+          "note": "outlook.office.com"
+        },
+        {
+          "start": "19:15",
+          "end": "19:17",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Bruno Mars is bringing The Romantic Tour to Australia in Feb",
+          "note": "outlook.office.com"
+        },
+        {
+          "start": "19:17",
+          "end": "19:19",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Order Confirmation",
+          "note": "lululemon.com.au"
+        },
+        {
+          "start": "19:19",
+          "end": "19:25",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "19:25",
+          "end": "19:27",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(1) YouTube",
+          "note": "youtube.com"
+        },
+        {
+          "start": "19:27",
+          "end": "19:27",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Bruno Mars is bringing The Romantic Tour to Australia in Feb",
+          "note": "outlook.office.com"
+        },
+        {
+          "start": "19:27",
+          "end": "19:29",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(1) bruno mars concert - YouTube",
+          "note": "youtube.com"
+        },
+        {
+          "start": "19:29",
+          "end": "19:35",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "19:35",
+          "end": "19:40",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "License to Train Textured High-Rise Short 4\" | Lululemon AU",
+          "note": "lululemon.com.au"
+        },
+        {
+          "start": "19:40",
+          "end": "19:43",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "License to Train Textured High-Rise Short 4\" | Lululemon AU",
+          "note": "lululemon.com.au"
+        },
+        {
+          "start": "19:43",
+          "end": "19:57",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "19:57",
+          "end": "20:02",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "20:02",
+          "end": "20:07",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "20:07",
+          "end": "20:11",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "20:11",
+          "end": "20:16",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "20:16",
+          "end": "21:49",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "21:49",
+          "end": "21:54",
+          "cat": "coding",
+          "src": "local",
+          "title": "visualization.ipynb",
+          "note": "1 hit"
+        },
+        {
+          "start": "23:44",
+          "end": "23:48",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "23:50",
+          "end": "23:59",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "‎Amphetamine App - App Store",
+          "note": "apps.apple.com"
+        },
+        {
+          "start": "23:59",
+          "end": "00:00",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "00:01",
+          "end": "00:04",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "00:04",
+          "end": "05:59",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        }
+      ],
+      "logged": 889,
+      "real": 816,
+      "deep": 816,
+      "ratio": 0.9176592416467318,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "0m",
-        "justOneMoreThing": 0
+        "contextSwitches": 65,
+        "tabsOpened": 60,
+        "longestFocus": "8h 23m",
+        "justOneMoreThing": 11
       }
     },
     {
@@ -94687,18 +96458,59 @@
       "weekend": false,
       "dateShort": "Fri, Aug 28",
       "dateLong": "Friday, August 28",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "06:00",
+      "dayEnd": "10:24",
+      "events": [
+        {
+          "start": "06:00",
+          "end": "09:35",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "10:07",
+          "end": "10:13",
+          "cat": "writing",
+          "src": "local",
+          "title": "2026-08-28-gemini-omni-1-1-flash-lets-you-build-with-more-co",
+          "note": "12 hits"
+        },
+        {
+          "start": "10:14",
+          "end": "10:17",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Nvidia buys Hugging Face for $12.9B - ada.ren.cn@gmail.com -",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "10:18",
+          "end": "10:23",
+          "cat": "coding",
+          "src": "local",
+          "title": "config.json",
+          "note": "3 hits"
+        },
+        {
+          "start": "10:23",
+          "end": "10:24",
+          "cat": "writing",
+          "src": "local",
+          "title": "codex.txt",
+          "note": "1 hit"
+        }
+      ],
+      "logged": 231,
+      "real": 228,
+      "deep": 228,
+      "ratio": 0.9870367608976386,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "0m",
-        "justOneMoreThing": 0
+        "contextSwitches": 4,
+        "tabsOpened": 3,
+        "longestFocus": "3h 42m",
+        "justOneMoreThing": 1
       }
     },
     {
