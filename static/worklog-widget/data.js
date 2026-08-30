@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-08-29T10:40:45+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-08-30T10:50:48+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -72731,7 +72731,7 @@
         "dateShort": "Fri, Aug 28",
         "dateLong": "Friday, August 28",
         "dayStart": "10:07",
-        "dayEnd": "19:14",
+        "dayEnd": "19:26",
         "events": [
           {
             "start": "10:07",
@@ -73500,15 +73500,23 @@
             "src": "macos",
             "title": "zotero",
             "note": "org.zotero.zotero"
+          },
+          {
+            "start": "19:14",
+            "end": "19:26",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Jaccard overlap explanation",
+            "note": "chatgpt.com"
           }
         ],
-        "logged": 464,
-        "real": 308,
-        "deep": 308,
-        "ratio": 0.6628197671050198,
+        "logged": 476,
+        "real": 319,
+        "deep": 319,
+        "ratio": 0.6711647383184051,
         "stats": {
           "contextSwitches": 67,
-          "tabsOpened": 75,
+          "tabsOpened": 78,
           "longestFocus": "45m",
           "justOneMoreThing": 18
         }
@@ -73520,17 +73528,42 @@
         "weekend": true,
         "dateShort": "Sat, Aug 29",
         "dateLong": "Saturday, August 29",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "10:40",
+        "dayEnd": "13:16",
+        "events": [
+          {
+            "start": "10:40",
+            "end": "10:45",
+            "cat": "coding",
+            "src": "local",
+            "title": "data.js",
+            "note": "2 hits"
+          },
+          {
+            "start": "12:39",
+            "end": "12:59",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "RedotPay: The Ultimate Crypto Card for Secure Crypto Payment",
+            "note": "redotpay.com"
+          },
+          {
+            "start": "12:59",
+            "end": "13:16",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Buy Mac Studio, M5 Ultra Chip, 36-core CPU, 80-core GPU, 256",
+            "note": "mail.google.com"
+          }
+        ],
+        "logged": 42,
+        "real": 5,
+        "deep": 5,
+        "ratio": 0.11867127352549615,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "0m",
+          "contextSwitches": 2,
+          "tabsOpened": 6,
+          "longestFocus": "5m",
           "justOneMoreThing": 0
         }
       },
@@ -97187,7 +97220,7 @@
       "dateShort": "Fri, Aug 28",
       "dateLong": "Friday, August 28",
       "dayStart": "10:07",
-      "dayEnd": "19:14",
+      "dayEnd": "19:26",
       "events": [
         {
           "start": "10:07",
@@ -97956,15 +97989,23 @@
           "src": "macos",
           "title": "zotero",
           "note": "org.zotero.zotero"
+        },
+        {
+          "start": "19:14",
+          "end": "19:26",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Jaccard overlap explanation",
+          "note": "chatgpt.com"
         }
       ],
-      "logged": 464,
-      "real": 308,
-      "deep": 308,
-      "ratio": 0.6628197671050198,
+      "logged": 476,
+      "real": 319,
+      "deep": 319,
+      "ratio": 0.6711647383184051,
       "stats": {
         "contextSwitches": 67,
-        "tabsOpened": 75,
+        "tabsOpened": 78,
         "longestFocus": "45m",
         "justOneMoreThing": 18
       }
@@ -97976,17 +98017,42 @@
       "weekend": true,
       "dateShort": "Sat, Aug 29",
       "dateLong": "Saturday, August 29",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "10:40",
+      "dayEnd": "13:16",
+      "events": [
+        {
+          "start": "10:40",
+          "end": "10:45",
+          "cat": "coding",
+          "src": "local",
+          "title": "data.js",
+          "note": "2 hits"
+        },
+        {
+          "start": "12:39",
+          "end": "12:59",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "RedotPay: The Ultimate Crypto Card for Secure Crypto Payment",
+          "note": "redotpay.com"
+        },
+        {
+          "start": "12:59",
+          "end": "13:16",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Buy Mac Studio, M5 Ultra Chip, 36-core CPU, 80-core GPU, 256",
+          "note": "mail.google.com"
+        }
+      ],
+      "logged": 42,
+      "real": 5,
+      "deep": 5,
+      "ratio": 0.11867127352549615,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "0m",
+        "contextSwitches": 2,
+        "tabsOpened": 6,
+        "longestFocus": "5m",
         "justOneMoreThing": 0
       }
     },
