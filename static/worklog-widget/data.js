@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-08-30T10:50:48+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-08-31T10:20:09+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -72731,7 +72731,7 @@
         "dateShort": "Fri, Aug 28",
         "dateLong": "Friday, August 28",
         "dayStart": "10:07",
-        "dayEnd": "19:26",
+        "dayEnd": "19:41",
         "events": [
           {
             "start": "10:07",
@@ -72842,7 +72842,7 @@
             "end": "11:00",
             "cat": "personal",
             "src": "macos",
-            "title": "主页 / X",
+            "title": "(1) 主页 / X",
             "note": "x.com"
           },
           {
@@ -72886,11 +72886,11 @@
             "note": "x.com"
           },
           {
-            "start": "11:18",
+            "start": "11:17",
             "end": "11:19",
             "cat": "admin",
             "src": "chrome",
-            "title": "Research Compute",
+            "title": "0. Welcome to Gadi - NCI Help - Opus - NCI Confluence",
             "note": "goto.mq"
           },
           {
@@ -72914,7 +72914,7 @@
             "end": "11:32",
             "cat": "admin",
             "src": "chrome",
-            "title": "Research Compute",
+            "title": "0. Welcome to Gadi - NCI Help - Opus - NCI Confluence",
             "note": "goto.mq"
           },
           {
@@ -72935,19 +72935,11 @@
           },
           {
             "start": "11:37",
-            "end": "11:37",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Research Compute",
-            "note": "goto.mq"
-          },
-          {
-            "start": "11:38",
             "end": "11:38",
             "cat": "admin",
             "src": "chrome",
-            "title": "ChatGPT",
-            "note": "google.com"
+            "title": "0. Welcome to Gadi - NCI Help - Opus - NCI Confluence",
+            "note": "goto.mq"
           },
           {
             "start": "11:38",
@@ -72970,8 +72962,8 @@
             "end": "11:43",
             "cat": "admin",
             "src": "chrome",
-            "title": "ChatGPT",
-            "note": "google.com"
+            "title": "0. Welcome to Gadi - NCI Help - Opus - NCI Confluence",
+            "note": "goto.mq"
           },
           {
             "start": "11:43",
@@ -73010,8 +73002,8 @@
             "end": "11:55",
             "cat": "admin",
             "src": "chrome",
-            "title": "ChatGPT",
-            "note": "google.com"
+            "title": "0. Welcome to Gadi - NCI Help - Opus - NCI Confluence",
+            "note": "goto.mq"
           },
           {
             "start": "11:55",
@@ -73104,7 +73096,7 @@
           {
             "start": "14:42",
             "end": "14:42",
-            "cat": "personal",
+            "cat": "research",
             "src": "chrome",
             "title": "Using decision trees to manage hospital readmission risk for",
             "note": "ncbi.nlm.nih.gov"
@@ -73135,11 +73127,19 @@
           },
           {
             "start": "14:55",
-            "end": "14:59",
-            "cat": "personal",
+            "end": "14:57",
+            "cat": "research",
             "src": "chrome",
             "title": "Using decision trees to manage hospital readmission risk for",
             "note": "ncbi.nlm.nih.gov"
+          },
+          {
+            "start": "14:57",
+            "end": "14:59",
+            "cat": "coding",
+            "src": "macos",
+            "title": "log x | Desmos",
+            "note": "desmos.com"
           },
           {
             "start": "14:59",
@@ -73191,27 +73191,11 @@
           },
           {
             "start": "15:32",
-            "end": "15:34",
+            "end": "15:43",
             "cat": "admin",
             "src": "macos",
             "title": "slackmacgap",
             "note": "com.tinyspeck.slackmacgap"
-          },
-          {
-            "start": "15:34",
-            "end": "15:42",
-            "cat": "personal",
-            "src": "macos",
-            "title": "Meta Research PhD Fellowship",
-            "note": "metaresearchphdfellowship.smapply.io"
-          },
-          {
-            "start": "15:42",
-            "end": "15:43",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Data file for week 6 ",
-            "note": "ilearn.mq.edu.au"
           },
           {
             "start": "15:43",
@@ -73242,7 +73226,7 @@
             "end": "15:54",
             "cat": "admin",
             "src": "chrome",
-            "title": "Google Translate",
+            "title": "Meta Research PhD Fellowship",
             "note": "iprint.mq.edu.au:9443"
           },
           {
@@ -73495,30 +73479,22 @@
           },
           {
             "start": "19:00",
-            "end": "19:14",
+            "end": "19:41",
             "cat": "research",
             "src": "macos",
             "title": "zotero",
             "note": "org.zotero.zotero"
-          },
-          {
-            "start": "19:14",
-            "end": "19:26",
-            "cat": "research",
-            "src": "chrome",
-            "title": "Jaccard overlap explanation",
-            "note": "chatgpt.com"
           }
         ],
-        "logged": 476,
-        "real": 319,
-        "deep": 319,
-        "ratio": 0.6711647383184051,
+        "logged": 491,
+        "real": 339,
+        "deep": 339,
+        "ratio": 0.6898320080298607,
         "stats": {
-          "contextSwitches": 67,
-          "tabsOpened": 78,
+          "contextSwitches": 66,
+          "tabsOpened": 69,
           "longestFocus": "45m",
-          "justOneMoreThing": 18
+          "justOneMoreThing": 19
         }
       },
       {
@@ -73528,42 +73504,50 @@
         "weekend": true,
         "dateShort": "Sat, Aug 29",
         "dateLong": "Saturday, August 29",
-        "dayStart": "10:40",
+        "dayStart": "12:39",
         "dayEnd": "13:16",
         "events": [
           {
-            "start": "10:40",
-            "end": "10:45",
-            "cat": "coding",
-            "src": "local",
-            "title": "data.js",
-            "note": "2 hits"
+            "start": "12:39",
+            "end": "12:47",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Download the RedotPay App - Available on App Store & Google ",
+            "note": "redotpay.com"
           },
           {
-            "start": "12:39",
-            "end": "12:59",
-            "cat": "personal",
+            "start": "12:47",
+            "end": "12:54",
+            "cat": "admin",
             "src": "chrome",
             "title": "RedotPay: The Ultimate Crypto Card for Secure Crypto Payment",
             "note": "redotpay.com"
           },
           {
-            "start": "12:59",
+            "start": "12:55",
+            "end": "12:56",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Thank You: Order Confirmation - Education - Apple (AU)",
+            "note": "secure8.store.apple.com"
+          },
+          {
+            "start": "12:56",
             "end": "13:16",
             "cat": "admin",
-            "src": "chrome",
-            "title": "Buy Mac Studio, M5 Ultra Chip, 36-core CPU, 80-core GPU, 256",
-            "note": "mail.google.com"
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
           }
         ],
-        "logged": 42,
-        "real": 5,
-        "deep": 5,
-        "ratio": 0.11867127352549615,
+        "logged": 36,
+        "real": 0,
+        "deep": 0,
+        "ratio": 0.0,
         "stats": {
-          "contextSwitches": 2,
-          "tabsOpened": 6,
-          "longestFocus": "5m",
+          "contextSwitches": 0,
+          "tabsOpened": 3,
+          "longestFocus": "0m",
           "justOneMoreThing": 0
         }
       },
@@ -73574,18 +73558,531 @@
         "weekend": true,
         "dateShort": "Sun, Aug 30",
         "dateLong": "Sunday, August 30",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "10:50",
+        "dayEnd": "00:27",
+        "events": [
+          {
+            "start": "10:50",
+            "end": "10:55",
+            "cat": "coding",
+            "src": "local",
+            "title": "data.js",
+            "note": "2 hits"
+          },
+          {
+            "start": "15:11",
+            "end": "15:17",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "15:18",
+            "end": "15:28",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "15:29",
+            "end": "15:38",
+            "cat": "research",
+            "src": "macos",
+            "title": "Less is Enough: Synthesizing Diverse Data in LLM Feature Spa",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "15:38",
+            "end": "15:58",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "16:22",
+            "end": "16:26",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "16:27",
+            "end": "16:34",
+            "cat": "research",
+            "src": "macos",
+            "title": "Automatically Interpreting Millions of Features in Large Lan",
+            "note": "openreview.net"
+          },
+          {
+            "start": "16:34",
+            "end": "16:44",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "16:44",
+            "end": "17:01",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "17:02",
+            "end": "17:04",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Canonical request翻译",
+            "note": "chat.openai.com"
+          },
+          {
+            "start": "17:05",
+            "end": "17:20",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Shampoo & Conditioner | Luxury Hair Care | Aesop Australia",
+            "note": "aesop.com.au"
+          },
+          {
+            "start": "17:20",
+            "end": "17:22",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Press play on some of the biggest gigs, Ada! - ada.ren.cn@gm",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "17:22",
+            "end": "17:23",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(3) Morning Fresh Start | Cozy Cafe Jazz BGM for Relaxing Da",
+            "note": "youtube.com"
+          },
+          {
+            "start": "17:23",
+            "end": "17:24",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Press play on some of the biggest gigs, Ada! - ada.ren.cn@gm",
+            "note": "google.com"
+          },
+          {
+            "start": "17:25",
+            "end": "17:28",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "17:28",
+            "end": "17:32",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "17:32",
+            "end": "17:33",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Press play on some of the biggest gigs, Ada! - ada.ren.cn@gm",
+            "note": "google.com"
+          },
+          {
+            "start": "17:33",
+            "end": "17:35",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(3) YouTube",
+            "note": "youtube.com"
+          },
+          {
+            "start": "17:35",
+            "end": "17:36",
+            "cat": "admin",
+            "src": "macos",
+            "title": "[AINews] OpenAI shuts off Cursor - ada.ren.cn@gmail.com - Gm",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "17:36",
+            "end": "17:39",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
+            "note": "sport.mq.edu.au"
+          },
+          {
+            "start": "17:39",
+            "end": "17:45",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "17:45",
+            "end": "17:56",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "17:56",
+            "end": "17:58",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "17:59",
+            "end": "18:38",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "308 hits"
+          },
+          {
+            "start": "18:52",
+            "end": "19:00",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "53 hits"
+          },
+          {
+            "start": "19:00",
+            "end": "19:02",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "57 hits"
+          },
+          {
+            "start": "19:02",
+            "end": "19:05",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "57 hits"
+          },
+          {
+            "start": "19:05",
+            "end": "19:13",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "57 hits"
+          },
+          {
+            "start": "19:14",
+            "end": "19:22",
+            "cat": "research",
+            "src": "macos",
+            "title": "SASFT: Sparse Autoencoder-guided Supervised Finetuning to Mi",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "19:22",
+            "end": "19:23",
+            "cat": "research",
+            "src": "chrome",
+            "title": "SASFT: Sparse Autoencoder-guided Supervised Finetuning to Mi",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "19:23",
+            "end": "19:25",
+            "cat": "research",
+            "src": "chrome",
+            "title": "SASFT: Sparse Autoencoder-guided Supervised Finetuning to Mi",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "19:25",
+            "end": "19:28",
+            "cat": "coding",
+            "src": "local",
+            "title": "manifest.json",
+            "note": "2 hits"
+          },
+          {
+            "start": "19:32",
+            "end": "19:37",
+            "cat": "coding",
+            "src": "local",
+            "title": "manifest.json",
+            "note": "2 hits"
+          },
+          {
+            "start": "19:38",
+            "end": "19:43",
+            "cat": "coding",
+            "src": "local",
+            "title": "manifest.json",
+            "note": "2 hits"
+          },
+          {
+            "start": "19:50",
+            "end": "19:55",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "45 hits"
+          },
+          {
+            "start": "19:55",
+            "end": "20:01",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "45 hits"
+          },
+          {
+            "start": "20:01",
+            "end": "20:03",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "5 hits"
+          },
+          {
+            "start": "20:03",
+            "end": "20:04",
+            "cat": "coding",
+            "src": "local",
+            "title": "manifest.json",
+            "note": "2 hits"
+          },
+          {
+            "start": "20:04",
+            "end": "20:06",
+            "cat": "coding",
+            "src": "local",
+            "title": "manifest.json",
+            "note": "2 hits"
+          },
+          {
+            "start": "20:06",
+            "end": "20:07",
+            "cat": "coding",
+            "src": "local",
+            "title": "manifest.json",
+            "note": "2 hits"
+          },
+          {
+            "start": "20:07",
+            "end": "20:09",
+            "cat": "coding",
+            "src": "local",
+            "title": "manifest.json",
+            "note": "2 hits"
+          },
+          {
+            "start": "20:09",
+            "end": "20:11",
+            "cat": "coding",
+            "src": "local",
+            "title": "manifest.json",
+            "note": "2 hits"
+          },
+          {
+            "start": "20:12",
+            "end": "20:16",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "14 hits"
+          },
+          {
+            "start": "20:42",
+            "end": "20:45",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "20:45",
+            "end": "21:01",
+            "cat": "research",
+            "src": "macos",
+            "title": "SASFT: Sparse Autoencoder-guided Supervised Finetuning to Mi",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "21:01",
+            "end": "21:12",
+            "cat": "writing",
+            "src": "chrome",
+            "title": "week6prac.pdf",
+            "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+          },
+          {
+            "start": "21:12",
+            "end": "21:16",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Watchband Board — Decision Trees & CN2",
+            "note": "file:///Users/ada/Downloads/watchband-bo"
+          },
+          {
+            "start": "21:16",
+            "end": "21:18",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "21:18",
+            "end": "21:19",
+            "cat": "coding",
+            "src": "macos",
+            "title": "240716u3u1yy41w",
+            "note": "com.todesktop.240716u3u1yy41w"
+          },
+          {
+            "start": "21:19",
+            "end": "21:21",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Watchband Board — Decision Trees & CN2",
+            "note": "file:///Users/ada/Downloads/watchband-bo"
+          },
+          {
+            "start": "21:21",
+            "end": "21:36",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Watchband Board — Decision Trees & CN2",
+            "note": "file:///Users/ada/Downloads/watchband-bo"
+          },
+          {
+            "start": "21:36",
+            "end": "21:41",
+            "cat": "coding",
+            "src": "macos",
+            "title": "240716u3u1yy41w",
+            "note": "com.todesktop.240716u3u1yy41w"
+          },
+          {
+            "start": "21:41",
+            "end": "21:53",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Watchband Board — Decision Trees & CN2",
+            "note": "file:///Users/ada/Downloads/watchband-bo"
+          },
+          {
+            "start": "21:56",
+            "end": "22:05",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Watchband Board — Decision Trees & CN2",
+            "note": "file:///Users/ada/Downloads/watchband-bo"
+          },
+          {
+            "start": "22:06",
+            "end": "22:40",
+            "cat": "research",
+            "src": "chrome",
+            "title": "解释定向消融、】【",
+            "note": "chatgpt.com"
+          },
+          {
+            "start": "22:50",
+            "end": "22:57",
+            "cat": "research",
+            "src": "macos",
+            "title": "解释定向消融、】【",
+            "note": "chatgpt.com"
+          },
+          {
+            "start": "23:14",
+            "end": "23:20",
+            "cat": "research",
+            "src": "macos",
+            "title": "解释定向消融、】【",
+            "note": "chatgpt.com"
+          },
+          {
+            "start": "23:21",
+            "end": "23:41",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Qwen-Scope: Turning Sparse Features intoDevelopment Tools fo",
+            "note": "modelscope.ai"
+          },
+          {
+            "start": "23:45",
+            "end": "23:57",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "1 hit"
+          },
+          {
+            "start": "23:59",
+            "end": "23:59",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Components of A Coding Agent - by Sebastian Raschka, PhD",
+            "note": "magazine.sebastianraschka.com"
+          },
+          {
+            "start": "23:59",
+            "end": "00:03",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "00:03",
+            "end": "00:15",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Components of A Coding Agent - by Sebastian Raschka, PhD",
+            "note": "magazine.sebastianraschka.com"
+          },
+          {
+            "start": "00:15",
+            "end": "00:22",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "00:22",
+            "end": "00:27",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Components of A Coding Agent - by Sebastian Raschka, PhD",
+            "note": "magazine.sebastianraschka.com"
+          }
+        ],
+        "logged": 442,
+        "real": 374,
+        "deep": 374,
+        "ratio": 0.8468452031317645,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "0m",
-          "justOneMoreThing": 0
+          "contextSwitches": 29,
+          "tabsOpened": 39,
+          "longestFocus": "2h 38m",
+          "justOneMoreThing": 1
         }
       },
       {
@@ -73595,17 +74092,26 @@
         "weekend": false,
         "dateShort": "Mon, Aug 31",
         "dateLong": "Monday, August 31",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "10:12",
+        "dayEnd": "10:32",
+        "events": [
+          {
+            "start": "10:12",
+            "end": "10:32",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Week_6_From_Data_to_Models.ipynb - Colab",
+            "note": "colab.research.google.com"
+          }
+        ],
+        "logged": 20,
+        "real": 20,
+        "deep": 20,
+        "ratio": 1.0,
         "stats": {
           "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "0m",
+          "tabsOpened": 3,
+          "longestFocus": "20m",
           "justOneMoreThing": 0
         }
       }
@@ -97220,7 +97726,7 @@
       "dateShort": "Fri, Aug 28",
       "dateLong": "Friday, August 28",
       "dayStart": "10:07",
-      "dayEnd": "19:26",
+      "dayEnd": "19:41",
       "events": [
         {
           "start": "10:07",
@@ -97331,7 +97837,7 @@
           "end": "11:00",
           "cat": "personal",
           "src": "macos",
-          "title": "主页 / X",
+          "title": "(1) 主页 / X",
           "note": "x.com"
         },
         {
@@ -97375,11 +97881,11 @@
           "note": "x.com"
         },
         {
-          "start": "11:18",
+          "start": "11:17",
           "end": "11:19",
           "cat": "admin",
           "src": "chrome",
-          "title": "Research Compute",
+          "title": "0. Welcome to Gadi - NCI Help - Opus - NCI Confluence",
           "note": "goto.mq"
         },
         {
@@ -97403,7 +97909,7 @@
           "end": "11:32",
           "cat": "admin",
           "src": "chrome",
-          "title": "Research Compute",
+          "title": "0. Welcome to Gadi - NCI Help - Opus - NCI Confluence",
           "note": "goto.mq"
         },
         {
@@ -97424,19 +97930,11 @@
         },
         {
           "start": "11:37",
-          "end": "11:37",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Research Compute",
-          "note": "goto.mq"
-        },
-        {
-          "start": "11:38",
           "end": "11:38",
           "cat": "admin",
           "src": "chrome",
-          "title": "ChatGPT",
-          "note": "google.com"
+          "title": "0. Welcome to Gadi - NCI Help - Opus - NCI Confluence",
+          "note": "goto.mq"
         },
         {
           "start": "11:38",
@@ -97459,8 +97957,8 @@
           "end": "11:43",
           "cat": "admin",
           "src": "chrome",
-          "title": "ChatGPT",
-          "note": "google.com"
+          "title": "0. Welcome to Gadi - NCI Help - Opus - NCI Confluence",
+          "note": "goto.mq"
         },
         {
           "start": "11:43",
@@ -97499,8 +97997,8 @@
           "end": "11:55",
           "cat": "admin",
           "src": "chrome",
-          "title": "ChatGPT",
-          "note": "google.com"
+          "title": "0. Welcome to Gadi - NCI Help - Opus - NCI Confluence",
+          "note": "goto.mq"
         },
         {
           "start": "11:55",
@@ -97593,7 +98091,7 @@
         {
           "start": "14:42",
           "end": "14:42",
-          "cat": "personal",
+          "cat": "research",
           "src": "chrome",
           "title": "Using decision trees to manage hospital readmission risk for",
           "note": "ncbi.nlm.nih.gov"
@@ -97624,11 +98122,19 @@
         },
         {
           "start": "14:55",
-          "end": "14:59",
-          "cat": "personal",
+          "end": "14:57",
+          "cat": "research",
           "src": "chrome",
           "title": "Using decision trees to manage hospital readmission risk for",
           "note": "ncbi.nlm.nih.gov"
+        },
+        {
+          "start": "14:57",
+          "end": "14:59",
+          "cat": "coding",
+          "src": "macos",
+          "title": "log x | Desmos",
+          "note": "desmos.com"
         },
         {
           "start": "14:59",
@@ -97680,27 +98186,11 @@
         },
         {
           "start": "15:32",
-          "end": "15:34",
+          "end": "15:43",
           "cat": "admin",
           "src": "macos",
           "title": "slackmacgap",
           "note": "com.tinyspeck.slackmacgap"
-        },
-        {
-          "start": "15:34",
-          "end": "15:42",
-          "cat": "personal",
-          "src": "macos",
-          "title": "Meta Research PhD Fellowship",
-          "note": "metaresearchphdfellowship.smapply.io"
-        },
-        {
-          "start": "15:42",
-          "end": "15:43",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Data file for week 6 ",
-          "note": "ilearn.mq.edu.au"
         },
         {
           "start": "15:43",
@@ -97731,7 +98221,7 @@
           "end": "15:54",
           "cat": "admin",
           "src": "chrome",
-          "title": "Google Translate",
+          "title": "Meta Research PhD Fellowship",
           "note": "iprint.mq.edu.au:9443"
         },
         {
@@ -97984,30 +98474,22 @@
         },
         {
           "start": "19:00",
-          "end": "19:14",
+          "end": "19:41",
           "cat": "research",
           "src": "macos",
           "title": "zotero",
           "note": "org.zotero.zotero"
-        },
-        {
-          "start": "19:14",
-          "end": "19:26",
-          "cat": "research",
-          "src": "chrome",
-          "title": "Jaccard overlap explanation",
-          "note": "chatgpt.com"
         }
       ],
-      "logged": 476,
-      "real": 319,
-      "deep": 319,
-      "ratio": 0.6711647383184051,
+      "logged": 491,
+      "real": 339,
+      "deep": 339,
+      "ratio": 0.6898320080298607,
       "stats": {
-        "contextSwitches": 67,
-        "tabsOpened": 78,
+        "contextSwitches": 66,
+        "tabsOpened": 69,
         "longestFocus": "45m",
-        "justOneMoreThing": 18
+        "justOneMoreThing": 19
       }
     },
     {
@@ -98017,42 +98499,50 @@
       "weekend": true,
       "dateShort": "Sat, Aug 29",
       "dateLong": "Saturday, August 29",
-      "dayStart": "10:40",
+      "dayStart": "12:39",
       "dayEnd": "13:16",
       "events": [
         {
-          "start": "10:40",
-          "end": "10:45",
-          "cat": "coding",
-          "src": "local",
-          "title": "data.js",
-          "note": "2 hits"
+          "start": "12:39",
+          "end": "12:47",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Download the RedotPay App - Available on App Store & Google ",
+          "note": "redotpay.com"
         },
         {
-          "start": "12:39",
-          "end": "12:59",
-          "cat": "personal",
+          "start": "12:47",
+          "end": "12:54",
+          "cat": "admin",
           "src": "chrome",
           "title": "RedotPay: The Ultimate Crypto Card for Secure Crypto Payment",
           "note": "redotpay.com"
         },
         {
-          "start": "12:59",
+          "start": "12:55",
+          "end": "12:56",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Thank You: Order Confirmation - Education - Apple (AU)",
+          "note": "secure8.store.apple.com"
+        },
+        {
+          "start": "12:56",
           "end": "13:16",
           "cat": "admin",
-          "src": "chrome",
-          "title": "Buy Mac Studio, M5 Ultra Chip, 36-core CPU, 80-core GPU, 256",
-          "note": "mail.google.com"
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
         }
       ],
-      "logged": 42,
-      "real": 5,
-      "deep": 5,
-      "ratio": 0.11867127352549615,
+      "logged": 36,
+      "real": 0,
+      "deep": 0,
+      "ratio": 0.0,
       "stats": {
-        "contextSwitches": 2,
-        "tabsOpened": 6,
-        "longestFocus": "5m",
+        "contextSwitches": 0,
+        "tabsOpened": 3,
+        "longestFocus": "0m",
         "justOneMoreThing": 0
       }
     },
@@ -98063,18 +98553,531 @@
       "weekend": true,
       "dateShort": "Sun, Aug 30",
       "dateLong": "Sunday, August 30",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "10:50",
+      "dayEnd": "00:27",
+      "events": [
+        {
+          "start": "10:50",
+          "end": "10:55",
+          "cat": "coding",
+          "src": "local",
+          "title": "data.js",
+          "note": "2 hits"
+        },
+        {
+          "start": "15:11",
+          "end": "15:17",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "15:18",
+          "end": "15:28",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "15:29",
+          "end": "15:38",
+          "cat": "research",
+          "src": "macos",
+          "title": "Less is Enough: Synthesizing Diverse Data in LLM Feature Spa",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "15:38",
+          "end": "15:58",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "16:22",
+          "end": "16:26",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "16:27",
+          "end": "16:34",
+          "cat": "research",
+          "src": "macos",
+          "title": "Automatically Interpreting Millions of Features in Large Lan",
+          "note": "openreview.net"
+        },
+        {
+          "start": "16:34",
+          "end": "16:44",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "16:44",
+          "end": "17:01",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "17:02",
+          "end": "17:04",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Canonical request翻译",
+          "note": "chat.openai.com"
+        },
+        {
+          "start": "17:05",
+          "end": "17:20",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Shampoo & Conditioner | Luxury Hair Care | Aesop Australia",
+          "note": "aesop.com.au"
+        },
+        {
+          "start": "17:20",
+          "end": "17:22",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Press play on some of the biggest gigs, Ada! - ada.ren.cn@gm",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "17:22",
+          "end": "17:23",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(3) Morning Fresh Start | Cozy Cafe Jazz BGM for Relaxing Da",
+          "note": "youtube.com"
+        },
+        {
+          "start": "17:23",
+          "end": "17:24",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Press play on some of the biggest gigs, Ada! - ada.ren.cn@gm",
+          "note": "google.com"
+        },
+        {
+          "start": "17:25",
+          "end": "17:28",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "17:28",
+          "end": "17:32",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "17:32",
+          "end": "17:33",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Press play on some of the biggest gigs, Ada! - ada.ren.cn@gm",
+          "note": "google.com"
+        },
+        {
+          "start": "17:33",
+          "end": "17:35",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(3) YouTube",
+          "note": "youtube.com"
+        },
+        {
+          "start": "17:35",
+          "end": "17:36",
+          "cat": "admin",
+          "src": "macos",
+          "title": "[AINews] OpenAI shuts off Cursor - ada.ren.cn@gmail.com - Gm",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "17:36",
+          "end": "17:39",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
+          "note": "sport.mq.edu.au"
+        },
+        {
+          "start": "17:39",
+          "end": "17:45",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "17:45",
+          "end": "17:56",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "17:56",
+          "end": "17:58",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "17:59",
+          "end": "18:38",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "308 hits"
+        },
+        {
+          "start": "18:52",
+          "end": "19:00",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "53 hits"
+        },
+        {
+          "start": "19:00",
+          "end": "19:02",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "57 hits"
+        },
+        {
+          "start": "19:02",
+          "end": "19:05",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "57 hits"
+        },
+        {
+          "start": "19:05",
+          "end": "19:13",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "57 hits"
+        },
+        {
+          "start": "19:14",
+          "end": "19:22",
+          "cat": "research",
+          "src": "macos",
+          "title": "SASFT: Sparse Autoencoder-guided Supervised Finetuning to Mi",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "19:22",
+          "end": "19:23",
+          "cat": "research",
+          "src": "chrome",
+          "title": "SASFT: Sparse Autoencoder-guided Supervised Finetuning to Mi",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "19:23",
+          "end": "19:25",
+          "cat": "research",
+          "src": "chrome",
+          "title": "SASFT: Sparse Autoencoder-guided Supervised Finetuning to Mi",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "19:25",
+          "end": "19:28",
+          "cat": "coding",
+          "src": "local",
+          "title": "manifest.json",
+          "note": "2 hits"
+        },
+        {
+          "start": "19:32",
+          "end": "19:37",
+          "cat": "coding",
+          "src": "local",
+          "title": "manifest.json",
+          "note": "2 hits"
+        },
+        {
+          "start": "19:38",
+          "end": "19:43",
+          "cat": "coding",
+          "src": "local",
+          "title": "manifest.json",
+          "note": "2 hits"
+        },
+        {
+          "start": "19:50",
+          "end": "19:55",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "45 hits"
+        },
+        {
+          "start": "19:55",
+          "end": "20:01",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "45 hits"
+        },
+        {
+          "start": "20:01",
+          "end": "20:03",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "5 hits"
+        },
+        {
+          "start": "20:03",
+          "end": "20:04",
+          "cat": "coding",
+          "src": "local",
+          "title": "manifest.json",
+          "note": "2 hits"
+        },
+        {
+          "start": "20:04",
+          "end": "20:06",
+          "cat": "coding",
+          "src": "local",
+          "title": "manifest.json",
+          "note": "2 hits"
+        },
+        {
+          "start": "20:06",
+          "end": "20:07",
+          "cat": "coding",
+          "src": "local",
+          "title": "manifest.json",
+          "note": "2 hits"
+        },
+        {
+          "start": "20:07",
+          "end": "20:09",
+          "cat": "coding",
+          "src": "local",
+          "title": "manifest.json",
+          "note": "2 hits"
+        },
+        {
+          "start": "20:09",
+          "end": "20:11",
+          "cat": "coding",
+          "src": "local",
+          "title": "manifest.json",
+          "note": "2 hits"
+        },
+        {
+          "start": "20:12",
+          "end": "20:16",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "14 hits"
+        },
+        {
+          "start": "20:42",
+          "end": "20:45",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "20:45",
+          "end": "21:01",
+          "cat": "research",
+          "src": "macos",
+          "title": "SASFT: Sparse Autoencoder-guided Supervised Finetuning to Mi",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "21:01",
+          "end": "21:12",
+          "cat": "writing",
+          "src": "chrome",
+          "title": "week6prac.pdf",
+          "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+        },
+        {
+          "start": "21:12",
+          "end": "21:16",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Watchband Board — Decision Trees & CN2",
+          "note": "file:///Users/ada/Downloads/watchband-bo"
+        },
+        {
+          "start": "21:16",
+          "end": "21:18",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "21:18",
+          "end": "21:19",
+          "cat": "coding",
+          "src": "macos",
+          "title": "240716u3u1yy41w",
+          "note": "com.todesktop.240716u3u1yy41w"
+        },
+        {
+          "start": "21:19",
+          "end": "21:21",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Watchband Board — Decision Trees & CN2",
+          "note": "file:///Users/ada/Downloads/watchband-bo"
+        },
+        {
+          "start": "21:21",
+          "end": "21:36",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Watchband Board — Decision Trees & CN2",
+          "note": "file:///Users/ada/Downloads/watchband-bo"
+        },
+        {
+          "start": "21:36",
+          "end": "21:41",
+          "cat": "coding",
+          "src": "macos",
+          "title": "240716u3u1yy41w",
+          "note": "com.todesktop.240716u3u1yy41w"
+        },
+        {
+          "start": "21:41",
+          "end": "21:53",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Watchband Board — Decision Trees & CN2",
+          "note": "file:///Users/ada/Downloads/watchband-bo"
+        },
+        {
+          "start": "21:56",
+          "end": "22:05",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Watchband Board — Decision Trees & CN2",
+          "note": "file:///Users/ada/Downloads/watchband-bo"
+        },
+        {
+          "start": "22:06",
+          "end": "22:40",
+          "cat": "research",
+          "src": "chrome",
+          "title": "解释定向消融、】【",
+          "note": "chatgpt.com"
+        },
+        {
+          "start": "22:50",
+          "end": "22:57",
+          "cat": "research",
+          "src": "macos",
+          "title": "解释定向消融、】【",
+          "note": "chatgpt.com"
+        },
+        {
+          "start": "23:14",
+          "end": "23:20",
+          "cat": "research",
+          "src": "macos",
+          "title": "解释定向消融、】【",
+          "note": "chatgpt.com"
+        },
+        {
+          "start": "23:21",
+          "end": "23:41",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Qwen-Scope: Turning Sparse Features intoDevelopment Tools fo",
+          "note": "modelscope.ai"
+        },
+        {
+          "start": "23:45",
+          "end": "23:57",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "1 hit"
+        },
+        {
+          "start": "23:59",
+          "end": "23:59",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Components of A Coding Agent - by Sebastian Raschka, PhD",
+          "note": "magazine.sebastianraschka.com"
+        },
+        {
+          "start": "23:59",
+          "end": "00:03",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "00:03",
+          "end": "00:15",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Components of A Coding Agent - by Sebastian Raschka, PhD",
+          "note": "magazine.sebastianraschka.com"
+        },
+        {
+          "start": "00:15",
+          "end": "00:22",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "00:22",
+          "end": "00:27",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Components of A Coding Agent - by Sebastian Raschka, PhD",
+          "note": "magazine.sebastianraschka.com"
+        }
+      ],
+      "logged": 442,
+      "real": 374,
+      "deep": 374,
+      "ratio": 0.8468452031317645,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "0m",
-        "justOneMoreThing": 0
+        "contextSwitches": 29,
+        "tabsOpened": 39,
+        "longestFocus": "2h 38m",
+        "justOneMoreThing": 1
       }
     },
     {
@@ -98084,17 +99087,26 @@
       "weekend": false,
       "dateShort": "Mon, Aug 31",
       "dateLong": "Monday, August 31",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "10:12",
+      "dayEnd": "10:32",
+      "events": [
+        {
+          "start": "10:12",
+          "end": "10:32",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Week_6_From_Data_to_Models.ipynb - Colab",
+          "note": "colab.research.google.com"
+        }
+      ],
+      "logged": 20,
+      "real": 20,
+      "deep": 20,
+      "ratio": 1.0,
       "stats": {
         "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "0m",
+        "tabsOpened": 3,
+        "longestFocus": "20m",
         "justOneMoreThing": 0
       }
     }
