@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-09-01T10:20:11+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-09-02T10:20:11+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -74571,34 +74571,738 @@
         "dateShort": "Tue, Sep 1",
         "dateLong": "Tuesday, September 1",
         "dayStart": "09:55",
-        "dayEnd": "10:24",
+        "dayEnd": "00:04",
         "events": [
           {
             "start": "09:55",
-            "end": "10:20",
+            "end": "10:24",
             "cat": "coding",
             "src": "chrome",
             "title": "Learn Splitting the Nodes | Decision Tree",
             "note": "codefinity.com"
           },
           {
-            "start": "10:20",
-            "end": "10:24",
-            "cat": "writing",
-            "src": "local",
-            "title": "2026-08-31-improving-alignment-security-efforts.md",
+            "start": "10:25",
+            "end": "10:27",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · ada",
+            "note": "44 hits"
+          },
+          {
+            "start": "10:27",
+            "end": "10:32",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · ada",
+            "note": "44 hits"
+          },
+          {
+            "start": "10:32",
+            "end": "10:39",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "10:39",
+            "end": "11:08",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:08",
+            "end": "11:11",
+            "cat": "research",
+            "src": "chrome",
+            "title": "AI Digest — September 1, 2026 | Ada's Notes",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "11:11",
+            "end": "11:26",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:27",
+            "end": "11:29",
+            "cat": "personal",
+            "src": "macos",
+            "title": "X 上的 Andrew Ng：“OpenWorker -- an open source agent that does",
+            "note": "x.com"
+          },
+          {
+            "start": "11:29",
+            "end": "11:34",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:34",
+            "end": "12:06",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "12:07",
+            "end": "12:15",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "12:15",
+            "end": "12:35",
+            "cat": "research",
+            "src": "macos",
+            "title": "Qwen/SAE-Res-Qwen3.5-2B-Base-W32K-L0_100 · Hugging Face",
+            "note": "huggingface.co"
+          },
+          {
+            "start": "13:14",
+            "end": "13:15",
+            "cat": "research",
+            "src": "macos",
+            "title": "Qwen/SAE-Res-Qwen3.5-2B-Base-W32K-L0_100 · Hugging Face",
+            "note": "huggingface.co"
+          },
+          {
+            "start": "13:15",
+            "end": "13:22",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Beecroft - Google Maps",
+            "note": "google.com"
+          },
+          {
+            "start": "13:22",
+            "end": "13:28",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Google Maps",
+            "note": "map.google.com"
+          },
+          {
+            "start": "13:28",
+            "end": "13:33",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "13:34",
+            "end": "13:35",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "13:35",
+            "end": "13:37",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "13:38",
+            "end": "13:42",
+            "cat": "research",
+            "src": "macos",
+            "title": "Components of A Coding Agent - by Sebastian Raschka, PhD",
+            "note": "magazine.sebastianraschka.com"
+          },
+          {
+            "start": "13:42",
+            "end": "13:46",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "13:46",
+            "end": "13:48",
+            "cat": "coding",
+            "src": "vscode",
+            "title": "VS Code · qwen_scope_minimal.ipynb",
             "note": "3 hits"
+          },
+          {
+            "start": "13:48",
+            "end": "13:52",
+            "cat": "admin",
+            "src": "macos",
+            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Am I answering True o",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "13:52",
+            "end": "13:53",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "13:53",
+            "end": "13:55",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "13:55",
+            "end": "13:58",
+            "cat": "writing",
+            "src": "macos",
+            "title": "obsidian",
+            "note": "md.obsidian"
+          },
+          {
+            "start": "13:58",
+            "end": "14:00",
+            "cat": "coding",
+            "src": "vscode",
+            "title": "VS Code · qwen_scope_minimal.ipynb",
+            "note": "3 hits"
+          },
+          {
+            "start": "14:00",
+            "end": "14:02",
+            "cat": "research",
+            "src": "macos",
+            "title": "Zhang et al. - 2024 - PsySafe A Comprehensive Framework for ",
+            "note": "file:///Users/ada/Zotero/storage/PB2F8B5"
+          },
+          {
+            "start": "14:02",
+            "end": "14:03",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Am I answering True o",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "14:03",
+            "end": "14:04",
+            "cat": "research",
+            "src": "macos",
+            "title": "2501.16496",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "14:04",
+            "end": "14:05",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Am I answering True o",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "14:05",
+            "end": "14:06",
+            "cat": "research",
+            "src": "macos",
+            "title": "Open Problems in Mechanistic Interpretability | OpenReview",
+            "note": "openreview.net"
+          },
+          {
+            "start": "14:06",
+            "end": "14:08",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "14:08",
+            "end": "14:11",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "14:11",
+            "end": "14:25",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Zhang et al. - 2024 - PsySafe A Comprehensive Framework for ",
+            "note": "file:///Users/ada/Zotero/storage/PB2F8B5"
+          },
+          {
+            "start": "15:12",
+            "end": "15:15",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "15:16",
+            "end": "15:30",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
+            "note": "sport.mq.edu.au"
+          },
+          {
+            "start": "15:30",
+            "end": "15:33",
+            "cat": "research",
+            "src": "macos",
+            "title": "Components of A Coding Agent - by Sebastian Raschka, PhD",
+            "note": "magazine.sebastianraschka.com"
+          },
+          {
+            "start": "15:33",
+            "end": "15:35",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "15:36",
+            "end": "15:37",
+            "cat": "coding",
+            "src": "macos",
+            "title": "GitHub - rasbt/mini-coding-agent: Minimal and readable codin",
+            "note": "github.com"
+          },
+          {
+            "start": "15:37",
+            "end": "15:41",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Build a Reasoning Model (From Scratch) - Sebastian Raschka",
+            "note": "mng.bz"
+          },
+          {
+            "start": "15:41",
+            "end": "15:46",
+            "cat": "coding",
+            "src": "macos",
+            "title": "iterm2",
+            "note": "com.googlecode.iterm2"
+          },
+          {
+            "start": "15:47",
+            "end": "15:48",
+            "cat": "coding",
+            "src": "macos",
+            "title": "iterm2",
+            "note": "com.googlecode.iterm2"
+          },
+          {
+            "start": "15:48",
+            "end": "15:51",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:52",
+            "end": "15:53",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:53",
+            "end": "15:57",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:58",
+            "end": "15:59",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "15:59",
+            "end": "16:02",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "16:02",
+            "end": "16:04",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:05",
+            "end": "16:07",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Slack",
+            "note": "socialnlp-lab.slack.com"
+          },
+          {
+            "start": "16:07",
+            "end": "16:15",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Macquarie University PhD and MRes Thesis - Online LaTeX Edit",
+            "note": "overleaf.com"
+          },
+          {
+            "start": "16:15",
+            "end": "16:18",
+            "cat": "research",
+            "src": "macos",
+            "title": "agentic AI",
+            "note": "perplexity.ai"
+          },
+          {
+            "start": "16:18",
+            "end": "16:19",
+            "cat": "research",
+            "src": "macos",
+            "title": "From Language Models to Agentic AI: A Survey of Autonomous, ",
+            "note": "link.springer.com"
+          },
+          {
+            "start": "16:20",
+            "end": "16:21",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Patterns and problems in multiagent systems \\ Anthropic",
+            "note": "anthropic.com"
+          },
+          {
+            "start": "16:21",
+            "end": "16:25",
+            "cat": "research",
+            "src": "macos",
+            "title": "From Language Models to Agentic AI- A Survey of Autonomous, ",
+            "note": "file:///Users/ada/Documents/MQ/papers/li"
+          },
+          {
+            "start": "16:25",
+            "end": "16:27",
+            "cat": "research",
+            "src": "chrome",
+            "title": "From Language Models to Agentic AI: A Survey of Autonomous, ",
+            "note": "perplexity.ai"
+          },
+          {
+            "start": "16:27",
+            "end": "16:27",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "16:27",
+            "end": "16:33",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "16:33",
+            "end": "16:38",
+            "cat": "research",
+            "src": "chrome",
+            "title": "From Language Models to Agentic AI: A Survey of Autonomous, ",
+            "note": "perplexity.ai"
+          },
+          {
+            "start": "16:38",
+            "end": "16:42",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Petra Graham - Macquarie University",
+            "note": "researchers.mq.edu.au"
+          },
+          {
+            "start": "16:42",
+            "end": "16:44",
+            "cat": "research",
+            "src": "macos",
+            "title": "Perplexity",
+            "note": "perplexity.ai"
+          },
+          {
+            "start": "16:44",
+            "end": "17:06",
+            "cat": "admin",
+            "src": "macos",
+            "title": "oMRBmT0Do5V4mSh_oYMq7HgTqEIt7tz6rhs_oLdfwWIY1pFUcjj95P7AU7SK",
+            "note": "lh5.googleusercontent.com"
+          },
+          {
+            "start": "17:06",
+            "end": "17:14",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
+            "note": "sport.mq.edu.au"
+          },
+          {
+            "start": "17:15",
+            "end": "17:17",
+            "cat": "research",
+            "src": "macos",
+            "title": "64th Annual Meeting of the Association for Computational Lin",
+            "note": "aclanthology.org"
+          },
+          {
+            "start": "17:17",
+            "end": "17:22",
+            "cat": "research",
+            "src": "macos",
+            "title": "2026.acl-long.86.pdf",
+            "note": "aclanthology.org"
+          },
+          {
+            "start": "17:22",
+            "end": "17:34",
+            "cat": "research",
+            "src": "macos",
+            "title": "Agentic-imodels: Evolving agentic interpretability tools via",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "17:35",
+            "end": "17:37",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Viva Engage - Conversation",
+            "note": "login.microsoftonline.com"
+          },
+          {
+            "start": "17:37",
+            "end": "17:42",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Agentic-imodels: Evolving agentic interpretability tools via",
+            "note": "aclanthology.org"
+          },
+          {
+            "start": "17:47",
+            "end": "17:48",
+            "cat": "research",
+            "src": "macos",
+            "title": "SAGE: An Agentic Explainer Framework for Interpreting SAE Fe",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "17:49",
+            "end": "18:05",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Patterns and problems in multiagent systems \\ Anthropic",
+            "note": "anthropic.com"
+          },
+          {
+            "start": "18:05",
+            "end": "18:08",
+            "cat": "admin",
+            "src": "macos",
+            "title": "ZHAO_YUE_CV.pdf",
+            "note": "viterbi-web.usc.edu"
+          },
+          {
+            "start": "18:08",
+            "end": "18:11",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "yzhao062/awesome-auditable-ai: Auditing AI agents: a curated",
+            "note": "auditable.run"
+          },
+          {
+            "start": "18:11",
+            "end": "18:17",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "yzhao062/awesome-auditable-ai: Auditing AI agents: a curated",
+            "note": "auditable.run"
+          },
+          {
+            "start": "18:17",
+            "end": "18:20",
+            "cat": "research",
+            "src": "macos",
+            "title": "Survey on Evaluation of LLM-based Agents",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "18:21",
+            "end": "18:30",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Asaf-Yehudai/LLM-Agent-Evaluation-Survey: Top papers related",
+            "note": "github.com"
+          },
+          {
+            "start": "18:30",
+            "end": "18:35",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "18:35",
+            "end": "18:37",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Asaf-Yehudai/LLM-Agent-Evaluation-Survey: Top papers related",
+            "note": "github.com"
+          },
+          {
+            "start": "18:37",
+            "end": "18:40",
+            "cat": "admin",
+            "src": "macos",
+            "title": "PyOD 3 | Agentic Anomaly Detection at Scale",
+            "note": "viterbi-web.usc.edu"
+          },
+          {
+            "start": "18:41",
+            "end": "19:02",
+            "cat": "research",
+            "src": "chrome",
+            "title": "CatchBench: When Can an Agent Failure Be Caught?",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "19:03",
+            "end": "19:09",
+            "cat": "research",
+            "src": "macos",
+            "title": "Auditable Agents",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "19:37",
+            "end": "19:50",
+            "cat": "research",
+            "src": "chrome",
+            "title": "How a PhD Can Survive? | Ada's Notes",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "19:50",
+            "end": "19:51",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "19:51",
+            "end": "20:03",
+            "cat": "research",
+            "src": "chrome",
+            "title": "How a PhD Can Survive? | Ada's Notes",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "20:05",
+            "end": "20:30",
+            "cat": "research",
+            "src": "macos",
+            "title": "Data Science Ph.D. Fellowship | Bloomberg LP",
+            "note": "bloomberg.com"
+          },
+          {
+            "start": "20:31",
+            "end": "20:32",
+            "cat": "research",
+            "src": "macos",
+            "title": "Auditable Agents",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "20:32",
+            "end": "20:45",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Senior Data Management Professional - Data Engineering - Sus",
+            "note": "bloomberg.avature.net"
+          },
+          {
+            "start": "20:45",
+            "end": "20:48",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "20:48",
+            "end": "20:55",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Senior Data Management Professional - Data Engineering - Sus",
+            "note": "bloomberg.avature.net"
+          },
+          {
+            "start": "22:39",
+            "end": "23:09",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "23:26",
+            "end": "23:47",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Bigbang Tickets | 2026-27 Tour & Concert Dates | Ticketmaste",
+            "note": "ticketmaster.com.au"
+          },
+          {
+            "start": "23:47",
+            "end": "00:04",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "BIGBANG - Sydney Olympic Park - Accor Stadium - Sat, 31 Oct ",
+            "note": "axs.com"
           }
         ],
-        "logged": 29,
-        "real": 29,
-        "deep": 29,
-        "ratio": 1.0,
+        "logged": 593,
+        "real": 435,
+        "deep": 435,
+        "ratio": 0.7332584332668254,
         "stats": {
-          "contextSwitches": 1,
-          "tabsOpened": 3,
-          "longestFocus": "29m",
-          "justOneMoreThing": 0
+          "contextSwitches": 61,
+          "tabsOpened": 63,
+          "longestFocus": "1h 29m",
+          "justOneMoreThing": 15
         }
       },
       {
@@ -74608,17 +75312,26 @@
         "weekend": false,
         "dateShort": "Wed, Sep 2",
         "dateLong": "Wednesday, September 2",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "10:11",
+        "dayEnd": "10:17",
+        "events": [
+          {
+            "start": "10:11",
+            "end": "10:17",
+            "cat": "writing",
+            "src": "local",
+            "title": "2026-09-02-introducing-agentic-video-in-gemini.md",
+            "note": "6 hits"
+          }
+        ],
+        "logged": 6,
+        "real": 6,
+        "deep": 6,
+        "ratio": 1.0,
         "stats": {
           "contextSwitches": 0,
           "tabsOpened": 0,
-          "longestFocus": "0m",
+          "longestFocus": "6m",
           "justOneMoreThing": 0
         }
       },
@@ -75260,34 +75973,738 @@
       "dateShort": "Tue, Sep 1",
       "dateLong": "Tuesday, September 1",
       "dayStart": "09:55",
-      "dayEnd": "10:24",
+      "dayEnd": "00:04",
       "events": [
         {
           "start": "09:55",
-          "end": "10:20",
+          "end": "10:24",
           "cat": "coding",
           "src": "chrome",
           "title": "Learn Splitting the Nodes | Decision Tree",
           "note": "codefinity.com"
         },
         {
-          "start": "10:20",
-          "end": "10:24",
-          "cat": "writing",
-          "src": "local",
-          "title": "2026-08-31-improving-alignment-security-efforts.md",
+          "start": "10:25",
+          "end": "10:27",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · ada",
+          "note": "44 hits"
+        },
+        {
+          "start": "10:27",
+          "end": "10:32",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · ada",
+          "note": "44 hits"
+        },
+        {
+          "start": "10:32",
+          "end": "10:39",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "10:39",
+          "end": "11:08",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:08",
+          "end": "11:11",
+          "cat": "research",
+          "src": "chrome",
+          "title": "AI Digest — September 1, 2026 | Ada's Notes",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "11:11",
+          "end": "11:26",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:27",
+          "end": "11:29",
+          "cat": "personal",
+          "src": "macos",
+          "title": "X 上的 Andrew Ng：“OpenWorker -- an open source agent that does",
+          "note": "x.com"
+        },
+        {
+          "start": "11:29",
+          "end": "11:34",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:34",
+          "end": "12:06",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "12:07",
+          "end": "12:15",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "12:15",
+          "end": "12:35",
+          "cat": "research",
+          "src": "macos",
+          "title": "Qwen/SAE-Res-Qwen3.5-2B-Base-W32K-L0_100 · Hugging Face",
+          "note": "huggingface.co"
+        },
+        {
+          "start": "13:14",
+          "end": "13:15",
+          "cat": "research",
+          "src": "macos",
+          "title": "Qwen/SAE-Res-Qwen3.5-2B-Base-W32K-L0_100 · Hugging Face",
+          "note": "huggingface.co"
+        },
+        {
+          "start": "13:15",
+          "end": "13:22",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Beecroft - Google Maps",
+          "note": "google.com"
+        },
+        {
+          "start": "13:22",
+          "end": "13:28",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Google Maps",
+          "note": "map.google.com"
+        },
+        {
+          "start": "13:28",
+          "end": "13:33",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "13:34",
+          "end": "13:35",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "13:35",
+          "end": "13:37",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "13:38",
+          "end": "13:42",
+          "cat": "research",
+          "src": "macos",
+          "title": "Components of A Coding Agent - by Sebastian Raschka, PhD",
+          "note": "magazine.sebastianraschka.com"
+        },
+        {
+          "start": "13:42",
+          "end": "13:46",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "13:46",
+          "end": "13:48",
+          "cat": "coding",
+          "src": "vscode",
+          "title": "VS Code · qwen_scope_minimal.ipynb",
           "note": "3 hits"
+        },
+        {
+          "start": "13:48",
+          "end": "13:52",
+          "cat": "admin",
+          "src": "macos",
+          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Am I answering True o",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "13:52",
+          "end": "13:53",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "13:53",
+          "end": "13:55",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "13:55",
+          "end": "13:58",
+          "cat": "writing",
+          "src": "macos",
+          "title": "obsidian",
+          "note": "md.obsidian"
+        },
+        {
+          "start": "13:58",
+          "end": "14:00",
+          "cat": "coding",
+          "src": "vscode",
+          "title": "VS Code · qwen_scope_minimal.ipynb",
+          "note": "3 hits"
+        },
+        {
+          "start": "14:00",
+          "end": "14:02",
+          "cat": "research",
+          "src": "macos",
+          "title": "Zhang et al. - 2024 - PsySafe A Comprehensive Framework for ",
+          "note": "file:///Users/ada/Zotero/storage/PB2F8B5"
+        },
+        {
+          "start": "14:02",
+          "end": "14:03",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Am I answering True o",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "14:03",
+          "end": "14:04",
+          "cat": "research",
+          "src": "macos",
+          "title": "2501.16496",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "14:04",
+          "end": "14:05",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Am I answering True o",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "14:05",
+          "end": "14:06",
+          "cat": "research",
+          "src": "macos",
+          "title": "Open Problems in Mechanistic Interpretability | OpenReview",
+          "note": "openreview.net"
+        },
+        {
+          "start": "14:06",
+          "end": "14:08",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "14:08",
+          "end": "14:11",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "14:11",
+          "end": "14:25",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Zhang et al. - 2024 - PsySafe A Comprehensive Framework for ",
+          "note": "file:///Users/ada/Zotero/storage/PB2F8B5"
+        },
+        {
+          "start": "15:12",
+          "end": "15:15",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "15:16",
+          "end": "15:30",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
+          "note": "sport.mq.edu.au"
+        },
+        {
+          "start": "15:30",
+          "end": "15:33",
+          "cat": "research",
+          "src": "macos",
+          "title": "Components of A Coding Agent - by Sebastian Raschka, PhD",
+          "note": "magazine.sebastianraschka.com"
+        },
+        {
+          "start": "15:33",
+          "end": "15:35",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "15:36",
+          "end": "15:37",
+          "cat": "coding",
+          "src": "macos",
+          "title": "GitHub - rasbt/mini-coding-agent: Minimal and readable codin",
+          "note": "github.com"
+        },
+        {
+          "start": "15:37",
+          "end": "15:41",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Build a Reasoning Model (From Scratch) - Sebastian Raschka",
+          "note": "mng.bz"
+        },
+        {
+          "start": "15:41",
+          "end": "15:46",
+          "cat": "coding",
+          "src": "macos",
+          "title": "iterm2",
+          "note": "com.googlecode.iterm2"
+        },
+        {
+          "start": "15:47",
+          "end": "15:48",
+          "cat": "coding",
+          "src": "macos",
+          "title": "iterm2",
+          "note": "com.googlecode.iterm2"
+        },
+        {
+          "start": "15:48",
+          "end": "15:51",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:52",
+          "end": "15:53",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:53",
+          "end": "15:57",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:58",
+          "end": "15:59",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "15:59",
+          "end": "16:02",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "16:02",
+          "end": "16:04",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:05",
+          "end": "16:07",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Slack",
+          "note": "socialnlp-lab.slack.com"
+        },
+        {
+          "start": "16:07",
+          "end": "16:15",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Macquarie University PhD and MRes Thesis - Online LaTeX Edit",
+          "note": "overleaf.com"
+        },
+        {
+          "start": "16:15",
+          "end": "16:18",
+          "cat": "research",
+          "src": "macos",
+          "title": "agentic AI",
+          "note": "perplexity.ai"
+        },
+        {
+          "start": "16:18",
+          "end": "16:19",
+          "cat": "research",
+          "src": "macos",
+          "title": "From Language Models to Agentic AI: A Survey of Autonomous, ",
+          "note": "link.springer.com"
+        },
+        {
+          "start": "16:20",
+          "end": "16:21",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Patterns and problems in multiagent systems \\ Anthropic",
+          "note": "anthropic.com"
+        },
+        {
+          "start": "16:21",
+          "end": "16:25",
+          "cat": "research",
+          "src": "macos",
+          "title": "From Language Models to Agentic AI- A Survey of Autonomous, ",
+          "note": "file:///Users/ada/Documents/MQ/papers/li"
+        },
+        {
+          "start": "16:25",
+          "end": "16:27",
+          "cat": "research",
+          "src": "chrome",
+          "title": "From Language Models to Agentic AI: A Survey of Autonomous, ",
+          "note": "perplexity.ai"
+        },
+        {
+          "start": "16:27",
+          "end": "16:27",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "16:27",
+          "end": "16:33",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "16:33",
+          "end": "16:38",
+          "cat": "research",
+          "src": "chrome",
+          "title": "From Language Models to Agentic AI: A Survey of Autonomous, ",
+          "note": "perplexity.ai"
+        },
+        {
+          "start": "16:38",
+          "end": "16:42",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Petra Graham - Macquarie University",
+          "note": "researchers.mq.edu.au"
+        },
+        {
+          "start": "16:42",
+          "end": "16:44",
+          "cat": "research",
+          "src": "macos",
+          "title": "Perplexity",
+          "note": "perplexity.ai"
+        },
+        {
+          "start": "16:44",
+          "end": "17:06",
+          "cat": "admin",
+          "src": "macos",
+          "title": "oMRBmT0Do5V4mSh_oYMq7HgTqEIt7tz6rhs_oLdfwWIY1pFUcjj95P7AU7SK",
+          "note": "lh5.googleusercontent.com"
+        },
+        {
+          "start": "17:06",
+          "end": "17:14",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
+          "note": "sport.mq.edu.au"
+        },
+        {
+          "start": "17:15",
+          "end": "17:17",
+          "cat": "research",
+          "src": "macos",
+          "title": "64th Annual Meeting of the Association for Computational Lin",
+          "note": "aclanthology.org"
+        },
+        {
+          "start": "17:17",
+          "end": "17:22",
+          "cat": "research",
+          "src": "macos",
+          "title": "2026.acl-long.86.pdf",
+          "note": "aclanthology.org"
+        },
+        {
+          "start": "17:22",
+          "end": "17:34",
+          "cat": "research",
+          "src": "macos",
+          "title": "Agentic-imodels: Evolving agentic interpretability tools via",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "17:35",
+          "end": "17:37",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Viva Engage - Conversation",
+          "note": "login.microsoftonline.com"
+        },
+        {
+          "start": "17:37",
+          "end": "17:42",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Agentic-imodels: Evolving agentic interpretability tools via",
+          "note": "aclanthology.org"
+        },
+        {
+          "start": "17:47",
+          "end": "17:48",
+          "cat": "research",
+          "src": "macos",
+          "title": "SAGE: An Agentic Explainer Framework for Interpreting SAE Fe",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "17:49",
+          "end": "18:05",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Patterns and problems in multiagent systems \\ Anthropic",
+          "note": "anthropic.com"
+        },
+        {
+          "start": "18:05",
+          "end": "18:08",
+          "cat": "admin",
+          "src": "macos",
+          "title": "ZHAO_YUE_CV.pdf",
+          "note": "viterbi-web.usc.edu"
+        },
+        {
+          "start": "18:08",
+          "end": "18:11",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "yzhao062/awesome-auditable-ai: Auditing AI agents: a curated",
+          "note": "auditable.run"
+        },
+        {
+          "start": "18:11",
+          "end": "18:17",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "yzhao062/awesome-auditable-ai: Auditing AI agents: a curated",
+          "note": "auditable.run"
+        },
+        {
+          "start": "18:17",
+          "end": "18:20",
+          "cat": "research",
+          "src": "macos",
+          "title": "Survey on Evaluation of LLM-based Agents",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "18:21",
+          "end": "18:30",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Asaf-Yehudai/LLM-Agent-Evaluation-Survey: Top papers related",
+          "note": "github.com"
+        },
+        {
+          "start": "18:30",
+          "end": "18:35",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "18:35",
+          "end": "18:37",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Asaf-Yehudai/LLM-Agent-Evaluation-Survey: Top papers related",
+          "note": "github.com"
+        },
+        {
+          "start": "18:37",
+          "end": "18:40",
+          "cat": "admin",
+          "src": "macos",
+          "title": "PyOD 3 | Agentic Anomaly Detection at Scale",
+          "note": "viterbi-web.usc.edu"
+        },
+        {
+          "start": "18:41",
+          "end": "19:02",
+          "cat": "research",
+          "src": "chrome",
+          "title": "CatchBench: When Can an Agent Failure Be Caught?",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "19:03",
+          "end": "19:09",
+          "cat": "research",
+          "src": "macos",
+          "title": "Auditable Agents",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "19:37",
+          "end": "19:50",
+          "cat": "research",
+          "src": "chrome",
+          "title": "How a PhD Can Survive? | Ada's Notes",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "19:50",
+          "end": "19:51",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "19:51",
+          "end": "20:03",
+          "cat": "research",
+          "src": "chrome",
+          "title": "How a PhD Can Survive? | Ada's Notes",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "20:05",
+          "end": "20:30",
+          "cat": "research",
+          "src": "macos",
+          "title": "Data Science Ph.D. Fellowship | Bloomberg LP",
+          "note": "bloomberg.com"
+        },
+        {
+          "start": "20:31",
+          "end": "20:32",
+          "cat": "research",
+          "src": "macos",
+          "title": "Auditable Agents",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "20:32",
+          "end": "20:45",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Senior Data Management Professional - Data Engineering - Sus",
+          "note": "bloomberg.avature.net"
+        },
+        {
+          "start": "20:45",
+          "end": "20:48",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "20:48",
+          "end": "20:55",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Senior Data Management Professional - Data Engineering - Sus",
+          "note": "bloomberg.avature.net"
+        },
+        {
+          "start": "22:39",
+          "end": "23:09",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "23:26",
+          "end": "23:47",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Bigbang Tickets | 2026-27 Tour & Concert Dates | Ticketmaste",
+          "note": "ticketmaster.com.au"
+        },
+        {
+          "start": "23:47",
+          "end": "00:04",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "BIGBANG - Sydney Olympic Park - Accor Stadium - Sat, 31 Oct ",
+          "note": "axs.com"
         }
       ],
-      "logged": 29,
-      "real": 29,
-      "deep": 29,
-      "ratio": 1.0,
+      "logged": 593,
+      "real": 435,
+      "deep": 435,
+      "ratio": 0.7332584332668254,
       "stats": {
-        "contextSwitches": 1,
-        "tabsOpened": 3,
-        "longestFocus": "29m",
-        "justOneMoreThing": 0
+        "contextSwitches": 61,
+        "tabsOpened": 63,
+        "longestFocus": "1h 29m",
+        "justOneMoreThing": 15
       }
     },
     {
@@ -75297,17 +76714,26 @@
       "weekend": false,
       "dateShort": "Wed, Sep 2",
       "dateLong": "Wednesday, September 2",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "10:11",
+      "dayEnd": "10:17",
+      "events": [
+        {
+          "start": "10:11",
+          "end": "10:17",
+          "cat": "writing",
+          "src": "local",
+          "title": "2026-09-02-introducing-agentic-video-in-gemini.md",
+          "note": "6 hits"
+        }
+      ],
+      "logged": 6,
+      "real": 6,
+      "deep": 6,
+      "ratio": 1.0,
       "stats": {
         "contextSwitches": 0,
         "tabsOpened": 0,
-        "longestFocus": "0m",
+        "longestFocus": "6m",
         "justOneMoreThing": 0
       }
     },
