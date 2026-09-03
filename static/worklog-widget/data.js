@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-09-02T10:20:11+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-09-03T10:26:24+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -74564,746 +74564,746 @@
     },
     "days": [
       {
-        "key": "2026-9-1",
-        "dayNum": 1,
-        "dow": 2,
-        "weekend": false,
-        "dateShort": "Tue, Sep 1",
         "dateLong": "Tuesday, September 1",
-        "dayStart": "09:55",
+        "dateShort": "Tue, Sep 1",
         "dayEnd": "00:04",
+        "dayNum": 1,
+        "dayStart": "09:55",
+        "deep": 435,
+        "dow": 2,
         "events": [
           {
-            "start": "09:55",
+            "cat": "coding",
             "end": "10:24",
-            "cat": "coding",
+            "note": "codefinity.com",
             "src": "chrome",
-            "title": "Learn Splitting the Nodes | Decision Tree",
-            "note": "codefinity.com"
+            "start": "09:55",
+            "title": "Learn Splitting the Nodes | Decision Tree"
           },
           {
-            "start": "10:25",
+            "cat": "coding",
             "end": "10:27",
-            "cat": "coding",
+            "note": "44 hits",
             "src": "claude",
-            "title": "Claude session · ada",
-            "note": "44 hits"
+            "start": "10:25",
+            "title": "Claude session · ada"
           },
           {
-            "start": "10:27",
+            "cat": "coding",
             "end": "10:32",
-            "cat": "coding",
+            "note": "44 hits",
             "src": "claude",
-            "title": "Claude session · ada",
-            "note": "44 hits"
+            "start": "10:27",
+            "title": "Claude session · ada"
           },
           {
-            "start": "10:32",
+            "cat": "coding",
             "end": "10:39",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "10:32",
+            "title": "VSCode"
           },
           {
-            "start": "10:39",
+            "cat": "coding",
             "end": "11:08",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "10:39",
+            "title": "VSCode"
           },
           {
-            "start": "11:08",
+            "cat": "research",
             "end": "11:11",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "chrome",
-            "title": "AI Digest — September 1, 2026 | Ada's Notes",
-            "note": "adaren100.github.io"
+            "start": "11:08",
+            "title": "AI Digest — September 1, 2026 | Ada's Notes"
           },
           {
-            "start": "11:11",
+            "cat": "coding",
             "end": "11:26",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "11:11",
+            "title": "VSCode"
           },
           {
-            "start": "11:27",
+            "cat": "personal",
             "end": "11:29",
-            "cat": "personal",
+            "note": "x.com",
             "src": "macos",
-            "title": "X 上的 Andrew Ng：“OpenWorker -- an open source agent that does",
-            "note": "x.com"
+            "start": "11:27",
+            "title": "X 上的 Andrew Ng：“OpenWorker -- an open source agent that does"
           },
           {
-            "start": "11:29",
+            "cat": "coding",
             "end": "11:34",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "11:29",
+            "title": "VSCode"
           },
           {
-            "start": "11:34",
+            "cat": "coding",
             "end": "12:06",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "11:34",
+            "title": "VSCode"
           },
           {
-            "start": "12:07",
+            "cat": "coding",
             "end": "12:15",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "12:07",
+            "title": "VSCode"
           },
           {
-            "start": "12:15",
+            "cat": "research",
             "end": "12:35",
-            "cat": "research",
+            "note": "huggingface.co",
             "src": "macos",
-            "title": "Qwen/SAE-Res-Qwen3.5-2B-Base-W32K-L0_100 · Hugging Face",
-            "note": "huggingface.co"
+            "start": "12:15",
+            "title": "Qwen/SAE-Res-Qwen3.5-2B-Base-W32K-L0_100 · Hugging Face"
           },
           {
-            "start": "13:14",
+            "cat": "research",
             "end": "13:15",
-            "cat": "research",
+            "note": "huggingface.co",
             "src": "macos",
-            "title": "Qwen/SAE-Res-Qwen3.5-2B-Base-W32K-L0_100 · Hugging Face",
-            "note": "huggingface.co"
+            "start": "13:14",
+            "title": "Qwen/SAE-Res-Qwen3.5-2B-Base-W32K-L0_100 · Hugging Face"
           },
           {
-            "start": "13:15",
+            "cat": "admin",
             "end": "13:22",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "Beecroft - Google Maps",
-            "note": "google.com"
+            "start": "13:15",
+            "title": "Beecroft - Google Maps"
           },
           {
-            "start": "13:22",
+            "cat": "personal",
             "end": "13:28",
-            "cat": "personal",
+            "note": "map.google.com",
             "src": "chrome",
-            "title": "Google Maps",
-            "note": "map.google.com"
+            "start": "13:22",
+            "title": "Google Maps"
           },
           {
-            "start": "13:28",
+            "cat": "coding",
             "end": "13:33",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "13:28",
+            "title": "VSCode"
           },
           {
-            "start": "13:34",
+            "cat": "coding",
             "end": "13:35",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "13:34",
+            "title": "VSCode"
           },
           {
-            "start": "13:35",
+            "cat": "coding",
             "end": "13:37",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "13:35",
+            "title": "VSCode"
           },
           {
-            "start": "13:38",
+            "cat": "research",
             "end": "13:42",
-            "cat": "research",
+            "note": "magazine.sebastianraschka.com",
             "src": "macos",
-            "title": "Components of A Coding Agent - by Sebastian Raschka, PhD",
-            "note": "magazine.sebastianraschka.com"
+            "start": "13:38",
+            "title": "Components of A Coding Agent - by Sebastian Raschka, PhD"
           },
           {
-            "start": "13:42",
+            "cat": "coding",
             "end": "13:46",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "13:42",
+            "title": "VSCode"
           },
           {
-            "start": "13:46",
+            "cat": "coding",
             "end": "13:48",
-            "cat": "coding",
+            "note": "3 hits",
             "src": "vscode",
-            "title": "VS Code · qwen_scope_minimal.ipynb",
-            "note": "3 hits"
+            "start": "13:46",
+            "title": "VS Code · qwen_scope_minimal.ipynb"
           },
           {
-            "start": "13:48",
+            "cat": "admin",
             "end": "13:52",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Am I answering True o",
-            "note": "ilearn.mq.edu.au"
+            "start": "13:48",
+            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Am I answering True o"
           },
           {
-            "start": "13:52",
+            "cat": "coding",
             "end": "13:53",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "13:52",
+            "title": "VSCode"
           },
           {
-            "start": "13:53",
+            "cat": "coding",
             "end": "13:55",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "13:53",
+            "title": "VSCode"
           },
           {
-            "start": "13:55",
+            "cat": "writing",
             "end": "13:58",
-            "cat": "writing",
+            "note": "md.obsidian",
             "src": "macos",
-            "title": "obsidian",
-            "note": "md.obsidian"
+            "start": "13:55",
+            "title": "obsidian"
           },
           {
-            "start": "13:58",
+            "cat": "coding",
             "end": "14:00",
-            "cat": "coding",
+            "note": "3 hits",
             "src": "vscode",
-            "title": "VS Code · qwen_scope_minimal.ipynb",
-            "note": "3 hits"
+            "start": "13:58",
+            "title": "VS Code · qwen_scope_minimal.ipynb"
           },
           {
-            "start": "14:00",
+            "cat": "research",
             "end": "14:02",
-            "cat": "research",
+            "note": "file:///Users/ada/Zotero/storage/PB2F8B5",
             "src": "macos",
-            "title": "Zhang et al. - 2024 - PsySafe A Comprehensive Framework for ",
-            "note": "file:///Users/ada/Zotero/storage/PB2F8B5"
+            "start": "14:00",
+            "title": "Zhang et al. - 2024 - PsySafe A Comprehensive Framework for "
           },
           {
-            "start": "14:02",
+            "cat": "admin",
             "end": "14:03",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "chrome",
-            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Am I answering True o",
-            "note": "ilearn.mq.edu.au"
+            "start": "14:02",
+            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Am I answering True o"
           },
           {
-            "start": "14:03",
+            "cat": "research",
             "end": "14:04",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "2501.16496",
-            "note": "arxiv.org"
+            "start": "14:03",
+            "title": "2501.16496"
           },
           {
-            "start": "14:04",
+            "cat": "admin",
             "end": "14:05",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "chrome",
-            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Am I answering True o",
-            "note": "ilearn.mq.edu.au"
+            "start": "14:04",
+            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Am I answering True o"
           },
           {
-            "start": "14:05",
+            "cat": "research",
             "end": "14:06",
-            "cat": "research",
+            "note": "openreview.net",
             "src": "macos",
-            "title": "Open Problems in Mechanistic Interpretability | OpenReview",
-            "note": "openreview.net"
+            "start": "14:05",
+            "title": "Open Problems in Mechanistic Interpretability | OpenReview"
           },
           {
-            "start": "14:06",
+            "cat": "coding",
             "end": "14:08",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "14:06",
+            "title": "VSCode"
           },
           {
-            "start": "14:08",
+            "cat": "admin",
             "end": "14:11",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "14:08",
+            "title": "Outlook"
           },
           {
-            "start": "14:11",
+            "cat": "research",
             "end": "14:25",
-            "cat": "research",
+            "note": "file:///Users/ada/Zotero/storage/PB2F8B5",
             "src": "chrome",
-            "title": "Zhang et al. - 2024 - PsySafe A Comprehensive Framework for ",
-            "note": "file:///Users/ada/Zotero/storage/PB2F8B5"
+            "start": "14:11",
+            "title": "Zhang et al. - 2024 - PsySafe A Comprehensive Framework for "
           },
           {
-            "start": "15:12",
+            "cat": "admin",
             "end": "15:15",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "15:12",
+            "title": "Outlook"
           },
           {
-            "start": "15:16",
+            "cat": "admin",
             "end": "15:30",
-            "cat": "admin",
+            "note": "sport.mq.edu.au",
             "src": "macos",
-            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
-            "note": "sport.mq.edu.au"
+            "start": "15:16",
+            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni"
           },
           {
-            "start": "15:30",
+            "cat": "research",
             "end": "15:33",
-            "cat": "research",
+            "note": "magazine.sebastianraschka.com",
             "src": "macos",
-            "title": "Components of A Coding Agent - by Sebastian Raschka, PhD",
-            "note": "magazine.sebastianraschka.com"
+            "start": "15:30",
+            "title": "Components of A Coding Agent - by Sebastian Raschka, PhD"
           },
           {
-            "start": "15:33",
+            "cat": "admin",
             "end": "15:35",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "15:33",
+            "title": "Outlook"
           },
           {
-            "start": "15:36",
+            "cat": "coding",
             "end": "15:37",
-            "cat": "coding",
+            "note": "github.com",
             "src": "macos",
-            "title": "GitHub - rasbt/mini-coding-agent: Minimal and readable codin",
-            "note": "github.com"
+            "start": "15:36",
+            "title": "GitHub - rasbt/mini-coding-agent: Minimal and readable codin"
           },
           {
-            "start": "15:37",
+            "cat": "admin",
             "end": "15:41",
-            "cat": "admin",
+            "note": "mng.bz",
             "src": "chrome",
-            "title": "Build a Reasoning Model (From Scratch) - Sebastian Raschka",
-            "note": "mng.bz"
+            "start": "15:37",
+            "title": "Build a Reasoning Model (From Scratch) - Sebastian Raschka"
           },
           {
-            "start": "15:41",
+            "cat": "coding",
             "end": "15:46",
-            "cat": "coding",
+            "note": "com.googlecode.iterm2",
             "src": "macos",
-            "title": "iterm2",
-            "note": "com.googlecode.iterm2"
+            "start": "15:41",
+            "title": "iterm2"
           },
           {
-            "start": "15:47",
+            "cat": "coding",
             "end": "15:48",
-            "cat": "coding",
+            "note": "com.googlecode.iterm2",
             "src": "macos",
-            "title": "iterm2",
-            "note": "com.googlecode.iterm2"
+            "start": "15:47",
+            "title": "iterm2"
           },
           {
-            "start": "15:48",
+            "cat": "coding",
             "end": "15:51",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "15:48",
+            "title": "VSCode"
           },
           {
-            "start": "15:52",
+            "cat": "coding",
             "end": "15:53",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "15:52",
+            "title": "VSCode"
           },
           {
-            "start": "15:53",
+            "cat": "coding",
             "end": "15:57",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "15:53",
+            "title": "VSCode"
           },
           {
-            "start": "15:58",
+            "cat": "admin",
             "end": "15:59",
-            "cat": "admin",
+            "note": "com.tinyspeck.slackmacgap",
             "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "start": "15:58",
+            "title": "slackmacgap"
           },
           {
-            "start": "15:59",
+            "cat": "research",
             "end": "16:02",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "15:59",
+            "title": "zotero"
           },
           {
-            "start": "16:02",
+            "cat": "coding",
             "end": "16:04",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "16:02",
+            "title": "VSCode"
           },
           {
-            "start": "16:05",
+            "cat": "admin",
             "end": "16:07",
-            "cat": "admin",
+            "note": "socialnlp-lab.slack.com",
             "src": "chrome",
-            "title": "Slack",
-            "note": "socialnlp-lab.slack.com"
+            "start": "16:05",
+            "title": "Slack"
           },
           {
-            "start": "16:07",
-            "end": "16:15",
             "cat": "writing",
+            "end": "16:15",
+            "note": "overleaf.com",
             "src": "macos",
-            "title": "Macquarie University PhD and MRes Thesis - Online LaTeX Edit",
-            "note": "overleaf.com"
+            "start": "16:07",
+            "title": "Macquarie University PhD and MRes Thesis - Online LaTeX Edit"
           },
           {
-            "start": "16:15",
+            "cat": "research",
             "end": "16:18",
-            "cat": "research",
+            "note": "perplexity.ai",
             "src": "macos",
-            "title": "agentic AI",
-            "note": "perplexity.ai"
+            "start": "16:15",
+            "title": "agentic AI"
           },
           {
-            "start": "16:18",
+            "cat": "research",
             "end": "16:19",
-            "cat": "research",
+            "note": "link.springer.com",
             "src": "macos",
-            "title": "From Language Models to Agentic AI: A Survey of Autonomous, ",
-            "note": "link.springer.com"
+            "start": "16:18",
+            "title": "From Language Models to Agentic AI: A Survey of Autonomous, "
           },
           {
-            "start": "16:20",
+            "cat": "coding",
             "end": "16:21",
-            "cat": "coding",
+            "note": "anthropic.com",
             "src": "macos",
-            "title": "Patterns and problems in multiagent systems \\ Anthropic",
-            "note": "anthropic.com"
+            "start": "16:20",
+            "title": "Patterns and problems in multiagent systems \\ Anthropic"
           },
           {
-            "start": "16:21",
+            "cat": "research",
             "end": "16:25",
-            "cat": "research",
+            "note": "file:///Users/ada/Documents/MQ/papers/li",
             "src": "macos",
-            "title": "From Language Models to Agentic AI- A Survey of Autonomous, ",
-            "note": "file:///Users/ada/Documents/MQ/papers/li"
+            "start": "16:21",
+            "title": "From Language Models to Agentic AI- A Survey of Autonomous, "
           },
           {
+            "cat": "research",
+            "end": "16:27",
+            "note": "perplexity.ai",
+            "src": "chrome",
             "start": "16:25",
-            "end": "16:27",
-            "cat": "research",
-            "src": "chrome",
-            "title": "From Language Models to Agentic AI: A Survey of Autonomous, ",
-            "note": "perplexity.ai"
+            "title": "From Language Models to Agentic AI: A Survey of Autonomous, "
           },
           {
-            "start": "16:27",
-            "end": "16:27",
             "cat": "admin",
+            "end": "16:27",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "16:27",
+            "title": "Outlook"
           },
           {
-            "start": "16:27",
+            "cat": "admin",
             "end": "16:33",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "16:27",
+            "title": "Outlook"
           },
           {
-            "start": "16:33",
+            "cat": "research",
             "end": "16:38",
-            "cat": "research",
+            "note": "perplexity.ai",
             "src": "chrome",
-            "title": "From Language Models to Agentic AI: A Survey of Autonomous, ",
-            "note": "perplexity.ai"
+            "start": "16:33",
+            "title": "From Language Models to Agentic AI: A Survey of Autonomous, "
           },
           {
-            "start": "16:38",
+            "cat": "admin",
             "end": "16:42",
-            "cat": "admin",
+            "note": "researchers.mq.edu.au",
             "src": "chrome",
-            "title": "Petra Graham - Macquarie University",
-            "note": "researchers.mq.edu.au"
+            "start": "16:38",
+            "title": "Petra Graham - Macquarie University"
           },
           {
-            "start": "16:42",
+            "cat": "research",
             "end": "16:44",
-            "cat": "research",
+            "note": "perplexity.ai",
             "src": "macos",
-            "title": "Perplexity",
-            "note": "perplexity.ai"
+            "start": "16:42",
+            "title": "Perplexity"
           },
           {
-            "start": "16:44",
+            "cat": "admin",
             "end": "17:06",
-            "cat": "admin",
+            "note": "lh5.googleusercontent.com",
             "src": "macos",
-            "title": "oMRBmT0Do5V4mSh_oYMq7HgTqEIt7tz6rhs_oLdfwWIY1pFUcjj95P7AU7SK",
-            "note": "lh5.googleusercontent.com"
+            "start": "16:44",
+            "title": "oMRBmT0Do5V4mSh_oYMq7HgTqEIt7tz6rhs_oLdfwWIY1pFUcjj95P7AU7SK"
           },
           {
-            "start": "17:06",
+            "cat": "admin",
             "end": "17:14",
-            "cat": "admin",
+            "note": "sport.mq.edu.au",
             "src": "macos",
-            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
-            "note": "sport.mq.edu.au"
+            "start": "17:06",
+            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni"
           },
           {
-            "start": "17:15",
+            "cat": "research",
             "end": "17:17",
-            "cat": "research",
+            "note": "aclanthology.org",
             "src": "macos",
-            "title": "64th Annual Meeting of the Association for Computational Lin",
-            "note": "aclanthology.org"
+            "start": "17:15",
+            "title": "64th Annual Meeting of the Association for Computational Lin"
           },
           {
-            "start": "17:17",
+            "cat": "research",
             "end": "17:22",
-            "cat": "research",
+            "note": "aclanthology.org",
             "src": "macos",
-            "title": "2026.acl-long.86.pdf",
-            "note": "aclanthology.org"
+            "start": "17:17",
+            "title": "2026.acl-long.86.pdf"
           },
           {
-            "start": "17:22",
+            "cat": "research",
             "end": "17:34",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "Agentic-imodels: Evolving agentic interpretability tools via",
-            "note": "arxiv.org"
+            "start": "17:22",
+            "title": "Agentic-imodels: Evolving agentic interpretability tools via"
           },
           {
-            "start": "17:35",
+            "cat": "admin",
             "end": "17:37",
-            "cat": "admin",
+            "note": "login.microsoftonline.com",
             "src": "chrome",
-            "title": "Viva Engage - Conversation",
-            "note": "login.microsoftonline.com"
+            "start": "17:35",
+            "title": "Viva Engage - Conversation"
           },
           {
-            "start": "17:37",
+            "cat": "research",
             "end": "17:42",
-            "cat": "research",
+            "note": "aclanthology.org",
             "src": "chrome",
-            "title": "Agentic-imodels: Evolving agentic interpretability tools via",
-            "note": "aclanthology.org"
+            "start": "17:37",
+            "title": "Agentic-imodels: Evolving agentic interpretability tools via"
           },
           {
-            "start": "17:47",
+            "cat": "research",
             "end": "17:48",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "SAGE: An Agentic Explainer Framework for Interpreting SAE Fe",
-            "note": "arxiv.org"
+            "start": "17:47",
+            "title": "SAGE: An Agentic Explainer Framework for Interpreting SAE Fe"
           },
           {
-            "start": "17:49",
+            "cat": "coding",
             "end": "18:05",
-            "cat": "coding",
+            "note": "anthropic.com",
             "src": "macos",
-            "title": "Patterns and problems in multiagent systems \\ Anthropic",
-            "note": "anthropic.com"
+            "start": "17:49",
+            "title": "Patterns and problems in multiagent systems \\ Anthropic"
           },
           {
-            "start": "18:05",
+            "cat": "admin",
             "end": "18:08",
-            "cat": "admin",
+            "note": "viterbi-web.usc.edu",
             "src": "macos",
-            "title": "ZHAO_YUE_CV.pdf",
-            "note": "viterbi-web.usc.edu"
+            "start": "18:05",
+            "title": "ZHAO_YUE_CV.pdf"
           },
           {
-            "start": "18:08",
+            "cat": "coding",
             "end": "18:11",
-            "cat": "coding",
+            "note": "auditable.run",
             "src": "chrome",
-            "title": "yzhao062/awesome-auditable-ai: Auditing AI agents: a curated",
-            "note": "auditable.run"
+            "start": "18:08",
+            "title": "yzhao062/awesome-auditable-ai: Auditing AI agents: a curated"
           },
           {
-            "start": "18:11",
+            "cat": "coding",
             "end": "18:17",
-            "cat": "coding",
+            "note": "auditable.run",
             "src": "chrome",
-            "title": "yzhao062/awesome-auditable-ai: Auditing AI agents: a curated",
-            "note": "auditable.run"
+            "start": "18:11",
+            "title": "yzhao062/awesome-auditable-ai: Auditing AI agents: a curated"
           },
           {
-            "start": "18:17",
+            "cat": "research",
             "end": "18:20",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "Survey on Evaluation of LLM-based Agents",
-            "note": "arxiv.org"
+            "start": "18:17",
+            "title": "Survey on Evaluation of LLM-based Agents"
           },
           {
-            "start": "18:21",
+            "cat": "coding",
             "end": "18:30",
-            "cat": "coding",
+            "note": "github.com",
             "src": "macos",
-            "title": "Asaf-Yehudai/LLM-Agent-Evaluation-Survey: Top papers related",
-            "note": "github.com"
+            "start": "18:21",
+            "title": "Asaf-Yehudai/LLM-Agent-Evaluation-Survey: Top papers related"
           },
           {
-            "start": "18:30",
+            "cat": "research",
             "end": "18:35",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "18:30",
+            "title": "zotero"
           },
           {
-            "start": "18:35",
+            "cat": "coding",
             "end": "18:37",
-            "cat": "coding",
+            "note": "github.com",
             "src": "chrome",
-            "title": "Asaf-Yehudai/LLM-Agent-Evaluation-Survey: Top papers related",
-            "note": "github.com"
+            "start": "18:35",
+            "title": "Asaf-Yehudai/LLM-Agent-Evaluation-Survey: Top papers related"
           },
           {
-            "start": "18:37",
+            "cat": "admin",
             "end": "18:40",
-            "cat": "admin",
+            "note": "viterbi-web.usc.edu",
             "src": "macos",
-            "title": "PyOD 3 | Agentic Anomaly Detection at Scale",
-            "note": "viterbi-web.usc.edu"
+            "start": "18:37",
+            "title": "PyOD 3 | Agentic Anomaly Detection at Scale"
           },
           {
-            "start": "18:41",
+            "cat": "research",
             "end": "19:02",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "chrome",
-            "title": "CatchBench: When Can an Agent Failure Be Caught?",
-            "note": "arxiv.org"
+            "start": "18:41",
+            "title": "CatchBench: When Can an Agent Failure Be Caught?"
           },
           {
-            "start": "19:03",
+            "cat": "research",
             "end": "19:09",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "Auditable Agents",
-            "note": "arxiv.org"
+            "start": "19:03",
+            "title": "Auditable Agents"
           },
           {
-            "start": "19:37",
+            "cat": "research",
             "end": "19:50",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "chrome",
-            "title": "How a PhD Can Survive? | Ada's Notes",
-            "note": "adaren100.github.io"
+            "start": "19:37",
+            "title": "How a PhD Can Survive? | Ada's Notes"
           },
           {
-            "start": "19:50",
+            "cat": "admin",
             "end": "19:51",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "19:50",
+            "title": "Outlook"
           },
           {
-            "start": "19:51",
+            "cat": "research",
             "end": "20:03",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "chrome",
-            "title": "How a PhD Can Survive? | Ada's Notes",
-            "note": "adaren100.github.io"
+            "start": "19:51",
+            "title": "How a PhD Can Survive? | Ada's Notes"
           },
           {
-            "start": "20:05",
+            "cat": "research",
             "end": "20:30",
-            "cat": "research",
+            "note": "bloomberg.com",
             "src": "macos",
-            "title": "Data Science Ph.D. Fellowship | Bloomberg LP",
-            "note": "bloomberg.com"
+            "start": "20:05",
+            "title": "Data Science Ph.D. Fellowship | Bloomberg LP"
           },
           {
-            "start": "20:31",
+            "cat": "research",
             "end": "20:32",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "Auditable Agents",
-            "note": "arxiv.org"
+            "start": "20:31",
+            "title": "Auditable Agents"
           },
           {
-            "start": "20:32",
+            "cat": "admin",
             "end": "20:45",
-            "cat": "admin",
+            "note": "bloomberg.avature.net",
             "src": "macos",
-            "title": "Senior Data Management Professional - Data Engineering - Sus",
-            "note": "bloomberg.avature.net"
+            "start": "20:32",
+            "title": "Senior Data Management Professional - Data Engineering - Sus"
           },
           {
-            "start": "20:45",
-            "end": "20:48",
             "cat": "research",
+            "end": "20:48",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "20:45",
+            "title": "zotero"
           },
           {
-            "start": "20:48",
+            "cat": "admin",
             "end": "20:55",
-            "cat": "admin",
+            "note": "bloomberg.avature.net",
             "src": "macos",
-            "title": "Senior Data Management Professional - Data Engineering - Sus",
-            "note": "bloomberg.avature.net"
+            "start": "20:48",
+            "title": "Senior Data Management Professional - Data Engineering - Sus"
           },
           {
-            "start": "22:39",
-            "end": "23:09",
             "cat": "coding",
+            "end": "23:09",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "22:39",
+            "title": "VSCode"
           },
           {
-            "start": "23:26",
-            "end": "23:47",
             "cat": "personal",
+            "end": "23:47",
+            "note": "ticketmaster.com.au",
             "src": "chrome",
-            "title": "Bigbang Tickets | 2026-27 Tour & Concert Dates | Ticketmaste",
-            "note": "ticketmaster.com.au"
+            "start": "23:26",
+            "title": "Bigbang Tickets | 2026-27 Tour & Concert Dates | Ticketmaste"
           },
           {
-            "start": "23:47",
-            "end": "00:04",
             "cat": "admin",
+            "end": "00:04",
+            "note": "axs.com",
             "src": "chrome",
-            "title": "BIGBANG - Sydney Olympic Park - Accor Stadium - Sat, 31 Oct ",
-            "note": "axs.com"
+            "start": "23:47",
+            "title": "BIGBANG - Sydney Olympic Park - Accor Stadium - Sat, 31 Oct "
           }
         ],
+        "key": "2026-9-1",
         "logged": 593,
-        "real": 435,
-        "deep": 435,
         "ratio": 0.7332584332668254,
+        "real": 435,
         "stats": {
           "contextSwitches": 61,
-          "tabsOpened": 63,
+          "justOneMoreThing": 15,
           "longestFocus": "1h 29m",
-          "justOneMoreThing": 15
-        }
+          "tabsOpened": 63
+        },
+        "weekend": false
       },
       {
         "key": "2026-9-2",
@@ -75313,26 +75313,578 @@
         "dateShort": "Wed, Sep 2",
         "dateLong": "Wednesday, September 2",
         "dayStart": "10:11",
-        "dayEnd": "10:17",
+        "dayEnd": "00:19",
         "events": [
           {
             "start": "10:11",
-            "end": "10:17",
-            "cat": "writing",
+            "end": "10:20",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
+            "note": "sport.mq.edu.au"
+          },
+          {
+            "start": "10:20",
+            "end": "10:21",
+            "cat": "coding",
             "src": "local",
-            "title": "2026-09-02-introducing-agentic-video-in-gemini.md",
-            "note": "6 hits"
+            "title": "domain_cats.json",
+            "note": "4 hits"
+          },
+          {
+            "start": "10:21",
+            "end": "10:28",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Language models can explain neurons in language models | Ope",
+            "note": "scholar.google.com"
+          },
+          {
+            "start": "10:28",
+            "end": "10:30",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "10:30",
+            "end": "10:31",
+            "cat": "research",
+            "src": "macos",
+            "title": "1fa1ab11f4bd5f94b2ec20e794dbfa3b-Paper-Conference.pdf",
+            "note": "proceedings.iclr.cc"
+          },
+          {
+            "start": "10:31",
+            "end": "10:33",
+            "cat": "writing",
+            "src": "macos",
+            "title": "obsidian",
+            "note": "md.obsidian"
+          },
+          {
+            "start": "10:33",
+            "end": "10:55",
+            "cat": "research",
+            "src": "macos",
+            "title": "Language models can explain neurons in language models | Ope",
+            "note": "openai.com"
+          },
+          {
+            "start": "10:55",
+            "end": "11:15",
+            "cat": "admin",
+            "src": "macos",
+            "title": "ACM AI Leadership Summit - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "11:18",
+            "end": "11:26",
+            "cat": "admin",
+            "src": "macos",
+            "title": "ACM AI Leadership Summit - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "11:31",
+            "end": "11:41",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Agentic AI, explained | MIT Sloan",
+            "note": "mitsloan.mit.edu"
+          },
+          {
+            "start": "11:41",
+            "end": "11:45",
+            "cat": "writing",
+            "src": "macos",
+            "title": "obsidian",
+            "note": "md.obsidian"
+          },
+          {
+            "start": "11:45",
+            "end": "11:53",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Microsoft Word - NBER_TAI_shahidi_manuscript.docx",
+            "note": "nber.org"
+          },
+          {
+            "start": "11:53",
+            "end": "12:06",
+            "cat": "writing",
+            "src": "macos",
+            "title": "thesisproposalv2cheapverification.md - Google Docs",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "12:06",
+            "end": "12:26",
+            "cat": "research",
+            "src": "macos",
+            "title": "Why Do Multi-Agent LLM Systems Fail?",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "13:10",
+            "end": "13:12",
+            "cat": "personal",
+            "src": "macos",
+            "title": "17 of the best walks in Sydney | Sydney.com",
+            "note": "sydney.com"
+          },
+          {
+            "start": "13:12",
+            "end": "13:15",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "13:15",
+            "end": "13:17",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "The best family-friendly hikes in Sydney | Sydney.com",
+            "note": "sydney.com"
+          },
+          {
+            "start": "13:17",
+            "end": "13:19",
+            "cat": "admin",
+            "src": "macos",
+            "title": "track from deeway to manly - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "13:19",
+            "end": "13:23",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Dee Why to Manly Walk via the Manly Wormhole — Walk My World",
+            "note": "walkmyworld.com"
+          },
+          {
+            "start": "13:23",
+            "end": "13:38",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "13:38",
+            "end": "13:39",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Dee Why to Manly Walk via the Manly Wormhole — Walk My World",
+            "note": "walkmyworld.com"
+          },
+          {
+            "start": "13:39",
+            "end": "13:41",
+            "cat": "coding",
+            "src": "macos",
+            "title": "iterm2",
+            "note": "com.googlecode.iterm2"
+          },
+          {
+            "start": "13:41",
+            "end": "13:42",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "13:42",
+            "end": "14:06",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "14:07",
+            "end": "14:16",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "14:16",
+            "end": "14:29",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "14:29",
+            "end": "14:37",
+            "cat": "research",
+            "src": "macos",
+            "title": "Cooperate to Compete: Strategic Coordination in Multi-Agent ",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "14:38",
+            "end": "14:40",
+            "cat": "research",
+            "src": "macos",
+            "title": "Cooperate to Compete: Strategic Coordination in Multi-Agent ",
+            "note": "openreview.net"
+          },
+          {
+            "start": "14:40",
+            "end": "14:42",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "14:42",
+            "end": "14:44",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "14:44",
+            "end": "14:55",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "14:55",
+            "end": "14:56",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Cooperate to Compete: Strategic Coordination in Multi-Agent ",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "14:56",
+            "end": "14:57",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Daily papers of 1 Sep 2026 - ada.ren.cn@gmail.com - Gmail",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "14:57",
+            "end": "14:57",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Cooperate to Compete: Strategic Coordination in Multi-Agent ",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "14:58",
+            "end": "15:00",
+            "cat": "research",
+            "src": "macos",
+            "title": "Comparing Agent Frameworks: OpenClaw, Hermes, and DeepSeek |",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "15:00",
+            "end": "15:14",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:14",
+            "end": "15:21",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:22",
+            "end": "15:26",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Change Project proposal-16841 details | MyNCI",
+            "note": "my.nci.org.au"
+          },
+          {
+            "start": "15:26",
+            "end": "15:48",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:48",
+            "end": "15:52",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Change Project proposal-16841 details | MyNCI",
+            "note": "my.nci.org.au"
+          },
+          {
+            "start": "15:52",
+            "end": "15:58",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Change Project proposal-16841 details | MyNCI",
+            "note": "my.nci.org.au"
+          },
+          {
+            "start": "15:59",
+            "end": "16:00",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:00",
+            "end": "16:04",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Change Project proposal-16841 details | MyNCI",
+            "note": "my.nci.org.au"
+          },
+          {
+            "start": "16:04",
+            "end": "16:06",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "16:06",
+            "end": "16:09",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Change Project proposal-16841 details | MyNCI",
+            "note": "my.nci.org.au"
+          },
+          {
+            "start": "16:09",
+            "end": "16:11",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "16:11",
+            "end": "16:13",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "16:13",
+            "end": "16:21",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Work Health and Safety Essentials at Macquarie University - ",
+            "note": "forms.cloud.microsoft"
+          },
+          {
+            "start": "16:22",
+            "end": "16:26",
+            "cat": "coding",
+            "src": "macos",
+            "title": "DBSCAN — scikit-learn 1.9.0 documentation",
+            "note": "scikit-learn.org"
+          },
+          {
+            "start": "16:26",
+            "end": "16:28",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "16:28",
+            "end": "16:29",
+            "cat": "meeting",
+            "src": "chrome",
+            "title": "echo360.net.au",
+            "note": "echo360.net.au"
+          },
+          {
+            "start": "16:29",
+            "end": "16:33",
+            "cat": "personal",
+            "src": "macos",
+            "title": "If you are employed casually you really want to read this, p",
+            "note": "solresol.substack.com"
+          },
+          {
+            "start": "16:33",
+            "end": "16:34",
+            "cat": "meeting",
+            "src": "chrome",
+            "title": "echo360.net.au",
+            "note": "echo360.net.au"
+          },
+          {
+            "start": "16:34",
+            "end": "16:49",
+            "cat": "admin",
+            "src": "macos",
+            "title": "(17) Messaging | LinkedIn",
+            "note": "linkedin.com"
+          },
+          {
+            "start": "16:50",
+            "end": "17:12",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Venus Haghighi | LinkedIn",
+            "note": "linkedin.com"
+          },
+          {
+            "start": "18:37",
+            "end": "18:54",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "18:55",
+            "end": "18:57",
+            "cat": "coding",
+            "src": "macos",
+            "title": "A demo of the mean-shift clustering algorithm — scikit-learn",
+            "note": "scikit-learn.org"
+          },
+          {
+            "start": "18:57",
+            "end": "19:06",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Preventing, Detecting and Responding to Fraud and Corruption",
+            "note": "aus01.safelinks.protection.outlook.com"
+          },
+          {
+            "start": "19:06",
+            "end": "19:13",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Preventing, Detecting and Responding to Fraud and Corruption",
+            "note": "wd3-media.myworkdaycdn.com"
+          },
+          {
+            "start": "19:13",
+            "end": "19:38",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "19:39",
+            "end": "19:54",
+            "cat": "admin",
+            "src": "macos",
+            "title": "员工学术诚信培训课程（高级版） --- Staff Academic Integrity Module (Advance",
+            "note": "wd3-media.myworkdaycdn.com"
+          },
+          {
+            "start": "19:54",
+            "end": "19:58",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "19:58",
+            "end": "19:59",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "19:59",
+            "end": "20:02",
+            "cat": "writing",
+            "src": "macos",
+            "title": "obsidian",
+            "note": "md.obsidian"
+          },
+          {
+            "start": "20:02",
+            "end": "20:05",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Preventing, Detecting and Responding to Fraud and Corruption",
+            "note": "aus01.safelinks.protection.outlook.com"
+          },
+          {
+            "start": "20:05",
+            "end": "20:23",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "20:24",
+            "end": "20:25",
+            "cat": "personal",
+            "src": "macos",
+            "title": "West Head army track | Local alerts | NSW National Parks",
+            "note": "nationalparks.nsw.gov.au"
+          },
+          {
+            "start": "20:25",
+            "end": "20:45",
+            "cat": "admin",
+            "src": "macos",
+            "title": "west head - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "23:31",
+            "end": "23:36",
+            "cat": "coding",
+            "src": "vscode",
+            "title": "VS Code · qwen_scope_minimal.ipynb",
+            "note": "1 hit"
+          },
+          {
+            "start": "00:14",
+            "end": "00:19",
+            "cat": "coding",
+            "src": "vscode",
+            "title": "VS Code · qwen_scope_minimal.ipynb",
+            "note": "1 hit"
           }
         ],
-        "logged": 6,
-        "real": 6,
-        "deep": 6,
-        "ratio": 1.0,
+        "logged": 495,
+        "real": 256,
+        "deep": 256,
+        "ratio": 0.5164314077466068,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "6m",
-          "justOneMoreThing": 0
+          "contextSwitches": 52,
+          "tabsOpened": 45,
+          "longestFocus": "59m",
+          "justOneMoreThing": 14
         }
       },
       {
@@ -75343,16 +75895,49 @@
         "dateShort": "Thu, Sep 3",
         "dateLong": "Thursday, September 3",
         "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayEnd": "10:08",
+        "events": [
+          {
+            "start": "09:00",
+            "end": "09:20",
+            "cat": "meeting",
+            "src": "chrome",
+            "title": "Join from Zoom Workplace app - Zoom",
+            "note": "aus01.safelinks.protection.outlook.com"
+          },
+          {
+            "start": "09:33",
+            "end": "09:52",
+            "cat": "research",
+            "src": "chrome",
+            "title": "‪Jeonghwan Kim‬ - ‪Google 학술 검색‬",
+            "note": "scholar.google.com"
+          },
+          {
+            "start": "09:52",
+            "end": "10:05",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "mac uni gym - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "10:05",
+            "end": "10:08",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Jing Jiang | About | University of Technology Sydney",
+            "note": "profiles.uts.edu.au"
+          }
+        ],
+        "logged": 55,
+        "real": 39,
+        "deep": 39,
+        "ratio": 0.7021628819672289,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "0m",
+          "contextSwitches": 3,
+          "tabsOpened": 12,
+          "longestFocus": "39m",
           "justOneMoreThing": 0
         }
       },
@@ -75966,746 +76551,746 @@
   },
   "days": [
     {
-      "key": "2026-9-1",
-      "dayNum": 1,
-      "dow": 2,
-      "weekend": false,
-      "dateShort": "Tue, Sep 1",
       "dateLong": "Tuesday, September 1",
-      "dayStart": "09:55",
+      "dateShort": "Tue, Sep 1",
       "dayEnd": "00:04",
+      "dayNum": 1,
+      "dayStart": "09:55",
+      "deep": 435,
+      "dow": 2,
       "events": [
         {
-          "start": "09:55",
+          "cat": "coding",
           "end": "10:24",
-          "cat": "coding",
+          "note": "codefinity.com",
           "src": "chrome",
-          "title": "Learn Splitting the Nodes | Decision Tree",
-          "note": "codefinity.com"
+          "start": "09:55",
+          "title": "Learn Splitting the Nodes | Decision Tree"
         },
         {
-          "start": "10:25",
+          "cat": "coding",
           "end": "10:27",
-          "cat": "coding",
+          "note": "44 hits",
           "src": "claude",
-          "title": "Claude session · ada",
-          "note": "44 hits"
+          "start": "10:25",
+          "title": "Claude session · ada"
         },
         {
-          "start": "10:27",
+          "cat": "coding",
           "end": "10:32",
-          "cat": "coding",
+          "note": "44 hits",
           "src": "claude",
-          "title": "Claude session · ada",
-          "note": "44 hits"
+          "start": "10:27",
+          "title": "Claude session · ada"
         },
         {
-          "start": "10:32",
+          "cat": "coding",
           "end": "10:39",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "10:32",
+          "title": "VSCode"
         },
         {
-          "start": "10:39",
+          "cat": "coding",
           "end": "11:08",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "10:39",
+          "title": "VSCode"
         },
         {
-          "start": "11:08",
+          "cat": "research",
           "end": "11:11",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "chrome",
-          "title": "AI Digest — September 1, 2026 | Ada's Notes",
-          "note": "adaren100.github.io"
+          "start": "11:08",
+          "title": "AI Digest — September 1, 2026 | Ada's Notes"
         },
         {
-          "start": "11:11",
+          "cat": "coding",
           "end": "11:26",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "11:11",
+          "title": "VSCode"
         },
         {
-          "start": "11:27",
+          "cat": "personal",
           "end": "11:29",
-          "cat": "personal",
+          "note": "x.com",
           "src": "macos",
-          "title": "X 上的 Andrew Ng：“OpenWorker -- an open source agent that does",
-          "note": "x.com"
+          "start": "11:27",
+          "title": "X 上的 Andrew Ng：“OpenWorker -- an open source agent that does"
         },
         {
-          "start": "11:29",
+          "cat": "coding",
           "end": "11:34",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "11:29",
+          "title": "VSCode"
         },
         {
-          "start": "11:34",
+          "cat": "coding",
           "end": "12:06",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "11:34",
+          "title": "VSCode"
         },
         {
-          "start": "12:07",
+          "cat": "coding",
           "end": "12:15",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "12:07",
+          "title": "VSCode"
         },
         {
-          "start": "12:15",
+          "cat": "research",
           "end": "12:35",
-          "cat": "research",
+          "note": "huggingface.co",
           "src": "macos",
-          "title": "Qwen/SAE-Res-Qwen3.5-2B-Base-W32K-L0_100 · Hugging Face",
-          "note": "huggingface.co"
+          "start": "12:15",
+          "title": "Qwen/SAE-Res-Qwen3.5-2B-Base-W32K-L0_100 · Hugging Face"
         },
         {
-          "start": "13:14",
+          "cat": "research",
           "end": "13:15",
-          "cat": "research",
+          "note": "huggingface.co",
           "src": "macos",
-          "title": "Qwen/SAE-Res-Qwen3.5-2B-Base-W32K-L0_100 · Hugging Face",
-          "note": "huggingface.co"
+          "start": "13:14",
+          "title": "Qwen/SAE-Res-Qwen3.5-2B-Base-W32K-L0_100 · Hugging Face"
         },
         {
-          "start": "13:15",
+          "cat": "admin",
           "end": "13:22",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "Beecroft - Google Maps",
-          "note": "google.com"
+          "start": "13:15",
+          "title": "Beecroft - Google Maps"
         },
         {
-          "start": "13:22",
+          "cat": "personal",
           "end": "13:28",
-          "cat": "personal",
+          "note": "map.google.com",
           "src": "chrome",
-          "title": "Google Maps",
-          "note": "map.google.com"
+          "start": "13:22",
+          "title": "Google Maps"
         },
         {
-          "start": "13:28",
+          "cat": "coding",
           "end": "13:33",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "13:28",
+          "title": "VSCode"
         },
         {
-          "start": "13:34",
+          "cat": "coding",
           "end": "13:35",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "13:34",
+          "title": "VSCode"
         },
         {
-          "start": "13:35",
+          "cat": "coding",
           "end": "13:37",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "13:35",
+          "title": "VSCode"
         },
         {
-          "start": "13:38",
+          "cat": "research",
           "end": "13:42",
-          "cat": "research",
+          "note": "magazine.sebastianraschka.com",
           "src": "macos",
-          "title": "Components of A Coding Agent - by Sebastian Raschka, PhD",
-          "note": "magazine.sebastianraschka.com"
+          "start": "13:38",
+          "title": "Components of A Coding Agent - by Sebastian Raschka, PhD"
         },
         {
-          "start": "13:42",
+          "cat": "coding",
           "end": "13:46",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "13:42",
+          "title": "VSCode"
         },
         {
-          "start": "13:46",
+          "cat": "coding",
           "end": "13:48",
-          "cat": "coding",
+          "note": "3 hits",
           "src": "vscode",
-          "title": "VS Code · qwen_scope_minimal.ipynb",
-          "note": "3 hits"
+          "start": "13:46",
+          "title": "VS Code · qwen_scope_minimal.ipynb"
         },
         {
-          "start": "13:48",
+          "cat": "admin",
           "end": "13:52",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Am I answering True o",
-          "note": "ilearn.mq.edu.au"
+          "start": "13:48",
+          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Am I answering True o"
         },
         {
-          "start": "13:52",
+          "cat": "coding",
           "end": "13:53",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "13:52",
+          "title": "VSCode"
         },
         {
-          "start": "13:53",
+          "cat": "coding",
           "end": "13:55",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "13:53",
+          "title": "VSCode"
         },
         {
-          "start": "13:55",
+          "cat": "writing",
           "end": "13:58",
-          "cat": "writing",
+          "note": "md.obsidian",
           "src": "macos",
-          "title": "obsidian",
-          "note": "md.obsidian"
+          "start": "13:55",
+          "title": "obsidian"
         },
         {
-          "start": "13:58",
+          "cat": "coding",
           "end": "14:00",
-          "cat": "coding",
+          "note": "3 hits",
           "src": "vscode",
-          "title": "VS Code · qwen_scope_minimal.ipynb",
-          "note": "3 hits"
+          "start": "13:58",
+          "title": "VS Code · qwen_scope_minimal.ipynb"
         },
         {
-          "start": "14:00",
+          "cat": "research",
           "end": "14:02",
-          "cat": "research",
+          "note": "file:///Users/ada/Zotero/storage/PB2F8B5",
           "src": "macos",
-          "title": "Zhang et al. - 2024 - PsySafe A Comprehensive Framework for ",
-          "note": "file:///Users/ada/Zotero/storage/PB2F8B5"
+          "start": "14:00",
+          "title": "Zhang et al. - 2024 - PsySafe A Comprehensive Framework for "
         },
         {
-          "start": "14:02",
+          "cat": "admin",
           "end": "14:03",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "chrome",
-          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Am I answering True o",
-          "note": "ilearn.mq.edu.au"
+          "start": "14:02",
+          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Am I answering True o"
         },
         {
-          "start": "14:03",
+          "cat": "research",
           "end": "14:04",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "2501.16496",
-          "note": "arxiv.org"
+          "start": "14:03",
+          "title": "2501.16496"
         },
         {
-          "start": "14:04",
+          "cat": "admin",
           "end": "14:05",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "chrome",
-          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Am I answering True o",
-          "note": "ilearn.mq.edu.au"
+          "start": "14:04",
+          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Am I answering True o"
         },
         {
-          "start": "14:05",
+          "cat": "research",
           "end": "14:06",
-          "cat": "research",
+          "note": "openreview.net",
           "src": "macos",
-          "title": "Open Problems in Mechanistic Interpretability | OpenReview",
-          "note": "openreview.net"
+          "start": "14:05",
+          "title": "Open Problems in Mechanistic Interpretability | OpenReview"
         },
         {
-          "start": "14:06",
+          "cat": "coding",
           "end": "14:08",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "14:06",
+          "title": "VSCode"
         },
         {
-          "start": "14:08",
+          "cat": "admin",
           "end": "14:11",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "14:08",
+          "title": "Outlook"
         },
         {
-          "start": "14:11",
+          "cat": "research",
           "end": "14:25",
-          "cat": "research",
+          "note": "file:///Users/ada/Zotero/storage/PB2F8B5",
           "src": "chrome",
-          "title": "Zhang et al. - 2024 - PsySafe A Comprehensive Framework for ",
-          "note": "file:///Users/ada/Zotero/storage/PB2F8B5"
+          "start": "14:11",
+          "title": "Zhang et al. - 2024 - PsySafe A Comprehensive Framework for "
         },
         {
-          "start": "15:12",
+          "cat": "admin",
           "end": "15:15",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "15:12",
+          "title": "Outlook"
         },
         {
-          "start": "15:16",
+          "cat": "admin",
           "end": "15:30",
-          "cat": "admin",
+          "note": "sport.mq.edu.au",
           "src": "macos",
-          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
-          "note": "sport.mq.edu.au"
+          "start": "15:16",
+          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni"
         },
         {
-          "start": "15:30",
+          "cat": "research",
           "end": "15:33",
-          "cat": "research",
+          "note": "magazine.sebastianraschka.com",
           "src": "macos",
-          "title": "Components of A Coding Agent - by Sebastian Raschka, PhD",
-          "note": "magazine.sebastianraschka.com"
+          "start": "15:30",
+          "title": "Components of A Coding Agent - by Sebastian Raschka, PhD"
         },
         {
-          "start": "15:33",
+          "cat": "admin",
           "end": "15:35",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "15:33",
+          "title": "Outlook"
         },
         {
-          "start": "15:36",
+          "cat": "coding",
           "end": "15:37",
-          "cat": "coding",
+          "note": "github.com",
           "src": "macos",
-          "title": "GitHub - rasbt/mini-coding-agent: Minimal and readable codin",
-          "note": "github.com"
+          "start": "15:36",
+          "title": "GitHub - rasbt/mini-coding-agent: Minimal and readable codin"
         },
         {
-          "start": "15:37",
+          "cat": "admin",
           "end": "15:41",
-          "cat": "admin",
+          "note": "mng.bz",
           "src": "chrome",
-          "title": "Build a Reasoning Model (From Scratch) - Sebastian Raschka",
-          "note": "mng.bz"
+          "start": "15:37",
+          "title": "Build a Reasoning Model (From Scratch) - Sebastian Raschka"
         },
         {
-          "start": "15:41",
+          "cat": "coding",
           "end": "15:46",
-          "cat": "coding",
+          "note": "com.googlecode.iterm2",
           "src": "macos",
-          "title": "iterm2",
-          "note": "com.googlecode.iterm2"
+          "start": "15:41",
+          "title": "iterm2"
         },
         {
-          "start": "15:47",
+          "cat": "coding",
           "end": "15:48",
-          "cat": "coding",
+          "note": "com.googlecode.iterm2",
           "src": "macos",
-          "title": "iterm2",
-          "note": "com.googlecode.iterm2"
+          "start": "15:47",
+          "title": "iterm2"
         },
         {
-          "start": "15:48",
+          "cat": "coding",
           "end": "15:51",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "15:48",
+          "title": "VSCode"
         },
         {
-          "start": "15:52",
+          "cat": "coding",
           "end": "15:53",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "15:52",
+          "title": "VSCode"
         },
         {
-          "start": "15:53",
+          "cat": "coding",
           "end": "15:57",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "15:53",
+          "title": "VSCode"
         },
         {
-          "start": "15:58",
+          "cat": "admin",
           "end": "15:59",
-          "cat": "admin",
+          "note": "com.tinyspeck.slackmacgap",
           "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "start": "15:58",
+          "title": "slackmacgap"
         },
         {
-          "start": "15:59",
+          "cat": "research",
           "end": "16:02",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "15:59",
+          "title": "zotero"
         },
         {
-          "start": "16:02",
+          "cat": "coding",
           "end": "16:04",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "16:02",
+          "title": "VSCode"
         },
         {
-          "start": "16:05",
+          "cat": "admin",
           "end": "16:07",
-          "cat": "admin",
+          "note": "socialnlp-lab.slack.com",
           "src": "chrome",
-          "title": "Slack",
-          "note": "socialnlp-lab.slack.com"
+          "start": "16:05",
+          "title": "Slack"
         },
         {
-          "start": "16:07",
-          "end": "16:15",
           "cat": "writing",
+          "end": "16:15",
+          "note": "overleaf.com",
           "src": "macos",
-          "title": "Macquarie University PhD and MRes Thesis - Online LaTeX Edit",
-          "note": "overleaf.com"
+          "start": "16:07",
+          "title": "Macquarie University PhD and MRes Thesis - Online LaTeX Edit"
         },
         {
-          "start": "16:15",
+          "cat": "research",
           "end": "16:18",
-          "cat": "research",
+          "note": "perplexity.ai",
           "src": "macos",
-          "title": "agentic AI",
-          "note": "perplexity.ai"
+          "start": "16:15",
+          "title": "agentic AI"
         },
         {
-          "start": "16:18",
+          "cat": "research",
           "end": "16:19",
-          "cat": "research",
+          "note": "link.springer.com",
           "src": "macos",
-          "title": "From Language Models to Agentic AI: A Survey of Autonomous, ",
-          "note": "link.springer.com"
+          "start": "16:18",
+          "title": "From Language Models to Agentic AI: A Survey of Autonomous, "
         },
         {
-          "start": "16:20",
+          "cat": "coding",
           "end": "16:21",
-          "cat": "coding",
+          "note": "anthropic.com",
           "src": "macos",
-          "title": "Patterns and problems in multiagent systems \\ Anthropic",
-          "note": "anthropic.com"
+          "start": "16:20",
+          "title": "Patterns and problems in multiagent systems \\ Anthropic"
         },
         {
-          "start": "16:21",
+          "cat": "research",
           "end": "16:25",
-          "cat": "research",
+          "note": "file:///Users/ada/Documents/MQ/papers/li",
           "src": "macos",
-          "title": "From Language Models to Agentic AI- A Survey of Autonomous, ",
-          "note": "file:///Users/ada/Documents/MQ/papers/li"
+          "start": "16:21",
+          "title": "From Language Models to Agentic AI- A Survey of Autonomous, "
         },
         {
+          "cat": "research",
+          "end": "16:27",
+          "note": "perplexity.ai",
+          "src": "chrome",
           "start": "16:25",
-          "end": "16:27",
-          "cat": "research",
-          "src": "chrome",
-          "title": "From Language Models to Agentic AI: A Survey of Autonomous, ",
-          "note": "perplexity.ai"
+          "title": "From Language Models to Agentic AI: A Survey of Autonomous, "
         },
         {
-          "start": "16:27",
-          "end": "16:27",
           "cat": "admin",
+          "end": "16:27",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "16:27",
+          "title": "Outlook"
         },
         {
-          "start": "16:27",
+          "cat": "admin",
           "end": "16:33",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "16:27",
+          "title": "Outlook"
         },
         {
-          "start": "16:33",
+          "cat": "research",
           "end": "16:38",
-          "cat": "research",
+          "note": "perplexity.ai",
           "src": "chrome",
-          "title": "From Language Models to Agentic AI: A Survey of Autonomous, ",
-          "note": "perplexity.ai"
+          "start": "16:33",
+          "title": "From Language Models to Agentic AI: A Survey of Autonomous, "
         },
         {
-          "start": "16:38",
+          "cat": "admin",
           "end": "16:42",
-          "cat": "admin",
+          "note": "researchers.mq.edu.au",
           "src": "chrome",
-          "title": "Petra Graham - Macquarie University",
-          "note": "researchers.mq.edu.au"
+          "start": "16:38",
+          "title": "Petra Graham - Macquarie University"
         },
         {
-          "start": "16:42",
+          "cat": "research",
           "end": "16:44",
-          "cat": "research",
+          "note": "perplexity.ai",
           "src": "macos",
-          "title": "Perplexity",
-          "note": "perplexity.ai"
+          "start": "16:42",
+          "title": "Perplexity"
         },
         {
-          "start": "16:44",
+          "cat": "admin",
           "end": "17:06",
-          "cat": "admin",
+          "note": "lh5.googleusercontent.com",
           "src": "macos",
-          "title": "oMRBmT0Do5V4mSh_oYMq7HgTqEIt7tz6rhs_oLdfwWIY1pFUcjj95P7AU7SK",
-          "note": "lh5.googleusercontent.com"
+          "start": "16:44",
+          "title": "oMRBmT0Do5V4mSh_oYMq7HgTqEIt7tz6rhs_oLdfwWIY1pFUcjj95P7AU7SK"
         },
         {
-          "start": "17:06",
+          "cat": "admin",
           "end": "17:14",
-          "cat": "admin",
+          "note": "sport.mq.edu.au",
           "src": "macos",
-          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
-          "note": "sport.mq.edu.au"
+          "start": "17:06",
+          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni"
         },
         {
-          "start": "17:15",
+          "cat": "research",
           "end": "17:17",
-          "cat": "research",
+          "note": "aclanthology.org",
           "src": "macos",
-          "title": "64th Annual Meeting of the Association for Computational Lin",
-          "note": "aclanthology.org"
+          "start": "17:15",
+          "title": "64th Annual Meeting of the Association for Computational Lin"
         },
         {
-          "start": "17:17",
+          "cat": "research",
           "end": "17:22",
-          "cat": "research",
+          "note": "aclanthology.org",
           "src": "macos",
-          "title": "2026.acl-long.86.pdf",
-          "note": "aclanthology.org"
+          "start": "17:17",
+          "title": "2026.acl-long.86.pdf"
         },
         {
-          "start": "17:22",
+          "cat": "research",
           "end": "17:34",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "Agentic-imodels: Evolving agentic interpretability tools via",
-          "note": "arxiv.org"
+          "start": "17:22",
+          "title": "Agentic-imodels: Evolving agentic interpretability tools via"
         },
         {
-          "start": "17:35",
+          "cat": "admin",
           "end": "17:37",
-          "cat": "admin",
+          "note": "login.microsoftonline.com",
           "src": "chrome",
-          "title": "Viva Engage - Conversation",
-          "note": "login.microsoftonline.com"
+          "start": "17:35",
+          "title": "Viva Engage - Conversation"
         },
         {
-          "start": "17:37",
+          "cat": "research",
           "end": "17:42",
-          "cat": "research",
+          "note": "aclanthology.org",
           "src": "chrome",
-          "title": "Agentic-imodels: Evolving agentic interpretability tools via",
-          "note": "aclanthology.org"
+          "start": "17:37",
+          "title": "Agentic-imodels: Evolving agentic interpretability tools via"
         },
         {
-          "start": "17:47",
+          "cat": "research",
           "end": "17:48",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "SAGE: An Agentic Explainer Framework for Interpreting SAE Fe",
-          "note": "arxiv.org"
+          "start": "17:47",
+          "title": "SAGE: An Agentic Explainer Framework for Interpreting SAE Fe"
         },
         {
-          "start": "17:49",
+          "cat": "coding",
           "end": "18:05",
-          "cat": "coding",
+          "note": "anthropic.com",
           "src": "macos",
-          "title": "Patterns and problems in multiagent systems \\ Anthropic",
-          "note": "anthropic.com"
+          "start": "17:49",
+          "title": "Patterns and problems in multiagent systems \\ Anthropic"
         },
         {
-          "start": "18:05",
+          "cat": "admin",
           "end": "18:08",
-          "cat": "admin",
+          "note": "viterbi-web.usc.edu",
           "src": "macos",
-          "title": "ZHAO_YUE_CV.pdf",
-          "note": "viterbi-web.usc.edu"
+          "start": "18:05",
+          "title": "ZHAO_YUE_CV.pdf"
         },
         {
-          "start": "18:08",
+          "cat": "coding",
           "end": "18:11",
-          "cat": "coding",
+          "note": "auditable.run",
           "src": "chrome",
-          "title": "yzhao062/awesome-auditable-ai: Auditing AI agents: a curated",
-          "note": "auditable.run"
+          "start": "18:08",
+          "title": "yzhao062/awesome-auditable-ai: Auditing AI agents: a curated"
         },
         {
-          "start": "18:11",
+          "cat": "coding",
           "end": "18:17",
-          "cat": "coding",
+          "note": "auditable.run",
           "src": "chrome",
-          "title": "yzhao062/awesome-auditable-ai: Auditing AI agents: a curated",
-          "note": "auditable.run"
+          "start": "18:11",
+          "title": "yzhao062/awesome-auditable-ai: Auditing AI agents: a curated"
         },
         {
-          "start": "18:17",
+          "cat": "research",
           "end": "18:20",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "Survey on Evaluation of LLM-based Agents",
-          "note": "arxiv.org"
+          "start": "18:17",
+          "title": "Survey on Evaluation of LLM-based Agents"
         },
         {
-          "start": "18:21",
+          "cat": "coding",
           "end": "18:30",
-          "cat": "coding",
+          "note": "github.com",
           "src": "macos",
-          "title": "Asaf-Yehudai/LLM-Agent-Evaluation-Survey: Top papers related",
-          "note": "github.com"
+          "start": "18:21",
+          "title": "Asaf-Yehudai/LLM-Agent-Evaluation-Survey: Top papers related"
         },
         {
-          "start": "18:30",
+          "cat": "research",
           "end": "18:35",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "18:30",
+          "title": "zotero"
         },
         {
-          "start": "18:35",
+          "cat": "coding",
           "end": "18:37",
-          "cat": "coding",
+          "note": "github.com",
           "src": "chrome",
-          "title": "Asaf-Yehudai/LLM-Agent-Evaluation-Survey: Top papers related",
-          "note": "github.com"
+          "start": "18:35",
+          "title": "Asaf-Yehudai/LLM-Agent-Evaluation-Survey: Top papers related"
         },
         {
-          "start": "18:37",
+          "cat": "admin",
           "end": "18:40",
-          "cat": "admin",
+          "note": "viterbi-web.usc.edu",
           "src": "macos",
-          "title": "PyOD 3 | Agentic Anomaly Detection at Scale",
-          "note": "viterbi-web.usc.edu"
+          "start": "18:37",
+          "title": "PyOD 3 | Agentic Anomaly Detection at Scale"
         },
         {
-          "start": "18:41",
+          "cat": "research",
           "end": "19:02",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "chrome",
-          "title": "CatchBench: When Can an Agent Failure Be Caught?",
-          "note": "arxiv.org"
+          "start": "18:41",
+          "title": "CatchBench: When Can an Agent Failure Be Caught?"
         },
         {
-          "start": "19:03",
+          "cat": "research",
           "end": "19:09",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "Auditable Agents",
-          "note": "arxiv.org"
+          "start": "19:03",
+          "title": "Auditable Agents"
         },
         {
-          "start": "19:37",
+          "cat": "research",
           "end": "19:50",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "chrome",
-          "title": "How a PhD Can Survive? | Ada's Notes",
-          "note": "adaren100.github.io"
+          "start": "19:37",
+          "title": "How a PhD Can Survive? | Ada's Notes"
         },
         {
-          "start": "19:50",
+          "cat": "admin",
           "end": "19:51",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "19:50",
+          "title": "Outlook"
         },
         {
-          "start": "19:51",
+          "cat": "research",
           "end": "20:03",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "chrome",
-          "title": "How a PhD Can Survive? | Ada's Notes",
-          "note": "adaren100.github.io"
+          "start": "19:51",
+          "title": "How a PhD Can Survive? | Ada's Notes"
         },
         {
-          "start": "20:05",
+          "cat": "research",
           "end": "20:30",
-          "cat": "research",
+          "note": "bloomberg.com",
           "src": "macos",
-          "title": "Data Science Ph.D. Fellowship | Bloomberg LP",
-          "note": "bloomberg.com"
+          "start": "20:05",
+          "title": "Data Science Ph.D. Fellowship | Bloomberg LP"
         },
         {
-          "start": "20:31",
+          "cat": "research",
           "end": "20:32",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "Auditable Agents",
-          "note": "arxiv.org"
+          "start": "20:31",
+          "title": "Auditable Agents"
         },
         {
-          "start": "20:32",
+          "cat": "admin",
           "end": "20:45",
-          "cat": "admin",
+          "note": "bloomberg.avature.net",
           "src": "macos",
-          "title": "Senior Data Management Professional - Data Engineering - Sus",
-          "note": "bloomberg.avature.net"
+          "start": "20:32",
+          "title": "Senior Data Management Professional - Data Engineering - Sus"
         },
         {
-          "start": "20:45",
-          "end": "20:48",
           "cat": "research",
+          "end": "20:48",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "20:45",
+          "title": "zotero"
         },
         {
-          "start": "20:48",
+          "cat": "admin",
           "end": "20:55",
-          "cat": "admin",
+          "note": "bloomberg.avature.net",
           "src": "macos",
-          "title": "Senior Data Management Professional - Data Engineering - Sus",
-          "note": "bloomberg.avature.net"
+          "start": "20:48",
+          "title": "Senior Data Management Professional - Data Engineering - Sus"
         },
         {
-          "start": "22:39",
-          "end": "23:09",
           "cat": "coding",
+          "end": "23:09",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "22:39",
+          "title": "VSCode"
         },
         {
-          "start": "23:26",
-          "end": "23:47",
           "cat": "personal",
+          "end": "23:47",
+          "note": "ticketmaster.com.au",
           "src": "chrome",
-          "title": "Bigbang Tickets | 2026-27 Tour & Concert Dates | Ticketmaste",
-          "note": "ticketmaster.com.au"
+          "start": "23:26",
+          "title": "Bigbang Tickets | 2026-27 Tour & Concert Dates | Ticketmaste"
         },
         {
-          "start": "23:47",
-          "end": "00:04",
           "cat": "admin",
+          "end": "00:04",
+          "note": "axs.com",
           "src": "chrome",
-          "title": "BIGBANG - Sydney Olympic Park - Accor Stadium - Sat, 31 Oct ",
-          "note": "axs.com"
+          "start": "23:47",
+          "title": "BIGBANG - Sydney Olympic Park - Accor Stadium - Sat, 31 Oct "
         }
       ],
+      "key": "2026-9-1",
       "logged": 593,
-      "real": 435,
-      "deep": 435,
       "ratio": 0.7332584332668254,
+      "real": 435,
       "stats": {
         "contextSwitches": 61,
-        "tabsOpened": 63,
+        "justOneMoreThing": 15,
         "longestFocus": "1h 29m",
-        "justOneMoreThing": 15
-      }
+        "tabsOpened": 63
+      },
+      "weekend": false
     },
     {
       "key": "2026-9-2",
@@ -76715,26 +77300,578 @@
       "dateShort": "Wed, Sep 2",
       "dateLong": "Wednesday, September 2",
       "dayStart": "10:11",
-      "dayEnd": "10:17",
+      "dayEnd": "00:19",
       "events": [
         {
           "start": "10:11",
-          "end": "10:17",
-          "cat": "writing",
+          "end": "10:20",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
+          "note": "sport.mq.edu.au"
+        },
+        {
+          "start": "10:20",
+          "end": "10:21",
+          "cat": "coding",
           "src": "local",
-          "title": "2026-09-02-introducing-agentic-video-in-gemini.md",
-          "note": "6 hits"
+          "title": "domain_cats.json",
+          "note": "4 hits"
+        },
+        {
+          "start": "10:21",
+          "end": "10:28",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Language models can explain neurons in language models | Ope",
+          "note": "scholar.google.com"
+        },
+        {
+          "start": "10:28",
+          "end": "10:30",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "10:30",
+          "end": "10:31",
+          "cat": "research",
+          "src": "macos",
+          "title": "1fa1ab11f4bd5f94b2ec20e794dbfa3b-Paper-Conference.pdf",
+          "note": "proceedings.iclr.cc"
+        },
+        {
+          "start": "10:31",
+          "end": "10:33",
+          "cat": "writing",
+          "src": "macos",
+          "title": "obsidian",
+          "note": "md.obsidian"
+        },
+        {
+          "start": "10:33",
+          "end": "10:55",
+          "cat": "research",
+          "src": "macos",
+          "title": "Language models can explain neurons in language models | Ope",
+          "note": "openai.com"
+        },
+        {
+          "start": "10:55",
+          "end": "11:15",
+          "cat": "admin",
+          "src": "macos",
+          "title": "ACM AI Leadership Summit - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "11:18",
+          "end": "11:26",
+          "cat": "admin",
+          "src": "macos",
+          "title": "ACM AI Leadership Summit - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "11:31",
+          "end": "11:41",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Agentic AI, explained | MIT Sloan",
+          "note": "mitsloan.mit.edu"
+        },
+        {
+          "start": "11:41",
+          "end": "11:45",
+          "cat": "writing",
+          "src": "macos",
+          "title": "obsidian",
+          "note": "md.obsidian"
+        },
+        {
+          "start": "11:45",
+          "end": "11:53",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Microsoft Word - NBER_TAI_shahidi_manuscript.docx",
+          "note": "nber.org"
+        },
+        {
+          "start": "11:53",
+          "end": "12:06",
+          "cat": "writing",
+          "src": "macos",
+          "title": "thesisproposalv2cheapverification.md - Google Docs",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "12:06",
+          "end": "12:26",
+          "cat": "research",
+          "src": "macos",
+          "title": "Why Do Multi-Agent LLM Systems Fail?",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "13:10",
+          "end": "13:12",
+          "cat": "personal",
+          "src": "macos",
+          "title": "17 of the best walks in Sydney | Sydney.com",
+          "note": "sydney.com"
+        },
+        {
+          "start": "13:12",
+          "end": "13:15",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "13:15",
+          "end": "13:17",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "The best family-friendly hikes in Sydney | Sydney.com",
+          "note": "sydney.com"
+        },
+        {
+          "start": "13:17",
+          "end": "13:19",
+          "cat": "admin",
+          "src": "macos",
+          "title": "track from deeway to manly - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "13:19",
+          "end": "13:23",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Dee Why to Manly Walk via the Manly Wormhole — Walk My World",
+          "note": "walkmyworld.com"
+        },
+        {
+          "start": "13:23",
+          "end": "13:38",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "13:38",
+          "end": "13:39",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Dee Why to Manly Walk via the Manly Wormhole — Walk My World",
+          "note": "walkmyworld.com"
+        },
+        {
+          "start": "13:39",
+          "end": "13:41",
+          "cat": "coding",
+          "src": "macos",
+          "title": "iterm2",
+          "note": "com.googlecode.iterm2"
+        },
+        {
+          "start": "13:41",
+          "end": "13:42",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "13:42",
+          "end": "14:06",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "14:07",
+          "end": "14:16",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "14:16",
+          "end": "14:29",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "14:29",
+          "end": "14:37",
+          "cat": "research",
+          "src": "macos",
+          "title": "Cooperate to Compete: Strategic Coordination in Multi-Agent ",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "14:38",
+          "end": "14:40",
+          "cat": "research",
+          "src": "macos",
+          "title": "Cooperate to Compete: Strategic Coordination in Multi-Agent ",
+          "note": "openreview.net"
+        },
+        {
+          "start": "14:40",
+          "end": "14:42",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "14:42",
+          "end": "14:44",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "14:44",
+          "end": "14:55",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "14:55",
+          "end": "14:56",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Cooperate to Compete: Strategic Coordination in Multi-Agent ",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "14:56",
+          "end": "14:57",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Daily papers of 1 Sep 2026 - ada.ren.cn@gmail.com - Gmail",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "14:57",
+          "end": "14:57",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Cooperate to Compete: Strategic Coordination in Multi-Agent ",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "14:58",
+          "end": "15:00",
+          "cat": "research",
+          "src": "macos",
+          "title": "Comparing Agent Frameworks: OpenClaw, Hermes, and DeepSeek |",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "15:00",
+          "end": "15:14",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:14",
+          "end": "15:21",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:22",
+          "end": "15:26",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Change Project proposal-16841 details | MyNCI",
+          "note": "my.nci.org.au"
+        },
+        {
+          "start": "15:26",
+          "end": "15:48",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:48",
+          "end": "15:52",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Change Project proposal-16841 details | MyNCI",
+          "note": "my.nci.org.au"
+        },
+        {
+          "start": "15:52",
+          "end": "15:58",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Change Project proposal-16841 details | MyNCI",
+          "note": "my.nci.org.au"
+        },
+        {
+          "start": "15:59",
+          "end": "16:00",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:00",
+          "end": "16:04",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Change Project proposal-16841 details | MyNCI",
+          "note": "my.nci.org.au"
+        },
+        {
+          "start": "16:04",
+          "end": "16:06",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "16:06",
+          "end": "16:09",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Change Project proposal-16841 details | MyNCI",
+          "note": "my.nci.org.au"
+        },
+        {
+          "start": "16:09",
+          "end": "16:11",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "16:11",
+          "end": "16:13",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "16:13",
+          "end": "16:21",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Work Health and Safety Essentials at Macquarie University - ",
+          "note": "forms.cloud.microsoft"
+        },
+        {
+          "start": "16:22",
+          "end": "16:26",
+          "cat": "coding",
+          "src": "macos",
+          "title": "DBSCAN — scikit-learn 1.9.0 documentation",
+          "note": "scikit-learn.org"
+        },
+        {
+          "start": "16:26",
+          "end": "16:28",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "16:28",
+          "end": "16:29",
+          "cat": "meeting",
+          "src": "chrome",
+          "title": "echo360.net.au",
+          "note": "echo360.net.au"
+        },
+        {
+          "start": "16:29",
+          "end": "16:33",
+          "cat": "personal",
+          "src": "macos",
+          "title": "If you are employed casually you really want to read this, p",
+          "note": "solresol.substack.com"
+        },
+        {
+          "start": "16:33",
+          "end": "16:34",
+          "cat": "meeting",
+          "src": "chrome",
+          "title": "echo360.net.au",
+          "note": "echo360.net.au"
+        },
+        {
+          "start": "16:34",
+          "end": "16:49",
+          "cat": "admin",
+          "src": "macos",
+          "title": "(17) Messaging | LinkedIn",
+          "note": "linkedin.com"
+        },
+        {
+          "start": "16:50",
+          "end": "17:12",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Venus Haghighi | LinkedIn",
+          "note": "linkedin.com"
+        },
+        {
+          "start": "18:37",
+          "end": "18:54",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "18:55",
+          "end": "18:57",
+          "cat": "coding",
+          "src": "macos",
+          "title": "A demo of the mean-shift clustering algorithm — scikit-learn",
+          "note": "scikit-learn.org"
+        },
+        {
+          "start": "18:57",
+          "end": "19:06",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Preventing, Detecting and Responding to Fraud and Corruption",
+          "note": "aus01.safelinks.protection.outlook.com"
+        },
+        {
+          "start": "19:06",
+          "end": "19:13",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Preventing, Detecting and Responding to Fraud and Corruption",
+          "note": "wd3-media.myworkdaycdn.com"
+        },
+        {
+          "start": "19:13",
+          "end": "19:38",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "19:39",
+          "end": "19:54",
+          "cat": "admin",
+          "src": "macos",
+          "title": "员工学术诚信培训课程（高级版） --- Staff Academic Integrity Module (Advance",
+          "note": "wd3-media.myworkdaycdn.com"
+        },
+        {
+          "start": "19:54",
+          "end": "19:58",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "19:58",
+          "end": "19:59",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "19:59",
+          "end": "20:02",
+          "cat": "writing",
+          "src": "macos",
+          "title": "obsidian",
+          "note": "md.obsidian"
+        },
+        {
+          "start": "20:02",
+          "end": "20:05",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Preventing, Detecting and Responding to Fraud and Corruption",
+          "note": "aus01.safelinks.protection.outlook.com"
+        },
+        {
+          "start": "20:05",
+          "end": "20:23",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "20:24",
+          "end": "20:25",
+          "cat": "personal",
+          "src": "macos",
+          "title": "West Head army track | Local alerts | NSW National Parks",
+          "note": "nationalparks.nsw.gov.au"
+        },
+        {
+          "start": "20:25",
+          "end": "20:45",
+          "cat": "admin",
+          "src": "macos",
+          "title": "west head - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "23:31",
+          "end": "23:36",
+          "cat": "coding",
+          "src": "vscode",
+          "title": "VS Code · qwen_scope_minimal.ipynb",
+          "note": "1 hit"
+        },
+        {
+          "start": "00:14",
+          "end": "00:19",
+          "cat": "coding",
+          "src": "vscode",
+          "title": "VS Code · qwen_scope_minimal.ipynb",
+          "note": "1 hit"
         }
       ],
-      "logged": 6,
-      "real": 6,
-      "deep": 6,
-      "ratio": 1.0,
+      "logged": 495,
+      "real": 256,
+      "deep": 256,
+      "ratio": 0.5164314077466068,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "6m",
-        "justOneMoreThing": 0
+        "contextSwitches": 52,
+        "tabsOpened": 45,
+        "longestFocus": "59m",
+        "justOneMoreThing": 14
       }
     },
     {
@@ -76745,16 +77882,49 @@
       "dateShort": "Thu, Sep 3",
       "dateLong": "Thursday, September 3",
       "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayEnd": "10:08",
+      "events": [
+        {
+          "start": "09:00",
+          "end": "09:20",
+          "cat": "meeting",
+          "src": "chrome",
+          "title": "Join from Zoom Workplace app - Zoom",
+          "note": "aus01.safelinks.protection.outlook.com"
+        },
+        {
+          "start": "09:33",
+          "end": "09:52",
+          "cat": "research",
+          "src": "chrome",
+          "title": "‪Jeonghwan Kim‬ - ‪Google 학술 검색‬",
+          "note": "scholar.google.com"
+        },
+        {
+          "start": "09:52",
+          "end": "10:05",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "mac uni gym - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "10:05",
+          "end": "10:08",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Jing Jiang | About | University of Technology Sydney",
+          "note": "profiles.uts.edu.au"
+        }
+      ],
+      "logged": 55,
+      "real": 39,
+      "deep": 39,
+      "ratio": 0.7021628819672289,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "0m",
+        "contextSwitches": 3,
+        "tabsOpened": 12,
+        "longestFocus": "39m",
         "justOneMoreThing": 0
       }
     },
