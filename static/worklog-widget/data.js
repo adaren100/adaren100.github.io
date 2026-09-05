@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-09-04T10:20:13+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-09-05T10:35:43+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -75306,1200 +75306,1200 @@
         "weekend": false
       },
       {
-        "key": "2026-9-2",
-        "dayNum": 2,
-        "dow": 3,
-        "weekend": false,
-        "dateShort": "Wed, Sep 2",
         "dateLong": "Wednesday, September 2",
-        "dayStart": "10:11",
+        "dateShort": "Wed, Sep 2",
         "dayEnd": "00:19",
+        "dayNum": 2,
+        "dayStart": "10:11",
+        "deep": 327,
+        "dow": 3,
         "events": [
           {
-            "start": "10:11",
+            "cat": "admin",
             "end": "10:20",
-            "cat": "admin",
+            "note": "sport.mq.edu.au",
             "src": "macos",
-            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
-            "note": "sport.mq.edu.au"
+            "start": "10:11",
+            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni"
           },
           {
-            "start": "10:20",
+            "cat": "coding",
             "end": "10:21",
-            "cat": "coding",
+            "note": "2 hits",
             "src": "local",
-            "title": "domain_cats.json",
-            "note": "2 hits"
+            "start": "10:20",
+            "title": "domain_cats.json"
           },
           {
-            "start": "10:21",
+            "cat": "research",
             "end": "10:28",
-            "cat": "research",
+            "note": "scholar.google.com",
             "src": "chrome",
-            "title": "Language models can explain neurons in language models | Ope",
-            "note": "scholar.google.com"
+            "start": "10:21",
+            "title": "Language models can explain neurons in language models | Ope"
           },
           {
-            "start": "10:28",
+            "cat": "admin",
             "end": "10:30",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "10:28",
+            "title": "Outlook"
           },
           {
-            "start": "10:30",
+            "cat": "research",
             "end": "10:31",
-            "cat": "research",
+            "note": "proceedings.iclr.cc",
             "src": "macos",
-            "title": "1fa1ab11f4bd5f94b2ec20e794dbfa3b-Paper-Conference.pdf",
-            "note": "proceedings.iclr.cc"
+            "start": "10:30",
+            "title": "1fa1ab11f4bd5f94b2ec20e794dbfa3b-Paper-Conference.pdf"
           },
           {
-            "start": "10:31",
+            "cat": "writing",
             "end": "10:33",
-            "cat": "writing",
+            "note": "md.obsidian",
             "src": "macos",
-            "title": "obsidian",
-            "note": "md.obsidian"
+            "start": "10:31",
+            "title": "obsidian"
           },
           {
-            "start": "10:33",
+            "cat": "research",
             "end": "10:55",
-            "cat": "research",
+            "note": "openai.com",
             "src": "macos",
-            "title": "Language models can explain neurons in language models | Ope",
-            "note": "openai.com"
+            "start": "10:33",
+            "title": "Language models can explain neurons in language models | Ope"
           },
           {
-            "start": "10:55",
+            "cat": "admin",
             "end": "11:15",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "ACM AI Leadership Summit - Google Search",
-            "note": "google.com"
+            "start": "10:55",
+            "title": "ACM AI Leadership Summit - Google Search"
           },
           {
-            "start": "11:18",
+            "cat": "admin",
             "end": "11:26",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "ACM AI Leadership Summit - Google Search",
-            "note": "google.com"
+            "start": "11:18",
+            "title": "ACM AI Leadership Summit - Google Search"
           },
           {
-            "start": "11:31",
+            "cat": "research",
             "end": "11:41",
-            "cat": "research",
+            "note": "mitsloan.mit.edu",
             "src": "macos",
-            "title": "Agentic AI, explained | MIT Sloan",
-            "note": "mitsloan.mit.edu"
+            "start": "11:31",
+            "title": "Agentic AI, explained | MIT Sloan"
           },
           {
-            "start": "11:41",
+            "cat": "writing",
             "end": "11:45",
-            "cat": "writing",
+            "note": "md.obsidian",
             "src": "macos",
-            "title": "obsidian",
-            "note": "md.obsidian"
+            "start": "11:41",
+            "title": "obsidian"
           },
           {
-            "start": "11:45",
+            "cat": "research",
             "end": "11:53",
-            "cat": "research",
+            "note": "nber.org",
             "src": "macos",
-            "title": "Microsoft Word - NBER_TAI_shahidi_manuscript.docx",
-            "note": "nber.org"
+            "start": "11:45",
+            "title": "Microsoft Word - NBER_TAI_shahidi_manuscript.docx"
           },
           {
-            "start": "11:53",
+            "cat": "writing",
             "end": "12:06",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "thesisproposalv2cheapverification.md - Google Docs",
-            "note": "docs.google.com"
+            "start": "11:53",
+            "title": "thesisproposalv2cheapverification.md - Google Docs"
           },
           {
-            "start": "12:06",
+            "cat": "research",
             "end": "12:26",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "Why Do Multi-Agent LLM Systems Fail?",
-            "note": "arxiv.org"
+            "start": "12:06",
+            "title": "Why Do Multi-Agent LLM Systems Fail?"
           },
           {
-            "start": "13:10",
+            "cat": "personal",
             "end": "13:12",
-            "cat": "personal",
+            "note": "sydney.com",
             "src": "macos",
-            "title": "17 of the best walks in Sydney | Sydney.com",
-            "note": "sydney.com"
+            "start": "13:10",
+            "title": "17 of the best walks in Sydney | Sydney.com"
           },
           {
-            "start": "13:12",
+            "cat": "coding",
             "end": "13:15",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "13:12",
+            "title": "codex"
           },
           {
-            "start": "13:15",
+            "cat": "personal",
             "end": "13:17",
-            "cat": "personal",
+            "note": "sydney.com",
             "src": "chrome",
-            "title": "The best family-friendly hikes in Sydney | Sydney.com",
-            "note": "sydney.com"
+            "start": "13:15",
+            "title": "The best family-friendly hikes in Sydney | Sydney.com"
           },
           {
-            "start": "13:17",
+            "cat": "admin",
             "end": "13:19",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "track from deeway to manly - Google Search",
-            "note": "google.com"
+            "start": "13:17",
+            "title": "track from deeway to manly - Google Search"
           },
           {
-            "start": "13:19",
+            "cat": "personal",
             "end": "13:23",
-            "cat": "personal",
+            "note": "walkmyworld.com",
             "src": "macos",
-            "title": "Dee Why to Manly Walk via the Manly Wormhole — Walk My World",
-            "note": "walkmyworld.com"
+            "start": "13:19",
+            "title": "Dee Why to Manly Walk via the Manly Wormhole — Walk My World"
           },
           {
-            "start": "13:23",
+            "cat": "coding",
             "end": "13:38",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "13:23",
+            "title": "VSCode"
           },
           {
-            "start": "13:38",
+            "cat": "personal",
             "end": "13:39",
-            "cat": "personal",
+            "note": "walkmyworld.com",
             "src": "chrome",
-            "title": "Dee Why to Manly Walk via the Manly Wormhole — Walk My World",
-            "note": "walkmyworld.com"
+            "start": "13:38",
+            "title": "Dee Why to Manly Walk via the Manly Wormhole — Walk My World"
           },
           {
-            "start": "13:39",
+            "cat": "coding",
             "end": "13:41",
-            "cat": "coding",
+            "note": "com.googlecode.iterm2",
             "src": "macos",
-            "title": "iterm2",
-            "note": "com.googlecode.iterm2"
+            "start": "13:39",
+            "title": "iterm2"
           },
           {
-            "start": "13:41",
+            "cat": "coding",
             "end": "13:42",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "13:41",
+            "title": "VSCode"
           },
           {
-            "start": "13:42",
+            "cat": "coding",
             "end": "14:06",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "13:42",
+            "title": "VSCode"
           },
           {
-            "start": "14:07",
+            "cat": "coding",
             "end": "14:16",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "14:07",
+            "title": "VSCode"
           },
           {
-            "start": "14:16",
+            "cat": "coding",
             "end": "14:29",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "14:16",
+            "title": "VSCode"
           },
           {
-            "start": "14:29",
+            "cat": "research",
             "end": "14:37",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "Cooperate to Compete: Strategic Coordination in Multi-Agent ",
-            "note": "arxiv.org"
+            "start": "14:29",
+            "title": "Cooperate to Compete: Strategic Coordination in Multi-Agent "
           },
           {
-            "start": "14:38",
+            "cat": "research",
             "end": "14:40",
-            "cat": "research",
+            "note": "openreview.net",
             "src": "macos",
-            "title": "Cooperate to Compete: Strategic Coordination in Multi-Agent ",
-            "note": "openreview.net"
+            "start": "14:38",
+            "title": "Cooperate to Compete: Strategic Coordination in Multi-Agent "
           },
           {
-            "start": "14:40",
+            "cat": "admin",
             "end": "14:42",
-            "cat": "admin",
+            "note": "com.tinyspeck.slackmacgap",
             "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "start": "14:40",
+            "title": "slackmacgap"
           },
           {
-            "start": "14:42",
+            "cat": "coding",
             "end": "14:44",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "14:42",
+            "title": "VSCode"
           },
           {
-            "start": "14:44",
+            "cat": "coding",
             "end": "14:55",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "14:44",
+            "title": "VSCode"
           },
           {
-            "start": "14:55",
+            "cat": "research",
             "end": "14:56",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "chrome",
-            "title": "Cooperate to Compete: Strategic Coordination in Multi-Agent ",
-            "note": "arxiv.org"
+            "start": "14:55",
+            "title": "Cooperate to Compete: Strategic Coordination in Multi-Agent "
           },
           {
+            "cat": "admin",
+            "end": "14:57",
+            "note": "mail.google.com",
+            "src": "macos",
             "start": "14:56",
-            "end": "14:57",
-            "cat": "admin",
-            "src": "macos",
-            "title": "Daily papers of 1 Sep 2026 - ada.ren.cn@gmail.com - Gmail",
-            "note": "mail.google.com"
+            "title": "Daily papers of 1 Sep 2026 - ada.ren.cn@gmail.com - Gmail"
           },
           {
+            "cat": "research",
+            "end": "14:57",
+            "note": "arxiv.org",
+            "src": "chrome",
             "start": "14:57",
-            "end": "14:57",
-            "cat": "research",
-            "src": "chrome",
-            "title": "Cooperate to Compete: Strategic Coordination in Multi-Agent ",
-            "note": "arxiv.org"
+            "title": "Cooperate to Compete: Strategic Coordination in Multi-Agent "
           },
           {
-            "start": "14:58",
+            "cat": "research",
             "end": "15:00",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "macos",
-            "title": "Comparing Agent Frameworks: OpenClaw, Hermes, and DeepSeek |",
-            "note": "adaren100.github.io"
+            "start": "14:58",
+            "title": "Comparing Agent Frameworks: OpenClaw, Hermes, and DeepSeek |"
           },
           {
-            "start": "15:00",
+            "cat": "coding",
             "end": "15:14",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "15:00",
+            "title": "VSCode"
           },
           {
-            "start": "15:14",
+            "cat": "coding",
             "end": "15:21",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "15:14",
+            "title": "VSCode"
           },
           {
-            "start": "15:22",
+            "cat": "admin",
             "end": "15:26",
-            "cat": "admin",
+            "note": "my.nci.org.au",
             "src": "chrome",
-            "title": "Change Project proposal-16841 details | MyNCI",
-            "note": "my.nci.org.au"
+            "start": "15:22",
+            "title": "Change Project proposal-16841 details | MyNCI"
           },
           {
-            "start": "15:26",
+            "cat": "coding",
             "end": "15:48",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "15:26",
+            "title": "VSCode"
           },
           {
-            "start": "15:48",
+            "cat": "admin",
             "end": "15:52",
-            "cat": "admin",
+            "note": "my.nci.org.au",
             "src": "chrome",
-            "title": "Change Project proposal-16841 details | MyNCI",
-            "note": "my.nci.org.au"
+            "start": "15:48",
+            "title": "Change Project proposal-16841 details | MyNCI"
           },
           {
-            "start": "15:52",
+            "cat": "admin",
             "end": "15:58",
-            "cat": "admin",
+            "note": "my.nci.org.au",
             "src": "chrome",
-            "title": "Change Project proposal-16841 details | MyNCI",
-            "note": "my.nci.org.au"
+            "start": "15:52",
+            "title": "Change Project proposal-16841 details | MyNCI"
           },
           {
-            "start": "15:59",
+            "cat": "coding",
             "end": "16:00",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "15:59",
+            "title": "VSCode"
           },
           {
-            "start": "16:00",
+            "cat": "admin",
             "end": "16:04",
-            "cat": "admin",
+            "note": "my.nci.org.au",
             "src": "chrome",
-            "title": "Change Project proposal-16841 details | MyNCI",
-            "note": "my.nci.org.au"
+            "start": "16:00",
+            "title": "Change Project proposal-16841 details | MyNCI"
           },
           {
-            "start": "16:04",
+            "cat": "coding",
             "end": "16:06",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "16:04",
+            "title": "codex"
           },
           {
-            "start": "16:06",
+            "cat": "admin",
             "end": "16:09",
-            "cat": "admin",
+            "note": "my.nci.org.au",
             "src": "chrome",
-            "title": "Change Project proposal-16841 details | MyNCI",
-            "note": "my.nci.org.au"
+            "start": "16:06",
+            "title": "Change Project proposal-16841 details | MyNCI"
           },
           {
-            "start": "16:09",
+            "cat": "coding",
             "end": "16:11",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "16:09",
+            "title": "codex"
           },
           {
-            "start": "16:11",
+            "cat": "coding",
             "end": "16:13",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "16:11",
+            "title": "codex"
           },
           {
-            "start": "16:13",
+            "cat": "admin",
             "end": "16:21",
-            "cat": "admin",
+            "note": "forms.cloud.microsoft",
             "src": "chrome",
-            "title": "Work Health and Safety Essentials at Macquarie University - ",
-            "note": "forms.cloud.microsoft"
+            "start": "16:13",
+            "title": "Work Health and Safety Essentials at Macquarie University - "
           },
           {
-            "start": "16:22",
+            "cat": "coding",
             "end": "16:26",
-            "cat": "coding",
+            "note": "scikit-learn.org",
             "src": "macos",
-            "title": "DBSCAN — scikit-learn 1.9.0 documentation",
-            "note": "scikit-learn.org"
+            "start": "16:22",
+            "title": "DBSCAN — scikit-learn 1.9.0 documentation"
           },
           {
-            "start": "16:26",
+            "cat": "admin",
             "end": "16:28",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "16:26",
+            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn"
           },
           {
-            "start": "16:28",
+            "cat": "meeting",
             "end": "16:29",
-            "cat": "meeting",
+            "note": "echo360.net.au",
             "src": "chrome",
-            "title": "echo360.net.au",
-            "note": "echo360.net.au"
+            "start": "16:28",
+            "title": "echo360.net.au"
           },
           {
-            "start": "16:29",
-            "end": "16:33",
             "cat": "research",
+            "end": "16:33",
+            "note": "solresol.substack.com",
             "src": "macos",
-            "title": "If you are employed casually you really want to read this, p",
-            "note": "solresol.substack.com"
+            "start": "16:29",
+            "title": "If you are employed casually you really want to read this, p"
           },
           {
-            "start": "16:33",
-            "end": "16:34",
             "cat": "meeting",
+            "end": "16:34",
+            "note": "echo360.net.au",
             "src": "chrome",
-            "title": "echo360.net.au",
-            "note": "echo360.net.au"
+            "start": "16:33",
+            "title": "echo360.net.au"
           },
           {
-            "start": "16:34",
+            "cat": "admin",
             "end": "16:49",
-            "cat": "admin",
+            "note": "linkedin.com",
             "src": "macos",
-            "title": "(17) Messaging | LinkedIn",
-            "note": "linkedin.com"
+            "start": "16:34",
+            "title": "(17) Messaging | LinkedIn"
           },
           {
-            "start": "16:50",
+            "cat": "admin",
             "end": "17:12",
-            "cat": "admin",
+            "note": "linkedin.com",
             "src": "macos",
-            "title": "Venus Haghighi | LinkedIn",
-            "note": "linkedin.com"
+            "start": "16:50",
+            "title": "Venus Haghighi | LinkedIn"
           },
           {
-            "start": "18:37",
+            "cat": "admin",
             "end": "18:54",
-            "cat": "admin",
+            "note": "com.tinyspeck.slackmacgap",
             "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "start": "18:37",
+            "title": "slackmacgap"
           },
           {
-            "start": "18:55",
+            "cat": "coding",
             "end": "18:57",
-            "cat": "coding",
+            "note": "scikit-learn.org",
             "src": "macos",
-            "title": "A demo of the mean-shift clustering algorithm — scikit-learn",
-            "note": "scikit-learn.org"
+            "start": "18:55",
+            "title": "A demo of the mean-shift clustering algorithm — scikit-learn"
           },
           {
-            "start": "18:57",
+            "cat": "admin",
             "end": "19:06",
-            "cat": "admin",
+            "note": "aus01.safelinks.protection.outlook.com",
             "src": "chrome",
-            "title": "Preventing, Detecting and Responding to Fraud and Corruption",
-            "note": "aus01.safelinks.protection.outlook.com"
+            "start": "18:57",
+            "title": "Preventing, Detecting and Responding to Fraud and Corruption"
           },
           {
-            "start": "19:06",
+            "cat": "admin",
             "end": "19:13",
-            "cat": "admin",
+            "note": "wd3-media.myworkdaycdn.com",
             "src": "macos",
-            "title": "Preventing, Detecting and Responding to Fraud and Corruption",
-            "note": "wd3-media.myworkdaycdn.com"
+            "start": "19:06",
+            "title": "Preventing, Detecting and Responding to Fraud and Corruption"
           },
           {
-            "start": "19:13",
+            "cat": "admin",
             "end": "19:38",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "macos",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "19:13",
+            "title": "Google Translate"
           },
           {
-            "start": "19:39",
+            "cat": "admin",
             "end": "19:54",
-            "cat": "admin",
+            "note": "wd3-media.myworkdaycdn.com",
             "src": "macos",
-            "title": "员工学术诚信培训课程（高级版） --- Staff Academic Integrity Module (Advance",
-            "note": "wd3-media.myworkdaycdn.com"
+            "start": "19:39",
+            "title": "员工学术诚信培训课程（高级版） --- Staff Academic Integrity Module (Advance"
           },
           {
-            "start": "19:54",
+            "cat": "coding",
             "end": "19:58",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "19:54",
+            "title": "VSCode"
           },
           {
-            "start": "19:58",
+            "cat": "admin",
             "end": "19:59",
-            "cat": "admin",
+            "note": "com.tinyspeck.slackmacgap",
             "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "start": "19:58",
+            "title": "slackmacgap"
           },
           {
-            "start": "19:59",
-            "end": "20:02",
             "cat": "writing",
+            "end": "20:02",
+            "note": "md.obsidian",
             "src": "macos",
-            "title": "obsidian",
-            "note": "md.obsidian"
+            "start": "19:59",
+            "title": "obsidian"
           },
           {
-            "start": "20:02",
+            "cat": "admin",
             "end": "20:05",
-            "cat": "admin",
+            "note": "aus01.safelinks.protection.outlook.com",
             "src": "chrome",
-            "title": "Preventing, Detecting and Responding to Fraud and Corruption",
-            "note": "aus01.safelinks.protection.outlook.com"
+            "start": "20:02",
+            "title": "Preventing, Detecting and Responding to Fraud and Corruption"
           },
           {
-            "start": "20:05",
+            "cat": "coding",
             "end": "20:23",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "20:05",
+            "title": "VSCode"
           },
           {
-            "start": "20:24",
-            "end": "20:25",
             "cat": "personal",
+            "end": "20:25",
+            "note": "nationalparks.nsw.gov.au",
             "src": "macos",
-            "title": "West Head army track | Local alerts | NSW National Parks",
-            "note": "nationalparks.nsw.gov.au"
+            "start": "20:24",
+            "title": "West Head army track | Local alerts | NSW National Parks"
           },
           {
-            "start": "20:25",
-            "end": "20:45",
             "cat": "admin",
+            "end": "20:45",
+            "note": "google.com",
             "src": "macos",
-            "title": "west head - Google Search",
-            "note": "google.com"
+            "start": "20:25",
+            "title": "west head - Google Search"
           },
           {
-            "start": "21:12",
+            "cat": "coding",
             "end": "21:17",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "21:12",
+            "title": "VSCode"
           },
           {
-            "start": "23:24",
+            "cat": "coding",
             "end": "00:14",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "23:24",
+            "title": "VSCode"
           },
           {
-            "start": "00:14",
-            "end": "00:19",
             "cat": "coding",
+            "end": "00:19",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "00:14",
+            "title": "VSCode"
           }
         ],
+        "key": "2026-9-2",
         "logged": 545,
-        "real": 327,
-        "deep": 327,
         "ratio": 0.6002451283757156,
+        "real": 327,
         "stats": {
           "contextSwitches": 52,
-          "tabsOpened": 45,
+          "justOneMoreThing": 12,
           "longestFocus": "1h",
-          "justOneMoreThing": 12
-        }
+          "tabsOpened": 45
+        },
+        "weekend": false
       },
       {
-        "key": "2026-9-3",
-        "dayNum": 3,
-        "dow": 4,
-        "weekend": false,
-        "dateShort": "Thu, Sep 3",
         "dateLong": "Thursday, September 3",
-        "dayStart": "09:00",
+        "dateShort": "Thu, Sep 3",
         "dayEnd": "00:42",
+        "dayNum": 3,
+        "dayStart": "09:00",
+        "deep": 393,
+        "dow": 4,
         "events": [
           {
-            "start": "09:00",
+            "cat": "meeting",
             "end": "09:21",
-            "cat": "meeting",
+            "note": "us.zoom.xos",
             "src": "macos",
-            "title": "xos",
-            "note": "us.zoom.xos"
+            "start": "09:00",
+            "title": "xos"
           },
           {
-            "start": "09:27",
+            "cat": "meeting",
             "end": "09:33",
-            "cat": "meeting",
+            "note": "us.zoom.xos",
             "src": "macos",
-            "title": "xos",
-            "note": "us.zoom.xos"
+            "start": "09:27",
+            "title": "xos"
           },
           {
-            "start": "09:34",
+            "cat": "meeting",
             "end": "09:42",
-            "cat": "meeting",
+            "note": "us.zoom.xos",
             "src": "macos",
-            "title": "xos",
-            "note": "us.zoom.xos"
+            "start": "09:34",
+            "title": "xos"
           },
           {
-            "start": "09:42",
+            "cat": "research",
             "end": "09:52",
-            "cat": "research",
+            "note": "scholar.google.com",
             "src": "chrome",
-            "title": "‪Jeonghwan Kim‬ - ‪Google 학술 검색‬",
-            "note": "scholar.google.com"
+            "start": "09:42",
+            "title": "‪Jeonghwan Kim‬ - ‪Google 학술 검색‬"
           },
           {
-            "start": "09:52",
+            "cat": "admin",
             "end": "09:55",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "mac uni gym - Google Search",
-            "note": "google.com"
+            "start": "09:52",
+            "title": "mac uni gym - Google Search"
           },
           {
-            "start": "09:55",
+            "cat": "coding",
             "end": "09:57",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "09:55",
+            "title": "codex"
           },
           {
-            "start": "09:57",
+            "cat": "admin",
             "end": "10:05",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "mac uni gym - Google Search",
-            "note": "google.com"
+            "start": "09:57",
+            "title": "mac uni gym - Google Search"
           },
           {
-            "start": "10:05",
+            "cat": "admin",
             "end": "10:25",
-            "cat": "admin",
+            "note": "profiles.uts.edu.au",
             "src": "macos",
-            "title": "Jing Jiang | About | University of Technology Sydney",
-            "note": "profiles.uts.edu.au"
+            "start": "10:05",
+            "title": "Jing Jiang | About | University of Technology Sydney"
           },
           {
-            "start": "10:26",
+            "cat": "coding",
             "end": "10:31",
-            "cat": "coding",
+            "note": "2 hits",
             "src": "local",
-            "title": "data.js",
-            "note": "2 hits"
+            "start": "10:26",
+            "title": "data.js"
           },
           {
-            "start": "10:31",
+            "cat": "admin",
             "end": "10:32",
-            "cat": "admin",
+            "note": "profiles.uts.edu.au",
             "src": "chrome",
-            "title": "Search | University of Technology Sydney",
-            "note": "profiles.uts.edu.au"
+            "start": "10:31",
+            "title": "Search | University of Technology Sydney"
           },
           {
-            "start": "10:32",
+            "cat": "coding",
             "end": "10:34",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "10:32",
+            "title": "codex"
           },
           {
-            "start": "10:35",
+            "cat": "research",
             "end": "10:44",
-            "cat": "research",
+            "note": "scholar.google.com",
             "src": "chrome",
-            "title": "[2309.02427] Cognitive Architectures for Language Agents",
-            "note": "scholar.google.com"
+            "start": "10:35",
+            "title": "[2309.02427] Cognitive Architectures for Language Agents"
           },
           {
-            "start": "10:44",
+            "cat": "coding",
             "end": "10:50",
-            "cat": "coding",
+            "note": "yitaoliu17.com",
             "src": "macos",
-            "title": "Yitao Liu",
-            "note": "yitaoliu17.com"
+            "start": "10:44",
+            "title": "Yitao Liu"
           },
           {
-            "start": "10:50",
+            "cat": "admin",
             "end": "10:53",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "10:50",
+            "title": "Outlook"
           },
           {
-            "start": "10:53",
+            "cat": "coding",
             "end": "10:56",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "10:53",
+            "title": "codex"
           },
           {
-            "start": "10:56",
+            "cat": "coding",
             "end": "11:04",
-            "cat": "coding",
+            "note": "ysymyth.github.io",
             "src": "macos",
-            "title": "The Second Half – Shunyu Yao – 姚顺雨",
-            "note": "ysymyth.github.io"
+            "start": "10:56",
+            "title": "The Second Half – Shunyu Yao – 姚顺雨"
           },
           {
-            "start": "11:04",
+            "cat": "personal",
             "end": "11:07",
-            "cat": "personal",
+            "note": "x.com",
             "src": "macos",
-            "title": "x.com/ZhiruoW/status/2088303137081929809?s=20",
-            "note": "x.com"
+            "start": "11:04",
+            "title": "x.com/ZhiruoW/status/2088303137081929809?s=20"
           },
           {
-            "start": "11:07",
+            "cat": "coding",
             "end": "11:09",
-            "cat": "coding",
+            "note": "zorazrw.github.io",
             "src": "macos",
-            "title": "cv_2026_08.pdf",
-            "note": "zorazrw.github.io"
+            "start": "11:07",
+            "title": "cv_2026_08.pdf"
           },
           {
-            "start": "11:10",
+            "cat": "coding",
             "end": "11:15",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "11:10",
+            "title": "codex"
           },
           {
-            "start": "11:15",
+            "cat": "coding",
             "end": "11:16",
-            "cat": "coding",
+            "note": "john-b-yang.github.io",
             "src": "chrome",
-            "title": "Scaling Managed Agents: Decoupling the brain from the hands ",
-            "note": "john-b-yang.github.io"
+            "start": "11:15",
+            "title": "Scaling Managed Agents: Decoupling the brain from the hands "
           },
           {
-            "start": "11:16",
+            "cat": "research",
             "end": "11:17",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "SWE-Milestone: Evaluating AI Agents on Continuous Software E",
-            "note": "arxiv.org"
+            "start": "11:16",
+            "title": "SWE-Milestone: Evaluating AI Agents on Continuous Software E"
           },
           {
-            "start": "11:17",
+            "cat": "admin",
             "end": "11:23",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "Diyi Yang - Google Search",
-            "note": "google.com"
+            "start": "11:17",
+            "title": "Diyi Yang - Google Search"
           },
           {
-            "start": "11:23",
+            "cat": "research",
             "end": "11:28",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "How Do AI Agents Do Human Work? Comparing AI and Human Workf",
-            "note": "arxiv.org"
+            "start": "11:23",
+            "title": "How Do AI Agents Do Human Work? Comparing AI and Human Workf"
           },
           {
-            "start": "11:28",
+            "cat": "coding",
             "end": "11:30",
-            "cat": "coding",
+            "note": "loop11.com",
             "src": "macos",
-            "title": "AI vs. Human Usability Testing: A Comparative Analysis Using",
-            "note": "loop11.com"
+            "start": "11:28",
+            "title": "AI vs. Human Usability Testing: A Comparative Analysis Using"
           },
           {
-            "start": "11:30",
+            "cat": "coding",
             "end": "11:41",
-            "cat": "coding",
+            "note": "future-of-work-llm-tutorial.github.io",
             "src": "macos",
-            "title": "acl-2026-tutorial_future-of-work.pdf",
-            "note": "future-of-work-llm-tutorial.github.io"
+            "start": "11:30",
+            "title": "acl-2026-tutorial_future-of-work.pdf"
           },
           {
+            "cat": "research",
+            "end": "11:44",
+            "note": "arxiv.org",
+            "src": "macos",
             "start": "11:41",
-            "end": "11:44",
-            "cat": "research",
-            "src": "macos",
-            "title": "How Do AI Agents Do Human Work? Comparing AI and Human Workf",
-            "note": "arxiv.org"
+            "title": "How Do AI Agents Do Human Work? Comparing AI and Human Workf"
           },
           {
-            "start": "11:44",
-            "end": "11:44",
             "cat": "writing",
+            "end": "11:44",
+            "note": "overleaf.com",
             "src": "chrome",
-            "title": "Your projects - Overleaf, Online LaTeX Editor",
-            "note": "overleaf.com"
+            "start": "11:44",
+            "title": "Your projects - Overleaf, Online LaTeX Editor"
           },
           {
-            "start": "11:44",
+            "cat": "research",
             "end": "11:49",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "How Do AI Agents Do Human Work? Comparing AI and Human Workf",
-            "note": "arxiv.org"
+            "start": "11:44",
+            "title": "How Do AI Agents Do Human Work? Comparing AI and Human Workf"
           },
           {
-            "start": "11:49",
-            "end": "11:50",
             "cat": "meeting",
+            "end": "11:50",
+            "note": "com.microsoft.teams2",
             "src": "macos",
-            "title": "teams2",
-            "note": "com.microsoft.teams2"
+            "start": "11:49",
+            "title": "teams2"
           },
           {
-            "start": "11:50",
+            "cat": "writing",
             "end": "11:51",
-            "cat": "writing",
+            "note": "overleaf.com",
             "src": "chrome",
-            "title": "Your projects - Overleaf, Online LaTeX Editor",
-            "note": "overleaf.com"
+            "start": "11:50",
+            "title": "Your projects - Overleaf, Online LaTeX Editor"
           },
           {
-            "start": "11:51",
+            "cat": "coding",
             "end": "11:54",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "11:51",
+            "title": "VSCode"
           },
           {
-            "start": "11:54",
+            "cat": "admin",
             "end": "11:59",
-            "cat": "admin",
+            "note": "mqoutlook-my.sharepoint.com",
             "src": "macos",
-            "title": "Ideas2.pptx",
-            "note": "mqoutlook-my.sharepoint.com"
+            "start": "11:54",
+            "title": "Ideas2.pptx"
           },
           {
-            "start": "12:00",
+            "cat": "research",
             "end": "12:01",
-            "cat": "research",
+            "note": "openai.com",
             "src": "macos",
-            "title": "Safety and alignment in an era of long-horizon models | Open",
-            "note": "openai.com"
+            "start": "12:00",
+            "title": "Safety and alignment in an era of long-horizon models | Open"
           },
           {
-            "start": "12:02",
+            "cat": "coding",
             "end": "12:22",
-            "cat": "coding",
+            "note": "platform.claude.com",
             "src": "macos",
-            "title": "Claude Managed Agents overview - Claude Platform Docs",
-            "note": "platform.claude.com"
+            "start": "12:02",
+            "title": "Claude Managed Agents overview - Claude Platform Docs"
           },
           {
-            "start": "13:44",
+            "cat": "admin",
             "end": "13:48",
-            "cat": "admin",
+            "note": "com.apple.iCal",
             "src": "macos",
-            "title": "iCal",
-            "note": "com.apple.iCal"
+            "start": "13:44",
+            "title": "iCal"
           },
           {
-            "start": "13:48",
+            "cat": "admin",
             "end": "13:52",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "dee way to manly - Google Search",
-            "note": "google.com"
+            "start": "13:48",
+            "title": "dee way to manly - Google Search"
           },
           {
-            "start": "13:52",
+            "cat": "research",
             "end": "13:54",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "13:52",
+            "title": "zotero"
           },
           {
-            "start": "13:54",
+            "cat": "admin",
             "end": "14:02",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "My home | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "13:54",
+            "title": "My home | iLearn"
           },
           {
-            "start": "14:03",
+            "cat": "admin",
             "end": "14:04",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "14:03",
+            "title": "Outlook"
           },
           {
-            "start": "14:05",
+            "cat": "personal",
             "end": "14:10",
-            "cat": "personal",
+            "note": "youtube.com",
             "src": "macos",
-            "title": "(6) The DBSCAN Clustering Algorithm Explained - YouTube",
-            "note": "youtube.com"
+            "start": "14:05",
+            "title": "(6) The DBSCAN Clustering Algorithm Explained - YouTube"
           },
           {
-            "start": "14:10",
+            "cat": "admin",
             "end": "14:30",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "DBSCAN - Google Search",
-            "note": "google.com"
+            "start": "14:10",
+            "title": "DBSCAN - Google Search"
           },
           {
-            "start": "14:32",
+            "cat": "writing",
             "end": "14:38",
-            "cat": "writing",
+            "note": "file:///Users/ada/Documents/MQ/Phd/Teach",
             "src": "macos",
-            "title": "COMP2200/COMP6200 — Week 7 Scaling and Clustering",
-            "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+            "start": "14:32",
+            "title": "COMP2200/COMP6200 — Week 7 Scaling and Clustering"
           },
           {
-            "start": "14:38",
+            "cat": "admin",
             "end": "14:53",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "mean drift - Google Search",
-            "note": "google.com"
+            "start": "14:38",
+            "title": "mean drift - Google Search"
           },
           {
-            "start": "14:53",
+            "cat": "coding",
             "end": "15:01",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "14:53",
+            "title": "VSCode"
           },
           {
-            "start": "15:01",
+            "cat": "admin",
             "end": "15:13",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "import sklearn - Google Search",
-            "note": "google.com"
+            "start": "15:01",
+            "title": "import sklearn - Google Search"
           },
           {
-            "start": "15:13",
+            "cat": "coding",
             "end": "15:14",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "15:13",
+            "title": "VSCode"
           },
           {
-            "start": "15:14",
+            "cat": "coding",
             "end": "15:15",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "15:14",
+            "title": "VSCode"
           },
           {
-            "start": "15:15",
+            "cat": "admin",
             "end": "15:21",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Week 7 Practical Quiz (Part 2) (page 2 of 2) | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "15:15",
+            "title": "Week 7 Practical Quiz (Part 2) (page 2 of 2) | iLearn"
           },
           {
-            "start": "15:21",
+            "cat": "coding",
             "end": "15:26",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "15:21",
+            "title": "VSCode"
           },
           {
-            "start": "15:26",
+            "cat": "admin",
             "end": "15:29",
-            "cat": "admin",
+            "note": "google.com",
             "src": "chrome",
-            "title": "Week 7 Practical Quiz (Part 1): Attempt review | iLearn",
-            "note": "google.com"
+            "start": "15:26",
+            "title": "Week 7 Practical Quiz (Part 1): Attempt review | iLearn"
           },
           {
-            "start": "15:29",
+            "cat": "admin",
             "end": "15:32",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "15:29",
+            "title": "Outlook"
           },
           {
-            "start": "15:33",
+            "cat": "admin",
             "end": "15:34",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Preview question: DEMO Q1 | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "15:33",
+            "title": "Preview question: DEMO Q1 | iLearn"
           },
           {
-            "start": "15:34",
+            "cat": "admin",
             "end": "15:44",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Preview question: DEMO Q2 | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "15:34",
+            "title": "Preview question: DEMO Q2 | iLearn"
           },
           {
-            "start": "15:45",
+            "cat": "admin",
             "end": "16:06",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "logx curve - Google Search",
-            "note": "google.com"
+            "start": "15:45",
+            "title": "logx curve - Google Search"
           },
           {
-            "start": "16:06",
+            "cat": "research",
             "end": "16:08",
-            "cat": "research",
+            "note": "baike.baidu.com",
             "src": "chrome",
-            "title": "随行就市_百度百科",
-            "note": "baike.baidu.com"
+            "start": "16:06",
+            "title": "随行就市_百度百科"
           },
           {
-            "start": "16:08",
+            "cat": "writing",
             "end": "16:10",
-            "cat": "writing",
+            "note": "md.obsidian",
             "src": "macos",
-            "title": "obsidian",
-            "note": "md.obsidian"
+            "start": "16:08",
+            "title": "obsidian"
           },
           {
-            "start": "16:10",
+            "cat": "research",
             "end": "16:13",
-            "cat": "research",
+            "note": "baike.baidu.com",
             "src": "macos",
-            "title": "随行就市_百度百科",
-            "note": "baike.baidu.com"
+            "start": "16:10",
+            "title": "随行就市_百度百科"
           },
           {
-            "start": "16:13",
+            "cat": "writing",
             "end": "16:15",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "Persistent tools.md",
-            "note": "3 hits"
+            "start": "16:13",
+            "title": "Persistent tools.md"
           },
           {
-            "start": "16:16",
+            "cat": "research",
             "end": "17:05",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "Why Do Multi-Agent LLM Systems Fail?",
-            "note": "arxiv.org"
+            "start": "16:16",
+            "title": "Why Do Multi-Agent LLM Systems Fail?"
           },
           {
-            "start": "17:05",
+            "cat": "admin",
             "end": "17:11",
-            "cat": "admin",
+            "note": "sport.mq.edu.au",
             "src": "macos",
-            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
-            "note": "sport.mq.edu.au"
+            "start": "17:05",
+            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni"
           },
           {
-            "start": "18:52",
+            "cat": "admin",
             "end": "18:55",
-            "cat": "admin",
+            "note": "com.tinyspeck.slackmacgap",
             "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "start": "18:52",
+            "title": "slackmacgap"
           },
           {
-            "start": "18:55",
+            "cat": "writing",
             "end": "18:57",
-            "cat": "writing",
+            "note": "md.obsidian",
             "src": "macos",
-            "title": "obsidian",
-            "note": "md.obsidian"
+            "start": "18:55",
+            "title": "obsidian"
           },
           {
-            "start": "18:57",
+            "cat": "coding",
             "end": "19:01",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "18:57",
+            "title": "codex"
           },
           {
-            "start": "19:01",
+            "cat": "coding",
             "end": "19:21",
-            "cat": "coding",
+            "note": "flaticon.com",
             "src": "chrome",
-            "title": "Search results for Agent - Flaticon",
-            "note": "flaticon.com"
+            "start": "19:01",
+            "title": "Search results for Agent - Flaticon"
           },
           {
-            "start": "19:21",
+            "cat": "research",
             "end": "19:40",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "macos",
-            "title": "Hello | Ada's Notes",
-            "note": "adaren100.github.io"
+            "start": "19:21",
+            "title": "Hello | Ada's Notes"
           },
           {
-            "start": "19:40",
+            "cat": "writing",
             "end": "19:41",
-            "cat": "writing",
+            "note": "overleaf.com",
             "src": "chrome",
-            "title": "Your projects - Overleaf, Online LaTeX Editor",
-            "note": "overleaf.com"
+            "start": "19:40",
+            "title": "Your projects - Overleaf, Online LaTeX Editor"
           },
           {
-            "start": "19:41",
+            "cat": "coding",
             "end": "19:44",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "19:41",
+            "title": "codex"
           },
           {
-            "start": "19:44",
+            "cat": "writing",
             "end": "20:02",
-            "cat": "writing",
+            "note": "overleaf.com",
             "src": "macos",
-            "title": "PhD COC - Online LaTeX Editor Overleaf",
-            "note": "overleaf.com"
+            "start": "19:44",
+            "title": "PhD COC - Online LaTeX Editor Overleaf"
           },
           {
-            "start": "20:02",
-            "end": "20:06",
             "cat": "coding",
+            "end": "20:06",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "20:02",
+            "title": "codex"
           },
           {
-            "start": "20:06",
-            "end": "21:05",
             "cat": "writing",
+            "end": "21:05",
+            "note": "overleaf.com",
             "src": "macos",
-            "title": "PhD COC - Online LaTeX Editor Overleaf",
-            "note": "overleaf.com"
+            "start": "20:06",
+            "title": "PhD COC - Online LaTeX Editor Overleaf"
           },
           {
-            "start": "23:35",
-            "end": "23:42",
             "cat": "personal",
+            "end": "23:42",
+            "note": "youtube.com",
             "src": "chrome",
-            "title": "(7) OpenAI Astra and Recurrent Depth / Looped Transformers -",
-            "note": "youtube.com"
+            "start": "23:35",
+            "title": "(7) OpenAI Astra and Recurrent Depth / Looped Transformers -"
           },
           {
-            "start": "23:45",
+            "cat": "research",
             "end": "00:05",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "chrome",
-            "title": "Nanbeige4.2-3B: Unlocking Agentic Capabilities in a Compact ",
-            "note": "arxiv.org"
+            "start": "23:45",
+            "title": "Nanbeige4.2-3B: Unlocking Agentic Capabilities in a Compact "
           },
           {
-            "start": "00:19",
-            "end": "00:42",
             "cat": "research",
+            "end": "00:42",
+            "note": "arxiv.org",
             "src": "chrome",
-            "title": "[2507.10524] Mixture-of-Recursions: Learning Dynamic Recursi",
-            "note": "arxiv.org"
+            "start": "00:19",
+            "title": "[2507.10524] Mixture-of-Recursions: Learning Dynamic Recursi"
           }
         ],
+        "key": "2026-9-3",
         "logged": 570,
-        "real": 393,
-        "deep": 393,
         "ratio": 0.6897204677081972,
+        "real": 393,
         "stats": {
           "contextSwitches": 55,
-          "tabsOpened": 39,
+          "justOneMoreThing": 8,
           "longestFocus": "2h 8m",
-          "justOneMoreThing": 8
-        }
+          "tabsOpened": 39
+        },
+        "weekend": false
       },
       {
         "key": "2026-9-4",
@@ -76509,7 +76509,7 @@
         "dateShort": "Fri, Sep 4",
         "dateLong": "Friday, September 4",
         "dayStart": "10:01",
-        "dayEnd": "10:14",
+        "dayEnd": "21:01",
         "events": [
           {
             "start": "10:01",
@@ -76521,22 +76521,390 @@
           },
           {
             "start": "10:11",
-            "end": "10:14",
+            "end": "10:17",
             "cat": "writing",
-            "src": "chrome",
+            "src": "macos",
             "title": "PhD COC - Online LaTeX Editor Overleaf",
             "note": "overleaf.com"
+          },
+          {
+            "start": "10:17",
+            "end": "10:24",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "10:24",
+            "end": "10:28",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "10:29",
+            "end": "10:37",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "10:37",
+            "end": "10:39",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "10:39",
+            "end": "10:55",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "10:57",
+            "end": "11:13",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "teams2",
+            "note": "com.microsoft.teams2"
+          },
+          {
+            "start": "11:48",
+            "end": "11:53",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "teams2",
+            "note": "com.microsoft.teams2"
+          },
+          {
+            "start": "11:58",
+            "end": "11:59",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "teams2",
+            "note": "com.microsoft.teams2"
+          },
+          {
+            "start": "12:00",
+            "end": "12:05",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "12:05",
+            "end": "12:08",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Google Maps",
+            "note": "map.google.com"
+          },
+          {
+            "start": "12:08",
+            "end": "12:10",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Maps",
+            "note": "google.com"
+          },
+          {
+            "start": "12:10",
+            "end": "12:11",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Google Maps",
+            "note": "map.google.com"
+          },
+          {
+            "start": "12:11",
+            "end": "12:17",
+            "cat": "research",
+            "src": "macos",
+            "title": "Grammar correction for outing plan",
+            "note": "chatgpt.com"
+          },
+          {
+            "start": "12:17",
+            "end": "12:20",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Chatswood, New South Wales 2067 to Dee Why Beach, New South ",
+            "note": "google.com"
+          },
+          {
+            "start": "12:20",
+            "end": "12:26",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Google Maps",
+            "note": "map.google.com"
+          },
+          {
+            "start": "12:26",
+            "end": "12:30",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Grammar correction for outing plan",
+            "note": "chat.openai.com"
+          },
+          {
+            "start": "12:30",
+            "end": "12:37",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Chatswood, New South Wales 2067 to Dee Why Beach, New South ",
+            "note": "google.com"
+          },
+          {
+            "start": "13:14",
+            "end": "13:16",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Chatswood, New South Wales 2067 to Dee Why Beach, New South ",
+            "note": "google.com"
+          },
+          {
+            "start": "13:16",
+            "end": "13:27",
+            "cat": "writing",
+            "src": "macos",
+            "title": "PhD COC - Online LaTeX Editor Overleaf",
+            "note": "overleaf.com"
+          },
+          {
+            "start": "13:27",
+            "end": "13:32",
+            "cat": "admin",
+            "src": "macos",
+            "title": "hermes - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "13:32",
+            "end": "13:34",
+            "cat": "research",
+            "src": "macos",
+            "title": "ChatGPT",
+            "note": "chatgpt.com"
+          },
+          {
+            "start": "13:34",
+            "end": "14:03",
+            "cat": "coding",
+            "src": "macos",
+            "title": "NousResearch/hermes-agent: The agent that grows with you",
+            "note": "github.com"
+          },
+          {
+            "start": "14:03",
+            "end": "14:06",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(1) 通知 / X",
+            "note": "x.com"
+          },
+          {
+            "start": "14:06",
+            "end": "14:44",
+            "cat": "research",
+            "src": "macos",
+            "title": "Polish Agent Harness Description",
+            "note": "chatgpt.com"
+          },
+          {
+            "start": "14:44",
+            "end": "14:47",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "14:47",
+            "end": "14:49",
+            "cat": "research",
+            "src": "macos",
+            "title": "Polish Agent Harness Description",
+            "note": "chatgpt.com"
+          },
+          {
+            "start": "14:49",
+            "end": "14:51",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "14:51",
+            "end": "14:53",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Dr Aditya Joshi",
+            "note": "unsw.edu.au"
+          },
+          {
+            "start": "14:54",
+            "end": "15:04",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Detecting sarcasm, combating hate | Aditya Joshi | TEDxSomai",
+            "note": "youtube.com"
+          },
+          {
+            "start": "15:04",
+            "end": "15:07",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
+            "note": "sport.mq.edu.au"
+          },
+          {
+            "start": "15:08",
+            "end": "15:11",
+            "cat": "research",
+            "src": "macos",
+            "title": "CLI Commands Reference | Hermes Agent",
+            "note": "hermes-agent.nousresearch.com"
+          },
+          {
+            "start": "15:11",
+            "end": "15:14",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "15:14",
+            "end": "15:15",
+            "cat": "writing",
+            "src": "macos",
+            "title": "week7prac.pdf",
+            "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+          },
+          {
+            "start": "15:16",
+            "end": "15:20",
+            "cat": "writing",
+            "src": "macos",
+            "title": "week7prac.pdf",
+            "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+          },
+          {
+            "start": "15:20",
+            "end": "15:37",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "15:37",
+            "end": "15:38",
+            "cat": "coding",
+            "src": "macos",
+            "title": "230313mzl4w4u92",
+            "note": "com.todesktop.230313mzl4w4u92"
+          },
+          {
+            "start": "15:38",
+            "end": "15:48",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Editing quiz: Practice Final Exam | iLearn",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "15:49",
+            "end": "16:19",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Preview question: Q10 (Type 2): Precision | iLearn",
+            "note": "google.com"
+          },
+          {
+            "start": "16:21",
+            "end": "16:37",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Language Agents: From Next-Token Prediction to Digital Autom",
+            "note": "tbench.ai"
+          },
+          {
+            "start": "16:37",
+            "end": "16:46",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "16:46",
+            "end": "16:48",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Language Agents: From Next-Token Prediction to Digital Autom",
+            "note": "tbench.ai"
+          },
+          {
+            "start": "16:48",
+            "end": "16:56",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "16:56",
+            "end": "17:08",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "wei shi ya - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "20:24",
+            "end": "20:44",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "SYD - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "20:47",
+            "end": "20:57",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Agent Architecture Overview",
+            "note": "chatgpt.com"
+          },
+          {
+            "start": "20:57",
+            "end": "21:01",
+            "cat": "writing",
+            "src": "chrome",
+            "title": "Adding citations and references | Overleaf docs",
+            "note": "docs.overleaf.com"
           }
         ],
-        "logged": 8,
-        "real": 8,
-        "deep": 8,
-        "ratio": 1.0,
+        "logged": 369,
+        "real": 192,
+        "deep": 192,
+        "ratio": 0.5221800932099057,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 3,
-          "longestFocus": "8m",
-          "justOneMoreThing": 0
+          "contextSwitches": 38,
+          "tabsOpened": 39,
+          "longestFocus": "38m",
+          "justOneMoreThing": 4
         }
       },
       {
@@ -77870,1200 +78238,1200 @@
       "weekend": false
     },
     {
-      "key": "2026-9-2",
-      "dayNum": 2,
-      "dow": 3,
-      "weekend": false,
-      "dateShort": "Wed, Sep 2",
       "dateLong": "Wednesday, September 2",
-      "dayStart": "10:11",
+      "dateShort": "Wed, Sep 2",
       "dayEnd": "00:19",
+      "dayNum": 2,
+      "dayStart": "10:11",
+      "deep": 327,
+      "dow": 3,
       "events": [
         {
-          "start": "10:11",
+          "cat": "admin",
           "end": "10:20",
-          "cat": "admin",
+          "note": "sport.mq.edu.au",
           "src": "macos",
-          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
-          "note": "sport.mq.edu.au"
+          "start": "10:11",
+          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni"
         },
         {
-          "start": "10:20",
+          "cat": "coding",
           "end": "10:21",
-          "cat": "coding",
+          "note": "2 hits",
           "src": "local",
-          "title": "domain_cats.json",
-          "note": "2 hits"
+          "start": "10:20",
+          "title": "domain_cats.json"
         },
         {
-          "start": "10:21",
+          "cat": "research",
           "end": "10:28",
-          "cat": "research",
+          "note": "scholar.google.com",
           "src": "chrome",
-          "title": "Language models can explain neurons in language models | Ope",
-          "note": "scholar.google.com"
+          "start": "10:21",
+          "title": "Language models can explain neurons in language models | Ope"
         },
         {
-          "start": "10:28",
+          "cat": "admin",
           "end": "10:30",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "10:28",
+          "title": "Outlook"
         },
         {
-          "start": "10:30",
+          "cat": "research",
           "end": "10:31",
-          "cat": "research",
+          "note": "proceedings.iclr.cc",
           "src": "macos",
-          "title": "1fa1ab11f4bd5f94b2ec20e794dbfa3b-Paper-Conference.pdf",
-          "note": "proceedings.iclr.cc"
+          "start": "10:30",
+          "title": "1fa1ab11f4bd5f94b2ec20e794dbfa3b-Paper-Conference.pdf"
         },
         {
-          "start": "10:31",
+          "cat": "writing",
           "end": "10:33",
-          "cat": "writing",
+          "note": "md.obsidian",
           "src": "macos",
-          "title": "obsidian",
-          "note": "md.obsidian"
+          "start": "10:31",
+          "title": "obsidian"
         },
         {
-          "start": "10:33",
+          "cat": "research",
           "end": "10:55",
-          "cat": "research",
+          "note": "openai.com",
           "src": "macos",
-          "title": "Language models can explain neurons in language models | Ope",
-          "note": "openai.com"
+          "start": "10:33",
+          "title": "Language models can explain neurons in language models | Ope"
         },
         {
-          "start": "10:55",
+          "cat": "admin",
           "end": "11:15",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "ACM AI Leadership Summit - Google Search",
-          "note": "google.com"
+          "start": "10:55",
+          "title": "ACM AI Leadership Summit - Google Search"
         },
         {
-          "start": "11:18",
+          "cat": "admin",
           "end": "11:26",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "ACM AI Leadership Summit - Google Search",
-          "note": "google.com"
+          "start": "11:18",
+          "title": "ACM AI Leadership Summit - Google Search"
         },
         {
-          "start": "11:31",
+          "cat": "research",
           "end": "11:41",
-          "cat": "research",
+          "note": "mitsloan.mit.edu",
           "src": "macos",
-          "title": "Agentic AI, explained | MIT Sloan",
-          "note": "mitsloan.mit.edu"
+          "start": "11:31",
+          "title": "Agentic AI, explained | MIT Sloan"
         },
         {
-          "start": "11:41",
+          "cat": "writing",
           "end": "11:45",
-          "cat": "writing",
+          "note": "md.obsidian",
           "src": "macos",
-          "title": "obsidian",
-          "note": "md.obsidian"
+          "start": "11:41",
+          "title": "obsidian"
         },
         {
-          "start": "11:45",
+          "cat": "research",
           "end": "11:53",
-          "cat": "research",
+          "note": "nber.org",
           "src": "macos",
-          "title": "Microsoft Word - NBER_TAI_shahidi_manuscript.docx",
-          "note": "nber.org"
+          "start": "11:45",
+          "title": "Microsoft Word - NBER_TAI_shahidi_manuscript.docx"
         },
         {
-          "start": "11:53",
+          "cat": "writing",
           "end": "12:06",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "thesisproposalv2cheapverification.md - Google Docs",
-          "note": "docs.google.com"
+          "start": "11:53",
+          "title": "thesisproposalv2cheapverification.md - Google Docs"
         },
         {
-          "start": "12:06",
+          "cat": "research",
           "end": "12:26",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "Why Do Multi-Agent LLM Systems Fail?",
-          "note": "arxiv.org"
+          "start": "12:06",
+          "title": "Why Do Multi-Agent LLM Systems Fail?"
         },
         {
-          "start": "13:10",
+          "cat": "personal",
           "end": "13:12",
-          "cat": "personal",
+          "note": "sydney.com",
           "src": "macos",
-          "title": "17 of the best walks in Sydney | Sydney.com",
-          "note": "sydney.com"
+          "start": "13:10",
+          "title": "17 of the best walks in Sydney | Sydney.com"
         },
         {
-          "start": "13:12",
+          "cat": "coding",
           "end": "13:15",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "13:12",
+          "title": "codex"
         },
         {
-          "start": "13:15",
+          "cat": "personal",
           "end": "13:17",
-          "cat": "personal",
+          "note": "sydney.com",
           "src": "chrome",
-          "title": "The best family-friendly hikes in Sydney | Sydney.com",
-          "note": "sydney.com"
+          "start": "13:15",
+          "title": "The best family-friendly hikes in Sydney | Sydney.com"
         },
         {
-          "start": "13:17",
+          "cat": "admin",
           "end": "13:19",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "track from deeway to manly - Google Search",
-          "note": "google.com"
+          "start": "13:17",
+          "title": "track from deeway to manly - Google Search"
         },
         {
-          "start": "13:19",
+          "cat": "personal",
           "end": "13:23",
-          "cat": "personal",
+          "note": "walkmyworld.com",
           "src": "macos",
-          "title": "Dee Why to Manly Walk via the Manly Wormhole — Walk My World",
-          "note": "walkmyworld.com"
+          "start": "13:19",
+          "title": "Dee Why to Manly Walk via the Manly Wormhole — Walk My World"
         },
         {
-          "start": "13:23",
+          "cat": "coding",
           "end": "13:38",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "13:23",
+          "title": "VSCode"
         },
         {
-          "start": "13:38",
+          "cat": "personal",
           "end": "13:39",
-          "cat": "personal",
+          "note": "walkmyworld.com",
           "src": "chrome",
-          "title": "Dee Why to Manly Walk via the Manly Wormhole — Walk My World",
-          "note": "walkmyworld.com"
+          "start": "13:38",
+          "title": "Dee Why to Manly Walk via the Manly Wormhole — Walk My World"
         },
         {
-          "start": "13:39",
+          "cat": "coding",
           "end": "13:41",
-          "cat": "coding",
+          "note": "com.googlecode.iterm2",
           "src": "macos",
-          "title": "iterm2",
-          "note": "com.googlecode.iterm2"
+          "start": "13:39",
+          "title": "iterm2"
         },
         {
-          "start": "13:41",
+          "cat": "coding",
           "end": "13:42",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "13:41",
+          "title": "VSCode"
         },
         {
-          "start": "13:42",
+          "cat": "coding",
           "end": "14:06",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "13:42",
+          "title": "VSCode"
         },
         {
-          "start": "14:07",
+          "cat": "coding",
           "end": "14:16",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "14:07",
+          "title": "VSCode"
         },
         {
-          "start": "14:16",
+          "cat": "coding",
           "end": "14:29",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "14:16",
+          "title": "VSCode"
         },
         {
-          "start": "14:29",
+          "cat": "research",
           "end": "14:37",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "Cooperate to Compete: Strategic Coordination in Multi-Agent ",
-          "note": "arxiv.org"
+          "start": "14:29",
+          "title": "Cooperate to Compete: Strategic Coordination in Multi-Agent "
         },
         {
-          "start": "14:38",
+          "cat": "research",
           "end": "14:40",
-          "cat": "research",
+          "note": "openreview.net",
           "src": "macos",
-          "title": "Cooperate to Compete: Strategic Coordination in Multi-Agent ",
-          "note": "openreview.net"
+          "start": "14:38",
+          "title": "Cooperate to Compete: Strategic Coordination in Multi-Agent "
         },
         {
-          "start": "14:40",
+          "cat": "admin",
           "end": "14:42",
-          "cat": "admin",
+          "note": "com.tinyspeck.slackmacgap",
           "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "start": "14:40",
+          "title": "slackmacgap"
         },
         {
-          "start": "14:42",
+          "cat": "coding",
           "end": "14:44",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "14:42",
+          "title": "VSCode"
         },
         {
-          "start": "14:44",
+          "cat": "coding",
           "end": "14:55",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "14:44",
+          "title": "VSCode"
         },
         {
-          "start": "14:55",
+          "cat": "research",
           "end": "14:56",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "chrome",
-          "title": "Cooperate to Compete: Strategic Coordination in Multi-Agent ",
-          "note": "arxiv.org"
+          "start": "14:55",
+          "title": "Cooperate to Compete: Strategic Coordination in Multi-Agent "
         },
         {
+          "cat": "admin",
+          "end": "14:57",
+          "note": "mail.google.com",
+          "src": "macos",
           "start": "14:56",
-          "end": "14:57",
-          "cat": "admin",
-          "src": "macos",
-          "title": "Daily papers of 1 Sep 2026 - ada.ren.cn@gmail.com - Gmail",
-          "note": "mail.google.com"
+          "title": "Daily papers of 1 Sep 2026 - ada.ren.cn@gmail.com - Gmail"
         },
         {
+          "cat": "research",
+          "end": "14:57",
+          "note": "arxiv.org",
+          "src": "chrome",
           "start": "14:57",
-          "end": "14:57",
-          "cat": "research",
-          "src": "chrome",
-          "title": "Cooperate to Compete: Strategic Coordination in Multi-Agent ",
-          "note": "arxiv.org"
+          "title": "Cooperate to Compete: Strategic Coordination in Multi-Agent "
         },
         {
-          "start": "14:58",
+          "cat": "research",
           "end": "15:00",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "macos",
-          "title": "Comparing Agent Frameworks: OpenClaw, Hermes, and DeepSeek |",
-          "note": "adaren100.github.io"
+          "start": "14:58",
+          "title": "Comparing Agent Frameworks: OpenClaw, Hermes, and DeepSeek |"
         },
         {
-          "start": "15:00",
+          "cat": "coding",
           "end": "15:14",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "15:00",
+          "title": "VSCode"
         },
         {
-          "start": "15:14",
+          "cat": "coding",
           "end": "15:21",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "15:14",
+          "title": "VSCode"
         },
         {
-          "start": "15:22",
+          "cat": "admin",
           "end": "15:26",
-          "cat": "admin",
+          "note": "my.nci.org.au",
           "src": "chrome",
-          "title": "Change Project proposal-16841 details | MyNCI",
-          "note": "my.nci.org.au"
+          "start": "15:22",
+          "title": "Change Project proposal-16841 details | MyNCI"
         },
         {
-          "start": "15:26",
+          "cat": "coding",
           "end": "15:48",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "15:26",
+          "title": "VSCode"
         },
         {
-          "start": "15:48",
+          "cat": "admin",
           "end": "15:52",
-          "cat": "admin",
+          "note": "my.nci.org.au",
           "src": "chrome",
-          "title": "Change Project proposal-16841 details | MyNCI",
-          "note": "my.nci.org.au"
+          "start": "15:48",
+          "title": "Change Project proposal-16841 details | MyNCI"
         },
         {
-          "start": "15:52",
+          "cat": "admin",
           "end": "15:58",
-          "cat": "admin",
+          "note": "my.nci.org.au",
           "src": "chrome",
-          "title": "Change Project proposal-16841 details | MyNCI",
-          "note": "my.nci.org.au"
+          "start": "15:52",
+          "title": "Change Project proposal-16841 details | MyNCI"
         },
         {
-          "start": "15:59",
+          "cat": "coding",
           "end": "16:00",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "15:59",
+          "title": "VSCode"
         },
         {
-          "start": "16:00",
+          "cat": "admin",
           "end": "16:04",
-          "cat": "admin",
+          "note": "my.nci.org.au",
           "src": "chrome",
-          "title": "Change Project proposal-16841 details | MyNCI",
-          "note": "my.nci.org.au"
+          "start": "16:00",
+          "title": "Change Project proposal-16841 details | MyNCI"
         },
         {
-          "start": "16:04",
+          "cat": "coding",
           "end": "16:06",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "16:04",
+          "title": "codex"
         },
         {
-          "start": "16:06",
+          "cat": "admin",
           "end": "16:09",
-          "cat": "admin",
+          "note": "my.nci.org.au",
           "src": "chrome",
-          "title": "Change Project proposal-16841 details | MyNCI",
-          "note": "my.nci.org.au"
+          "start": "16:06",
+          "title": "Change Project proposal-16841 details | MyNCI"
         },
         {
-          "start": "16:09",
+          "cat": "coding",
           "end": "16:11",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "16:09",
+          "title": "codex"
         },
         {
-          "start": "16:11",
+          "cat": "coding",
           "end": "16:13",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "16:11",
+          "title": "codex"
         },
         {
-          "start": "16:13",
+          "cat": "admin",
           "end": "16:21",
-          "cat": "admin",
+          "note": "forms.cloud.microsoft",
           "src": "chrome",
-          "title": "Work Health and Safety Essentials at Macquarie University - ",
-          "note": "forms.cloud.microsoft"
+          "start": "16:13",
+          "title": "Work Health and Safety Essentials at Macquarie University - "
         },
         {
-          "start": "16:22",
+          "cat": "coding",
           "end": "16:26",
-          "cat": "coding",
+          "note": "scikit-learn.org",
           "src": "macos",
-          "title": "DBSCAN — scikit-learn 1.9.0 documentation",
-          "note": "scikit-learn.org"
+          "start": "16:22",
+          "title": "DBSCAN — scikit-learn 1.9.0 documentation"
         },
         {
-          "start": "16:26",
+          "cat": "admin",
           "end": "16:28",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "16:26",
+          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn"
         },
         {
-          "start": "16:28",
+          "cat": "meeting",
           "end": "16:29",
-          "cat": "meeting",
+          "note": "echo360.net.au",
           "src": "chrome",
-          "title": "echo360.net.au",
-          "note": "echo360.net.au"
+          "start": "16:28",
+          "title": "echo360.net.au"
         },
         {
-          "start": "16:29",
-          "end": "16:33",
           "cat": "research",
+          "end": "16:33",
+          "note": "solresol.substack.com",
           "src": "macos",
-          "title": "If you are employed casually you really want to read this, p",
-          "note": "solresol.substack.com"
+          "start": "16:29",
+          "title": "If you are employed casually you really want to read this, p"
         },
         {
-          "start": "16:33",
-          "end": "16:34",
           "cat": "meeting",
+          "end": "16:34",
+          "note": "echo360.net.au",
           "src": "chrome",
-          "title": "echo360.net.au",
-          "note": "echo360.net.au"
+          "start": "16:33",
+          "title": "echo360.net.au"
         },
         {
-          "start": "16:34",
+          "cat": "admin",
           "end": "16:49",
-          "cat": "admin",
+          "note": "linkedin.com",
           "src": "macos",
-          "title": "(17) Messaging | LinkedIn",
-          "note": "linkedin.com"
+          "start": "16:34",
+          "title": "(17) Messaging | LinkedIn"
         },
         {
-          "start": "16:50",
+          "cat": "admin",
           "end": "17:12",
-          "cat": "admin",
+          "note": "linkedin.com",
           "src": "macos",
-          "title": "Venus Haghighi | LinkedIn",
-          "note": "linkedin.com"
+          "start": "16:50",
+          "title": "Venus Haghighi | LinkedIn"
         },
         {
-          "start": "18:37",
+          "cat": "admin",
           "end": "18:54",
-          "cat": "admin",
+          "note": "com.tinyspeck.slackmacgap",
           "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "start": "18:37",
+          "title": "slackmacgap"
         },
         {
-          "start": "18:55",
+          "cat": "coding",
           "end": "18:57",
-          "cat": "coding",
+          "note": "scikit-learn.org",
           "src": "macos",
-          "title": "A demo of the mean-shift clustering algorithm — scikit-learn",
-          "note": "scikit-learn.org"
+          "start": "18:55",
+          "title": "A demo of the mean-shift clustering algorithm — scikit-learn"
         },
         {
-          "start": "18:57",
+          "cat": "admin",
           "end": "19:06",
-          "cat": "admin",
+          "note": "aus01.safelinks.protection.outlook.com",
           "src": "chrome",
-          "title": "Preventing, Detecting and Responding to Fraud and Corruption",
-          "note": "aus01.safelinks.protection.outlook.com"
+          "start": "18:57",
+          "title": "Preventing, Detecting and Responding to Fraud and Corruption"
         },
         {
-          "start": "19:06",
+          "cat": "admin",
           "end": "19:13",
-          "cat": "admin",
+          "note": "wd3-media.myworkdaycdn.com",
           "src": "macos",
-          "title": "Preventing, Detecting and Responding to Fraud and Corruption",
-          "note": "wd3-media.myworkdaycdn.com"
+          "start": "19:06",
+          "title": "Preventing, Detecting and Responding to Fraud and Corruption"
         },
         {
-          "start": "19:13",
+          "cat": "admin",
           "end": "19:38",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "macos",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "19:13",
+          "title": "Google Translate"
         },
         {
-          "start": "19:39",
+          "cat": "admin",
           "end": "19:54",
-          "cat": "admin",
+          "note": "wd3-media.myworkdaycdn.com",
           "src": "macos",
-          "title": "员工学术诚信培训课程（高级版） --- Staff Academic Integrity Module (Advance",
-          "note": "wd3-media.myworkdaycdn.com"
+          "start": "19:39",
+          "title": "员工学术诚信培训课程（高级版） --- Staff Academic Integrity Module (Advance"
         },
         {
-          "start": "19:54",
+          "cat": "coding",
           "end": "19:58",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "19:54",
+          "title": "VSCode"
         },
         {
-          "start": "19:58",
+          "cat": "admin",
           "end": "19:59",
-          "cat": "admin",
+          "note": "com.tinyspeck.slackmacgap",
           "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "start": "19:58",
+          "title": "slackmacgap"
         },
         {
-          "start": "19:59",
-          "end": "20:02",
           "cat": "writing",
+          "end": "20:02",
+          "note": "md.obsidian",
           "src": "macos",
-          "title": "obsidian",
-          "note": "md.obsidian"
+          "start": "19:59",
+          "title": "obsidian"
         },
         {
-          "start": "20:02",
+          "cat": "admin",
           "end": "20:05",
-          "cat": "admin",
+          "note": "aus01.safelinks.protection.outlook.com",
           "src": "chrome",
-          "title": "Preventing, Detecting and Responding to Fraud and Corruption",
-          "note": "aus01.safelinks.protection.outlook.com"
+          "start": "20:02",
+          "title": "Preventing, Detecting and Responding to Fraud and Corruption"
         },
         {
-          "start": "20:05",
+          "cat": "coding",
           "end": "20:23",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "20:05",
+          "title": "VSCode"
         },
         {
-          "start": "20:24",
-          "end": "20:25",
           "cat": "personal",
+          "end": "20:25",
+          "note": "nationalparks.nsw.gov.au",
           "src": "macos",
-          "title": "West Head army track | Local alerts | NSW National Parks",
-          "note": "nationalparks.nsw.gov.au"
+          "start": "20:24",
+          "title": "West Head army track | Local alerts | NSW National Parks"
         },
         {
-          "start": "20:25",
-          "end": "20:45",
           "cat": "admin",
+          "end": "20:45",
+          "note": "google.com",
           "src": "macos",
-          "title": "west head - Google Search",
-          "note": "google.com"
+          "start": "20:25",
+          "title": "west head - Google Search"
         },
         {
-          "start": "21:12",
+          "cat": "coding",
           "end": "21:17",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "21:12",
+          "title": "VSCode"
         },
         {
-          "start": "23:24",
+          "cat": "coding",
           "end": "00:14",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "23:24",
+          "title": "VSCode"
         },
         {
-          "start": "00:14",
-          "end": "00:19",
           "cat": "coding",
+          "end": "00:19",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "00:14",
+          "title": "VSCode"
         }
       ],
+      "key": "2026-9-2",
       "logged": 545,
-      "real": 327,
-      "deep": 327,
       "ratio": 0.6002451283757156,
+      "real": 327,
       "stats": {
         "contextSwitches": 52,
-        "tabsOpened": 45,
+        "justOneMoreThing": 12,
         "longestFocus": "1h",
-        "justOneMoreThing": 12
-      }
+        "tabsOpened": 45
+      },
+      "weekend": false
     },
     {
-      "key": "2026-9-3",
-      "dayNum": 3,
-      "dow": 4,
-      "weekend": false,
-      "dateShort": "Thu, Sep 3",
       "dateLong": "Thursday, September 3",
-      "dayStart": "09:00",
+      "dateShort": "Thu, Sep 3",
       "dayEnd": "00:42",
+      "dayNum": 3,
+      "dayStart": "09:00",
+      "deep": 393,
+      "dow": 4,
       "events": [
         {
-          "start": "09:00",
+          "cat": "meeting",
           "end": "09:21",
-          "cat": "meeting",
+          "note": "us.zoom.xos",
           "src": "macos",
-          "title": "xos",
-          "note": "us.zoom.xos"
+          "start": "09:00",
+          "title": "xos"
         },
         {
-          "start": "09:27",
+          "cat": "meeting",
           "end": "09:33",
-          "cat": "meeting",
+          "note": "us.zoom.xos",
           "src": "macos",
-          "title": "xos",
-          "note": "us.zoom.xos"
+          "start": "09:27",
+          "title": "xos"
         },
         {
-          "start": "09:34",
+          "cat": "meeting",
           "end": "09:42",
-          "cat": "meeting",
+          "note": "us.zoom.xos",
           "src": "macos",
-          "title": "xos",
-          "note": "us.zoom.xos"
+          "start": "09:34",
+          "title": "xos"
         },
         {
-          "start": "09:42",
+          "cat": "research",
           "end": "09:52",
-          "cat": "research",
+          "note": "scholar.google.com",
           "src": "chrome",
-          "title": "‪Jeonghwan Kim‬ - ‪Google 학술 검색‬",
-          "note": "scholar.google.com"
+          "start": "09:42",
+          "title": "‪Jeonghwan Kim‬ - ‪Google 학술 검색‬"
         },
         {
-          "start": "09:52",
+          "cat": "admin",
           "end": "09:55",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "mac uni gym - Google Search",
-          "note": "google.com"
+          "start": "09:52",
+          "title": "mac uni gym - Google Search"
         },
         {
-          "start": "09:55",
+          "cat": "coding",
           "end": "09:57",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "09:55",
+          "title": "codex"
         },
         {
-          "start": "09:57",
+          "cat": "admin",
           "end": "10:05",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "mac uni gym - Google Search",
-          "note": "google.com"
+          "start": "09:57",
+          "title": "mac uni gym - Google Search"
         },
         {
-          "start": "10:05",
+          "cat": "admin",
           "end": "10:25",
-          "cat": "admin",
+          "note": "profiles.uts.edu.au",
           "src": "macos",
-          "title": "Jing Jiang | About | University of Technology Sydney",
-          "note": "profiles.uts.edu.au"
+          "start": "10:05",
+          "title": "Jing Jiang | About | University of Technology Sydney"
         },
         {
-          "start": "10:26",
+          "cat": "coding",
           "end": "10:31",
-          "cat": "coding",
+          "note": "2 hits",
           "src": "local",
-          "title": "data.js",
-          "note": "2 hits"
+          "start": "10:26",
+          "title": "data.js"
         },
         {
-          "start": "10:31",
+          "cat": "admin",
           "end": "10:32",
-          "cat": "admin",
+          "note": "profiles.uts.edu.au",
           "src": "chrome",
-          "title": "Search | University of Technology Sydney",
-          "note": "profiles.uts.edu.au"
+          "start": "10:31",
+          "title": "Search | University of Technology Sydney"
         },
         {
-          "start": "10:32",
+          "cat": "coding",
           "end": "10:34",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "10:32",
+          "title": "codex"
         },
         {
-          "start": "10:35",
+          "cat": "research",
           "end": "10:44",
-          "cat": "research",
+          "note": "scholar.google.com",
           "src": "chrome",
-          "title": "[2309.02427] Cognitive Architectures for Language Agents",
-          "note": "scholar.google.com"
+          "start": "10:35",
+          "title": "[2309.02427] Cognitive Architectures for Language Agents"
         },
         {
-          "start": "10:44",
+          "cat": "coding",
           "end": "10:50",
-          "cat": "coding",
+          "note": "yitaoliu17.com",
           "src": "macos",
-          "title": "Yitao Liu",
-          "note": "yitaoliu17.com"
+          "start": "10:44",
+          "title": "Yitao Liu"
         },
         {
-          "start": "10:50",
+          "cat": "admin",
           "end": "10:53",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "10:50",
+          "title": "Outlook"
         },
         {
-          "start": "10:53",
+          "cat": "coding",
           "end": "10:56",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "10:53",
+          "title": "codex"
         },
         {
-          "start": "10:56",
+          "cat": "coding",
           "end": "11:04",
-          "cat": "coding",
+          "note": "ysymyth.github.io",
           "src": "macos",
-          "title": "The Second Half – Shunyu Yao – 姚顺雨",
-          "note": "ysymyth.github.io"
+          "start": "10:56",
+          "title": "The Second Half – Shunyu Yao – 姚顺雨"
         },
         {
-          "start": "11:04",
+          "cat": "personal",
           "end": "11:07",
-          "cat": "personal",
+          "note": "x.com",
           "src": "macos",
-          "title": "x.com/ZhiruoW/status/2088303137081929809?s=20",
-          "note": "x.com"
+          "start": "11:04",
+          "title": "x.com/ZhiruoW/status/2088303137081929809?s=20"
         },
         {
-          "start": "11:07",
+          "cat": "coding",
           "end": "11:09",
-          "cat": "coding",
+          "note": "zorazrw.github.io",
           "src": "macos",
-          "title": "cv_2026_08.pdf",
-          "note": "zorazrw.github.io"
+          "start": "11:07",
+          "title": "cv_2026_08.pdf"
         },
         {
-          "start": "11:10",
+          "cat": "coding",
           "end": "11:15",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "11:10",
+          "title": "codex"
         },
         {
-          "start": "11:15",
+          "cat": "coding",
           "end": "11:16",
-          "cat": "coding",
+          "note": "john-b-yang.github.io",
           "src": "chrome",
-          "title": "Scaling Managed Agents: Decoupling the brain from the hands ",
-          "note": "john-b-yang.github.io"
+          "start": "11:15",
+          "title": "Scaling Managed Agents: Decoupling the brain from the hands "
         },
         {
-          "start": "11:16",
+          "cat": "research",
           "end": "11:17",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "SWE-Milestone: Evaluating AI Agents on Continuous Software E",
-          "note": "arxiv.org"
+          "start": "11:16",
+          "title": "SWE-Milestone: Evaluating AI Agents on Continuous Software E"
         },
         {
-          "start": "11:17",
+          "cat": "admin",
           "end": "11:23",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "Diyi Yang - Google Search",
-          "note": "google.com"
+          "start": "11:17",
+          "title": "Diyi Yang - Google Search"
         },
         {
-          "start": "11:23",
+          "cat": "research",
           "end": "11:28",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "How Do AI Agents Do Human Work? Comparing AI and Human Workf",
-          "note": "arxiv.org"
+          "start": "11:23",
+          "title": "How Do AI Agents Do Human Work? Comparing AI and Human Workf"
         },
         {
-          "start": "11:28",
+          "cat": "coding",
           "end": "11:30",
-          "cat": "coding",
+          "note": "loop11.com",
           "src": "macos",
-          "title": "AI vs. Human Usability Testing: A Comparative Analysis Using",
-          "note": "loop11.com"
+          "start": "11:28",
+          "title": "AI vs. Human Usability Testing: A Comparative Analysis Using"
         },
         {
-          "start": "11:30",
+          "cat": "coding",
           "end": "11:41",
-          "cat": "coding",
+          "note": "future-of-work-llm-tutorial.github.io",
           "src": "macos",
-          "title": "acl-2026-tutorial_future-of-work.pdf",
-          "note": "future-of-work-llm-tutorial.github.io"
+          "start": "11:30",
+          "title": "acl-2026-tutorial_future-of-work.pdf"
         },
         {
+          "cat": "research",
+          "end": "11:44",
+          "note": "arxiv.org",
+          "src": "macos",
           "start": "11:41",
-          "end": "11:44",
-          "cat": "research",
-          "src": "macos",
-          "title": "How Do AI Agents Do Human Work? Comparing AI and Human Workf",
-          "note": "arxiv.org"
+          "title": "How Do AI Agents Do Human Work? Comparing AI and Human Workf"
         },
         {
-          "start": "11:44",
-          "end": "11:44",
           "cat": "writing",
+          "end": "11:44",
+          "note": "overleaf.com",
           "src": "chrome",
-          "title": "Your projects - Overleaf, Online LaTeX Editor",
-          "note": "overleaf.com"
+          "start": "11:44",
+          "title": "Your projects - Overleaf, Online LaTeX Editor"
         },
         {
-          "start": "11:44",
+          "cat": "research",
           "end": "11:49",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "How Do AI Agents Do Human Work? Comparing AI and Human Workf",
-          "note": "arxiv.org"
+          "start": "11:44",
+          "title": "How Do AI Agents Do Human Work? Comparing AI and Human Workf"
         },
         {
-          "start": "11:49",
-          "end": "11:50",
           "cat": "meeting",
+          "end": "11:50",
+          "note": "com.microsoft.teams2",
           "src": "macos",
-          "title": "teams2",
-          "note": "com.microsoft.teams2"
+          "start": "11:49",
+          "title": "teams2"
         },
         {
-          "start": "11:50",
+          "cat": "writing",
           "end": "11:51",
-          "cat": "writing",
+          "note": "overleaf.com",
           "src": "chrome",
-          "title": "Your projects - Overleaf, Online LaTeX Editor",
-          "note": "overleaf.com"
+          "start": "11:50",
+          "title": "Your projects - Overleaf, Online LaTeX Editor"
         },
         {
-          "start": "11:51",
+          "cat": "coding",
           "end": "11:54",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "11:51",
+          "title": "VSCode"
         },
         {
-          "start": "11:54",
+          "cat": "admin",
           "end": "11:59",
-          "cat": "admin",
+          "note": "mqoutlook-my.sharepoint.com",
           "src": "macos",
-          "title": "Ideas2.pptx",
-          "note": "mqoutlook-my.sharepoint.com"
+          "start": "11:54",
+          "title": "Ideas2.pptx"
         },
         {
-          "start": "12:00",
+          "cat": "research",
           "end": "12:01",
-          "cat": "research",
+          "note": "openai.com",
           "src": "macos",
-          "title": "Safety and alignment in an era of long-horizon models | Open",
-          "note": "openai.com"
+          "start": "12:00",
+          "title": "Safety and alignment in an era of long-horizon models | Open"
         },
         {
-          "start": "12:02",
+          "cat": "coding",
           "end": "12:22",
-          "cat": "coding",
+          "note": "platform.claude.com",
           "src": "macos",
-          "title": "Claude Managed Agents overview - Claude Platform Docs",
-          "note": "platform.claude.com"
+          "start": "12:02",
+          "title": "Claude Managed Agents overview - Claude Platform Docs"
         },
         {
-          "start": "13:44",
+          "cat": "admin",
           "end": "13:48",
-          "cat": "admin",
+          "note": "com.apple.iCal",
           "src": "macos",
-          "title": "iCal",
-          "note": "com.apple.iCal"
+          "start": "13:44",
+          "title": "iCal"
         },
         {
-          "start": "13:48",
+          "cat": "admin",
           "end": "13:52",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "dee way to manly - Google Search",
-          "note": "google.com"
+          "start": "13:48",
+          "title": "dee way to manly - Google Search"
         },
         {
-          "start": "13:52",
+          "cat": "research",
           "end": "13:54",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "13:52",
+          "title": "zotero"
         },
         {
-          "start": "13:54",
+          "cat": "admin",
           "end": "14:02",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "My home | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "13:54",
+          "title": "My home | iLearn"
         },
         {
-          "start": "14:03",
+          "cat": "admin",
           "end": "14:04",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "14:03",
+          "title": "Outlook"
         },
         {
-          "start": "14:05",
+          "cat": "personal",
           "end": "14:10",
-          "cat": "personal",
+          "note": "youtube.com",
           "src": "macos",
-          "title": "(6) The DBSCAN Clustering Algorithm Explained - YouTube",
-          "note": "youtube.com"
+          "start": "14:05",
+          "title": "(6) The DBSCAN Clustering Algorithm Explained - YouTube"
         },
         {
-          "start": "14:10",
+          "cat": "admin",
           "end": "14:30",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "DBSCAN - Google Search",
-          "note": "google.com"
+          "start": "14:10",
+          "title": "DBSCAN - Google Search"
         },
         {
-          "start": "14:32",
+          "cat": "writing",
           "end": "14:38",
-          "cat": "writing",
+          "note": "file:///Users/ada/Documents/MQ/Phd/Teach",
           "src": "macos",
-          "title": "COMP2200/COMP6200 — Week 7 Scaling and Clustering",
-          "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+          "start": "14:32",
+          "title": "COMP2200/COMP6200 — Week 7 Scaling and Clustering"
         },
         {
-          "start": "14:38",
+          "cat": "admin",
           "end": "14:53",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "mean drift - Google Search",
-          "note": "google.com"
+          "start": "14:38",
+          "title": "mean drift - Google Search"
         },
         {
-          "start": "14:53",
+          "cat": "coding",
           "end": "15:01",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "14:53",
+          "title": "VSCode"
         },
         {
-          "start": "15:01",
+          "cat": "admin",
           "end": "15:13",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "import sklearn - Google Search",
-          "note": "google.com"
+          "start": "15:01",
+          "title": "import sklearn - Google Search"
         },
         {
-          "start": "15:13",
+          "cat": "coding",
           "end": "15:14",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "15:13",
+          "title": "VSCode"
         },
         {
-          "start": "15:14",
+          "cat": "coding",
           "end": "15:15",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "15:14",
+          "title": "VSCode"
         },
         {
-          "start": "15:15",
+          "cat": "admin",
           "end": "15:21",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Week 7 Practical Quiz (Part 2) (page 2 of 2) | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "15:15",
+          "title": "Week 7 Practical Quiz (Part 2) (page 2 of 2) | iLearn"
         },
         {
-          "start": "15:21",
+          "cat": "coding",
           "end": "15:26",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "15:21",
+          "title": "VSCode"
         },
         {
-          "start": "15:26",
+          "cat": "admin",
           "end": "15:29",
-          "cat": "admin",
+          "note": "google.com",
           "src": "chrome",
-          "title": "Week 7 Practical Quiz (Part 1): Attempt review | iLearn",
-          "note": "google.com"
+          "start": "15:26",
+          "title": "Week 7 Practical Quiz (Part 1): Attempt review | iLearn"
         },
         {
-          "start": "15:29",
+          "cat": "admin",
           "end": "15:32",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "15:29",
+          "title": "Outlook"
         },
         {
-          "start": "15:33",
+          "cat": "admin",
           "end": "15:34",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Preview question: DEMO Q1 | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "15:33",
+          "title": "Preview question: DEMO Q1 | iLearn"
         },
         {
-          "start": "15:34",
+          "cat": "admin",
           "end": "15:44",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Preview question: DEMO Q2 | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "15:34",
+          "title": "Preview question: DEMO Q2 | iLearn"
         },
         {
-          "start": "15:45",
+          "cat": "admin",
           "end": "16:06",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "logx curve - Google Search",
-          "note": "google.com"
+          "start": "15:45",
+          "title": "logx curve - Google Search"
         },
         {
-          "start": "16:06",
+          "cat": "research",
           "end": "16:08",
-          "cat": "research",
+          "note": "baike.baidu.com",
           "src": "chrome",
-          "title": "随行就市_百度百科",
-          "note": "baike.baidu.com"
+          "start": "16:06",
+          "title": "随行就市_百度百科"
         },
         {
-          "start": "16:08",
+          "cat": "writing",
           "end": "16:10",
-          "cat": "writing",
+          "note": "md.obsidian",
           "src": "macos",
-          "title": "obsidian",
-          "note": "md.obsidian"
+          "start": "16:08",
+          "title": "obsidian"
         },
         {
-          "start": "16:10",
+          "cat": "research",
           "end": "16:13",
-          "cat": "research",
+          "note": "baike.baidu.com",
           "src": "macos",
-          "title": "随行就市_百度百科",
-          "note": "baike.baidu.com"
+          "start": "16:10",
+          "title": "随行就市_百度百科"
         },
         {
-          "start": "16:13",
+          "cat": "writing",
           "end": "16:15",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "Persistent tools.md",
-          "note": "3 hits"
+          "start": "16:13",
+          "title": "Persistent tools.md"
         },
         {
-          "start": "16:16",
+          "cat": "research",
           "end": "17:05",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "Why Do Multi-Agent LLM Systems Fail?",
-          "note": "arxiv.org"
+          "start": "16:16",
+          "title": "Why Do Multi-Agent LLM Systems Fail?"
         },
         {
-          "start": "17:05",
+          "cat": "admin",
           "end": "17:11",
-          "cat": "admin",
+          "note": "sport.mq.edu.au",
           "src": "macos",
-          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
-          "note": "sport.mq.edu.au"
+          "start": "17:05",
+          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni"
         },
         {
-          "start": "18:52",
+          "cat": "admin",
           "end": "18:55",
-          "cat": "admin",
+          "note": "com.tinyspeck.slackmacgap",
           "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "start": "18:52",
+          "title": "slackmacgap"
         },
         {
-          "start": "18:55",
+          "cat": "writing",
           "end": "18:57",
-          "cat": "writing",
+          "note": "md.obsidian",
           "src": "macos",
-          "title": "obsidian",
-          "note": "md.obsidian"
+          "start": "18:55",
+          "title": "obsidian"
         },
         {
-          "start": "18:57",
+          "cat": "coding",
           "end": "19:01",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "18:57",
+          "title": "codex"
         },
         {
-          "start": "19:01",
+          "cat": "coding",
           "end": "19:21",
-          "cat": "coding",
+          "note": "flaticon.com",
           "src": "chrome",
-          "title": "Search results for Agent - Flaticon",
-          "note": "flaticon.com"
+          "start": "19:01",
+          "title": "Search results for Agent - Flaticon"
         },
         {
-          "start": "19:21",
+          "cat": "research",
           "end": "19:40",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "macos",
-          "title": "Hello | Ada's Notes",
-          "note": "adaren100.github.io"
+          "start": "19:21",
+          "title": "Hello | Ada's Notes"
         },
         {
-          "start": "19:40",
+          "cat": "writing",
           "end": "19:41",
-          "cat": "writing",
+          "note": "overleaf.com",
           "src": "chrome",
-          "title": "Your projects - Overleaf, Online LaTeX Editor",
-          "note": "overleaf.com"
+          "start": "19:40",
+          "title": "Your projects - Overleaf, Online LaTeX Editor"
         },
         {
-          "start": "19:41",
+          "cat": "coding",
           "end": "19:44",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "19:41",
+          "title": "codex"
         },
         {
-          "start": "19:44",
+          "cat": "writing",
           "end": "20:02",
-          "cat": "writing",
+          "note": "overleaf.com",
           "src": "macos",
-          "title": "PhD COC - Online LaTeX Editor Overleaf",
-          "note": "overleaf.com"
+          "start": "19:44",
+          "title": "PhD COC - Online LaTeX Editor Overleaf"
         },
         {
-          "start": "20:02",
-          "end": "20:06",
           "cat": "coding",
+          "end": "20:06",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "20:02",
+          "title": "codex"
         },
         {
-          "start": "20:06",
-          "end": "21:05",
           "cat": "writing",
+          "end": "21:05",
+          "note": "overleaf.com",
           "src": "macos",
-          "title": "PhD COC - Online LaTeX Editor Overleaf",
-          "note": "overleaf.com"
+          "start": "20:06",
+          "title": "PhD COC - Online LaTeX Editor Overleaf"
         },
         {
-          "start": "23:35",
-          "end": "23:42",
           "cat": "personal",
+          "end": "23:42",
+          "note": "youtube.com",
           "src": "chrome",
-          "title": "(7) OpenAI Astra and Recurrent Depth / Looped Transformers -",
-          "note": "youtube.com"
+          "start": "23:35",
+          "title": "(7) OpenAI Astra and Recurrent Depth / Looped Transformers -"
         },
         {
-          "start": "23:45",
+          "cat": "research",
           "end": "00:05",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "chrome",
-          "title": "Nanbeige4.2-3B: Unlocking Agentic Capabilities in a Compact ",
-          "note": "arxiv.org"
+          "start": "23:45",
+          "title": "Nanbeige4.2-3B: Unlocking Agentic Capabilities in a Compact "
         },
         {
-          "start": "00:19",
-          "end": "00:42",
           "cat": "research",
+          "end": "00:42",
+          "note": "arxiv.org",
           "src": "chrome",
-          "title": "[2507.10524] Mixture-of-Recursions: Learning Dynamic Recursi",
-          "note": "arxiv.org"
+          "start": "00:19",
+          "title": "[2507.10524] Mixture-of-Recursions: Learning Dynamic Recursi"
         }
       ],
+      "key": "2026-9-3",
       "logged": 570,
-      "real": 393,
-      "deep": 393,
       "ratio": 0.6897204677081972,
+      "real": 393,
       "stats": {
         "contextSwitches": 55,
-        "tabsOpened": 39,
+        "justOneMoreThing": 8,
         "longestFocus": "2h 8m",
-        "justOneMoreThing": 8
-      }
+        "tabsOpened": 39
+      },
+      "weekend": false
     },
     {
       "key": "2026-9-4",
@@ -79073,7 +79441,7 @@
       "dateShort": "Fri, Sep 4",
       "dateLong": "Friday, September 4",
       "dayStart": "10:01",
-      "dayEnd": "10:14",
+      "dayEnd": "21:01",
       "events": [
         {
           "start": "10:01",
@@ -79085,22 +79453,390 @@
         },
         {
           "start": "10:11",
-          "end": "10:14",
+          "end": "10:17",
           "cat": "writing",
-          "src": "chrome",
+          "src": "macos",
           "title": "PhD COC - Online LaTeX Editor Overleaf",
           "note": "overleaf.com"
+        },
+        {
+          "start": "10:17",
+          "end": "10:24",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "10:24",
+          "end": "10:28",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "10:29",
+          "end": "10:37",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "10:37",
+          "end": "10:39",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "10:39",
+          "end": "10:55",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "10:57",
+          "end": "11:13",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "teams2",
+          "note": "com.microsoft.teams2"
+        },
+        {
+          "start": "11:48",
+          "end": "11:53",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "teams2",
+          "note": "com.microsoft.teams2"
+        },
+        {
+          "start": "11:58",
+          "end": "11:59",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "teams2",
+          "note": "com.microsoft.teams2"
+        },
+        {
+          "start": "12:00",
+          "end": "12:05",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "12:05",
+          "end": "12:08",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Google Maps",
+          "note": "map.google.com"
+        },
+        {
+          "start": "12:08",
+          "end": "12:10",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Maps",
+          "note": "google.com"
+        },
+        {
+          "start": "12:10",
+          "end": "12:11",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Google Maps",
+          "note": "map.google.com"
+        },
+        {
+          "start": "12:11",
+          "end": "12:17",
+          "cat": "research",
+          "src": "macos",
+          "title": "Grammar correction for outing plan",
+          "note": "chatgpt.com"
+        },
+        {
+          "start": "12:17",
+          "end": "12:20",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Chatswood, New South Wales 2067 to Dee Why Beach, New South ",
+          "note": "google.com"
+        },
+        {
+          "start": "12:20",
+          "end": "12:26",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Google Maps",
+          "note": "map.google.com"
+        },
+        {
+          "start": "12:26",
+          "end": "12:30",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Grammar correction for outing plan",
+          "note": "chat.openai.com"
+        },
+        {
+          "start": "12:30",
+          "end": "12:37",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Chatswood, New South Wales 2067 to Dee Why Beach, New South ",
+          "note": "google.com"
+        },
+        {
+          "start": "13:14",
+          "end": "13:16",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Chatswood, New South Wales 2067 to Dee Why Beach, New South ",
+          "note": "google.com"
+        },
+        {
+          "start": "13:16",
+          "end": "13:27",
+          "cat": "writing",
+          "src": "macos",
+          "title": "PhD COC - Online LaTeX Editor Overleaf",
+          "note": "overleaf.com"
+        },
+        {
+          "start": "13:27",
+          "end": "13:32",
+          "cat": "admin",
+          "src": "macos",
+          "title": "hermes - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "13:32",
+          "end": "13:34",
+          "cat": "research",
+          "src": "macos",
+          "title": "ChatGPT",
+          "note": "chatgpt.com"
+        },
+        {
+          "start": "13:34",
+          "end": "14:03",
+          "cat": "coding",
+          "src": "macos",
+          "title": "NousResearch/hermes-agent: The agent that grows with you",
+          "note": "github.com"
+        },
+        {
+          "start": "14:03",
+          "end": "14:06",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(1) 通知 / X",
+          "note": "x.com"
+        },
+        {
+          "start": "14:06",
+          "end": "14:44",
+          "cat": "research",
+          "src": "macos",
+          "title": "Polish Agent Harness Description",
+          "note": "chatgpt.com"
+        },
+        {
+          "start": "14:44",
+          "end": "14:47",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "14:47",
+          "end": "14:49",
+          "cat": "research",
+          "src": "macos",
+          "title": "Polish Agent Harness Description",
+          "note": "chatgpt.com"
+        },
+        {
+          "start": "14:49",
+          "end": "14:51",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "14:51",
+          "end": "14:53",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Dr Aditya Joshi",
+          "note": "unsw.edu.au"
+        },
+        {
+          "start": "14:54",
+          "end": "15:04",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Detecting sarcasm, combating hate | Aditya Joshi | TEDxSomai",
+          "note": "youtube.com"
+        },
+        {
+          "start": "15:04",
+          "end": "15:07",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
+          "note": "sport.mq.edu.au"
+        },
+        {
+          "start": "15:08",
+          "end": "15:11",
+          "cat": "research",
+          "src": "macos",
+          "title": "CLI Commands Reference | Hermes Agent",
+          "note": "hermes-agent.nousresearch.com"
+        },
+        {
+          "start": "15:11",
+          "end": "15:14",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "15:14",
+          "end": "15:15",
+          "cat": "writing",
+          "src": "macos",
+          "title": "week7prac.pdf",
+          "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+        },
+        {
+          "start": "15:16",
+          "end": "15:20",
+          "cat": "writing",
+          "src": "macos",
+          "title": "week7prac.pdf",
+          "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+        },
+        {
+          "start": "15:20",
+          "end": "15:37",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "15:37",
+          "end": "15:38",
+          "cat": "coding",
+          "src": "macos",
+          "title": "230313mzl4w4u92",
+          "note": "com.todesktop.230313mzl4w4u92"
+        },
+        {
+          "start": "15:38",
+          "end": "15:48",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Editing quiz: Practice Final Exam | iLearn",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "15:49",
+          "end": "16:19",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Preview question: Q10 (Type 2): Precision | iLearn",
+          "note": "google.com"
+        },
+        {
+          "start": "16:21",
+          "end": "16:37",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Language Agents: From Next-Token Prediction to Digital Autom",
+          "note": "tbench.ai"
+        },
+        {
+          "start": "16:37",
+          "end": "16:46",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "16:46",
+          "end": "16:48",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Language Agents: From Next-Token Prediction to Digital Autom",
+          "note": "tbench.ai"
+        },
+        {
+          "start": "16:48",
+          "end": "16:56",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "16:56",
+          "end": "17:08",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "wei shi ya - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "20:24",
+          "end": "20:44",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "SYD - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "20:47",
+          "end": "20:57",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Agent Architecture Overview",
+          "note": "chatgpt.com"
+        },
+        {
+          "start": "20:57",
+          "end": "21:01",
+          "cat": "writing",
+          "src": "chrome",
+          "title": "Adding citations and references | Overleaf docs",
+          "note": "docs.overleaf.com"
         }
       ],
-      "logged": 8,
-      "real": 8,
-      "deep": 8,
-      "ratio": 1.0,
+      "logged": 369,
+      "real": 192,
+      "deep": 192,
+      "ratio": 0.5221800932099057,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 3,
-        "longestFocus": "8m",
-        "justOneMoreThing": 0
+        "contextSwitches": 38,
+        "tabsOpened": 39,
+        "longestFocus": "38m",
+        "justOneMoreThing": 4
       }
     },
     {
