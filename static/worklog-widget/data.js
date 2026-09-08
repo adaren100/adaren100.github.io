@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-09-07T10:20:07+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-09-08T10:20:07+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -76502,1125 +76502,1125 @@
         "weekend": false
       },
       {
-        "key": "2026-9-4",
-        "dayNum": 4,
-        "dow": 5,
-        "weekend": false,
-        "dateShort": "Fri, Sep 4",
         "dateLong": "Friday, September 4",
-        "dayStart": "10:01",
+        "dateShort": "Fri, Sep 4",
         "dayEnd": "21:35",
+        "dayNum": 4,
+        "dayStart": "10:01",
+        "deep": 255,
+        "dow": 5,
         "events": [
           {
-            "start": "10:01",
+            "cat": "writing",
             "end": "10:06",
-            "cat": "writing",
+            "note": "5 hits",
             "src": "local",
-            "title": "2026-09-04-introducing-weathernext-3-our-most-advanced-and-a",
-            "note": "5 hits"
+            "start": "10:01",
+            "title": "2026-09-04-introducing-weathernext-3-our-most-advanced-and-a"
           },
           {
-            "start": "10:11",
+            "cat": "writing",
             "end": "10:17",
-            "cat": "writing",
+            "note": "overleaf.com",
             "src": "macos",
-            "title": "PhD COC - Online LaTeX Editor Overleaf",
-            "note": "overleaf.com"
+            "start": "10:11",
+            "title": "PhD COC - Online LaTeX Editor Overleaf"
           },
           {
-            "start": "10:17",
+            "cat": "coding",
             "end": "10:24",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "10:17",
+            "title": "codex"
           },
           {
-            "start": "10:24",
+            "cat": "admin",
             "end": "10:28",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "10:24",
+            "title": "Outlook"
           },
           {
-            "start": "10:29",
+            "cat": "admin",
             "end": "10:37",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "macos",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "10:29",
+            "title": "Google Translate"
           },
           {
-            "start": "10:37",
+            "cat": "coding",
             "end": "10:39",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "10:37",
+            "title": "codex"
           },
           {
-            "start": "10:39",
+            "cat": "admin",
             "end": "10:55",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "macos",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "10:39",
+            "title": "Google Translate"
           },
           {
-            "start": "10:57",
+            "cat": "meeting",
             "end": "11:13",
-            "cat": "meeting",
+            "note": "com.microsoft.teams2",
             "src": "macos",
-            "title": "teams2",
-            "note": "com.microsoft.teams2"
+            "start": "10:57",
+            "title": "teams2"
           },
           {
-            "start": "11:48",
+            "cat": "meeting",
             "end": "11:53",
-            "cat": "meeting",
+            "note": "com.microsoft.teams2",
             "src": "macos",
-            "title": "teams2",
-            "note": "com.microsoft.teams2"
+            "start": "11:48",
+            "title": "teams2"
           },
           {
-            "start": "11:58",
+            "cat": "meeting",
             "end": "11:59",
-            "cat": "meeting",
+            "note": "com.microsoft.teams2",
             "src": "macos",
-            "title": "teams2",
-            "note": "com.microsoft.teams2"
+            "start": "11:58",
+            "title": "teams2"
           },
           {
-            "start": "12:00",
+            "cat": "admin",
             "end": "12:05",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "macos",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "12:00",
+            "title": "Google Translate"
           },
           {
-            "start": "12:05",
+            "cat": "personal",
             "end": "12:08",
-            "cat": "personal",
+            "note": "map.google.com",
             "src": "chrome",
-            "title": "Google Maps",
-            "note": "map.google.com"
+            "start": "12:05",
+            "title": "Google Maps"
           },
           {
-            "start": "12:08",
+            "cat": "admin",
             "end": "12:10",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "Google Maps",
-            "note": "google.com"
+            "start": "12:08",
+            "title": "Google Maps"
           },
           {
-            "start": "12:10",
+            "cat": "personal",
             "end": "12:11",
-            "cat": "personal",
+            "note": "map.google.com",
             "src": "chrome",
-            "title": "Google Maps",
-            "note": "map.google.com"
+            "start": "12:10",
+            "title": "Google Maps"
           },
           {
-            "start": "12:11",
+            "cat": "research",
             "end": "12:17",
-            "cat": "research",
+            "note": "chatgpt.com",
             "src": "macos",
-            "title": "Grammar correction for outing plan",
-            "note": "chatgpt.com"
+            "start": "12:11",
+            "title": "Grammar correction for outing plan"
           },
           {
-            "start": "12:17",
+            "cat": "admin",
             "end": "12:20",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "Chatswood, New South Wales 2067 to Dee Why Beach, New South ",
-            "note": "google.com"
+            "start": "12:17",
+            "title": "Chatswood, New South Wales 2067 to Dee Why Beach, New South "
           },
           {
-            "start": "12:20",
+            "cat": "personal",
             "end": "12:26",
-            "cat": "personal",
+            "note": "map.google.com",
             "src": "chrome",
-            "title": "Google Maps",
-            "note": "map.google.com"
+            "start": "12:20",
+            "title": "Google Maps"
           },
           {
-            "start": "12:26",
+            "cat": "research",
             "end": "12:30",
-            "cat": "research",
+            "note": "chat.openai.com",
             "src": "chrome",
-            "title": "Grammar correction for outing plan",
-            "note": "chat.openai.com"
+            "start": "12:26",
+            "title": "Grammar correction for outing plan"
           },
           {
-            "start": "12:30",
+            "cat": "admin",
             "end": "12:37",
-            "cat": "admin",
+            "note": "google.com",
             "src": "chrome",
-            "title": "Chatswood, New South Wales 2067 to Dee Why Beach, New South ",
-            "note": "google.com"
+            "start": "12:30",
+            "title": "Chatswood, New South Wales 2067 to Dee Why Beach, New South "
           },
           {
-            "start": "13:14",
+            "cat": "admin",
             "end": "13:16",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "Chatswood, New South Wales 2067 to Dee Why Beach, New South ",
-            "note": "google.com"
+            "start": "13:14",
+            "title": "Chatswood, New South Wales 2067 to Dee Why Beach, New South "
           },
           {
-            "start": "13:16",
+            "cat": "writing",
             "end": "13:27",
-            "cat": "writing",
+            "note": "overleaf.com",
             "src": "macos",
-            "title": "PhD COC - Online LaTeX Editor Overleaf",
-            "note": "overleaf.com"
+            "start": "13:16",
+            "title": "PhD COC - Online LaTeX Editor Overleaf"
           },
           {
-            "start": "13:27",
+            "cat": "admin",
             "end": "13:32",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "hermes - Google Search",
-            "note": "google.com"
+            "start": "13:27",
+            "title": "hermes - Google Search"
           },
           {
-            "start": "13:32",
+            "cat": "research",
             "end": "13:34",
-            "cat": "research",
+            "note": "chatgpt.com",
             "src": "macos",
-            "title": "ChatGPT",
-            "note": "chatgpt.com"
+            "start": "13:32",
+            "title": "ChatGPT"
           },
           {
-            "start": "13:34",
+            "cat": "coding",
             "end": "14:03",
-            "cat": "coding",
+            "note": "github.com",
             "src": "macos",
-            "title": "NousResearch/hermes-agent: The agent that grows with you",
-            "note": "github.com"
+            "start": "13:34",
+            "title": "NousResearch/hermes-agent: The agent that grows with you"
           },
           {
-            "start": "14:03",
+            "cat": "personal",
             "end": "14:06",
-            "cat": "personal",
+            "note": "x.com",
             "src": "macos",
-            "title": "通知 / X",
-            "note": "x.com"
+            "start": "14:03",
+            "title": "通知 / X"
           },
           {
-            "start": "14:06",
+            "cat": "research",
             "end": "14:44",
-            "cat": "research",
+            "note": "chatgpt.com",
             "src": "macos",
-            "title": "Polish Agent Harness Description",
-            "note": "chatgpt.com"
+            "start": "14:06",
+            "title": "Polish Agent Harness Description"
           },
           {
-            "start": "14:44",
+            "cat": "admin",
             "end": "14:47",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "14:44",
+            "title": "Outlook"
           },
           {
-            "start": "14:47",
+            "cat": "research",
             "end": "14:49",
-            "cat": "research",
+            "note": "chatgpt.com",
             "src": "macos",
-            "title": "Polish Agent Harness Description",
-            "note": "chatgpt.com"
+            "start": "14:47",
+            "title": "Polish Agent Harness Description"
           },
           {
-            "start": "14:49",
+            "cat": "admin",
             "end": "14:51",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "14:49",
+            "title": "Outlook"
           },
           {
-            "start": "14:51",
+            "cat": "admin",
             "end": "14:53",
-            "cat": "admin",
+            "note": "unsw.edu.au",
             "src": "macos",
-            "title": "Dr Aditya Joshi",
-            "note": "unsw.edu.au"
+            "start": "14:51",
+            "title": "Dr Aditya Joshi"
           },
           {
-            "start": "14:54",
-            "end": "15:04",
             "cat": "personal",
+            "end": "15:04",
+            "note": "youtube.com",
             "src": "macos",
-            "title": "Detecting sarcasm, combating hate | Aditya Joshi | TEDxSomai",
-            "note": "youtube.com"
+            "start": "14:54",
+            "title": "Detecting sarcasm, combating hate | Aditya Joshi | TEDxSomai"
           },
           {
-            "start": "15:04",
+            "cat": "admin",
             "end": "15:07",
-            "cat": "admin",
+            "note": "sport.mq.edu.au",
             "src": "macos",
-            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
-            "note": "sport.mq.edu.au"
+            "start": "15:04",
+            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni"
           },
           {
-            "start": "15:08",
+            "cat": "research",
             "end": "15:11",
-            "cat": "research",
+            "note": "hermes-agent.nousresearch.com",
             "src": "macos",
-            "title": "CLI Commands Reference | Hermes Agent",
-            "note": "hermes-agent.nousresearch.com"
+            "start": "15:08",
+            "title": "CLI Commands Reference | Hermes Agent"
           },
           {
-            "start": "15:11",
+            "cat": "admin",
             "end": "15:14",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "15:11",
+            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn"
           },
           {
-            "start": "15:14",
+            "cat": "writing",
             "end": "15:15",
-            "cat": "writing",
+            "note": "file:///Users/ada/Documents/MQ/Phd/Teach",
             "src": "macos",
-            "title": "week7prac.pdf",
-            "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+            "start": "15:14",
+            "title": "week7prac.pdf"
           },
           {
-            "start": "15:16",
+            "cat": "writing",
             "end": "15:20",
-            "cat": "writing",
+            "note": "file:///Users/ada/Documents/MQ/Phd/Teach",
             "src": "macos",
-            "title": "week7prac.pdf",
-            "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+            "start": "15:16",
+            "title": "week7prac.pdf"
           },
           {
-            "start": "15:20",
+            "cat": "admin",
             "end": "15:37",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "macos",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "15:20",
+            "title": "Google Translate"
           },
           {
-            "start": "15:37",
+            "cat": "coding",
             "end": "15:38",
-            "cat": "coding",
+            "note": "com.todesktop.230313mzl4w4u92",
             "src": "macos",
-            "title": "230313mzl4w4u92",
-            "note": "com.todesktop.230313mzl4w4u92"
+            "start": "15:37",
+            "title": "230313mzl4w4u92"
           },
           {
-            "start": "15:38",
+            "cat": "admin",
             "end": "15:48",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "chrome",
-            "title": "Editing quiz: Practice Final Exam | iLearn",
-            "note": "translate.google.com"
+            "start": "15:38",
+            "title": "Editing quiz: Practice Final Exam | iLearn"
           },
           {
-            "start": "15:49",
+            "cat": "admin",
             "end": "16:19",
-            "cat": "admin",
+            "note": "google.com",
             "src": "chrome",
-            "title": "Preview question: Q10 (Type 2): Precision | iLearn",
-            "note": "google.com"
+            "start": "15:49",
+            "title": "Preview question: Q10 (Type 2): Precision | iLearn"
           },
           {
-            "start": "16:21",
+            "cat": "research",
             "end": "16:37",
-            "cat": "research",
+            "note": "tbench.ai",
             "src": "chrome",
-            "title": "Language Agents: From Next-Token Prediction to Digital Autom",
-            "note": "tbench.ai"
+            "start": "16:21",
+            "title": "Language Agents: From Next-Token Prediction to Digital Autom"
           },
           {
-            "start": "16:37",
+            "cat": "coding",
             "end": "16:46",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "16:37",
+            "title": "codex"
           },
           {
-            "start": "16:46",
+            "cat": "research",
             "end": "16:48",
-            "cat": "research",
+            "note": "tbench.ai",
             "src": "chrome",
-            "title": "Language Agents: From Next-Token Prediction to Digital Autom",
-            "note": "tbench.ai"
+            "start": "16:46",
+            "title": "Language Agents: From Next-Token Prediction to Digital Autom"
           },
           {
-            "start": "16:48",
+            "cat": "coding",
             "end": "16:56",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "16:48",
+            "title": "codex"
           },
           {
-            "start": "16:56",
+            "cat": "admin",
             "end": "17:08",
-            "cat": "admin",
+            "note": "google.com",
             "src": "chrome",
-            "title": "wei shi ya - Google Search",
-            "note": "google.com"
+            "start": "16:56",
+            "title": "wei shi ya - Google Search"
           },
           {
-            "start": "19:58",
+            "cat": "coding",
             "end": "20:18",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "19:58",
+            "title": "codex"
           },
           {
-            "start": "20:18",
-            "end": "20:39",
             "cat": "admin",
+            "end": "20:39",
+            "note": "google.com",
             "src": "macos",
-            "title": "wei shi ya - Google Search",
-            "note": "google.com"
+            "start": "20:18",
+            "title": "wei shi ya - Google Search"
           },
           {
-            "start": "20:39",
+            "cat": "coding",
             "end": "20:44",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "20:39",
+            "title": "codex"
           },
           {
-            "start": "20:45",
+            "cat": "coding",
             "end": "20:47",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "20:45",
+            "title": "codex"
           },
           {
-            "start": "20:47",
-            "end": "20:57",
             "cat": "research",
+            "end": "20:57",
+            "note": "chatgpt.com",
             "src": "macos",
-            "title": "Agent Architecture Overview",
-            "note": "chatgpt.com"
+            "start": "20:47",
+            "title": "Agent Architecture Overview"
           },
           {
-            "start": "20:57",
-            "end": "21:35",
             "cat": "writing",
+            "end": "21:35",
+            "note": "docs.overleaf.com",
             "src": "chrome",
-            "title": "Adding citations and references | Overleaf docs",
-            "note": "docs.overleaf.com"
+            "start": "20:57",
+            "title": "Adding citations and references | Overleaf docs"
           }
         ],
+        "key": "2026-9-4",
         "logged": 432,
-        "real": 255,
-        "deep": 255,
         "ratio": 0.5903422953642525,
+        "real": 255,
         "stats": {
           "contextSwitches": 41,
-          "tabsOpened": 33,
+          "justOneMoreThing": 4,
           "longestFocus": "56m",
-          "justOneMoreThing": 4
-        }
+          "tabsOpened": 33
+        },
+        "weekend": false
       },
       {
-        "key": "2026-9-5",
-        "dayNum": 5,
-        "dow": 6,
-        "weekend": true,
-        "dateShort": "Sat, Sep 5",
         "dateLong": "Saturday, September 5",
-        "dayStart": "09:00",
+        "dateShort": "Sat, Sep 5",
         "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
+        "dayNum": 5,
+        "dayStart": "09:00",
         "deep": 0,
+        "dow": 6,
+        "events": [],
+        "key": "2026-9-5",
+        "logged": 0,
         "ratio": 0,
+        "real": 0,
         "stats": {
           "contextSwitches": 0,
-          "tabsOpened": 0,
+          "justOneMoreThing": 0,
           "longestFocus": "0m",
-          "justOneMoreThing": 0
-        }
+          "tabsOpened": 0
+        },
+        "weekend": true
       },
       {
-        "key": "2026-9-6",
-        "dayNum": 6,
-        "dow": 0,
-        "weekend": true,
-        "dateShort": "Sun, Sep 6",
         "dateLong": "Sunday, September 6",
-        "dayStart": "10:38",
+        "dateShort": "Sun, Sep 6",
         "dayEnd": "01:12",
+        "dayNum": 6,
+        "dayStart": "10:38",
+        "deep": 442,
+        "dow": 0,
         "events": [
           {
-            "start": "10:38",
+            "cat": "coding",
             "end": "10:43",
-            "cat": "coding",
+            "note": "2 hits",
             "src": "local",
-            "title": "data.js",
-            "note": "2 hits"
+            "start": "10:38",
+            "title": "data.js"
           },
           {
-            "start": "11:25",
+            "cat": "writing",
             "end": "11:36",
-            "cat": "writing",
+            "note": "3 hits",
             "src": "local",
-            "title": "2026-09-04-formalizing-fermats-last-theorem.md",
-            "note": "3 hits"
+            "start": "11:25",
+            "title": "2026-09-04-formalizing-fermats-last-theorem.md"
           },
           {
-            "start": "11:36",
+            "cat": "admin",
             "end": "11:40",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "11:36",
+            "title": "Outlook"
           },
           {
-            "start": "11:40",
+            "cat": "admin",
             "end": "11:41",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "chrome",
-            "title": "My home | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "11:40",
+            "title": "My home | iLearn"
           },
           {
-            "start": "11:41",
+            "cat": "coding",
             "end": "11:43",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "COMP2200_ASS2.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "11:41",
+            "title": "COMP2200_ASS2.ipynb - Colab"
           },
           {
-            "start": "11:43",
+            "cat": "admin",
             "end": "11:46",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "chrome",
-            "title": "My home | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "11:43",
+            "title": "My home | iLearn"
           },
           {
-            "start": "11:46",
+            "cat": "coding",
             "end": "11:47",
-            "cat": "coding",
+            "note": "scikit-learn.org",
             "src": "macos",
-            "title": "KMeans — scikit-learn 1.9.0 documentation",
-            "note": "scikit-learn.org"
+            "start": "11:46",
+            "title": "KMeans — scikit-learn 1.9.0 documentation"
           },
           {
-            "start": "11:47",
+            "cat": "admin",
             "end": "11:50",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "chrome",
-            "title": "My home | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "11:47",
+            "title": "My home | iLearn"
           },
           {
-            "start": "11:50",
+            "cat": "coding",
             "end": "11:53",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "COMP2200_ASS2.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "11:50",
+            "title": "COMP2200_ASS2.ipynb - Colab"
           },
           {
-            "start": "11:53",
+            "cat": "admin",
             "end": "12:22",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Preview question: clustering | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "11:53",
+            "title": "Preview question: clustering | iLearn"
           },
           {
-            "start": "12:22",
+            "cat": "admin",
             "end": "12:30",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Preview question: Machine Sensor Clustering with KMeans Pipe",
-            "note": "ilearn.mq.edu.au"
+            "start": "12:22",
+            "title": "Preview question: Machine Sensor Clustering with KMeans Pipe"
           },
           {
-            "start": "12:31",
+            "cat": "coding",
             "end": "12:47",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "COMP2200_ASS2.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "12:31",
+            "title": "COMP2200_ASS2.ipynb - Colab"
           },
           {
-            "start": "12:47",
+            "cat": "coding",
             "end": "12:48",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "COMP2200_ASS2.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "12:47",
+            "title": "COMP2200_ASS2.ipynb - Colab"
           },
           {
-            "start": "12:48",
+            "cat": "coding",
             "end": "13:00",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "COMP2200_ASS2.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "12:48",
+            "title": "COMP2200_ASS2.ipynb - Colab"
           },
           {
-            "start": "13:00",
+            "cat": "coding",
             "end": "13:20",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "COMP2200_ASS2.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "13:00",
+            "title": "COMP2200_ASS2.ipynb - Colab"
           },
           {
-            "start": "13:46",
+            "cat": "coding",
             "end": "13:50",
-            "cat": "coding",
+            "note": "scikit-learn.org",
             "src": "chrome",
-            "title": "StratifiedKFold — scikit-learn 1.9.0 documentation",
-            "note": "scikit-learn.org"
+            "start": "13:46",
+            "title": "StratifiedKFold — scikit-learn 1.9.0 documentation"
           },
           {
-            "start": "13:55",
+            "cat": "coding",
             "end": "14:10",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "chrome",
-            "title": "cross_validate — scikit-learn 1.9.0 documentation",
-            "note": "colab.research.google.com"
+            "start": "13:55",
+            "title": "cross_validate — scikit-learn 1.9.0 documentation"
           },
           {
-            "start": "14:11",
+            "cat": "admin",
             "end": "14:14",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "chrome",
-            "title": "Preview question: Lr2 | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "14:11",
+            "title": "Preview question: Lr2 | iLearn"
           },
           {
-            "start": "14:14",
+            "cat": "coding",
             "end": "14:16",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "14:14",
+            "title": "codex"
           },
           {
-            "start": "14:16",
+            "cat": "admin",
             "end": "14:18",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "chrome",
-            "title": "Preview question: Lr2 | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "14:16",
+            "title": "Preview question: Lr2 | iLearn"
           },
           {
-            "start": "14:18",
+            "cat": "coding",
             "end": "14:26",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "COMP2200_ASS2.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "14:18",
+            "title": "COMP2200_ASS2.ipynb - Colab"
           },
           {
-            "start": "14:26",
+            "cat": "admin",
             "end": "14:38",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "chrome",
-            "title": "Preview question: Binary Bag of Words encoding | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "14:26",
+            "title": "Preview question: Binary Bag of Words encoding | iLearn"
           },
           {
-            "start": "14:39",
+            "cat": "coding",
             "end": "14:44",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "COMP2200_ASS2.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "14:39",
+            "title": "COMP2200_ASS2.ipynb - Colab"
           },
           {
-            "start": "14:44",
+            "cat": "coding",
             "end": "14:52",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "COMP2200_ASS2.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "14:44",
+            "title": "COMP2200_ASS2.ipynb - Colab"
           },
           {
-            "start": "14:52",
+            "cat": "coding",
             "end": "15:05",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "COMP2200_ASS2.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "14:52",
+            "title": "COMP2200_ASS2.ipynb - Colab"
           },
           {
-            "start": "15:05",
+            "cat": "coding",
             "end": "15:22",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "COMP2200_ASS2.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "15:05",
+            "title": "COMP2200_ASS2.ipynb - Colab"
           },
           {
-            "start": "15:22",
+            "cat": "coding",
             "end": "15:27",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "COMP2200_ASS2.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "15:22",
+            "title": "COMP2200_ASS2.ipynb - Colab"
           },
           {
-            "start": "15:27",
+            "cat": "admin",
             "end": "15:31",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "chrome",
-            "title": "Preview question: BOW - Encode | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "15:27",
+            "title": "Preview question: BOW - Encode | iLearn"
           },
           {
-            "start": "15:36",
+            "cat": "coding",
             "end": "15:37",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "COMP2200_ASS2.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "15:36",
+            "title": "COMP2200_ASS2.ipynb - Colab"
           },
           {
-            "start": "15:38",
+            "cat": "coding",
             "end": "15:44",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "COMP2200_ASS2.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "15:38",
+            "title": "COMP2200_ASS2.ipynb - Colab"
           },
           {
-            "start": "15:44",
+            "cat": "admin",
             "end": "15:48",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "chrome",
-            "title": "Preview question: IDF for Multiple Terms | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "15:44",
+            "title": "Preview question: IDF for Multiple Terms | iLearn"
           },
           {
-            "start": "15:48",
+            "cat": "coding",
             "end": "15:52",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "COMP2200_ASS2.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "15:48",
+            "title": "COMP2200_ASS2.ipynb - Colab"
           },
           {
-            "start": "15:52",
+            "cat": "admin",
             "end": "15:55",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Preview question: IDF Log Base 10 with smoothing | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "15:52",
+            "title": "Preview question: IDF Log Base 10 with smoothing | iLearn"
           },
           {
-            "start": "16:03",
+            "cat": "admin",
             "end": "16:04",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "chrome",
-            "title": "Preview question: IDF Calculation - Term in All Documents | ",
-            "note": "ilearn.mq.edu.au"
+            "start": "16:03",
+            "title": "Preview question: IDF Calculation - Term in All Documents | "
           },
           {
-            "start": "16:04",
+            "cat": "admin",
             "end": "16:05",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "16:04",
+            "title": "Outlook"
           },
           {
-            "start": "16:06",
+            "cat": "writing",
             "end": "16:14",
-            "cat": "writing",
+            "note": "overleaf.com",
             "src": "macos",
-            "title": "PhD COC - Online LaTeX Editor Overleaf",
-            "note": "overleaf.com"
+            "start": "16:06",
+            "title": "PhD COC - Online LaTeX Editor Overleaf"
           },
           {
-            "start": "16:14",
+            "cat": "research",
             "end": "16:39",
-            "cat": "research",
+            "note": "chat.openai.com",
             "src": "chrome",
-            "title": "Agent Architecture Overview",
-            "note": "chat.openai.com"
+            "start": "16:14",
+            "title": "Agent Architecture Overview"
           },
           {
-            "start": "16:39",
+            "cat": "writing",
             "end": "16:59",
-            "cat": "writing",
+            "note": "overleaf.com",
             "src": "macos",
-            "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf",
-            "note": "overleaf.com"
+            "start": "16:39",
+            "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf"
           },
           {
-            "start": "17:13",
+            "cat": "writing",
             "end": "17:25",
-            "cat": "writing",
+            "note": "file:///Users/ada/Documents/MQ/Phd/Teach",
             "src": "macos",
-            "title": "COMP2200/COMP6200 — Week 7 Scaling and Clustering",
-            "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+            "start": "17:13",
+            "title": "COMP2200/COMP6200 — Week 7 Scaling and Clustering"
           },
           {
-            "start": "17:27",
+            "cat": "admin",
             "end": "17:33",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "standard scaler vs min max scaler vs robustscaler - Google S",
-            "note": "google.com"
+            "start": "17:27",
+            "title": "standard scaler vs min max scaler vs robustscaler - Google S"
           },
           {
-            "start": "17:33",
+            "cat": "coding",
             "end": "17:40",
-            "cat": "coding",
+            "note": "clustering-visualizer.web.app",
             "src": "chrome",
-            "title": "Hierarchical Clustering | Clustering Visualizer",
-            "note": "clustering-visualizer.web.app"
+            "start": "17:33",
+            "title": "Hierarchical Clustering | Clustering Visualizer"
           },
           {
-            "start": "17:40",
+            "cat": "admin",
             "end": "17:41",
-            "cat": "admin",
+            "note": "linkedin.com",
             "src": "macos",
-            "title": "Grow | LinkedIn",
-            "note": "linkedin.com"
+            "start": "17:40",
+            "title": "Grow | LinkedIn"
           },
           {
-            "start": "17:41",
+            "cat": "coding",
             "end": "17:43",
-            "cat": "coding",
+            "note": "clustering-visualizer.web.app",
             "src": "chrome",
-            "title": "Hierarchical Clustering | Clustering Visualizer",
-            "note": "clustering-visualizer.web.app"
+            "start": "17:41",
+            "title": "Hierarchical Clustering | Clustering Visualizer"
           },
           {
-            "start": "17:43",
+            "cat": "writing",
             "end": "17:47",
-            "cat": "writing",
+            "note": "file:///Users/ada/Documents/MQ/Phd/Teach",
             "src": "macos",
-            "title": "COMP2200/COMP6200 — Week 7 Scaling and Clustering",
-            "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+            "start": "17:43",
+            "title": "COMP2200/COMP6200 — Week 7 Scaling and Clustering"
           },
           {
-            "start": "17:48",
+            "cat": "coding",
             "end": "17:51",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "17:48",
+            "title": "codex"
           },
           {
-            "start": "17:51",
+            "cat": "writing",
             "end": "18:03",
-            "cat": "writing",
+            "note": "file:///Users/ada/Documents/MQ/Phd/Teach",
             "src": "macos",
-            "title": "COMP2200/COMP6200 — Week 7 Scaling and Clustering",
-            "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+            "start": "17:51",
+            "title": "COMP2200/COMP6200 — Week 7 Scaling and Clustering"
           },
           {
-            "start": "18:05",
+            "cat": "writing",
             "end": "18:08",
-            "cat": "writing",
+            "note": "file:///Users/ada/Documents/MQ/Phd/Teach",
             "src": "macos",
-            "title": "COMP2200/COMP6200 — Week 7 Scaling and Clustering",
-            "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+            "start": "18:05",
+            "title": "COMP2200/COMP6200 — Week 7 Scaling and Clustering"
           },
           {
-            "start": "18:15",
+            "cat": "writing",
             "end": "18:16",
-            "cat": "writing",
+            "note": "file:///Users/ada/Documents/MQ/Phd/Teach",
             "src": "macos",
-            "title": "COMP2200/COMP6200 — Week 7 Scaling and Clustering",
-            "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+            "start": "18:15",
+            "title": "COMP2200/COMP6200 — Week 7 Scaling and Clustering"
           },
           {
-            "start": "18:22",
+            "cat": "writing",
             "end": "18:26",
-            "cat": "writing",
+            "note": "file:///Users/ada/Documents/MQ/Phd/Teach",
             "src": "macos",
-            "title": "COMP2200/COMP6200 — Week 7 Scaling and Clustering",
-            "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+            "start": "18:22",
+            "title": "COMP2200/COMP6200 — Week 7 Scaling and Clustering"
           },
           {
-            "start": "18:26",
+            "cat": "admin",
             "end": "18:50",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "korea gdp growth - Google Search",
-            "note": "google.com"
+            "start": "18:26",
+            "title": "korea gdp growth - Google Search"
           },
           {
-            "start": "18:51",
+            "cat": "research",
             "end": "18:54",
-            "cat": "research",
+            "note": "machinelearninggeek.com",
             "src": "chrome",
-            "title": "DBSCAN clustering algorithm in Python (with example dataset)",
-            "note": "machinelearninggeek.com"
+            "start": "18:51",
+            "title": "DBSCAN clustering algorithm in Python (with example dataset)"
           },
           {
-            "start": "18:55",
+            "cat": "admin",
             "end": "19:08",
-            "cat": "admin",
+            "note": "google.com",
             "src": "chrome",
-            "title": "Dbscan - Google Search",
-            "note": "google.com"
+            "start": "18:55",
+            "title": "Dbscan - Google Search"
           },
           {
-            "start": "19:09",
+            "cat": "research",
             "end": "19:28",
-            "cat": "research",
+            "note": "machinelearninggeek.com",
             "src": "macos",
-            "title": "DBSCAN Clustering – Machine Learning Geek",
-            "note": "machinelearninggeek.com"
+            "start": "19:09",
+            "title": "DBSCAN Clustering – Machine Learning Geek"
           },
           {
-            "start": "19:29",
+            "cat": "research",
             "end": "19:32",
-            "cat": "research",
+            "note": "machinelearninggeek.com",
             "src": "macos",
-            "title": "DBSCAN Clustering – Machine Learning Geek",
-            "note": "machinelearninggeek.com"
+            "start": "19:29",
+            "title": "DBSCAN Clustering – Machine Learning Geek"
           },
           {
-            "start": "19:38",
+            "cat": "research",
             "end": "19:41",
-            "cat": "research",
+            "note": "machinelearninggeek.com",
             "src": "macos",
-            "title": "DBSCAN Clustering – Machine Learning Geek",
-            "note": "machinelearninggeek.com"
+            "start": "19:38",
+            "title": "DBSCAN Clustering – Machine Learning Geek"
           },
           {
+            "cat": "coding",
+            "end": "19:43",
+            "note": "colab.research.google.com",
+            "src": "macos",
             "start": "19:42",
-            "end": "19:43",
-            "cat": "coding",
-            "src": "macos",
-            "title": "Untitled24.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "title": "Untitled24.ipynb - Colab"
           },
           {
+            "cat": "coding",
+            "end": "19:43",
+            "note": "colab.google",
+            "src": "chrome",
             "start": "19:43",
-            "end": "19:43",
-            "cat": "coding",
-            "src": "chrome",
-            "title": "Colab  |  Google for Developers",
-            "note": "colab.google"
+            "title": "Colab  |  Google for Developers"
           },
           {
-            "start": "19:44",
+            "cat": "coding",
             "end": "20:02",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "Week7_Prac.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "19:44",
+            "title": "Week7_Prac.ipynb - Colab"
           },
           {
-            "start": "20:03",
+            "cat": "coding",
             "end": "20:53",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "Week7_Prac.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "20:03",
+            "title": "Week7_Prac.ipynb - Colab"
           },
           {
-            "start": "23:30",
-            "end": "23:32",
             "cat": "meeting",
+            "end": "23:32",
+            "note": "com.microsoft.teams2",
             "src": "macos",
-            "title": "teams2",
-            "note": "com.microsoft.teams2"
+            "start": "23:30",
+            "title": "teams2"
           },
           {
-            "start": "23:32",
+            "cat": "admin",
             "end": "23:35",
-            "cat": "admin",
+            "note": "mqoutlook-my.sharepoint.com",
             "src": "macos",
-            "title": "Ideas2.pptx",
-            "note": "mqoutlook-my.sharepoint.com"
+            "start": "23:32",
+            "title": "Ideas2.pptx"
           },
           {
-            "start": "23:37",
+            "cat": "research",
             "end": "23:38",
-            "cat": "research",
+            "note": "deepmind.google",
             "src": "chrome",
-            "title": "WeatherNext 3: Our most advanced global weather AI model",
-            "note": "deepmind.google"
+            "start": "23:37",
+            "title": "WeatherNext 3: Our most advanced global weather AI model"
           },
           {
-            "start": "23:38",
+            "cat": "coding",
             "end": "23:40",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "23:38",
+            "title": "VSCode"
           },
           {
-            "start": "23:40",
+            "cat": "research",
             "end": "23:42",
-            "cat": "research",
+            "note": "blog.google",
             "src": "macos",
-            "title": "WeatherNext 3: Our most advanced global weather AI model",
-            "note": "blog.google"
+            "start": "23:40",
+            "title": "WeatherNext 3: Our most advanced global weather AI model"
           },
           {
-            "start": "23:42",
+            "cat": "coding",
             "end": "23:43",
-            "cat": "coding",
+            "note": "flaticon.com",
             "src": "macos",
-            "title": "Search results for Json - Flaticon",
-            "note": "flaticon.com"
+            "start": "23:42",
+            "title": "Search results for Json - Flaticon"
           },
           {
-            "start": "23:43",
+            "cat": "coding",
             "end": "23:44",
-            "cat": "coding",
+            "note": "flaticon.com",
             "src": "macos",
-            "title": "Search results for Json - Flaticon",
-            "note": "flaticon.com"
+            "start": "23:43",
+            "title": "Search results for Json - Flaticon"
           },
           {
-            "start": "23:44",
+            "cat": "writing",
             "end": "23:46",
-            "cat": "writing",
+            "note": "md.obsidian",
             "src": "macos",
-            "title": "obsidian",
-            "note": "md.obsidian"
+            "start": "23:44",
+            "title": "obsidian"
           },
           {
-            "start": "23:46",
+            "cat": "coding",
             "end": "23:49",
-            "cat": "coding",
+            "note": "flaticon.com",
             "src": "macos",
-            "title": "Search results for Model - Flaticon",
-            "note": "flaticon.com"
+            "start": "23:46",
+            "title": "Search results for Model - Flaticon"
           },
           {
-            "start": "23:49",
-            "end": "23:57",
             "cat": "research",
+            "end": "23:57",
+            "note": "deepmind.google",
             "src": "chrome",
-            "title": "WeatherNext 3: Our most advanced global weather AI model",
-            "note": "deepmind.google"
+            "start": "23:49",
+            "title": "WeatherNext 3: Our most advanced global weather AI model"
           },
           {
-            "start": "23:57",
+            "cat": "coding",
             "end": "00:03",
-            "cat": "coding",
+            "note": "flaticon.com",
             "src": "macos",
-            "title": "Neural network - Free networking icons",
-            "note": "flaticon.com"
+            "start": "23:57",
+            "title": "Neural network - Free networking icons"
           },
           {
-            "start": "00:04",
+            "cat": "admin",
             "end": "00:06",
-            "cat": "admin",
+            "note": "com.microsoft.Excel",
             "src": "macos",
-            "title": "Excel",
-            "note": "com.microsoft.Excel"
+            "start": "00:04",
+            "title": "Excel"
           },
           {
-            "start": "00:06",
+            "cat": "coding",
             "end": "00:07",
-            "cat": "coding",
+            "note": "flaticon.com",
             "src": "chrome",
-            "title": "Neural network - Free networking icons",
-            "note": "flaticon.com"
+            "start": "00:06",
+            "title": "Neural network - Free networking icons"
           },
           {
-            "start": "00:07",
+            "cat": "admin",
             "end": "00:14",
-            "cat": "admin",
+            "note": "com.microsoft.Excel",
             "src": "macos",
-            "title": "Excel",
-            "note": "com.microsoft.Excel"
+            "start": "00:07",
+            "title": "Excel"
           },
           {
-            "start": "00:14",
+            "cat": "writing",
             "end": "00:16",
-            "cat": "writing",
+            "note": "tablesgenerator.com",
             "src": "macos",
-            "title": "Create LaTeX tables online – TablesGenerator.com",
-            "note": "tablesgenerator.com"
+            "start": "00:14",
+            "title": "Create LaTeX tables online – TablesGenerator.com"
           },
           {
-            "start": "00:16",
+            "cat": "writing",
             "end": "00:19",
-            "cat": "writing",
+            "note": "overleaf.com",
             "src": "macos",
-            "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea",
-            "note": "overleaf.com"
+            "start": "00:16",
+            "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea"
           },
           {
-            "start": "00:19",
+            "cat": "coding",
             "end": "00:20",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "00:19",
+            "title": "codex"
           },
           {
-            "start": "00:20",
-            "end": "00:21",
             "cat": "writing",
+            "end": "00:21",
+            "note": "overleaf.com",
             "src": "macos",
-            "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea",
-            "note": "overleaf.com"
+            "start": "00:20",
+            "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea"
           },
           {
-            "start": "00:21",
+            "cat": "coding",
             "end": "00:29",
-            "cat": "coding",
+            "note": "tableconvert.com",
             "src": "macos",
-            "title": "Excel to LaTeX Table Converter Online - Free Tool",
-            "note": "tableconvert.com"
+            "start": "00:21",
+            "title": "Excel to LaTeX Table Converter Online - Free Tool"
           },
           {
-            "start": "00:29",
-            "end": "00:32",
             "cat": "admin",
+            "end": "00:32",
+            "note": "com.microsoft.Excel",
             "src": "macos",
-            "title": "Excel",
-            "note": "com.microsoft.Excel"
+            "start": "00:29",
+            "title": "Excel"
           },
           {
-            "start": "00:32",
+            "cat": "coding",
             "end": "00:41",
-            "cat": "coding",
+            "note": "tableconvert.com",
             "src": "macos",
-            "title": "Excel to LaTeX Table Converter Online - Free Tool",
-            "note": "tableconvert.com"
+            "start": "00:32",
+            "title": "Excel to LaTeX Table Converter Online - Free Tool"
           },
           {
-            "start": "00:43",
-            "end": "01:12",
             "cat": "coding",
+            "end": "01:12",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "00:43",
+            "title": "VSCode"
           }
         ],
+        "key": "2026-9-6",
         "logged": 578,
-        "real": 442,
-        "deep": 442,
         "ratio": 0.7644142205495901,
+        "real": 442,
         "stats": {
           "contextSwitches": 54,
-          "tabsOpened": 60,
+          "justOneMoreThing": 12,
           "longestFocus": "1h 39m",
-          "justOneMoreThing": 12
-        }
+          "tabsOpened": 60
+        },
+        "weekend": true
       },
       {
         "key": "2026-9-7",
@@ -77630,10 +77630,26 @@
         "dateShort": "Mon, Sep 7",
         "dateLong": "Monday, September 7",
         "dayStart": "09:57",
-        "dayEnd": "10:37",
+        "dayEnd": "19:13",
         "events": [
           {
             "start": "09:57",
+            "end": "09:58",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Where to Draw the Boundary for Hosted Agents",
+            "note": "xwang.dev"
+          },
+          {
+            "start": "09:58",
+            "end": "09:59",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "teams2",
+            "note": "com.microsoft.teams2"
+          },
+          {
+            "start": "09:59",
             "end": "10:02",
             "cat": "coding",
             "src": "chrome",
@@ -77642,6 +77658,30 @@
           },
           {
             "start": "10:02",
+            "end": "10:04",
+            "cat": "research",
+            "src": "chrome",
+            "title": "How Do AI Agents Do Human Work? Comparing AI and Human Workf",
+            "note": "scholar.google.com"
+          },
+          {
+            "start": "10:04",
+            "end": "10:12",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "teams2",
+            "note": "com.microsoft.teams2"
+          },
+          {
+            "start": "10:12",
+            "end": "10:16",
+            "cat": "writing",
+            "src": "macos",
+            "title": "obsidian",
+            "note": "md.obsidian"
+          },
+          {
+            "start": "10:16",
             "end": "10:16",
             "cat": "research",
             "src": "chrome",
@@ -77649,23 +77689,535 @@
             "note": "scholar.google.com"
           },
           {
-            "start": "10:16",
-            "end": "10:37",
+            "start": "10:17",
+            "end": "10:20",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Announcements | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "10:20",
+            "end": "10:31",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "teams2",
+            "note": "com.microsoft.teams2"
+          },
+          {
+            "start": "10:31",
+            "end": "10:33",
             "cat": "admin",
             "src": "chrome",
             "title": "Announcements | iLearn",
             "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "10:33",
+            "end": "10:37",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "teams2",
+            "note": "com.microsoft.teams2"
+          },
+          {
+            "start": "10:37",
+            "end": "10:44",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "teams2",
+            "note": "com.microsoft.teams2"
+          },
+          {
+            "start": "10:44",
+            "end": "10:46",
+            "cat": "writing",
+            "src": "macos",
+            "title": "week7prac.pdf",
+            "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+          },
+          {
+            "start": "10:48",
+            "end": "10:50",
+            "cat": "writing",
+            "src": "macos",
+            "title": "week7prac.pdf",
+            "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+          },
+          {
+            "start": "10:50",
+            "end": "10:52",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "teams2",
+            "note": "com.microsoft.teams2"
+          },
+          {
+            "start": "11:00",
+            "end": "11:15",
+            "cat": "writing",
+            "src": "macos",
+            "title": "week7prac.pdf",
+            "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+          },
+          {
+            "start": "11:19",
+            "end": "11:28",
+            "cat": "writing",
+            "src": "macos",
+            "title": "week7prac.pdf",
+            "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+          },
+          {
+            "start": "11:29",
+            "end": "12:06",
+            "cat": "admin",
+            "src": "macos",
+            "title": "COMP2200/COMP6200 MQ Slides Template",
+            "note": "content.ilearn.mq.edu.au"
+          },
+          {
+            "start": "12:06",
+            "end": "12:26",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "12:26",
+            "end": "12:41",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Excalidraw Whiteboard",
+            "note": "excalidraw.com"
+          },
+          {
+            "start": "12:41",
+            "end": "12:43",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "COMP2200/COMP6200 MQ Slides Template",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "12:43",
+            "end": "12:59",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Hierarchical Clustering | Clustering Visualizer",
+            "note": "clustering-visualizer.web.app"
+          },
+          {
+            "start": "12:59",
+            "end": "13:01",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "COMP2200/COMP6200 MQ Slides Template",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "13:01",
+            "end": "13:03",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Hierarchical Clustering | Clustering Visualizer",
+            "note": "clustering-visualizer.web.app"
+          },
+          {
+            "start": "13:23",
+            "end": "13:32",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Hierarchical Clustering | Clustering Visualizer",
+            "note": "clustering-visualizer.web.app"
+          },
+          {
+            "start": "13:32",
+            "end": "13:35",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "Join from Zoom Workplace app - Zoom",
+            "note": "macquarie.zoom.us"
+          },
+          {
+            "start": "13:35",
+            "end": "13:37",
+            "cat": "writing",
+            "src": "macos",
+            "title": "obsidian",
+            "note": "md.obsidian"
+          },
+          {
+            "start": "13:37",
+            "end": "13:42",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "xos",
+            "note": "us.zoom.xos"
+          },
+          {
+            "start": "13:42",
+            "end": "13:47",
+            "cat": "writing",
+            "src": "macos",
+            "title": "obsidian",
+            "note": "md.obsidian"
+          },
+          {
+            "start": "13:47",
+            "end": "13:52",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "Join from Zoom Workplace app - Zoom",
+            "note": "macquarie.zoom.us"
+          },
+          {
+            "start": "13:52",
+            "end": "13:56",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "Join from Zoom Workplace app - Zoom",
+            "note": "macquarie.zoom.us"
+          },
+          {
+            "start": "13:56",
+            "end": "14:01",
+            "cat": "coding",
+            "src": "macos",
+            "title": "harbor-framework/harbor: Framework for evaluating and improv",
+            "note": "github.com"
+          },
+          {
+            "start": "14:01",
+            "end": "14:04",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "xos",
+            "note": "us.zoom.xos"
+          },
+          {
+            "start": "14:04",
+            "end": "14:11",
+            "cat": "coding",
+            "src": "macos",
+            "title": "harbor-framework/harbor: Framework for evaluating and improv",
+            "note": "github.com"
+          },
+          {
+            "start": "14:11",
+            "end": "14:15",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "xos",
+            "note": "us.zoom.xos"
+          },
+          {
+            "start": "14:15",
+            "end": "14:26",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "xos",
+            "note": "us.zoom.xos"
+          },
+          {
+            "start": "14:26",
+            "end": "14:36",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "14:36",
+            "end": "14:39",
+            "cat": "research",
+            "src": "macos",
+            "title": "Detecting Multi-Agent Collusion Through Multi-Agent Interpre",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "14:39",
+            "end": "14:40",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "orchestration agentic ai - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "14:40",
+            "end": "14:49",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "xos",
+            "note": "us.zoom.xos"
+          },
+          {
+            "start": "14:49",
+            "end": "14:59",
+            "cat": "admin",
+            "src": "macos",
+            "title": "orchestration agentic ai - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "15:43",
+            "end": "15:44",
+            "cat": "admin",
+            "src": "macos",
+            "title": "orchestration agentic ai - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "15:45",
+            "end": "15:47",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Comparing DBSCAN, k-means, and Hierarchical Clustering: When",
+            "note": "hex.tech"
+          },
+          {
+            "start": "15:47",
+            "end": "15:49",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Comparing different clustering algorithms on toy datasets — ",
+            "note": "scikit-learn.org"
+          },
+          {
+            "start": "15:49",
+            "end": "15:52",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "15:52",
+            "end": "15:54",
+            "cat": "research",
+            "src": "macos",
+            "title": "2026.acl-long.1582.pdf",
+            "note": "aclanthology.org"
+          },
+          {
+            "start": "15:54",
+            "end": "15:58",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Hierarchical Clustering | Clustering Visualizer",
+            "note": "clustering-visualizer.web.app"
+          },
+          {
+            "start": "15:58",
+            "end": "16:12",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "16:12",
+            "end": "16:15",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Hierarchical Clustering | Clustering Visualizer",
+            "note": "clustering-visualizer.web.app"
+          },
+          {
+            "start": "16:15",
+            "end": "16:16",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "COMP2200/COMP6200 MQ Slides Template",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "16:16",
+            "end": "16:20",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "16:20",
+            "end": "16:21",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "COMP2200/COMP6200 MQ Slides Template",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "16:21",
+            "end": "16:31",
+            "cat": "research",
+            "src": "macos",
+            "title": "DBSCAN: Density-Based Clustering. In-depth explanation of th",
+            "note": "ai.plainenglish.io"
+          },
+          {
+            "start": "16:31",
+            "end": "16:32",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "16:32",
+            "end": "16:34",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "16:34",
+            "end": "16:36",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "16:36",
+            "end": "16:38",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(3) Hierarchical Cluster Analysis [Simply explained] - YouTu",
+            "note": "youtube.com"
+          },
+          {
+            "start": "16:38",
+            "end": "16:40",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(3) YouTube",
+            "note": "youtube.com"
+          },
+          {
+            "start": "16:40",
+            "end": "16:41",
+            "cat": "research",
+            "src": "chrome",
+            "title": "DBSCAN: Density-Based Clustering. In-depth explanation of th",
+            "note": "ai.plainenglish.io"
+          },
+          {
+            "start": "16:41",
+            "end": "16:43",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(3) Hierarchical Cluster Analysis [Simply explained] - YouTu",
+            "note": "youtube.com"
+          },
+          {
+            "start": "16:43",
+            "end": "16:45",
+            "cat": "research",
+            "src": "chrome",
+            "title": "ChatGPT",
+            "note": "chat.openai.com"
+          },
+          {
+            "start": "16:45",
+            "end": "16:48",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "16:48",
+            "end": "16:50",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Week7_Prac.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "16:50",
+            "end": "16:52",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(3) Hierarchical Cluster Analysis [Simply explained] - YouTu",
+            "note": "youtube.com"
+          },
+          {
+            "start": "16:52",
+            "end": "16:55",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Macquarie University - Sign In",
+            "note": "mq.okta.com"
+          },
+          {
+            "start": "16:55",
+            "end": "17:02",
+            "cat": "research",
+            "src": "chrome",
+            "title": "ChatGPT",
+            "note": "chat.openai.com"
+          },
+          {
+            "start": "17:03",
+            "end": "17:16",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "17:33",
+            "end": "17:36",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "17:36",
+            "end": "17:37",
+            "cat": "research",
+            "src": "macos",
+            "title": "Preview",
+            "note": "com.apple.Preview"
+          },
+          {
+            "start": "18:04",
+            "end": "18:07",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "18:07",
+            "end": "18:53",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Week7_Prac.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "18:53",
+            "end": "19:13",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
+            "note": "ilearn.mq.edu.au"
           }
         ],
-        "logged": 39,
-        "real": 19,
-        "deep": 19,
-        "ratio": 0.4851821819255749,
+        "logged": 425,
+        "real": 284,
+        "deep": 284,
+        "ratio": 0.6669521519356735,
         "stats": {
-          "contextSwitches": 2,
-          "tabsOpened": 9,
-          "longestFocus": "19m",
-          "justOneMoreThing": 0
+          "contextSwitches": 55,
+          "tabsOpened": 54,
+          "longestFocus": "1h 3m",
+          "justOneMoreThing": 10
         }
       },
       {
@@ -77675,18 +78227,155 @@
         "weekend": false,
         "dateShort": "Tue, Sep 8",
         "dateLong": "Tuesday, September 8",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "09:45",
+        "dayEnd": "10:35",
+        "events": [
+          {
+            "start": "09:45",
+            "end": "09:46",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "09:46",
+            "end": "09:48",
+            "cat": "research",
+            "src": "macos",
+            "title": "AI Digest — September 7, 2026 | Ada's Notes",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "09:48",
+            "end": "09:49",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "09:49",
+            "end": "09:52",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Inbox (2,959) - ada.ren.cn@gmail.com - Gmail",
+            "note": "accounts.google.com"
+          },
+          {
+            "start": "09:52",
+            "end": "09:58",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "09:58",
+            "end": "09:59",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "10:00",
+            "end": "10:04",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "10:04",
+            "end": "10:08",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "10:08",
+            "end": "10:09",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Sign in - Google Accounts",
+            "note": "accounts.google.com"
+          },
+          {
+            "start": "10:10",
+            "end": "10:10",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Overdue invoice for 908/112 Talavera Road, MACQUARIE PARK - ",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "10:10",
+            "end": "10:19",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Overdue invoice for 908/112 Talavera Road, MACQUARIE PARK - ",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "10:19",
+            "end": "10:20",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Sign in - Google Accounts",
+            "note": "api.anthropic.com"
+          },
+          {
+            "start": "10:20",
+            "end": "10:20",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Sign in - Google Accounts",
+            "note": "accounts.google.com"
+          },
+          {
+            "start": "10:20",
+            "end": "10:24",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Claude Code in Slack - Claude Code Docs",
+            "note": "code.claude.com"
+          },
+          {
+            "start": "10:24",
+            "end": "10:28",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Sign in - Google Accounts",
+            "note": "claude.ai"
+          },
+          {
+            "start": "10:28",
+            "end": "10:30",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Sign in - Google Accounts",
+            "note": "socialnlp-lab.slack.com"
+          },
+          {
+            "start": "10:30",
+            "end": "10:35",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "You've Signed Out - Workday Accounts",
+            "note": "wd3-identity.myworkday.com"
+          }
+        ],
+        "logged": 49,
+        "real": 20,
+        "deep": 20,
+        "ratio": 0.4044537232852117,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "0m",
-          "justOneMoreThing": 0
+          "contextSwitches": 9,
+          "tabsOpened": 27,
+          "longestFocus": "10m",
+          "justOneMoreThing": 2
         }
       },
       {
@@ -80132,1125 +80821,1125 @@
       "weekend": false
     },
     {
-      "key": "2026-9-4",
-      "dayNum": 4,
-      "dow": 5,
-      "weekend": false,
-      "dateShort": "Fri, Sep 4",
       "dateLong": "Friday, September 4",
-      "dayStart": "10:01",
+      "dateShort": "Fri, Sep 4",
       "dayEnd": "21:35",
+      "dayNum": 4,
+      "dayStart": "10:01",
+      "deep": 255,
+      "dow": 5,
       "events": [
         {
-          "start": "10:01",
+          "cat": "writing",
           "end": "10:06",
-          "cat": "writing",
+          "note": "5 hits",
           "src": "local",
-          "title": "2026-09-04-introducing-weathernext-3-our-most-advanced-and-a",
-          "note": "5 hits"
+          "start": "10:01",
+          "title": "2026-09-04-introducing-weathernext-3-our-most-advanced-and-a"
         },
         {
-          "start": "10:11",
+          "cat": "writing",
           "end": "10:17",
-          "cat": "writing",
+          "note": "overleaf.com",
           "src": "macos",
-          "title": "PhD COC - Online LaTeX Editor Overleaf",
-          "note": "overleaf.com"
+          "start": "10:11",
+          "title": "PhD COC - Online LaTeX Editor Overleaf"
         },
         {
-          "start": "10:17",
+          "cat": "coding",
           "end": "10:24",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "10:17",
+          "title": "codex"
         },
         {
-          "start": "10:24",
+          "cat": "admin",
           "end": "10:28",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "10:24",
+          "title": "Outlook"
         },
         {
-          "start": "10:29",
+          "cat": "admin",
           "end": "10:37",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "macos",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "10:29",
+          "title": "Google Translate"
         },
         {
-          "start": "10:37",
+          "cat": "coding",
           "end": "10:39",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "10:37",
+          "title": "codex"
         },
         {
-          "start": "10:39",
+          "cat": "admin",
           "end": "10:55",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "macos",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "10:39",
+          "title": "Google Translate"
         },
         {
-          "start": "10:57",
+          "cat": "meeting",
           "end": "11:13",
-          "cat": "meeting",
+          "note": "com.microsoft.teams2",
           "src": "macos",
-          "title": "teams2",
-          "note": "com.microsoft.teams2"
+          "start": "10:57",
+          "title": "teams2"
         },
         {
-          "start": "11:48",
+          "cat": "meeting",
           "end": "11:53",
-          "cat": "meeting",
+          "note": "com.microsoft.teams2",
           "src": "macos",
-          "title": "teams2",
-          "note": "com.microsoft.teams2"
+          "start": "11:48",
+          "title": "teams2"
         },
         {
-          "start": "11:58",
+          "cat": "meeting",
           "end": "11:59",
-          "cat": "meeting",
+          "note": "com.microsoft.teams2",
           "src": "macos",
-          "title": "teams2",
-          "note": "com.microsoft.teams2"
+          "start": "11:58",
+          "title": "teams2"
         },
         {
-          "start": "12:00",
+          "cat": "admin",
           "end": "12:05",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "macos",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "12:00",
+          "title": "Google Translate"
         },
         {
-          "start": "12:05",
+          "cat": "personal",
           "end": "12:08",
-          "cat": "personal",
+          "note": "map.google.com",
           "src": "chrome",
-          "title": "Google Maps",
-          "note": "map.google.com"
+          "start": "12:05",
+          "title": "Google Maps"
         },
         {
-          "start": "12:08",
+          "cat": "admin",
           "end": "12:10",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "Google Maps",
-          "note": "google.com"
+          "start": "12:08",
+          "title": "Google Maps"
         },
         {
-          "start": "12:10",
+          "cat": "personal",
           "end": "12:11",
-          "cat": "personal",
+          "note": "map.google.com",
           "src": "chrome",
-          "title": "Google Maps",
-          "note": "map.google.com"
+          "start": "12:10",
+          "title": "Google Maps"
         },
         {
-          "start": "12:11",
+          "cat": "research",
           "end": "12:17",
-          "cat": "research",
+          "note": "chatgpt.com",
           "src": "macos",
-          "title": "Grammar correction for outing plan",
-          "note": "chatgpt.com"
+          "start": "12:11",
+          "title": "Grammar correction for outing plan"
         },
         {
-          "start": "12:17",
+          "cat": "admin",
           "end": "12:20",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "Chatswood, New South Wales 2067 to Dee Why Beach, New South ",
-          "note": "google.com"
+          "start": "12:17",
+          "title": "Chatswood, New South Wales 2067 to Dee Why Beach, New South "
         },
         {
-          "start": "12:20",
+          "cat": "personal",
           "end": "12:26",
-          "cat": "personal",
+          "note": "map.google.com",
           "src": "chrome",
-          "title": "Google Maps",
-          "note": "map.google.com"
+          "start": "12:20",
+          "title": "Google Maps"
         },
         {
-          "start": "12:26",
+          "cat": "research",
           "end": "12:30",
-          "cat": "research",
+          "note": "chat.openai.com",
           "src": "chrome",
-          "title": "Grammar correction for outing plan",
-          "note": "chat.openai.com"
+          "start": "12:26",
+          "title": "Grammar correction for outing plan"
         },
         {
-          "start": "12:30",
+          "cat": "admin",
           "end": "12:37",
-          "cat": "admin",
+          "note": "google.com",
           "src": "chrome",
-          "title": "Chatswood, New South Wales 2067 to Dee Why Beach, New South ",
-          "note": "google.com"
+          "start": "12:30",
+          "title": "Chatswood, New South Wales 2067 to Dee Why Beach, New South "
         },
         {
-          "start": "13:14",
+          "cat": "admin",
           "end": "13:16",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "Chatswood, New South Wales 2067 to Dee Why Beach, New South ",
-          "note": "google.com"
+          "start": "13:14",
+          "title": "Chatswood, New South Wales 2067 to Dee Why Beach, New South "
         },
         {
-          "start": "13:16",
+          "cat": "writing",
           "end": "13:27",
-          "cat": "writing",
+          "note": "overleaf.com",
           "src": "macos",
-          "title": "PhD COC - Online LaTeX Editor Overleaf",
-          "note": "overleaf.com"
+          "start": "13:16",
+          "title": "PhD COC - Online LaTeX Editor Overleaf"
         },
         {
-          "start": "13:27",
+          "cat": "admin",
           "end": "13:32",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "hermes - Google Search",
-          "note": "google.com"
+          "start": "13:27",
+          "title": "hermes - Google Search"
         },
         {
-          "start": "13:32",
+          "cat": "research",
           "end": "13:34",
-          "cat": "research",
+          "note": "chatgpt.com",
           "src": "macos",
-          "title": "ChatGPT",
-          "note": "chatgpt.com"
+          "start": "13:32",
+          "title": "ChatGPT"
         },
         {
-          "start": "13:34",
+          "cat": "coding",
           "end": "14:03",
-          "cat": "coding",
+          "note": "github.com",
           "src": "macos",
-          "title": "NousResearch/hermes-agent: The agent that grows with you",
-          "note": "github.com"
+          "start": "13:34",
+          "title": "NousResearch/hermes-agent: The agent that grows with you"
         },
         {
-          "start": "14:03",
+          "cat": "personal",
           "end": "14:06",
-          "cat": "personal",
+          "note": "x.com",
           "src": "macos",
-          "title": "通知 / X",
-          "note": "x.com"
+          "start": "14:03",
+          "title": "通知 / X"
         },
         {
-          "start": "14:06",
+          "cat": "research",
           "end": "14:44",
-          "cat": "research",
+          "note": "chatgpt.com",
           "src": "macos",
-          "title": "Polish Agent Harness Description",
-          "note": "chatgpt.com"
+          "start": "14:06",
+          "title": "Polish Agent Harness Description"
         },
         {
-          "start": "14:44",
+          "cat": "admin",
           "end": "14:47",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "14:44",
+          "title": "Outlook"
         },
         {
-          "start": "14:47",
+          "cat": "research",
           "end": "14:49",
-          "cat": "research",
+          "note": "chatgpt.com",
           "src": "macos",
-          "title": "Polish Agent Harness Description",
-          "note": "chatgpt.com"
+          "start": "14:47",
+          "title": "Polish Agent Harness Description"
         },
         {
-          "start": "14:49",
+          "cat": "admin",
           "end": "14:51",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "14:49",
+          "title": "Outlook"
         },
         {
-          "start": "14:51",
+          "cat": "admin",
           "end": "14:53",
-          "cat": "admin",
+          "note": "unsw.edu.au",
           "src": "macos",
-          "title": "Dr Aditya Joshi",
-          "note": "unsw.edu.au"
+          "start": "14:51",
+          "title": "Dr Aditya Joshi"
         },
         {
-          "start": "14:54",
-          "end": "15:04",
           "cat": "personal",
+          "end": "15:04",
+          "note": "youtube.com",
           "src": "macos",
-          "title": "Detecting sarcasm, combating hate | Aditya Joshi | TEDxSomai",
-          "note": "youtube.com"
+          "start": "14:54",
+          "title": "Detecting sarcasm, combating hate | Aditya Joshi | TEDxSomai"
         },
         {
-          "start": "15:04",
+          "cat": "admin",
           "end": "15:07",
-          "cat": "admin",
+          "note": "sport.mq.edu.au",
           "src": "macos",
-          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
-          "note": "sport.mq.edu.au"
+          "start": "15:04",
+          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni"
         },
         {
-          "start": "15:08",
+          "cat": "research",
           "end": "15:11",
-          "cat": "research",
+          "note": "hermes-agent.nousresearch.com",
           "src": "macos",
-          "title": "CLI Commands Reference | Hermes Agent",
-          "note": "hermes-agent.nousresearch.com"
+          "start": "15:08",
+          "title": "CLI Commands Reference | Hermes Agent"
         },
         {
-          "start": "15:11",
+          "cat": "admin",
           "end": "15:14",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "15:11",
+          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn"
         },
         {
-          "start": "15:14",
+          "cat": "writing",
           "end": "15:15",
-          "cat": "writing",
+          "note": "file:///Users/ada/Documents/MQ/Phd/Teach",
           "src": "macos",
-          "title": "week7prac.pdf",
-          "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+          "start": "15:14",
+          "title": "week7prac.pdf"
         },
         {
-          "start": "15:16",
+          "cat": "writing",
           "end": "15:20",
-          "cat": "writing",
+          "note": "file:///Users/ada/Documents/MQ/Phd/Teach",
           "src": "macos",
-          "title": "week7prac.pdf",
-          "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+          "start": "15:16",
+          "title": "week7prac.pdf"
         },
         {
-          "start": "15:20",
+          "cat": "admin",
           "end": "15:37",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "macos",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "15:20",
+          "title": "Google Translate"
         },
         {
-          "start": "15:37",
+          "cat": "coding",
           "end": "15:38",
-          "cat": "coding",
+          "note": "com.todesktop.230313mzl4w4u92",
           "src": "macos",
-          "title": "230313mzl4w4u92",
-          "note": "com.todesktop.230313mzl4w4u92"
+          "start": "15:37",
+          "title": "230313mzl4w4u92"
         },
         {
-          "start": "15:38",
+          "cat": "admin",
           "end": "15:48",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "chrome",
-          "title": "Editing quiz: Practice Final Exam | iLearn",
-          "note": "translate.google.com"
+          "start": "15:38",
+          "title": "Editing quiz: Practice Final Exam | iLearn"
         },
         {
-          "start": "15:49",
+          "cat": "admin",
           "end": "16:19",
-          "cat": "admin",
+          "note": "google.com",
           "src": "chrome",
-          "title": "Preview question: Q10 (Type 2): Precision | iLearn",
-          "note": "google.com"
+          "start": "15:49",
+          "title": "Preview question: Q10 (Type 2): Precision | iLearn"
         },
         {
-          "start": "16:21",
+          "cat": "research",
           "end": "16:37",
-          "cat": "research",
+          "note": "tbench.ai",
           "src": "chrome",
-          "title": "Language Agents: From Next-Token Prediction to Digital Autom",
-          "note": "tbench.ai"
+          "start": "16:21",
+          "title": "Language Agents: From Next-Token Prediction to Digital Autom"
         },
         {
-          "start": "16:37",
+          "cat": "coding",
           "end": "16:46",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "16:37",
+          "title": "codex"
         },
         {
-          "start": "16:46",
+          "cat": "research",
           "end": "16:48",
-          "cat": "research",
+          "note": "tbench.ai",
           "src": "chrome",
-          "title": "Language Agents: From Next-Token Prediction to Digital Autom",
-          "note": "tbench.ai"
+          "start": "16:46",
+          "title": "Language Agents: From Next-Token Prediction to Digital Autom"
         },
         {
-          "start": "16:48",
+          "cat": "coding",
           "end": "16:56",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "16:48",
+          "title": "codex"
         },
         {
-          "start": "16:56",
+          "cat": "admin",
           "end": "17:08",
-          "cat": "admin",
+          "note": "google.com",
           "src": "chrome",
-          "title": "wei shi ya - Google Search",
-          "note": "google.com"
+          "start": "16:56",
+          "title": "wei shi ya - Google Search"
         },
         {
-          "start": "19:58",
+          "cat": "coding",
           "end": "20:18",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "19:58",
+          "title": "codex"
         },
         {
-          "start": "20:18",
-          "end": "20:39",
           "cat": "admin",
+          "end": "20:39",
+          "note": "google.com",
           "src": "macos",
-          "title": "wei shi ya - Google Search",
-          "note": "google.com"
+          "start": "20:18",
+          "title": "wei shi ya - Google Search"
         },
         {
-          "start": "20:39",
+          "cat": "coding",
           "end": "20:44",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "20:39",
+          "title": "codex"
         },
         {
-          "start": "20:45",
+          "cat": "coding",
           "end": "20:47",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "20:45",
+          "title": "codex"
         },
         {
-          "start": "20:47",
-          "end": "20:57",
           "cat": "research",
+          "end": "20:57",
+          "note": "chatgpt.com",
           "src": "macos",
-          "title": "Agent Architecture Overview",
-          "note": "chatgpt.com"
+          "start": "20:47",
+          "title": "Agent Architecture Overview"
         },
         {
-          "start": "20:57",
-          "end": "21:35",
           "cat": "writing",
+          "end": "21:35",
+          "note": "docs.overleaf.com",
           "src": "chrome",
-          "title": "Adding citations and references | Overleaf docs",
-          "note": "docs.overleaf.com"
+          "start": "20:57",
+          "title": "Adding citations and references | Overleaf docs"
         }
       ],
+      "key": "2026-9-4",
       "logged": 432,
-      "real": 255,
-      "deep": 255,
       "ratio": 0.5903422953642525,
+      "real": 255,
       "stats": {
         "contextSwitches": 41,
-        "tabsOpened": 33,
+        "justOneMoreThing": 4,
         "longestFocus": "56m",
-        "justOneMoreThing": 4
-      }
+        "tabsOpened": 33
+      },
+      "weekend": false
     },
     {
-      "key": "2026-9-5",
-      "dayNum": 5,
-      "dow": 6,
-      "weekend": true,
-      "dateShort": "Sat, Sep 5",
       "dateLong": "Saturday, September 5",
-      "dayStart": "09:00",
+      "dateShort": "Sat, Sep 5",
       "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
+      "dayNum": 5,
+      "dayStart": "09:00",
       "deep": 0,
+      "dow": 6,
+      "events": [],
+      "key": "2026-9-5",
+      "logged": 0,
       "ratio": 0,
+      "real": 0,
       "stats": {
         "contextSwitches": 0,
-        "tabsOpened": 0,
+        "justOneMoreThing": 0,
         "longestFocus": "0m",
-        "justOneMoreThing": 0
-      }
+        "tabsOpened": 0
+      },
+      "weekend": true
     },
     {
-      "key": "2026-9-6",
-      "dayNum": 6,
-      "dow": 0,
-      "weekend": true,
-      "dateShort": "Sun, Sep 6",
       "dateLong": "Sunday, September 6",
-      "dayStart": "10:38",
+      "dateShort": "Sun, Sep 6",
       "dayEnd": "01:12",
+      "dayNum": 6,
+      "dayStart": "10:38",
+      "deep": 442,
+      "dow": 0,
       "events": [
         {
-          "start": "10:38",
+          "cat": "coding",
           "end": "10:43",
-          "cat": "coding",
+          "note": "2 hits",
           "src": "local",
-          "title": "data.js",
-          "note": "2 hits"
+          "start": "10:38",
+          "title": "data.js"
         },
         {
-          "start": "11:25",
+          "cat": "writing",
           "end": "11:36",
-          "cat": "writing",
+          "note": "3 hits",
           "src": "local",
-          "title": "2026-09-04-formalizing-fermats-last-theorem.md",
-          "note": "3 hits"
+          "start": "11:25",
+          "title": "2026-09-04-formalizing-fermats-last-theorem.md"
         },
         {
-          "start": "11:36",
+          "cat": "admin",
           "end": "11:40",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "11:36",
+          "title": "Outlook"
         },
         {
-          "start": "11:40",
+          "cat": "admin",
           "end": "11:41",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "chrome",
-          "title": "My home | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "11:40",
+          "title": "My home | iLearn"
         },
         {
-          "start": "11:41",
+          "cat": "coding",
           "end": "11:43",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "COMP2200_ASS2.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "11:41",
+          "title": "COMP2200_ASS2.ipynb - Colab"
         },
         {
-          "start": "11:43",
+          "cat": "admin",
           "end": "11:46",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "chrome",
-          "title": "My home | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "11:43",
+          "title": "My home | iLearn"
         },
         {
-          "start": "11:46",
+          "cat": "coding",
           "end": "11:47",
-          "cat": "coding",
+          "note": "scikit-learn.org",
           "src": "macos",
-          "title": "KMeans — scikit-learn 1.9.0 documentation",
-          "note": "scikit-learn.org"
+          "start": "11:46",
+          "title": "KMeans — scikit-learn 1.9.0 documentation"
         },
         {
-          "start": "11:47",
+          "cat": "admin",
           "end": "11:50",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "chrome",
-          "title": "My home | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "11:47",
+          "title": "My home | iLearn"
         },
         {
-          "start": "11:50",
+          "cat": "coding",
           "end": "11:53",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "COMP2200_ASS2.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "11:50",
+          "title": "COMP2200_ASS2.ipynb - Colab"
         },
         {
-          "start": "11:53",
+          "cat": "admin",
           "end": "12:22",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Preview question: clustering | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "11:53",
+          "title": "Preview question: clustering | iLearn"
         },
         {
-          "start": "12:22",
+          "cat": "admin",
           "end": "12:30",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Preview question: Machine Sensor Clustering with KMeans Pipe",
-          "note": "ilearn.mq.edu.au"
+          "start": "12:22",
+          "title": "Preview question: Machine Sensor Clustering with KMeans Pipe"
         },
         {
-          "start": "12:31",
+          "cat": "coding",
           "end": "12:47",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "COMP2200_ASS2.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "12:31",
+          "title": "COMP2200_ASS2.ipynb - Colab"
         },
         {
-          "start": "12:47",
+          "cat": "coding",
           "end": "12:48",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "COMP2200_ASS2.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "12:47",
+          "title": "COMP2200_ASS2.ipynb - Colab"
         },
         {
-          "start": "12:48",
+          "cat": "coding",
           "end": "13:00",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "COMP2200_ASS2.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "12:48",
+          "title": "COMP2200_ASS2.ipynb - Colab"
         },
         {
-          "start": "13:00",
+          "cat": "coding",
           "end": "13:20",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "COMP2200_ASS2.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "13:00",
+          "title": "COMP2200_ASS2.ipynb - Colab"
         },
         {
-          "start": "13:46",
+          "cat": "coding",
           "end": "13:50",
-          "cat": "coding",
+          "note": "scikit-learn.org",
           "src": "chrome",
-          "title": "StratifiedKFold — scikit-learn 1.9.0 documentation",
-          "note": "scikit-learn.org"
+          "start": "13:46",
+          "title": "StratifiedKFold — scikit-learn 1.9.0 documentation"
         },
         {
-          "start": "13:55",
+          "cat": "coding",
           "end": "14:10",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "chrome",
-          "title": "cross_validate — scikit-learn 1.9.0 documentation",
-          "note": "colab.research.google.com"
+          "start": "13:55",
+          "title": "cross_validate — scikit-learn 1.9.0 documentation"
         },
         {
-          "start": "14:11",
+          "cat": "admin",
           "end": "14:14",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "chrome",
-          "title": "Preview question: Lr2 | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "14:11",
+          "title": "Preview question: Lr2 | iLearn"
         },
         {
-          "start": "14:14",
+          "cat": "coding",
           "end": "14:16",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "14:14",
+          "title": "codex"
         },
         {
-          "start": "14:16",
+          "cat": "admin",
           "end": "14:18",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "chrome",
-          "title": "Preview question: Lr2 | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "14:16",
+          "title": "Preview question: Lr2 | iLearn"
         },
         {
-          "start": "14:18",
+          "cat": "coding",
           "end": "14:26",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "COMP2200_ASS2.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "14:18",
+          "title": "COMP2200_ASS2.ipynb - Colab"
         },
         {
-          "start": "14:26",
+          "cat": "admin",
           "end": "14:38",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "chrome",
-          "title": "Preview question: Binary Bag of Words encoding | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "14:26",
+          "title": "Preview question: Binary Bag of Words encoding | iLearn"
         },
         {
-          "start": "14:39",
+          "cat": "coding",
           "end": "14:44",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "COMP2200_ASS2.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "14:39",
+          "title": "COMP2200_ASS2.ipynb - Colab"
         },
         {
-          "start": "14:44",
+          "cat": "coding",
           "end": "14:52",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "COMP2200_ASS2.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "14:44",
+          "title": "COMP2200_ASS2.ipynb - Colab"
         },
         {
-          "start": "14:52",
+          "cat": "coding",
           "end": "15:05",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "COMP2200_ASS2.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "14:52",
+          "title": "COMP2200_ASS2.ipynb - Colab"
         },
         {
-          "start": "15:05",
+          "cat": "coding",
           "end": "15:22",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "COMP2200_ASS2.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "15:05",
+          "title": "COMP2200_ASS2.ipynb - Colab"
         },
         {
-          "start": "15:22",
+          "cat": "coding",
           "end": "15:27",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "COMP2200_ASS2.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "15:22",
+          "title": "COMP2200_ASS2.ipynb - Colab"
         },
         {
-          "start": "15:27",
+          "cat": "admin",
           "end": "15:31",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "chrome",
-          "title": "Preview question: BOW - Encode | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "15:27",
+          "title": "Preview question: BOW - Encode | iLearn"
         },
         {
-          "start": "15:36",
+          "cat": "coding",
           "end": "15:37",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "COMP2200_ASS2.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "15:36",
+          "title": "COMP2200_ASS2.ipynb - Colab"
         },
         {
-          "start": "15:38",
+          "cat": "coding",
           "end": "15:44",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "COMP2200_ASS2.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "15:38",
+          "title": "COMP2200_ASS2.ipynb - Colab"
         },
         {
-          "start": "15:44",
+          "cat": "admin",
           "end": "15:48",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "chrome",
-          "title": "Preview question: IDF for Multiple Terms | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "15:44",
+          "title": "Preview question: IDF for Multiple Terms | iLearn"
         },
         {
-          "start": "15:48",
+          "cat": "coding",
           "end": "15:52",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "COMP2200_ASS2.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "15:48",
+          "title": "COMP2200_ASS2.ipynb - Colab"
         },
         {
-          "start": "15:52",
+          "cat": "admin",
           "end": "15:55",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Preview question: IDF Log Base 10 with smoothing | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "15:52",
+          "title": "Preview question: IDF Log Base 10 with smoothing | iLearn"
         },
         {
-          "start": "16:03",
+          "cat": "admin",
           "end": "16:04",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "chrome",
-          "title": "Preview question: IDF Calculation - Term in All Documents | ",
-          "note": "ilearn.mq.edu.au"
+          "start": "16:03",
+          "title": "Preview question: IDF Calculation - Term in All Documents | "
         },
         {
-          "start": "16:04",
+          "cat": "admin",
           "end": "16:05",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "16:04",
+          "title": "Outlook"
         },
         {
-          "start": "16:06",
+          "cat": "writing",
           "end": "16:14",
-          "cat": "writing",
+          "note": "overleaf.com",
           "src": "macos",
-          "title": "PhD COC - Online LaTeX Editor Overleaf",
-          "note": "overleaf.com"
+          "start": "16:06",
+          "title": "PhD COC - Online LaTeX Editor Overleaf"
         },
         {
-          "start": "16:14",
+          "cat": "research",
           "end": "16:39",
-          "cat": "research",
+          "note": "chat.openai.com",
           "src": "chrome",
-          "title": "Agent Architecture Overview",
-          "note": "chat.openai.com"
+          "start": "16:14",
+          "title": "Agent Architecture Overview"
         },
         {
-          "start": "16:39",
+          "cat": "writing",
           "end": "16:59",
-          "cat": "writing",
+          "note": "overleaf.com",
           "src": "macos",
-          "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf",
-          "note": "overleaf.com"
+          "start": "16:39",
+          "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf"
         },
         {
-          "start": "17:13",
+          "cat": "writing",
           "end": "17:25",
-          "cat": "writing",
+          "note": "file:///Users/ada/Documents/MQ/Phd/Teach",
           "src": "macos",
-          "title": "COMP2200/COMP6200 — Week 7 Scaling and Clustering",
-          "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+          "start": "17:13",
+          "title": "COMP2200/COMP6200 — Week 7 Scaling and Clustering"
         },
         {
-          "start": "17:27",
+          "cat": "admin",
           "end": "17:33",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "standard scaler vs min max scaler vs robustscaler - Google S",
-          "note": "google.com"
+          "start": "17:27",
+          "title": "standard scaler vs min max scaler vs robustscaler - Google S"
         },
         {
-          "start": "17:33",
+          "cat": "coding",
           "end": "17:40",
-          "cat": "coding",
+          "note": "clustering-visualizer.web.app",
           "src": "chrome",
-          "title": "Hierarchical Clustering | Clustering Visualizer",
-          "note": "clustering-visualizer.web.app"
+          "start": "17:33",
+          "title": "Hierarchical Clustering | Clustering Visualizer"
         },
         {
-          "start": "17:40",
+          "cat": "admin",
           "end": "17:41",
-          "cat": "admin",
+          "note": "linkedin.com",
           "src": "macos",
-          "title": "Grow | LinkedIn",
-          "note": "linkedin.com"
+          "start": "17:40",
+          "title": "Grow | LinkedIn"
         },
         {
-          "start": "17:41",
+          "cat": "coding",
           "end": "17:43",
-          "cat": "coding",
+          "note": "clustering-visualizer.web.app",
           "src": "chrome",
-          "title": "Hierarchical Clustering | Clustering Visualizer",
-          "note": "clustering-visualizer.web.app"
+          "start": "17:41",
+          "title": "Hierarchical Clustering | Clustering Visualizer"
         },
         {
-          "start": "17:43",
+          "cat": "writing",
           "end": "17:47",
-          "cat": "writing",
+          "note": "file:///Users/ada/Documents/MQ/Phd/Teach",
           "src": "macos",
-          "title": "COMP2200/COMP6200 — Week 7 Scaling and Clustering",
-          "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+          "start": "17:43",
+          "title": "COMP2200/COMP6200 — Week 7 Scaling and Clustering"
         },
         {
-          "start": "17:48",
+          "cat": "coding",
           "end": "17:51",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "17:48",
+          "title": "codex"
         },
         {
-          "start": "17:51",
+          "cat": "writing",
           "end": "18:03",
-          "cat": "writing",
+          "note": "file:///Users/ada/Documents/MQ/Phd/Teach",
           "src": "macos",
-          "title": "COMP2200/COMP6200 — Week 7 Scaling and Clustering",
-          "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+          "start": "17:51",
+          "title": "COMP2200/COMP6200 — Week 7 Scaling and Clustering"
         },
         {
-          "start": "18:05",
+          "cat": "writing",
           "end": "18:08",
-          "cat": "writing",
+          "note": "file:///Users/ada/Documents/MQ/Phd/Teach",
           "src": "macos",
-          "title": "COMP2200/COMP6200 — Week 7 Scaling and Clustering",
-          "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+          "start": "18:05",
+          "title": "COMP2200/COMP6200 — Week 7 Scaling and Clustering"
         },
         {
-          "start": "18:15",
+          "cat": "writing",
           "end": "18:16",
-          "cat": "writing",
+          "note": "file:///Users/ada/Documents/MQ/Phd/Teach",
           "src": "macos",
-          "title": "COMP2200/COMP6200 — Week 7 Scaling and Clustering",
-          "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+          "start": "18:15",
+          "title": "COMP2200/COMP6200 — Week 7 Scaling and Clustering"
         },
         {
-          "start": "18:22",
+          "cat": "writing",
           "end": "18:26",
-          "cat": "writing",
+          "note": "file:///Users/ada/Documents/MQ/Phd/Teach",
           "src": "macos",
-          "title": "COMP2200/COMP6200 — Week 7 Scaling and Clustering",
-          "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+          "start": "18:22",
+          "title": "COMP2200/COMP6200 — Week 7 Scaling and Clustering"
         },
         {
-          "start": "18:26",
+          "cat": "admin",
           "end": "18:50",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "korea gdp growth - Google Search",
-          "note": "google.com"
+          "start": "18:26",
+          "title": "korea gdp growth - Google Search"
         },
         {
-          "start": "18:51",
+          "cat": "research",
           "end": "18:54",
-          "cat": "research",
+          "note": "machinelearninggeek.com",
           "src": "chrome",
-          "title": "DBSCAN clustering algorithm in Python (with example dataset)",
-          "note": "machinelearninggeek.com"
+          "start": "18:51",
+          "title": "DBSCAN clustering algorithm in Python (with example dataset)"
         },
         {
-          "start": "18:55",
+          "cat": "admin",
           "end": "19:08",
-          "cat": "admin",
+          "note": "google.com",
           "src": "chrome",
-          "title": "Dbscan - Google Search",
-          "note": "google.com"
+          "start": "18:55",
+          "title": "Dbscan - Google Search"
         },
         {
-          "start": "19:09",
+          "cat": "research",
           "end": "19:28",
-          "cat": "research",
+          "note": "machinelearninggeek.com",
           "src": "macos",
-          "title": "DBSCAN Clustering – Machine Learning Geek",
-          "note": "machinelearninggeek.com"
+          "start": "19:09",
+          "title": "DBSCAN Clustering – Machine Learning Geek"
         },
         {
-          "start": "19:29",
+          "cat": "research",
           "end": "19:32",
-          "cat": "research",
+          "note": "machinelearninggeek.com",
           "src": "macos",
-          "title": "DBSCAN Clustering – Machine Learning Geek",
-          "note": "machinelearninggeek.com"
+          "start": "19:29",
+          "title": "DBSCAN Clustering – Machine Learning Geek"
         },
         {
-          "start": "19:38",
+          "cat": "research",
           "end": "19:41",
-          "cat": "research",
+          "note": "machinelearninggeek.com",
           "src": "macos",
-          "title": "DBSCAN Clustering – Machine Learning Geek",
-          "note": "machinelearninggeek.com"
+          "start": "19:38",
+          "title": "DBSCAN Clustering – Machine Learning Geek"
         },
         {
+          "cat": "coding",
+          "end": "19:43",
+          "note": "colab.research.google.com",
+          "src": "macos",
           "start": "19:42",
-          "end": "19:43",
-          "cat": "coding",
-          "src": "macos",
-          "title": "Untitled24.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "title": "Untitled24.ipynb - Colab"
         },
         {
+          "cat": "coding",
+          "end": "19:43",
+          "note": "colab.google",
+          "src": "chrome",
           "start": "19:43",
-          "end": "19:43",
-          "cat": "coding",
-          "src": "chrome",
-          "title": "Colab  |  Google for Developers",
-          "note": "colab.google"
+          "title": "Colab  |  Google for Developers"
         },
         {
-          "start": "19:44",
+          "cat": "coding",
           "end": "20:02",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "Week7_Prac.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "19:44",
+          "title": "Week7_Prac.ipynb - Colab"
         },
         {
-          "start": "20:03",
+          "cat": "coding",
           "end": "20:53",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "Week7_Prac.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "20:03",
+          "title": "Week7_Prac.ipynb - Colab"
         },
         {
-          "start": "23:30",
-          "end": "23:32",
           "cat": "meeting",
+          "end": "23:32",
+          "note": "com.microsoft.teams2",
           "src": "macos",
-          "title": "teams2",
-          "note": "com.microsoft.teams2"
+          "start": "23:30",
+          "title": "teams2"
         },
         {
-          "start": "23:32",
+          "cat": "admin",
           "end": "23:35",
-          "cat": "admin",
+          "note": "mqoutlook-my.sharepoint.com",
           "src": "macos",
-          "title": "Ideas2.pptx",
-          "note": "mqoutlook-my.sharepoint.com"
+          "start": "23:32",
+          "title": "Ideas2.pptx"
         },
         {
-          "start": "23:37",
+          "cat": "research",
           "end": "23:38",
-          "cat": "research",
+          "note": "deepmind.google",
           "src": "chrome",
-          "title": "WeatherNext 3: Our most advanced global weather AI model",
-          "note": "deepmind.google"
+          "start": "23:37",
+          "title": "WeatherNext 3: Our most advanced global weather AI model"
         },
         {
-          "start": "23:38",
+          "cat": "coding",
           "end": "23:40",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "23:38",
+          "title": "VSCode"
         },
         {
-          "start": "23:40",
+          "cat": "research",
           "end": "23:42",
-          "cat": "research",
+          "note": "blog.google",
           "src": "macos",
-          "title": "WeatherNext 3: Our most advanced global weather AI model",
-          "note": "blog.google"
+          "start": "23:40",
+          "title": "WeatherNext 3: Our most advanced global weather AI model"
         },
         {
-          "start": "23:42",
+          "cat": "coding",
           "end": "23:43",
-          "cat": "coding",
+          "note": "flaticon.com",
           "src": "macos",
-          "title": "Search results for Json - Flaticon",
-          "note": "flaticon.com"
+          "start": "23:42",
+          "title": "Search results for Json - Flaticon"
         },
         {
-          "start": "23:43",
+          "cat": "coding",
           "end": "23:44",
-          "cat": "coding",
+          "note": "flaticon.com",
           "src": "macos",
-          "title": "Search results for Json - Flaticon",
-          "note": "flaticon.com"
+          "start": "23:43",
+          "title": "Search results for Json - Flaticon"
         },
         {
-          "start": "23:44",
+          "cat": "writing",
           "end": "23:46",
-          "cat": "writing",
+          "note": "md.obsidian",
           "src": "macos",
-          "title": "obsidian",
-          "note": "md.obsidian"
+          "start": "23:44",
+          "title": "obsidian"
         },
         {
-          "start": "23:46",
+          "cat": "coding",
           "end": "23:49",
-          "cat": "coding",
+          "note": "flaticon.com",
           "src": "macos",
-          "title": "Search results for Model - Flaticon",
-          "note": "flaticon.com"
+          "start": "23:46",
+          "title": "Search results for Model - Flaticon"
         },
         {
-          "start": "23:49",
-          "end": "23:57",
           "cat": "research",
+          "end": "23:57",
+          "note": "deepmind.google",
           "src": "chrome",
-          "title": "WeatherNext 3: Our most advanced global weather AI model",
-          "note": "deepmind.google"
+          "start": "23:49",
+          "title": "WeatherNext 3: Our most advanced global weather AI model"
         },
         {
-          "start": "23:57",
+          "cat": "coding",
           "end": "00:03",
-          "cat": "coding",
+          "note": "flaticon.com",
           "src": "macos",
-          "title": "Neural network - Free networking icons",
-          "note": "flaticon.com"
+          "start": "23:57",
+          "title": "Neural network - Free networking icons"
         },
         {
-          "start": "00:04",
+          "cat": "admin",
           "end": "00:06",
-          "cat": "admin",
+          "note": "com.microsoft.Excel",
           "src": "macos",
-          "title": "Excel",
-          "note": "com.microsoft.Excel"
+          "start": "00:04",
+          "title": "Excel"
         },
         {
-          "start": "00:06",
+          "cat": "coding",
           "end": "00:07",
-          "cat": "coding",
+          "note": "flaticon.com",
           "src": "chrome",
-          "title": "Neural network - Free networking icons",
-          "note": "flaticon.com"
+          "start": "00:06",
+          "title": "Neural network - Free networking icons"
         },
         {
-          "start": "00:07",
+          "cat": "admin",
           "end": "00:14",
-          "cat": "admin",
+          "note": "com.microsoft.Excel",
           "src": "macos",
-          "title": "Excel",
-          "note": "com.microsoft.Excel"
+          "start": "00:07",
+          "title": "Excel"
         },
         {
-          "start": "00:14",
+          "cat": "writing",
           "end": "00:16",
-          "cat": "writing",
+          "note": "tablesgenerator.com",
           "src": "macos",
-          "title": "Create LaTeX tables online – TablesGenerator.com",
-          "note": "tablesgenerator.com"
+          "start": "00:14",
+          "title": "Create LaTeX tables online – TablesGenerator.com"
         },
         {
-          "start": "00:16",
+          "cat": "writing",
           "end": "00:19",
-          "cat": "writing",
+          "note": "overleaf.com",
           "src": "macos",
-          "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea",
-          "note": "overleaf.com"
+          "start": "00:16",
+          "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea"
         },
         {
-          "start": "00:19",
+          "cat": "coding",
           "end": "00:20",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "00:19",
+          "title": "codex"
         },
         {
-          "start": "00:20",
-          "end": "00:21",
           "cat": "writing",
+          "end": "00:21",
+          "note": "overleaf.com",
           "src": "macos",
-          "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea",
-          "note": "overleaf.com"
+          "start": "00:20",
+          "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea"
         },
         {
-          "start": "00:21",
+          "cat": "coding",
           "end": "00:29",
-          "cat": "coding",
+          "note": "tableconvert.com",
           "src": "macos",
-          "title": "Excel to LaTeX Table Converter Online - Free Tool",
-          "note": "tableconvert.com"
+          "start": "00:21",
+          "title": "Excel to LaTeX Table Converter Online - Free Tool"
         },
         {
-          "start": "00:29",
-          "end": "00:32",
           "cat": "admin",
+          "end": "00:32",
+          "note": "com.microsoft.Excel",
           "src": "macos",
-          "title": "Excel",
-          "note": "com.microsoft.Excel"
+          "start": "00:29",
+          "title": "Excel"
         },
         {
-          "start": "00:32",
+          "cat": "coding",
           "end": "00:41",
-          "cat": "coding",
+          "note": "tableconvert.com",
           "src": "macos",
-          "title": "Excel to LaTeX Table Converter Online - Free Tool",
-          "note": "tableconvert.com"
+          "start": "00:32",
+          "title": "Excel to LaTeX Table Converter Online - Free Tool"
         },
         {
-          "start": "00:43",
-          "end": "01:12",
           "cat": "coding",
+          "end": "01:12",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "00:43",
+          "title": "VSCode"
         }
       ],
+      "key": "2026-9-6",
       "logged": 578,
-      "real": 442,
-      "deep": 442,
       "ratio": 0.7644142205495901,
+      "real": 442,
       "stats": {
         "contextSwitches": 54,
-        "tabsOpened": 60,
+        "justOneMoreThing": 12,
         "longestFocus": "1h 39m",
-        "justOneMoreThing": 12
-      }
+        "tabsOpened": 60
+      },
+      "weekend": true
     },
     {
       "key": "2026-9-7",
@@ -81260,10 +81949,26 @@
       "dateShort": "Mon, Sep 7",
       "dateLong": "Monday, September 7",
       "dayStart": "09:57",
-      "dayEnd": "10:37",
+      "dayEnd": "19:13",
       "events": [
         {
           "start": "09:57",
+          "end": "09:58",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Where to Draw the Boundary for Hosted Agents",
+          "note": "xwang.dev"
+        },
+        {
+          "start": "09:58",
+          "end": "09:59",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "teams2",
+          "note": "com.microsoft.teams2"
+        },
+        {
+          "start": "09:59",
           "end": "10:02",
           "cat": "coding",
           "src": "chrome",
@@ -81272,6 +81977,30 @@
         },
         {
           "start": "10:02",
+          "end": "10:04",
+          "cat": "research",
+          "src": "chrome",
+          "title": "How Do AI Agents Do Human Work? Comparing AI and Human Workf",
+          "note": "scholar.google.com"
+        },
+        {
+          "start": "10:04",
+          "end": "10:12",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "teams2",
+          "note": "com.microsoft.teams2"
+        },
+        {
+          "start": "10:12",
+          "end": "10:16",
+          "cat": "writing",
+          "src": "macos",
+          "title": "obsidian",
+          "note": "md.obsidian"
+        },
+        {
+          "start": "10:16",
           "end": "10:16",
           "cat": "research",
           "src": "chrome",
@@ -81279,23 +82008,535 @@
           "note": "scholar.google.com"
         },
         {
-          "start": "10:16",
-          "end": "10:37",
+          "start": "10:17",
+          "end": "10:20",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Announcements | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "10:20",
+          "end": "10:31",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "teams2",
+          "note": "com.microsoft.teams2"
+        },
+        {
+          "start": "10:31",
+          "end": "10:33",
           "cat": "admin",
           "src": "chrome",
           "title": "Announcements | iLearn",
           "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "10:33",
+          "end": "10:37",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "teams2",
+          "note": "com.microsoft.teams2"
+        },
+        {
+          "start": "10:37",
+          "end": "10:44",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "teams2",
+          "note": "com.microsoft.teams2"
+        },
+        {
+          "start": "10:44",
+          "end": "10:46",
+          "cat": "writing",
+          "src": "macos",
+          "title": "week7prac.pdf",
+          "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+        },
+        {
+          "start": "10:48",
+          "end": "10:50",
+          "cat": "writing",
+          "src": "macos",
+          "title": "week7prac.pdf",
+          "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+        },
+        {
+          "start": "10:50",
+          "end": "10:52",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "teams2",
+          "note": "com.microsoft.teams2"
+        },
+        {
+          "start": "11:00",
+          "end": "11:15",
+          "cat": "writing",
+          "src": "macos",
+          "title": "week7prac.pdf",
+          "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+        },
+        {
+          "start": "11:19",
+          "end": "11:28",
+          "cat": "writing",
+          "src": "macos",
+          "title": "week7prac.pdf",
+          "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+        },
+        {
+          "start": "11:29",
+          "end": "12:06",
+          "cat": "admin",
+          "src": "macos",
+          "title": "COMP2200/COMP6200 MQ Slides Template",
+          "note": "content.ilearn.mq.edu.au"
+        },
+        {
+          "start": "12:06",
+          "end": "12:26",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "12:26",
+          "end": "12:41",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Excalidraw Whiteboard",
+          "note": "excalidraw.com"
+        },
+        {
+          "start": "12:41",
+          "end": "12:43",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "COMP2200/COMP6200 MQ Slides Template",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "12:43",
+          "end": "12:59",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Hierarchical Clustering | Clustering Visualizer",
+          "note": "clustering-visualizer.web.app"
+        },
+        {
+          "start": "12:59",
+          "end": "13:01",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "COMP2200/COMP6200 MQ Slides Template",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "13:01",
+          "end": "13:03",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Hierarchical Clustering | Clustering Visualizer",
+          "note": "clustering-visualizer.web.app"
+        },
+        {
+          "start": "13:23",
+          "end": "13:32",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Hierarchical Clustering | Clustering Visualizer",
+          "note": "clustering-visualizer.web.app"
+        },
+        {
+          "start": "13:32",
+          "end": "13:35",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "Join from Zoom Workplace app - Zoom",
+          "note": "macquarie.zoom.us"
+        },
+        {
+          "start": "13:35",
+          "end": "13:37",
+          "cat": "writing",
+          "src": "macos",
+          "title": "obsidian",
+          "note": "md.obsidian"
+        },
+        {
+          "start": "13:37",
+          "end": "13:42",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "xos",
+          "note": "us.zoom.xos"
+        },
+        {
+          "start": "13:42",
+          "end": "13:47",
+          "cat": "writing",
+          "src": "macos",
+          "title": "obsidian",
+          "note": "md.obsidian"
+        },
+        {
+          "start": "13:47",
+          "end": "13:52",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "Join from Zoom Workplace app - Zoom",
+          "note": "macquarie.zoom.us"
+        },
+        {
+          "start": "13:52",
+          "end": "13:56",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "Join from Zoom Workplace app - Zoom",
+          "note": "macquarie.zoom.us"
+        },
+        {
+          "start": "13:56",
+          "end": "14:01",
+          "cat": "coding",
+          "src": "macos",
+          "title": "harbor-framework/harbor: Framework for evaluating and improv",
+          "note": "github.com"
+        },
+        {
+          "start": "14:01",
+          "end": "14:04",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "xos",
+          "note": "us.zoom.xos"
+        },
+        {
+          "start": "14:04",
+          "end": "14:11",
+          "cat": "coding",
+          "src": "macos",
+          "title": "harbor-framework/harbor: Framework for evaluating and improv",
+          "note": "github.com"
+        },
+        {
+          "start": "14:11",
+          "end": "14:15",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "xos",
+          "note": "us.zoom.xos"
+        },
+        {
+          "start": "14:15",
+          "end": "14:26",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "xos",
+          "note": "us.zoom.xos"
+        },
+        {
+          "start": "14:26",
+          "end": "14:36",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "14:36",
+          "end": "14:39",
+          "cat": "research",
+          "src": "macos",
+          "title": "Detecting Multi-Agent Collusion Through Multi-Agent Interpre",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "14:39",
+          "end": "14:40",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "orchestration agentic ai - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "14:40",
+          "end": "14:49",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "xos",
+          "note": "us.zoom.xos"
+        },
+        {
+          "start": "14:49",
+          "end": "14:59",
+          "cat": "admin",
+          "src": "macos",
+          "title": "orchestration agentic ai - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "15:43",
+          "end": "15:44",
+          "cat": "admin",
+          "src": "macos",
+          "title": "orchestration agentic ai - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "15:45",
+          "end": "15:47",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Comparing DBSCAN, k-means, and Hierarchical Clustering: When",
+          "note": "hex.tech"
+        },
+        {
+          "start": "15:47",
+          "end": "15:49",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Comparing different clustering algorithms on toy datasets — ",
+          "note": "scikit-learn.org"
+        },
+        {
+          "start": "15:49",
+          "end": "15:52",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "15:52",
+          "end": "15:54",
+          "cat": "research",
+          "src": "macos",
+          "title": "2026.acl-long.1582.pdf",
+          "note": "aclanthology.org"
+        },
+        {
+          "start": "15:54",
+          "end": "15:58",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Hierarchical Clustering | Clustering Visualizer",
+          "note": "clustering-visualizer.web.app"
+        },
+        {
+          "start": "15:58",
+          "end": "16:12",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "16:12",
+          "end": "16:15",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Hierarchical Clustering | Clustering Visualizer",
+          "note": "clustering-visualizer.web.app"
+        },
+        {
+          "start": "16:15",
+          "end": "16:16",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "COMP2200/COMP6200 MQ Slides Template",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "16:16",
+          "end": "16:20",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "16:20",
+          "end": "16:21",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "COMP2200/COMP6200 MQ Slides Template",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "16:21",
+          "end": "16:31",
+          "cat": "research",
+          "src": "macos",
+          "title": "DBSCAN: Density-Based Clustering. In-depth explanation of th",
+          "note": "ai.plainenglish.io"
+        },
+        {
+          "start": "16:31",
+          "end": "16:32",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "16:32",
+          "end": "16:34",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "16:34",
+          "end": "16:36",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "16:36",
+          "end": "16:38",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(3) Hierarchical Cluster Analysis [Simply explained] - YouTu",
+          "note": "youtube.com"
+        },
+        {
+          "start": "16:38",
+          "end": "16:40",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(3) YouTube",
+          "note": "youtube.com"
+        },
+        {
+          "start": "16:40",
+          "end": "16:41",
+          "cat": "research",
+          "src": "chrome",
+          "title": "DBSCAN: Density-Based Clustering. In-depth explanation of th",
+          "note": "ai.plainenglish.io"
+        },
+        {
+          "start": "16:41",
+          "end": "16:43",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(3) Hierarchical Cluster Analysis [Simply explained] - YouTu",
+          "note": "youtube.com"
+        },
+        {
+          "start": "16:43",
+          "end": "16:45",
+          "cat": "research",
+          "src": "chrome",
+          "title": "ChatGPT",
+          "note": "chat.openai.com"
+        },
+        {
+          "start": "16:45",
+          "end": "16:48",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "16:48",
+          "end": "16:50",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Week7_Prac.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "16:50",
+          "end": "16:52",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(3) Hierarchical Cluster Analysis [Simply explained] - YouTu",
+          "note": "youtube.com"
+        },
+        {
+          "start": "16:52",
+          "end": "16:55",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Macquarie University - Sign In",
+          "note": "mq.okta.com"
+        },
+        {
+          "start": "16:55",
+          "end": "17:02",
+          "cat": "research",
+          "src": "chrome",
+          "title": "ChatGPT",
+          "note": "chat.openai.com"
+        },
+        {
+          "start": "17:03",
+          "end": "17:16",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "17:33",
+          "end": "17:36",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "17:36",
+          "end": "17:37",
+          "cat": "research",
+          "src": "macos",
+          "title": "Preview",
+          "note": "com.apple.Preview"
+        },
+        {
+          "start": "18:04",
+          "end": "18:07",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "18:07",
+          "end": "18:53",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Week7_Prac.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "18:53",
+          "end": "19:13",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
+          "note": "ilearn.mq.edu.au"
         }
       ],
-      "logged": 39,
-      "real": 19,
-      "deep": 19,
-      "ratio": 0.4851821819255749,
+      "logged": 425,
+      "real": 284,
+      "deep": 284,
+      "ratio": 0.6669521519356735,
       "stats": {
-        "contextSwitches": 2,
-        "tabsOpened": 9,
-        "longestFocus": "19m",
-        "justOneMoreThing": 0
+        "contextSwitches": 55,
+        "tabsOpened": 54,
+        "longestFocus": "1h 3m",
+        "justOneMoreThing": 10
       }
     },
     {
@@ -81305,18 +82546,155 @@
       "weekend": false,
       "dateShort": "Tue, Sep 8",
       "dateLong": "Tuesday, September 8",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "09:45",
+      "dayEnd": "10:35",
+      "events": [
+        {
+          "start": "09:45",
+          "end": "09:46",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "09:46",
+          "end": "09:48",
+          "cat": "research",
+          "src": "macos",
+          "title": "AI Digest — September 7, 2026 | Ada's Notes",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "09:48",
+          "end": "09:49",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "09:49",
+          "end": "09:52",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Inbox (2,959) - ada.ren.cn@gmail.com - Gmail",
+          "note": "accounts.google.com"
+        },
+        {
+          "start": "09:52",
+          "end": "09:58",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "09:58",
+          "end": "09:59",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "10:00",
+          "end": "10:04",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "10:04",
+          "end": "10:08",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "10:08",
+          "end": "10:09",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Sign in - Google Accounts",
+          "note": "accounts.google.com"
+        },
+        {
+          "start": "10:10",
+          "end": "10:10",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Overdue invoice for 908/112 Talavera Road, MACQUARIE PARK - ",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "10:10",
+          "end": "10:19",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Overdue invoice for 908/112 Talavera Road, MACQUARIE PARK - ",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "10:19",
+          "end": "10:20",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Sign in - Google Accounts",
+          "note": "api.anthropic.com"
+        },
+        {
+          "start": "10:20",
+          "end": "10:20",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Sign in - Google Accounts",
+          "note": "accounts.google.com"
+        },
+        {
+          "start": "10:20",
+          "end": "10:24",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Claude Code in Slack - Claude Code Docs",
+          "note": "code.claude.com"
+        },
+        {
+          "start": "10:24",
+          "end": "10:28",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Sign in - Google Accounts",
+          "note": "claude.ai"
+        },
+        {
+          "start": "10:28",
+          "end": "10:30",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Sign in - Google Accounts",
+          "note": "socialnlp-lab.slack.com"
+        },
+        {
+          "start": "10:30",
+          "end": "10:35",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "You've Signed Out - Workday Accounts",
+          "note": "wd3-identity.myworkday.com"
+        }
+      ],
+      "logged": 49,
+      "real": 20,
+      "deep": 20,
+      "ratio": 0.4044537232852117,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "0m",
-        "justOneMoreThing": 0
+        "contextSwitches": 9,
+        "tabsOpened": 27,
+        "longestFocus": "10m",
+        "justOneMoreThing": 2
       }
     },
     {
