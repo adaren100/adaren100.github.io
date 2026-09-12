@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-09-11T10:21:45+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-09-12T10:20:38+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -79633,402 +79633,402 @@
         "weekend": false
       },
       {
-        "key": "2026-9-10",
-        "dayNum": 10,
-        "dow": 4,
-        "weekend": false,
-        "dateShort": "Thu, Sep 10",
         "dateLong": "Thursday, September 10",
-        "dayStart": "10:11",
+        "dateShort": "Thu, Sep 10",
         "dayEnd": "16:37",
+        "dayNum": 10,
+        "dayStart": "10:11",
+        "deep": 231,
+        "dow": 4,
         "events": [
           {
-            "start": "10:11",
+            "cat": "coding",
             "end": "10:12",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "10:11",
+            "title": "codex"
           },
           {
+            "cat": "research",
+            "end": "10:15",
+            "note": "org.zotero.zotero",
+            "src": "macos",
             "start": "10:12",
-            "end": "10:15",
-            "cat": "research",
-            "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "title": "zotero"
           },
           {
-            "start": "10:15",
-            "end": "10:15",
             "cat": "admin",
+            "end": "10:15",
+            "note": "researchers.mq.edu.au",
             "src": "macos",
-            "title": "Matthew Roberts - Macquarie University",
-            "note": "researchers.mq.edu.au"
+            "start": "10:15",
+            "title": "Matthew Roberts - Macquarie University"
           },
           {
-            "start": "10:15",
+            "cat": "admin",
             "end": "10:16",
-            "cat": "admin",
+            "note": "researchers.mq.edu.au",
             "src": "chrome",
-            "title": "Matthew Roberts - Macquarie University",
-            "note": "researchers.mq.edu.au"
+            "start": "10:15",
+            "title": "Matthew Roberts - Macquarie University"
           },
           {
-            "start": "10:16",
+            "cat": "research",
             "end": "10:17",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "10:16",
+            "title": "zotero"
           },
           {
-            "start": "10:17",
+            "cat": "writing",
             "end": "10:19",
-            "cat": "writing",
+            "note": "md.obsidian",
             "src": "macos",
-            "title": "obsidian",
-            "note": "md.obsidian"
+            "start": "10:17",
+            "title": "obsidian"
           },
           {
-            "start": "10:20",
+            "cat": "research",
             "end": "10:23",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "10:20",
+            "title": "zotero"
           },
           {
-            "start": "10:23",
+            "cat": "coding",
             "end": "10:25",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "10:23",
+            "title": "codex"
           },
           {
-            "start": "10:25",
+            "cat": "research",
             "end": "10:30",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "10:25",
+            "title": "zotero"
           },
           {
-            "start": "10:30",
+            "cat": "writing",
             "end": "10:31",
-            "cat": "writing",
+            "note": "md.obsidian",
             "src": "macos",
-            "title": "obsidian",
-            "note": "md.obsidian"
+            "start": "10:30",
+            "title": "obsidian"
           },
           {
-            "start": "10:32",
+            "cat": "writing",
             "end": "10:36",
-            "cat": "writing",
+            "note": "md.obsidian",
             "src": "macos",
-            "title": "obsidian",
-            "note": "md.obsidian"
+            "start": "10:32",
+            "title": "obsidian"
           },
           {
-            "start": "10:36",
+            "cat": "writing",
             "end": "10:37",
-            "cat": "writing",
+            "note": "md.obsidian",
             "src": "macos",
-            "title": "obsidian",
-            "note": "md.obsidian"
+            "start": "10:36",
+            "title": "obsidian"
           },
           {
-            "start": "10:37",
+            "cat": "coding",
             "end": "10:39",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "10:37",
+            "title": "codex"
           },
           {
-            "start": "10:39",
+            "cat": "writing",
             "end": "10:56",
-            "cat": "writing",
+            "note": "md.obsidian",
             "src": "macos",
-            "title": "obsidian",
-            "note": "md.obsidian"
+            "start": "10:39",
+            "title": "obsidian"
           },
           {
-            "start": "10:56",
+            "cat": "admin",
             "end": "11:03",
-            "cat": "admin",
+            "note": "mqoutlook-my.sharepoint.com",
             "src": "macos",
-            "title": "agents.docx",
-            "note": "mqoutlook-my.sharepoint.com"
+            "start": "10:56",
+            "title": "agents.docx"
           },
           {
-            "start": "11:03",
+            "cat": "admin",
             "end": "11:04",
-            "cat": "admin",
+            "note": "mqoutlook-my.sharepoint.com",
             "src": "macos",
-            "title": "Document.docx",
-            "note": "mqoutlook-my.sharepoint.com"
+            "start": "11:03",
+            "title": "Document.docx"
           },
           {
-            "start": "11:04",
+            "cat": "research",
             "end": "11:17",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "11:04",
+            "title": "zotero"
           },
           {
-            "start": "11:17",
+            "cat": "admin",
             "end": "11:26",
-            "cat": "admin",
+            "note": "mqoutlook-my.sharepoint.com",
             "src": "macos",
-            "title": "Document.docx",
-            "note": "mqoutlook-my.sharepoint.com"
+            "start": "11:17",
+            "title": "Document.docx"
           },
           {
-            "start": "11:26",
+            "cat": "coding",
             "end": "11:34",
-            "cat": "coding",
+            "note": "anthropic.com",
             "src": "macos",
-            "title": "Introducing the Model Context Protocol \\ Anthropic",
-            "note": "anthropic.com"
+            "start": "11:26",
+            "title": "Introducing the Model Context Protocol \\ Anthropic"
           },
           {
-            "start": "11:35",
+            "cat": "research",
             "end": "12:02",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "LLM Agents Already Know When to Call Tools – Even Without Re",
-            "note": "arxiv.org"
+            "start": "11:35",
+            "title": "LLM Agents Already Know When to Call Tools – Even Without Re"
           },
           {
-            "start": "12:07",
+            "cat": "research",
             "end": "12:09",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "12:07",
+            "title": "zotero"
           },
           {
-            "start": "12:10",
+            "cat": "research",
             "end": "12:30",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "2307.16789",
-            "note": "arxiv.org"
+            "start": "12:10",
+            "title": "2307.16789"
           },
           {
-            "start": "13:05",
+            "cat": "research",
             "end": "13:08",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "2307.16789",
-            "note": "arxiv.org"
+            "start": "13:05",
+            "title": "2307.16789"
           },
           {
-            "start": "13:08",
+            "cat": "personal",
             "end": "13:14",
-            "cat": "personal",
+            "note": "x.com",
             "src": "macos",
-            "title": "(2) 主页 / X",
-            "note": "x.com"
+            "start": "13:08",
+            "title": "(2) 主页 / X"
           },
           {
-            "start": "13:14",
+            "cat": "personal",
             "end": "13:18",
-            "cat": "personal",
+            "note": "x.com",
             "src": "macos",
-            "title": "X 上的 Sam Altman：“I spent much of the weekend talking with th",
-            "note": "x.com"
+            "start": "13:14",
+            "title": "X 上的 Sam Altman：“I spent much of the weekend talking with th"
           },
           {
-            "start": "13:18",
+            "cat": "research",
             "end": "13:20",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "13:18",
+            "title": "zotero"
           },
           {
-            "start": "13:20",
+            "cat": "personal",
             "end": "13:25",
-            "cat": "personal",
+            "note": "x.com",
             "src": "macos",
-            "title": "X 上的 Sam Altman：“I spent much of the weekend talking with th",
-            "note": "x.com"
+            "start": "13:20",
+            "title": "X 上的 Sam Altman：“I spent much of the weekend talking with th"
           },
           {
-            "start": "13:25",
+            "cat": "research",
             "end": "14:21",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "2305.10601",
-            "note": "arxiv.org"
+            "start": "13:25",
+            "title": "2305.10601"
           },
           {
-            "start": "14:23",
+            "cat": "research",
             "end": "14:35",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "14:23",
+            "title": "zotero"
           },
           {
-            "start": "14:40",
+            "cat": "research",
             "end": "14:58",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "14:40",
+            "title": "zotero"
           },
           {
-            "start": "14:58",
+            "cat": "admin",
             "end": "14:59",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "14:58",
+            "title": "Outlook"
           },
           {
-            "start": "14:59",
+            "cat": "research",
             "end": "15:04",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "14:59",
+            "title": "zotero"
           },
           {
-            "start": "15:35",
+            "cat": "research",
             "end": "15:44",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "15:35",
+            "title": "zotero"
           },
           {
+            "cat": "admin",
+            "end": "15:54",
+            "note": "aus01.safelinks.protection.outlook.com",
+            "src": "chrome",
             "start": "15:44",
-            "end": "15:54",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Introducing OpenResearch + Weekly Paper Recs - ada.ren.cn@gm",
-            "note": "aus01.safelinks.protection.outlook.com"
+            "title": "Introducing OpenResearch + Weekly Paper Recs - ada.ren.cn@gm"
           },
           {
-            "start": "15:54",
-            "end": "15:54",
             "cat": "research",
+            "end": "15:54",
+            "note": "adaren100.github.io",
             "src": "macos",
-            "title": "How a PhD Can Survive? | Ada's Notes",
-            "note": "adaren100.github.io"
+            "start": "15:54",
+            "title": "How a PhD Can Survive? | Ada's Notes"
           },
           {
-            "start": "15:54",
+            "cat": "admin",
             "end": "15:55",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "15:54",
+            "title": "Outlook"
           },
           {
-            "start": "15:55",
+            "cat": "research",
             "end": "16:01",
-            "cat": "research",
+            "note": "threeminutethesis.uq.edu.au",
             "src": "macos",
-            "title": "2026 Virtual Asia-Pacific 3MT - Three Minute Thesis - Univer",
-            "note": "threeminutethesis.uq.edu.au"
+            "start": "15:55",
+            "title": "2026 Virtual Asia-Pacific 3MT - Three Minute Thesis - Univer"
           },
           {
-            "start": "16:01",
+            "cat": "admin",
             "end": "16:13",
-            "cat": "admin",
+            "note": "linkedin.com",
             "src": "macos",
-            "title": "Zip | LinkedIn",
-            "note": "linkedin.com"
+            "start": "16:01",
+            "title": "Zip | LinkedIn"
           },
           {
-            "start": "16:13",
+            "cat": "admin",
             "end": "16:15",
-            "cat": "admin",
+            "note": "aus01.safelinks.protection.outlook.com",
             "src": "chrome",
-            "title": "2026 Virtual Asia-Pacific 3MT - Three Minute Thesis - Univer",
-            "note": "aus01.safelinks.protection.outlook.com"
+            "start": "16:13",
+            "title": "2026 Virtual Asia-Pacific 3MT - Three Minute Thesis - Univer"
           },
           {
-            "start": "16:15",
-            "end": "16:20",
             "cat": "writing",
+            "end": "16:20",
+            "note": "file:///Users/ada/Documents/MQ/Phd/Teach",
             "src": "macos",
-            "title": "COMP2200/COMP6200 — Week 9 Supervised Learning Pipelines",
-            "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+            "start": "16:15",
+            "title": "COMP2200/COMP6200 — Week 9 Supervised Learning Pipelines"
           },
           {
-            "start": "16:20",
+            "cat": "personal",
             "end": "16:22",
-            "cat": "personal",
+            "note": "youtube.com",
             "src": "macos",
-            "title": "YouTube",
-            "note": "youtube.com"
+            "start": "16:20",
+            "title": "YouTube"
           },
           {
-            "start": "16:22",
+            "cat": "admin",
             "end": "16:25",
-            "cat": "admin",
+            "note": "au.linkedin.com",
             "src": "chrome",
-            "title": "Macquarie University - Signing out...",
-            "note": "au.linkedin.com"
+            "start": "16:22",
+            "title": "Macquarie University - Signing out..."
           },
           {
-            "start": "16:25",
-            "end": "16:26",
             "cat": "research",
+            "end": "16:26",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "16:25",
+            "title": "zotero"
           },
           {
-            "start": "16:27",
-            "end": "16:32",
             "cat": "admin",
+            "end": "16:32",
+            "note": "au.linkedin.com",
             "src": "chrome",
-            "title": "Macquarie University - Signing out...",
-            "note": "au.linkedin.com"
+            "start": "16:27",
+            "title": "Macquarie University - Signing out..."
           },
           {
-            "start": "16:32",
-            "end": "16:33",
             "cat": "meeting",
+            "end": "16:33",
+            "note": "echo360.net.au",
             "src": "chrome",
-            "title": "echo360.net.au",
-            "note": "echo360.net.au"
+            "start": "16:32",
+            "title": "echo360.net.au"
           },
           {
-            "start": "16:35",
-            "end": "16:35",
             "cat": "personal",
+            "end": "16:35",
+            "note": "youtube.com",
             "src": "macos",
-            "title": "The Foundations of Modern AI: Generalization, Data Selection",
-            "note": "youtube.com"
+            "start": "16:35",
+            "title": "The Foundations of Modern AI: Generalization, Data Selection"
           },
           {
-            "start": "16:35",
-            "end": "16:37",
             "cat": "coding",
+            "end": "16:37",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "16:35",
+            "title": "VSCode"
           }
         ],
+        "key": "2026-9-10",
         "logged": 301,
-        "real": 231,
-        "deep": 231,
         "ratio": 0.7697678366684311,
+        "real": 231,
         "stats": {
           "contextSwitches": 34,
-          "tabsOpened": 18,
+          "justOneMoreThing": 7,
           "longestFocus": "1h 25m",
-          "justOneMoreThing": 7
-        }
+          "tabsOpened": 18
+        },
+        "weekend": false
       },
       {
         "key": "2026-9-11",
@@ -80037,18 +80037,235 @@
         "weekend": false,
         "dateShort": "Fri, Sep 11",
         "dateLong": "Friday, September 11",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "10:21",
+        "dayEnd": "23:56",
+        "events": [
+          {
+            "start": "10:21",
+            "end": "10:24",
+            "cat": "coding",
+            "src": "local",
+            "title": "domain_cats.json",
+            "note": "4 hits"
+          },
+          {
+            "start": "10:24",
+            "end": "10:29",
+            "cat": "admin",
+            "src": "macos",
+            "title": "grok icon - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "10:29",
+            "end": "10:37",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Ada's Notes",
+            "note": "baike.baidu.com"
+          },
+          {
+            "start": "10:38",
+            "end": "10:42",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Countering misuse of AI: September 2026 / Anthropic \\ Anthro",
+            "note": "anthropic.com"
+          },
+          {
+            "start": "10:42",
+            "end": "10:45",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Claude",
+            "note": "claude.com"
+          },
+          {
+            "start": "10:45",
+            "end": "10:49",
+            "cat": "coding",
+            "src": "claude",
+            "title": "定时任务消失",
+            "note": "202 hits"
+          },
+          {
+            "start": "10:49",
+            "end": "10:55",
+            "cat": "coding",
+            "src": "claude",
+            "title": "定时任务消失",
+            "note": "202 hits"
+          },
+          {
+            "start": "10:55",
+            "end": "11:01",
+            "cat": "coding",
+            "src": "claude",
+            "title": "定时任务消失",
+            "note": "202 hits"
+          },
+          {
+            "start": "11:01",
+            "end": "11:02",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Claude",
+            "note": "claude.com"
+          },
+          {
+            "start": "11:02",
+            "end": "11:05",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Claude",
+            "note": "claude.com"
+          },
+          {
+            "start": "11:05",
+            "end": "11:09",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · repo",
+            "note": "51 hits"
+          },
+          {
+            "start": "11:09",
+            "end": "11:59",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · repo",
+            "note": "51 hits"
+          },
+          {
+            "start": "14:12",
+            "end": "14:21",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Sign in successful | Claude Platform",
+            "note": "platform.claude.com"
+          },
+          {
+            "start": "14:24",
+            "end": "14:46",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Sign in successful | Claude Platform",
+            "note": "platform.claude.com"
+          },
+          {
+            "start": "14:47",
+            "end": "14:57",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(1) Introducing the Agents API - YouTube",
+            "note": "youtube.com"
+          },
+          {
+            "start": "14:57",
+            "end": "15:57",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Self Evolving Agent Writing",
+            "note": "chat.openai.com"
+          },
+          {
+            "start": "15:57",
+            "end": "15:59",
+            "cat": "admin",
+            "src": "macos",
+            "title": "chain of thought - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "16:00",
+            "end": "16:40",
+            "cat": "research",
+            "src": "macos",
+            "title": "2205.11916",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "16:40",
+            "end": "17:02",
+            "cat": "research",
+            "src": "macos",
+            "title": "2203.11171",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "19:53",
+            "end": "20:00",
+            "cat": "research",
+            "src": "macos",
+            "title": "2203.14465",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "20:00",
+            "end": "20:22",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
+            "note": "sport.mq.edu.au"
+          },
+          {
+            "start": "20:22",
+            "end": "20:32",
+            "cat": "research",
+            "src": "macos",
+            "title": "2112.09332",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "20:32",
+            "end": "21:53",
+            "cat": "admin",
+            "src": "macos",
+            "title": "taubench - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "23:28",
+            "end": "23:33",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "WeChat/Weixin for Web",
+            "note": "web1.wechat.com"
+          },
+          {
+            "start": "23:33",
+            "end": "23:39",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "23:39",
+            "end": "23:44",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "WeChat/Weixin for Web",
+            "note": "web1.wechat.com"
+          },
+          {
+            "start": "23:44",
+            "end": "23:56",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          }
+        ],
+        "logged": 408,
+        "real": 277,
+        "deep": 277,
+        "ratio": 0.6797486629996179,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "0m",
-          "justOneMoreThing": 0
+          "contextSwitches": 18,
+          "tabsOpened": 24,
+          "longestFocus": "1h 59m",
+          "justOneMoreThing": 3
         }
       },
       {
@@ -85562,402 +85779,402 @@
       "weekend": false
     },
     {
-      "key": "2026-9-10",
-      "dayNum": 10,
-      "dow": 4,
-      "weekend": false,
-      "dateShort": "Thu, Sep 10",
       "dateLong": "Thursday, September 10",
-      "dayStart": "10:11",
+      "dateShort": "Thu, Sep 10",
       "dayEnd": "16:37",
+      "dayNum": 10,
+      "dayStart": "10:11",
+      "deep": 231,
+      "dow": 4,
       "events": [
         {
-          "start": "10:11",
+          "cat": "coding",
           "end": "10:12",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "10:11",
+          "title": "codex"
         },
         {
+          "cat": "research",
+          "end": "10:15",
+          "note": "org.zotero.zotero",
+          "src": "macos",
           "start": "10:12",
-          "end": "10:15",
-          "cat": "research",
-          "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "title": "zotero"
         },
         {
-          "start": "10:15",
-          "end": "10:15",
           "cat": "admin",
+          "end": "10:15",
+          "note": "researchers.mq.edu.au",
           "src": "macos",
-          "title": "Matthew Roberts - Macquarie University",
-          "note": "researchers.mq.edu.au"
+          "start": "10:15",
+          "title": "Matthew Roberts - Macquarie University"
         },
         {
-          "start": "10:15",
+          "cat": "admin",
           "end": "10:16",
-          "cat": "admin",
+          "note": "researchers.mq.edu.au",
           "src": "chrome",
-          "title": "Matthew Roberts - Macquarie University",
-          "note": "researchers.mq.edu.au"
+          "start": "10:15",
+          "title": "Matthew Roberts - Macquarie University"
         },
         {
-          "start": "10:16",
+          "cat": "research",
           "end": "10:17",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "10:16",
+          "title": "zotero"
         },
         {
-          "start": "10:17",
+          "cat": "writing",
           "end": "10:19",
-          "cat": "writing",
+          "note": "md.obsidian",
           "src": "macos",
-          "title": "obsidian",
-          "note": "md.obsidian"
+          "start": "10:17",
+          "title": "obsidian"
         },
         {
-          "start": "10:20",
+          "cat": "research",
           "end": "10:23",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "10:20",
+          "title": "zotero"
         },
         {
-          "start": "10:23",
+          "cat": "coding",
           "end": "10:25",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "10:23",
+          "title": "codex"
         },
         {
-          "start": "10:25",
+          "cat": "research",
           "end": "10:30",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "10:25",
+          "title": "zotero"
         },
         {
-          "start": "10:30",
+          "cat": "writing",
           "end": "10:31",
-          "cat": "writing",
+          "note": "md.obsidian",
           "src": "macos",
-          "title": "obsidian",
-          "note": "md.obsidian"
+          "start": "10:30",
+          "title": "obsidian"
         },
         {
-          "start": "10:32",
+          "cat": "writing",
           "end": "10:36",
-          "cat": "writing",
+          "note": "md.obsidian",
           "src": "macos",
-          "title": "obsidian",
-          "note": "md.obsidian"
+          "start": "10:32",
+          "title": "obsidian"
         },
         {
-          "start": "10:36",
+          "cat": "writing",
           "end": "10:37",
-          "cat": "writing",
+          "note": "md.obsidian",
           "src": "macos",
-          "title": "obsidian",
-          "note": "md.obsidian"
+          "start": "10:36",
+          "title": "obsidian"
         },
         {
-          "start": "10:37",
+          "cat": "coding",
           "end": "10:39",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "10:37",
+          "title": "codex"
         },
         {
-          "start": "10:39",
+          "cat": "writing",
           "end": "10:56",
-          "cat": "writing",
+          "note": "md.obsidian",
           "src": "macos",
-          "title": "obsidian",
-          "note": "md.obsidian"
+          "start": "10:39",
+          "title": "obsidian"
         },
         {
-          "start": "10:56",
+          "cat": "admin",
           "end": "11:03",
-          "cat": "admin",
+          "note": "mqoutlook-my.sharepoint.com",
           "src": "macos",
-          "title": "agents.docx",
-          "note": "mqoutlook-my.sharepoint.com"
+          "start": "10:56",
+          "title": "agents.docx"
         },
         {
-          "start": "11:03",
+          "cat": "admin",
           "end": "11:04",
-          "cat": "admin",
+          "note": "mqoutlook-my.sharepoint.com",
           "src": "macos",
-          "title": "Document.docx",
-          "note": "mqoutlook-my.sharepoint.com"
+          "start": "11:03",
+          "title": "Document.docx"
         },
         {
-          "start": "11:04",
+          "cat": "research",
           "end": "11:17",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "11:04",
+          "title": "zotero"
         },
         {
-          "start": "11:17",
+          "cat": "admin",
           "end": "11:26",
-          "cat": "admin",
+          "note": "mqoutlook-my.sharepoint.com",
           "src": "macos",
-          "title": "Document.docx",
-          "note": "mqoutlook-my.sharepoint.com"
+          "start": "11:17",
+          "title": "Document.docx"
         },
         {
-          "start": "11:26",
+          "cat": "coding",
           "end": "11:34",
-          "cat": "coding",
+          "note": "anthropic.com",
           "src": "macos",
-          "title": "Introducing the Model Context Protocol \\ Anthropic",
-          "note": "anthropic.com"
+          "start": "11:26",
+          "title": "Introducing the Model Context Protocol \\ Anthropic"
         },
         {
-          "start": "11:35",
+          "cat": "research",
           "end": "12:02",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "LLM Agents Already Know When to Call Tools – Even Without Re",
-          "note": "arxiv.org"
+          "start": "11:35",
+          "title": "LLM Agents Already Know When to Call Tools – Even Without Re"
         },
         {
-          "start": "12:07",
+          "cat": "research",
           "end": "12:09",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "12:07",
+          "title": "zotero"
         },
         {
-          "start": "12:10",
+          "cat": "research",
           "end": "12:30",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "2307.16789",
-          "note": "arxiv.org"
+          "start": "12:10",
+          "title": "2307.16789"
         },
         {
-          "start": "13:05",
+          "cat": "research",
           "end": "13:08",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "2307.16789",
-          "note": "arxiv.org"
+          "start": "13:05",
+          "title": "2307.16789"
         },
         {
-          "start": "13:08",
+          "cat": "personal",
           "end": "13:14",
-          "cat": "personal",
+          "note": "x.com",
           "src": "macos",
-          "title": "(2) 主页 / X",
-          "note": "x.com"
+          "start": "13:08",
+          "title": "(2) 主页 / X"
         },
         {
-          "start": "13:14",
+          "cat": "personal",
           "end": "13:18",
-          "cat": "personal",
+          "note": "x.com",
           "src": "macos",
-          "title": "X 上的 Sam Altman：“I spent much of the weekend talking with th",
-          "note": "x.com"
+          "start": "13:14",
+          "title": "X 上的 Sam Altman：“I spent much of the weekend talking with th"
         },
         {
-          "start": "13:18",
+          "cat": "research",
           "end": "13:20",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "13:18",
+          "title": "zotero"
         },
         {
-          "start": "13:20",
+          "cat": "personal",
           "end": "13:25",
-          "cat": "personal",
+          "note": "x.com",
           "src": "macos",
-          "title": "X 上的 Sam Altman：“I spent much of the weekend talking with th",
-          "note": "x.com"
+          "start": "13:20",
+          "title": "X 上的 Sam Altman：“I spent much of the weekend talking with th"
         },
         {
-          "start": "13:25",
+          "cat": "research",
           "end": "14:21",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "2305.10601",
-          "note": "arxiv.org"
+          "start": "13:25",
+          "title": "2305.10601"
         },
         {
-          "start": "14:23",
+          "cat": "research",
           "end": "14:35",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "14:23",
+          "title": "zotero"
         },
         {
-          "start": "14:40",
+          "cat": "research",
           "end": "14:58",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "14:40",
+          "title": "zotero"
         },
         {
-          "start": "14:58",
+          "cat": "admin",
           "end": "14:59",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "14:58",
+          "title": "Outlook"
         },
         {
-          "start": "14:59",
+          "cat": "research",
           "end": "15:04",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "14:59",
+          "title": "zotero"
         },
         {
-          "start": "15:35",
+          "cat": "research",
           "end": "15:44",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "15:35",
+          "title": "zotero"
         },
         {
+          "cat": "admin",
+          "end": "15:54",
+          "note": "aus01.safelinks.protection.outlook.com",
+          "src": "chrome",
           "start": "15:44",
-          "end": "15:54",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Introducing OpenResearch + Weekly Paper Recs - ada.ren.cn@gm",
-          "note": "aus01.safelinks.protection.outlook.com"
+          "title": "Introducing OpenResearch + Weekly Paper Recs - ada.ren.cn@gm"
         },
         {
-          "start": "15:54",
-          "end": "15:54",
           "cat": "research",
+          "end": "15:54",
+          "note": "adaren100.github.io",
           "src": "macos",
-          "title": "How a PhD Can Survive? | Ada's Notes",
-          "note": "adaren100.github.io"
+          "start": "15:54",
+          "title": "How a PhD Can Survive? | Ada's Notes"
         },
         {
-          "start": "15:54",
+          "cat": "admin",
           "end": "15:55",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "15:54",
+          "title": "Outlook"
         },
         {
-          "start": "15:55",
+          "cat": "research",
           "end": "16:01",
-          "cat": "research",
+          "note": "threeminutethesis.uq.edu.au",
           "src": "macos",
-          "title": "2026 Virtual Asia-Pacific 3MT - Three Minute Thesis - Univer",
-          "note": "threeminutethesis.uq.edu.au"
+          "start": "15:55",
+          "title": "2026 Virtual Asia-Pacific 3MT - Three Minute Thesis - Univer"
         },
         {
-          "start": "16:01",
+          "cat": "admin",
           "end": "16:13",
-          "cat": "admin",
+          "note": "linkedin.com",
           "src": "macos",
-          "title": "Zip | LinkedIn",
-          "note": "linkedin.com"
+          "start": "16:01",
+          "title": "Zip | LinkedIn"
         },
         {
-          "start": "16:13",
+          "cat": "admin",
           "end": "16:15",
-          "cat": "admin",
+          "note": "aus01.safelinks.protection.outlook.com",
           "src": "chrome",
-          "title": "2026 Virtual Asia-Pacific 3MT - Three Minute Thesis - Univer",
-          "note": "aus01.safelinks.protection.outlook.com"
+          "start": "16:13",
+          "title": "2026 Virtual Asia-Pacific 3MT - Three Minute Thesis - Univer"
         },
         {
-          "start": "16:15",
-          "end": "16:20",
           "cat": "writing",
+          "end": "16:20",
+          "note": "file:///Users/ada/Documents/MQ/Phd/Teach",
           "src": "macos",
-          "title": "COMP2200/COMP6200 — Week 9 Supervised Learning Pipelines",
-          "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+          "start": "16:15",
+          "title": "COMP2200/COMP6200 — Week 9 Supervised Learning Pipelines"
         },
         {
-          "start": "16:20",
+          "cat": "personal",
           "end": "16:22",
-          "cat": "personal",
+          "note": "youtube.com",
           "src": "macos",
-          "title": "YouTube",
-          "note": "youtube.com"
+          "start": "16:20",
+          "title": "YouTube"
         },
         {
-          "start": "16:22",
+          "cat": "admin",
           "end": "16:25",
-          "cat": "admin",
+          "note": "au.linkedin.com",
           "src": "chrome",
-          "title": "Macquarie University - Signing out...",
-          "note": "au.linkedin.com"
+          "start": "16:22",
+          "title": "Macquarie University - Signing out..."
         },
         {
-          "start": "16:25",
-          "end": "16:26",
           "cat": "research",
+          "end": "16:26",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "16:25",
+          "title": "zotero"
         },
         {
-          "start": "16:27",
-          "end": "16:32",
           "cat": "admin",
+          "end": "16:32",
+          "note": "au.linkedin.com",
           "src": "chrome",
-          "title": "Macquarie University - Signing out...",
-          "note": "au.linkedin.com"
+          "start": "16:27",
+          "title": "Macquarie University - Signing out..."
         },
         {
-          "start": "16:32",
-          "end": "16:33",
           "cat": "meeting",
+          "end": "16:33",
+          "note": "echo360.net.au",
           "src": "chrome",
-          "title": "echo360.net.au",
-          "note": "echo360.net.au"
+          "start": "16:32",
+          "title": "echo360.net.au"
         },
         {
-          "start": "16:35",
-          "end": "16:35",
           "cat": "personal",
+          "end": "16:35",
+          "note": "youtube.com",
           "src": "macos",
-          "title": "The Foundations of Modern AI: Generalization, Data Selection",
-          "note": "youtube.com"
+          "start": "16:35",
+          "title": "The Foundations of Modern AI: Generalization, Data Selection"
         },
         {
-          "start": "16:35",
-          "end": "16:37",
           "cat": "coding",
+          "end": "16:37",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "16:35",
+          "title": "VSCode"
         }
       ],
+      "key": "2026-9-10",
       "logged": 301,
-      "real": 231,
-      "deep": 231,
       "ratio": 0.7697678366684311,
+      "real": 231,
       "stats": {
         "contextSwitches": 34,
-        "tabsOpened": 18,
+        "justOneMoreThing": 7,
         "longestFocus": "1h 25m",
-        "justOneMoreThing": 7
-      }
+        "tabsOpened": 18
+      },
+      "weekend": false
     },
     {
       "key": "2026-9-11",
@@ -85966,18 +86183,235 @@
       "weekend": false,
       "dateShort": "Fri, Sep 11",
       "dateLong": "Friday, September 11",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "10:21",
+      "dayEnd": "23:56",
+      "events": [
+        {
+          "start": "10:21",
+          "end": "10:24",
+          "cat": "coding",
+          "src": "local",
+          "title": "domain_cats.json",
+          "note": "4 hits"
+        },
+        {
+          "start": "10:24",
+          "end": "10:29",
+          "cat": "admin",
+          "src": "macos",
+          "title": "grok icon - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "10:29",
+          "end": "10:37",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Ada's Notes",
+          "note": "baike.baidu.com"
+        },
+        {
+          "start": "10:38",
+          "end": "10:42",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Countering misuse of AI: September 2026 / Anthropic \\ Anthro",
+          "note": "anthropic.com"
+        },
+        {
+          "start": "10:42",
+          "end": "10:45",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Claude",
+          "note": "claude.com"
+        },
+        {
+          "start": "10:45",
+          "end": "10:49",
+          "cat": "coding",
+          "src": "claude",
+          "title": "定时任务消失",
+          "note": "202 hits"
+        },
+        {
+          "start": "10:49",
+          "end": "10:55",
+          "cat": "coding",
+          "src": "claude",
+          "title": "定时任务消失",
+          "note": "202 hits"
+        },
+        {
+          "start": "10:55",
+          "end": "11:01",
+          "cat": "coding",
+          "src": "claude",
+          "title": "定时任务消失",
+          "note": "202 hits"
+        },
+        {
+          "start": "11:01",
+          "end": "11:02",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Claude",
+          "note": "claude.com"
+        },
+        {
+          "start": "11:02",
+          "end": "11:05",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Claude",
+          "note": "claude.com"
+        },
+        {
+          "start": "11:05",
+          "end": "11:09",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · repo",
+          "note": "51 hits"
+        },
+        {
+          "start": "11:09",
+          "end": "11:59",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · repo",
+          "note": "51 hits"
+        },
+        {
+          "start": "14:12",
+          "end": "14:21",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Sign in successful | Claude Platform",
+          "note": "platform.claude.com"
+        },
+        {
+          "start": "14:24",
+          "end": "14:46",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Sign in successful | Claude Platform",
+          "note": "platform.claude.com"
+        },
+        {
+          "start": "14:47",
+          "end": "14:57",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(1) Introducing the Agents API - YouTube",
+          "note": "youtube.com"
+        },
+        {
+          "start": "14:57",
+          "end": "15:57",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Self Evolving Agent Writing",
+          "note": "chat.openai.com"
+        },
+        {
+          "start": "15:57",
+          "end": "15:59",
+          "cat": "admin",
+          "src": "macos",
+          "title": "chain of thought - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "16:00",
+          "end": "16:40",
+          "cat": "research",
+          "src": "macos",
+          "title": "2205.11916",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "16:40",
+          "end": "17:02",
+          "cat": "research",
+          "src": "macos",
+          "title": "2203.11171",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "19:53",
+          "end": "20:00",
+          "cat": "research",
+          "src": "macos",
+          "title": "2203.14465",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "20:00",
+          "end": "20:22",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
+          "note": "sport.mq.edu.au"
+        },
+        {
+          "start": "20:22",
+          "end": "20:32",
+          "cat": "research",
+          "src": "macos",
+          "title": "2112.09332",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "20:32",
+          "end": "21:53",
+          "cat": "admin",
+          "src": "macos",
+          "title": "taubench - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "23:28",
+          "end": "23:33",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "WeChat/Weixin for Web",
+          "note": "web1.wechat.com"
+        },
+        {
+          "start": "23:33",
+          "end": "23:39",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "23:39",
+          "end": "23:44",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "WeChat/Weixin for Web",
+          "note": "web1.wechat.com"
+        },
+        {
+          "start": "23:44",
+          "end": "23:56",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        }
+      ],
+      "logged": 408,
+      "real": 277,
+      "deep": 277,
+      "ratio": 0.6797486629996179,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "0m",
-        "justOneMoreThing": 0
+        "contextSwitches": 18,
+        "tabsOpened": 24,
+        "longestFocus": "1h 59m",
+        "justOneMoreThing": 3
       }
     },
     {
