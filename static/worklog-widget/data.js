@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-09-12T10:20:38+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-09-13T10:28:56+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -80038,7 +80038,7 @@
         "dateShort": "Fri, Sep 11",
         "dateLong": "Friday, September 11",
         "dayStart": "10:21",
-        "dayEnd": "23:56",
+        "dayEnd": "00:04",
         "events": [
           {
             "start": "10:21",
@@ -80046,7 +80046,7 @@
             "cat": "coding",
             "src": "local",
             "title": "domain_cats.json",
-            "note": "4 hits"
+            "note": "2 hits"
           },
           {
             "start": "10:24",
@@ -80255,12 +80255,20 @@
             "src": "macos",
             "title": "codex",
             "note": "com.openai.codex"
+          },
+          {
+            "start": "00:01",
+            "end": "00:04",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
           }
         ],
-        "logged": 408,
-        "real": 277,
-        "deep": 277,
-        "ratio": 0.6797486629996179,
+        "logged": 411,
+        "real": 281,
+        "deep": 281,
+        "ratio": 0.6823694613369049,
         "stats": {
           "contextSwitches": 18,
           "tabsOpened": 24,
@@ -80275,17 +80283,98 @@
         "weekend": true,
         "dateShort": "Sat, Sep 12",
         "dateLong": "Saturday, September 12",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "10:20",
+        "dayEnd": "17:22",
+        "events": [
+          {
+            "start": "10:20",
+            "end": "10:23",
+            "cat": "coding",
+            "src": "local",
+            "title": "data.js",
+            "note": "2 hits"
+          },
+          {
+            "start": "10:23",
+            "end": "10:43",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "WeChat/Weixin for Web",
+            "note": "wx.qq.com"
+          },
+          {
+            "start": "11:23",
+            "end": "11:28",
+            "cat": "writing",
+            "src": "local",
+            "title": "2026-09-12.md",
+            "note": "1 hit"
+          },
+          {
+            "start": "14:07",
+            "end": "14:08",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "14:08",
+            "end": "14:23",
+            "cat": "personal",
+            "src": "macos",
+            "title": "WeChat/Weixin for Web",
+            "note": "wx.qq.com"
+          },
+          {
+            "start": "15:20",
+            "end": "16:14",
+            "cat": "personal",
+            "src": "macos",
+            "title": "WeChat/Weixin for Web",
+            "note": "wx.qq.com"
+          },
+          {
+            "start": "16:20",
+            "end": "16:22",
+            "cat": "personal",
+            "src": "macos",
+            "title": "WeChat/Weixin for Web",
+            "note": "wx.qq.com"
+          },
+          {
+            "start": "16:22",
+            "end": "16:30",
+            "cat": "personal",
+            "src": "macos",
+            "title": "精神病 强制送医_百度搜索",
+            "note": "baidu.com"
+          },
+          {
+            "start": "16:30",
+            "end": "16:50",
+            "cat": "personal",
+            "src": "macos",
+            "title": "家属强制把精神病人送去医院违法吗",
+            "note": "ailegal.baidu.com"
+          },
+          {
+            "start": "16:50",
+            "end": "17:22",
+            "cat": "writing",
+            "src": "macos",
+            "title": "week9prac.pdf",
+            "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+          }
+        ],
+        "logged": 160,
+        "real": 42,
+        "deep": 42,
+        "ratio": 0.25950703463904207,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "0m",
+          "contextSwitches": 5,
+          "tabsOpened": 3,
+          "longestFocus": "32m",
           "justOneMoreThing": 0
         }
       },
@@ -86184,7 +86273,7 @@
       "dateShort": "Fri, Sep 11",
       "dateLong": "Friday, September 11",
       "dayStart": "10:21",
-      "dayEnd": "23:56",
+      "dayEnd": "00:04",
       "events": [
         {
           "start": "10:21",
@@ -86192,7 +86281,7 @@
           "cat": "coding",
           "src": "local",
           "title": "domain_cats.json",
-          "note": "4 hits"
+          "note": "2 hits"
         },
         {
           "start": "10:24",
@@ -86401,12 +86490,20 @@
           "src": "macos",
           "title": "codex",
           "note": "com.openai.codex"
+        },
+        {
+          "start": "00:01",
+          "end": "00:04",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
         }
       ],
-      "logged": 408,
-      "real": 277,
-      "deep": 277,
-      "ratio": 0.6797486629996179,
+      "logged": 411,
+      "real": 281,
+      "deep": 281,
+      "ratio": 0.6823694613369049,
       "stats": {
         "contextSwitches": 18,
         "tabsOpened": 24,
@@ -86421,17 +86518,98 @@
       "weekend": true,
       "dateShort": "Sat, Sep 12",
       "dateLong": "Saturday, September 12",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "10:20",
+      "dayEnd": "17:22",
+      "events": [
+        {
+          "start": "10:20",
+          "end": "10:23",
+          "cat": "coding",
+          "src": "local",
+          "title": "data.js",
+          "note": "2 hits"
+        },
+        {
+          "start": "10:23",
+          "end": "10:43",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "WeChat/Weixin for Web",
+          "note": "wx.qq.com"
+        },
+        {
+          "start": "11:23",
+          "end": "11:28",
+          "cat": "writing",
+          "src": "local",
+          "title": "2026-09-12.md",
+          "note": "1 hit"
+        },
+        {
+          "start": "14:07",
+          "end": "14:08",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "14:08",
+          "end": "14:23",
+          "cat": "personal",
+          "src": "macos",
+          "title": "WeChat/Weixin for Web",
+          "note": "wx.qq.com"
+        },
+        {
+          "start": "15:20",
+          "end": "16:14",
+          "cat": "personal",
+          "src": "macos",
+          "title": "WeChat/Weixin for Web",
+          "note": "wx.qq.com"
+        },
+        {
+          "start": "16:20",
+          "end": "16:22",
+          "cat": "personal",
+          "src": "macos",
+          "title": "WeChat/Weixin for Web",
+          "note": "wx.qq.com"
+        },
+        {
+          "start": "16:22",
+          "end": "16:30",
+          "cat": "personal",
+          "src": "macos",
+          "title": "精神病 强制送医_百度搜索",
+          "note": "baidu.com"
+        },
+        {
+          "start": "16:30",
+          "end": "16:50",
+          "cat": "personal",
+          "src": "macos",
+          "title": "家属强制把精神病人送去医院违法吗",
+          "note": "ailegal.baidu.com"
+        },
+        {
+          "start": "16:50",
+          "end": "17:22",
+          "cat": "writing",
+          "src": "macos",
+          "title": "week9prac.pdf",
+          "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+        }
+      ],
+      "logged": 160,
+      "real": 42,
+      "deep": 42,
+      "ratio": 0.25950703463904207,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "0m",
+        "contextSwitches": 5,
+        "tabsOpened": 3,
+        "longestFocus": "32m",
         "justOneMoreThing": 0
       }
     },
