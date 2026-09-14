@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-09-13T10:28:56+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-09-14T10:20:07+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -80227,7 +80227,7 @@
           {
             "start": "23:28",
             "end": "23:33",
-            "cat": "personal",
+            "cat": "admin",
             "src": "chrome",
             "title": "WeChat/Weixin for Web",
             "note": "web1.wechat.com"
@@ -80243,7 +80243,7 @@
           {
             "start": "23:39",
             "end": "23:44",
-            "cat": "personal",
+            "cat": "admin",
             "src": "chrome",
             "title": "WeChat/Weixin for Web",
             "note": "web1.wechat.com"
@@ -80270,7 +80270,7 @@
         "deep": 281,
         "ratio": 0.6823694613369049,
         "stats": {
-          "contextSwitches": 18,
+          "contextSwitches": 17,
           "tabsOpened": 24,
           "longestFocus": "1h 59m",
           "justOneMoreThing": 3
@@ -80283,21 +80283,13 @@
         "weekend": true,
         "dateShort": "Sat, Sep 12",
         "dateLong": "Saturday, September 12",
-        "dayStart": "10:20",
-        "dayEnd": "17:22",
+        "dayStart": "10:23",
+        "dayEnd": "19:34",
         "events": [
-          {
-            "start": "10:20",
-            "end": "10:23",
-            "cat": "coding",
-            "src": "local",
-            "title": "data.js",
-            "note": "2 hits"
-          },
           {
             "start": "10:23",
             "end": "10:43",
-            "cat": "personal",
+            "cat": "admin",
             "src": "chrome",
             "title": "WeChat/Weixin for Web",
             "note": "wx.qq.com"
@@ -80321,7 +80313,7 @@
           {
             "start": "14:08",
             "end": "14:23",
-            "cat": "personal",
+            "cat": "admin",
             "src": "macos",
             "title": "WeChat/Weixin for Web",
             "note": "wx.qq.com"
@@ -80329,7 +80321,7 @@
           {
             "start": "15:20",
             "end": "16:14",
-            "cat": "personal",
+            "cat": "admin",
             "src": "macos",
             "title": "WeChat/Weixin for Web",
             "note": "wx.qq.com"
@@ -80337,7 +80329,7 @@
           {
             "start": "16:20",
             "end": "16:22",
-            "cat": "personal",
+            "cat": "admin",
             "src": "macos",
             "title": "WeChat/Weixin for Web",
             "note": "wx.qq.com"
@@ -80352,8 +80344,24 @@
           },
           {
             "start": "16:30",
-            "end": "16:50",
+            "end": "16:33",
+            "cat": "research",
+            "src": "macos",
+            "title": "家属强制把精神病人送去医院违法吗",
+            "note": "ailegal.baidu.com"
+          },
+          {
+            "start": "16:33",
+            "end": "16:41",
             "cat": "personal",
+            "src": "chrome",
+            "title": "精神病 强制送医_百度搜索",
+            "note": "baidu.com"
+          },
+          {
+            "start": "16:42",
+            "end": "16:50",
+            "cat": "research",
             "src": "macos",
             "title": "家属强制把精神病人送去医院违法吗",
             "note": "ailegal.baidu.com"
@@ -80365,17 +80373,81 @@
             "src": "macos",
             "title": "week9prac.pdf",
             "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+          },
+          {
+            "start": "17:26",
+            "end": "17:37",
+            "cat": "writing",
+            "src": "macos",
+            "title": "week9prac.pdf",
+            "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+          },
+          {
+            "start": "17:37",
+            "end": "17:49",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "17:49",
+            "end": "17:57",
+            "cat": "writing",
+            "src": "macos",
+            "title": "week9prac.pdf",
+            "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+          },
+          {
+            "start": "17:57",
+            "end": "18:44",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "18:44",
+            "end": "18:48",
+            "cat": "writing",
+            "src": "macos",
+            "title": "week9prac.pdf",
+            "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+          },
+          {
+            "start": "18:48",
+            "end": "19:21",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "19:21",
+            "end": "19:25",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "19:25",
+            "end": "19:34",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
           }
         ],
-        "logged": 160,
-        "real": 42,
-        "deep": 42,
-        "ratio": 0.25950703463904207,
+        "logged": 285,
+        "real": 179,
+        "deep": 179,
+        "ratio": 0.6261112036319578,
         "stats": {
-          "contextSwitches": 5,
-          "tabsOpened": 3,
-          "longestFocus": "32m",
-          "justOneMoreThing": 0
+          "contextSwitches": 15,
+          "tabsOpened": 6,
+          "longestFocus": "2h 49m",
+          "justOneMoreThing": 1
         }
       },
       {
@@ -80385,18 +80457,379 @@
         "weekend": true,
         "dateShort": "Sun, Sep 13",
         "dateLong": "Sunday, September 13",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "10:28",
+        "dayEnd": "00:45",
+        "events": [
+          {
+            "start": "10:28",
+            "end": "10:33",
+            "cat": "coding",
+            "src": "local",
+            "title": "data.js",
+            "note": "2 hits"
+          },
+          {
+            "start": "10:57",
+            "end": "11:02",
+            "cat": "writing",
+            "src": "local",
+            "title": "2026-09-13.md",
+            "note": "1 hit"
+          },
+          {
+            "start": "12:02",
+            "end": "12:12",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "12:12",
+            "end": "12:27",
+            "cat": "research",
+            "src": "macos",
+            "title": "Primitive functions含义",
+            "note": "chatgpt.com"
+          },
+          {
+            "start": "12:27",
+            "end": "12:28",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "12:28",
+            "end": "12:39",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "12:39",
+            "end": "13:05",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "13:11",
+            "end": "13:12",
+            "cat": "research",
+            "src": "macos",
+            "title": "Primitive functions含义",
+            "note": "chatgpt.com"
+          },
+          {
+            "start": "13:12",
+            "end": "13:32",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Manus: Hands On AI",
+            "note": "manus.im"
+          },
+          {
+            "start": "13:58",
+            "end": "14:07",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Manus: Hands On AI",
+            "note": "manus.im"
+          },
+          {
+            "start": "14:07",
+            "end": "14:17",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "14:17",
+            "end": "14:18",
+            "cat": "research",
+            "src": "macos",
+            "title": "How a PhD Can Survive? | Ada's Notes",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "14:19",
+            "end": "14:24",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Tic–Tac–Toe - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "14:24",
+            "end": "14:26",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Tic–Tac–Toe - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "14:26",
+            "end": "14:27",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "14:27",
+            "end": "14:37",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Tic–Tac–Toe - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "14:37",
+            "end": "15:32",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:32",
+            "end": "15:36",
+            "cat": "research",
+            "src": "macos",
+            "title": "NSW Crash Data | Data.NSW - Data.NSW",
+            "note": "data.nsw.gov.au"
+          },
+          {
+            "start": "15:36",
+            "end": "15:46",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:47",
+            "end": "15:50",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Untitled25.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "15:51",
+            "end": "16:11",
+            "cat": "research",
+            "src": "macos",
+            "title": "Research acceleration: The view inside OpenAI | OpenAI",
+            "note": "openai.com"
+          },
+          {
+            "start": "16:17",
+            "end": "16:48",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:49",
+            "end": "17:11",
+            "cat": "coding",
+            "src": "macos",
+            "title": "permutation_importance — scikit-learn 1.9.1 documentation",
+            "note": "scikit-learn.org"
+          },
+          {
+            "start": "17:18",
+            "end": "17:33",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "17:33",
+            "end": "18:02",
+            "cat": "coding",
+            "src": "macos",
+            "title": "w8.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "18:02",
+            "end": "18:04",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "18:04",
+            "end": "18:08",
+            "cat": "writing",
+            "src": "chrome",
+            "title": "COMP2200/COMP6200 — Week 9 Supervised Learning Pipelines",
+            "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+          },
+          {
+            "start": "18:08",
+            "end": "18:17",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "18:17",
+            "end": "18:20",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "18:21",
+            "end": "18:22",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "18:22",
+            "end": "18:24",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "18:24",
+            "end": "18:25",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "18:26",
+            "end": "18:30",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "18:30",
+            "end": "18:42",
+            "cat": "research",
+            "src": "macos",
+            "title": "解释Scaffold改进",
+            "note": "chatgpt.com"
+          },
+          {
+            "start": "18:43",
+            "end": "18:44",
+            "cat": "admin",
+            "src": "macos",
+            "title": "superbox gym - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "18:44",
+            "end": "18:55",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "18:55",
+            "end": "19:03",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "superbox gym - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "19:19",
+            "end": "19:38",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "19:38",
+            "end": "19:40",
+            "cat": "admin",
+            "src": "macos",
+            "title": "superbox gym - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "19:40",
+            "end": "19:52",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "19:52",
+            "end": "19:53",
+            "cat": "admin",
+            "src": "macos",
+            "title": "superbox gym - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "19:56",
+            "end": "20:28",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "20:28",
+            "end": "20:58",
+            "cat": "research",
+            "src": "macos",
+            "title": "arxiv.org",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "23:53",
+            "end": "00:25",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "00:25",
+            "end": "00:45",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          }
+        ],
+        "logged": 529,
+        "real": 469,
+        "deep": 469,
+        "ratio": 0.8867106533213323,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "0m",
-          "justOneMoreThing": 0
+          "contextSwitches": 27,
+          "tabsOpened": 15,
+          "longestFocus": "3h 48m",
+          "justOneMoreThing": 5
         }
       },
       {
@@ -80406,18 +80839,67 @@
         "weekend": false,
         "dateShort": "Mon, Sep 14",
         "dateLong": "Monday, September 14",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "09:55",
+        "dayEnd": "10:27",
+        "events": [
+          {
+            "start": "09:55",
+            "end": "09:57",
+            "cat": "personal",
+            "src": "macos",
+            "title": "X 上的 Dario Amodei：“We Must Pace the Frontier: I’ve written a",
+            "note": "x.com"
+          },
+          {
+            "start": "09:57",
+            "end": "09:59",
+            "cat": "research",
+            "src": "macos",
+            "title": "Dario Amodei — We Must Pace the Frontier",
+            "note": "darioamodei.com"
+          },
+          {
+            "start": "10:00",
+            "end": "10:03",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "teams2",
+            "note": "com.microsoft.teams2"
+          },
+          {
+            "start": "10:03",
+            "end": "10:08",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Announcements | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "10:08",
+            "end": "10:09",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "teams2",
+            "note": "com.microsoft.teams2"
+          },
+          {
+            "start": "10:09",
+            "end": "10:27",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Week 8 Lectures | iLe",
+            "note": "google.com"
+          }
+        ],
+        "logged": 31,
+        "real": 6,
+        "deep": 6,
+        "ratio": 0.19155055331969748,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "0m",
-          "justOneMoreThing": 0
+          "contextSwitches": 5,
+          "tabsOpened": 3,
+          "longestFocus": "5m",
+          "justOneMoreThing": 1
         }
       },
       {
@@ -86462,7 +86944,7 @@
         {
           "start": "23:28",
           "end": "23:33",
-          "cat": "personal",
+          "cat": "admin",
           "src": "chrome",
           "title": "WeChat/Weixin for Web",
           "note": "web1.wechat.com"
@@ -86478,7 +86960,7 @@
         {
           "start": "23:39",
           "end": "23:44",
-          "cat": "personal",
+          "cat": "admin",
           "src": "chrome",
           "title": "WeChat/Weixin for Web",
           "note": "web1.wechat.com"
@@ -86505,7 +86987,7 @@
       "deep": 281,
       "ratio": 0.6823694613369049,
       "stats": {
-        "contextSwitches": 18,
+        "contextSwitches": 17,
         "tabsOpened": 24,
         "longestFocus": "1h 59m",
         "justOneMoreThing": 3
@@ -86518,21 +87000,13 @@
       "weekend": true,
       "dateShort": "Sat, Sep 12",
       "dateLong": "Saturday, September 12",
-      "dayStart": "10:20",
-      "dayEnd": "17:22",
+      "dayStart": "10:23",
+      "dayEnd": "19:34",
       "events": [
-        {
-          "start": "10:20",
-          "end": "10:23",
-          "cat": "coding",
-          "src": "local",
-          "title": "data.js",
-          "note": "2 hits"
-        },
         {
           "start": "10:23",
           "end": "10:43",
-          "cat": "personal",
+          "cat": "admin",
           "src": "chrome",
           "title": "WeChat/Weixin for Web",
           "note": "wx.qq.com"
@@ -86556,7 +87030,7 @@
         {
           "start": "14:08",
           "end": "14:23",
-          "cat": "personal",
+          "cat": "admin",
           "src": "macos",
           "title": "WeChat/Weixin for Web",
           "note": "wx.qq.com"
@@ -86564,7 +87038,7 @@
         {
           "start": "15:20",
           "end": "16:14",
-          "cat": "personal",
+          "cat": "admin",
           "src": "macos",
           "title": "WeChat/Weixin for Web",
           "note": "wx.qq.com"
@@ -86572,7 +87046,7 @@
         {
           "start": "16:20",
           "end": "16:22",
-          "cat": "personal",
+          "cat": "admin",
           "src": "macos",
           "title": "WeChat/Weixin for Web",
           "note": "wx.qq.com"
@@ -86587,8 +87061,24 @@
         },
         {
           "start": "16:30",
-          "end": "16:50",
+          "end": "16:33",
+          "cat": "research",
+          "src": "macos",
+          "title": "家属强制把精神病人送去医院违法吗",
+          "note": "ailegal.baidu.com"
+        },
+        {
+          "start": "16:33",
+          "end": "16:41",
           "cat": "personal",
+          "src": "chrome",
+          "title": "精神病 强制送医_百度搜索",
+          "note": "baidu.com"
+        },
+        {
+          "start": "16:42",
+          "end": "16:50",
+          "cat": "research",
           "src": "macos",
           "title": "家属强制把精神病人送去医院违法吗",
           "note": "ailegal.baidu.com"
@@ -86600,17 +87090,81 @@
           "src": "macos",
           "title": "week9prac.pdf",
           "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+        },
+        {
+          "start": "17:26",
+          "end": "17:37",
+          "cat": "writing",
+          "src": "macos",
+          "title": "week9prac.pdf",
+          "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+        },
+        {
+          "start": "17:37",
+          "end": "17:49",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "17:49",
+          "end": "17:57",
+          "cat": "writing",
+          "src": "macos",
+          "title": "week9prac.pdf",
+          "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+        },
+        {
+          "start": "17:57",
+          "end": "18:44",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "18:44",
+          "end": "18:48",
+          "cat": "writing",
+          "src": "macos",
+          "title": "week9prac.pdf",
+          "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+        },
+        {
+          "start": "18:48",
+          "end": "19:21",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "19:21",
+          "end": "19:25",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "19:25",
+          "end": "19:34",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
         }
       ],
-      "logged": 160,
-      "real": 42,
-      "deep": 42,
-      "ratio": 0.25950703463904207,
+      "logged": 285,
+      "real": 179,
+      "deep": 179,
+      "ratio": 0.6261112036319578,
       "stats": {
-        "contextSwitches": 5,
-        "tabsOpened": 3,
-        "longestFocus": "32m",
-        "justOneMoreThing": 0
+        "contextSwitches": 15,
+        "tabsOpened": 6,
+        "longestFocus": "2h 49m",
+        "justOneMoreThing": 1
       }
     },
     {
@@ -86620,18 +87174,379 @@
       "weekend": true,
       "dateShort": "Sun, Sep 13",
       "dateLong": "Sunday, September 13",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "10:28",
+      "dayEnd": "00:45",
+      "events": [
+        {
+          "start": "10:28",
+          "end": "10:33",
+          "cat": "coding",
+          "src": "local",
+          "title": "data.js",
+          "note": "2 hits"
+        },
+        {
+          "start": "10:57",
+          "end": "11:02",
+          "cat": "writing",
+          "src": "local",
+          "title": "2026-09-13.md",
+          "note": "1 hit"
+        },
+        {
+          "start": "12:02",
+          "end": "12:12",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "12:12",
+          "end": "12:27",
+          "cat": "research",
+          "src": "macos",
+          "title": "Primitive functions含义",
+          "note": "chatgpt.com"
+        },
+        {
+          "start": "12:27",
+          "end": "12:28",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "12:28",
+          "end": "12:39",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "12:39",
+          "end": "13:05",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "13:11",
+          "end": "13:12",
+          "cat": "research",
+          "src": "macos",
+          "title": "Primitive functions含义",
+          "note": "chatgpt.com"
+        },
+        {
+          "start": "13:12",
+          "end": "13:32",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Manus: Hands On AI",
+          "note": "manus.im"
+        },
+        {
+          "start": "13:58",
+          "end": "14:07",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Manus: Hands On AI",
+          "note": "manus.im"
+        },
+        {
+          "start": "14:07",
+          "end": "14:17",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "14:17",
+          "end": "14:18",
+          "cat": "research",
+          "src": "macos",
+          "title": "How a PhD Can Survive? | Ada's Notes",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "14:19",
+          "end": "14:24",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Tic–Tac–Toe - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "14:24",
+          "end": "14:26",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Tic–Tac–Toe - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "14:26",
+          "end": "14:27",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "14:27",
+          "end": "14:37",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Tic–Tac–Toe - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "14:37",
+          "end": "15:32",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:32",
+          "end": "15:36",
+          "cat": "research",
+          "src": "macos",
+          "title": "NSW Crash Data | Data.NSW - Data.NSW",
+          "note": "data.nsw.gov.au"
+        },
+        {
+          "start": "15:36",
+          "end": "15:46",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:47",
+          "end": "15:50",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Untitled25.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "15:51",
+          "end": "16:11",
+          "cat": "research",
+          "src": "macos",
+          "title": "Research acceleration: The view inside OpenAI | OpenAI",
+          "note": "openai.com"
+        },
+        {
+          "start": "16:17",
+          "end": "16:48",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:49",
+          "end": "17:11",
+          "cat": "coding",
+          "src": "macos",
+          "title": "permutation_importance — scikit-learn 1.9.1 documentation",
+          "note": "scikit-learn.org"
+        },
+        {
+          "start": "17:18",
+          "end": "17:33",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "17:33",
+          "end": "18:02",
+          "cat": "coding",
+          "src": "macos",
+          "title": "w8.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "18:02",
+          "end": "18:04",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "18:04",
+          "end": "18:08",
+          "cat": "writing",
+          "src": "chrome",
+          "title": "COMP2200/COMP6200 — Week 9 Supervised Learning Pipelines",
+          "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+        },
+        {
+          "start": "18:08",
+          "end": "18:17",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "18:17",
+          "end": "18:20",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "18:21",
+          "end": "18:22",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "18:22",
+          "end": "18:24",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "18:24",
+          "end": "18:25",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "18:26",
+          "end": "18:30",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "18:30",
+          "end": "18:42",
+          "cat": "research",
+          "src": "macos",
+          "title": "解释Scaffold改进",
+          "note": "chatgpt.com"
+        },
+        {
+          "start": "18:43",
+          "end": "18:44",
+          "cat": "admin",
+          "src": "macos",
+          "title": "superbox gym - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "18:44",
+          "end": "18:55",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "18:55",
+          "end": "19:03",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "superbox gym - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "19:19",
+          "end": "19:38",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "19:38",
+          "end": "19:40",
+          "cat": "admin",
+          "src": "macos",
+          "title": "superbox gym - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "19:40",
+          "end": "19:52",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "19:52",
+          "end": "19:53",
+          "cat": "admin",
+          "src": "macos",
+          "title": "superbox gym - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "19:56",
+          "end": "20:28",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "20:28",
+          "end": "20:58",
+          "cat": "research",
+          "src": "macos",
+          "title": "arxiv.org",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "23:53",
+          "end": "00:25",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "00:25",
+          "end": "00:45",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        }
+      ],
+      "logged": 529,
+      "real": 469,
+      "deep": 469,
+      "ratio": 0.8867106533213323,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "0m",
-        "justOneMoreThing": 0
+        "contextSwitches": 27,
+        "tabsOpened": 15,
+        "longestFocus": "3h 48m",
+        "justOneMoreThing": 5
       }
     },
     {
@@ -86641,18 +87556,67 @@
       "weekend": false,
       "dateShort": "Mon, Sep 14",
       "dateLong": "Monday, September 14",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "09:55",
+      "dayEnd": "10:27",
+      "events": [
+        {
+          "start": "09:55",
+          "end": "09:57",
+          "cat": "personal",
+          "src": "macos",
+          "title": "X 上的 Dario Amodei：“We Must Pace the Frontier: I’ve written a",
+          "note": "x.com"
+        },
+        {
+          "start": "09:57",
+          "end": "09:59",
+          "cat": "research",
+          "src": "macos",
+          "title": "Dario Amodei — We Must Pace the Frontier",
+          "note": "darioamodei.com"
+        },
+        {
+          "start": "10:00",
+          "end": "10:03",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "teams2",
+          "note": "com.microsoft.teams2"
+        },
+        {
+          "start": "10:03",
+          "end": "10:08",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Announcements | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "10:08",
+          "end": "10:09",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "teams2",
+          "note": "com.microsoft.teams2"
+        },
+        {
+          "start": "10:09",
+          "end": "10:27",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Week 8 Lectures | iLe",
+          "note": "google.com"
+        }
+      ],
+      "logged": 31,
+      "real": 6,
+      "deep": 6,
+      "ratio": 0.19155055331969748,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "0m",
-        "justOneMoreThing": 0
+        "contextSwitches": 5,
+        "tabsOpened": 3,
+        "longestFocus": "5m",
+        "justOneMoreThing": 1
       }
     },
     {
