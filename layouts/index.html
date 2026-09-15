@@ -47,9 +47,13 @@
       var h = Math.floor(min / 60), m = min % 60;
       return h ? (m ? h + 'h ' + m + 'm' : h + 'h') : m + 'm';
     };
+    // average over the days counted so far (through the last day with data),
+    // not every calendar day — future days of the month are empty placeholders
+    var counted = 0;
+    M.days.forEach(function (d, i) { if (d.logged) counted = i + 1; });
     var sec = document.getElementById('microlog');
     sec.querySelector('[data-ml="perday"]').textContent =
-      (totals.logged / 60 / M.days.length).toFixed(1) + 'h';
+      (totals.logged / 60 / counted).toFixed(1) + 'h';
     sec.querySelector('[data-ml="logged"]').textContent = Math.round(totals.logged / 60);
     sec.querySelector('[data-ml="month"]').textContent = M.month || '';
     var maxLogged = Math.max.apply(null, M.days.map(function (d) { return d.logged || 0; })) || 1;
