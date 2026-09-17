@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-09-16T10:20:07+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-09-17T10:20:10+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -81231,594 +81231,594 @@
         "weekend": false
       },
       {
-        "key": "2026-9-15",
-        "dayNum": 15,
-        "dow": 2,
-        "weekend": false,
-        "dateShort": "Tue, Sep 15",
         "dateLong": "Tuesday, September 15",
-        "dayStart": "10:07",
+        "dateShort": "Tue, Sep 15",
         "dayEnd": "22:02",
+        "dayNum": 15,
+        "dayStart": "10:07",
+        "deep": 379,
+        "dow": 2,
         "events": [
           {
-            "start": "10:07",
+            "cat": "personal",
             "end": "10:09",
-            "cat": "personal",
+            "note": "1 hit",
             "src": "claude",
-            "title": "English learning tools",
-            "note": "1 hit"
+            "start": "10:07",
+            "title": "English learning tools"
           },
           {
-            "start": "10:09",
+            "cat": "personal",
             "end": "10:10",
-            "cat": "personal",
+            "note": "1 hit",
             "src": "claude",
-            "title": "English learning tools",
-            "note": "1 hit"
+            "start": "10:09",
+            "title": "English learning tools"
           },
           {
-            "start": "10:11",
+            "cat": "coding",
             "end": "10:12",
-            "cat": "coding",
+            "note": "104 hits",
             "src": "claude",
-            "title": "PhD daily log bug",
-            "note": "104 hits"
+            "start": "10:11",
+            "title": "PhD daily log bug"
           },
           {
-            "start": "10:12",
+            "cat": "coding",
             "end": "10:14",
-            "cat": "coding",
+            "note": "104 hits",
             "src": "claude",
-            "title": "PhD daily log bug",
-            "note": "104 hits"
+            "start": "10:12",
+            "title": "PhD daily log bug"
           },
           {
-            "start": "10:14",
+            "cat": "coding",
             "end": "10:15",
-            "cat": "coding",
+            "note": "104 hits",
             "src": "claude",
-            "title": "PhD daily log bug",
-            "note": "104 hits"
+            "start": "10:14",
+            "title": "PhD daily log bug"
           },
           {
-            "start": "10:15",
+            "cat": "writing",
             "end": "10:18",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Data Science - Assessments (S2-2026) - Google Sheets",
-            "note": "docs.google.com"
+            "start": "10:15",
+            "title": "Data Science - Assessments (S2-2026) - Google Sheets"
           },
           {
-            "start": "10:18",
+            "cat": "admin",
             "end": "10:20",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "10:18",
+            "title": "Outlook"
           },
           {
-            "start": "10:22",
+            "cat": "research",
             "end": "10:23",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "macos",
-            "title": "Ada's Notes",
-            "note": "adaren100.github.io"
+            "start": "10:22",
+            "title": "Ada's Notes"
           },
           {
-            "start": "10:24",
+            "cat": "coding",
             "end": "10:32",
-            "cat": "coding",
+            "note": "78 hits",
             "src": "claude",
-            "title": "PhD daily log bug",
-            "note": "78 hits"
+            "start": "10:24",
+            "title": "PhD daily log bug"
           },
           {
-            "start": "10:32",
+            "cat": "research",
             "end": "10:34",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "10:32",
+            "title": "zotero"
           },
           {
-            "start": "10:34",
+            "cat": "research",
             "end": "10:36",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "10:34",
+            "title": "zotero"
           },
           {
-            "start": "10:36",
+            "cat": "research",
             "end": "10:38",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "10:36",
+            "title": "zotero"
           },
           {
-            "start": "10:38",
+            "cat": "research",
             "end": "10:46",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "10:38",
+            "title": "zotero"
           },
           {
-            "start": "10:46",
+            "cat": "research",
             "end": "10:51",
-            "cat": "research",
+            "note": "chatgpt.com",
             "src": "macos",
-            "title": "ChatGPT",
-            "note": "chatgpt.com"
+            "start": "10:46",
+            "title": "ChatGPT"
           },
           {
-            "start": "10:51",
+            "cat": "research",
             "end": "11:08",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "10:51",
+            "title": "zotero"
           },
           {
-            "start": "11:08",
+            "cat": "research",
             "end": "11:11",
-            "cat": "research",
+            "note": "chatgpt.com",
             "src": "macos",
-            "title": "翻译智能体AI价值",
-            "note": "chatgpt.com"
+            "start": "11:08",
+            "title": "翻译智能体AI价值"
           },
           {
-            "start": "11:12",
+            "cat": "research",
             "end": "11:13",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "11:12",
+            "title": "zotero"
           },
           {
-            "start": "11:14",
+            "cat": "research",
             "end": "11:26",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "11:14",
+            "title": "zotero"
           },
           {
-            "start": "11:27",
+            "cat": "research",
             "end": "11:30",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "11:27",
+            "title": "zotero"
           },
           {
-            "start": "11:30",
+            "cat": "research",
             "end": "11:44",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "11:30",
+            "title": "zotero"
           },
           {
-            "start": "11:47",
+            "cat": "research",
             "end": "12:03",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "11:47",
+            "title": "zotero"
           },
           {
-            "start": "12:03",
+            "cat": "research",
             "end": "12:04",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "12:03",
+            "title": "zotero"
           },
           {
-            "start": "12:05",
+            "cat": "research",
             "end": "12:12",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "12:05",
+            "title": "zotero"
           },
           {
-            "start": "13:19",
+            "cat": "admin",
             "end": "13:23",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "13:19",
+            "title": "Outlook"
           },
           {
-            "start": "13:26",
+            "cat": "admin",
             "end": "13:30",
-            "cat": "admin",
+            "note": "mq.service-now.com",
             "src": "macos",
-            "title": "My Profile - Employee",
-            "note": "mq.service-now.com"
+            "start": "13:26",
+            "title": "My Profile - Employee"
           },
           {
-            "start": "13:31",
+            "cat": "admin",
             "end": "13:35",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "13:31",
+            "title": "Outlook"
           },
           {
-            "start": "13:48",
+            "cat": "research",
             "end": "14:01",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "13:48",
+            "title": "zotero"
           },
           {
-            "start": "14:03",
+            "cat": "research",
             "end": "14:21",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "14:03",
+            "title": "zotero"
           },
           {
-            "start": "14:22",
+            "cat": "research",
             "end": "14:28",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "14:22",
+            "title": "zotero"
           },
           {
-            "start": "14:28",
+            "cat": "admin",
             "end": "14:31",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "macos",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "14:28",
+            "title": "Google Translate"
           },
           {
-            "start": "14:31",
+            "cat": "research",
             "end": "14:37",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "14:31",
+            "title": "zotero"
           },
           {
-            "start": "14:37",
+            "cat": "writing",
             "end": "14:39",
-            "cat": "writing",
+            "note": "overleaf.com",
             "src": "macos",
-            "title": "PhD COC - Online LaTeX Editor Overleaf",
-            "note": "overleaf.com"
+            "start": "14:37",
+            "title": "PhD COC - Online LaTeX Editor Overleaf"
           },
           {
-            "start": "14:39",
+            "cat": "research",
             "end": "14:41",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "14:39",
+            "title": "zotero"
           },
           {
-            "start": "14:53",
+            "cat": "research",
             "end": "14:55",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "14:53",
+            "title": "zotero"
           },
           {
-            "start": "14:55",
+            "cat": "writing",
             "end": "14:59",
-            "cat": "writing",
+            "note": "overleaf.com",
             "src": "macos",
-            "title": "PhD COC - Online LaTeX Editor Overleaf",
-            "note": "overleaf.com"
+            "start": "14:55",
+            "title": "PhD COC - Online LaTeX Editor Overleaf"
           },
           {
-            "start": "14:59",
+            "cat": "research",
             "end": "15:14",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "14:59",
+            "title": "zotero"
           },
           {
-            "start": "15:14",
+            "cat": "writing",
             "end": "15:22",
-            "cat": "writing",
+            "note": "overleaf.com",
             "src": "macos",
-            "title": "PhD COC - Online LaTeX Editor Overleaf",
-            "note": "overleaf.com"
+            "start": "15:14",
+            "title": "PhD COC - Online LaTeX Editor Overleaf"
           },
           {
-            "start": "15:22",
+            "cat": "research",
             "end": "15:31",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "15:22",
+            "title": "zotero"
           },
           {
-            "start": "15:31",
+            "cat": "writing",
             "end": "15:47",
-            "cat": "writing",
+            "note": "overleaf.com",
             "src": "macos",
-            "title": "PhD COC - Online LaTeX Editor Overleaf",
-            "note": "overleaf.com"
+            "start": "15:31",
+            "title": "PhD COC - Online LaTeX Editor Overleaf"
           },
           {
-            "start": "15:52",
+            "cat": "writing",
             "end": "15:58",
-            "cat": "writing",
+            "note": "overleaf.com",
             "src": "macos",
-            "title": "PhD COC - Online LaTeX Editor Overleaf",
-            "note": "overleaf.com"
+            "start": "15:52",
+            "title": "PhD COC - Online LaTeX Editor Overleaf"
           },
           {
-            "start": "15:58",
+            "cat": "research",
             "end": "15:59",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "2005.11401",
-            "note": "arxiv.org"
+            "start": "15:58",
+            "title": "2005.11401"
           },
           {
-            "start": "15:59",
+            "cat": "coding",
             "end": "16:04",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "15:59",
+            "title": "codex"
           },
           {
-            "start": "16:04",
+            "cat": "research",
             "end": "16:10",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "2005.11401",
-            "note": "arxiv.org"
+            "start": "16:04",
+            "title": "2005.11401"
           },
           {
-            "start": "16:10",
+            "cat": "coding",
             "end": "16:23",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "16:10",
+            "title": "codex"
           },
           {
-            "start": "16:23",
+            "cat": "research",
             "end": "16:33",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "2005.11401",
-            "note": "arxiv.org"
+            "start": "16:23",
+            "title": "2005.11401"
           },
           {
-            "start": "16:33",
+            "cat": "coding",
             "end": "16:38",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "16:33",
+            "title": "codex"
           },
           {
-            "start": "16:38",
+            "cat": "research",
             "end": "16:54",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "2005.11401",
-            "note": "arxiv.org"
+            "start": "16:38",
+            "title": "2005.11401"
           },
           {
-            "start": "16:54",
+            "cat": "coding",
             "end": "16:57",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "16:54",
+            "title": "codex"
           },
           {
-            "start": "16:57",
+            "cat": "research",
             "end": "16:59",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "2005.11401",
-            "note": "arxiv.org"
+            "start": "16:57",
+            "title": "2005.11401"
           },
           {
-            "start": "16:59",
+            "cat": "coding",
             "end": "17:01",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "16:59",
+            "title": "codex"
           },
           {
-            "start": "17:01",
+            "cat": "research",
             "end": "17:30",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "2005.11401",
-            "note": "arxiv.org"
+            "start": "17:01",
+            "title": "2005.11401"
           },
           {
-            "start": "17:30",
+            "cat": "coding",
             "end": "17:34",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "17:30",
+            "title": "codex"
           },
           {
-            "start": "17:34",
+            "cat": "research",
             "end": "17:50",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "2005.11401",
-            "note": "arxiv.org"
+            "start": "17:34",
+            "title": "2005.11401"
           },
           {
-            "start": "17:51",
+            "cat": "research",
             "end": "17:58",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "17:51",
+            "title": "zotero"
           },
           {
-            "start": "17:59",
+            "cat": "research",
             "end": "18:08",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "17:59",
+            "title": "zotero"
           },
           {
-            "start": "19:42",
+            "cat": "admin",
             "end": "19:44",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "19:42",
+            "title": "Outlook"
           },
           {
-            "start": "19:45",
+            "cat": "personal",
             "end": "19:53",
-            "cat": "personal",
+            "note": "youtube.com",
             "src": "macos",
-            "title": "(1) CMU AI Agents 2026: 1. What are Agents and How Do They W",
-            "note": "youtube.com"
+            "start": "19:45",
+            "title": "(1) CMU AI Agents 2026: 1. What are Agents and How Do They W"
           },
           {
-            "start": "19:58",
+            "cat": "personal",
             "end": "20:07",
-            "cat": "personal",
+            "note": "youtube.com",
             "src": "macos",
-            "title": "(1) CMU AI Agents 2026: 1. What are Agents and How Do They W",
-            "note": "youtube.com"
+            "start": "19:58",
+            "title": "(1) CMU AI Agents 2026: 1. What are Agents and How Do They W"
           },
           {
-            "start": "20:11",
+            "cat": "admin",
             "end": "20:12",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Rebound Session Recor",
-            "note": "ilearn.mq.edu.au"
+            "start": "20:11",
+            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Rebound Session Recor"
           },
           {
-            "start": "20:12",
+            "cat": "coding",
             "end": "20:14",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "20:12",
+            "title": "codex"
           },
           {
-            "start": "20:14",
+            "cat": "admin",
             "end": "21:10",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Rebound Session Recor",
-            "note": "ilearn.mq.edu.au"
+            "start": "20:14",
+            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Rebound Session Recor"
           },
           {
-            "start": "21:10",
-            "end": "21:32",
             "cat": "coding",
+            "end": "21:32",
+            "note": "translucent.io",
             "src": "macos",
-            "title": "The #1 Tool Multi-Entity for Finance Teams | Translucent",
-            "note": "translucent.io"
+            "start": "21:10",
+            "title": "The #1 Tool Multi-Entity for Finance Teams | Translucent"
           },
           {
-            "start": "21:35",
+            "cat": "writing",
             "end": "21:37",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Data Science - Assessments (S2-2026) - Google Sheets",
-            "note": "docs.google.com"
+            "start": "21:35",
+            "title": "Data Science - Assessments (S2-2026) - Google Sheets"
           },
           {
-            "start": "21:37",
+            "cat": "admin",
             "end": "21:38",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Grader report | COMP2200 Data Science / COMP6200 | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "21:37",
+            "title": "Grader report | COMP2200 Data Science / COMP6200 | iLearn"
           },
           {
-            "start": "21:39",
+            "cat": "admin",
             "end": "21:43",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "21:39",
+            "title": "Outlook"
           },
           {
-            "start": "21:44",
+            "cat": "admin",
             "end": "21:46",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Grader report | COMP2200 Data Science / COMP6200 | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "21:44",
+            "title": "Grader report | COMP2200 Data Science / COMP6200 | iLearn"
           },
           {
-            "start": "21:47",
+            "cat": "writing",
             "end": "21:48",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Data Science - Assessments (S2-2026) - Google Sheets",
-            "note": "docs.google.com"
+            "start": "21:47",
+            "title": "Data Science - Assessments (S2-2026) - Google Sheets"
           },
           {
-            "start": "21:49",
+            "cat": "admin",
             "end": "21:52",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Grader report | COMP2200 Data Science / COMP6200 | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "21:49",
+            "title": "Grader report | COMP2200 Data Science / COMP6200 | iLearn"
           },
           {
-            "start": "21:52",
-            "end": "21:55",
             "cat": "writing",
+            "end": "21:55",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Data Science - Assessments (S2-2026) - Google Sheets",
-            "note": "docs.google.com"
+            "start": "21:52",
+            "title": "Data Science - Assessments (S2-2026) - Google Sheets"
           },
           {
-            "start": "21:55",
+            "cat": "admin",
             "end": "21:59",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Grader report | COMP2200 Data Science / COMP6200 | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "21:55",
+            "title": "Grader report | COMP2200 Data Science / COMP6200 | iLearn"
           },
           {
-            "start": "22:01",
-            "end": "22:02",
             "cat": "admin",
+            "end": "22:02",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "22:01",
+            "title": "Outlook"
           }
         ],
+        "key": "2026-9-15",
         "logged": 491,
-        "real": 379,
-        "deep": 379,
         "ratio": 0.7723053950797936,
+        "real": 379,
         "stats": {
           "contextSwitches": 42,
-          "tabsOpened": 0,
+          "justOneMoreThing": 3,
           "longestFocus": "3h 19m",
-          "justOneMoreThing": 3
-        }
+          "tabsOpened": 0
+        },
+        "weekend": false
       },
       {
         "key": "2026-9-16",
@@ -81827,35 +81827,555 @@
         "weekend": false,
         "dateShort": "Wed, Sep 16",
         "dateLong": "Wednesday, September 16",
-        "dayStart": "10:02",
-        "dayEnd": "10:29",
+        "dayStart": "10:08",
+        "dayEnd": "20:47",
         "events": [
           {
-            "start": "10:02",
-            "end": "10:07",
-            "cat": "writing",
-            "src": "local",
-            "title": "2026-09-16-introducing-gemini-3-8-live-and-3-8-live-extended",
-            "note": "1 hit"
+            "start": "10:08",
+            "end": "10:10",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
           },
           {
-            "start": "10:09",
-            "end": "10:29",
+            "start": "10:10",
+            "end": "10:44",
+            "cat": "coding",
+            "src": "macos",
+            "title": "OpenHands | The Open Platform for Cloud Coding Agents",
+            "note": "openhands.dev"
+          },
+          {
+            "start": "10:44",
+            "end": "10:53",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Official MCP Registry",
+            "note": "registry.modelcontextprotocol.io"
+          },
+          {
+            "start": "10:53",
+            "end": "10:57",
+            "cat": "research",
+            "src": "macos",
+            "title": "Teaching - Graham Neubig",
+            "note": "phontron.com"
+          },
+          {
+            "start": "10:57",
+            "end": "11:09",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Tool & Function Calling - Use Tools with OpenRouter",
+            "note": "openrouter.ai"
+          },
+          {
+            "start": "11:09",
+            "end": "11:16",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(1) CMU AI Agents 2026: 3. Long Context Modeling for Agents ",
+            "note": "youtube.com"
+          },
+          {
+            "start": "11:16",
+            "end": "11:17",
+            "cat": "writing",
+            "src": "macos",
+            "title": "obsidian",
+            "note": "md.obsidian"
+          },
+          {
+            "start": "11:17",
+            "end": "11:20",
+            "cat": "writing",
+            "src": "macos",
+            "title": "obsidian",
+            "note": "md.obsidian"
+          },
+          {
+            "start": "11:20",
+            "end": "11:43",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(1) CMU AI Agents 2026: 3. Long Context Modeling for Agents ",
+            "note": "youtube.com"
+          },
+          {
+            "start": "11:43",
+            "end": "12:04",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "12:04",
+            "end": "12:18",
+            "cat": "research",
+            "src": "macos",
+            "title": "2310.01082",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "13:01",
+            "end": "13:09",
             "cat": "admin",
-            "src": "chrome",
-            "title": "https://www.google.com/search?q=openhands&rlz=1C5BAPC_en__11",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "13:10",
+            "end": "13:11",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "13:12",
+            "end": "13:15",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "13:15",
+            "end": "13:16",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "teams2",
+            "note": "com.microsoft.teams2"
+          },
+          {
+            "start": "13:16",
+            "end": "13:22",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Editing a CodeRunner question | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "13:22",
+            "end": "13:24",
+            "cat": "research",
+            "src": "macos",
+            "title": "cv_songlin_yang.pdf",
+            "note": "sustcsonglin.github.io"
+          },
+          {
+            "start": "13:24",
+            "end": "13:25",
+            "cat": "research",
+            "src": "macos",
+            "title": "2406.06484",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "13:25",
+            "end": "13:32",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "13:32",
+            "end": "13:34",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
+            "note": "sport.mq.edu.au"
+          },
+          {
+            "start": "13:35",
+            "end": "13:39",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Daniel Fried: CV",
+            "note": "dpfried.github.io"
+          },
+          {
+            "start": "13:39",
+            "end": "13:40",
+            "cat": "research",
+            "src": "macos",
+            "title": "Research - Graham Neubig",
+            "note": "phontron.com"
+          },
+          {
+            "start": "13:41",
+            "end": "13:43",
+            "cat": "research",
+            "src": "macos",
+            "title": "NARA Institute of Science and Technology",
+            "note": "naist.jp"
+          },
+          {
+            "start": "13:43",
+            "end": "13:55",
+            "cat": "research",
+            "src": "macos",
+            "title": "2407.16741",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "14:00",
+            "end": "14:07",
+            "cat": "research",
+            "src": "macos",
+            "title": "2407.16741",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "14:07",
+            "end": "14:10",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "14:10",
+            "end": "14:41",
+            "cat": "research",
+            "src": "macos",
+            "title": "ChatGPT",
+            "note": "chatgpt.com"
+          },
+          {
+            "start": "14:41",
+            "end": "14:42",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "14:42",
+            "end": "14:55",
+            "cat": "research",
+            "src": "macos",
+            "title": "ChatGPT",
+            "note": "chatgpt.com"
+          },
+          {
+            "start": "14:55",
+            "end": "14:56",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "teams2",
+            "note": "com.microsoft.teams2"
+          },
+          {
+            "start": "14:56",
+            "end": "15:10",
+            "cat": "admin",
+            "src": "macos",
+            "title": "agents.docx",
+            "note": "mqoutlook-my.sharepoint.com"
+          },
+          {
+            "start": "15:10",
+            "end": "15:12",
+            "cat": "admin",
+            "src": "macos",
+            "title": "METR long horizon - Google Search",
             "note": "google.com"
+          },
+          {
+            "start": "15:12",
+            "end": "15:20",
+            "cat": "research",
+            "src": "macos",
+            "title": "Task-Completion Time Horizons of Frontier AI Models - METR",
+            "note": "metr.org"
+          },
+          {
+            "start": "15:23",
+            "end": "15:27",
+            "cat": "research",
+            "src": "macos",
+            "title": "Task-Completion Time Horizons of Frontier AI Models - METR",
+            "note": "metr.org"
+          },
+          {
+            "start": "15:27",
+            "end": "15:28",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "15:28",
+            "end": "15:30",
+            "cat": "research",
+            "src": "macos",
+            "title": "Round up meaning",
+            "note": "chatgpt.com"
+          },
+          {
+            "start": "15:32",
+            "end": "15:34",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Preview question: Diabetes_Orange_Analysis_Cloze_V2 | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "15:35",
+            "end": "15:36",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "15:36",
+            "end": "15:38",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "teams2",
+            "note": "com.microsoft.teams2"
+          },
+          {
+            "start": "15:38",
+            "end": "15:39",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "15:41",
+            "end": "15:46",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "15:46",
+            "end": "15:48",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Preview question: Diabetes_Orange_Analysis_Cloze_V2 | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "15:48",
+            "end": "15:49",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "teams2",
+            "note": "com.microsoft.teams2"
+          },
+          {
+            "start": "15:49",
+            "end": "15:51",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Preview question: Diabetes_Orange_Analysis_Cloze_V2 | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "15:51",
+            "end": "15:52",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "teams2",
+            "note": "com.microsoft.teams2"
+          },
+          {
+            "start": "15:52",
+            "end": "16:04",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Preview question: Diabetes_Orange_Analysis_Cloze_V2 | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "16:04",
+            "end": "16:12",
+            "cat": "research",
+            "src": "macos",
+            "title": "ChatGPT",
+            "note": "chatgpt.com"
+          },
+          {
+            "start": "16:14",
+            "end": "16:33",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Preview question: MisleadingInfographic_Matching1 | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "16:35",
+            "end": "16:37",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "teams2",
+            "note": "com.microsoft.teams2"
+          },
+          {
+            "start": "16:37",
+            "end": "16:38",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "16:38",
+            "end": "16:47",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "teams2",
+            "note": "com.microsoft.teams2"
+          },
+          {
+            "start": "16:47",
+            "end": "16:50",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "16:50",
+            "end": "16:57",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "teams2",
+            "note": "com.microsoft.teams2"
+          },
+          {
+            "start": "16:57",
+            "end": "16:58",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "16:59",
+            "end": "17:02",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "19:06",
+            "end": "19:16",
+            "cat": "personal",
+            "src": "macos",
+            "title": "CMU AI Agents 2026: 4. Memory and Skills for Agents - YouTub",
+            "note": "youtube.com"
+          },
+          {
+            "start": "19:16",
+            "end": "19:31",
+            "cat": "personal",
+            "src": "macos",
+            "title": "CMU AI Agents 2026: 4. Memory and Skills for Agents - YouTub",
+            "note": "youtube.com"
+          },
+          {
+            "start": "19:31",
+            "end": "19:35",
+            "cat": "research",
+            "src": "macos",
+            "title": "[2602.12670] SkillsBench: Benchmarking How Well Agent Skills",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "19:35",
+            "end": "19:41",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "19:41",
+            "end": "19:46",
+            "cat": "admin",
+            "src": "macos",
+            "title": "舔狗 english - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "19:49",
+            "end": "19:51",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google",
+            "note": "google.com"
+          },
+          {
+            "start": "19:51",
+            "end": "19:53",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "19:53",
+            "end": "20:00",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google",
+            "note": "google.com"
+          },
+          {
+            "start": "20:04",
+            "end": "20:18",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google",
+            "note": "google.com"
+          },
+          {
+            "start": "20:18",
+            "end": "20:20",
+            "cat": "research",
+            "src": "macos",
+            "title": "Songlin Yang",
+            "note": "sustcsonglin.github.io"
+          },
+          {
+            "start": "20:20",
+            "end": "20:39",
+            "cat": "research",
+            "src": "macos",
+            "title": "Publications | Songlin Yang",
+            "note": "sustcsonglin.github.io"
+          },
+          {
+            "start": "20:42",
+            "end": "20:47",
+            "cat": "research",
+            "src": "macos",
+            "title": "Publications | Songlin Yang",
+            "note": "sustcsonglin.github.io"
           }
         ],
-        "logged": 25,
-        "real": 5,
-        "deep": 5,
-        "ratio": 0.20275846922768032,
+        "logged": 439,
+        "real": 268,
+        "deep": 268,
+        "ratio": 0.6108998681676353,
         "stats": {
-          "contextSwitches": 1,
-          "tabsOpened": 3,
-          "longestFocus": "5m",
-          "justOneMoreThing": 0
+          "contextSwitches": 46,
+          "tabsOpened": 0,
+          "longestFocus": "59m",
+          "justOneMoreThing": 10
         }
       },
       {
@@ -81865,17 +82385,26 @@
         "weekend": false,
         "dateShort": "Thu, Sep 17",
         "dateLong": "Thursday, September 17",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "10:14",
+        "dayEnd": "10:17",
+        "events": [
+          {
+            "start": "10:14",
+            "end": "10:17",
+            "cat": "research",
+            "src": "chrome",
+            "title": "How a PhD Can Survive? | Ada's Notes",
+            "note": "adaren100.github.io"
+          }
+        ],
+        "logged": 3,
+        "real": 3,
+        "deep": 3,
+        "ratio": 1.0,
         "stats": {
           "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "0m",
+          "tabsOpened": 3,
+          "longestFocus": "3m",
           "justOneMoreThing": 0
         }
       },
@@ -88862,594 +89391,594 @@
       "weekend": false
     },
     {
-      "key": "2026-9-15",
-      "dayNum": 15,
-      "dow": 2,
-      "weekend": false,
-      "dateShort": "Tue, Sep 15",
       "dateLong": "Tuesday, September 15",
-      "dayStart": "10:07",
+      "dateShort": "Tue, Sep 15",
       "dayEnd": "22:02",
+      "dayNum": 15,
+      "dayStart": "10:07",
+      "deep": 379,
+      "dow": 2,
       "events": [
         {
-          "start": "10:07",
+          "cat": "personal",
           "end": "10:09",
-          "cat": "personal",
+          "note": "1 hit",
           "src": "claude",
-          "title": "English learning tools",
-          "note": "1 hit"
+          "start": "10:07",
+          "title": "English learning tools"
         },
         {
-          "start": "10:09",
+          "cat": "personal",
           "end": "10:10",
-          "cat": "personal",
+          "note": "1 hit",
           "src": "claude",
-          "title": "English learning tools",
-          "note": "1 hit"
+          "start": "10:09",
+          "title": "English learning tools"
         },
         {
-          "start": "10:11",
+          "cat": "coding",
           "end": "10:12",
-          "cat": "coding",
+          "note": "104 hits",
           "src": "claude",
-          "title": "PhD daily log bug",
-          "note": "104 hits"
+          "start": "10:11",
+          "title": "PhD daily log bug"
         },
         {
-          "start": "10:12",
+          "cat": "coding",
           "end": "10:14",
-          "cat": "coding",
+          "note": "104 hits",
           "src": "claude",
-          "title": "PhD daily log bug",
-          "note": "104 hits"
+          "start": "10:12",
+          "title": "PhD daily log bug"
         },
         {
-          "start": "10:14",
+          "cat": "coding",
           "end": "10:15",
-          "cat": "coding",
+          "note": "104 hits",
           "src": "claude",
-          "title": "PhD daily log bug",
-          "note": "104 hits"
+          "start": "10:14",
+          "title": "PhD daily log bug"
         },
         {
-          "start": "10:15",
+          "cat": "writing",
           "end": "10:18",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Data Science - Assessments (S2-2026) - Google Sheets",
-          "note": "docs.google.com"
+          "start": "10:15",
+          "title": "Data Science - Assessments (S2-2026) - Google Sheets"
         },
         {
-          "start": "10:18",
+          "cat": "admin",
           "end": "10:20",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "10:18",
+          "title": "Outlook"
         },
         {
-          "start": "10:22",
+          "cat": "research",
           "end": "10:23",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "macos",
-          "title": "Ada's Notes",
-          "note": "adaren100.github.io"
+          "start": "10:22",
+          "title": "Ada's Notes"
         },
         {
-          "start": "10:24",
+          "cat": "coding",
           "end": "10:32",
-          "cat": "coding",
+          "note": "78 hits",
           "src": "claude",
-          "title": "PhD daily log bug",
-          "note": "78 hits"
+          "start": "10:24",
+          "title": "PhD daily log bug"
         },
         {
-          "start": "10:32",
+          "cat": "research",
           "end": "10:34",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "10:32",
+          "title": "zotero"
         },
         {
-          "start": "10:34",
+          "cat": "research",
           "end": "10:36",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "10:34",
+          "title": "zotero"
         },
         {
-          "start": "10:36",
+          "cat": "research",
           "end": "10:38",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "10:36",
+          "title": "zotero"
         },
         {
-          "start": "10:38",
+          "cat": "research",
           "end": "10:46",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "10:38",
+          "title": "zotero"
         },
         {
-          "start": "10:46",
+          "cat": "research",
           "end": "10:51",
-          "cat": "research",
+          "note": "chatgpt.com",
           "src": "macos",
-          "title": "ChatGPT",
-          "note": "chatgpt.com"
+          "start": "10:46",
+          "title": "ChatGPT"
         },
         {
-          "start": "10:51",
+          "cat": "research",
           "end": "11:08",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "10:51",
+          "title": "zotero"
         },
         {
-          "start": "11:08",
+          "cat": "research",
           "end": "11:11",
-          "cat": "research",
+          "note": "chatgpt.com",
           "src": "macos",
-          "title": "翻译智能体AI价值",
-          "note": "chatgpt.com"
+          "start": "11:08",
+          "title": "翻译智能体AI价值"
         },
         {
-          "start": "11:12",
+          "cat": "research",
           "end": "11:13",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "11:12",
+          "title": "zotero"
         },
         {
-          "start": "11:14",
+          "cat": "research",
           "end": "11:26",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "11:14",
+          "title": "zotero"
         },
         {
-          "start": "11:27",
+          "cat": "research",
           "end": "11:30",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "11:27",
+          "title": "zotero"
         },
         {
-          "start": "11:30",
+          "cat": "research",
           "end": "11:44",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "11:30",
+          "title": "zotero"
         },
         {
-          "start": "11:47",
+          "cat": "research",
           "end": "12:03",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "11:47",
+          "title": "zotero"
         },
         {
-          "start": "12:03",
+          "cat": "research",
           "end": "12:04",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "12:03",
+          "title": "zotero"
         },
         {
-          "start": "12:05",
+          "cat": "research",
           "end": "12:12",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "12:05",
+          "title": "zotero"
         },
         {
-          "start": "13:19",
+          "cat": "admin",
           "end": "13:23",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "13:19",
+          "title": "Outlook"
         },
         {
-          "start": "13:26",
+          "cat": "admin",
           "end": "13:30",
-          "cat": "admin",
+          "note": "mq.service-now.com",
           "src": "macos",
-          "title": "My Profile - Employee",
-          "note": "mq.service-now.com"
+          "start": "13:26",
+          "title": "My Profile - Employee"
         },
         {
-          "start": "13:31",
+          "cat": "admin",
           "end": "13:35",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "13:31",
+          "title": "Outlook"
         },
         {
-          "start": "13:48",
+          "cat": "research",
           "end": "14:01",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "13:48",
+          "title": "zotero"
         },
         {
-          "start": "14:03",
+          "cat": "research",
           "end": "14:21",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "14:03",
+          "title": "zotero"
         },
         {
-          "start": "14:22",
+          "cat": "research",
           "end": "14:28",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "14:22",
+          "title": "zotero"
         },
         {
-          "start": "14:28",
+          "cat": "admin",
           "end": "14:31",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "macos",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "14:28",
+          "title": "Google Translate"
         },
         {
-          "start": "14:31",
+          "cat": "research",
           "end": "14:37",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "14:31",
+          "title": "zotero"
         },
         {
-          "start": "14:37",
+          "cat": "writing",
           "end": "14:39",
-          "cat": "writing",
+          "note": "overleaf.com",
           "src": "macos",
-          "title": "PhD COC - Online LaTeX Editor Overleaf",
-          "note": "overleaf.com"
+          "start": "14:37",
+          "title": "PhD COC - Online LaTeX Editor Overleaf"
         },
         {
-          "start": "14:39",
+          "cat": "research",
           "end": "14:41",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "14:39",
+          "title": "zotero"
         },
         {
-          "start": "14:53",
+          "cat": "research",
           "end": "14:55",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "14:53",
+          "title": "zotero"
         },
         {
-          "start": "14:55",
+          "cat": "writing",
           "end": "14:59",
-          "cat": "writing",
+          "note": "overleaf.com",
           "src": "macos",
-          "title": "PhD COC - Online LaTeX Editor Overleaf",
-          "note": "overleaf.com"
+          "start": "14:55",
+          "title": "PhD COC - Online LaTeX Editor Overleaf"
         },
         {
-          "start": "14:59",
+          "cat": "research",
           "end": "15:14",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "14:59",
+          "title": "zotero"
         },
         {
-          "start": "15:14",
+          "cat": "writing",
           "end": "15:22",
-          "cat": "writing",
+          "note": "overleaf.com",
           "src": "macos",
-          "title": "PhD COC - Online LaTeX Editor Overleaf",
-          "note": "overleaf.com"
+          "start": "15:14",
+          "title": "PhD COC - Online LaTeX Editor Overleaf"
         },
         {
-          "start": "15:22",
+          "cat": "research",
           "end": "15:31",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "15:22",
+          "title": "zotero"
         },
         {
-          "start": "15:31",
+          "cat": "writing",
           "end": "15:47",
-          "cat": "writing",
+          "note": "overleaf.com",
           "src": "macos",
-          "title": "PhD COC - Online LaTeX Editor Overleaf",
-          "note": "overleaf.com"
+          "start": "15:31",
+          "title": "PhD COC - Online LaTeX Editor Overleaf"
         },
         {
-          "start": "15:52",
+          "cat": "writing",
           "end": "15:58",
-          "cat": "writing",
+          "note": "overleaf.com",
           "src": "macos",
-          "title": "PhD COC - Online LaTeX Editor Overleaf",
-          "note": "overleaf.com"
+          "start": "15:52",
+          "title": "PhD COC - Online LaTeX Editor Overleaf"
         },
         {
-          "start": "15:58",
+          "cat": "research",
           "end": "15:59",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "2005.11401",
-          "note": "arxiv.org"
+          "start": "15:58",
+          "title": "2005.11401"
         },
         {
-          "start": "15:59",
+          "cat": "coding",
           "end": "16:04",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "15:59",
+          "title": "codex"
         },
         {
-          "start": "16:04",
+          "cat": "research",
           "end": "16:10",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "2005.11401",
-          "note": "arxiv.org"
+          "start": "16:04",
+          "title": "2005.11401"
         },
         {
-          "start": "16:10",
+          "cat": "coding",
           "end": "16:23",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "16:10",
+          "title": "codex"
         },
         {
-          "start": "16:23",
+          "cat": "research",
           "end": "16:33",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "2005.11401",
-          "note": "arxiv.org"
+          "start": "16:23",
+          "title": "2005.11401"
         },
         {
-          "start": "16:33",
+          "cat": "coding",
           "end": "16:38",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "16:33",
+          "title": "codex"
         },
         {
-          "start": "16:38",
+          "cat": "research",
           "end": "16:54",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "2005.11401",
-          "note": "arxiv.org"
+          "start": "16:38",
+          "title": "2005.11401"
         },
         {
-          "start": "16:54",
+          "cat": "coding",
           "end": "16:57",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "16:54",
+          "title": "codex"
         },
         {
-          "start": "16:57",
+          "cat": "research",
           "end": "16:59",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "2005.11401",
-          "note": "arxiv.org"
+          "start": "16:57",
+          "title": "2005.11401"
         },
         {
-          "start": "16:59",
+          "cat": "coding",
           "end": "17:01",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "16:59",
+          "title": "codex"
         },
         {
-          "start": "17:01",
+          "cat": "research",
           "end": "17:30",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "2005.11401",
-          "note": "arxiv.org"
+          "start": "17:01",
+          "title": "2005.11401"
         },
         {
-          "start": "17:30",
+          "cat": "coding",
           "end": "17:34",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "17:30",
+          "title": "codex"
         },
         {
-          "start": "17:34",
+          "cat": "research",
           "end": "17:50",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "2005.11401",
-          "note": "arxiv.org"
+          "start": "17:34",
+          "title": "2005.11401"
         },
         {
-          "start": "17:51",
+          "cat": "research",
           "end": "17:58",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "17:51",
+          "title": "zotero"
         },
         {
-          "start": "17:59",
+          "cat": "research",
           "end": "18:08",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "17:59",
+          "title": "zotero"
         },
         {
-          "start": "19:42",
+          "cat": "admin",
           "end": "19:44",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "19:42",
+          "title": "Outlook"
         },
         {
-          "start": "19:45",
+          "cat": "personal",
           "end": "19:53",
-          "cat": "personal",
+          "note": "youtube.com",
           "src": "macos",
-          "title": "(1) CMU AI Agents 2026: 1. What are Agents and How Do They W",
-          "note": "youtube.com"
+          "start": "19:45",
+          "title": "(1) CMU AI Agents 2026: 1. What are Agents and How Do They W"
         },
         {
-          "start": "19:58",
+          "cat": "personal",
           "end": "20:07",
-          "cat": "personal",
+          "note": "youtube.com",
           "src": "macos",
-          "title": "(1) CMU AI Agents 2026: 1. What are Agents and How Do They W",
-          "note": "youtube.com"
+          "start": "19:58",
+          "title": "(1) CMU AI Agents 2026: 1. What are Agents and How Do They W"
         },
         {
-          "start": "20:11",
+          "cat": "admin",
           "end": "20:12",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Rebound Session Recor",
-          "note": "ilearn.mq.edu.au"
+          "start": "20:11",
+          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Rebound Session Recor"
         },
         {
-          "start": "20:12",
+          "cat": "coding",
           "end": "20:14",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "20:12",
+          "title": "codex"
         },
         {
-          "start": "20:14",
+          "cat": "admin",
           "end": "21:10",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Rebound Session Recor",
-          "note": "ilearn.mq.edu.au"
+          "start": "20:14",
+          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Rebound Session Recor"
         },
         {
-          "start": "21:10",
-          "end": "21:32",
           "cat": "coding",
+          "end": "21:32",
+          "note": "translucent.io",
           "src": "macos",
-          "title": "The #1 Tool Multi-Entity for Finance Teams | Translucent",
-          "note": "translucent.io"
+          "start": "21:10",
+          "title": "The #1 Tool Multi-Entity for Finance Teams | Translucent"
         },
         {
-          "start": "21:35",
+          "cat": "writing",
           "end": "21:37",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Data Science - Assessments (S2-2026) - Google Sheets",
-          "note": "docs.google.com"
+          "start": "21:35",
+          "title": "Data Science - Assessments (S2-2026) - Google Sheets"
         },
         {
-          "start": "21:37",
+          "cat": "admin",
           "end": "21:38",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Grader report | COMP2200 Data Science / COMP6200 | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "21:37",
+          "title": "Grader report | COMP2200 Data Science / COMP6200 | iLearn"
         },
         {
-          "start": "21:39",
+          "cat": "admin",
           "end": "21:43",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "21:39",
+          "title": "Outlook"
         },
         {
-          "start": "21:44",
+          "cat": "admin",
           "end": "21:46",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Grader report | COMP2200 Data Science / COMP6200 | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "21:44",
+          "title": "Grader report | COMP2200 Data Science / COMP6200 | iLearn"
         },
         {
-          "start": "21:47",
+          "cat": "writing",
           "end": "21:48",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Data Science - Assessments (S2-2026) - Google Sheets",
-          "note": "docs.google.com"
+          "start": "21:47",
+          "title": "Data Science - Assessments (S2-2026) - Google Sheets"
         },
         {
-          "start": "21:49",
+          "cat": "admin",
           "end": "21:52",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Grader report | COMP2200 Data Science / COMP6200 | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "21:49",
+          "title": "Grader report | COMP2200 Data Science / COMP6200 | iLearn"
         },
         {
-          "start": "21:52",
-          "end": "21:55",
           "cat": "writing",
+          "end": "21:55",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Data Science - Assessments (S2-2026) - Google Sheets",
-          "note": "docs.google.com"
+          "start": "21:52",
+          "title": "Data Science - Assessments (S2-2026) - Google Sheets"
         },
         {
-          "start": "21:55",
+          "cat": "admin",
           "end": "21:59",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Grader report | COMP2200 Data Science / COMP6200 | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "21:55",
+          "title": "Grader report | COMP2200 Data Science / COMP6200 | iLearn"
         },
         {
-          "start": "22:01",
-          "end": "22:02",
           "cat": "admin",
+          "end": "22:02",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "22:01",
+          "title": "Outlook"
         }
       ],
+      "key": "2026-9-15",
       "logged": 491,
-      "real": 379,
-      "deep": 379,
       "ratio": 0.7723053950797936,
+      "real": 379,
       "stats": {
         "contextSwitches": 42,
-        "tabsOpened": 0,
+        "justOneMoreThing": 3,
         "longestFocus": "3h 19m",
-        "justOneMoreThing": 3
-      }
+        "tabsOpened": 0
+      },
+      "weekend": false
     },
     {
       "key": "2026-9-16",
@@ -89458,35 +89987,555 @@
       "weekend": false,
       "dateShort": "Wed, Sep 16",
       "dateLong": "Wednesday, September 16",
-      "dayStart": "10:02",
-      "dayEnd": "10:29",
+      "dayStart": "10:08",
+      "dayEnd": "20:47",
       "events": [
         {
-          "start": "10:02",
-          "end": "10:07",
-          "cat": "writing",
-          "src": "local",
-          "title": "2026-09-16-introducing-gemini-3-8-live-and-3-8-live-extended",
-          "note": "1 hit"
+          "start": "10:08",
+          "end": "10:10",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
         },
         {
-          "start": "10:09",
-          "end": "10:29",
+          "start": "10:10",
+          "end": "10:44",
+          "cat": "coding",
+          "src": "macos",
+          "title": "OpenHands | The Open Platform for Cloud Coding Agents",
+          "note": "openhands.dev"
+        },
+        {
+          "start": "10:44",
+          "end": "10:53",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Official MCP Registry",
+          "note": "registry.modelcontextprotocol.io"
+        },
+        {
+          "start": "10:53",
+          "end": "10:57",
+          "cat": "research",
+          "src": "macos",
+          "title": "Teaching - Graham Neubig",
+          "note": "phontron.com"
+        },
+        {
+          "start": "10:57",
+          "end": "11:09",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Tool & Function Calling - Use Tools with OpenRouter",
+          "note": "openrouter.ai"
+        },
+        {
+          "start": "11:09",
+          "end": "11:16",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(1) CMU AI Agents 2026: 3. Long Context Modeling for Agents ",
+          "note": "youtube.com"
+        },
+        {
+          "start": "11:16",
+          "end": "11:17",
+          "cat": "writing",
+          "src": "macos",
+          "title": "obsidian",
+          "note": "md.obsidian"
+        },
+        {
+          "start": "11:17",
+          "end": "11:20",
+          "cat": "writing",
+          "src": "macos",
+          "title": "obsidian",
+          "note": "md.obsidian"
+        },
+        {
+          "start": "11:20",
+          "end": "11:43",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(1) CMU AI Agents 2026: 3. Long Context Modeling for Agents ",
+          "note": "youtube.com"
+        },
+        {
+          "start": "11:43",
+          "end": "12:04",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "12:04",
+          "end": "12:18",
+          "cat": "research",
+          "src": "macos",
+          "title": "2310.01082",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "13:01",
+          "end": "13:09",
           "cat": "admin",
-          "src": "chrome",
-          "title": "https://www.google.com/search?q=openhands&rlz=1C5BAPC_en__11",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "13:10",
+          "end": "13:11",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "13:12",
+          "end": "13:15",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "13:15",
+          "end": "13:16",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "teams2",
+          "note": "com.microsoft.teams2"
+        },
+        {
+          "start": "13:16",
+          "end": "13:22",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Editing a CodeRunner question | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "13:22",
+          "end": "13:24",
+          "cat": "research",
+          "src": "macos",
+          "title": "cv_songlin_yang.pdf",
+          "note": "sustcsonglin.github.io"
+        },
+        {
+          "start": "13:24",
+          "end": "13:25",
+          "cat": "research",
+          "src": "macos",
+          "title": "2406.06484",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "13:25",
+          "end": "13:32",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "13:32",
+          "end": "13:34",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
+          "note": "sport.mq.edu.au"
+        },
+        {
+          "start": "13:35",
+          "end": "13:39",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Daniel Fried: CV",
+          "note": "dpfried.github.io"
+        },
+        {
+          "start": "13:39",
+          "end": "13:40",
+          "cat": "research",
+          "src": "macos",
+          "title": "Research - Graham Neubig",
+          "note": "phontron.com"
+        },
+        {
+          "start": "13:41",
+          "end": "13:43",
+          "cat": "research",
+          "src": "macos",
+          "title": "NARA Institute of Science and Technology",
+          "note": "naist.jp"
+        },
+        {
+          "start": "13:43",
+          "end": "13:55",
+          "cat": "research",
+          "src": "macos",
+          "title": "2407.16741",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "14:00",
+          "end": "14:07",
+          "cat": "research",
+          "src": "macos",
+          "title": "2407.16741",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "14:07",
+          "end": "14:10",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "14:10",
+          "end": "14:41",
+          "cat": "research",
+          "src": "macos",
+          "title": "ChatGPT",
+          "note": "chatgpt.com"
+        },
+        {
+          "start": "14:41",
+          "end": "14:42",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "14:42",
+          "end": "14:55",
+          "cat": "research",
+          "src": "macos",
+          "title": "ChatGPT",
+          "note": "chatgpt.com"
+        },
+        {
+          "start": "14:55",
+          "end": "14:56",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "teams2",
+          "note": "com.microsoft.teams2"
+        },
+        {
+          "start": "14:56",
+          "end": "15:10",
+          "cat": "admin",
+          "src": "macos",
+          "title": "agents.docx",
+          "note": "mqoutlook-my.sharepoint.com"
+        },
+        {
+          "start": "15:10",
+          "end": "15:12",
+          "cat": "admin",
+          "src": "macos",
+          "title": "METR long horizon - Google Search",
           "note": "google.com"
+        },
+        {
+          "start": "15:12",
+          "end": "15:20",
+          "cat": "research",
+          "src": "macos",
+          "title": "Task-Completion Time Horizons of Frontier AI Models - METR",
+          "note": "metr.org"
+        },
+        {
+          "start": "15:23",
+          "end": "15:27",
+          "cat": "research",
+          "src": "macos",
+          "title": "Task-Completion Time Horizons of Frontier AI Models - METR",
+          "note": "metr.org"
+        },
+        {
+          "start": "15:27",
+          "end": "15:28",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "15:28",
+          "end": "15:30",
+          "cat": "research",
+          "src": "macos",
+          "title": "Round up meaning",
+          "note": "chatgpt.com"
+        },
+        {
+          "start": "15:32",
+          "end": "15:34",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Preview question: Diabetes_Orange_Analysis_Cloze_V2 | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "15:35",
+          "end": "15:36",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "15:36",
+          "end": "15:38",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "teams2",
+          "note": "com.microsoft.teams2"
+        },
+        {
+          "start": "15:38",
+          "end": "15:39",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "15:41",
+          "end": "15:46",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "15:46",
+          "end": "15:48",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Preview question: Diabetes_Orange_Analysis_Cloze_V2 | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "15:48",
+          "end": "15:49",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "teams2",
+          "note": "com.microsoft.teams2"
+        },
+        {
+          "start": "15:49",
+          "end": "15:51",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Preview question: Diabetes_Orange_Analysis_Cloze_V2 | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "15:51",
+          "end": "15:52",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "teams2",
+          "note": "com.microsoft.teams2"
+        },
+        {
+          "start": "15:52",
+          "end": "16:04",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Preview question: Diabetes_Orange_Analysis_Cloze_V2 | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "16:04",
+          "end": "16:12",
+          "cat": "research",
+          "src": "macos",
+          "title": "ChatGPT",
+          "note": "chatgpt.com"
+        },
+        {
+          "start": "16:14",
+          "end": "16:33",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Preview question: MisleadingInfographic_Matching1 | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "16:35",
+          "end": "16:37",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "teams2",
+          "note": "com.microsoft.teams2"
+        },
+        {
+          "start": "16:37",
+          "end": "16:38",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "16:38",
+          "end": "16:47",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "teams2",
+          "note": "com.microsoft.teams2"
+        },
+        {
+          "start": "16:47",
+          "end": "16:50",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "16:50",
+          "end": "16:57",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "teams2",
+          "note": "com.microsoft.teams2"
+        },
+        {
+          "start": "16:57",
+          "end": "16:58",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "16:59",
+          "end": "17:02",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "19:06",
+          "end": "19:16",
+          "cat": "personal",
+          "src": "macos",
+          "title": "CMU AI Agents 2026: 4. Memory and Skills for Agents - YouTub",
+          "note": "youtube.com"
+        },
+        {
+          "start": "19:16",
+          "end": "19:31",
+          "cat": "personal",
+          "src": "macos",
+          "title": "CMU AI Agents 2026: 4. Memory and Skills for Agents - YouTub",
+          "note": "youtube.com"
+        },
+        {
+          "start": "19:31",
+          "end": "19:35",
+          "cat": "research",
+          "src": "macos",
+          "title": "[2602.12670] SkillsBench: Benchmarking How Well Agent Skills",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "19:35",
+          "end": "19:41",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "19:41",
+          "end": "19:46",
+          "cat": "admin",
+          "src": "macos",
+          "title": "舔狗 english - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "19:49",
+          "end": "19:51",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google",
+          "note": "google.com"
+        },
+        {
+          "start": "19:51",
+          "end": "19:53",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "19:53",
+          "end": "20:00",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google",
+          "note": "google.com"
+        },
+        {
+          "start": "20:04",
+          "end": "20:18",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google",
+          "note": "google.com"
+        },
+        {
+          "start": "20:18",
+          "end": "20:20",
+          "cat": "research",
+          "src": "macos",
+          "title": "Songlin Yang",
+          "note": "sustcsonglin.github.io"
+        },
+        {
+          "start": "20:20",
+          "end": "20:39",
+          "cat": "research",
+          "src": "macos",
+          "title": "Publications | Songlin Yang",
+          "note": "sustcsonglin.github.io"
+        },
+        {
+          "start": "20:42",
+          "end": "20:47",
+          "cat": "research",
+          "src": "macos",
+          "title": "Publications | Songlin Yang",
+          "note": "sustcsonglin.github.io"
         }
       ],
-      "logged": 25,
-      "real": 5,
-      "deep": 5,
-      "ratio": 0.20275846922768032,
+      "logged": 439,
+      "real": 268,
+      "deep": 268,
+      "ratio": 0.6108998681676353,
       "stats": {
-        "contextSwitches": 1,
-        "tabsOpened": 3,
-        "longestFocus": "5m",
-        "justOneMoreThing": 0
+        "contextSwitches": 46,
+        "tabsOpened": 0,
+        "longestFocus": "59m",
+        "justOneMoreThing": 10
       }
     },
     {
@@ -89496,17 +90545,26 @@
       "weekend": false,
       "dateShort": "Thu, Sep 17",
       "dateLong": "Thursday, September 17",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "10:14",
+      "dayEnd": "10:17",
+      "events": [
+        {
+          "start": "10:14",
+          "end": "10:17",
+          "cat": "research",
+          "src": "chrome",
+          "title": "How a PhD Can Survive? | Ada's Notes",
+          "note": "adaren100.github.io"
+        }
+      ],
+      "logged": 3,
+      "real": 3,
+      "deep": 3,
+      "ratio": 1.0,
       "stats": {
         "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "0m",
+        "tabsOpened": 3,
+        "longestFocus": "3m",
         "justOneMoreThing": 0
       }
     },
