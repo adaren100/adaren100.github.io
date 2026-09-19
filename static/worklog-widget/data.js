@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-09-18T10:20:11+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-09-19T10:20:13+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -82379,514 +82379,514 @@
         "weekend": false
       },
       {
-        "key": "2026-9-17",
-        "dayNum": 17,
-        "dow": 4,
-        "weekend": false,
-        "dateShort": "Thu, Sep 17",
         "dateLong": "Thursday, September 17",
-        "dayStart": "10:14",
+        "dateShort": "Thu, Sep 17",
         "dayEnd": "18:27",
+        "dayNum": 17,
+        "dayStart": "10:14",
+        "deep": 190,
+        "dow": 4,
         "events": [
           {
-            "start": "10:14",
+            "cat": "admin",
             "end": "10:25",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "10:14",
+            "title": "Outlook"
           },
           {
-            "start": "10:26",
+            "cat": "research",
             "end": "10:30",
-            "cat": "research",
+            "note": "chatgpt.com",
             "src": "macos",
-            "title": "Polish rounding explanation",
-            "note": "chatgpt.com"
+            "start": "10:26",
+            "title": "Polish rounding explanation"
           },
           {
-            "start": "10:30",
+            "cat": "admin",
             "end": "10:33",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "10:30",
+            "title": "Outlook"
           },
           {
-            "start": "10:33",
+            "cat": "research",
             "end": "10:46",
-            "cat": "research",
+            "note": "chatgpt.com",
             "src": "macos",
-            "title": "ChatGPT",
-            "note": "chatgpt.com"
+            "start": "10:33",
+            "title": "ChatGPT"
           },
           {
-            "start": "10:46",
+            "cat": "admin",
             "end": "10:48",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "10:46",
+            "title": "Outlook"
           },
           {
-            "start": "10:50",
+            "cat": "admin",
             "end": "10:51",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Grader report | COMP2200 Data Science / COMP6200 | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "10:50",
+            "title": "Grader report | COMP2200 Data Science / COMP6200 | iLearn"
           },
           {
-            "start": "10:51",
+            "cat": "admin",
             "end": "10:56",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "10:51",
+            "title": "Outlook"
           },
           {
-            "start": "10:56",
+            "cat": "admin",
             "end": "10:57",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "10:56",
+            "title": "Outlook"
           },
           {
-            "start": "10:59",
+            "cat": "admin",
             "end": "11:25",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Machine Learning Project: Attempt review | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "10:59",
+            "title": "Machine Learning Project: Attempt review | iLearn"
           },
           {
-            "start": "11:25",
+            "cat": "admin",
             "end": "11:29",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "11:25",
+            "title": "Outlook"
           },
           {
-            "start": "11:29",
+            "cat": "admin",
             "end": "11:30",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Preview question: Diabetes_Orange_Analysis_Cloze_V2 | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "11:29",
+            "title": "Preview question: Diabetes_Orange_Analysis_Cloze_V2 | iLearn"
           },
           {
-            "start": "11:30",
+            "cat": "coding",
             "end": "11:32",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "11:30",
+            "title": "codex"
           },
           {
-            "start": "11:32",
+            "cat": "research",
             "end": "11:40",
-            "cat": "research",
+            "note": "chatgpt.com",
             "src": "macos",
-            "title": "Revised Introduction Writing",
-            "note": "chatgpt.com"
+            "start": "11:32",
+            "title": "Revised Introduction Writing"
           },
           {
+            "cat": "admin",
+            "end": "11:42",
+            "note": "com.microsoft.Outlook",
+            "src": "macos",
             "start": "11:40",
-            "end": "11:42",
-            "cat": "admin",
-            "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "title": "Outlook"
           },
           {
-            "start": "11:42",
-            "end": "11:42",
             "cat": "research",
+            "end": "11:42",
+            "note": "chatgpt.com",
             "src": "macos",
-            "title": "Revised Introduction Writing",
-            "note": "chatgpt.com"
+            "start": "11:42",
+            "title": "Revised Introduction Writing"
           },
           {
-            "start": "11:42",
+            "cat": "coding",
             "end": "11:49",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "11:42",
+            "title": "codex"
           },
           {
-            "start": "11:49",
+            "cat": "research",
             "end": "11:54",
-            "cat": "research",
+            "note": "chatgpt.com",
             "src": "macos",
-            "title": "Revised Introduction Writing",
-            "note": "chatgpt.com"
+            "start": "11:49",
+            "title": "Revised Introduction Writing"
           },
           {
-            "start": "11:54",
+            "cat": "admin",
             "end": "11:56",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "11:54",
+            "title": "Outlook"
           },
           {
-            "start": "11:56",
+            "cat": "coding",
             "end": "11:57",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "11:56",
+            "title": "codex"
           },
           {
-            "start": "11:57",
+            "cat": "research",
             "end": "12:17",
-            "cat": "research",
+            "note": "chatgpt.com",
             "src": "macos",
-            "title": "Revised Introduction Writing",
-            "note": "chatgpt.com"
+            "start": "11:57",
+            "title": "Revised Introduction Writing"
           },
           {
-            "start": "13:05",
+            "cat": "research",
             "end": "13:08",
-            "cat": "research",
+            "note": "chatgpt.com",
             "src": "macos",
-            "title": "Revised Introduction Writing",
-            "note": "chatgpt.com"
+            "start": "13:05",
+            "title": "Revised Introduction Writing"
           },
           {
-            "start": "13:08",
+            "cat": "admin",
             "end": "13:11",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "13:08",
+            "title": "Outlook"
           },
           {
-            "start": "13:11",
+            "cat": "research",
             "end": "13:15",
-            "cat": "research",
+            "note": "chatgpt.com",
             "src": "macos",
-            "title": "Revised Introduction Writing",
-            "note": "chatgpt.com"
+            "start": "13:11",
+            "title": "Revised Introduction Writing"
           },
           {
-            "start": "13:15",
+            "cat": "research",
             "end": "13:16",
-            "cat": "research",
+            "note": "com.apple.Preview",
             "src": "macos",
-            "title": "Preview",
-            "note": "com.apple.Preview"
+            "start": "13:15",
+            "title": "Preview"
           },
           {
-            "start": "13:16",
+            "cat": "coding",
             "end": "13:19",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "13:16",
+            "title": "codex"
           },
           {
-            "start": "13:22",
+            "cat": "coding",
             "end": "13:29",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "13:22",
+            "title": "codex"
           },
           {
-            "start": "13:30",
+            "cat": "research",
             "end": "13:57",
-            "cat": "research",
+            "note": "chatgpt.com",
             "src": "macos",
-            "title": "Revised Introduction Writing",
-            "note": "chatgpt.com"
+            "start": "13:30",
+            "title": "Revised Introduction Writing"
           },
           {
-            "start": "14:05",
+            "cat": "admin",
             "end": "14:13",
-            "cat": "admin",
+            "note": "com.microsoft.Excel",
             "src": "macos",
-            "title": "Excel",
-            "note": "com.microsoft.Excel"
+            "start": "14:05",
+            "title": "Excel"
           },
           {
-            "start": "14:14",
+            "cat": "research",
             "end": "14:15",
-            "cat": "research",
+            "note": "commoncrawl.github.io",
             "src": "macos",
-            "title": "Statistics of Common Crawl Monthly Archives by commoncrawl",
-            "note": "commoncrawl.github.io"
+            "start": "14:14",
+            "title": "Statistics of Common Crawl Monthly Archives by commoncrawl"
           },
           {
-            "start": "14:15",
+            "cat": "admin",
             "end": "14:48",
-            "cat": "admin",
+            "note": "com.microsoft.Excel",
             "src": "macos",
-            "title": "Excel",
-            "note": "com.microsoft.Excel"
+            "start": "14:15",
+            "title": "Excel"
           },
           {
-            "start": "14:49",
+            "cat": "admin",
             "end": "14:55",
-            "cat": "admin",
+            "note": "mq.service-now.com",
             "src": "macos",
-            "title": "My tasks - Employee",
-            "note": "mq.service-now.com"
+            "start": "14:49",
+            "title": "My tasks - Employee"
           },
           {
-            "start": "14:55",
+            "cat": "research",
             "end": "15:19",
-            "cat": "research",
+            "note": "metr.org",
             "src": "macos",
-            "title": "Task-Completion Time Horizons of Frontier AI Models - METR",
-            "note": "metr.org"
+            "start": "14:55",
+            "title": "Task-Completion Time Horizons of Frontier AI Models - METR"
           },
           {
-            "start": "15:25",
+            "cat": "coding",
             "end": "15:26",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "15:25",
+            "title": "codex"
           },
           {
-            "start": "15:26",
+            "cat": "admin",
             "end": "15:28",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "15:26",
+            "title": "Outlook"
           },
           {
-            "start": "15:29",
+            "cat": "admin",
             "end": "15:34",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "zorawang - Google Search",
-            "note": "google.com"
+            "start": "15:29",
+            "title": "zorawang - Google Search"
           },
           {
-            "start": "15:34",
+            "cat": "coding",
             "end": "15:38",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "15:34",
+            "title": "codex"
           },
           {
-            "start": "15:38",
+            "cat": "admin",
             "end": "15:41",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "zorawang - Google Search",
-            "note": "google.com"
+            "start": "15:38",
+            "title": "zorawang - Google Search"
           },
           {
-            "start": "15:41",
+            "cat": "coding",
             "end": "15:43",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "15:41",
+            "title": "codex"
           },
           {
-            "start": "15:43",
+            "cat": "admin",
             "end": "15:46",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "zorawang - Google Search",
-            "note": "google.com"
+            "start": "15:43",
+            "title": "zorawang - Google Search"
           },
           {
-            "start": "15:46",
+            "cat": "coding",
             "end": "15:47",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "15:46",
+            "title": "codex"
           },
           {
-            "start": "15:47",
+            "cat": "admin",
             "end": "15:51",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "zorawang - Google Search",
-            "note": "google.com"
+            "start": "15:47",
+            "title": "zorawang - Google Search"
           },
           {
-            "start": "15:51",
+            "cat": "coding",
             "end": "16:00",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "15:51",
+            "title": "codex"
           },
           {
-            "start": "16:00",
+            "cat": "admin",
             "end": "16:02",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "zorawang - Google Search",
-            "note": "google.com"
+            "start": "16:00",
+            "title": "zorawang - Google Search"
           },
           {
-            "start": "16:02",
+            "cat": "research",
             "end": "16:03",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "2205.00445",
-            "note": "arxiv.org"
+            "start": "16:02",
+            "title": "2205.00445"
           },
           {
-            "start": "16:03",
+            "cat": "research",
             "end": "16:09",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "macos",
-            "title": "How a PhD Can Survive? | Ada's Notes",
-            "note": "adaren100.github.io"
+            "start": "16:03",
+            "title": "How a PhD Can Survive? | Ada's Notes"
           },
           {
-            "start": "16:09",
+            "cat": "admin",
             "end": "16:33",
-            "cat": "admin",
+            "note": "sport.mq.edu.au",
             "src": "macos",
-            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
-            "note": "sport.mq.edu.au"
+            "start": "16:09",
+            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni"
           },
           {
-            "start": "16:34",
+            "cat": "coding",
             "end": "16:36",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "16:34",
+            "title": "codex"
           },
           {
-            "start": "16:36",
+            "cat": "admin",
             "end": "16:38",
-            "cat": "admin",
+            "note": "sport.mq.edu.au",
             "src": "macos",
-            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
-            "note": "sport.mq.edu.au"
+            "start": "16:36",
+            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni"
           },
           {
-            "start": "16:38",
+            "cat": "coding",
             "end": "16:45",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "16:38",
+            "title": "codex"
           },
           {
-            "start": "16:45",
+            "cat": "coding",
             "end": "16:48",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "16:45",
+            "title": "codex"
           },
           {
-            "start": "16:48",
+            "cat": "admin",
             "end": "16:51",
-            "cat": "admin",
+            "note": "sport.mq.edu.au",
             "src": "macos",
-            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
-            "note": "sport.mq.edu.au"
+            "start": "16:48",
+            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni"
           },
           {
-            "start": "16:51",
+            "cat": "writing",
             "end": "16:53",
-            "cat": "writing",
+            "note": "overleaf.com",
             "src": "macos",
-            "title": "PhD COC - Online LaTeX Editor Overleaf",
-            "note": "overleaf.com"
+            "start": "16:51",
+            "title": "PhD COC - Online LaTeX Editor Overleaf"
           },
           {
-            "start": "17:00",
+            "cat": "admin",
             "end": "17:20",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "17:00",
+            "title": "Outlook"
           },
           {
-            "start": "17:21",
+            "cat": "meeting",
             "end": "17:33",
-            "cat": "meeting",
+            "note": "com.microsoft.teams2",
             "src": "macos",
-            "title": "teams2",
-            "note": "com.microsoft.teams2"
+            "start": "17:21",
+            "title": "teams2"
           },
           {
-            "start": "17:38",
+            "cat": "meeting",
             "end": "17:40",
-            "cat": "meeting",
+            "note": "com.microsoft.teams2",
             "src": "macos",
-            "title": "teams2",
-            "note": "com.microsoft.teams2"
+            "start": "17:38",
+            "title": "teams2"
           },
           {
-            "start": "17:47",
+            "cat": "writing",
             "end": "17:49",
-            "cat": "writing",
+            "note": "overleaf.com",
             "src": "macos",
-            "title": "PhD COC - Online LaTeX Editor Overleaf",
-            "note": "overleaf.com"
+            "start": "17:47",
+            "title": "PhD COC - Online LaTeX Editor Overleaf"
           },
           {
-            "start": "17:53",
+            "cat": "admin",
             "end": "17:59",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "17:53",
+            "title": "Outlook"
           },
           {
-            "start": "17:59",
-            "end": "18:00",
             "cat": "writing",
+            "end": "18:00",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Data Science - Assessments (S2-2026) - Google Sheets",
-            "note": "docs.google.com"
+            "start": "17:59",
+            "title": "Data Science - Assessments (S2-2026) - Google Sheets"
           },
           {
-            "start": "18:00",
-            "end": "18:02",
             "cat": "meeting",
+            "end": "18:02",
+            "note": "com.microsoft.teams2",
             "src": "macos",
-            "title": "teams2",
-            "note": "com.microsoft.teams2"
+            "start": "18:00",
+            "title": "teams2"
           },
           {
-            "start": "18:07",
+            "cat": "admin",
             "end": "18:11",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "18:07",
+            "title": "Outlook"
           },
           {
-            "start": "18:19",
-            "end": "18:27",
             "cat": "admin",
+            "end": "18:27",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "18:19",
+            "title": "Outlook"
           }
         ],
+        "key": "2026-9-17",
         "logged": 381,
-        "real": 190,
-        "deep": 190,
         "ratio": 0.4991136104004568,
+        "real": 190,
         "stats": {
           "contextSwitches": 45,
-          "tabsOpened": 0,
+          "justOneMoreThing": 12,
           "longestFocus": "43m",
-          "justOneMoreThing": 12
-        }
+          "tabsOpened": 0
+        },
+        "weekend": false
       },
       {
         "key": "2026-9-18",
@@ -82895,43 +82895,275 @@
         "weekend": false,
         "dateShort": "Fri, Sep 18",
         "dateLong": "Friday, September 18",
-        "dayStart": "10:16",
-        "dayEnd": "10:22",
+        "dayStart": "10:15",
+        "dayEnd": "16:25",
         "events": [
           {
-            "start": "10:16",
+            "start": "10:15",
             "end": "10:17",
-            "cat": "writing",
-            "src": "local",
-            "title": "2026-09-17-cooley-gopublic.md",
-            "note": "9 hits"
+            "cat": "meeting",
+            "src": "macos",
+            "title": "teams2",
+            "note": "com.microsoft.teams2"
           },
           {
             "start": "10:17",
-            "end": "10:20",
+            "end": "10:18",
             "cat": "research",
-            "src": "chrome",
+            "src": "macos",
             "title": "How a PhD Can Survive? | Ada's Notes",
             "note": "adaren100.github.io"
           },
           {
-            "start": "10:20",
-            "end": "10:22",
-            "cat": "writing",
-            "src": "local",
-            "title": "2026-09-17-cooley-gopublic.md",
-            "note": "9 hits"
+            "start": "10:18",
+            "end": "10:20",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "teams2",
+            "note": "com.microsoft.teams2"
+          },
+          {
+            "start": "10:24",
+            "end": "10:26",
+            "cat": "research",
+            "src": "macos",
+            "title": "How a PhD Can Survive? | Ada's Notes",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "10:26",
+            "end": "10:34",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(3) Morning Fresh Start | Cozy Cafe Jazz BGM for Relaxing Da",
+            "note": "youtube.com"
+          },
+          {
+            "start": "10:35",
+            "end": "11:26",
+            "cat": "research",
+            "src": "macos",
+            "title": "Kimi Agent Swarm | Scale AI tasks in parallel",
+            "note": "kimi.ai"
+          },
+          {
+            "start": "11:30",
+            "end": "12:08",
+            "cat": "research",
+            "src": "macos",
+            "title": "Kimi Agent Swarm | Scale AI tasks in parallel",
+            "note": "kimi.ai"
+          },
+          {
+            "start": "12:50",
+            "end": "12:51",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Jian Yang - Macquarie University",
+            "note": "researchers.mq.edu.au"
+          },
+          {
+            "start": "12:58",
+            "end": "13:00",
+            "cat": "admin",
+            "src": "macos",
+            "title": "盛权政 - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "13:00",
+            "end": "13:05",
+            "cat": "research",
+            "src": "macos",
+            "title": "web.science.mq.edu.au",
+            "note": "web.science.mq.edu.au"
+          },
+          {
+            "start": "13:05",
+            "end": "13:10",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(3) Morning Fresh Start | Cozy Cafe Jazz BGM for Relaxing Da",
+            "note": "youtube.com"
+          },
+          {
+            "start": "13:10",
+            "end": "13:38",
+            "cat": "research",
+            "src": "macos",
+            "title": "Describe a skill",
+            "note": "chatgpt.com"
+          },
+          {
+            "start": "13:38",
+            "end": "13:41",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "13:41",
+            "end": "13:46",
+            "cat": "research",
+            "src": "macos",
+            "title": "Describe a skill",
+            "note": "chatgpt.com"
+          },
+          {
+            "start": "13:46",
+            "end": "13:47",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "13:50",
+            "end": "14:18",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "14:18",
+            "end": "14:19",
+            "cat": "research",
+            "src": "macos",
+            "title": "Rewrite LLM Agent Overview",
+            "note": "chatgpt.com"
+          },
+          {
+            "start": "14:30",
+            "end": "14:35",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "14:35",
+            "end": "14:54",
+            "cat": "research",
+            "src": "macos",
+            "title": "Rewrite LLM Agent Overview",
+            "note": "chatgpt.com"
+          },
+          {
+            "start": "14:55",
+            "end": "14:58",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "14:58",
+            "end": "15:01",
+            "cat": "admin",
+            "src": "macos",
+            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Machine Learning Proj",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "15:01",
+            "end": "15:08",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "15:09",
+            "end": "15:25",
+            "cat": "research",
+            "src": "macos",
+            "title": "YaRN: Efficient Context Window Extension of Large Language M",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "15:26",
+            "end": "15:35",
+            "cat": "research",
+            "src": "macos",
+            "title": "ChatGPT",
+            "note": "chatgpt.com"
+          },
+          {
+            "start": "15:35",
+            "end": "15:37",
+            "cat": "research",
+            "src": "macos",
+            "title": "Agent Orchestration Rewrite",
+            "note": "chatgpt.com"
+          },
+          {
+            "start": "15:38",
+            "end": "15:39",
+            "cat": "research",
+            "src": "macos",
+            "title": "How a PhD Can Survive? | Ada's Notes",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "15:39",
+            "end": "15:41",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(3) Morning Fresh Start | Cozy Cafe Jazz BGM for Relaxing Da",
+            "note": "youtube.com"
+          },
+          {
+            "start": "15:41",
+            "end": "15:49",
+            "cat": "research",
+            "src": "macos",
+            "title": "ChatGPT",
+            "note": "chatgpt.com"
+          },
+          {
+            "start": "15:49",
+            "end": "15:54",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "15:54",
+            "end": "15:56",
+            "cat": "research",
+            "src": "macos",
+            "title": "ChatGPT",
+            "note": "chatgpt.com"
+          },
+          {
+            "start": "15:56",
+            "end": "16:09",
+            "cat": "research",
+            "src": "macos",
+            "title": "Rewrite orchestration paragraph",
+            "note": "chatgpt.com"
+          },
+          {
+            "start": "16:10",
+            "end": "16:25",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
           }
         ],
-        "logged": 6,
-        "real": 6,
-        "deep": 6,
-        "ratio": 1.0,
+        "logged": 293,
+        "real": 210,
+        "deep": 210,
+        "ratio": 0.7175599996286831,
         "stats": {
-          "contextSwitches": 2,
-          "tabsOpened": 3,
-          "longestFocus": "6m",
-          "justOneMoreThing": 0
+          "contextSwitches": 22,
+          "tabsOpened": 0,
+          "longestFocus": "1h 30m",
+          "justOneMoreThing": 5
         }
       },
       {
@@ -91044,514 +91276,514 @@
       "weekend": false
     },
     {
-      "key": "2026-9-17",
-      "dayNum": 17,
-      "dow": 4,
-      "weekend": false,
-      "dateShort": "Thu, Sep 17",
       "dateLong": "Thursday, September 17",
-      "dayStart": "10:14",
+      "dateShort": "Thu, Sep 17",
       "dayEnd": "18:27",
+      "dayNum": 17,
+      "dayStart": "10:14",
+      "deep": 190,
+      "dow": 4,
       "events": [
         {
-          "start": "10:14",
+          "cat": "admin",
           "end": "10:25",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "10:14",
+          "title": "Outlook"
         },
         {
-          "start": "10:26",
+          "cat": "research",
           "end": "10:30",
-          "cat": "research",
+          "note": "chatgpt.com",
           "src": "macos",
-          "title": "Polish rounding explanation",
-          "note": "chatgpt.com"
+          "start": "10:26",
+          "title": "Polish rounding explanation"
         },
         {
-          "start": "10:30",
+          "cat": "admin",
           "end": "10:33",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "10:30",
+          "title": "Outlook"
         },
         {
-          "start": "10:33",
+          "cat": "research",
           "end": "10:46",
-          "cat": "research",
+          "note": "chatgpt.com",
           "src": "macos",
-          "title": "ChatGPT",
-          "note": "chatgpt.com"
+          "start": "10:33",
+          "title": "ChatGPT"
         },
         {
-          "start": "10:46",
+          "cat": "admin",
           "end": "10:48",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "10:46",
+          "title": "Outlook"
         },
         {
-          "start": "10:50",
+          "cat": "admin",
           "end": "10:51",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Grader report | COMP2200 Data Science / COMP6200 | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "10:50",
+          "title": "Grader report | COMP2200 Data Science / COMP6200 | iLearn"
         },
         {
-          "start": "10:51",
+          "cat": "admin",
           "end": "10:56",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "10:51",
+          "title": "Outlook"
         },
         {
-          "start": "10:56",
+          "cat": "admin",
           "end": "10:57",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "10:56",
+          "title": "Outlook"
         },
         {
-          "start": "10:59",
+          "cat": "admin",
           "end": "11:25",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Machine Learning Project: Attempt review | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "10:59",
+          "title": "Machine Learning Project: Attempt review | iLearn"
         },
         {
-          "start": "11:25",
+          "cat": "admin",
           "end": "11:29",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "11:25",
+          "title": "Outlook"
         },
         {
-          "start": "11:29",
+          "cat": "admin",
           "end": "11:30",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Preview question: Diabetes_Orange_Analysis_Cloze_V2 | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "11:29",
+          "title": "Preview question: Diabetes_Orange_Analysis_Cloze_V2 | iLearn"
         },
         {
-          "start": "11:30",
+          "cat": "coding",
           "end": "11:32",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "11:30",
+          "title": "codex"
         },
         {
-          "start": "11:32",
+          "cat": "research",
           "end": "11:40",
-          "cat": "research",
+          "note": "chatgpt.com",
           "src": "macos",
-          "title": "Revised Introduction Writing",
-          "note": "chatgpt.com"
+          "start": "11:32",
+          "title": "Revised Introduction Writing"
         },
         {
+          "cat": "admin",
+          "end": "11:42",
+          "note": "com.microsoft.Outlook",
+          "src": "macos",
           "start": "11:40",
-          "end": "11:42",
-          "cat": "admin",
-          "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "title": "Outlook"
         },
         {
-          "start": "11:42",
-          "end": "11:42",
           "cat": "research",
+          "end": "11:42",
+          "note": "chatgpt.com",
           "src": "macos",
-          "title": "Revised Introduction Writing",
-          "note": "chatgpt.com"
+          "start": "11:42",
+          "title": "Revised Introduction Writing"
         },
         {
-          "start": "11:42",
+          "cat": "coding",
           "end": "11:49",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "11:42",
+          "title": "codex"
         },
         {
-          "start": "11:49",
+          "cat": "research",
           "end": "11:54",
-          "cat": "research",
+          "note": "chatgpt.com",
           "src": "macos",
-          "title": "Revised Introduction Writing",
-          "note": "chatgpt.com"
+          "start": "11:49",
+          "title": "Revised Introduction Writing"
         },
         {
-          "start": "11:54",
+          "cat": "admin",
           "end": "11:56",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "11:54",
+          "title": "Outlook"
         },
         {
-          "start": "11:56",
+          "cat": "coding",
           "end": "11:57",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "11:56",
+          "title": "codex"
         },
         {
-          "start": "11:57",
+          "cat": "research",
           "end": "12:17",
-          "cat": "research",
+          "note": "chatgpt.com",
           "src": "macos",
-          "title": "Revised Introduction Writing",
-          "note": "chatgpt.com"
+          "start": "11:57",
+          "title": "Revised Introduction Writing"
         },
         {
-          "start": "13:05",
+          "cat": "research",
           "end": "13:08",
-          "cat": "research",
+          "note": "chatgpt.com",
           "src": "macos",
-          "title": "Revised Introduction Writing",
-          "note": "chatgpt.com"
+          "start": "13:05",
+          "title": "Revised Introduction Writing"
         },
         {
-          "start": "13:08",
+          "cat": "admin",
           "end": "13:11",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "13:08",
+          "title": "Outlook"
         },
         {
-          "start": "13:11",
+          "cat": "research",
           "end": "13:15",
-          "cat": "research",
+          "note": "chatgpt.com",
           "src": "macos",
-          "title": "Revised Introduction Writing",
-          "note": "chatgpt.com"
+          "start": "13:11",
+          "title": "Revised Introduction Writing"
         },
         {
-          "start": "13:15",
+          "cat": "research",
           "end": "13:16",
-          "cat": "research",
+          "note": "com.apple.Preview",
           "src": "macos",
-          "title": "Preview",
-          "note": "com.apple.Preview"
+          "start": "13:15",
+          "title": "Preview"
         },
         {
-          "start": "13:16",
+          "cat": "coding",
           "end": "13:19",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "13:16",
+          "title": "codex"
         },
         {
-          "start": "13:22",
+          "cat": "coding",
           "end": "13:29",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "13:22",
+          "title": "codex"
         },
         {
-          "start": "13:30",
+          "cat": "research",
           "end": "13:57",
-          "cat": "research",
+          "note": "chatgpt.com",
           "src": "macos",
-          "title": "Revised Introduction Writing",
-          "note": "chatgpt.com"
+          "start": "13:30",
+          "title": "Revised Introduction Writing"
         },
         {
-          "start": "14:05",
+          "cat": "admin",
           "end": "14:13",
-          "cat": "admin",
+          "note": "com.microsoft.Excel",
           "src": "macos",
-          "title": "Excel",
-          "note": "com.microsoft.Excel"
+          "start": "14:05",
+          "title": "Excel"
         },
         {
-          "start": "14:14",
+          "cat": "research",
           "end": "14:15",
-          "cat": "research",
+          "note": "commoncrawl.github.io",
           "src": "macos",
-          "title": "Statistics of Common Crawl Monthly Archives by commoncrawl",
-          "note": "commoncrawl.github.io"
+          "start": "14:14",
+          "title": "Statistics of Common Crawl Monthly Archives by commoncrawl"
         },
         {
-          "start": "14:15",
+          "cat": "admin",
           "end": "14:48",
-          "cat": "admin",
+          "note": "com.microsoft.Excel",
           "src": "macos",
-          "title": "Excel",
-          "note": "com.microsoft.Excel"
+          "start": "14:15",
+          "title": "Excel"
         },
         {
-          "start": "14:49",
+          "cat": "admin",
           "end": "14:55",
-          "cat": "admin",
+          "note": "mq.service-now.com",
           "src": "macos",
-          "title": "My tasks - Employee",
-          "note": "mq.service-now.com"
+          "start": "14:49",
+          "title": "My tasks - Employee"
         },
         {
-          "start": "14:55",
+          "cat": "research",
           "end": "15:19",
-          "cat": "research",
+          "note": "metr.org",
           "src": "macos",
-          "title": "Task-Completion Time Horizons of Frontier AI Models - METR",
-          "note": "metr.org"
+          "start": "14:55",
+          "title": "Task-Completion Time Horizons of Frontier AI Models - METR"
         },
         {
-          "start": "15:25",
+          "cat": "coding",
           "end": "15:26",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "15:25",
+          "title": "codex"
         },
         {
-          "start": "15:26",
+          "cat": "admin",
           "end": "15:28",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "15:26",
+          "title": "Outlook"
         },
         {
-          "start": "15:29",
+          "cat": "admin",
           "end": "15:34",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "zorawang - Google Search",
-          "note": "google.com"
+          "start": "15:29",
+          "title": "zorawang - Google Search"
         },
         {
-          "start": "15:34",
+          "cat": "coding",
           "end": "15:38",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "15:34",
+          "title": "codex"
         },
         {
-          "start": "15:38",
+          "cat": "admin",
           "end": "15:41",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "zorawang - Google Search",
-          "note": "google.com"
+          "start": "15:38",
+          "title": "zorawang - Google Search"
         },
         {
-          "start": "15:41",
+          "cat": "coding",
           "end": "15:43",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "15:41",
+          "title": "codex"
         },
         {
-          "start": "15:43",
+          "cat": "admin",
           "end": "15:46",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "zorawang - Google Search",
-          "note": "google.com"
+          "start": "15:43",
+          "title": "zorawang - Google Search"
         },
         {
-          "start": "15:46",
+          "cat": "coding",
           "end": "15:47",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "15:46",
+          "title": "codex"
         },
         {
-          "start": "15:47",
+          "cat": "admin",
           "end": "15:51",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "zorawang - Google Search",
-          "note": "google.com"
+          "start": "15:47",
+          "title": "zorawang - Google Search"
         },
         {
-          "start": "15:51",
+          "cat": "coding",
           "end": "16:00",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "15:51",
+          "title": "codex"
         },
         {
-          "start": "16:00",
+          "cat": "admin",
           "end": "16:02",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "zorawang - Google Search",
-          "note": "google.com"
+          "start": "16:00",
+          "title": "zorawang - Google Search"
         },
         {
-          "start": "16:02",
+          "cat": "research",
           "end": "16:03",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "2205.00445",
-          "note": "arxiv.org"
+          "start": "16:02",
+          "title": "2205.00445"
         },
         {
-          "start": "16:03",
+          "cat": "research",
           "end": "16:09",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "macos",
-          "title": "How a PhD Can Survive? | Ada's Notes",
-          "note": "adaren100.github.io"
+          "start": "16:03",
+          "title": "How a PhD Can Survive? | Ada's Notes"
         },
         {
-          "start": "16:09",
+          "cat": "admin",
           "end": "16:33",
-          "cat": "admin",
+          "note": "sport.mq.edu.au",
           "src": "macos",
-          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
-          "note": "sport.mq.edu.au"
+          "start": "16:09",
+          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni"
         },
         {
-          "start": "16:34",
+          "cat": "coding",
           "end": "16:36",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "16:34",
+          "title": "codex"
         },
         {
-          "start": "16:36",
+          "cat": "admin",
           "end": "16:38",
-          "cat": "admin",
+          "note": "sport.mq.edu.au",
           "src": "macos",
-          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
-          "note": "sport.mq.edu.au"
+          "start": "16:36",
+          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni"
         },
         {
-          "start": "16:38",
+          "cat": "coding",
           "end": "16:45",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "16:38",
+          "title": "codex"
         },
         {
-          "start": "16:45",
+          "cat": "coding",
           "end": "16:48",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "16:45",
+          "title": "codex"
         },
         {
-          "start": "16:48",
+          "cat": "admin",
           "end": "16:51",
-          "cat": "admin",
+          "note": "sport.mq.edu.au",
           "src": "macos",
-          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
-          "note": "sport.mq.edu.au"
+          "start": "16:48",
+          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni"
         },
         {
-          "start": "16:51",
+          "cat": "writing",
           "end": "16:53",
-          "cat": "writing",
+          "note": "overleaf.com",
           "src": "macos",
-          "title": "PhD COC - Online LaTeX Editor Overleaf",
-          "note": "overleaf.com"
+          "start": "16:51",
+          "title": "PhD COC - Online LaTeX Editor Overleaf"
         },
         {
-          "start": "17:00",
+          "cat": "admin",
           "end": "17:20",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "17:00",
+          "title": "Outlook"
         },
         {
-          "start": "17:21",
+          "cat": "meeting",
           "end": "17:33",
-          "cat": "meeting",
+          "note": "com.microsoft.teams2",
           "src": "macos",
-          "title": "teams2",
-          "note": "com.microsoft.teams2"
+          "start": "17:21",
+          "title": "teams2"
         },
         {
-          "start": "17:38",
+          "cat": "meeting",
           "end": "17:40",
-          "cat": "meeting",
+          "note": "com.microsoft.teams2",
           "src": "macos",
-          "title": "teams2",
-          "note": "com.microsoft.teams2"
+          "start": "17:38",
+          "title": "teams2"
         },
         {
-          "start": "17:47",
+          "cat": "writing",
           "end": "17:49",
-          "cat": "writing",
+          "note": "overleaf.com",
           "src": "macos",
-          "title": "PhD COC - Online LaTeX Editor Overleaf",
-          "note": "overleaf.com"
+          "start": "17:47",
+          "title": "PhD COC - Online LaTeX Editor Overleaf"
         },
         {
-          "start": "17:53",
+          "cat": "admin",
           "end": "17:59",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "17:53",
+          "title": "Outlook"
         },
         {
-          "start": "17:59",
-          "end": "18:00",
           "cat": "writing",
+          "end": "18:00",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Data Science - Assessments (S2-2026) - Google Sheets",
-          "note": "docs.google.com"
+          "start": "17:59",
+          "title": "Data Science - Assessments (S2-2026) - Google Sheets"
         },
         {
-          "start": "18:00",
-          "end": "18:02",
           "cat": "meeting",
+          "end": "18:02",
+          "note": "com.microsoft.teams2",
           "src": "macos",
-          "title": "teams2",
-          "note": "com.microsoft.teams2"
+          "start": "18:00",
+          "title": "teams2"
         },
         {
-          "start": "18:07",
+          "cat": "admin",
           "end": "18:11",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "18:07",
+          "title": "Outlook"
         },
         {
-          "start": "18:19",
-          "end": "18:27",
           "cat": "admin",
+          "end": "18:27",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "18:19",
+          "title": "Outlook"
         }
       ],
+      "key": "2026-9-17",
       "logged": 381,
-      "real": 190,
-      "deep": 190,
       "ratio": 0.4991136104004568,
+      "real": 190,
       "stats": {
         "contextSwitches": 45,
-        "tabsOpened": 0,
+        "justOneMoreThing": 12,
         "longestFocus": "43m",
-        "justOneMoreThing": 12
-      }
+        "tabsOpened": 0
+      },
+      "weekend": false
     },
     {
       "key": "2026-9-18",
@@ -91560,43 +91792,275 @@
       "weekend": false,
       "dateShort": "Fri, Sep 18",
       "dateLong": "Friday, September 18",
-      "dayStart": "10:16",
-      "dayEnd": "10:22",
+      "dayStart": "10:15",
+      "dayEnd": "16:25",
       "events": [
         {
-          "start": "10:16",
+          "start": "10:15",
           "end": "10:17",
-          "cat": "writing",
-          "src": "local",
-          "title": "2026-09-17-cooley-gopublic.md",
-          "note": "9 hits"
+          "cat": "meeting",
+          "src": "macos",
+          "title": "teams2",
+          "note": "com.microsoft.teams2"
         },
         {
           "start": "10:17",
-          "end": "10:20",
+          "end": "10:18",
           "cat": "research",
-          "src": "chrome",
+          "src": "macos",
           "title": "How a PhD Can Survive? | Ada's Notes",
           "note": "adaren100.github.io"
         },
         {
-          "start": "10:20",
-          "end": "10:22",
-          "cat": "writing",
-          "src": "local",
-          "title": "2026-09-17-cooley-gopublic.md",
-          "note": "9 hits"
+          "start": "10:18",
+          "end": "10:20",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "teams2",
+          "note": "com.microsoft.teams2"
+        },
+        {
+          "start": "10:24",
+          "end": "10:26",
+          "cat": "research",
+          "src": "macos",
+          "title": "How a PhD Can Survive? | Ada's Notes",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "10:26",
+          "end": "10:34",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(3) Morning Fresh Start | Cozy Cafe Jazz BGM for Relaxing Da",
+          "note": "youtube.com"
+        },
+        {
+          "start": "10:35",
+          "end": "11:26",
+          "cat": "research",
+          "src": "macos",
+          "title": "Kimi Agent Swarm | Scale AI tasks in parallel",
+          "note": "kimi.ai"
+        },
+        {
+          "start": "11:30",
+          "end": "12:08",
+          "cat": "research",
+          "src": "macos",
+          "title": "Kimi Agent Swarm | Scale AI tasks in parallel",
+          "note": "kimi.ai"
+        },
+        {
+          "start": "12:50",
+          "end": "12:51",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Jian Yang - Macquarie University",
+          "note": "researchers.mq.edu.au"
+        },
+        {
+          "start": "12:58",
+          "end": "13:00",
+          "cat": "admin",
+          "src": "macos",
+          "title": "盛权政 - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "13:00",
+          "end": "13:05",
+          "cat": "research",
+          "src": "macos",
+          "title": "web.science.mq.edu.au",
+          "note": "web.science.mq.edu.au"
+        },
+        {
+          "start": "13:05",
+          "end": "13:10",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(3) Morning Fresh Start | Cozy Cafe Jazz BGM for Relaxing Da",
+          "note": "youtube.com"
+        },
+        {
+          "start": "13:10",
+          "end": "13:38",
+          "cat": "research",
+          "src": "macos",
+          "title": "Describe a skill",
+          "note": "chatgpt.com"
+        },
+        {
+          "start": "13:38",
+          "end": "13:41",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "13:41",
+          "end": "13:46",
+          "cat": "research",
+          "src": "macos",
+          "title": "Describe a skill",
+          "note": "chatgpt.com"
+        },
+        {
+          "start": "13:46",
+          "end": "13:47",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "13:50",
+          "end": "14:18",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "14:18",
+          "end": "14:19",
+          "cat": "research",
+          "src": "macos",
+          "title": "Rewrite LLM Agent Overview",
+          "note": "chatgpt.com"
+        },
+        {
+          "start": "14:30",
+          "end": "14:35",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "14:35",
+          "end": "14:54",
+          "cat": "research",
+          "src": "macos",
+          "title": "Rewrite LLM Agent Overview",
+          "note": "chatgpt.com"
+        },
+        {
+          "start": "14:55",
+          "end": "14:58",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "14:58",
+          "end": "15:01",
+          "cat": "admin",
+          "src": "macos",
+          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Machine Learning Proj",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "15:01",
+          "end": "15:08",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "15:09",
+          "end": "15:25",
+          "cat": "research",
+          "src": "macos",
+          "title": "YaRN: Efficient Context Window Extension of Large Language M",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "15:26",
+          "end": "15:35",
+          "cat": "research",
+          "src": "macos",
+          "title": "ChatGPT",
+          "note": "chatgpt.com"
+        },
+        {
+          "start": "15:35",
+          "end": "15:37",
+          "cat": "research",
+          "src": "macos",
+          "title": "Agent Orchestration Rewrite",
+          "note": "chatgpt.com"
+        },
+        {
+          "start": "15:38",
+          "end": "15:39",
+          "cat": "research",
+          "src": "macos",
+          "title": "How a PhD Can Survive? | Ada's Notes",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "15:39",
+          "end": "15:41",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(3) Morning Fresh Start | Cozy Cafe Jazz BGM for Relaxing Da",
+          "note": "youtube.com"
+        },
+        {
+          "start": "15:41",
+          "end": "15:49",
+          "cat": "research",
+          "src": "macos",
+          "title": "ChatGPT",
+          "note": "chatgpt.com"
+        },
+        {
+          "start": "15:49",
+          "end": "15:54",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "15:54",
+          "end": "15:56",
+          "cat": "research",
+          "src": "macos",
+          "title": "ChatGPT",
+          "note": "chatgpt.com"
+        },
+        {
+          "start": "15:56",
+          "end": "16:09",
+          "cat": "research",
+          "src": "macos",
+          "title": "Rewrite orchestration paragraph",
+          "note": "chatgpt.com"
+        },
+        {
+          "start": "16:10",
+          "end": "16:25",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
         }
       ],
-      "logged": 6,
-      "real": 6,
-      "deep": 6,
-      "ratio": 1.0,
+      "logged": 293,
+      "real": 210,
+      "deep": 210,
+      "ratio": 0.7175599996286831,
       "stats": {
-        "contextSwitches": 2,
-        "tabsOpened": 3,
-        "longestFocus": "6m",
-        "justOneMoreThing": 0
+        "contextSwitches": 22,
+        "tabsOpened": 0,
+        "longestFocus": "1h 30m",
+        "justOneMoreThing": 5
       }
     },
     {
