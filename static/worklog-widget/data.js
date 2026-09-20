@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-09-19T10:20:13+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-09-20T10:46:22+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -82889,282 +82889,282 @@
         "weekend": false
       },
       {
-        "key": "2026-9-18",
-        "dayNum": 18,
-        "dow": 5,
-        "weekend": false,
-        "dateShort": "Fri, Sep 18",
         "dateLong": "Friday, September 18",
-        "dayStart": "10:15",
+        "dateShort": "Fri, Sep 18",
         "dayEnd": "16:25",
+        "dayNum": 18,
+        "dayStart": "10:15",
+        "deep": 210,
+        "dow": 5,
         "events": [
           {
-            "start": "10:15",
+            "cat": "meeting",
             "end": "10:17",
-            "cat": "meeting",
+            "note": "com.microsoft.teams2",
             "src": "macos",
-            "title": "teams2",
-            "note": "com.microsoft.teams2"
+            "start": "10:15",
+            "title": "teams2"
           },
           {
-            "start": "10:17",
+            "cat": "research",
             "end": "10:18",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "macos",
-            "title": "How a PhD Can Survive? | Ada's Notes",
-            "note": "adaren100.github.io"
+            "start": "10:17",
+            "title": "How a PhD Can Survive? | Ada's Notes"
           },
           {
-            "start": "10:18",
-            "end": "10:20",
             "cat": "meeting",
+            "end": "10:20",
+            "note": "com.microsoft.teams2",
             "src": "macos",
-            "title": "teams2",
-            "note": "com.microsoft.teams2"
+            "start": "10:18",
+            "title": "teams2"
           },
           {
-            "start": "10:24",
+            "cat": "research",
             "end": "10:26",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "macos",
-            "title": "How a PhD Can Survive? | Ada's Notes",
-            "note": "adaren100.github.io"
+            "start": "10:24",
+            "title": "How a PhD Can Survive? | Ada's Notes"
           },
           {
-            "start": "10:26",
+            "cat": "personal",
             "end": "10:34",
-            "cat": "personal",
+            "note": "youtube.com",
             "src": "macos",
-            "title": "(3) Morning Fresh Start | Cozy Cafe Jazz BGM for Relaxing Da",
-            "note": "youtube.com"
+            "start": "10:26",
+            "title": "(3) Morning Fresh Start | Cozy Cafe Jazz BGM for Relaxing Da"
           },
           {
-            "start": "10:35",
+            "cat": "research",
             "end": "11:26",
-            "cat": "research",
+            "note": "kimi.ai",
             "src": "macos",
-            "title": "Kimi Agent Swarm | Scale AI tasks in parallel",
-            "note": "kimi.ai"
+            "start": "10:35",
+            "title": "Kimi Agent Swarm | Scale AI tasks in parallel"
           },
           {
-            "start": "11:30",
+            "cat": "research",
             "end": "12:08",
-            "cat": "research",
+            "note": "kimi.ai",
             "src": "macos",
-            "title": "Kimi Agent Swarm | Scale AI tasks in parallel",
-            "note": "kimi.ai"
+            "start": "11:30",
+            "title": "Kimi Agent Swarm | Scale AI tasks in parallel"
           },
           {
-            "start": "12:50",
+            "cat": "admin",
             "end": "12:51",
-            "cat": "admin",
+            "note": "researchers.mq.edu.au",
             "src": "macos",
-            "title": "Jian Yang - Macquarie University",
-            "note": "researchers.mq.edu.au"
+            "start": "12:50",
+            "title": "Jian Yang - Macquarie University"
           },
           {
-            "start": "12:58",
+            "cat": "admin",
             "end": "13:00",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "盛权政 - Google Search",
-            "note": "google.com"
+            "start": "12:58",
+            "title": "盛权政 - Google Search"
           },
           {
-            "start": "13:00",
+            "cat": "research",
             "end": "13:05",
-            "cat": "research",
+            "note": "web.science.mq.edu.au",
             "src": "macos",
-            "title": "web.science.mq.edu.au",
-            "note": "web.science.mq.edu.au"
+            "start": "13:00",
+            "title": "web.science.mq.edu.au"
           },
           {
-            "start": "13:05",
+            "cat": "personal",
             "end": "13:10",
-            "cat": "personal",
+            "note": "youtube.com",
             "src": "macos",
-            "title": "(3) Morning Fresh Start | Cozy Cafe Jazz BGM for Relaxing Da",
-            "note": "youtube.com"
+            "start": "13:05",
+            "title": "(3) Morning Fresh Start | Cozy Cafe Jazz BGM for Relaxing Da"
           },
           {
-            "start": "13:10",
+            "cat": "research",
             "end": "13:38",
-            "cat": "research",
+            "note": "chatgpt.com",
             "src": "macos",
-            "title": "Describe a skill",
-            "note": "chatgpt.com"
+            "start": "13:10",
+            "title": "Describe a skill"
           },
           {
-            "start": "13:38",
-            "end": "13:41",
             "cat": "coding",
+            "end": "13:41",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "13:38",
+            "title": "codex"
           },
           {
-            "start": "13:41",
+            "cat": "research",
             "end": "13:46",
-            "cat": "research",
+            "note": "chatgpt.com",
             "src": "macos",
-            "title": "Describe a skill",
-            "note": "chatgpt.com"
+            "start": "13:41",
+            "title": "Describe a skill"
           },
           {
-            "start": "13:46",
+            "cat": "admin",
             "end": "13:47",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "13:46",
+            "title": "Outlook"
           },
           {
-            "start": "13:50",
+            "cat": "admin",
             "end": "14:18",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "13:50",
+            "title": "Outlook"
           },
           {
-            "start": "14:18",
+            "cat": "research",
             "end": "14:19",
-            "cat": "research",
+            "note": "chatgpt.com",
             "src": "macos",
-            "title": "Rewrite LLM Agent Overview",
-            "note": "chatgpt.com"
+            "start": "14:18",
+            "title": "Rewrite LLM Agent Overview"
           },
           {
-            "start": "14:30",
+            "cat": "admin",
             "end": "14:35",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "14:30",
+            "title": "Outlook"
           },
           {
-            "start": "14:35",
+            "cat": "research",
             "end": "14:54",
-            "cat": "research",
+            "note": "chatgpt.com",
             "src": "macos",
-            "title": "Rewrite LLM Agent Overview",
-            "note": "chatgpt.com"
+            "start": "14:35",
+            "title": "Rewrite LLM Agent Overview"
           },
           {
-            "start": "14:55",
+            "cat": "admin",
             "end": "14:58",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "14:55",
+            "title": "Outlook"
           },
           {
-            "start": "14:58",
+            "cat": "admin",
             "end": "15:01",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Machine Learning Proj",
-            "note": "ilearn.mq.edu.au"
+            "start": "14:58",
+            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Machine Learning Proj"
           },
           {
-            "start": "15:01",
+            "cat": "admin",
             "end": "15:08",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "15:01",
+            "title": "Outlook"
           },
           {
-            "start": "15:09",
+            "cat": "research",
             "end": "15:25",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "YaRN: Efficient Context Window Extension of Large Language M",
-            "note": "arxiv.org"
+            "start": "15:09",
+            "title": "YaRN: Efficient Context Window Extension of Large Language M"
           },
           {
-            "start": "15:26",
+            "cat": "research",
             "end": "15:35",
-            "cat": "research",
+            "note": "chatgpt.com",
             "src": "macos",
-            "title": "ChatGPT",
-            "note": "chatgpt.com"
+            "start": "15:26",
+            "title": "ChatGPT"
           },
           {
-            "start": "15:35",
+            "cat": "research",
             "end": "15:37",
-            "cat": "research",
+            "note": "chatgpt.com",
             "src": "macos",
-            "title": "Agent Orchestration Rewrite",
-            "note": "chatgpt.com"
+            "start": "15:35",
+            "title": "Agent Orchestration Rewrite"
           },
           {
-            "start": "15:38",
+            "cat": "research",
             "end": "15:39",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "macos",
-            "title": "How a PhD Can Survive? | Ada's Notes",
-            "note": "adaren100.github.io"
+            "start": "15:38",
+            "title": "How a PhD Can Survive? | Ada's Notes"
           },
           {
-            "start": "15:39",
-            "end": "15:41",
             "cat": "personal",
+            "end": "15:41",
+            "note": "youtube.com",
             "src": "macos",
-            "title": "(3) Morning Fresh Start | Cozy Cafe Jazz BGM for Relaxing Da",
-            "note": "youtube.com"
+            "start": "15:39",
+            "title": "(3) Morning Fresh Start | Cozy Cafe Jazz BGM for Relaxing Da"
           },
           {
-            "start": "15:41",
+            "cat": "research",
             "end": "15:49",
-            "cat": "research",
+            "note": "chatgpt.com",
             "src": "macos",
-            "title": "ChatGPT",
-            "note": "chatgpt.com"
+            "start": "15:41",
+            "title": "ChatGPT"
           },
           {
-            "start": "15:49",
+            "cat": "admin",
             "end": "15:54",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "15:49",
+            "title": "Outlook"
           },
           {
-            "start": "15:54",
+            "cat": "research",
             "end": "15:56",
-            "cat": "research",
+            "note": "chatgpt.com",
             "src": "macos",
-            "title": "ChatGPT",
-            "note": "chatgpt.com"
+            "start": "15:54",
+            "title": "ChatGPT"
           },
           {
-            "start": "15:56",
+            "cat": "research",
             "end": "16:09",
-            "cat": "research",
+            "note": "chatgpt.com",
             "src": "macos",
-            "title": "Rewrite orchestration paragraph",
-            "note": "chatgpt.com"
+            "start": "15:56",
+            "title": "Rewrite orchestration paragraph"
           },
           {
-            "start": "16:10",
-            "end": "16:25",
             "cat": "admin",
+            "end": "16:25",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "16:10",
+            "title": "Outlook"
           }
         ],
+        "key": "2026-9-18",
         "logged": 293,
-        "real": 210,
-        "deep": 210,
         "ratio": 0.7175599996286831,
+        "real": 210,
         "stats": {
           "contextSwitches": 22,
-          "tabsOpened": 0,
+          "justOneMoreThing": 5,
           "longestFocus": "1h 30m",
-          "justOneMoreThing": 5
-        }
+          "tabsOpened": 0
+        },
+        "weekend": false
       },
       {
         "key": "2026-9-19",
@@ -83173,18 +83173,227 @@
         "weekend": true,
         "dateShort": "Sat, Sep 19",
         "dateLong": "Saturday, September 19",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "11:51",
+        "dayEnd": "15:46",
+        "events": [
+          {
+            "start": "11:51",
+            "end": "11:53",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Tickets: Bruno Mars - The Romantic Tour, Sydney Olympic Park",
+            "note": "ticketmaster.com.au"
+          },
+          {
+            "start": "11:55",
+            "end": "11:57",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Ticketmaster - My Tickets",
+            "note": "ticketmaster.com.au"
+          },
+          {
+            "start": "11:57",
+            "end": "11:59",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "11:59",
+            "end": "12:00",
+            "cat": "admin",
+            "src": "macos",
+            "title": "BOOSTED: 20% Off City Beach 🤩 - ada.ren.cn@gmail.com - Gmail",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "12:00",
+            "end": "12:17",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "12:17",
+            "end": "12:23",
+            "cat": "admin",
+            "src": "macos",
+            "title": "BOOSTED: 20% Off City Beach 🤩 - ada.ren.cn@gmail.com - Gmail",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "12:23",
+            "end": "12:40",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Ticketek Australia",
+            "note": "premier.ticketek.com.au"
+          },
+          {
+            "start": "12:40",
+            "end": "12:52",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "12:52",
+            "end": "13:11",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Ticketek Australia",
+            "note": "premier.ticketek.com.au"
+          },
+          {
+            "start": "13:11",
+            "end": "13:15",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "13:15",
+            "end": "13:22",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Ticketek Australia",
+            "note": "premier.ticketek.com.au"
+          },
+          {
+            "start": "13:28",
+            "end": "13:38",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "13:38",
+            "end": "13:46",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Ticketek Australia",
+            "note": "premier.ticketek.com.au"
+          },
+          {
+            "start": "13:46",
+            "end": "13:50",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "13:50",
+            "end": "13:54",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Ticketek Australia",
+            "note": "premier.ticketek.com.au"
+          },
+          {
+            "start": "13:54",
+            "end": "13:59",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "14:00",
+            "end": "14:01",
+            "cat": "admin",
+            "src": "macos",
+            "title": "the harness thesis google's industry - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "14:06",
+            "end": "14:07",
+            "cat": "admin",
+            "src": "macos",
+            "title": "The Harness Thesis: Google's Industrial Framework for Agenti",
+            "note": "google.com"
+          },
+          {
+            "start": "14:07",
+            "end": "14:08",
+            "cat": "personal",
+            "src": "macos",
+            "title": "主页 / X",
+            "note": "x.com"
+          },
+          {
+            "start": "14:08",
+            "end": "14:16",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "14:16",
+            "end": "14:21",
+            "cat": "personal",
+            "src": "macos",
+            "title": "主页 / X",
+            "note": "x.com"
+          },
+          {
+            "start": "14:21",
+            "end": "14:23",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "14:23",
+            "end": "14:25",
+            "cat": "personal",
+            "src": "macos",
+            "title": "主页 / X",
+            "note": "x.com"
+          },
+          {
+            "start": "15:38",
+            "end": "15:39",
+            "cat": "personal",
+            "src": "macos",
+            "title": "主页 / X",
+            "note": "x.com"
+          },
+          {
+            "start": "15:39",
+            "end": "15:44",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "15:44",
+            "end": "15:46",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          }
+        ],
+        "logged": 148,
+        "real": 69,
+        "deep": 69,
+        "ratio": 0.46588856509258264,
         "stats": {
-          "contextSwitches": 0,
+          "contextSwitches": 20,
           "tabsOpened": 0,
-          "longestFocus": "0m",
-          "justOneMoreThing": 0
+          "longestFocus": "17m",
+          "justOneMoreThing": 4
         }
       },
       {
@@ -91786,282 +91995,282 @@
       "weekend": false
     },
     {
-      "key": "2026-9-18",
-      "dayNum": 18,
-      "dow": 5,
-      "weekend": false,
-      "dateShort": "Fri, Sep 18",
       "dateLong": "Friday, September 18",
-      "dayStart": "10:15",
+      "dateShort": "Fri, Sep 18",
       "dayEnd": "16:25",
+      "dayNum": 18,
+      "dayStart": "10:15",
+      "deep": 210,
+      "dow": 5,
       "events": [
         {
-          "start": "10:15",
+          "cat": "meeting",
           "end": "10:17",
-          "cat": "meeting",
+          "note": "com.microsoft.teams2",
           "src": "macos",
-          "title": "teams2",
-          "note": "com.microsoft.teams2"
+          "start": "10:15",
+          "title": "teams2"
         },
         {
-          "start": "10:17",
+          "cat": "research",
           "end": "10:18",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "macos",
-          "title": "How a PhD Can Survive? | Ada's Notes",
-          "note": "adaren100.github.io"
+          "start": "10:17",
+          "title": "How a PhD Can Survive? | Ada's Notes"
         },
         {
-          "start": "10:18",
-          "end": "10:20",
           "cat": "meeting",
+          "end": "10:20",
+          "note": "com.microsoft.teams2",
           "src": "macos",
-          "title": "teams2",
-          "note": "com.microsoft.teams2"
+          "start": "10:18",
+          "title": "teams2"
         },
         {
-          "start": "10:24",
+          "cat": "research",
           "end": "10:26",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "macos",
-          "title": "How a PhD Can Survive? | Ada's Notes",
-          "note": "adaren100.github.io"
+          "start": "10:24",
+          "title": "How a PhD Can Survive? | Ada's Notes"
         },
         {
-          "start": "10:26",
+          "cat": "personal",
           "end": "10:34",
-          "cat": "personal",
+          "note": "youtube.com",
           "src": "macos",
-          "title": "(3) Morning Fresh Start | Cozy Cafe Jazz BGM for Relaxing Da",
-          "note": "youtube.com"
+          "start": "10:26",
+          "title": "(3) Morning Fresh Start | Cozy Cafe Jazz BGM for Relaxing Da"
         },
         {
-          "start": "10:35",
+          "cat": "research",
           "end": "11:26",
-          "cat": "research",
+          "note": "kimi.ai",
           "src": "macos",
-          "title": "Kimi Agent Swarm | Scale AI tasks in parallel",
-          "note": "kimi.ai"
+          "start": "10:35",
+          "title": "Kimi Agent Swarm | Scale AI tasks in parallel"
         },
         {
-          "start": "11:30",
+          "cat": "research",
           "end": "12:08",
-          "cat": "research",
+          "note": "kimi.ai",
           "src": "macos",
-          "title": "Kimi Agent Swarm | Scale AI tasks in parallel",
-          "note": "kimi.ai"
+          "start": "11:30",
+          "title": "Kimi Agent Swarm | Scale AI tasks in parallel"
         },
         {
-          "start": "12:50",
+          "cat": "admin",
           "end": "12:51",
-          "cat": "admin",
+          "note": "researchers.mq.edu.au",
           "src": "macos",
-          "title": "Jian Yang - Macquarie University",
-          "note": "researchers.mq.edu.au"
+          "start": "12:50",
+          "title": "Jian Yang - Macquarie University"
         },
         {
-          "start": "12:58",
+          "cat": "admin",
           "end": "13:00",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "盛权政 - Google Search",
-          "note": "google.com"
+          "start": "12:58",
+          "title": "盛权政 - Google Search"
         },
         {
-          "start": "13:00",
+          "cat": "research",
           "end": "13:05",
-          "cat": "research",
+          "note": "web.science.mq.edu.au",
           "src": "macos",
-          "title": "web.science.mq.edu.au",
-          "note": "web.science.mq.edu.au"
+          "start": "13:00",
+          "title": "web.science.mq.edu.au"
         },
         {
-          "start": "13:05",
+          "cat": "personal",
           "end": "13:10",
-          "cat": "personal",
+          "note": "youtube.com",
           "src": "macos",
-          "title": "(3) Morning Fresh Start | Cozy Cafe Jazz BGM for Relaxing Da",
-          "note": "youtube.com"
+          "start": "13:05",
+          "title": "(3) Morning Fresh Start | Cozy Cafe Jazz BGM for Relaxing Da"
         },
         {
-          "start": "13:10",
+          "cat": "research",
           "end": "13:38",
-          "cat": "research",
+          "note": "chatgpt.com",
           "src": "macos",
-          "title": "Describe a skill",
-          "note": "chatgpt.com"
+          "start": "13:10",
+          "title": "Describe a skill"
         },
         {
-          "start": "13:38",
-          "end": "13:41",
           "cat": "coding",
+          "end": "13:41",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "13:38",
+          "title": "codex"
         },
         {
-          "start": "13:41",
+          "cat": "research",
           "end": "13:46",
-          "cat": "research",
+          "note": "chatgpt.com",
           "src": "macos",
-          "title": "Describe a skill",
-          "note": "chatgpt.com"
+          "start": "13:41",
+          "title": "Describe a skill"
         },
         {
-          "start": "13:46",
+          "cat": "admin",
           "end": "13:47",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "13:46",
+          "title": "Outlook"
         },
         {
-          "start": "13:50",
+          "cat": "admin",
           "end": "14:18",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "13:50",
+          "title": "Outlook"
         },
         {
-          "start": "14:18",
+          "cat": "research",
           "end": "14:19",
-          "cat": "research",
+          "note": "chatgpt.com",
           "src": "macos",
-          "title": "Rewrite LLM Agent Overview",
-          "note": "chatgpt.com"
+          "start": "14:18",
+          "title": "Rewrite LLM Agent Overview"
         },
         {
-          "start": "14:30",
+          "cat": "admin",
           "end": "14:35",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "14:30",
+          "title": "Outlook"
         },
         {
-          "start": "14:35",
+          "cat": "research",
           "end": "14:54",
-          "cat": "research",
+          "note": "chatgpt.com",
           "src": "macos",
-          "title": "Rewrite LLM Agent Overview",
-          "note": "chatgpt.com"
+          "start": "14:35",
+          "title": "Rewrite LLM Agent Overview"
         },
         {
-          "start": "14:55",
+          "cat": "admin",
           "end": "14:58",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "14:55",
+          "title": "Outlook"
         },
         {
-          "start": "14:58",
+          "cat": "admin",
           "end": "15:01",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Machine Learning Proj",
-          "note": "ilearn.mq.edu.au"
+          "start": "14:58",
+          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Machine Learning Proj"
         },
         {
-          "start": "15:01",
+          "cat": "admin",
           "end": "15:08",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "15:01",
+          "title": "Outlook"
         },
         {
-          "start": "15:09",
+          "cat": "research",
           "end": "15:25",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "YaRN: Efficient Context Window Extension of Large Language M",
-          "note": "arxiv.org"
+          "start": "15:09",
+          "title": "YaRN: Efficient Context Window Extension of Large Language M"
         },
         {
-          "start": "15:26",
+          "cat": "research",
           "end": "15:35",
-          "cat": "research",
+          "note": "chatgpt.com",
           "src": "macos",
-          "title": "ChatGPT",
-          "note": "chatgpt.com"
+          "start": "15:26",
+          "title": "ChatGPT"
         },
         {
-          "start": "15:35",
+          "cat": "research",
           "end": "15:37",
-          "cat": "research",
+          "note": "chatgpt.com",
           "src": "macos",
-          "title": "Agent Orchestration Rewrite",
-          "note": "chatgpt.com"
+          "start": "15:35",
+          "title": "Agent Orchestration Rewrite"
         },
         {
-          "start": "15:38",
+          "cat": "research",
           "end": "15:39",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "macos",
-          "title": "How a PhD Can Survive? | Ada's Notes",
-          "note": "adaren100.github.io"
+          "start": "15:38",
+          "title": "How a PhD Can Survive? | Ada's Notes"
         },
         {
-          "start": "15:39",
-          "end": "15:41",
           "cat": "personal",
+          "end": "15:41",
+          "note": "youtube.com",
           "src": "macos",
-          "title": "(3) Morning Fresh Start | Cozy Cafe Jazz BGM for Relaxing Da",
-          "note": "youtube.com"
+          "start": "15:39",
+          "title": "(3) Morning Fresh Start | Cozy Cafe Jazz BGM for Relaxing Da"
         },
         {
-          "start": "15:41",
+          "cat": "research",
           "end": "15:49",
-          "cat": "research",
+          "note": "chatgpt.com",
           "src": "macos",
-          "title": "ChatGPT",
-          "note": "chatgpt.com"
+          "start": "15:41",
+          "title": "ChatGPT"
         },
         {
-          "start": "15:49",
+          "cat": "admin",
           "end": "15:54",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "15:49",
+          "title": "Outlook"
         },
         {
-          "start": "15:54",
+          "cat": "research",
           "end": "15:56",
-          "cat": "research",
+          "note": "chatgpt.com",
           "src": "macos",
-          "title": "ChatGPT",
-          "note": "chatgpt.com"
+          "start": "15:54",
+          "title": "ChatGPT"
         },
         {
-          "start": "15:56",
+          "cat": "research",
           "end": "16:09",
-          "cat": "research",
+          "note": "chatgpt.com",
           "src": "macos",
-          "title": "Rewrite orchestration paragraph",
-          "note": "chatgpt.com"
+          "start": "15:56",
+          "title": "Rewrite orchestration paragraph"
         },
         {
-          "start": "16:10",
-          "end": "16:25",
           "cat": "admin",
+          "end": "16:25",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "16:10",
+          "title": "Outlook"
         }
       ],
+      "key": "2026-9-18",
       "logged": 293,
-      "real": 210,
-      "deep": 210,
       "ratio": 0.7175599996286831,
+      "real": 210,
       "stats": {
         "contextSwitches": 22,
-        "tabsOpened": 0,
+        "justOneMoreThing": 5,
         "longestFocus": "1h 30m",
-        "justOneMoreThing": 5
-      }
+        "tabsOpened": 0
+      },
+      "weekend": false
     },
     {
       "key": "2026-9-19",
@@ -92070,18 +92279,227 @@
       "weekend": true,
       "dateShort": "Sat, Sep 19",
       "dateLong": "Saturday, September 19",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "11:51",
+      "dayEnd": "15:46",
+      "events": [
+        {
+          "start": "11:51",
+          "end": "11:53",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Tickets: Bruno Mars - The Romantic Tour, Sydney Olympic Park",
+          "note": "ticketmaster.com.au"
+        },
+        {
+          "start": "11:55",
+          "end": "11:57",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Ticketmaster - My Tickets",
+          "note": "ticketmaster.com.au"
+        },
+        {
+          "start": "11:57",
+          "end": "11:59",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "11:59",
+          "end": "12:00",
+          "cat": "admin",
+          "src": "macos",
+          "title": "BOOSTED: 20% Off City Beach 🤩 - ada.ren.cn@gmail.com - Gmail",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "12:00",
+          "end": "12:17",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "12:17",
+          "end": "12:23",
+          "cat": "admin",
+          "src": "macos",
+          "title": "BOOSTED: 20% Off City Beach 🤩 - ada.ren.cn@gmail.com - Gmail",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "12:23",
+          "end": "12:40",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Ticketek Australia",
+          "note": "premier.ticketek.com.au"
+        },
+        {
+          "start": "12:40",
+          "end": "12:52",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "12:52",
+          "end": "13:11",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Ticketek Australia",
+          "note": "premier.ticketek.com.au"
+        },
+        {
+          "start": "13:11",
+          "end": "13:15",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "13:15",
+          "end": "13:22",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Ticketek Australia",
+          "note": "premier.ticketek.com.au"
+        },
+        {
+          "start": "13:28",
+          "end": "13:38",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "13:38",
+          "end": "13:46",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Ticketek Australia",
+          "note": "premier.ticketek.com.au"
+        },
+        {
+          "start": "13:46",
+          "end": "13:50",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "13:50",
+          "end": "13:54",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Ticketek Australia",
+          "note": "premier.ticketek.com.au"
+        },
+        {
+          "start": "13:54",
+          "end": "13:59",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "14:00",
+          "end": "14:01",
+          "cat": "admin",
+          "src": "macos",
+          "title": "the harness thesis google's industry - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "14:06",
+          "end": "14:07",
+          "cat": "admin",
+          "src": "macos",
+          "title": "The Harness Thesis: Google's Industrial Framework for Agenti",
+          "note": "google.com"
+        },
+        {
+          "start": "14:07",
+          "end": "14:08",
+          "cat": "personal",
+          "src": "macos",
+          "title": "主页 / X",
+          "note": "x.com"
+        },
+        {
+          "start": "14:08",
+          "end": "14:16",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "14:16",
+          "end": "14:21",
+          "cat": "personal",
+          "src": "macos",
+          "title": "主页 / X",
+          "note": "x.com"
+        },
+        {
+          "start": "14:21",
+          "end": "14:23",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "14:23",
+          "end": "14:25",
+          "cat": "personal",
+          "src": "macos",
+          "title": "主页 / X",
+          "note": "x.com"
+        },
+        {
+          "start": "15:38",
+          "end": "15:39",
+          "cat": "personal",
+          "src": "macos",
+          "title": "主页 / X",
+          "note": "x.com"
+        },
+        {
+          "start": "15:39",
+          "end": "15:44",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "15:44",
+          "end": "15:46",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        }
+      ],
+      "logged": 148,
+      "real": 69,
+      "deep": 69,
+      "ratio": 0.46588856509258264,
       "stats": {
-        "contextSwitches": 0,
+        "contextSwitches": 20,
         "tabsOpened": 0,
-        "longestFocus": "0m",
-        "justOneMoreThing": 0
+        "longestFocus": "17m",
+        "justOneMoreThing": 4
       }
     },
     {
