@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-09-20T10:46:22+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-09-21T10:20:06+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -83167,89 +83167,311 @@
         "weekend": false
       },
       {
-        "key": "2026-9-19",
-        "dayNum": 19,
-        "dow": 6,
-        "weekend": true,
-        "dateShort": "Sat, Sep 19",
         "dateLong": "Saturday, September 19",
-        "dayStart": "11:51",
+        "dateShort": "Sat, Sep 19",
         "dayEnd": "15:46",
+        "dayNum": 19,
+        "dayStart": "11:51",
+        "deep": 69,
+        "dow": 6,
         "events": [
           {
-            "start": "11:51",
+            "cat": "personal",
             "end": "11:53",
-            "cat": "personal",
+            "note": "ticketmaster.com.au",
             "src": "macos",
-            "title": "Tickets: Bruno Mars - The Romantic Tour, Sydney Olympic Park",
-            "note": "ticketmaster.com.au"
+            "start": "11:51",
+            "title": "Tickets: Bruno Mars - The Romantic Tour, Sydney Olympic Park"
           },
           {
-            "start": "11:55",
+            "cat": "personal",
             "end": "11:57",
-            "cat": "personal",
+            "note": "ticketmaster.com.au",
             "src": "macos",
-            "title": "Ticketmaster - My Tickets",
-            "note": "ticketmaster.com.au"
+            "start": "11:55",
+            "title": "Ticketmaster - My Tickets"
           },
           {
-            "start": "11:57",
+            "cat": "admin",
             "end": "11:59",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "11:57",
+            "title": "Outlook"
           },
           {
-            "start": "11:59",
-            "end": "12:00",
             "cat": "admin",
+            "end": "12:00",
+            "note": "mail.google.com",
             "src": "macos",
-            "title": "BOOSTED: 20% Off City Beach 🤩 - ada.ren.cn@gmail.com - Gmail",
-            "note": "mail.google.com"
+            "start": "11:59",
+            "title": "BOOSTED: 20% Off City Beach 🤩 - ada.ren.cn@gmail.com - Gmail"
+          },
+          {
+            "cat": "coding",
+            "end": "12:17",
+            "note": "com.openai.codex",
+            "src": "macos",
+            "start": "12:00",
+            "title": "codex"
+          },
+          {
+            "cat": "admin",
+            "end": "12:23",
+            "note": "mail.google.com",
+            "src": "macos",
+            "start": "12:17",
+            "title": "BOOSTED: 20% Off City Beach 🤩 - ada.ren.cn@gmail.com - Gmail"
+          },
+          {
+            "cat": "admin",
+            "end": "12:40",
+            "note": "premier.ticketek.com.au",
+            "src": "macos",
+            "start": "12:23",
+            "title": "Ticketek Australia"
+          },
+          {
+            "cat": "coding",
+            "end": "12:52",
+            "note": "com.openai.codex",
+            "src": "macos",
+            "start": "12:40",
+            "title": "codex"
+          },
+          {
+            "cat": "admin",
+            "end": "13:11",
+            "note": "premier.ticketek.com.au",
+            "src": "macos",
+            "start": "12:52",
+            "title": "Ticketek Australia"
+          },
+          {
+            "cat": "coding",
+            "end": "13:15",
+            "note": "com.openai.codex",
+            "src": "macos",
+            "start": "13:11",
+            "title": "codex"
+          },
+          {
+            "cat": "admin",
+            "end": "13:22",
+            "note": "premier.ticketek.com.au",
+            "src": "macos",
+            "start": "13:15",
+            "title": "Ticketek Australia"
+          },
+          {
+            "cat": "coding",
+            "end": "13:38",
+            "note": "com.openai.codex",
+            "src": "macos",
+            "start": "13:28",
+            "title": "codex"
+          },
+          {
+            "cat": "admin",
+            "end": "13:46",
+            "note": "premier.ticketek.com.au",
+            "src": "macos",
+            "start": "13:38",
+            "title": "Ticketek Australia"
+          },
+          {
+            "cat": "coding",
+            "end": "13:50",
+            "note": "com.openai.codex",
+            "src": "macos",
+            "start": "13:46",
+            "title": "codex"
+          },
+          {
+            "cat": "admin",
+            "end": "13:54",
+            "note": "premier.ticketek.com.au",
+            "src": "macos",
+            "start": "13:50",
+            "title": "Ticketek Australia"
+          },
+          {
+            "cat": "coding",
+            "end": "13:59",
+            "note": "com.openai.codex",
+            "src": "macos",
+            "start": "13:54",
+            "title": "codex"
+          },
+          {
+            "cat": "admin",
+            "end": "14:01",
+            "note": "google.com",
+            "src": "macos",
+            "start": "14:00",
+            "title": "the harness thesis google's industry - Google Search"
+          },
+          {
+            "cat": "admin",
+            "end": "14:07",
+            "note": "google.com",
+            "src": "macos",
+            "start": "14:06",
+            "title": "The Harness Thesis: Google's Industrial Framework for Agenti"
+          },
+          {
+            "cat": "personal",
+            "end": "14:08",
+            "note": "x.com",
+            "src": "macos",
+            "start": "14:07",
+            "title": "主页 / X"
+          },
+          {
+            "cat": "coding",
+            "end": "14:16",
+            "note": "com.openai.codex",
+            "src": "macos",
+            "start": "14:08",
+            "title": "codex"
+          },
+          {
+            "cat": "personal",
+            "end": "14:21",
+            "note": "x.com",
+            "src": "macos",
+            "start": "14:16",
+            "title": "主页 / X"
+          },
+          {
+            "cat": "coding",
+            "end": "14:23",
+            "note": "com.openai.codex",
+            "src": "macos",
+            "start": "14:21",
+            "title": "codex"
+          },
+          {
+            "cat": "personal",
+            "end": "14:25",
+            "note": "x.com",
+            "src": "macos",
+            "start": "14:23",
+            "title": "主页 / X"
+          },
+          {
+            "cat": "personal",
+            "end": "15:39",
+            "note": "x.com",
+            "src": "macos",
+            "start": "15:38",
+            "title": "主页 / X"
+          },
+          {
+            "cat": "research",
+            "end": "15:44",
+            "note": "org.zotero.zotero",
+            "src": "macos",
+            "start": "15:39",
+            "title": "zotero"
+          },
+          {
+            "cat": "coding",
+            "end": "15:46",
+            "note": "com.openai.codex",
+            "src": "macos",
+            "start": "15:44",
+            "title": "codex"
+          }
+        ],
+        "key": "2026-9-19",
+        "logged": 148,
+        "ratio": 0.46588856509258264,
+        "real": 69,
+        "stats": {
+          "contextSwitches": 20,
+          "justOneMoreThing": 4,
+          "longestFocus": "17m",
+          "tabsOpened": 0
+        },
+        "weekend": true
+      },
+      {
+        "key": "2026-9-20",
+        "dayNum": 20,
+        "dow": 0,
+        "weekend": true,
+        "dateShort": "Sun, Sep 20",
+        "dateLong": "Sunday, September 20",
+        "dayStart": "11:45",
+        "dayEnd": "05:59",
+        "events": [
+          {
+            "start": "11:45",
+            "end": "11:51",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
           },
           {
             "start": "12:00",
             "end": "12:17",
-            "cat": "coding",
+            "cat": "research",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "title": "zotero",
+            "note": "org.zotero.zotero"
           },
           {
-            "start": "12:17",
-            "end": "12:23",
-            "cat": "admin",
+            "start": "12:18",
+            "end": "12:19",
+            "cat": "research",
             "src": "macos",
-            "title": "BOOSTED: 20% Off City Beach 🤩 - ada.ren.cn@gmail.com - Gmail",
-            "note": "mail.google.com"
+            "title": "[2212.09741] One Embedder, Any Task: Instruction-Finetuned T",
+            "note": "arxiv.org"
           },
           {
-            "start": "12:23",
-            "end": "12:40",
-            "cat": "admin",
+            "start": "12:19",
+            "end": "12:21",
+            "cat": "research",
             "src": "macos",
-            "title": "Ticketek Australia",
-            "note": "premier.ticketek.com.au"
+            "title": "‪Weijia Shi‬ - ‪Google Scholar‬",
+            "note": "scholar.google.com"
           },
           {
-            "start": "12:40",
-            "end": "12:52",
-            "cat": "coding",
+            "start": "12:22",
+            "end": "12:37",
+            "cat": "research",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "title": "zotero",
+            "note": "org.zotero.zotero"
           },
           {
-            "start": "12:52",
-            "end": "13:11",
-            "cat": "admin",
+            "start": "12:37",
+            "end": "12:42",
+            "cat": "research",
             "src": "macos",
-            "title": "Ticketek Australia",
-            "note": "premier.ticketek.com.au"
+            "title": "CoT-Self-Instruct: Building high-quality synthetic prompts f",
+            "note": "arxiv.org"
           },
           {
-            "start": "13:11",
+            "start": "12:44",
+            "end": "12:50",
+            "cat": "research",
+            "src": "macos",
+            "title": "CoT-Self-Instruct: Building high-quality synthetic prompts f",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "12:56",
+            "end": "13:13",
+            "cat": "research",
+            "src": "macos",
+            "title": "CoT-Self-Instruct: Building high-quality synthetic prompts f",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "13:13",
             "end": "13:15",
             "cat": "coding",
             "src": "macos",
@@ -83259,46 +83481,62 @@
           {
             "start": "13:15",
             "end": "13:22",
-            "cat": "admin",
+            "cat": "coding",
             "src": "macos",
-            "title": "Ticketek Australia",
-            "note": "premier.ticketek.com.au"
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "13:22",
+            "end": "13:23",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "13:23",
+            "end": "13:28",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
           },
           {
             "start": "13:28",
-            "end": "13:38",
+            "end": "13:30",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "13:30",
+            "end": "13:34",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "13:34",
+            "end": "13:36",
             "cat": "coding",
             "src": "macos",
             "title": "codex",
             "note": "com.openai.codex"
           },
           {
-            "start": "13:38",
-            "end": "13:46",
-            "cat": "admin",
+            "start": "13:36",
+            "end": "13:41",
+            "cat": "research",
             "src": "macos",
-            "title": "Ticketek Australia",
-            "note": "premier.ticketek.com.au"
+            "title": "How a PhD Can Survive? | Ada's Notes",
+            "note": "adaren100.github.io"
           },
           {
-            "start": "13:46",
-            "end": "13:50",
-            "cat": "coding",
-            "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
-          },
-          {
-            "start": "13:50",
-            "end": "13:54",
-            "cat": "admin",
-            "src": "macos",
-            "title": "Ticketek Australia",
-            "note": "premier.ticketek.com.au"
-          },
-          {
-            "start": "13:54",
-            "end": "13:59",
+            "start": "13:53",
+            "end": "14:00",
             "cat": "coding",
             "src": "macos",
             "title": "codex",
@@ -83306,115 +83544,414 @@
           },
           {
             "start": "14:00",
-            "end": "14:01",
-            "cat": "admin",
-            "src": "macos",
-            "title": "the harness thesis google's industry - Google Search",
-            "note": "google.com"
-          },
-          {
-            "start": "14:06",
-            "end": "14:07",
-            "cat": "admin",
-            "src": "macos",
-            "title": "The Harness Thesis: Google's Industrial Framework for Agenti",
-            "note": "google.com"
-          },
-          {
-            "start": "14:07",
-            "end": "14:08",
-            "cat": "personal",
-            "src": "macos",
-            "title": "主页 / X",
-            "note": "x.com"
-          },
-          {
-            "start": "14:08",
-            "end": "14:16",
-            "cat": "coding",
-            "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
-          },
-          {
-            "start": "14:16",
-            "end": "14:21",
-            "cat": "personal",
-            "src": "macos",
-            "title": "主页 / X",
-            "note": "x.com"
-          },
-          {
-            "start": "14:21",
-            "end": "14:23",
-            "cat": "coding",
-            "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
-          },
-          {
-            "start": "14:23",
-            "end": "14:25",
-            "cat": "personal",
-            "src": "macos",
-            "title": "主页 / X",
-            "note": "x.com"
-          },
-          {
-            "start": "15:38",
-            "end": "15:39",
-            "cat": "personal",
-            "src": "macos",
-            "title": "主页 / X",
-            "note": "x.com"
-          },
-          {
-            "start": "15:39",
-            "end": "15:44",
+            "end": "14:22",
             "cat": "research",
             "src": "macos",
             "title": "zotero",
             "note": "org.zotero.zotero"
           },
           {
-            "start": "15:44",
-            "end": "15:46",
+            "start": "14:23",
+            "end": "14:25",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "teams2",
+            "note": "com.microsoft.teams2"
+          },
+          {
+            "start": "14:27",
+            "end": "14:34",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Agents Literature Reivews - Google Slides",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "14:34",
+            "end": "14:35",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "14:35",
+            "end": "14:38",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "14:39",
+            "end": "14:46",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Agents Literature Reivews - Google Slides",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "14:46",
+            "end": "14:59",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "14:59",
+            "end": "15:02",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "15:02",
+            "end": "15:04",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "15:05",
+            "end": "15:07",
+            "cat": "research",
+            "src": "macos",
+            "title": "2306.05443",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "15:33",
+            "end": "15:40",
+            "cat": "research",
+            "src": "macos",
+            "title": "2306.05443",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "15:40",
+            "end": "15:47",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "15:48",
+            "end": "15:54",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "15:54",
+            "end": "15:59",
             "cat": "coding",
             "src": "macos",
             "title": "codex",
             "note": "com.openai.codex"
+          },
+          {
+            "start": "16:05",
+            "end": "16:07",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "16:08",
+            "end": "16:16",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "16:17",
+            "end": "16:18",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "16:18",
+            "end": "16:20",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "16:20",
+            "end": "16:22",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "16:22",
+            "end": "16:25",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "16:27",
+            "end": "16:45",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "17:43",
+            "end": "17:51",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "17:52",
+            "end": "17:59",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "18:00",
+            "end": "18:12",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "18:12",
+            "end": "18:18",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "19:59",
+            "end": "20:10",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "20:10",
+            "end": "20:15",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Agents - Google Slides",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "20:15",
+            "end": "20:17",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "20:22",
+            "end": "20:24",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "20:25",
+            "end": "20:27",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Credits | OpenRouter",
+            "note": "openrouter.ai"
+          },
+          {
+            "start": "20:28",
+            "end": "20:30",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google One Plans",
+            "note": "one.google.com"
+          },
+          {
+            "start": "20:30",
+            "end": "20:52",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "20:53",
+            "end": "20:55",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(7) 4.6 Years Until I Never Work Again - YouTube",
+            "note": "youtube.com"
+          },
+          {
+            "start": "20:55",
+            "end": "21:07",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "21:08",
+            "end": "21:29",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "21:45",
+            "end": "21:50",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "22:05",
+            "end": "22:11",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "22:20",
+            "end": "22:27",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
+            "note": "sport.mq.edu.au"
+          },
+          {
+            "start": "22:27",
+            "end": "22:49",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "22:54",
+            "end": "23:41",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "23:51",
+            "end": "23:56",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "00:01",
+            "end": "00:29",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "00:29",
+            "end": "00:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "45 hits"
+          },
+          {
+            "start": "00:33",
+            "end": "00:37",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Excel",
+            "note": "com.microsoft.Excel"
+          },
+          {
+            "start": "00:38",
+            "end": "00:42",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "00:42",
+            "end": "01:00",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "01:00",
+            "end": "01:02",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Excel",
+            "note": "com.microsoft.Excel"
+          },
+          {
+            "start": "01:02",
+            "end": "01:14",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "01:15",
+            "end": "01:17",
+            "cat": "coding",
+            "src": "macos",
+            "title": "iterm2",
+            "note": "com.googlecode.iterm2"
+          },
+          {
+            "start": "01:17",
+            "end": "05:59",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
           }
         ],
-        "logged": 148,
-        "real": 69,
-        "deep": 69,
-        "ratio": 0.46588856509258264,
+        "logged": 784,
+        "real": 767,
+        "deep": 767,
+        "ratio": 0.9788616469758535,
         "stats": {
-          "contextSwitches": 20,
+          "contextSwitches": 28,
           "tabsOpened": 0,
-          "longestFocus": "17m",
-          "justOneMoreThing": 4
-        }
-      },
-      {
-        "key": "2026-9-20",
-        "dayNum": 20,
-        "dow": 0,
-        "weekend": true,
-        "dateShort": "Sun, Sep 20",
-        "dateLong": "Sunday, September 20",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
-        "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "0m",
-          "justOneMoreThing": 0
+          "longestFocus": "4h 55m",
+          "justOneMoreThing": 5
         }
       },
       {
@@ -83424,17 +83961,122 @@
         "weekend": false,
         "dateShort": "Mon, Sep 21",
         "dateLong": "Monday, September 21",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "06:00",
+        "dayEnd": "10:24",
+        "events": [
+          {
+            "start": "06:00",
+            "end": "09:14",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "09:15",
+            "end": "09:19",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "09:21",
+            "end": "09:25",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "09:28",
+            "end": "09:30",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "09:31",
+            "end": "09:31",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "09:33",
+            "end": "09:36",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "09:39",
+            "end": "09:42",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "09:44",
+            "end": "09:51",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "09:56",
+            "end": "10:01",
+            "cat": "writing",
+            "src": "local",
+            "title": "payments-readme.md",
+            "note": "1 hit"
+          },
+          {
+            "start": "10:01",
+            "end": "10:07",
+            "cat": "coding",
+            "src": "local",
+            "title": "tree.html",
+            "note": "6 hits"
+          },
+          {
+            "start": "10:09",
+            "end": "10:11",
+            "cat": "coding",
+            "src": "local",
+            "title": ".pre-commit-config.yaml",
+            "note": "2 hits"
+          },
+          {
+            "start": "10:12",
+            "end": "10:16",
+            "cat": "coding",
+            "src": "local",
+            "title": ".pre-commit-config.yaml",
+            "note": "2 hits"
+          },
+          {
+            "start": "10:19",
+            "end": "10:24",
+            "cat": "writing",
+            "src": "local",
+            "title": "codex.txt",
+            "note": "1 hit"
+          }
+        ],
+        "logged": 239,
+        "real": 239,
+        "deep": 239,
+        "ratio": 1.0,
         "stats": {
-          "contextSwitches": 0,
+          "contextSwitches": 3,
           "tabsOpened": 0,
-          "longestFocus": "0m",
+          "longestFocus": "3h 59m",
           "justOneMoreThing": 0
         }
       },
@@ -92273,89 +92915,311 @@
       "weekend": false
     },
     {
-      "key": "2026-9-19",
-      "dayNum": 19,
-      "dow": 6,
-      "weekend": true,
-      "dateShort": "Sat, Sep 19",
       "dateLong": "Saturday, September 19",
-      "dayStart": "11:51",
+      "dateShort": "Sat, Sep 19",
       "dayEnd": "15:46",
+      "dayNum": 19,
+      "dayStart": "11:51",
+      "deep": 69,
+      "dow": 6,
       "events": [
         {
-          "start": "11:51",
+          "cat": "personal",
           "end": "11:53",
-          "cat": "personal",
+          "note": "ticketmaster.com.au",
           "src": "macos",
-          "title": "Tickets: Bruno Mars - The Romantic Tour, Sydney Olympic Park",
-          "note": "ticketmaster.com.au"
+          "start": "11:51",
+          "title": "Tickets: Bruno Mars - The Romantic Tour, Sydney Olympic Park"
         },
         {
-          "start": "11:55",
+          "cat": "personal",
           "end": "11:57",
-          "cat": "personal",
+          "note": "ticketmaster.com.au",
           "src": "macos",
-          "title": "Ticketmaster - My Tickets",
-          "note": "ticketmaster.com.au"
+          "start": "11:55",
+          "title": "Ticketmaster - My Tickets"
         },
         {
-          "start": "11:57",
+          "cat": "admin",
           "end": "11:59",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "11:57",
+          "title": "Outlook"
         },
         {
-          "start": "11:59",
-          "end": "12:00",
           "cat": "admin",
+          "end": "12:00",
+          "note": "mail.google.com",
           "src": "macos",
-          "title": "BOOSTED: 20% Off City Beach 🤩 - ada.ren.cn@gmail.com - Gmail",
-          "note": "mail.google.com"
+          "start": "11:59",
+          "title": "BOOSTED: 20% Off City Beach 🤩 - ada.ren.cn@gmail.com - Gmail"
+        },
+        {
+          "cat": "coding",
+          "end": "12:17",
+          "note": "com.openai.codex",
+          "src": "macos",
+          "start": "12:00",
+          "title": "codex"
+        },
+        {
+          "cat": "admin",
+          "end": "12:23",
+          "note": "mail.google.com",
+          "src": "macos",
+          "start": "12:17",
+          "title": "BOOSTED: 20% Off City Beach 🤩 - ada.ren.cn@gmail.com - Gmail"
+        },
+        {
+          "cat": "admin",
+          "end": "12:40",
+          "note": "premier.ticketek.com.au",
+          "src": "macos",
+          "start": "12:23",
+          "title": "Ticketek Australia"
+        },
+        {
+          "cat": "coding",
+          "end": "12:52",
+          "note": "com.openai.codex",
+          "src": "macos",
+          "start": "12:40",
+          "title": "codex"
+        },
+        {
+          "cat": "admin",
+          "end": "13:11",
+          "note": "premier.ticketek.com.au",
+          "src": "macos",
+          "start": "12:52",
+          "title": "Ticketek Australia"
+        },
+        {
+          "cat": "coding",
+          "end": "13:15",
+          "note": "com.openai.codex",
+          "src": "macos",
+          "start": "13:11",
+          "title": "codex"
+        },
+        {
+          "cat": "admin",
+          "end": "13:22",
+          "note": "premier.ticketek.com.au",
+          "src": "macos",
+          "start": "13:15",
+          "title": "Ticketek Australia"
+        },
+        {
+          "cat": "coding",
+          "end": "13:38",
+          "note": "com.openai.codex",
+          "src": "macos",
+          "start": "13:28",
+          "title": "codex"
+        },
+        {
+          "cat": "admin",
+          "end": "13:46",
+          "note": "premier.ticketek.com.au",
+          "src": "macos",
+          "start": "13:38",
+          "title": "Ticketek Australia"
+        },
+        {
+          "cat": "coding",
+          "end": "13:50",
+          "note": "com.openai.codex",
+          "src": "macos",
+          "start": "13:46",
+          "title": "codex"
+        },
+        {
+          "cat": "admin",
+          "end": "13:54",
+          "note": "premier.ticketek.com.au",
+          "src": "macos",
+          "start": "13:50",
+          "title": "Ticketek Australia"
+        },
+        {
+          "cat": "coding",
+          "end": "13:59",
+          "note": "com.openai.codex",
+          "src": "macos",
+          "start": "13:54",
+          "title": "codex"
+        },
+        {
+          "cat": "admin",
+          "end": "14:01",
+          "note": "google.com",
+          "src": "macos",
+          "start": "14:00",
+          "title": "the harness thesis google's industry - Google Search"
+        },
+        {
+          "cat": "admin",
+          "end": "14:07",
+          "note": "google.com",
+          "src": "macos",
+          "start": "14:06",
+          "title": "The Harness Thesis: Google's Industrial Framework for Agenti"
+        },
+        {
+          "cat": "personal",
+          "end": "14:08",
+          "note": "x.com",
+          "src": "macos",
+          "start": "14:07",
+          "title": "主页 / X"
+        },
+        {
+          "cat": "coding",
+          "end": "14:16",
+          "note": "com.openai.codex",
+          "src": "macos",
+          "start": "14:08",
+          "title": "codex"
+        },
+        {
+          "cat": "personal",
+          "end": "14:21",
+          "note": "x.com",
+          "src": "macos",
+          "start": "14:16",
+          "title": "主页 / X"
+        },
+        {
+          "cat": "coding",
+          "end": "14:23",
+          "note": "com.openai.codex",
+          "src": "macos",
+          "start": "14:21",
+          "title": "codex"
+        },
+        {
+          "cat": "personal",
+          "end": "14:25",
+          "note": "x.com",
+          "src": "macos",
+          "start": "14:23",
+          "title": "主页 / X"
+        },
+        {
+          "cat": "personal",
+          "end": "15:39",
+          "note": "x.com",
+          "src": "macos",
+          "start": "15:38",
+          "title": "主页 / X"
+        },
+        {
+          "cat": "research",
+          "end": "15:44",
+          "note": "org.zotero.zotero",
+          "src": "macos",
+          "start": "15:39",
+          "title": "zotero"
+        },
+        {
+          "cat": "coding",
+          "end": "15:46",
+          "note": "com.openai.codex",
+          "src": "macos",
+          "start": "15:44",
+          "title": "codex"
+        }
+      ],
+      "key": "2026-9-19",
+      "logged": 148,
+      "ratio": 0.46588856509258264,
+      "real": 69,
+      "stats": {
+        "contextSwitches": 20,
+        "justOneMoreThing": 4,
+        "longestFocus": "17m",
+        "tabsOpened": 0
+      },
+      "weekend": true
+    },
+    {
+      "key": "2026-9-20",
+      "dayNum": 20,
+      "dow": 0,
+      "weekend": true,
+      "dateShort": "Sun, Sep 20",
+      "dateLong": "Sunday, September 20",
+      "dayStart": "11:45",
+      "dayEnd": "05:59",
+      "events": [
+        {
+          "start": "11:45",
+          "end": "11:51",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
         },
         {
           "start": "12:00",
           "end": "12:17",
-          "cat": "coding",
+          "cat": "research",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "title": "zotero",
+          "note": "org.zotero.zotero"
         },
         {
-          "start": "12:17",
-          "end": "12:23",
-          "cat": "admin",
+          "start": "12:18",
+          "end": "12:19",
+          "cat": "research",
           "src": "macos",
-          "title": "BOOSTED: 20% Off City Beach 🤩 - ada.ren.cn@gmail.com - Gmail",
-          "note": "mail.google.com"
+          "title": "[2212.09741] One Embedder, Any Task: Instruction-Finetuned T",
+          "note": "arxiv.org"
         },
         {
-          "start": "12:23",
-          "end": "12:40",
-          "cat": "admin",
+          "start": "12:19",
+          "end": "12:21",
+          "cat": "research",
           "src": "macos",
-          "title": "Ticketek Australia",
-          "note": "premier.ticketek.com.au"
+          "title": "‪Weijia Shi‬ - ‪Google Scholar‬",
+          "note": "scholar.google.com"
         },
         {
-          "start": "12:40",
-          "end": "12:52",
-          "cat": "coding",
+          "start": "12:22",
+          "end": "12:37",
+          "cat": "research",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "title": "zotero",
+          "note": "org.zotero.zotero"
         },
         {
-          "start": "12:52",
-          "end": "13:11",
-          "cat": "admin",
+          "start": "12:37",
+          "end": "12:42",
+          "cat": "research",
           "src": "macos",
-          "title": "Ticketek Australia",
-          "note": "premier.ticketek.com.au"
+          "title": "CoT-Self-Instruct: Building high-quality synthetic prompts f",
+          "note": "arxiv.org"
         },
         {
-          "start": "13:11",
+          "start": "12:44",
+          "end": "12:50",
+          "cat": "research",
+          "src": "macos",
+          "title": "CoT-Self-Instruct: Building high-quality synthetic prompts f",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "12:56",
+          "end": "13:13",
+          "cat": "research",
+          "src": "macos",
+          "title": "CoT-Self-Instruct: Building high-quality synthetic prompts f",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "13:13",
           "end": "13:15",
           "cat": "coding",
           "src": "macos",
@@ -92365,46 +93229,62 @@
         {
           "start": "13:15",
           "end": "13:22",
-          "cat": "admin",
+          "cat": "coding",
           "src": "macos",
-          "title": "Ticketek Australia",
-          "note": "premier.ticketek.com.au"
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "13:22",
+          "end": "13:23",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "13:23",
+          "end": "13:28",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
         },
         {
           "start": "13:28",
-          "end": "13:38",
+          "end": "13:30",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "13:30",
+          "end": "13:34",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "13:34",
+          "end": "13:36",
           "cat": "coding",
           "src": "macos",
           "title": "codex",
           "note": "com.openai.codex"
         },
         {
-          "start": "13:38",
-          "end": "13:46",
-          "cat": "admin",
+          "start": "13:36",
+          "end": "13:41",
+          "cat": "research",
           "src": "macos",
-          "title": "Ticketek Australia",
-          "note": "premier.ticketek.com.au"
+          "title": "How a PhD Can Survive? | Ada's Notes",
+          "note": "adaren100.github.io"
         },
         {
-          "start": "13:46",
-          "end": "13:50",
-          "cat": "coding",
-          "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
-        },
-        {
-          "start": "13:50",
-          "end": "13:54",
-          "cat": "admin",
-          "src": "macos",
-          "title": "Ticketek Australia",
-          "note": "premier.ticketek.com.au"
-        },
-        {
-          "start": "13:54",
-          "end": "13:59",
+          "start": "13:53",
+          "end": "14:00",
           "cat": "coding",
           "src": "macos",
           "title": "codex",
@@ -92412,115 +93292,414 @@
         },
         {
           "start": "14:00",
-          "end": "14:01",
-          "cat": "admin",
-          "src": "macos",
-          "title": "the harness thesis google's industry - Google Search",
-          "note": "google.com"
-        },
-        {
-          "start": "14:06",
-          "end": "14:07",
-          "cat": "admin",
-          "src": "macos",
-          "title": "The Harness Thesis: Google's Industrial Framework for Agenti",
-          "note": "google.com"
-        },
-        {
-          "start": "14:07",
-          "end": "14:08",
-          "cat": "personal",
-          "src": "macos",
-          "title": "主页 / X",
-          "note": "x.com"
-        },
-        {
-          "start": "14:08",
-          "end": "14:16",
-          "cat": "coding",
-          "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
-        },
-        {
-          "start": "14:16",
-          "end": "14:21",
-          "cat": "personal",
-          "src": "macos",
-          "title": "主页 / X",
-          "note": "x.com"
-        },
-        {
-          "start": "14:21",
-          "end": "14:23",
-          "cat": "coding",
-          "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
-        },
-        {
-          "start": "14:23",
-          "end": "14:25",
-          "cat": "personal",
-          "src": "macos",
-          "title": "主页 / X",
-          "note": "x.com"
-        },
-        {
-          "start": "15:38",
-          "end": "15:39",
-          "cat": "personal",
-          "src": "macos",
-          "title": "主页 / X",
-          "note": "x.com"
-        },
-        {
-          "start": "15:39",
-          "end": "15:44",
+          "end": "14:22",
           "cat": "research",
           "src": "macos",
           "title": "zotero",
           "note": "org.zotero.zotero"
         },
         {
-          "start": "15:44",
-          "end": "15:46",
+          "start": "14:23",
+          "end": "14:25",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "teams2",
+          "note": "com.microsoft.teams2"
+        },
+        {
+          "start": "14:27",
+          "end": "14:34",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Agents Literature Reivews - Google Slides",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "14:34",
+          "end": "14:35",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "14:35",
+          "end": "14:38",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "14:39",
+          "end": "14:46",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Agents Literature Reivews - Google Slides",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "14:46",
+          "end": "14:59",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "14:59",
+          "end": "15:02",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "15:02",
+          "end": "15:04",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "15:05",
+          "end": "15:07",
+          "cat": "research",
+          "src": "macos",
+          "title": "2306.05443",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "15:33",
+          "end": "15:40",
+          "cat": "research",
+          "src": "macos",
+          "title": "2306.05443",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "15:40",
+          "end": "15:47",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "15:48",
+          "end": "15:54",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "15:54",
+          "end": "15:59",
           "cat": "coding",
           "src": "macos",
           "title": "codex",
           "note": "com.openai.codex"
+        },
+        {
+          "start": "16:05",
+          "end": "16:07",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "16:08",
+          "end": "16:16",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "16:17",
+          "end": "16:18",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "16:18",
+          "end": "16:20",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "16:20",
+          "end": "16:22",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "16:22",
+          "end": "16:25",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "16:27",
+          "end": "16:45",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "17:43",
+          "end": "17:51",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "17:52",
+          "end": "17:59",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "18:00",
+          "end": "18:12",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "18:12",
+          "end": "18:18",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "19:59",
+          "end": "20:10",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "20:10",
+          "end": "20:15",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Agents - Google Slides",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "20:15",
+          "end": "20:17",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "20:22",
+          "end": "20:24",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "20:25",
+          "end": "20:27",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Credits | OpenRouter",
+          "note": "openrouter.ai"
+        },
+        {
+          "start": "20:28",
+          "end": "20:30",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google One Plans",
+          "note": "one.google.com"
+        },
+        {
+          "start": "20:30",
+          "end": "20:52",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "20:53",
+          "end": "20:55",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(7) 4.6 Years Until I Never Work Again - YouTube",
+          "note": "youtube.com"
+        },
+        {
+          "start": "20:55",
+          "end": "21:07",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "21:08",
+          "end": "21:29",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "21:45",
+          "end": "21:50",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "22:05",
+          "end": "22:11",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "22:20",
+          "end": "22:27",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
+          "note": "sport.mq.edu.au"
+        },
+        {
+          "start": "22:27",
+          "end": "22:49",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "22:54",
+          "end": "23:41",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "23:51",
+          "end": "23:56",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "00:01",
+          "end": "00:29",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "00:29",
+          "end": "00:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "45 hits"
+        },
+        {
+          "start": "00:33",
+          "end": "00:37",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Excel",
+          "note": "com.microsoft.Excel"
+        },
+        {
+          "start": "00:38",
+          "end": "00:42",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "00:42",
+          "end": "01:00",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "01:00",
+          "end": "01:02",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Excel",
+          "note": "com.microsoft.Excel"
+        },
+        {
+          "start": "01:02",
+          "end": "01:14",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "01:15",
+          "end": "01:17",
+          "cat": "coding",
+          "src": "macos",
+          "title": "iterm2",
+          "note": "com.googlecode.iterm2"
+        },
+        {
+          "start": "01:17",
+          "end": "05:59",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
         }
       ],
-      "logged": 148,
-      "real": 69,
-      "deep": 69,
-      "ratio": 0.46588856509258264,
+      "logged": 784,
+      "real": 767,
+      "deep": 767,
+      "ratio": 0.9788616469758535,
       "stats": {
-        "contextSwitches": 20,
+        "contextSwitches": 28,
         "tabsOpened": 0,
-        "longestFocus": "17m",
-        "justOneMoreThing": 4
-      }
-    },
-    {
-      "key": "2026-9-20",
-      "dayNum": 20,
-      "dow": 0,
-      "weekend": true,
-      "dateShort": "Sun, Sep 20",
-      "dateLong": "Sunday, September 20",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
-      "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "0m",
-        "justOneMoreThing": 0
+        "longestFocus": "4h 55m",
+        "justOneMoreThing": 5
       }
     },
     {
@@ -92530,17 +93709,122 @@
       "weekend": false,
       "dateShort": "Mon, Sep 21",
       "dateLong": "Monday, September 21",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "06:00",
+      "dayEnd": "10:24",
+      "events": [
+        {
+          "start": "06:00",
+          "end": "09:14",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "09:15",
+          "end": "09:19",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "09:21",
+          "end": "09:25",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "09:28",
+          "end": "09:30",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "09:31",
+          "end": "09:31",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "09:33",
+          "end": "09:36",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "09:39",
+          "end": "09:42",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "09:44",
+          "end": "09:51",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "09:56",
+          "end": "10:01",
+          "cat": "writing",
+          "src": "local",
+          "title": "payments-readme.md",
+          "note": "1 hit"
+        },
+        {
+          "start": "10:01",
+          "end": "10:07",
+          "cat": "coding",
+          "src": "local",
+          "title": "tree.html",
+          "note": "6 hits"
+        },
+        {
+          "start": "10:09",
+          "end": "10:11",
+          "cat": "coding",
+          "src": "local",
+          "title": ".pre-commit-config.yaml",
+          "note": "2 hits"
+        },
+        {
+          "start": "10:12",
+          "end": "10:16",
+          "cat": "coding",
+          "src": "local",
+          "title": ".pre-commit-config.yaml",
+          "note": "2 hits"
+        },
+        {
+          "start": "10:19",
+          "end": "10:24",
+          "cat": "writing",
+          "src": "local",
+          "title": "codex.txt",
+          "note": "1 hit"
+        }
+      ],
+      "logged": 239,
+      "real": 239,
+      "deep": 239,
+      "ratio": 1.0,
       "stats": {
-        "contextSwitches": 0,
+        "contextSwitches": 3,
         "tabsOpened": 0,
-        "longestFocus": "0m",
+        "longestFocus": "3h 59m",
         "justOneMoreThing": 0
       }
     },
