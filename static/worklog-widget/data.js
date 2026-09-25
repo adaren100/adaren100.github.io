@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-09-24T10:20:08+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-09-25T10:22:34+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -85231,474 +85231,474 @@
         "weekend": false
       },
       {
-        "key": "2026-9-23",
-        "dayNum": 23,
-        "dow": 3,
-        "weekend": false,
-        "dateShort": "Wed, Sep 23",
         "dateLong": "Wednesday, September 23",
-        "dayStart": "10:10",
+        "dateShort": "Wed, Sep 23",
         "dayEnd": "21:16",
+        "dayNum": 23,
+        "dayStart": "10:10",
+        "deep": 311,
+        "dow": 3,
         "events": [
           {
-            "start": "10:10",
+            "cat": "personal",
             "end": "10:21",
-            "cat": "personal",
+            "note": "x.com",
             "src": "macos",
-            "title": "X 上的 Diogo Almeida：“After co-inventing ChatGPT, I kept askin",
-            "note": "x.com"
+            "start": "10:10",
+            "title": "X 上的 Diogo Almeida：“After co-inventing ChatGPT, I kept askin"
           },
           {
-            "start": "10:24",
+            "cat": "writing",
             "end": "10:25",
-            "cat": "writing",
+            "note": "overleaf.com",
             "src": "macos",
-            "title": "49026100_Ada_CoC_Report - Online LaTeX Editor Overleaf",
-            "note": "overleaf.com"
+            "start": "10:24",
+            "title": "49026100_Ada_CoC_Report - Online LaTeX Editor Overleaf"
           },
           {
-            "start": "10:25",
+            "cat": "coding",
             "end": "10:27",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "10:25",
+            "title": "codex"
           },
           {
-            "start": "10:27",
+            "cat": "writing",
             "end": "10:30",
-            "cat": "writing",
+            "note": "overleaf.com",
             "src": "macos",
-            "title": "49026100_Ada_CoC_Report - Online LaTeX Editor Overleaf",
-            "note": "overleaf.com"
+            "start": "10:27",
+            "title": "49026100_Ada_CoC_Report - Online LaTeX Editor Overleaf"
           },
           {
-            "start": "10:30",
+            "cat": "coding",
             "end": "10:35",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "10:30",
+            "title": "codex"
           },
           {
-            "start": "10:35",
+            "cat": "writing",
             "end": "10:37",
-            "cat": "writing",
+            "note": "overleaf.com",
             "src": "macos",
-            "title": "49026100_Ada_CoC_Report - Online LaTeX Editor Overleaf",
-            "note": "overleaf.com"
+            "start": "10:35",
+            "title": "49026100_Ada_CoC_Report - Online LaTeX Editor Overleaf"
           },
           {
-            "start": "10:37",
+            "cat": "coding",
             "end": "10:41",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "10:37",
+            "title": "codex"
           },
           {
-            "start": "10:41",
+            "cat": "coding",
             "end": "10:50",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "10:41",
+            "title": "codex"
           },
           {
-            "start": "10:50",
+            "cat": "research",
             "end": "10:56",
-            "cat": "research",
+            "note": "link.springer.com",
             "src": "macos",
-            "title": "The responsibility gap: Ascribing responsibility for the act",
-            "note": "link.springer.com"
+            "start": "10:50",
+            "title": "The responsibility gap: Ascribing responsibility for the act"
           },
           {
-            "start": "10:56",
+            "cat": "coding",
             "end": "11:04",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "10:56",
+            "title": "codex"
           },
           {
-            "start": "11:04",
+            "cat": "research",
             "end": "11:31",
-            "cat": "research",
+            "note": "link.springer.com",
             "src": "macos",
-            "title": "The responsibility gap: Ascribing responsibility for the act",
-            "note": "link.springer.com"
+            "start": "11:04",
+            "title": "The responsibility gap: Ascribing responsibility for the act"
           },
           {
-            "start": "11:31",
+            "cat": "coding",
             "end": "11:35",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "11:31",
+            "title": "codex"
           },
           {
-            "start": "11:35",
+            "cat": "research",
             "end": "11:49",
-            "cat": "research",
+            "note": "link.springer.com",
             "src": "macos",
-            "title": "The responsibility gap: Ascribing responsibility for the act",
-            "note": "link.springer.com"
+            "start": "11:35",
+            "title": "The responsibility gap: Ascribing responsibility for the act"
           },
           {
-            "start": "11:49",
+            "cat": "coding",
             "end": "11:53",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "11:49",
+            "title": "codex"
           },
           {
-            "start": "11:53",
+            "cat": "research",
             "end": "11:55",
-            "cat": "research",
+            "note": "link.springer.com",
             "src": "macos",
-            "title": "The responsibility gap: Ascribing responsibility for the act",
-            "note": "link.springer.com"
+            "start": "11:53",
+            "title": "The responsibility gap: Ascribing responsibility for the act"
           },
           {
-            "start": "11:55",
+            "cat": "coding",
             "end": "11:57",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "11:55",
+            "title": "codex"
           },
           {
-            "start": "11:57",
+            "cat": "research",
             "end": "12:00",
-            "cat": "research",
+            "note": "link.springer.com",
             "src": "macos",
-            "title": "The responsibility gap: Ascribing responsibility for the act",
-            "note": "link.springer.com"
+            "start": "11:57",
+            "title": "The responsibility gap: Ascribing responsibility for the act"
           },
           {
-            "start": "12:00",
+            "cat": "coding",
             "end": "12:10",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "12:00",
+            "title": "codex"
           },
           {
-            "start": "12:10",
+            "cat": "research",
             "end": "12:17",
-            "cat": "research",
+            "note": "link.springer.com",
             "src": "macos",
-            "title": "The responsibility gap: Ascribing responsibility for the act",
-            "note": "link.springer.com"
+            "start": "12:10",
+            "title": "The responsibility gap: Ascribing responsibility for the act"
           },
           {
-            "start": "12:17",
+            "cat": "coding",
             "end": "12:20",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "12:17",
+            "title": "codex"
           },
           {
-            "start": "13:02",
+            "cat": "research",
             "end": "13:06",
-            "cat": "research",
+            "note": "laya.convaiinnovations.com",
             "src": "macos",
-            "title": "Laya — 33ms Multilingual System 1 Decision Engine with Calib",
-            "note": "laya.convaiinnovations.com"
+            "start": "13:02",
+            "title": "Laya — 33ms Multilingual System 1 Decision Engine with Calib"
           },
           {
-            "start": "13:06",
+            "cat": "coding",
             "end": "13:08",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "13:06",
+            "title": "codex"
           },
           {
-            "start": "13:08",
+            "cat": "research",
             "end": "13:11",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "2503.23303",
-            "note": "arxiv.org"
+            "start": "13:08",
+            "title": "2503.23303"
           },
           {
-            "start": "13:13",
+            "cat": "personal",
             "end": "13:15",
-            "cat": "personal",
+            "note": "x.com",
             "src": "macos",
-            "title": "主页 / X",
-            "note": "x.com"
+            "start": "13:13",
+            "title": "主页 / X"
           },
           {
-            "start": "13:15",
+            "cat": "coding",
             "end": "13:18",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "13:15",
+            "title": "codex"
           },
           {
-            "start": "13:18",
+            "cat": "personal",
             "end": "13:29",
-            "cat": "personal",
+            "note": "x.com",
             "src": "macos",
-            "title": "主页 / X",
-            "note": "x.com"
+            "start": "13:18",
+            "title": "主页 / X"
           },
           {
-            "start": "13:29",
+            "cat": "coding",
             "end": "13:32",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "13:29",
+            "title": "codex"
           },
           {
-            "start": "13:32",
+            "cat": "research",
             "end": "13:36",
-            "cat": "research",
+            "note": "chatgpt.com",
             "src": "macos",
-            "title": "ChatGPT Plans",
-            "note": "chatgpt.com"
+            "start": "13:32",
+            "title": "ChatGPT Plans"
           },
           {
-            "start": "13:36",
+            "cat": "coding",
             "end": "13:37",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "13:36",
+            "title": "codex"
           },
           {
-            "start": "13:37",
+            "cat": "research",
             "end": "13:46",
-            "cat": "research",
+            "note": "chatgpt.com",
             "src": "macos",
-            "title": "ChatGPT Plans",
-            "note": "chatgpt.com"
+            "start": "13:37",
+            "title": "ChatGPT Plans"
           },
           {
-            "start": "13:46",
+            "cat": "coding",
             "end": "13:50",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "13:46",
+            "title": "codex"
           },
           {
-            "start": "13:50",
-            "end": "14:21",
             "cat": "research",
+            "end": "14:21",
+            "note": "chatgpt.com",
             "src": "macos",
-            "title": "ChatGPT Plans",
-            "note": "chatgpt.com"
+            "start": "13:50",
+            "title": "ChatGPT Plans"
           },
           {
-            "start": "14:21",
+            "cat": "personal",
             "end": "14:40",
-            "cat": "personal",
+            "note": "baidu.com",
             "src": "macos",
-            "title": "万年历_百度搜索",
-            "note": "baidu.com"
+            "start": "14:21",
+            "title": "万年历_百度搜索"
           },
           {
-            "start": "14:40",
+            "cat": "coding",
             "end": "14:44",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "14:40",
+            "title": "codex"
           },
           {
-            "start": "14:44",
+            "cat": "personal",
             "end": "14:49",
-            "cat": "personal",
+            "note": "baidu.com",
             "src": "macos",
-            "title": "万年历_百度搜索",
-            "note": "baidu.com"
+            "start": "14:44",
+            "title": "万年历_百度搜索"
           },
           {
-            "start": "14:49",
+            "cat": "coding",
             "end": "14:52",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "14:49",
+            "title": "codex"
           },
           {
-            "start": "14:52",
+            "cat": "personal",
             "end": "15:04",
-            "cat": "personal",
+            "note": "baidu.com",
             "src": "macos",
-            "title": "万年历_百度搜索",
-            "note": "baidu.com"
+            "start": "14:52",
+            "title": "万年历_百度搜索"
           },
           {
-            "start": "15:09",
+            "cat": "admin",
             "end": "15:14",
-            "cat": "admin",
+            "note": "sport.mq.edu.au",
             "src": "macos",
-            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
-            "note": "sport.mq.edu.au"
+            "start": "15:09",
+            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni"
           },
           {
-            "start": "15:14",
+            "cat": "coding",
             "end": "15:16",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "15:14",
+            "title": "codex"
           },
           {
-            "start": "15:16",
+            "cat": "admin",
             "end": "15:18",
-            "cat": "admin",
+            "note": "sport.mq.edu.au",
             "src": "macos",
-            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
-            "note": "sport.mq.edu.au"
+            "start": "15:16",
+            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni"
           },
           {
-            "start": "15:20",
+            "cat": "coding",
             "end": "15:38",
-            "cat": "coding",
+            "note": "excel.cloud.microsoft",
             "src": "macos",
-            "title": "Excel",
-            "note": "excel.cloud.microsoft"
+            "start": "15:20",
+            "title": "Excel"
           },
           {
-            "start": "15:39",
+            "cat": "admin",
             "end": "15:40",
-            "cat": "admin",
+            "note": "com.microsoft.Excel",
             "src": "macos",
-            "title": "Excel",
-            "note": "com.microsoft.Excel"
+            "start": "15:39",
+            "title": "Excel"
           },
           {
-            "start": "15:40",
+            "cat": "coding",
             "end": "15:41",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "15:40",
+            "title": "codex"
           },
           {
-            "start": "15:42",
+            "cat": "coding",
             "end": "15:55",
-            "cat": "coding",
+            "note": "excel.cloud.microsoft",
             "src": "macos",
-            "title": "Excel",
-            "note": "excel.cloud.microsoft"
+            "start": "15:42",
+            "title": "Excel"
           },
           {
-            "start": "16:00",
+            "cat": "coding",
             "end": "17:08",
-            "cat": "coding",
+            "note": "com.todesktop.230313mzl4w4u92",
             "src": "macos",
-            "title": "230313mzl4w4u92",
-            "note": "com.todesktop.230313mzl4w4u92"
+            "start": "16:00",
+            "title": "230313mzl4w4u92"
           },
           {
-            "start": "18:46",
+            "cat": "personal",
             "end": "18:47",
-            "cat": "personal",
+            "note": "youtube.com",
             "src": "macos",
-            "title": "(11) YouTube",
-            "note": "youtube.com"
+            "start": "18:46",
+            "title": "(11) YouTube"
           },
           {
-            "start": "18:47",
+            "cat": "personal",
             "end": "18:54",
-            "cat": "personal",
+            "note": "youtube.com",
             "src": "macos",
-            "title": "(11) Sean‘s AI Stories - YouTube",
-            "note": "youtube.com"
+            "start": "18:47",
+            "title": "(11) Sean‘s AI Stories - YouTube"
           },
           {
-            "start": "19:11",
+            "cat": "personal",
             "end": "19:27",
-            "cat": "personal",
+            "note": "youtube.com",
             "src": "macos",
-            "title": "(11) Sean‘s AI Stories - YouTube",
-            "note": "youtube.com"
+            "start": "19:11",
+            "title": "(11) Sean‘s AI Stories - YouTube"
           },
           {
-            "start": "19:35",
+            "cat": "personal",
             "end": "20:01",
-            "cat": "personal",
+            "note": "youtube.com",
             "src": "macos",
-            "title": "(11) You Can Learn Personal Agent Harness (GrokBot vs Meta M",
-            "note": "youtube.com"
+            "start": "19:35",
+            "title": "(11) You Can Learn Personal Agent Harness (GrokBot vs Meta M"
           },
           {
-            "start": "20:01",
+            "cat": "admin",
             "end": "20:03",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "20:01",
+            "title": "Outlook"
           },
           {
-            "start": "20:08",
+            "cat": "admin",
             "end": "20:13",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "20:08",
+            "title": "Outlook"
           },
           {
-            "start": "20:13",
+            "cat": "personal",
             "end": "20:19",
-            "cat": "personal",
+            "note": "youtube.com",
             "src": "macos",
-            "title": "(11) You Can Learn Personal Agent Harness (GrokBot vs Meta M",
-            "note": "youtube.com"
+            "start": "20:13",
+            "title": "(11) You Can Learn Personal Agent Harness (GrokBot vs Meta M"
           },
           {
-            "start": "20:21",
+            "cat": "personal",
             "end": "20:52",
-            "cat": "personal",
+            "note": "youtube.com",
             "src": "macos",
-            "title": "(11) You Can Learn Personal Agent Harness (GrokBot vs Meta M",
-            "note": "youtube.com"
+            "start": "20:21",
+            "title": "(11) You Can Learn Personal Agent Harness (GrokBot vs Meta M"
           },
           {
-            "start": "20:52",
+            "cat": "coding",
             "end": "21:08",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "20:52",
+            "title": "codex"
           },
           {
-            "start": "21:08",
+            "cat": "coding",
             "end": "21:09",
-            "cat": "coding",
+            "note": "file:///Users/ada/Documents/MQ/Phd/progr",
             "src": "macos",
-            "title": "Agentic AI System: Efficiency and Trustworthiness",
-            "note": "file:///Users/ada/Documents/MQ/Phd/progr"
+            "start": "21:08",
+            "title": "Agentic AI System: Efficiency and Trustworthiness"
           },
           {
-            "start": "21:09",
-            "end": "21:16",
             "cat": "writing",
+            "end": "21:16",
+            "note": "overleaf.com",
             "src": "macos",
-            "title": "49026100_Ada_CoC_Report - Online LaTeX Editor Overleaf",
-            "note": "overleaf.com"
+            "start": "21:09",
+            "title": "49026100_Ada_CoC_Report - Online LaTeX Editor Overleaf"
           }
         ],
+        "key": "2026-9-23",
         "logged": 474,
-        "real": 311,
-        "deep": 311,
         "ratio": 0.6566453364772817,
+        "real": 311,
         "stats": {
           "contextSwitches": 46,
-          "tabsOpened": 0,
+          "justOneMoreThing": 4,
           "longestFocus": "2h 4m",
-          "justOneMoreThing": 4
-        }
+          "tabsOpened": 0
+        },
+        "weekend": false
       },
       {
         "key": "2026-9-24",
@@ -85708,42 +85708,402 @@
         "dateShort": "Thu, Sep 24",
         "dateLong": "Thursday, September 24",
         "dayStart": "10:05",
-        "dayEnd": "10:18",
+        "dayEnd": "18:13",
         "events": [
           {
             "start": "10:05",
-            "end": "10:08",
+            "end": "10:13",
             "cat": "research",
-            "src": "chrome",
+            "src": "macos",
             "title": "How a PhD Can Survive? | Ada's Notes",
             "note": "adaren100.github.io"
           },
           {
-            "start": "10:08",
-            "end": "10:12",
-            "cat": "writing",
-            "src": "local",
-            "title": "2026-09-24-advancing-private-ai-compute-with-secure-server-s",
-            "note": "12 hits"
+            "start": "10:13",
+            "end": "10:16",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
           },
           {
-            "start": "10:13",
-            "end": "10:18",
+            "start": "10:16",
+            "end": "10:22",
+            "cat": "research",
+            "src": "macos",
+            "title": "How a PhD Can Survive? | Ada's Notes",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "10:22",
+            "end": "10:24",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "10:25",
+            "end": "10:33",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "10:33",
+            "end": "10:38",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "10:38",
+            "end": "11:08",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "11:08",
+            "end": "11:09",
             "cat": "coding",
-            "src": "local",
-            "title": "experiment-settings.toml",
-            "note": "1 hit"
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "11:09",
+            "end": "11:44",
+            "cat": "research",
+            "src": "macos",
+            "title": "WorkspaceBench: Evaluating Interpretability Methods for the ",
+            "note": "lesswrong.com"
+          },
+          {
+            "start": "11:44",
+            "end": "11:48",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "11:48",
+            "end": "12:02",
+            "cat": "research",
+            "src": "macos",
+            "title": "WorkspaceBench: Evaluating Interpretability Methods for the ",
+            "note": "lesswrong.com"
+          },
+          {
+            "start": "12:02",
+            "end": "12:03",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "12:03",
+            "end": "12:06",
+            "cat": "research",
+            "src": "macos",
+            "title": "WorkspaceBench: Evaluating Interpretability Methods for the ",
+            "note": "lesswrong.com"
+          },
+          {
+            "start": "12:06",
+            "end": "12:08",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "12:08",
+            "end": "12:12",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "12:51",
+            "end": "13:02",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "13:02",
+            "end": "13:03",
+            "cat": "personal",
+            "src": "macos",
+            "title": "x.com/home",
+            "note": "x.com"
+          },
+          {
+            "start": "13:05",
+            "end": "13:07",
+            "cat": "research",
+            "src": "macos",
+            "title": "Comparison of AI Models across Intelligence, Performance, an",
+            "note": "artificialanalysis.ai"
+          },
+          {
+            "start": "13:10",
+            "end": "13:11",
+            "cat": "research",
+            "src": "macos",
+            "title": "How a PhD Can Survive? | Ada's Notes",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "13:11",
+            "end": "13:14",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "13:14",
+            "end": "13:23",
+            "cat": "research",
+            "src": "macos",
+            "title": "How a PhD Can Survive? | Ada's Notes",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "13:26",
+            "end": "13:28",
+            "cat": "research",
+            "src": "macos",
+            "title": "Paper draft",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "13:28",
+            "end": "13:30",
+            "cat": "research",
+            "src": "macos",
+            "title": "Teen safety, freedom, and privacy | OpenAI",
+            "note": "openai.com"
+          },
+          {
+            "start": "13:31",
+            "end": "13:34",
+            "cat": "research",
+            "src": "macos",
+            "title": "Introducing the Australian Youth Safety Blueprint | OpenAI",
+            "note": "openai.com"
+          },
+          {
+            "start": "13:34",
+            "end": "13:43",
+            "cat": "research",
+            "src": "macos",
+            "title": "2310.06770",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "13:45",
+            "end": "13:46",
+            "cat": "research",
+            "src": "macos",
+            "title": "education_llm.pdf",
+            "note": "hamsabastani.github.io"
+          },
+          {
+            "start": "13:46",
+            "end": "13:55",
+            "cat": "research",
+            "src": "macos",
+            "title": "Test-Enhanced Learning",
+            "note": "journals.sagepub.com"
+          },
+          {
+            "start": "13:55",
+            "end": "14:05",
+            "cat": "research",
+            "src": "macos",
+            "title": "LearnLM: Improving Gemini for Learning",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "14:07",
+            "end": "14:10",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "14:10",
+            "end": "14:16",
+            "cat": "research",
+            "src": "macos",
+            "title": "LearnLM: Improving Gemini for Learning",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "14:16",
+            "end": "14:20",
+            "cat": "research",
+            "src": "macos",
+            "title": "arxiv.org/pdf/2402.15809",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "14:26",
+            "end": "14:31",
+            "cat": "research",
+            "src": "macos",
+            "title": "arxiv.org/pdf/2402.15809",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "14:31",
+            "end": "14:53",
+            "cat": "research",
+            "src": "macos",
+            "title": "Introducing ChatGPT for Teens: Built for learning, backed by",
+            "note": "openai.com"
+          },
+          {
+            "start": "14:53",
+            "end": "15:44",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "15:44",
+            "end": "15:48",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "15:48",
+            "end": "15:52",
+            "cat": "research",
+            "src": "macos",
+            "title": "EduBench: A Comprehensive Benchmarking Dataset for Evaluatin",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "15:52",
+            "end": "15:55",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "15:55",
+            "end": "16:09",
+            "cat": "research",
+            "src": "macos",
+            "title": "EduBench: A Comprehensive Benchmarking Dataset for Evaluatin",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "16:09",
+            "end": "16:11",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "16:11",
+            "end": "16:20",
+            "cat": "research",
+            "src": "macos",
+            "title": "EduBench: A Comprehensive Benchmarking Dataset for Evaluatin",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "16:20",
+            "end": "16:21",
+            "cat": "research",
+            "src": "macos",
+            "title": "2506.13510",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "16:21",
+            "end": "16:30",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "16:30",
+            "end": "16:45",
+            "cat": "research",
+            "src": "macos",
+            "title": "2506.13510",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "16:45",
+            "end": "17:14",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Mathematics Mock Quiz",
+            "note": "iridescent-smakager-d5ee12.netlify.app"
+          },
+          {
+            "start": "17:14",
+            "end": "17:37",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · bench",
+            "note": "149 hits"
+          },
+          {
+            "start": "17:37",
+            "end": "17:54",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · bench",
+            "note": "85 hits"
+          },
+          {
+            "start": "17:54",
+            "end": "18:08",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · bench",
+            "note": "58 hits"
+          },
+          {
+            "start": "18:08",
+            "end": "18:13",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · bench",
+            "note": "20 hits"
           }
         ],
-        "logged": 12,
-        "real": 12,
-        "deep": 12,
-        "ratio": 1.0,
+        "logged": 423,
+        "real": 393,
+        "deep": 393,
+        "ratio": 0.9294383470999649,
         "stats": {
-          "contextSwitches": 2,
-          "tabsOpened": 3,
-          "longestFocus": "12m",
-          "justOneMoreThing": 0
+          "contextSwitches": 26,
+          "tabsOpened": 0,
+          "longestFocus": "2h 1m",
+          "justOneMoreThing": 5
         }
       },
       {
@@ -96582,474 +96942,474 @@
       "weekend": false
     },
     {
-      "key": "2026-9-23",
-      "dayNum": 23,
-      "dow": 3,
-      "weekend": false,
-      "dateShort": "Wed, Sep 23",
       "dateLong": "Wednesday, September 23",
-      "dayStart": "10:10",
+      "dateShort": "Wed, Sep 23",
       "dayEnd": "21:16",
+      "dayNum": 23,
+      "dayStart": "10:10",
+      "deep": 311,
+      "dow": 3,
       "events": [
         {
-          "start": "10:10",
+          "cat": "personal",
           "end": "10:21",
-          "cat": "personal",
+          "note": "x.com",
           "src": "macos",
-          "title": "X 上的 Diogo Almeida：“After co-inventing ChatGPT, I kept askin",
-          "note": "x.com"
+          "start": "10:10",
+          "title": "X 上的 Diogo Almeida：“After co-inventing ChatGPT, I kept askin"
         },
         {
-          "start": "10:24",
+          "cat": "writing",
           "end": "10:25",
-          "cat": "writing",
+          "note": "overleaf.com",
           "src": "macos",
-          "title": "49026100_Ada_CoC_Report - Online LaTeX Editor Overleaf",
-          "note": "overleaf.com"
+          "start": "10:24",
+          "title": "49026100_Ada_CoC_Report - Online LaTeX Editor Overleaf"
         },
         {
-          "start": "10:25",
+          "cat": "coding",
           "end": "10:27",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "10:25",
+          "title": "codex"
         },
         {
-          "start": "10:27",
+          "cat": "writing",
           "end": "10:30",
-          "cat": "writing",
+          "note": "overleaf.com",
           "src": "macos",
-          "title": "49026100_Ada_CoC_Report - Online LaTeX Editor Overleaf",
-          "note": "overleaf.com"
+          "start": "10:27",
+          "title": "49026100_Ada_CoC_Report - Online LaTeX Editor Overleaf"
         },
         {
-          "start": "10:30",
+          "cat": "coding",
           "end": "10:35",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "10:30",
+          "title": "codex"
         },
         {
-          "start": "10:35",
+          "cat": "writing",
           "end": "10:37",
-          "cat": "writing",
+          "note": "overleaf.com",
           "src": "macos",
-          "title": "49026100_Ada_CoC_Report - Online LaTeX Editor Overleaf",
-          "note": "overleaf.com"
+          "start": "10:35",
+          "title": "49026100_Ada_CoC_Report - Online LaTeX Editor Overleaf"
         },
         {
-          "start": "10:37",
+          "cat": "coding",
           "end": "10:41",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "10:37",
+          "title": "codex"
         },
         {
-          "start": "10:41",
+          "cat": "coding",
           "end": "10:50",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "10:41",
+          "title": "codex"
         },
         {
-          "start": "10:50",
+          "cat": "research",
           "end": "10:56",
-          "cat": "research",
+          "note": "link.springer.com",
           "src": "macos",
-          "title": "The responsibility gap: Ascribing responsibility for the act",
-          "note": "link.springer.com"
+          "start": "10:50",
+          "title": "The responsibility gap: Ascribing responsibility for the act"
         },
         {
-          "start": "10:56",
+          "cat": "coding",
           "end": "11:04",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "10:56",
+          "title": "codex"
         },
         {
-          "start": "11:04",
+          "cat": "research",
           "end": "11:31",
-          "cat": "research",
+          "note": "link.springer.com",
           "src": "macos",
-          "title": "The responsibility gap: Ascribing responsibility for the act",
-          "note": "link.springer.com"
+          "start": "11:04",
+          "title": "The responsibility gap: Ascribing responsibility for the act"
         },
         {
-          "start": "11:31",
+          "cat": "coding",
           "end": "11:35",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "11:31",
+          "title": "codex"
         },
         {
-          "start": "11:35",
+          "cat": "research",
           "end": "11:49",
-          "cat": "research",
+          "note": "link.springer.com",
           "src": "macos",
-          "title": "The responsibility gap: Ascribing responsibility for the act",
-          "note": "link.springer.com"
+          "start": "11:35",
+          "title": "The responsibility gap: Ascribing responsibility for the act"
         },
         {
-          "start": "11:49",
+          "cat": "coding",
           "end": "11:53",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "11:49",
+          "title": "codex"
         },
         {
-          "start": "11:53",
+          "cat": "research",
           "end": "11:55",
-          "cat": "research",
+          "note": "link.springer.com",
           "src": "macos",
-          "title": "The responsibility gap: Ascribing responsibility for the act",
-          "note": "link.springer.com"
+          "start": "11:53",
+          "title": "The responsibility gap: Ascribing responsibility for the act"
         },
         {
-          "start": "11:55",
+          "cat": "coding",
           "end": "11:57",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "11:55",
+          "title": "codex"
         },
         {
-          "start": "11:57",
+          "cat": "research",
           "end": "12:00",
-          "cat": "research",
+          "note": "link.springer.com",
           "src": "macos",
-          "title": "The responsibility gap: Ascribing responsibility for the act",
-          "note": "link.springer.com"
+          "start": "11:57",
+          "title": "The responsibility gap: Ascribing responsibility for the act"
         },
         {
-          "start": "12:00",
+          "cat": "coding",
           "end": "12:10",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "12:00",
+          "title": "codex"
         },
         {
-          "start": "12:10",
+          "cat": "research",
           "end": "12:17",
-          "cat": "research",
+          "note": "link.springer.com",
           "src": "macos",
-          "title": "The responsibility gap: Ascribing responsibility for the act",
-          "note": "link.springer.com"
+          "start": "12:10",
+          "title": "The responsibility gap: Ascribing responsibility for the act"
         },
         {
-          "start": "12:17",
+          "cat": "coding",
           "end": "12:20",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "12:17",
+          "title": "codex"
         },
         {
-          "start": "13:02",
+          "cat": "research",
           "end": "13:06",
-          "cat": "research",
+          "note": "laya.convaiinnovations.com",
           "src": "macos",
-          "title": "Laya — 33ms Multilingual System 1 Decision Engine with Calib",
-          "note": "laya.convaiinnovations.com"
+          "start": "13:02",
+          "title": "Laya — 33ms Multilingual System 1 Decision Engine with Calib"
         },
         {
-          "start": "13:06",
+          "cat": "coding",
           "end": "13:08",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "13:06",
+          "title": "codex"
         },
         {
-          "start": "13:08",
+          "cat": "research",
           "end": "13:11",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "2503.23303",
-          "note": "arxiv.org"
+          "start": "13:08",
+          "title": "2503.23303"
         },
         {
-          "start": "13:13",
+          "cat": "personal",
           "end": "13:15",
-          "cat": "personal",
+          "note": "x.com",
           "src": "macos",
-          "title": "主页 / X",
-          "note": "x.com"
+          "start": "13:13",
+          "title": "主页 / X"
         },
         {
-          "start": "13:15",
+          "cat": "coding",
           "end": "13:18",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "13:15",
+          "title": "codex"
         },
         {
-          "start": "13:18",
+          "cat": "personal",
           "end": "13:29",
-          "cat": "personal",
+          "note": "x.com",
           "src": "macos",
-          "title": "主页 / X",
-          "note": "x.com"
+          "start": "13:18",
+          "title": "主页 / X"
         },
         {
-          "start": "13:29",
+          "cat": "coding",
           "end": "13:32",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "13:29",
+          "title": "codex"
         },
         {
-          "start": "13:32",
+          "cat": "research",
           "end": "13:36",
-          "cat": "research",
+          "note": "chatgpt.com",
           "src": "macos",
-          "title": "ChatGPT Plans",
-          "note": "chatgpt.com"
+          "start": "13:32",
+          "title": "ChatGPT Plans"
         },
         {
-          "start": "13:36",
+          "cat": "coding",
           "end": "13:37",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "13:36",
+          "title": "codex"
         },
         {
-          "start": "13:37",
+          "cat": "research",
           "end": "13:46",
-          "cat": "research",
+          "note": "chatgpt.com",
           "src": "macos",
-          "title": "ChatGPT Plans",
-          "note": "chatgpt.com"
+          "start": "13:37",
+          "title": "ChatGPT Plans"
         },
         {
-          "start": "13:46",
+          "cat": "coding",
           "end": "13:50",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "13:46",
+          "title": "codex"
         },
         {
-          "start": "13:50",
-          "end": "14:21",
           "cat": "research",
+          "end": "14:21",
+          "note": "chatgpt.com",
           "src": "macos",
-          "title": "ChatGPT Plans",
-          "note": "chatgpt.com"
+          "start": "13:50",
+          "title": "ChatGPT Plans"
         },
         {
-          "start": "14:21",
+          "cat": "personal",
           "end": "14:40",
-          "cat": "personal",
+          "note": "baidu.com",
           "src": "macos",
-          "title": "万年历_百度搜索",
-          "note": "baidu.com"
+          "start": "14:21",
+          "title": "万年历_百度搜索"
         },
         {
-          "start": "14:40",
+          "cat": "coding",
           "end": "14:44",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "14:40",
+          "title": "codex"
         },
         {
-          "start": "14:44",
+          "cat": "personal",
           "end": "14:49",
-          "cat": "personal",
+          "note": "baidu.com",
           "src": "macos",
-          "title": "万年历_百度搜索",
-          "note": "baidu.com"
+          "start": "14:44",
+          "title": "万年历_百度搜索"
         },
         {
-          "start": "14:49",
+          "cat": "coding",
           "end": "14:52",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "14:49",
+          "title": "codex"
         },
         {
-          "start": "14:52",
+          "cat": "personal",
           "end": "15:04",
-          "cat": "personal",
+          "note": "baidu.com",
           "src": "macos",
-          "title": "万年历_百度搜索",
-          "note": "baidu.com"
+          "start": "14:52",
+          "title": "万年历_百度搜索"
         },
         {
-          "start": "15:09",
+          "cat": "admin",
           "end": "15:14",
-          "cat": "admin",
+          "note": "sport.mq.edu.au",
           "src": "macos",
-          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
-          "note": "sport.mq.edu.au"
+          "start": "15:09",
+          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni"
         },
         {
-          "start": "15:14",
+          "cat": "coding",
           "end": "15:16",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "15:14",
+          "title": "codex"
         },
         {
-          "start": "15:16",
+          "cat": "admin",
           "end": "15:18",
-          "cat": "admin",
+          "note": "sport.mq.edu.au",
           "src": "macos",
-          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
-          "note": "sport.mq.edu.au"
+          "start": "15:16",
+          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni"
         },
         {
-          "start": "15:20",
+          "cat": "coding",
           "end": "15:38",
-          "cat": "coding",
+          "note": "excel.cloud.microsoft",
           "src": "macos",
-          "title": "Excel",
-          "note": "excel.cloud.microsoft"
+          "start": "15:20",
+          "title": "Excel"
         },
         {
-          "start": "15:39",
+          "cat": "admin",
           "end": "15:40",
-          "cat": "admin",
+          "note": "com.microsoft.Excel",
           "src": "macos",
-          "title": "Excel",
-          "note": "com.microsoft.Excel"
+          "start": "15:39",
+          "title": "Excel"
         },
         {
-          "start": "15:40",
+          "cat": "coding",
           "end": "15:41",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "15:40",
+          "title": "codex"
         },
         {
-          "start": "15:42",
+          "cat": "coding",
           "end": "15:55",
-          "cat": "coding",
+          "note": "excel.cloud.microsoft",
           "src": "macos",
-          "title": "Excel",
-          "note": "excel.cloud.microsoft"
+          "start": "15:42",
+          "title": "Excel"
         },
         {
-          "start": "16:00",
+          "cat": "coding",
           "end": "17:08",
-          "cat": "coding",
+          "note": "com.todesktop.230313mzl4w4u92",
           "src": "macos",
-          "title": "230313mzl4w4u92",
-          "note": "com.todesktop.230313mzl4w4u92"
+          "start": "16:00",
+          "title": "230313mzl4w4u92"
         },
         {
-          "start": "18:46",
+          "cat": "personal",
           "end": "18:47",
-          "cat": "personal",
+          "note": "youtube.com",
           "src": "macos",
-          "title": "(11) YouTube",
-          "note": "youtube.com"
+          "start": "18:46",
+          "title": "(11) YouTube"
         },
         {
-          "start": "18:47",
+          "cat": "personal",
           "end": "18:54",
-          "cat": "personal",
+          "note": "youtube.com",
           "src": "macos",
-          "title": "(11) Sean‘s AI Stories - YouTube",
-          "note": "youtube.com"
+          "start": "18:47",
+          "title": "(11) Sean‘s AI Stories - YouTube"
         },
         {
-          "start": "19:11",
+          "cat": "personal",
           "end": "19:27",
-          "cat": "personal",
+          "note": "youtube.com",
           "src": "macos",
-          "title": "(11) Sean‘s AI Stories - YouTube",
-          "note": "youtube.com"
+          "start": "19:11",
+          "title": "(11) Sean‘s AI Stories - YouTube"
         },
         {
-          "start": "19:35",
+          "cat": "personal",
           "end": "20:01",
-          "cat": "personal",
+          "note": "youtube.com",
           "src": "macos",
-          "title": "(11) You Can Learn Personal Agent Harness (GrokBot vs Meta M",
-          "note": "youtube.com"
+          "start": "19:35",
+          "title": "(11) You Can Learn Personal Agent Harness (GrokBot vs Meta M"
         },
         {
-          "start": "20:01",
+          "cat": "admin",
           "end": "20:03",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "20:01",
+          "title": "Outlook"
         },
         {
-          "start": "20:08",
+          "cat": "admin",
           "end": "20:13",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "20:08",
+          "title": "Outlook"
         },
         {
-          "start": "20:13",
+          "cat": "personal",
           "end": "20:19",
-          "cat": "personal",
+          "note": "youtube.com",
           "src": "macos",
-          "title": "(11) You Can Learn Personal Agent Harness (GrokBot vs Meta M",
-          "note": "youtube.com"
+          "start": "20:13",
+          "title": "(11) You Can Learn Personal Agent Harness (GrokBot vs Meta M"
         },
         {
-          "start": "20:21",
+          "cat": "personal",
           "end": "20:52",
-          "cat": "personal",
+          "note": "youtube.com",
           "src": "macos",
-          "title": "(11) You Can Learn Personal Agent Harness (GrokBot vs Meta M",
-          "note": "youtube.com"
+          "start": "20:21",
+          "title": "(11) You Can Learn Personal Agent Harness (GrokBot vs Meta M"
         },
         {
-          "start": "20:52",
+          "cat": "coding",
           "end": "21:08",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "20:52",
+          "title": "codex"
         },
         {
-          "start": "21:08",
+          "cat": "coding",
           "end": "21:09",
-          "cat": "coding",
+          "note": "file:///Users/ada/Documents/MQ/Phd/progr",
           "src": "macos",
-          "title": "Agentic AI System: Efficiency and Trustworthiness",
-          "note": "file:///Users/ada/Documents/MQ/Phd/progr"
+          "start": "21:08",
+          "title": "Agentic AI System: Efficiency and Trustworthiness"
         },
         {
-          "start": "21:09",
-          "end": "21:16",
           "cat": "writing",
+          "end": "21:16",
+          "note": "overleaf.com",
           "src": "macos",
-          "title": "49026100_Ada_CoC_Report - Online LaTeX Editor Overleaf",
-          "note": "overleaf.com"
+          "start": "21:09",
+          "title": "49026100_Ada_CoC_Report - Online LaTeX Editor Overleaf"
         }
       ],
+      "key": "2026-9-23",
       "logged": 474,
-      "real": 311,
-      "deep": 311,
       "ratio": 0.6566453364772817,
+      "real": 311,
       "stats": {
         "contextSwitches": 46,
-        "tabsOpened": 0,
+        "justOneMoreThing": 4,
         "longestFocus": "2h 4m",
-        "justOneMoreThing": 4
-      }
+        "tabsOpened": 0
+      },
+      "weekend": false
     },
     {
       "key": "2026-9-24",
@@ -97059,42 +97419,402 @@
       "dateShort": "Thu, Sep 24",
       "dateLong": "Thursday, September 24",
       "dayStart": "10:05",
-      "dayEnd": "10:18",
+      "dayEnd": "18:13",
       "events": [
         {
           "start": "10:05",
-          "end": "10:08",
+          "end": "10:13",
           "cat": "research",
-          "src": "chrome",
+          "src": "macos",
           "title": "How a PhD Can Survive? | Ada's Notes",
           "note": "adaren100.github.io"
         },
         {
-          "start": "10:08",
-          "end": "10:12",
-          "cat": "writing",
-          "src": "local",
-          "title": "2026-09-24-advancing-private-ai-compute-with-secure-server-s",
-          "note": "12 hits"
+          "start": "10:13",
+          "end": "10:16",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
         },
         {
-          "start": "10:13",
-          "end": "10:18",
+          "start": "10:16",
+          "end": "10:22",
+          "cat": "research",
+          "src": "macos",
+          "title": "How a PhD Can Survive? | Ada's Notes",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "10:22",
+          "end": "10:24",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "10:25",
+          "end": "10:33",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "10:33",
+          "end": "10:38",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "10:38",
+          "end": "11:08",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "11:08",
+          "end": "11:09",
           "cat": "coding",
-          "src": "local",
-          "title": "experiment-settings.toml",
-          "note": "1 hit"
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "11:09",
+          "end": "11:44",
+          "cat": "research",
+          "src": "macos",
+          "title": "WorkspaceBench: Evaluating Interpretability Methods for the ",
+          "note": "lesswrong.com"
+        },
+        {
+          "start": "11:44",
+          "end": "11:48",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "11:48",
+          "end": "12:02",
+          "cat": "research",
+          "src": "macos",
+          "title": "WorkspaceBench: Evaluating Interpretability Methods for the ",
+          "note": "lesswrong.com"
+        },
+        {
+          "start": "12:02",
+          "end": "12:03",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "12:03",
+          "end": "12:06",
+          "cat": "research",
+          "src": "macos",
+          "title": "WorkspaceBench: Evaluating Interpretability Methods for the ",
+          "note": "lesswrong.com"
+        },
+        {
+          "start": "12:06",
+          "end": "12:08",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "12:08",
+          "end": "12:12",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "12:51",
+          "end": "13:02",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "13:02",
+          "end": "13:03",
+          "cat": "personal",
+          "src": "macos",
+          "title": "x.com/home",
+          "note": "x.com"
+        },
+        {
+          "start": "13:05",
+          "end": "13:07",
+          "cat": "research",
+          "src": "macos",
+          "title": "Comparison of AI Models across Intelligence, Performance, an",
+          "note": "artificialanalysis.ai"
+        },
+        {
+          "start": "13:10",
+          "end": "13:11",
+          "cat": "research",
+          "src": "macos",
+          "title": "How a PhD Can Survive? | Ada's Notes",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "13:11",
+          "end": "13:14",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "13:14",
+          "end": "13:23",
+          "cat": "research",
+          "src": "macos",
+          "title": "How a PhD Can Survive? | Ada's Notes",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "13:26",
+          "end": "13:28",
+          "cat": "research",
+          "src": "macos",
+          "title": "Paper draft",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "13:28",
+          "end": "13:30",
+          "cat": "research",
+          "src": "macos",
+          "title": "Teen safety, freedom, and privacy | OpenAI",
+          "note": "openai.com"
+        },
+        {
+          "start": "13:31",
+          "end": "13:34",
+          "cat": "research",
+          "src": "macos",
+          "title": "Introducing the Australian Youth Safety Blueprint | OpenAI",
+          "note": "openai.com"
+        },
+        {
+          "start": "13:34",
+          "end": "13:43",
+          "cat": "research",
+          "src": "macos",
+          "title": "2310.06770",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "13:45",
+          "end": "13:46",
+          "cat": "research",
+          "src": "macos",
+          "title": "education_llm.pdf",
+          "note": "hamsabastani.github.io"
+        },
+        {
+          "start": "13:46",
+          "end": "13:55",
+          "cat": "research",
+          "src": "macos",
+          "title": "Test-Enhanced Learning",
+          "note": "journals.sagepub.com"
+        },
+        {
+          "start": "13:55",
+          "end": "14:05",
+          "cat": "research",
+          "src": "macos",
+          "title": "LearnLM: Improving Gemini for Learning",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "14:07",
+          "end": "14:10",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "14:10",
+          "end": "14:16",
+          "cat": "research",
+          "src": "macos",
+          "title": "LearnLM: Improving Gemini for Learning",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "14:16",
+          "end": "14:20",
+          "cat": "research",
+          "src": "macos",
+          "title": "arxiv.org/pdf/2402.15809",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "14:26",
+          "end": "14:31",
+          "cat": "research",
+          "src": "macos",
+          "title": "arxiv.org/pdf/2402.15809",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "14:31",
+          "end": "14:53",
+          "cat": "research",
+          "src": "macos",
+          "title": "Introducing ChatGPT for Teens: Built for learning, backed by",
+          "note": "openai.com"
+        },
+        {
+          "start": "14:53",
+          "end": "15:44",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "15:44",
+          "end": "15:48",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "15:48",
+          "end": "15:52",
+          "cat": "research",
+          "src": "macos",
+          "title": "EduBench: A Comprehensive Benchmarking Dataset for Evaluatin",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "15:52",
+          "end": "15:55",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "15:55",
+          "end": "16:09",
+          "cat": "research",
+          "src": "macos",
+          "title": "EduBench: A Comprehensive Benchmarking Dataset for Evaluatin",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "16:09",
+          "end": "16:11",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "16:11",
+          "end": "16:20",
+          "cat": "research",
+          "src": "macos",
+          "title": "EduBench: A Comprehensive Benchmarking Dataset for Evaluatin",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "16:20",
+          "end": "16:21",
+          "cat": "research",
+          "src": "macos",
+          "title": "2506.13510",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "16:21",
+          "end": "16:30",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "16:30",
+          "end": "16:45",
+          "cat": "research",
+          "src": "macos",
+          "title": "2506.13510",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "16:45",
+          "end": "17:14",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Mathematics Mock Quiz",
+          "note": "iridescent-smakager-d5ee12.netlify.app"
+        },
+        {
+          "start": "17:14",
+          "end": "17:37",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · bench",
+          "note": "149 hits"
+        },
+        {
+          "start": "17:37",
+          "end": "17:54",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · bench",
+          "note": "85 hits"
+        },
+        {
+          "start": "17:54",
+          "end": "18:08",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · bench",
+          "note": "58 hits"
+        },
+        {
+          "start": "18:08",
+          "end": "18:13",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · bench",
+          "note": "20 hits"
         }
       ],
-      "logged": 12,
-      "real": 12,
-      "deep": 12,
-      "ratio": 1.0,
+      "logged": 423,
+      "real": 393,
+      "deep": 393,
+      "ratio": 0.9294383470999649,
       "stats": {
-        "contextSwitches": 2,
-        "tabsOpened": 3,
-        "longestFocus": "12m",
-        "justOneMoreThing": 0
+        "contextSwitches": 26,
+        "tabsOpened": 0,
+        "longestFocus": "2h 1m",
+        "justOneMoreThing": 5
       }
     },
     {
