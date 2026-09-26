@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-09-25T10:22:34+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-09-26T10:55:19+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -85701,410 +85701,410 @@
         "weekend": false
       },
       {
-        "key": "2026-9-24",
-        "dayNum": 24,
-        "dow": 4,
-        "weekend": false,
-        "dateShort": "Thu, Sep 24",
         "dateLong": "Thursday, September 24",
-        "dayStart": "10:05",
+        "dateShort": "Thu, Sep 24",
         "dayEnd": "18:13",
+        "dayNum": 24,
+        "dayStart": "10:05",
+        "deep": 393,
+        "dow": 4,
         "events": [
           {
-            "start": "10:05",
+            "cat": "research",
             "end": "10:13",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "macos",
-            "title": "How a PhD Can Survive? | Ada's Notes",
-            "note": "adaren100.github.io"
+            "start": "10:05",
+            "title": "How a PhD Can Survive? | Ada's Notes"
           },
           {
-            "start": "10:13",
+            "cat": "coding",
             "end": "10:16",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "10:13",
+            "title": "VSCode"
           },
           {
-            "start": "10:16",
+            "cat": "research",
             "end": "10:22",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "macos",
-            "title": "How a PhD Can Survive? | Ada's Notes",
-            "note": "adaren100.github.io"
+            "start": "10:16",
+            "title": "How a PhD Can Survive? | Ada's Notes"
           },
           {
-            "start": "10:22",
+            "cat": "research",
             "end": "10:24",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "10:22",
+            "title": "zotero"
           },
           {
-            "start": "10:25",
+            "cat": "research",
             "end": "10:33",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "10:25",
+            "title": "zotero"
           },
           {
-            "start": "10:33",
+            "cat": "admin",
             "end": "10:38",
-            "cat": "admin",
+            "note": "com.tinyspeck.slackmacgap",
             "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "start": "10:33",
+            "title": "slackmacgap"
           },
           {
-            "start": "10:38",
+            "cat": "research",
             "end": "11:08",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "10:38",
+            "title": "zotero"
           },
           {
-            "start": "11:08",
+            "cat": "coding",
             "end": "11:09",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "11:08",
+            "title": "codex"
           },
           {
-            "start": "11:09",
+            "cat": "research",
             "end": "11:44",
-            "cat": "research",
+            "note": "lesswrong.com",
             "src": "macos",
-            "title": "WorkspaceBench: Evaluating Interpretability Methods for the ",
-            "note": "lesswrong.com"
+            "start": "11:09",
+            "title": "WorkspaceBench: Evaluating Interpretability Methods for the "
           },
           {
-            "start": "11:44",
+            "cat": "admin",
             "end": "11:48",
-            "cat": "admin",
+            "note": "com.tinyspeck.slackmacgap",
             "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "start": "11:44",
+            "title": "slackmacgap"
           },
           {
-            "start": "11:48",
+            "cat": "research",
             "end": "12:02",
-            "cat": "research",
+            "note": "lesswrong.com",
             "src": "macos",
-            "title": "WorkspaceBench: Evaluating Interpretability Methods for the ",
-            "note": "lesswrong.com"
+            "start": "11:48",
+            "title": "WorkspaceBench: Evaluating Interpretability Methods for the "
           },
           {
-            "start": "12:02",
+            "cat": "admin",
             "end": "12:03",
-            "cat": "admin",
+            "note": "com.tinyspeck.slackmacgap",
             "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "start": "12:02",
+            "title": "slackmacgap"
           },
           {
-            "start": "12:03",
+            "cat": "research",
             "end": "12:06",
-            "cat": "research",
+            "note": "lesswrong.com",
             "src": "macos",
-            "title": "WorkspaceBench: Evaluating Interpretability Methods for the ",
-            "note": "lesswrong.com"
+            "start": "12:03",
+            "title": "WorkspaceBench: Evaluating Interpretability Methods for the "
           },
           {
-            "start": "12:06",
+            "cat": "research",
             "end": "12:08",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "12:06",
+            "title": "zotero"
           },
           {
-            "start": "12:08",
+            "cat": "admin",
             "end": "12:12",
-            "cat": "admin",
+            "note": "com.tinyspeck.slackmacgap",
             "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "start": "12:08",
+            "title": "slackmacgap"
           },
           {
-            "start": "12:51",
+            "cat": "admin",
             "end": "13:02",
-            "cat": "admin",
+            "note": "com.tinyspeck.slackmacgap",
             "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "start": "12:51",
+            "title": "slackmacgap"
           },
           {
-            "start": "13:02",
-            "end": "13:03",
             "cat": "personal",
+            "end": "13:03",
+            "note": "x.com",
             "src": "macos",
-            "title": "x.com/home",
-            "note": "x.com"
+            "start": "13:02",
+            "title": "x.com/home"
           },
           {
-            "start": "13:05",
+            "cat": "research",
             "end": "13:07",
-            "cat": "research",
+            "note": "artificialanalysis.ai",
             "src": "macos",
-            "title": "Comparison of AI Models across Intelligence, Performance, an",
-            "note": "artificialanalysis.ai"
+            "start": "13:05",
+            "title": "Comparison of AI Models across Intelligence, Performance, an"
           },
           {
-            "start": "13:10",
+            "cat": "research",
             "end": "13:11",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "macos",
-            "title": "How a PhD Can Survive? | Ada's Notes",
-            "note": "adaren100.github.io"
+            "start": "13:10",
+            "title": "How a PhD Can Survive? | Ada's Notes"
           },
           {
-            "start": "13:11",
+            "cat": "coding",
             "end": "13:14",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "13:11",
+            "title": "codex"
           },
           {
-            "start": "13:14",
+            "cat": "research",
             "end": "13:23",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "macos",
-            "title": "How a PhD Can Survive? | Ada's Notes",
-            "note": "adaren100.github.io"
+            "start": "13:14",
+            "title": "How a PhD Can Survive? | Ada's Notes"
           },
           {
-            "start": "13:26",
+            "cat": "research",
             "end": "13:28",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "Paper draft",
-            "note": "arxiv.org"
+            "start": "13:26",
+            "title": "Paper draft"
           },
           {
-            "start": "13:28",
+            "cat": "research",
             "end": "13:30",
-            "cat": "research",
+            "note": "openai.com",
             "src": "macos",
-            "title": "Teen safety, freedom, and privacy | OpenAI",
-            "note": "openai.com"
+            "start": "13:28",
+            "title": "Teen safety, freedom, and privacy | OpenAI"
           },
           {
-            "start": "13:31",
+            "cat": "research",
             "end": "13:34",
-            "cat": "research",
+            "note": "openai.com",
             "src": "macos",
-            "title": "Introducing the Australian Youth Safety Blueprint | OpenAI",
-            "note": "openai.com"
+            "start": "13:31",
+            "title": "Introducing the Australian Youth Safety Blueprint | OpenAI"
           },
           {
-            "start": "13:34",
+            "cat": "research",
             "end": "13:43",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "2310.06770",
-            "note": "arxiv.org"
+            "start": "13:34",
+            "title": "2310.06770"
           },
           {
-            "start": "13:45",
+            "cat": "research",
             "end": "13:46",
-            "cat": "research",
+            "note": "hamsabastani.github.io",
             "src": "macos",
-            "title": "education_llm.pdf",
-            "note": "hamsabastani.github.io"
+            "start": "13:45",
+            "title": "education_llm.pdf"
           },
           {
-            "start": "13:46",
+            "cat": "research",
             "end": "13:55",
-            "cat": "research",
+            "note": "journals.sagepub.com",
             "src": "macos",
-            "title": "Test-Enhanced Learning",
-            "note": "journals.sagepub.com"
+            "start": "13:46",
+            "title": "Test-Enhanced Learning"
           },
           {
-            "start": "13:55",
+            "cat": "research",
             "end": "14:05",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "LearnLM: Improving Gemini for Learning",
-            "note": "arxiv.org"
+            "start": "13:55",
+            "title": "LearnLM: Improving Gemini for Learning"
           },
           {
-            "start": "14:07",
+            "cat": "admin",
             "end": "14:10",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "14:07",
+            "title": "Outlook"
           },
           {
-            "start": "14:10",
+            "cat": "research",
             "end": "14:16",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "LearnLM: Improving Gemini for Learning",
-            "note": "arxiv.org"
+            "start": "14:10",
+            "title": "LearnLM: Improving Gemini for Learning"
           },
           {
-            "start": "14:16",
+            "cat": "research",
             "end": "14:20",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "arxiv.org/pdf/2402.15809",
-            "note": "arxiv.org"
+            "start": "14:16",
+            "title": "arxiv.org/pdf/2402.15809"
           },
           {
-            "start": "14:26",
+            "cat": "research",
             "end": "14:31",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "arxiv.org/pdf/2402.15809",
-            "note": "arxiv.org"
+            "start": "14:26",
+            "title": "arxiv.org/pdf/2402.15809"
           },
           {
-            "start": "14:31",
+            "cat": "research",
             "end": "14:53",
-            "cat": "research",
+            "note": "openai.com",
             "src": "macos",
-            "title": "Introducing ChatGPT for Teens: Built for learning, backed by",
-            "note": "openai.com"
+            "start": "14:31",
+            "title": "Introducing ChatGPT for Teens: Built for learning, backed by"
           },
           {
-            "start": "14:53",
+            "cat": "research",
             "end": "15:44",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "14:53",
+            "title": "zotero"
           },
           {
-            "start": "15:44",
+            "cat": "coding",
             "end": "15:48",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "15:44",
+            "title": "codex"
           },
           {
-            "start": "15:48",
+            "cat": "research",
             "end": "15:52",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "EduBench: A Comprehensive Benchmarking Dataset for Evaluatin",
-            "note": "arxiv.org"
+            "start": "15:48",
+            "title": "EduBench: A Comprehensive Benchmarking Dataset for Evaluatin"
           },
           {
-            "start": "15:52",
+            "cat": "coding",
             "end": "15:55",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "15:52",
+            "title": "codex"
           },
           {
-            "start": "15:55",
+            "cat": "research",
             "end": "16:09",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "EduBench: A Comprehensive Benchmarking Dataset for Evaluatin",
-            "note": "arxiv.org"
+            "start": "15:55",
+            "title": "EduBench: A Comprehensive Benchmarking Dataset for Evaluatin"
           },
           {
-            "start": "16:09",
-            "end": "16:11",
             "cat": "admin",
+            "end": "16:11",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "16:09",
+            "title": "Outlook"
           },
           {
-            "start": "16:11",
+            "cat": "research",
             "end": "16:20",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "EduBench: A Comprehensive Benchmarking Dataset for Evaluatin",
-            "note": "arxiv.org"
+            "start": "16:11",
+            "title": "EduBench: A Comprehensive Benchmarking Dataset for Evaluatin"
           },
           {
-            "start": "16:20",
+            "cat": "research",
             "end": "16:21",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "2506.13510",
-            "note": "arxiv.org"
+            "start": "16:20",
+            "title": "2506.13510"
           },
           {
-            "start": "16:21",
+            "cat": "coding",
             "end": "16:30",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "16:21",
+            "title": "codex"
           },
           {
-            "start": "16:30",
-            "end": "16:45",
             "cat": "research",
+            "end": "16:45",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "2506.13510",
-            "note": "arxiv.org"
+            "start": "16:30",
+            "title": "2506.13510"
           },
           {
-            "start": "16:45",
+            "cat": "coding",
             "end": "17:14",
-            "cat": "coding",
+            "note": "iridescent-smakager-d5ee12.netlify.app",
             "src": "macos",
-            "title": "Mathematics Mock Quiz",
-            "note": "iridescent-smakager-d5ee12.netlify.app"
+            "start": "16:45",
+            "title": "Mathematics Mock Quiz"
           },
           {
-            "start": "17:14",
+            "cat": "coding",
             "end": "17:37",
-            "cat": "coding",
+            "note": "149 hits",
             "src": "claude",
-            "title": "Claude session · bench",
-            "note": "149 hits"
+            "start": "17:14",
+            "title": "Claude session · bench"
           },
           {
-            "start": "17:37",
+            "cat": "coding",
             "end": "17:54",
-            "cat": "coding",
+            "note": "85 hits",
             "src": "claude",
-            "title": "Claude session · bench",
-            "note": "85 hits"
+            "start": "17:37",
+            "title": "Claude session · bench"
           },
           {
-            "start": "17:54",
+            "cat": "coding",
             "end": "18:08",
-            "cat": "coding",
+            "note": "58 hits",
             "src": "claude",
-            "title": "Claude session · bench",
-            "note": "58 hits"
+            "start": "17:54",
+            "title": "Claude session · bench"
           },
           {
-            "start": "18:08",
-            "end": "18:13",
             "cat": "coding",
+            "end": "18:13",
+            "note": "20 hits",
             "src": "claude",
-            "title": "Claude session · bench",
-            "note": "20 hits"
+            "start": "18:08",
+            "title": "Claude session · bench"
           }
         ],
+        "key": "2026-9-24",
         "logged": 423,
-        "real": 393,
-        "deep": 393,
         "ratio": 0.9294383470999649,
+        "real": 393,
         "stats": {
           "contextSwitches": 26,
-          "tabsOpened": 0,
+          "justOneMoreThing": 5,
           "longestFocus": "2h 1m",
-          "justOneMoreThing": 5
-        }
+          "tabsOpened": 0
+        },
+        "weekend": false
       },
       {
         "key": "2026-9-25",
@@ -86113,18 +86113,179 @@
         "weekend": false,
         "dateShort": "Fri, Sep 25",
         "dateLong": "Friday, September 25",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "10:31",
+        "dayEnd": "21:05",
+        "events": [
+          {
+            "start": "10:31",
+            "end": "10:43",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Mathematics Mock Quiz",
+            "note": "iridescent-smakager-d5ee12.netlify.app"
+          },
+          {
+            "start": "10:43",
+            "end": "10:44",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Claude for Chrome",
+            "note": "chrome-extension://fcoeoabgfenejglbffodg"
+          },
+          {
+            "start": "10:44",
+            "end": "10:46",
+            "cat": "research",
+            "src": "macos",
+            "title": "Muse: Meta's personal AI agent, features & capabilities",
+            "note": "ai.meta.com"
+          },
+          {
+            "start": "10:47",
+            "end": "10:48",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Why Meta asks for your date of birth for Meta Accounts | Que",
+            "note": "meta.com"
+          },
+          {
+            "start": "10:48",
+            "end": "11:04",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Inbox (3,095) - ada.ren.cn@gmail.com - Gmail",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "11:04",
+            "end": "11:06",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:06",
+            "end": "11:09",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Inbox (3,095) - ada.ren.cn@gmail.com - Gmail",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "11:09",
+            "end": "11:35",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:38",
+            "end": "12:11",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "13:05",
+            "end": "14:41",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "14:41",
+            "end": "14:47",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Inbox (3,095) - ada.ren.cn@gmail.com - Gmail",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "14:47",
+            "end": "15:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "137 hits"
+          },
+          {
+            "start": "15:03",
+            "end": "15:08",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Inbox (3,095) - ada.ren.cn@gmail.com - Gmail",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "15:08",
+            "end": "15:18",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:18",
+            "end": "15:26",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Inbox (3,095) - ada.ren.cn@gmail.com - Gmail",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "15:26",
+            "end": "16:48",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:52",
+            "end": "16:58",
+            "cat": "research",
+            "src": "macos",
+            "title": "Better prompt caching for GPT-6 | OpenAI",
+            "note": "openai.com"
+          },
+          {
+            "start": "17:05",
+            "end": "17:09",
+            "cat": "research",
+            "src": "macos",
+            "title": "Better prompt caching for GPT-6 | OpenAI",
+            "note": "openai.com"
+          },
+          {
+            "start": "17:09",
+            "end": "18:45",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "18:46",
+            "end": "21:05",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          }
+        ],
+        "logged": 564,
+        "real": 525,
+        "deep": 525,
+        "ratio": 0.9296426100567907,
         "stats": {
-          "contextSwitches": 0,
+          "contextSwitches": 15,
           "tabsOpened": 0,
-          "longestFocus": "0m",
-          "justOneMoreThing": 0
+          "longestFocus": "5h 27m",
+          "justOneMoreThing": 5
         }
       },
       {
@@ -97412,410 +97573,410 @@
       "weekend": false
     },
     {
-      "key": "2026-9-24",
-      "dayNum": 24,
-      "dow": 4,
-      "weekend": false,
-      "dateShort": "Thu, Sep 24",
       "dateLong": "Thursday, September 24",
-      "dayStart": "10:05",
+      "dateShort": "Thu, Sep 24",
       "dayEnd": "18:13",
+      "dayNum": 24,
+      "dayStart": "10:05",
+      "deep": 393,
+      "dow": 4,
       "events": [
         {
-          "start": "10:05",
+          "cat": "research",
           "end": "10:13",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "macos",
-          "title": "How a PhD Can Survive? | Ada's Notes",
-          "note": "adaren100.github.io"
+          "start": "10:05",
+          "title": "How a PhD Can Survive? | Ada's Notes"
         },
         {
-          "start": "10:13",
+          "cat": "coding",
           "end": "10:16",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "10:13",
+          "title": "VSCode"
         },
         {
-          "start": "10:16",
+          "cat": "research",
           "end": "10:22",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "macos",
-          "title": "How a PhD Can Survive? | Ada's Notes",
-          "note": "adaren100.github.io"
+          "start": "10:16",
+          "title": "How a PhD Can Survive? | Ada's Notes"
         },
         {
-          "start": "10:22",
+          "cat": "research",
           "end": "10:24",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "10:22",
+          "title": "zotero"
         },
         {
-          "start": "10:25",
+          "cat": "research",
           "end": "10:33",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "10:25",
+          "title": "zotero"
         },
         {
-          "start": "10:33",
+          "cat": "admin",
           "end": "10:38",
-          "cat": "admin",
+          "note": "com.tinyspeck.slackmacgap",
           "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "start": "10:33",
+          "title": "slackmacgap"
         },
         {
-          "start": "10:38",
+          "cat": "research",
           "end": "11:08",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "10:38",
+          "title": "zotero"
         },
         {
-          "start": "11:08",
+          "cat": "coding",
           "end": "11:09",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "11:08",
+          "title": "codex"
         },
         {
-          "start": "11:09",
+          "cat": "research",
           "end": "11:44",
-          "cat": "research",
+          "note": "lesswrong.com",
           "src": "macos",
-          "title": "WorkspaceBench: Evaluating Interpretability Methods for the ",
-          "note": "lesswrong.com"
+          "start": "11:09",
+          "title": "WorkspaceBench: Evaluating Interpretability Methods for the "
         },
         {
-          "start": "11:44",
+          "cat": "admin",
           "end": "11:48",
-          "cat": "admin",
+          "note": "com.tinyspeck.slackmacgap",
           "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "start": "11:44",
+          "title": "slackmacgap"
         },
         {
-          "start": "11:48",
+          "cat": "research",
           "end": "12:02",
-          "cat": "research",
+          "note": "lesswrong.com",
           "src": "macos",
-          "title": "WorkspaceBench: Evaluating Interpretability Methods for the ",
-          "note": "lesswrong.com"
+          "start": "11:48",
+          "title": "WorkspaceBench: Evaluating Interpretability Methods for the "
         },
         {
-          "start": "12:02",
+          "cat": "admin",
           "end": "12:03",
-          "cat": "admin",
+          "note": "com.tinyspeck.slackmacgap",
           "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "start": "12:02",
+          "title": "slackmacgap"
         },
         {
-          "start": "12:03",
+          "cat": "research",
           "end": "12:06",
-          "cat": "research",
+          "note": "lesswrong.com",
           "src": "macos",
-          "title": "WorkspaceBench: Evaluating Interpretability Methods for the ",
-          "note": "lesswrong.com"
+          "start": "12:03",
+          "title": "WorkspaceBench: Evaluating Interpretability Methods for the "
         },
         {
-          "start": "12:06",
+          "cat": "research",
           "end": "12:08",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "12:06",
+          "title": "zotero"
         },
         {
-          "start": "12:08",
+          "cat": "admin",
           "end": "12:12",
-          "cat": "admin",
+          "note": "com.tinyspeck.slackmacgap",
           "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "start": "12:08",
+          "title": "slackmacgap"
         },
         {
-          "start": "12:51",
+          "cat": "admin",
           "end": "13:02",
-          "cat": "admin",
+          "note": "com.tinyspeck.slackmacgap",
           "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "start": "12:51",
+          "title": "slackmacgap"
         },
         {
-          "start": "13:02",
-          "end": "13:03",
           "cat": "personal",
+          "end": "13:03",
+          "note": "x.com",
           "src": "macos",
-          "title": "x.com/home",
-          "note": "x.com"
+          "start": "13:02",
+          "title": "x.com/home"
         },
         {
-          "start": "13:05",
+          "cat": "research",
           "end": "13:07",
-          "cat": "research",
+          "note": "artificialanalysis.ai",
           "src": "macos",
-          "title": "Comparison of AI Models across Intelligence, Performance, an",
-          "note": "artificialanalysis.ai"
+          "start": "13:05",
+          "title": "Comparison of AI Models across Intelligence, Performance, an"
         },
         {
-          "start": "13:10",
+          "cat": "research",
           "end": "13:11",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "macos",
-          "title": "How a PhD Can Survive? | Ada's Notes",
-          "note": "adaren100.github.io"
+          "start": "13:10",
+          "title": "How a PhD Can Survive? | Ada's Notes"
         },
         {
-          "start": "13:11",
+          "cat": "coding",
           "end": "13:14",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "13:11",
+          "title": "codex"
         },
         {
-          "start": "13:14",
+          "cat": "research",
           "end": "13:23",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "macos",
-          "title": "How a PhD Can Survive? | Ada's Notes",
-          "note": "adaren100.github.io"
+          "start": "13:14",
+          "title": "How a PhD Can Survive? | Ada's Notes"
         },
         {
-          "start": "13:26",
+          "cat": "research",
           "end": "13:28",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "Paper draft",
-          "note": "arxiv.org"
+          "start": "13:26",
+          "title": "Paper draft"
         },
         {
-          "start": "13:28",
+          "cat": "research",
           "end": "13:30",
-          "cat": "research",
+          "note": "openai.com",
           "src": "macos",
-          "title": "Teen safety, freedom, and privacy | OpenAI",
-          "note": "openai.com"
+          "start": "13:28",
+          "title": "Teen safety, freedom, and privacy | OpenAI"
         },
         {
-          "start": "13:31",
+          "cat": "research",
           "end": "13:34",
-          "cat": "research",
+          "note": "openai.com",
           "src": "macos",
-          "title": "Introducing the Australian Youth Safety Blueprint | OpenAI",
-          "note": "openai.com"
+          "start": "13:31",
+          "title": "Introducing the Australian Youth Safety Blueprint | OpenAI"
         },
         {
-          "start": "13:34",
+          "cat": "research",
           "end": "13:43",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "2310.06770",
-          "note": "arxiv.org"
+          "start": "13:34",
+          "title": "2310.06770"
         },
         {
-          "start": "13:45",
+          "cat": "research",
           "end": "13:46",
-          "cat": "research",
+          "note": "hamsabastani.github.io",
           "src": "macos",
-          "title": "education_llm.pdf",
-          "note": "hamsabastani.github.io"
+          "start": "13:45",
+          "title": "education_llm.pdf"
         },
         {
-          "start": "13:46",
+          "cat": "research",
           "end": "13:55",
-          "cat": "research",
+          "note": "journals.sagepub.com",
           "src": "macos",
-          "title": "Test-Enhanced Learning",
-          "note": "journals.sagepub.com"
+          "start": "13:46",
+          "title": "Test-Enhanced Learning"
         },
         {
-          "start": "13:55",
+          "cat": "research",
           "end": "14:05",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "LearnLM: Improving Gemini for Learning",
-          "note": "arxiv.org"
+          "start": "13:55",
+          "title": "LearnLM: Improving Gemini for Learning"
         },
         {
-          "start": "14:07",
+          "cat": "admin",
           "end": "14:10",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "14:07",
+          "title": "Outlook"
         },
         {
-          "start": "14:10",
+          "cat": "research",
           "end": "14:16",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "LearnLM: Improving Gemini for Learning",
-          "note": "arxiv.org"
+          "start": "14:10",
+          "title": "LearnLM: Improving Gemini for Learning"
         },
         {
-          "start": "14:16",
+          "cat": "research",
           "end": "14:20",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "arxiv.org/pdf/2402.15809",
-          "note": "arxiv.org"
+          "start": "14:16",
+          "title": "arxiv.org/pdf/2402.15809"
         },
         {
-          "start": "14:26",
+          "cat": "research",
           "end": "14:31",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "arxiv.org/pdf/2402.15809",
-          "note": "arxiv.org"
+          "start": "14:26",
+          "title": "arxiv.org/pdf/2402.15809"
         },
         {
-          "start": "14:31",
+          "cat": "research",
           "end": "14:53",
-          "cat": "research",
+          "note": "openai.com",
           "src": "macos",
-          "title": "Introducing ChatGPT for Teens: Built for learning, backed by",
-          "note": "openai.com"
+          "start": "14:31",
+          "title": "Introducing ChatGPT for Teens: Built for learning, backed by"
         },
         {
-          "start": "14:53",
+          "cat": "research",
           "end": "15:44",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "14:53",
+          "title": "zotero"
         },
         {
-          "start": "15:44",
+          "cat": "coding",
           "end": "15:48",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "15:44",
+          "title": "codex"
         },
         {
-          "start": "15:48",
+          "cat": "research",
           "end": "15:52",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "EduBench: A Comprehensive Benchmarking Dataset for Evaluatin",
-          "note": "arxiv.org"
+          "start": "15:48",
+          "title": "EduBench: A Comprehensive Benchmarking Dataset for Evaluatin"
         },
         {
-          "start": "15:52",
+          "cat": "coding",
           "end": "15:55",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "15:52",
+          "title": "codex"
         },
         {
-          "start": "15:55",
+          "cat": "research",
           "end": "16:09",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "EduBench: A Comprehensive Benchmarking Dataset for Evaluatin",
-          "note": "arxiv.org"
+          "start": "15:55",
+          "title": "EduBench: A Comprehensive Benchmarking Dataset for Evaluatin"
         },
         {
-          "start": "16:09",
-          "end": "16:11",
           "cat": "admin",
+          "end": "16:11",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "16:09",
+          "title": "Outlook"
         },
         {
-          "start": "16:11",
+          "cat": "research",
           "end": "16:20",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "EduBench: A Comprehensive Benchmarking Dataset for Evaluatin",
-          "note": "arxiv.org"
+          "start": "16:11",
+          "title": "EduBench: A Comprehensive Benchmarking Dataset for Evaluatin"
         },
         {
-          "start": "16:20",
+          "cat": "research",
           "end": "16:21",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "2506.13510",
-          "note": "arxiv.org"
+          "start": "16:20",
+          "title": "2506.13510"
         },
         {
-          "start": "16:21",
+          "cat": "coding",
           "end": "16:30",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "16:21",
+          "title": "codex"
         },
         {
-          "start": "16:30",
-          "end": "16:45",
           "cat": "research",
+          "end": "16:45",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "2506.13510",
-          "note": "arxiv.org"
+          "start": "16:30",
+          "title": "2506.13510"
         },
         {
-          "start": "16:45",
+          "cat": "coding",
           "end": "17:14",
-          "cat": "coding",
+          "note": "iridescent-smakager-d5ee12.netlify.app",
           "src": "macos",
-          "title": "Mathematics Mock Quiz",
-          "note": "iridescent-smakager-d5ee12.netlify.app"
+          "start": "16:45",
+          "title": "Mathematics Mock Quiz"
         },
         {
-          "start": "17:14",
+          "cat": "coding",
           "end": "17:37",
-          "cat": "coding",
+          "note": "149 hits",
           "src": "claude",
-          "title": "Claude session · bench",
-          "note": "149 hits"
+          "start": "17:14",
+          "title": "Claude session · bench"
         },
         {
-          "start": "17:37",
+          "cat": "coding",
           "end": "17:54",
-          "cat": "coding",
+          "note": "85 hits",
           "src": "claude",
-          "title": "Claude session · bench",
-          "note": "85 hits"
+          "start": "17:37",
+          "title": "Claude session · bench"
         },
         {
-          "start": "17:54",
+          "cat": "coding",
           "end": "18:08",
-          "cat": "coding",
+          "note": "58 hits",
           "src": "claude",
-          "title": "Claude session · bench",
-          "note": "58 hits"
+          "start": "17:54",
+          "title": "Claude session · bench"
         },
         {
-          "start": "18:08",
-          "end": "18:13",
           "cat": "coding",
+          "end": "18:13",
+          "note": "20 hits",
           "src": "claude",
-          "title": "Claude session · bench",
-          "note": "20 hits"
+          "start": "18:08",
+          "title": "Claude session · bench"
         }
       ],
+      "key": "2026-9-24",
       "logged": 423,
-      "real": 393,
-      "deep": 393,
       "ratio": 0.9294383470999649,
+      "real": 393,
       "stats": {
         "contextSwitches": 26,
-        "tabsOpened": 0,
+        "justOneMoreThing": 5,
         "longestFocus": "2h 1m",
-        "justOneMoreThing": 5
-      }
+        "tabsOpened": 0
+      },
+      "weekend": false
     },
     {
       "key": "2026-9-25",
@@ -97824,18 +97985,179 @@
       "weekend": false,
       "dateShort": "Fri, Sep 25",
       "dateLong": "Friday, September 25",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "10:31",
+      "dayEnd": "21:05",
+      "events": [
+        {
+          "start": "10:31",
+          "end": "10:43",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Mathematics Mock Quiz",
+          "note": "iridescent-smakager-d5ee12.netlify.app"
+        },
+        {
+          "start": "10:43",
+          "end": "10:44",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Claude for Chrome",
+          "note": "chrome-extension://fcoeoabgfenejglbffodg"
+        },
+        {
+          "start": "10:44",
+          "end": "10:46",
+          "cat": "research",
+          "src": "macos",
+          "title": "Muse: Meta's personal AI agent, features & capabilities",
+          "note": "ai.meta.com"
+        },
+        {
+          "start": "10:47",
+          "end": "10:48",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Why Meta asks for your date of birth for Meta Accounts | Que",
+          "note": "meta.com"
+        },
+        {
+          "start": "10:48",
+          "end": "11:04",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Inbox (3,095) - ada.ren.cn@gmail.com - Gmail",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "11:04",
+          "end": "11:06",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:06",
+          "end": "11:09",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Inbox (3,095) - ada.ren.cn@gmail.com - Gmail",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "11:09",
+          "end": "11:35",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:38",
+          "end": "12:11",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "13:05",
+          "end": "14:41",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "14:41",
+          "end": "14:47",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Inbox (3,095) - ada.ren.cn@gmail.com - Gmail",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "14:47",
+          "end": "15:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "137 hits"
+        },
+        {
+          "start": "15:03",
+          "end": "15:08",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Inbox (3,095) - ada.ren.cn@gmail.com - Gmail",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "15:08",
+          "end": "15:18",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:18",
+          "end": "15:26",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Inbox (3,095) - ada.ren.cn@gmail.com - Gmail",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "15:26",
+          "end": "16:48",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:52",
+          "end": "16:58",
+          "cat": "research",
+          "src": "macos",
+          "title": "Better prompt caching for GPT-6 | OpenAI",
+          "note": "openai.com"
+        },
+        {
+          "start": "17:05",
+          "end": "17:09",
+          "cat": "research",
+          "src": "macos",
+          "title": "Better prompt caching for GPT-6 | OpenAI",
+          "note": "openai.com"
+        },
+        {
+          "start": "17:09",
+          "end": "18:45",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "18:46",
+          "end": "21:05",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        }
+      ],
+      "logged": 564,
+      "real": 525,
+      "deep": 525,
+      "ratio": 0.9296426100567907,
       "stats": {
-        "contextSwitches": 0,
+        "contextSwitches": 15,
         "tabsOpened": 0,
-        "longestFocus": "0m",
-        "justOneMoreThing": 0
+        "longestFocus": "5h 27m",
+        "justOneMoreThing": 5
       }
     },
     {
