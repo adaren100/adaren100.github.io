@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-09-26T10:55:19+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-09-27T10:32:39+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -86295,17 +86295,26 @@
         "weekend": true,
         "dateShort": "Sat, Sep 26",
         "dateLong": "Saturday, September 26",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "10:55",
+        "dayEnd": "11:00",
+        "events": [
+          {
+            "start": "10:55",
+            "end": "11:00",
+            "cat": "coding",
+            "src": "local",
+            "title": "data.js",
+            "note": "2 hits"
+          }
+        ],
+        "logged": 5,
+        "real": 5,
+        "deep": 5,
+        "ratio": 1.0,
         "stats": {
           "contextSwitches": 0,
           "tabsOpened": 0,
-          "longestFocus": "0m",
+          "longestFocus": "5m",
           "justOneMoreThing": 0
         }
       },
@@ -98167,17 +98176,26 @@
       "weekend": true,
       "dateShort": "Sat, Sep 26",
       "dateLong": "Saturday, September 26",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "10:55",
+      "dayEnd": "11:00",
+      "events": [
+        {
+          "start": "10:55",
+          "end": "11:00",
+          "cat": "coding",
+          "src": "local",
+          "title": "data.js",
+          "note": "2 hits"
+        }
+      ],
+      "logged": 5,
+      "real": 5,
+      "deep": 5,
+      "ratio": 1.0,
       "stats": {
         "contextSwitches": 0,
         "tabsOpened": 0,
-        "longestFocus": "0m",
+        "longestFocus": "5m",
         "justOneMoreThing": 0
       }
     },
