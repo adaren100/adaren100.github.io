@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-09-27T10:32:39+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-09-28T10:20:11+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -86107,216 +86107,216 @@
         "weekend": false
       },
       {
-        "key": "2026-9-25",
-        "dayNum": 25,
-        "dow": 5,
-        "weekend": false,
-        "dateShort": "Fri, Sep 25",
         "dateLong": "Friday, September 25",
-        "dayStart": "10:31",
+        "dateShort": "Fri, Sep 25",
         "dayEnd": "21:05",
+        "dayNum": 25,
+        "dayStart": "10:31",
+        "deep": 525,
+        "dow": 5,
         "events": [
           {
-            "start": "10:31",
+            "cat": "coding",
             "end": "10:43",
-            "cat": "coding",
+            "note": "iridescent-smakager-d5ee12.netlify.app",
             "src": "macos",
-            "title": "Mathematics Mock Quiz",
-            "note": "iridescent-smakager-d5ee12.netlify.app"
+            "start": "10:31",
+            "title": "Mathematics Mock Quiz"
           },
           {
-            "start": "10:43",
+            "cat": "personal",
             "end": "10:44",
-            "cat": "personal",
+            "note": "chrome-extension://fcoeoabgfenejglbffodg",
             "src": "macos",
-            "title": "Claude for Chrome",
-            "note": "chrome-extension://fcoeoabgfenejglbffodg"
+            "start": "10:43",
+            "title": "Claude for Chrome"
           },
           {
-            "start": "10:44",
+            "cat": "research",
             "end": "10:46",
-            "cat": "research",
+            "note": "ai.meta.com",
             "src": "macos",
-            "title": "Muse: Meta's personal AI agent, features & capabilities",
-            "note": "ai.meta.com"
+            "start": "10:44",
+            "title": "Muse: Meta's personal AI agent, features & capabilities"
           },
           {
-            "start": "10:47",
-            "end": "10:48",
             "cat": "personal",
+            "end": "10:48",
+            "note": "meta.com",
             "src": "macos",
-            "title": "Why Meta asks for your date of birth for Meta Accounts | Que",
-            "note": "meta.com"
+            "start": "10:47",
+            "title": "Why Meta asks for your date of birth for Meta Accounts | Que"
           },
           {
-            "start": "10:48",
+            "cat": "admin",
             "end": "11:04",
-            "cat": "admin",
+            "note": "mail.google.com",
             "src": "macos",
-            "title": "Inbox (3,095) - ada.ren.cn@gmail.com - Gmail",
-            "note": "mail.google.com"
+            "start": "10:48",
+            "title": "Inbox (3,095) - ada.ren.cn@gmail.com - Gmail"
           },
           {
-            "start": "11:04",
+            "cat": "coding",
             "end": "11:06",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "11:04",
+            "title": "VSCode"
           },
           {
-            "start": "11:06",
+            "cat": "admin",
             "end": "11:09",
-            "cat": "admin",
+            "note": "mail.google.com",
             "src": "macos",
-            "title": "Inbox (3,095) - ada.ren.cn@gmail.com - Gmail",
-            "note": "mail.google.com"
+            "start": "11:06",
+            "title": "Inbox (3,095) - ada.ren.cn@gmail.com - Gmail"
           },
           {
-            "start": "11:09",
+            "cat": "coding",
             "end": "11:35",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "11:09",
+            "title": "VSCode"
           },
           {
-            "start": "11:38",
+            "cat": "coding",
             "end": "12:11",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "11:38",
+            "title": "VSCode"
           },
           {
-            "start": "13:05",
+            "cat": "coding",
             "end": "14:41",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "13:05",
+            "title": "VSCode"
           },
           {
-            "start": "14:41",
+            "cat": "admin",
             "end": "14:47",
-            "cat": "admin",
+            "note": "mail.google.com",
             "src": "macos",
-            "title": "Inbox (3,095) - ada.ren.cn@gmail.com - Gmail",
-            "note": "mail.google.com"
+            "start": "14:41",
+            "title": "Inbox (3,095) - ada.ren.cn@gmail.com - Gmail"
           },
           {
-            "start": "14:47",
+            "cat": "coding",
             "end": "15:03",
-            "cat": "coding",
+            "note": "137 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "137 hits"
+            "start": "14:47",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "15:03",
+            "cat": "admin",
             "end": "15:08",
-            "cat": "admin",
+            "note": "mail.google.com",
             "src": "macos",
-            "title": "Inbox (3,095) - ada.ren.cn@gmail.com - Gmail",
-            "note": "mail.google.com"
+            "start": "15:03",
+            "title": "Inbox (3,095) - ada.ren.cn@gmail.com - Gmail"
           },
           {
-            "start": "15:08",
+            "cat": "coding",
             "end": "15:18",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "15:08",
+            "title": "VSCode"
           },
           {
-            "start": "15:18",
-            "end": "15:26",
             "cat": "admin",
+            "end": "15:26",
+            "note": "mail.google.com",
             "src": "macos",
-            "title": "Inbox (3,095) - ada.ren.cn@gmail.com - Gmail",
-            "note": "mail.google.com"
+            "start": "15:18",
+            "title": "Inbox (3,095) - ada.ren.cn@gmail.com - Gmail"
           },
           {
-            "start": "15:26",
+            "cat": "coding",
             "end": "16:48",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "15:26",
+            "title": "VSCode"
           },
           {
-            "start": "16:52",
+            "cat": "research",
             "end": "16:58",
-            "cat": "research",
+            "note": "openai.com",
             "src": "macos",
-            "title": "Better prompt caching for GPT-6 | OpenAI",
-            "note": "openai.com"
+            "start": "16:52",
+            "title": "Better prompt caching for GPT-6 | OpenAI"
           },
           {
-            "start": "17:05",
+            "cat": "research",
             "end": "17:09",
-            "cat": "research",
+            "note": "openai.com",
             "src": "macos",
-            "title": "Better prompt caching for GPT-6 | OpenAI",
-            "note": "openai.com"
+            "start": "17:05",
+            "title": "Better prompt caching for GPT-6 | OpenAI"
           },
           {
-            "start": "17:09",
+            "cat": "coding",
             "end": "18:45",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "17:09",
+            "title": "VSCode"
           },
           {
-            "start": "18:46",
-            "end": "21:05",
             "cat": "coding",
+            "end": "21:05",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "18:46",
+            "title": "VSCode"
           }
         ],
+        "key": "2026-9-25",
         "logged": 564,
-        "real": 525,
-        "deep": 525,
         "ratio": 0.9296426100567907,
+        "real": 525,
         "stats": {
           "contextSwitches": 15,
-          "tabsOpened": 0,
+          "justOneMoreThing": 5,
           "longestFocus": "5h 27m",
-          "justOneMoreThing": 5
-        }
+          "tabsOpened": 0
+        },
+        "weekend": false
       },
       {
-        "key": "2026-9-26",
-        "dayNum": 26,
-        "dow": 6,
-        "weekend": true,
-        "dateShort": "Sat, Sep 26",
         "dateLong": "Saturday, September 26",
-        "dayStart": "10:55",
+        "dateShort": "Sat, Sep 26",
         "dayEnd": "11:00",
+        "dayNum": 26,
+        "dayStart": "10:55",
+        "deep": 5,
+        "dow": 6,
         "events": [
           {
-            "start": "10:55",
-            "end": "11:00",
             "cat": "coding",
+            "end": "11:00",
+            "note": "2 hits",
             "src": "local",
-            "title": "data.js",
-            "note": "2 hits"
+            "start": "10:55",
+            "title": "data.js"
           }
         ],
+        "key": "2026-9-26",
         "logged": 5,
-        "real": 5,
-        "deep": 5,
         "ratio": 1.0,
+        "real": 5,
         "stats": {
           "contextSwitches": 0,
-          "tabsOpened": 0,
+          "justOneMoreThing": 0,
           "longestFocus": "5m",
-          "justOneMoreThing": 0
-        }
+          "tabsOpened": 0
+        },
+        "weekend": true
       },
       {
         "key": "2026-9-27",
@@ -86325,17 +86325,50 @@
         "weekend": true,
         "dateShort": "Sun, Sep 27",
         "dateLong": "Sunday, September 27",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "10:32",
+        "dayEnd": "17:49",
+        "events": [
+          {
+            "start": "10:32",
+            "end": "10:37",
+            "cat": "coding",
+            "src": "local",
+            "title": "domain_cats.json",
+            "note": "4 hits"
+          },
+          {
+            "start": "10:37",
+            "end": "10:51",
+            "cat": "writing",
+            "src": "local",
+            "title": "2026-09-26-proaction.md",
+            "note": "2 hits"
+          },
+          {
+            "start": "17:38",
+            "end": "17:43",
+            "cat": "coding",
+            "src": "vscode",
+            "title": "VS Code · settings.json",
+            "note": "1 hit"
+          },
+          {
+            "start": "17:44",
+            "end": "17:49",
+            "cat": "writing",
+            "src": "chrome",
+            "title": "Your projects - Overleaf, Online LaTeX Editor",
+            "note": "overleaf.com"
+          }
+        ],
+        "logged": 28,
+        "real": 28,
+        "deep": 28,
+        "ratio": 1.0,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "0m",
+          "contextSwitches": 3,
+          "tabsOpened": 3,
+          "longestFocus": "28m",
           "justOneMoreThing": 0
         }
       },
@@ -97988,216 +98021,216 @@
       "weekend": false
     },
     {
-      "key": "2026-9-25",
-      "dayNum": 25,
-      "dow": 5,
-      "weekend": false,
-      "dateShort": "Fri, Sep 25",
       "dateLong": "Friday, September 25",
-      "dayStart": "10:31",
+      "dateShort": "Fri, Sep 25",
       "dayEnd": "21:05",
+      "dayNum": 25,
+      "dayStart": "10:31",
+      "deep": 525,
+      "dow": 5,
       "events": [
         {
-          "start": "10:31",
+          "cat": "coding",
           "end": "10:43",
-          "cat": "coding",
+          "note": "iridescent-smakager-d5ee12.netlify.app",
           "src": "macos",
-          "title": "Mathematics Mock Quiz",
-          "note": "iridescent-smakager-d5ee12.netlify.app"
+          "start": "10:31",
+          "title": "Mathematics Mock Quiz"
         },
         {
-          "start": "10:43",
+          "cat": "personal",
           "end": "10:44",
-          "cat": "personal",
+          "note": "chrome-extension://fcoeoabgfenejglbffodg",
           "src": "macos",
-          "title": "Claude for Chrome",
-          "note": "chrome-extension://fcoeoabgfenejglbffodg"
+          "start": "10:43",
+          "title": "Claude for Chrome"
         },
         {
-          "start": "10:44",
+          "cat": "research",
           "end": "10:46",
-          "cat": "research",
+          "note": "ai.meta.com",
           "src": "macos",
-          "title": "Muse: Meta's personal AI agent, features & capabilities",
-          "note": "ai.meta.com"
+          "start": "10:44",
+          "title": "Muse: Meta's personal AI agent, features & capabilities"
         },
         {
-          "start": "10:47",
-          "end": "10:48",
           "cat": "personal",
+          "end": "10:48",
+          "note": "meta.com",
           "src": "macos",
-          "title": "Why Meta asks for your date of birth for Meta Accounts | Que",
-          "note": "meta.com"
+          "start": "10:47",
+          "title": "Why Meta asks for your date of birth for Meta Accounts | Que"
         },
         {
-          "start": "10:48",
+          "cat": "admin",
           "end": "11:04",
-          "cat": "admin",
+          "note": "mail.google.com",
           "src": "macos",
-          "title": "Inbox (3,095) - ada.ren.cn@gmail.com - Gmail",
-          "note": "mail.google.com"
+          "start": "10:48",
+          "title": "Inbox (3,095) - ada.ren.cn@gmail.com - Gmail"
         },
         {
-          "start": "11:04",
+          "cat": "coding",
           "end": "11:06",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "11:04",
+          "title": "VSCode"
         },
         {
-          "start": "11:06",
+          "cat": "admin",
           "end": "11:09",
-          "cat": "admin",
+          "note": "mail.google.com",
           "src": "macos",
-          "title": "Inbox (3,095) - ada.ren.cn@gmail.com - Gmail",
-          "note": "mail.google.com"
+          "start": "11:06",
+          "title": "Inbox (3,095) - ada.ren.cn@gmail.com - Gmail"
         },
         {
-          "start": "11:09",
+          "cat": "coding",
           "end": "11:35",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "11:09",
+          "title": "VSCode"
         },
         {
-          "start": "11:38",
+          "cat": "coding",
           "end": "12:11",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "11:38",
+          "title": "VSCode"
         },
         {
-          "start": "13:05",
+          "cat": "coding",
           "end": "14:41",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "13:05",
+          "title": "VSCode"
         },
         {
-          "start": "14:41",
+          "cat": "admin",
           "end": "14:47",
-          "cat": "admin",
+          "note": "mail.google.com",
           "src": "macos",
-          "title": "Inbox (3,095) - ada.ren.cn@gmail.com - Gmail",
-          "note": "mail.google.com"
+          "start": "14:41",
+          "title": "Inbox (3,095) - ada.ren.cn@gmail.com - Gmail"
         },
         {
-          "start": "14:47",
+          "cat": "coding",
           "end": "15:03",
-          "cat": "coding",
+          "note": "137 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "137 hits"
+          "start": "14:47",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "15:03",
+          "cat": "admin",
           "end": "15:08",
-          "cat": "admin",
+          "note": "mail.google.com",
           "src": "macos",
-          "title": "Inbox (3,095) - ada.ren.cn@gmail.com - Gmail",
-          "note": "mail.google.com"
+          "start": "15:03",
+          "title": "Inbox (3,095) - ada.ren.cn@gmail.com - Gmail"
         },
         {
-          "start": "15:08",
+          "cat": "coding",
           "end": "15:18",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "15:08",
+          "title": "VSCode"
         },
         {
-          "start": "15:18",
-          "end": "15:26",
           "cat": "admin",
+          "end": "15:26",
+          "note": "mail.google.com",
           "src": "macos",
-          "title": "Inbox (3,095) - ada.ren.cn@gmail.com - Gmail",
-          "note": "mail.google.com"
+          "start": "15:18",
+          "title": "Inbox (3,095) - ada.ren.cn@gmail.com - Gmail"
         },
         {
-          "start": "15:26",
+          "cat": "coding",
           "end": "16:48",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "15:26",
+          "title": "VSCode"
         },
         {
-          "start": "16:52",
+          "cat": "research",
           "end": "16:58",
-          "cat": "research",
+          "note": "openai.com",
           "src": "macos",
-          "title": "Better prompt caching for GPT-6 | OpenAI",
-          "note": "openai.com"
+          "start": "16:52",
+          "title": "Better prompt caching for GPT-6 | OpenAI"
         },
         {
-          "start": "17:05",
+          "cat": "research",
           "end": "17:09",
-          "cat": "research",
+          "note": "openai.com",
           "src": "macos",
-          "title": "Better prompt caching for GPT-6 | OpenAI",
-          "note": "openai.com"
+          "start": "17:05",
+          "title": "Better prompt caching for GPT-6 | OpenAI"
         },
         {
-          "start": "17:09",
+          "cat": "coding",
           "end": "18:45",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "17:09",
+          "title": "VSCode"
         },
         {
-          "start": "18:46",
-          "end": "21:05",
           "cat": "coding",
+          "end": "21:05",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "18:46",
+          "title": "VSCode"
         }
       ],
+      "key": "2026-9-25",
       "logged": 564,
-      "real": 525,
-      "deep": 525,
       "ratio": 0.9296426100567907,
+      "real": 525,
       "stats": {
         "contextSwitches": 15,
-        "tabsOpened": 0,
+        "justOneMoreThing": 5,
         "longestFocus": "5h 27m",
-        "justOneMoreThing": 5
-      }
+        "tabsOpened": 0
+      },
+      "weekend": false
     },
     {
-      "key": "2026-9-26",
-      "dayNum": 26,
-      "dow": 6,
-      "weekend": true,
-      "dateShort": "Sat, Sep 26",
       "dateLong": "Saturday, September 26",
-      "dayStart": "10:55",
+      "dateShort": "Sat, Sep 26",
       "dayEnd": "11:00",
+      "dayNum": 26,
+      "dayStart": "10:55",
+      "deep": 5,
+      "dow": 6,
       "events": [
         {
-          "start": "10:55",
-          "end": "11:00",
           "cat": "coding",
+          "end": "11:00",
+          "note": "2 hits",
           "src": "local",
-          "title": "data.js",
-          "note": "2 hits"
+          "start": "10:55",
+          "title": "data.js"
         }
       ],
+      "key": "2026-9-26",
       "logged": 5,
-      "real": 5,
-      "deep": 5,
       "ratio": 1.0,
+      "real": 5,
       "stats": {
         "contextSwitches": 0,
-        "tabsOpened": 0,
+        "justOneMoreThing": 0,
         "longestFocus": "5m",
-        "justOneMoreThing": 0
-      }
+        "tabsOpened": 0
+      },
+      "weekend": true
     },
     {
       "key": "2026-9-27",
@@ -98206,17 +98239,50 @@
       "weekend": true,
       "dateShort": "Sun, Sep 27",
       "dateLong": "Sunday, September 27",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "10:32",
+      "dayEnd": "17:49",
+      "events": [
+        {
+          "start": "10:32",
+          "end": "10:37",
+          "cat": "coding",
+          "src": "local",
+          "title": "domain_cats.json",
+          "note": "4 hits"
+        },
+        {
+          "start": "10:37",
+          "end": "10:51",
+          "cat": "writing",
+          "src": "local",
+          "title": "2026-09-26-proaction.md",
+          "note": "2 hits"
+        },
+        {
+          "start": "17:38",
+          "end": "17:43",
+          "cat": "coding",
+          "src": "vscode",
+          "title": "VS Code · settings.json",
+          "note": "1 hit"
+        },
+        {
+          "start": "17:44",
+          "end": "17:49",
+          "cat": "writing",
+          "src": "chrome",
+          "title": "Your projects - Overleaf, Online LaTeX Editor",
+          "note": "overleaf.com"
+        }
+      ],
+      "logged": 28,
+      "real": 28,
+      "deep": 28,
+      "ratio": 1.0,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "0m",
+        "contextSwitches": 3,
+        "tabsOpened": 3,
+        "longestFocus": "28m",
         "justOneMoreThing": 0
       }
     },
