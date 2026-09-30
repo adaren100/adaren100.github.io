@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-09-29T10:28:35+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-09-30T10:28:19+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -86373,290 +86373,290 @@
         "weekend": true
       },
       {
-        "key": "2026-9-28",
-        "dayNum": 28,
-        "dow": 1,
-        "weekend": false,
-        "dateShort": "Mon, Sep 28",
         "dateLong": "Monday, September 28",
-        "dayStart": "10:20",
+        "dateShort": "Mon, Sep 28",
         "dayEnd": "16:11",
+        "dayNum": 28,
+        "dayStart": "10:20",
+        "deep": 188,
+        "dow": 1,
         "events": [
           {
-            "start": "10:20",
+            "cat": "admin",
             "end": "10:22",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "10:20",
+            "title": "Outlook"
           },
           {
-            "start": "10:24",
+            "cat": "admin",
             "end": "10:25",
-            "cat": "admin",
+            "note": "mail.google.com",
             "src": "macos",
-            "title": "Inbox (3,114) - ada.ren.cn@gmail.com - Gmail",
-            "note": "mail.google.com"
+            "start": "10:24",
+            "title": "Inbox (3,114) - ada.ren.cn@gmail.com - Gmail"
           },
           {
-            "start": "10:26",
+            "cat": "research",
             "end": "10:27",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "macos",
-            "title": "Project Swap: What happens when agents trade for us? | Ada's",
-            "note": "adaren100.github.io"
+            "start": "10:26",
+            "title": "Project Swap: What happens when agents trade for us? | Ada's"
           },
           {
-            "start": "10:27",
+            "cat": "coding",
             "end": "10:32",
-            "cat": "coding",
+            "note": "anthropic.com",
             "src": "macos",
-            "title": "Project Swap: What happens when agents trade for us? \\ Anthr",
-            "note": "anthropic.com"
+            "start": "10:27",
+            "title": "Project Swap: What happens when agents trade for us? \\ Anthr"
           },
           {
-            "start": "10:37",
+            "cat": "coding",
             "end": "10:38",
-            "cat": "coding",
+            "note": "www-cdn.anthropic.com",
             "src": "macos",
-            "title": "Project Swap: What happens when agents trade for us?",
-            "note": "www-cdn.anthropic.com"
+            "start": "10:37",
+            "title": "Project Swap: What happens when agents trade for us?"
           },
           {
-            "start": "10:38",
+            "cat": "personal",
             "end": "10:39",
-            "cat": "personal",
+            "note": "x.com",
             "src": "macos",
-            "title": "主页 / X",
-            "note": "x.com"
+            "start": "10:38",
+            "title": "主页 / X"
           },
           {
-            "start": "10:40",
+            "cat": "research",
             "end": "10:51",
-            "cat": "research",
+            "note": "appeconomyinsights.com",
             "src": "macos",
-            "title": "How They Make Money | App Economy Insights | Substack",
-            "note": "appeconomyinsights.com"
+            "start": "10:40",
+            "title": "How They Make Money | App Economy Insights | Substack"
           },
           {
-            "start": "10:51",
+            "cat": "research",
             "end": "10:56",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "macos",
-            "title": "How a PhD Can Survive? | Ada's Notes",
-            "note": "adaren100.github.io"
+            "start": "10:51",
+            "title": "How a PhD Can Survive? | Ada's Notes"
           },
           {
-            "start": "10:56",
+            "cat": "meeting",
             "end": "11:02",
-            "cat": "meeting",
+            "note": "com.microsoft.teams2",
             "src": "macos",
-            "title": "teams2",
-            "note": "com.microsoft.teams2"
+            "start": "10:56",
+            "title": "teams2"
           },
           {
-            "start": "11:02",
+            "cat": "personal",
             "end": "11:03",
-            "cat": "personal",
+            "note": "x.com",
             "src": "macos",
-            "title": "主页 / X",
-            "note": "x.com"
+            "start": "11:02",
+            "title": "主页 / X"
           },
           {
-            "start": "11:03",
+            "cat": "admin",
             "end": "11:05",
-            "cat": "admin",
+            "note": "com.tinyspeck.slackmacgap",
             "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "start": "11:03",
+            "title": "slackmacgap"
           },
           {
-            "start": "11:05",
-            "end": "11:07",
             "cat": "personal",
+            "end": "11:07",
+            "note": "x.com",
             "src": "macos",
-            "title": "主页 / X",
-            "note": "x.com"
+            "start": "11:05",
+            "title": "主页 / X"
           },
           {
-            "start": "11:07",
+            "cat": "meeting",
             "end": "11:18",
-            "cat": "meeting",
+            "note": "com.microsoft.teams2",
             "src": "macos",
-            "title": "teams2",
-            "note": "com.microsoft.teams2"
+            "start": "11:07",
+            "title": "teams2"
           },
           {
-            "start": "11:26",
+            "cat": "meeting",
             "end": "11:34",
-            "cat": "meeting",
+            "note": "com.microsoft.teams2",
             "src": "macos",
-            "title": "teams2",
-            "note": "com.microsoft.teams2"
+            "start": "11:26",
+            "title": "teams2"
           },
           {
-            "start": "11:50",
+            "cat": "meeting",
             "end": "11:55",
-            "cat": "meeting",
+            "note": "com.microsoft.teams2",
             "src": "macos",
-            "title": "teams2",
-            "note": "com.microsoft.teams2"
+            "start": "11:50",
+            "title": "teams2"
           },
           {
-            "start": "12:00",
+            "cat": "meeting",
             "end": "12:16",
-            "cat": "meeting",
+            "note": "com.microsoft.teams2",
             "src": "macos",
-            "title": "teams2",
-            "note": "com.microsoft.teams2"
+            "start": "12:00",
+            "title": "teams2"
           },
           {
-            "start": "12:58",
+            "cat": "admin",
             "end": "13:00",
-            "cat": "admin",
+            "note": "com.tinyspeck.slackmacgap",
             "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "start": "12:58",
+            "title": "slackmacgap"
           },
           {
-            "start": "13:00",
+            "cat": "meeting",
             "end": "13:05",
-            "cat": "meeting",
+            "note": "us.zoom.xos",
             "src": "macos",
-            "title": "xos",
-            "note": "us.zoom.xos"
+            "start": "13:00",
+            "title": "xos"
           },
           {
-            "start": "13:08",
+            "cat": "meeting",
             "end": "13:31",
-            "cat": "meeting",
+            "note": "macquarie.zoom.us",
             "src": "macos",
-            "title": "Join from Zoom Workplace app - Zoom",
-            "note": "macquarie.zoom.us"
+            "start": "13:08",
+            "title": "Join from Zoom Workplace app - Zoom"
           },
           {
-            "start": "13:31",
+            "cat": "meeting",
             "end": "13:38",
-            "cat": "meeting",
+            "note": "macquarie.zoom.us",
             "src": "macos",
-            "title": "Join from Zoom Workplace app - Zoom",
-            "note": "macquarie.zoom.us"
+            "start": "13:31",
+            "title": "Join from Zoom Workplace app - Zoom"
           },
           {
-            "start": "13:38",
+            "cat": "meeting",
             "end": "13:53",
-            "cat": "meeting",
+            "note": "us.zoom.xos",
             "src": "macos",
-            "title": "xos",
-            "note": "us.zoom.xos"
+            "start": "13:38",
+            "title": "xos"
           },
           {
-            "start": "14:09",
+            "cat": "meeting",
             "end": "14:15",
-            "cat": "meeting",
+            "note": "us.zoom.xos",
             "src": "macos",
-            "title": "xos",
-            "note": "us.zoom.xos"
+            "start": "14:09",
+            "title": "xos"
           },
           {
-            "start": "14:19",
+            "cat": "meeting",
             "end": "14:33",
-            "cat": "meeting",
+            "note": "us.zoom.xos",
             "src": "macos",
-            "title": "xos",
-            "note": "us.zoom.xos"
+            "start": "14:19",
+            "title": "xos"
           },
           {
-            "start": "14:37",
+            "cat": "meeting",
             "end": "14:43",
-            "cat": "meeting",
+            "note": "us.zoom.xos",
             "src": "macos",
-            "title": "xos",
-            "note": "us.zoom.xos"
+            "start": "14:37",
+            "title": "xos"
           },
           {
-            "start": "14:48",
+            "cat": "admin",
             "end": "14:48",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "does LLMs output always with confidential? - Google Search",
-            "note": "google.com"
-          },
-          {
             "start": "14:48",
+            "title": "does LLMs output always with confidential? - Google Search"
+          },
+          {
+            "cat": "meeting",
             "end": "14:53",
-            "cat": "meeting",
+            "note": "us.zoom.xos",
             "src": "macos",
-            "title": "xos",
-            "note": "us.zoom.xos"
+            "start": "14:48",
+            "title": "xos"
           },
           {
-            "start": "14:53",
+            "cat": "meeting",
             "end": "14:58",
-            "cat": "meeting",
+            "note": "us.zoom.xos",
             "src": "macos",
-            "title": "xos",
-            "note": "us.zoom.xos"
+            "start": "14:53",
+            "title": "xos"
           },
           {
-            "start": "14:59",
+            "cat": "meeting",
             "end": "15:09",
-            "cat": "meeting",
+            "note": "us.zoom.xos",
             "src": "macos",
-            "title": "xos",
-            "note": "us.zoom.xos"
+            "start": "14:59",
+            "title": "xos"
           },
           {
-            "start": "15:09",
+            "cat": "admin",
             "end": "15:15",
-            "cat": "admin",
+            "note": "com.tinyspeck.slackmacgap",
             "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "start": "15:09",
+            "title": "slackmacgap"
           },
           {
-            "start": "15:15",
+            "cat": "admin",
             "end": "15:21",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "does LLMs output always with confidential? - Google Search",
-            "note": "google.com"
+            "start": "15:15",
+            "title": "does LLMs output always with confidential? - Google Search"
           },
           {
-            "start": "15:25",
+            "cat": "admin",
             "end": "15:48",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "does LLMs output always with confidential? - Google Search",
-            "note": "google.com"
+            "start": "15:25",
+            "title": "does LLMs output always with confidential? - Google Search"
           },
           {
-            "start": "15:48",
-            "end": "15:59",
             "cat": "research",
+            "end": "15:59",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "Visibility into AI Agents",
-            "note": "arxiv.org"
+            "start": "15:48",
+            "title": "Visibility into AI Agents"
           },
           {
-            "start": "15:59",
-            "end": "16:11",
             "cat": "coding",
+            "end": "16:11",
+            "note": "chat.deepseek.com",
             "src": "macos",
-            "title": "Grammar check - DeepSeek",
-            "note": "chat.deepseek.com"
+            "start": "15:59",
+            "title": "Grammar check - DeepSeek"
           }
         ],
+        "key": "2026-9-28",
         "logged": 233,
-        "real": 188,
-        "deep": 188,
         "ratio": 0.8072776403251068,
+        "real": 188,
         "stats": {
           "contextSwitches": 16,
-          "tabsOpened": 0,
+          "justOneMoreThing": 3,
           "longestFocus": "1h 16m",
-          "justOneMoreThing": 3
-        }
+          "tabsOpened": 0
+        },
+        "weekend": false
       },
       {
         "key": "2026-9-29",
@@ -86665,35 +86665,283 @@
         "weekend": false,
         "dateShort": "Tue, Sep 29",
         "dateLong": "Tuesday, September 29",
-        "dayStart": "07:22",
-        "dayEnd": "10:06",
+        "dayStart": "10:35",
+        "dayEnd": "20:38",
         "events": [
           {
-            "start": "07:22",
-            "end": "07:25",
+            "start": "10:35",
+            "end": "11:09",
             "cat": "coding",
-            "src": "chrome",
-            "title": "Grammar check - DeepSeek",
+            "src": "macos",
+            "title": "Remove AI slop - DeepSeek",
             "note": "chat.deepseek.com"
           },
           {
-            "start": "10:01",
-            "end": "10:06",
+            "start": "11:14",
+            "end": "11:19",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Remove AI slop - DeepSeek",
+            "note": "chat.deepseek.com"
+          },
+          {
+            "start": "11:19",
+            "end": "11:24",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(5) 主页 / X",
+            "note": "x.com"
+          },
+          {
+            "start": "11:25",
+            "end": "11:32",
+            "cat": "research",
+            "src": "macos",
+            "title": "Paper2Agent: Reimagining Research Papers As Interactive and ",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "11:33",
+            "end": "11:36",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(5) X 上的 Fei-Fei Li：“To Seek a Newer World” / X",
+            "note": "x.com"
+          },
+          {
+            "start": "11:36",
+            "end": "11:40",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Introducing System One Models & Jev - TypeSafe AI Blog",
+            "note": "typesafe.ai"
+          },
+          {
+            "start": "11:42",
+            "end": "11:45",
+            "cat": "research",
+            "src": "macos",
+            "title": "Principles of mixed-initiative user interfaces",
+            "note": "dl.acm.org"
+          },
+          {
+            "start": "11:45",
+            "end": "11:53",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(5) 主页 / X",
+            "note": "x.com"
+          },
+          {
+            "start": "11:54",
+            "end": "11:56",
+            "cat": "research",
+            "src": "macos",
+            "title": "DeepSeek | Into the Unknown",
+            "note": "deepseek.com"
+          },
+          {
+            "start": "11:57",
+            "end": "12:09",
             "cat": "writing",
-            "src": "local",
-            "title": "2026-09-28-lenfest-ai-collaborative-expansion.md",
-            "note": "3 hits"
+            "src": "macos",
+            "title": "49026100_Ada_CoC_Report - Online LaTeX Editor Overleaf",
+            "note": "overleaf.com"
+          },
+          {
+            "start": "12:09",
+            "end": "12:11",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Remove AI slop - DeepSeek",
+            "note": "chat.deepseek.com"
+          },
+          {
+            "start": "12:11",
+            "end": "12:12",
+            "cat": "research",
+            "src": "macos",
+            "title": "Kimi AI with K3 | Built for Agentic Coding & Knowledge Work",
+            "note": "kimi.ai"
+          },
+          {
+            "start": "12:12",
+            "end": "12:17",
+            "cat": "research",
+            "src": "macos",
+            "title": "Gap & Questions Paragraph - Kimi",
+            "note": "kimi.ai"
+          },
+          {
+            "start": "12:17",
+            "end": "12:22",
+            "cat": "writing",
+            "src": "macos",
+            "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea",
+            "note": "overleaf.com"
+          },
+          {
+            "start": "12:26",
+            "end": "12:46",
+            "cat": "writing",
+            "src": "macos",
+            "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea",
+            "note": "overleaf.com"
+          },
+          {
+            "start": "12:46",
+            "end": "12:51",
+            "cat": "writing",
+            "src": "macos",
+            "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf",
+            "note": "overleaf.com"
+          },
+          {
+            "start": "12:53",
+            "end": "13:32",
+            "cat": "writing",
+            "src": "macos",
+            "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf",
+            "note": "overleaf.com"
+          },
+          {
+            "start": "13:35",
+            "end": "14:04",
+            "cat": "writing",
+            "src": "macos",
+            "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf",
+            "note": "overleaf.com"
+          },
+          {
+            "start": "15:56",
+            "end": "15:58",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "15:58",
+            "end": "15:59",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "15:59",
+            "end": "16:01",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "16:01",
+            "end": "16:03",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "16:03",
+            "end": "16:09",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "16:10",
+            "end": "16:15",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Annual Progress Report - Annual Progress Report",
+            "note": "mq.service-now.com"
+          },
+          {
+            "start": "16:15",
+            "end": "16:24",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Project Title Here",
+            "note": "file:///Users/ada/Documents/MQ/Phd/progr"
+          },
+          {
+            "start": "16:27",
+            "end": "16:32",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Efficiency and Auditability in Long-Running LLM Agents",
+            "note": "file:///Users/ada/Documents/MQ/Phd/progr"
+          },
+          {
+            "start": "16:37",
+            "end": "16:38",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "16:38",
+            "end": "16:44",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Efficiency and Auditability in Long-Running LLM Agents",
+            "note": "file:///Users/ada/Documents/MQ/Phd/progr"
+          },
+          {
+            "start": "16:50",
+            "end": "17:24",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Efficiency and Auditability in Long-Running LLM Agents",
+            "note": "file:///Users/ada/Documents/MQ/Phd/progr"
+          },
+          {
+            "start": "17:28",
+            "end": "17:34",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "43 hits"
+          },
+          {
+            "start": "19:39",
+            "end": "19:42",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "27 hits"
+          },
+          {
+            "start": "19:46",
+            "end": "20:11",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "240 hits"
+          },
+          {
+            "start": "20:14",
+            "end": "20:38",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "255 hits"
           }
         ],
-        "logged": 8,
-        "real": 8,
-        "deep": 8,
-        "ratio": 1.0,
+        "logged": 320,
+        "real": 285,
+        "deep": 285,
+        "ratio": 0.8902087840896437,
         "stats": {
-          "contextSwitches": 1,
-          "tabsOpened": 3,
-          "longestFocus": "8m",
-          "justOneMoreThing": 0
+          "contextSwitches": 15,
+          "tabsOpened": 0,
+          "longestFocus": "2h",
+          "justOneMoreThing": 4
         }
       },
       {
@@ -98569,290 +98817,290 @@
       "weekend": true
     },
     {
-      "key": "2026-9-28",
-      "dayNum": 28,
-      "dow": 1,
-      "weekend": false,
-      "dateShort": "Mon, Sep 28",
       "dateLong": "Monday, September 28",
-      "dayStart": "10:20",
+      "dateShort": "Mon, Sep 28",
       "dayEnd": "16:11",
+      "dayNum": 28,
+      "dayStart": "10:20",
+      "deep": 188,
+      "dow": 1,
       "events": [
         {
-          "start": "10:20",
+          "cat": "admin",
           "end": "10:22",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "10:20",
+          "title": "Outlook"
         },
         {
-          "start": "10:24",
+          "cat": "admin",
           "end": "10:25",
-          "cat": "admin",
+          "note": "mail.google.com",
           "src": "macos",
-          "title": "Inbox (3,114) - ada.ren.cn@gmail.com - Gmail",
-          "note": "mail.google.com"
+          "start": "10:24",
+          "title": "Inbox (3,114) - ada.ren.cn@gmail.com - Gmail"
         },
         {
-          "start": "10:26",
+          "cat": "research",
           "end": "10:27",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "macos",
-          "title": "Project Swap: What happens when agents trade for us? | Ada's",
-          "note": "adaren100.github.io"
+          "start": "10:26",
+          "title": "Project Swap: What happens when agents trade for us? | Ada's"
         },
         {
-          "start": "10:27",
+          "cat": "coding",
           "end": "10:32",
-          "cat": "coding",
+          "note": "anthropic.com",
           "src": "macos",
-          "title": "Project Swap: What happens when agents trade for us? \\ Anthr",
-          "note": "anthropic.com"
+          "start": "10:27",
+          "title": "Project Swap: What happens when agents trade for us? \\ Anthr"
         },
         {
-          "start": "10:37",
+          "cat": "coding",
           "end": "10:38",
-          "cat": "coding",
+          "note": "www-cdn.anthropic.com",
           "src": "macos",
-          "title": "Project Swap: What happens when agents trade for us?",
-          "note": "www-cdn.anthropic.com"
+          "start": "10:37",
+          "title": "Project Swap: What happens when agents trade for us?"
         },
         {
-          "start": "10:38",
+          "cat": "personal",
           "end": "10:39",
-          "cat": "personal",
+          "note": "x.com",
           "src": "macos",
-          "title": "主页 / X",
-          "note": "x.com"
+          "start": "10:38",
+          "title": "主页 / X"
         },
         {
-          "start": "10:40",
+          "cat": "research",
           "end": "10:51",
-          "cat": "research",
+          "note": "appeconomyinsights.com",
           "src": "macos",
-          "title": "How They Make Money | App Economy Insights | Substack",
-          "note": "appeconomyinsights.com"
+          "start": "10:40",
+          "title": "How They Make Money | App Economy Insights | Substack"
         },
         {
-          "start": "10:51",
+          "cat": "research",
           "end": "10:56",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "macos",
-          "title": "How a PhD Can Survive? | Ada's Notes",
-          "note": "adaren100.github.io"
+          "start": "10:51",
+          "title": "How a PhD Can Survive? | Ada's Notes"
         },
         {
-          "start": "10:56",
+          "cat": "meeting",
           "end": "11:02",
-          "cat": "meeting",
+          "note": "com.microsoft.teams2",
           "src": "macos",
-          "title": "teams2",
-          "note": "com.microsoft.teams2"
+          "start": "10:56",
+          "title": "teams2"
         },
         {
-          "start": "11:02",
+          "cat": "personal",
           "end": "11:03",
-          "cat": "personal",
+          "note": "x.com",
           "src": "macos",
-          "title": "主页 / X",
-          "note": "x.com"
+          "start": "11:02",
+          "title": "主页 / X"
         },
         {
-          "start": "11:03",
+          "cat": "admin",
           "end": "11:05",
-          "cat": "admin",
+          "note": "com.tinyspeck.slackmacgap",
           "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "start": "11:03",
+          "title": "slackmacgap"
         },
         {
-          "start": "11:05",
-          "end": "11:07",
           "cat": "personal",
+          "end": "11:07",
+          "note": "x.com",
           "src": "macos",
-          "title": "主页 / X",
-          "note": "x.com"
+          "start": "11:05",
+          "title": "主页 / X"
         },
         {
-          "start": "11:07",
+          "cat": "meeting",
           "end": "11:18",
-          "cat": "meeting",
+          "note": "com.microsoft.teams2",
           "src": "macos",
-          "title": "teams2",
-          "note": "com.microsoft.teams2"
+          "start": "11:07",
+          "title": "teams2"
         },
         {
-          "start": "11:26",
+          "cat": "meeting",
           "end": "11:34",
-          "cat": "meeting",
+          "note": "com.microsoft.teams2",
           "src": "macos",
-          "title": "teams2",
-          "note": "com.microsoft.teams2"
+          "start": "11:26",
+          "title": "teams2"
         },
         {
-          "start": "11:50",
+          "cat": "meeting",
           "end": "11:55",
-          "cat": "meeting",
+          "note": "com.microsoft.teams2",
           "src": "macos",
-          "title": "teams2",
-          "note": "com.microsoft.teams2"
+          "start": "11:50",
+          "title": "teams2"
         },
         {
-          "start": "12:00",
+          "cat": "meeting",
           "end": "12:16",
-          "cat": "meeting",
+          "note": "com.microsoft.teams2",
           "src": "macos",
-          "title": "teams2",
-          "note": "com.microsoft.teams2"
+          "start": "12:00",
+          "title": "teams2"
         },
         {
-          "start": "12:58",
+          "cat": "admin",
           "end": "13:00",
-          "cat": "admin",
+          "note": "com.tinyspeck.slackmacgap",
           "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "start": "12:58",
+          "title": "slackmacgap"
         },
         {
-          "start": "13:00",
+          "cat": "meeting",
           "end": "13:05",
-          "cat": "meeting",
+          "note": "us.zoom.xos",
           "src": "macos",
-          "title": "xos",
-          "note": "us.zoom.xos"
+          "start": "13:00",
+          "title": "xos"
         },
         {
-          "start": "13:08",
+          "cat": "meeting",
           "end": "13:31",
-          "cat": "meeting",
+          "note": "macquarie.zoom.us",
           "src": "macos",
-          "title": "Join from Zoom Workplace app - Zoom",
-          "note": "macquarie.zoom.us"
+          "start": "13:08",
+          "title": "Join from Zoom Workplace app - Zoom"
         },
         {
-          "start": "13:31",
+          "cat": "meeting",
           "end": "13:38",
-          "cat": "meeting",
+          "note": "macquarie.zoom.us",
           "src": "macos",
-          "title": "Join from Zoom Workplace app - Zoom",
-          "note": "macquarie.zoom.us"
+          "start": "13:31",
+          "title": "Join from Zoom Workplace app - Zoom"
         },
         {
-          "start": "13:38",
+          "cat": "meeting",
           "end": "13:53",
-          "cat": "meeting",
+          "note": "us.zoom.xos",
           "src": "macos",
-          "title": "xos",
-          "note": "us.zoom.xos"
+          "start": "13:38",
+          "title": "xos"
         },
         {
-          "start": "14:09",
+          "cat": "meeting",
           "end": "14:15",
-          "cat": "meeting",
+          "note": "us.zoom.xos",
           "src": "macos",
-          "title": "xos",
-          "note": "us.zoom.xos"
+          "start": "14:09",
+          "title": "xos"
         },
         {
-          "start": "14:19",
+          "cat": "meeting",
           "end": "14:33",
-          "cat": "meeting",
+          "note": "us.zoom.xos",
           "src": "macos",
-          "title": "xos",
-          "note": "us.zoom.xos"
+          "start": "14:19",
+          "title": "xos"
         },
         {
-          "start": "14:37",
+          "cat": "meeting",
           "end": "14:43",
-          "cat": "meeting",
+          "note": "us.zoom.xos",
           "src": "macos",
-          "title": "xos",
-          "note": "us.zoom.xos"
+          "start": "14:37",
+          "title": "xos"
         },
         {
-          "start": "14:48",
+          "cat": "admin",
           "end": "14:48",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "does LLMs output always with confidential? - Google Search",
-          "note": "google.com"
-        },
-        {
           "start": "14:48",
+          "title": "does LLMs output always with confidential? - Google Search"
+        },
+        {
+          "cat": "meeting",
           "end": "14:53",
-          "cat": "meeting",
+          "note": "us.zoom.xos",
           "src": "macos",
-          "title": "xos",
-          "note": "us.zoom.xos"
+          "start": "14:48",
+          "title": "xos"
         },
         {
-          "start": "14:53",
+          "cat": "meeting",
           "end": "14:58",
-          "cat": "meeting",
+          "note": "us.zoom.xos",
           "src": "macos",
-          "title": "xos",
-          "note": "us.zoom.xos"
+          "start": "14:53",
+          "title": "xos"
         },
         {
-          "start": "14:59",
+          "cat": "meeting",
           "end": "15:09",
-          "cat": "meeting",
+          "note": "us.zoom.xos",
           "src": "macos",
-          "title": "xos",
-          "note": "us.zoom.xos"
+          "start": "14:59",
+          "title": "xos"
         },
         {
-          "start": "15:09",
+          "cat": "admin",
           "end": "15:15",
-          "cat": "admin",
+          "note": "com.tinyspeck.slackmacgap",
           "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "start": "15:09",
+          "title": "slackmacgap"
         },
         {
-          "start": "15:15",
+          "cat": "admin",
           "end": "15:21",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "does LLMs output always with confidential? - Google Search",
-          "note": "google.com"
+          "start": "15:15",
+          "title": "does LLMs output always with confidential? - Google Search"
         },
         {
-          "start": "15:25",
+          "cat": "admin",
           "end": "15:48",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "does LLMs output always with confidential? - Google Search",
-          "note": "google.com"
+          "start": "15:25",
+          "title": "does LLMs output always with confidential? - Google Search"
         },
         {
-          "start": "15:48",
-          "end": "15:59",
           "cat": "research",
+          "end": "15:59",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "Visibility into AI Agents",
-          "note": "arxiv.org"
+          "start": "15:48",
+          "title": "Visibility into AI Agents"
         },
         {
-          "start": "15:59",
-          "end": "16:11",
           "cat": "coding",
+          "end": "16:11",
+          "note": "chat.deepseek.com",
           "src": "macos",
-          "title": "Grammar check - DeepSeek",
-          "note": "chat.deepseek.com"
+          "start": "15:59",
+          "title": "Grammar check - DeepSeek"
         }
       ],
+      "key": "2026-9-28",
       "logged": 233,
-      "real": 188,
-      "deep": 188,
       "ratio": 0.8072776403251068,
+      "real": 188,
       "stats": {
         "contextSwitches": 16,
-        "tabsOpened": 0,
+        "justOneMoreThing": 3,
         "longestFocus": "1h 16m",
-        "justOneMoreThing": 3
-      }
+        "tabsOpened": 0
+      },
+      "weekend": false
     },
     {
       "key": "2026-9-29",
@@ -98861,35 +99109,283 @@
       "weekend": false,
       "dateShort": "Tue, Sep 29",
       "dateLong": "Tuesday, September 29",
-      "dayStart": "07:22",
-      "dayEnd": "10:06",
+      "dayStart": "10:35",
+      "dayEnd": "20:38",
       "events": [
         {
-          "start": "07:22",
-          "end": "07:25",
+          "start": "10:35",
+          "end": "11:09",
           "cat": "coding",
-          "src": "chrome",
-          "title": "Grammar check - DeepSeek",
+          "src": "macos",
+          "title": "Remove AI slop - DeepSeek",
           "note": "chat.deepseek.com"
         },
         {
-          "start": "10:01",
-          "end": "10:06",
+          "start": "11:14",
+          "end": "11:19",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Remove AI slop - DeepSeek",
+          "note": "chat.deepseek.com"
+        },
+        {
+          "start": "11:19",
+          "end": "11:24",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(5) 主页 / X",
+          "note": "x.com"
+        },
+        {
+          "start": "11:25",
+          "end": "11:32",
+          "cat": "research",
+          "src": "macos",
+          "title": "Paper2Agent: Reimagining Research Papers As Interactive and ",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "11:33",
+          "end": "11:36",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(5) X 上的 Fei-Fei Li：“To Seek a Newer World” / X",
+          "note": "x.com"
+        },
+        {
+          "start": "11:36",
+          "end": "11:40",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Introducing System One Models & Jev - TypeSafe AI Blog",
+          "note": "typesafe.ai"
+        },
+        {
+          "start": "11:42",
+          "end": "11:45",
+          "cat": "research",
+          "src": "macos",
+          "title": "Principles of mixed-initiative user interfaces",
+          "note": "dl.acm.org"
+        },
+        {
+          "start": "11:45",
+          "end": "11:53",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(5) 主页 / X",
+          "note": "x.com"
+        },
+        {
+          "start": "11:54",
+          "end": "11:56",
+          "cat": "research",
+          "src": "macos",
+          "title": "DeepSeek | Into the Unknown",
+          "note": "deepseek.com"
+        },
+        {
+          "start": "11:57",
+          "end": "12:09",
           "cat": "writing",
-          "src": "local",
-          "title": "2026-09-28-lenfest-ai-collaborative-expansion.md",
-          "note": "3 hits"
+          "src": "macos",
+          "title": "49026100_Ada_CoC_Report - Online LaTeX Editor Overleaf",
+          "note": "overleaf.com"
+        },
+        {
+          "start": "12:09",
+          "end": "12:11",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Remove AI slop - DeepSeek",
+          "note": "chat.deepseek.com"
+        },
+        {
+          "start": "12:11",
+          "end": "12:12",
+          "cat": "research",
+          "src": "macos",
+          "title": "Kimi AI with K3 | Built for Agentic Coding & Knowledge Work",
+          "note": "kimi.ai"
+        },
+        {
+          "start": "12:12",
+          "end": "12:17",
+          "cat": "research",
+          "src": "macos",
+          "title": "Gap & Questions Paragraph - Kimi",
+          "note": "kimi.ai"
+        },
+        {
+          "start": "12:17",
+          "end": "12:22",
+          "cat": "writing",
+          "src": "macos",
+          "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea",
+          "note": "overleaf.com"
+        },
+        {
+          "start": "12:26",
+          "end": "12:46",
+          "cat": "writing",
+          "src": "macos",
+          "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea",
+          "note": "overleaf.com"
+        },
+        {
+          "start": "12:46",
+          "end": "12:51",
+          "cat": "writing",
+          "src": "macos",
+          "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf",
+          "note": "overleaf.com"
+        },
+        {
+          "start": "12:53",
+          "end": "13:32",
+          "cat": "writing",
+          "src": "macos",
+          "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf",
+          "note": "overleaf.com"
+        },
+        {
+          "start": "13:35",
+          "end": "14:04",
+          "cat": "writing",
+          "src": "macos",
+          "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf",
+          "note": "overleaf.com"
+        },
+        {
+          "start": "15:56",
+          "end": "15:58",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "15:58",
+          "end": "15:59",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "15:59",
+          "end": "16:01",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "16:01",
+          "end": "16:03",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "16:03",
+          "end": "16:09",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "16:10",
+          "end": "16:15",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Annual Progress Report - Annual Progress Report",
+          "note": "mq.service-now.com"
+        },
+        {
+          "start": "16:15",
+          "end": "16:24",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Project Title Here",
+          "note": "file:///Users/ada/Documents/MQ/Phd/progr"
+        },
+        {
+          "start": "16:27",
+          "end": "16:32",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Efficiency and Auditability in Long-Running LLM Agents",
+          "note": "file:///Users/ada/Documents/MQ/Phd/progr"
+        },
+        {
+          "start": "16:37",
+          "end": "16:38",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "16:38",
+          "end": "16:44",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Efficiency and Auditability in Long-Running LLM Agents",
+          "note": "file:///Users/ada/Documents/MQ/Phd/progr"
+        },
+        {
+          "start": "16:50",
+          "end": "17:24",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Efficiency and Auditability in Long-Running LLM Agents",
+          "note": "file:///Users/ada/Documents/MQ/Phd/progr"
+        },
+        {
+          "start": "17:28",
+          "end": "17:34",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "43 hits"
+        },
+        {
+          "start": "19:39",
+          "end": "19:42",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "27 hits"
+        },
+        {
+          "start": "19:46",
+          "end": "20:11",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "240 hits"
+        },
+        {
+          "start": "20:14",
+          "end": "20:38",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "255 hits"
         }
       ],
-      "logged": 8,
-      "real": 8,
-      "deep": 8,
-      "ratio": 1.0,
+      "logged": 320,
+      "real": 285,
+      "deep": 285,
+      "ratio": 0.8902087840896437,
       "stats": {
-        "contextSwitches": 1,
-        "tabsOpened": 3,
-        "longestFocus": "8m",
-        "justOneMoreThing": 0
+        "contextSwitches": 15,
+        "tabsOpened": 0,
+        "longestFocus": "2h",
+        "justOneMoreThing": 4
       }
     },
     {
