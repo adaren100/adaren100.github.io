@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-10-01T10:28:44+10:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-10-02T10:20:27+10:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -86945,25 +86945,578 @@
         "weekend": false
       },
       {
-        "key": "2026-9-30",
-        "dayNum": 30,
-        "dow": 3,
-        "weekend": false,
-        "dateShort": "Wed, Sep 30",
         "dateLong": "Wednesday, September 30",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dateShort": "Wed, Sep 30",
+        "dayEnd": "00:53",
+        "dayNum": 30,
+        "dayStart": "10:34",
+        "deep": 217,
+        "dow": 3,
+        "events": [
+          {
+            "cat": "admin",
+            "end": "10:40",
+            "note": "com.tinyspeck.slackmacgap",
+            "src": "macos",
+            "start": "10:34",
+            "title": "slackmacgap"
+          },
+          {
+            "cat": "writing",
+            "end": "10:46",
+            "note": "overleaf.com",
+            "src": "macos",
+            "start": "10:45",
+            "title": "Your projects - Overleaf, Online LaTeX Editor"
+          },
+          {
+            "cat": "admin",
+            "end": "10:54",
+            "note": "com.microsoft.Outlook",
+            "src": "macos",
+            "start": "10:47",
+            "title": "Outlook"
+          },
+          {
+            "cat": "admin",
+            "end": "10:57",
+            "note": "com.microsoft.Outlook",
+            "src": "macos",
+            "start": "10:54",
+            "title": "Outlook"
+          },
+          {
+            "cat": "admin",
+            "end": "16:02",
+            "note": "com.tinyspeck.slackmacgap",
+            "src": "macos",
+            "start": "16:01",
+            "title": "slackmacgap"
+          },
+          {
+            "cat": "research",
+            "end": "16:16",
+            "note": "com.apple.Preview",
+            "src": "macos",
+            "start": "16:08",
+            "title": "Preview"
+          },
+          {
+            "cat": "admin",
+            "end": "16:24",
+            "note": "com.microsoft.Outlook",
+            "src": "macos",
+            "start": "16:17",
+            "title": "Outlook"
+          },
+          {
+            "cat": "coding",
+            "end": "16:27",
+            "note": "com.microsoft.VSCode",
+            "src": "macos",
+            "start": "16:24",
+            "title": "VSCode"
+          },
+          {
+            "cat": "admin",
+            "end": "16:28",
+            "note": "com.microsoft.Outlook",
+            "src": "macos",
+            "start": "16:27",
+            "title": "Outlook"
+          },
+          {
+            "cat": "admin",
+            "end": "16:31",
+            "note": "ilearn.mq.edu.au",
+            "src": "macos",
+            "start": "16:30",
+            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: DataViz | iLearn"
+          },
+          {
+            "cat": "admin",
+            "end": "16:34",
+            "note": "ilearn.mq.edu.au",
+            "src": "macos",
+            "start": "16:33",
+            "title": "Editing quiz: Week 9 Practical Quiz | iLearn"
+          },
+          {
+            "cat": "admin",
+            "end": "16:40",
+            "note": "google.com",
+            "src": "macos",
+            "start": "16:35",
+            "title": "bag of words - Google Search"
+          },
+          {
+            "cat": "admin",
+            "end": "16:45",
+            "note": "ilearn.mq.edu.au",
+            "src": "macos",
+            "start": "16:44",
+            "title": "Preview question: BOW 1 | iLearn"
+          },
+          {
+            "cat": "admin",
+            "end": "16:52",
+            "note": "ilearn.mq.edu.au",
+            "src": "macos",
+            "start": "16:51",
+            "title": "Preview question: Doc Length 1 | iLearn"
+          },
+          {
+            "cat": "admin",
+            "end": "17:00",
+            "note": "ilearn.mq.edu.au",
+            "src": "macos",
+            "start": "16:54",
+            "title": "Preview question: N-grams | iLearn"
+          },
+          {
+            "cat": "admin",
+            "end": "17:03",
+            "note": "ilearn.mq.edu.au",
+            "src": "macos",
+            "start": "17:01",
+            "title": "Preview question: N-grams | iLearn"
+          },
+          {
+            "cat": "admin",
+            "end": "17:07",
+            "note": "google.com",
+            "src": "macos",
+            "start": "17:04",
+            "title": "糖抗原125 - Google Search"
+          },
+          {
+            "cat": "coding",
+            "end": "17:13",
+            "note": "colab.research.google.com",
+            "src": "macos",
+            "start": "17:08",
+            "title": "Untitled25.ipynb - Colab"
+          },
+          {
+            "cat": "admin",
+            "end": "17:23",
+            "note": "ilearn.mq.edu.au",
+            "src": "macos",
+            "start": "17:16",
+            "title": "Preview question: Dimensionality 2 | iLearn"
+          },
+          {
+            "cat": "admin",
+            "end": "17:25",
+            "note": "ilearn.mq.edu.au",
+            "src": "macos",
+            "start": "17:23",
+            "title": "Preview question: CountVectorizer parameters | iLearn"
+          },
+          {
+            "cat": "coding",
+            "end": "17:28",
+            "note": "scikit-learn.org",
+            "src": "macos",
+            "start": "17:25",
+            "title": "CountVectorizer — scikit-learn 1.9.1 documentation"
+          },
+          {
+            "cat": "research",
+            "end": "17:31",
+            "note": "adaren100.github.io",
+            "src": "macos",
+            "start": "17:28",
+            "title": "How a PhD Can Survive? | Ada's Notes"
+          },
+          {
+            "cat": "admin",
+            "end": "17:38",
+            "note": "ilearn.mq.edu.au",
+            "src": "macos",
+            "start": "17:31",
+            "title": "Preview question: Visualizing | iLearn"
+          },
+          {
+            "cat": "coding",
+            "end": "17:39",
+            "note": "chat.deepseek.com",
+            "src": "macos",
+            "start": "17:38",
+            "title": "Sorted scatter plot - DeepSeek"
+          },
+          {
+            "cat": "admin",
+            "end": "17:41",
+            "note": "ilearn.mq.edu.au",
+            "src": "macos",
+            "start": "17:39",
+            "title": "Editing quiz: Week 9 Practical Quiz | iLearn"
+          },
+          {
+            "cat": "writing",
+            "end": "17:42",
+            "note": "docs.google.com",
+            "src": "macos",
+            "start": "17:41",
+            "title": "Progress Updates - Google Sheets"
+          },
+          {
+            "cat": "admin",
+            "end": "17:44",
+            "note": "com.microsoft.Outlook",
+            "src": "macos",
+            "start": "17:42",
+            "title": "Outlook"
+          },
+          {
+            "cat": "admin",
+            "end": "17:46",
+            "note": "com.microsoft.Outlook",
+            "src": "macos",
+            "start": "17:44",
+            "title": "Outlook"
+          },
+          {
+            "cat": "writing",
+            "end": "17:47",
+            "note": "docs.google.com",
+            "src": "macos",
+            "start": "17:46",
+            "title": "Progress Updates - Google Sheets"
+          },
+          {
+            "cat": "admin",
+            "end": "17:59",
+            "note": "com.microsoft.Excel",
+            "src": "macos",
+            "start": "17:48",
+            "title": "Excel"
+          },
+          {
+            "cat": "admin",
+            "end": "18:57",
+            "note": "com.microsoft.Outlook",
+            "src": "macos",
+            "start": "18:49",
+            "title": "Outlook"
+          },
+          {
+            "cat": "writing",
+            "end": "19:39",
+            "note": "docs.google.com",
+            "src": "macos",
+            "start": "19:10",
+            "title": "Progress Updates - Google Sheets"
+          },
+          {
+            "cat": "writing",
+            "end": "19:52",
+            "note": "docs.google.com",
+            "src": "macos",
+            "start": "19:44",
+            "title": "Progress Updates - Google Sheets"
+          },
+          {
+            "cat": "coding",
+            "end": "20:07",
+            "note": "com.microsoft.VSCode",
+            "src": "macos",
+            "start": "19:52",
+            "title": "VSCode"
+          },
+          {
+            "cat": "coding",
+            "end": "20:25",
+            "note": "com.microsoft.VSCode",
+            "src": "macos",
+            "start": "20:15",
+            "title": "VSCode"
+          },
+          {
+            "cat": "coding",
+            "end": "20:26",
+            "note": "34 hits",
+            "src": "claude",
+            "start": "20:25",
+            "title": "Claude session · harbor"
+          },
+          {
+            "cat": "coding",
+            "end": "20:29",
+            "note": "34 hits",
+            "src": "claude",
+            "start": "20:27",
+            "title": "Claude session · harbor"
+          },
+          {
+            "cat": "admin",
+            "end": "20:31",
+            "note": "google.com",
+            "src": "macos",
+            "start": "20:29",
+            "title": "https://gemini.google.com/"
+          },
+          {
+            "cat": "coding",
+            "end": "20:37",
+            "note": "com.microsoft.VSCode",
+            "src": "macos",
+            "start": "20:31",
+            "title": "VSCode"
+          },
+          {
+            "cat": "admin",
+            "end": "20:40",
+            "note": "google.com",
+            "src": "macos",
+            "start": "20:37",
+            "title": "https://gemini.google.com/"
+          },
+          {
+            "cat": "coding",
+            "end": "20:49",
+            "note": "com.microsoft.VSCode",
+            "src": "macos",
+            "start": "20:40",
+            "title": "VSCode"
+          },
+          {
+            "cat": "coding",
+            "end": "21:42",
+            "note": "anthropic.com",
+            "src": "macos",
+            "start": "21:18",
+            "title": "A global workspace in language models \\ Anthropic"
+          },
+          {
+            "cat": "coding",
+            "end": "22:01",
+            "note": "119 hits",
+            "src": "claude",
+            "start": "21:43",
+            "title": "Claude session · harbor"
+          },
+          {
+            "cat": "admin",
+            "end": "22:14",
+            "note": "com.microsoft.Excel",
+            "src": "macos",
+            "start": "22:02",
+            "title": "Excel"
+          },
+          {
+            "cat": "admin",
+            "end": "22:17",
+            "note": "com.microsoft.Excel",
+            "src": "macos",
+            "start": "22:16",
+            "title": "Excel"
+          },
+          {
+            "cat": "coding",
+            "end": "22:24",
+            "note": "com.microsoft.VSCode",
+            "src": "macos",
+            "start": "22:17",
+            "title": "VSCode"
+          },
+          {
+            "cat": "admin",
+            "end": "22:25",
+            "note": "com.microsoft.Excel",
+            "src": "macos",
+            "start": "22:24",
+            "title": "Excel"
+          },
+          {
+            "cat": "admin",
+            "end": "22:36",
+            "note": "com.microsoft.Excel",
+            "src": "macos",
+            "start": "22:25",
+            "title": "Excel"
+          },
+          {
+            "cat": "coding",
+            "end": "22:43",
+            "note": "com.microsoft.VSCode",
+            "src": "macos",
+            "start": "22:36",
+            "title": "VSCode"
+          },
+          {
+            "cat": "admin",
+            "end": "23:08",
+            "note": "com.microsoft.Excel",
+            "src": "macos",
+            "start": "22:43",
+            "title": "Excel"
+          },
+          {
+            "cat": "admin",
+            "end": "23:11",
+            "note": "com.microsoft.Excel",
+            "src": "macos",
+            "start": "23:09",
+            "title": "Excel"
+          },
+          {
+            "cat": "coding",
+            "end": "23:12",
+            "note": "com.todesktop.230313mzl4w4u92",
+            "src": "macos",
+            "start": "23:11",
+            "title": "230313mzl4w4u92"
+          },
+          {
+            "cat": "coding",
+            "end": "23:17",
+            "note": "com.todesktop.230313mzl4w4u92",
+            "src": "macos",
+            "start": "23:12",
+            "title": "230313mzl4w4u92"
+          },
+          {
+            "cat": "admin",
+            "end": "23:27",
+            "note": "com.microsoft.Excel",
+            "src": "macos",
+            "start": "23:17",
+            "title": "Excel"
+          },
+          {
+            "cat": "admin",
+            "end": "23:29",
+            "note": "com.microsoft.Excel",
+            "src": "macos",
+            "start": "23:27",
+            "title": "Excel"
+          },
+          {
+            "cat": "coding",
+            "end": "23:31",
+            "note": "com.microsoft.VSCode",
+            "src": "macos",
+            "start": "23:29",
+            "title": "VSCode"
+          },
+          {
+            "cat": "admin",
+            "end": "23:36",
+            "note": "com.microsoft.Outlook",
+            "src": "macos",
+            "start": "23:31",
+            "title": "Outlook"
+          },
+          {
+            "cat": "coding",
+            "end": "23:39",
+            "note": "7 hits",
+            "src": "claude",
+            "start": "23:36",
+            "title": "Claude session · harbor"
+          },
+          {
+            "cat": "coding",
+            "end": "23:46",
+            "note": "com.todesktop.230313mzl4w4u92",
+            "src": "macos",
+            "start": "23:39",
+            "title": "230313mzl4w4u92"
+          },
+          {
+            "cat": "coding",
+            "end": "23:49",
+            "note": "37 hits",
+            "src": "claude",
+            "start": "23:47",
+            "title": "Claude session · harbor"
+          },
+          {
+            "cat": "admin",
+            "end": "00:16",
+            "note": "com.microsoft.Excel",
+            "src": "macos",
+            "start": "23:49",
+            "title": "Excel"
+          },
+          {
+            "cat": "coding",
+            "end": "00:17",
+            "note": "com.microsoft.VSCode",
+            "src": "macos",
+            "start": "00:16",
+            "title": "VSCode"
+          },
+          {
+            "cat": "admin",
+            "end": "00:19",
+            "note": "com.microsoft.Excel",
+            "src": "macos",
+            "start": "00:17",
+            "title": "Excel"
+          },
+          {
+            "cat": "coding",
+            "end": "00:21",
+            "note": "com.microsoft.VSCode",
+            "src": "macos",
+            "start": "00:19",
+            "title": "VSCode"
+          },
+          {
+            "cat": "coding",
+            "end": "00:22",
+            "note": "com.microsoft.VSCode",
+            "src": "macos",
+            "start": "00:21",
+            "title": "VSCode"
+          },
+          {
+            "cat": "coding",
+            "end": "00:26",
+            "note": "228 hits",
+            "src": "claude",
+            "start": "00:23",
+            "title": "Claude session · harbor"
+          },
+          {
+            "cat": "coding",
+            "end": "00:27",
+            "note": "228 hits",
+            "src": "claude",
+            "start": "00:26",
+            "title": "Claude session · harbor"
+          },
+          {
+            "cat": "coding",
+            "end": "00:49",
+            "note": "228 hits",
+            "src": "claude",
+            "start": "00:27",
+            "title": "Claude session · harbor"
+          },
+          {
+            "cat": "coding",
+            "end": "00:53",
+            "note": "228 hits",
+            "src": "claude",
+            "start": "00:49",
+            "title": "Claude session · harbor"
+          }
+        ],
+        "key": "2026-9-30",
+        "logged": 404,
+        "ratio": 0.536255219932468,
+        "real": 217,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "0m",
-          "justOneMoreThing": 0
-        }
+          "contextSwitches": 37,
+          "justOneMoreThing": 7,
+          "longestFocus": "1h 5m",
+          "tabsOpened": 0
+        },
+        "weekend": false
       }
     ]
   },
@@ -87013,26 +87566,458 @@
         "dateShort": "Thu, Oct 1",
         "dateLong": "Thursday, October 1",
         "dayStart": "09:00",
-        "dayEnd": "09:20",
+        "dayEnd": "00:45",
         "events": [
           {
             "start": "09:00",
-            "end": "09:20",
+            "end": "09:01",
             "cat": "meeting",
-            "src": "chrome",
+            "src": "macos",
             "title": "Join from Zoom Workplace app - Zoom",
-            "note": "aus01.safelinks.protection.outlook.com"
+            "note": "macquarie.zoom.us"
+          },
+          {
+            "start": "09:01",
+            "end": "09:04",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "09:04",
+            "end": "09:13",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "xos",
+            "note": "us.zoom.xos"
+          },
+          {
+            "start": "09:16",
+            "end": "09:23",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "Join from Zoom Workplace app - Zoom",
+            "note": "macquarie.zoom.us"
+          },
+          {
+            "start": "09:34",
+            "end": "09:40",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "Join from Zoom Workplace app - Zoom",
+            "note": "macquarie.zoom.us"
+          },
+          {
+            "start": "09:46",
+            "end": "09:56",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "Join from Zoom Workplace app - Zoom",
+            "note": "macquarie.zoom.us"
+          },
+          {
+            "start": "11:26",
+            "end": "11:39",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:39",
+            "end": "11:40",
+            "cat": "research",
+            "src": "macos",
+            "title": "How a PhD Can Survive? | Ada's Notes",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "11:40",
+            "end": "12:06",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "12:13",
+            "end": "12:14",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(24) YouTube",
+            "note": "youtube.com"
+          },
+          {
+            "start": "12:16",
+            "end": "12:19",
+            "cat": "admin",
+            "src": "macos",
+            "title": "微信文件传输助手网页版",
+            "note": "filehelper.weixin.qq.com"
+          },
+          {
+            "start": "12:26",
+            "end": "12:32",
+            "cat": "admin",
+            "src": "macos",
+            "title": "微信文件传输助手网页版",
+            "note": "filehelper.weixin.qq.com"
+          },
+          {
+            "start": "12:34",
+            "end": "12:40",
+            "cat": "research",
+            "src": "macos",
+            "title": "Language Models for Text Classification: From Bag-of-Words t",
+            "note": "magazine.sebastianraschka.com"
+          },
+          {
+            "start": "15:54",
+            "end": "16:05",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "18 hits"
+          },
+          {
+            "start": "16:11",
+            "end": "16:23",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "60 hits"
+          },
+          {
+            "start": "16:23",
+            "end": "16:36",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:36",
+            "end": "16:38",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "16:38",
+            "end": "16:39",
+            "cat": "research",
+            "src": "macos",
+            "title": "Language Models for Text Classification: From Bag-of-Words t",
+            "note": "magazine.sebastianraschka.com"
+          },
+          {
+            "start": "16:39",
+            "end": "16:58",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:58",
+            "end": "16:59",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Excel",
+            "note": "com.microsoft.Excel"
+          },
+          {
+            "start": "17:01",
+            "end": "17:07",
+            "cat": "research",
+            "src": "macos",
+            "title": "DABStep: Data Agent Benchmark for Multi-step Reasoning",
+            "note": "huggingface.co"
+          },
+          {
+            "start": "17:07",
+            "end": "17:56",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "17:56",
+            "end": "18:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "54 hits"
+          },
+          {
+            "start": "18:04",
+            "end": "18:07",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "54 hits"
+          },
+          {
+            "start": "18:08",
+            "end": "18:11",
+            "cat": "personal",
+            "src": "macos",
+            "title": "主页 / X",
+            "note": "x.com"
+          },
+          {
+            "start": "18:12",
+            "end": "18:14",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "18:14",
+            "end": "18:29",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "44 hits"
+          },
+          {
+            "start": "18:30",
+            "end": "18:41",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "18:41",
+            "end": "18:45",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "65 hits"
+          },
+          {
+            "start": "18:45",
+            "end": "18:56",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "18:56",
+            "end": "19:02",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "79 hits"
+          },
+          {
+            "start": "19:03",
+            "end": "19:13",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "19:13",
+            "end": "19:27",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "54 hits"
+          },
+          {
+            "start": "19:28",
+            "end": "19:29",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "7 hits"
+          },
+          {
+            "start": "19:29",
+            "end": "19:35",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Excel",
+            "note": "com.microsoft.Excel"
+          },
+          {
+            "start": "19:35",
+            "end": "19:48",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "19:48",
+            "end": "19:50",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Excel",
+            "note": "com.microsoft.Excel"
+          },
+          {
+            "start": "19:54",
+            "end": "19:59",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "55 hits"
+          },
+          {
+            "start": "19:59",
+            "end": "20:00",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "55 hits"
+          },
+          {
+            "start": "20:00",
+            "end": "20:01",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Excel",
+            "note": "com.microsoft.Excel"
+          },
+          {
+            "start": "20:01",
+            "end": "20:10",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "21:18",
+            "end": "22:07",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "22:07",
+            "end": "22:14",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Excel",
+            "note": "com.microsoft.Excel"
+          },
+          {
+            "start": "22:15",
+            "end": "22:55",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "54 hits"
+          },
+          {
+            "start": "22:56",
+            "end": "23:10",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "24 hits"
+          },
+          {
+            "start": "23:10",
+            "end": "23:14",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "23:14",
+            "end": "23:19",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "23:19",
+            "end": "23:21",
+            "cat": "coding",
+            "src": "macos",
+            "title": "DataCOPE framework overview - DeepSeek",
+            "note": "chat.deepseek.com"
+          },
+          {
+            "start": "23:21",
+            "end": "23:24",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "23:28",
+            "end": "23:30",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "23:31",
+            "end": "23:34",
+            "cat": "research",
+            "src": "macos",
+            "title": "Unsupervised Skill Discovery for Agentic Data Analysis",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "23:35",
+            "end": "23:41",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "23:42",
+            "end": "00:02",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "157 hits"
+          },
+          {
+            "start": "00:29",
+            "end": "00:38",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "71 hits"
+          },
+          {
+            "start": "00:42",
+            "end": "00:45",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "16 hits"
           }
         ],
-        "logged": 20,
-        "real": 20,
-        "deep": 20,
-        "ratio": 1.0,
+        "logged": 504,
+        "real": 468,
+        "deep": 468,
+        "ratio": 0.9286748371201307,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 3,
-          "longestFocus": "20m",
-          "justOneMoreThing": 0
+          "contextSwitches": 31,
+          "tabsOpened": 0,
+          "longestFocus": "1h 53m",
+          "justOneMoreThing": 8
         }
       },
       {
@@ -87042,17 +88027,34 @@
         "weekend": false,
         "dateShort": "Fri, Oct 2",
         "dateLong": "Friday, October 2",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "10:14",
+        "dayEnd": "10:25",
+        "events": [
+          {
+            "start": "10:14",
+            "end": "10:21",
+            "cat": "writing",
+            "src": "local",
+            "title": "2026-10-01-gemini-4-argon-our-next-era-of-frontier-intellige",
+            "note": "10 hits"
+          },
+          {
+            "start": "10:21",
+            "end": "10:25",
+            "cat": "coding",
+            "src": "local",
+            "title": "domain_cats.json",
+            "note": "2 hits"
+          }
+        ],
+        "logged": 10,
+        "real": 10,
+        "deep": 10,
+        "ratio": 1.0,
         "stats": {
-          "contextSwitches": 0,
+          "contextSwitches": 1,
           "tabsOpened": 0,
-          "longestFocus": "0m",
+          "longestFocus": "10m",
           "justOneMoreThing": 0
         }
       },
@@ -87715,26 +88717,458 @@
       "dateShort": "Thu, Oct 1",
       "dateLong": "Thursday, October 1",
       "dayStart": "09:00",
-      "dayEnd": "09:20",
+      "dayEnd": "00:45",
       "events": [
         {
           "start": "09:00",
-          "end": "09:20",
+          "end": "09:01",
           "cat": "meeting",
-          "src": "chrome",
+          "src": "macos",
           "title": "Join from Zoom Workplace app - Zoom",
-          "note": "aus01.safelinks.protection.outlook.com"
+          "note": "macquarie.zoom.us"
+        },
+        {
+          "start": "09:01",
+          "end": "09:04",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "09:04",
+          "end": "09:13",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "xos",
+          "note": "us.zoom.xos"
+        },
+        {
+          "start": "09:16",
+          "end": "09:23",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "Join from Zoom Workplace app - Zoom",
+          "note": "macquarie.zoom.us"
+        },
+        {
+          "start": "09:34",
+          "end": "09:40",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "Join from Zoom Workplace app - Zoom",
+          "note": "macquarie.zoom.us"
+        },
+        {
+          "start": "09:46",
+          "end": "09:56",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "Join from Zoom Workplace app - Zoom",
+          "note": "macquarie.zoom.us"
+        },
+        {
+          "start": "11:26",
+          "end": "11:39",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:39",
+          "end": "11:40",
+          "cat": "research",
+          "src": "macos",
+          "title": "How a PhD Can Survive? | Ada's Notes",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "11:40",
+          "end": "12:06",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "12:13",
+          "end": "12:14",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(24) YouTube",
+          "note": "youtube.com"
+        },
+        {
+          "start": "12:16",
+          "end": "12:19",
+          "cat": "admin",
+          "src": "macos",
+          "title": "微信文件传输助手网页版",
+          "note": "filehelper.weixin.qq.com"
+        },
+        {
+          "start": "12:26",
+          "end": "12:32",
+          "cat": "admin",
+          "src": "macos",
+          "title": "微信文件传输助手网页版",
+          "note": "filehelper.weixin.qq.com"
+        },
+        {
+          "start": "12:34",
+          "end": "12:40",
+          "cat": "research",
+          "src": "macos",
+          "title": "Language Models for Text Classification: From Bag-of-Words t",
+          "note": "magazine.sebastianraschka.com"
+        },
+        {
+          "start": "15:54",
+          "end": "16:05",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "18 hits"
+        },
+        {
+          "start": "16:11",
+          "end": "16:23",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "60 hits"
+        },
+        {
+          "start": "16:23",
+          "end": "16:36",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:36",
+          "end": "16:38",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "16:38",
+          "end": "16:39",
+          "cat": "research",
+          "src": "macos",
+          "title": "Language Models for Text Classification: From Bag-of-Words t",
+          "note": "magazine.sebastianraschka.com"
+        },
+        {
+          "start": "16:39",
+          "end": "16:58",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:58",
+          "end": "16:59",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Excel",
+          "note": "com.microsoft.Excel"
+        },
+        {
+          "start": "17:01",
+          "end": "17:07",
+          "cat": "research",
+          "src": "macos",
+          "title": "DABStep: Data Agent Benchmark for Multi-step Reasoning",
+          "note": "huggingface.co"
+        },
+        {
+          "start": "17:07",
+          "end": "17:56",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "17:56",
+          "end": "18:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "54 hits"
+        },
+        {
+          "start": "18:04",
+          "end": "18:07",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "54 hits"
+        },
+        {
+          "start": "18:08",
+          "end": "18:11",
+          "cat": "personal",
+          "src": "macos",
+          "title": "主页 / X",
+          "note": "x.com"
+        },
+        {
+          "start": "18:12",
+          "end": "18:14",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "18:14",
+          "end": "18:29",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "44 hits"
+        },
+        {
+          "start": "18:30",
+          "end": "18:41",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "18:41",
+          "end": "18:45",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "65 hits"
+        },
+        {
+          "start": "18:45",
+          "end": "18:56",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "18:56",
+          "end": "19:02",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "79 hits"
+        },
+        {
+          "start": "19:03",
+          "end": "19:13",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "19:13",
+          "end": "19:27",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "54 hits"
+        },
+        {
+          "start": "19:28",
+          "end": "19:29",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "7 hits"
+        },
+        {
+          "start": "19:29",
+          "end": "19:35",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Excel",
+          "note": "com.microsoft.Excel"
+        },
+        {
+          "start": "19:35",
+          "end": "19:48",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "19:48",
+          "end": "19:50",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Excel",
+          "note": "com.microsoft.Excel"
+        },
+        {
+          "start": "19:54",
+          "end": "19:59",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "55 hits"
+        },
+        {
+          "start": "19:59",
+          "end": "20:00",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "55 hits"
+        },
+        {
+          "start": "20:00",
+          "end": "20:01",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Excel",
+          "note": "com.microsoft.Excel"
+        },
+        {
+          "start": "20:01",
+          "end": "20:10",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "21:18",
+          "end": "22:07",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "22:07",
+          "end": "22:14",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Excel",
+          "note": "com.microsoft.Excel"
+        },
+        {
+          "start": "22:15",
+          "end": "22:55",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "54 hits"
+        },
+        {
+          "start": "22:56",
+          "end": "23:10",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "24 hits"
+        },
+        {
+          "start": "23:10",
+          "end": "23:14",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "23:14",
+          "end": "23:19",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "23:19",
+          "end": "23:21",
+          "cat": "coding",
+          "src": "macos",
+          "title": "DataCOPE framework overview - DeepSeek",
+          "note": "chat.deepseek.com"
+        },
+        {
+          "start": "23:21",
+          "end": "23:24",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "23:28",
+          "end": "23:30",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "23:31",
+          "end": "23:34",
+          "cat": "research",
+          "src": "macos",
+          "title": "Unsupervised Skill Discovery for Agentic Data Analysis",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "23:35",
+          "end": "23:41",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "23:42",
+          "end": "00:02",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "157 hits"
+        },
+        {
+          "start": "00:29",
+          "end": "00:38",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "71 hits"
+        },
+        {
+          "start": "00:42",
+          "end": "00:45",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "16 hits"
         }
       ],
-      "logged": 20,
-      "real": 20,
-      "deep": 20,
-      "ratio": 1.0,
+      "logged": 504,
+      "real": 468,
+      "deep": 468,
+      "ratio": 0.9286748371201307,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 3,
-        "longestFocus": "20m",
-        "justOneMoreThing": 0
+        "contextSwitches": 31,
+        "tabsOpened": 0,
+        "longestFocus": "1h 53m",
+        "justOneMoreThing": 8
       }
     },
     {
@@ -87744,17 +89178,34 @@
       "weekend": false,
       "dateShort": "Fri, Oct 2",
       "dateLong": "Friday, October 2",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "10:14",
+      "dayEnd": "10:25",
+      "events": [
+        {
+          "start": "10:14",
+          "end": "10:21",
+          "cat": "writing",
+          "src": "local",
+          "title": "2026-10-01-gemini-4-argon-our-next-era-of-frontier-intellige",
+          "note": "10 hits"
+        },
+        {
+          "start": "10:21",
+          "end": "10:25",
+          "cat": "coding",
+          "src": "local",
+          "title": "domain_cats.json",
+          "note": "2 hits"
+        }
+      ],
+      "logged": 10,
+      "real": 10,
+      "deep": 10,
+      "ratio": 1.0,
       "stats": {
-        "contextSwitches": 0,
+        "contextSwitches": 1,
         "tabsOpened": 0,
-        "longestFocus": "0m",
+        "longestFocus": "10m",
         "justOneMoreThing": 0
       }
     },
