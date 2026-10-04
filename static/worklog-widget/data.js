@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-10-04T11:26:18+11:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-10-05T10:20:14+11:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -88290,7 +88290,7 @@
         "dateShort": "Sat, Oct 3",
         "dateLong": "Saturday, October 3",
         "dayStart": "10:40",
-        "dayEnd": "17:28",
+        "dayEnd": "03:28",
         "events": [
           {
             "start": "10:40",
@@ -88422,21 +88422,45 @@
           },
           {
             "start": "17:15",
-            "end": "17:28",
+            "end": "17:35",
             "cat": "coding",
             "src": "claude",
             "title": "Claude session · harbor",
             "note": "123 hits"
+          },
+          {
+            "start": "17:35",
+            "end": "18:49",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Workspace Overview | Settings | OpenRouter",
+            "note": "openrouter.ai"
+          },
+          {
+            "start": "00:57",
+            "end": "01:10",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "01:14",
+            "end": "03:28",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
           }
         ],
-        "logged": 404,
-        "real": 343,
-        "deep": 343,
-        "ratio": 0.8484089163646998,
+        "logged": 633,
+        "real": 572,
+        "deep": 572,
+        "ratio": 0.9032347386843858,
         "stats": {
-          "contextSwitches": 12,
+          "contextSwitches": 13,
           "tabsOpened": 0,
-          "longestFocus": "4h 3m",
+          "longestFocus": "4h 10m",
           "justOneMoreThing": 3
         }
       },
@@ -88447,27 +88471,363 @@
         "weekend": true,
         "dateShort": "Sun, Oct 4",
         "dateLong": "Sunday, October 4",
-        "dayStart": "09:34",
-        "dayEnd": "09:39",
+        "dayStart": "12:22",
+        "dayEnd": "01:29",
         "events": [
           {
-            "start": "09:34",
-            "end": "09:39",
+            "start": "12:22",
+            "end": "12:24",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "12:24",
+            "end": "17:08",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "19:22",
+            "end": "19:24",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "19:24",
+            "end": "19:31",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Excel",
+            "note": "com.microsoft.Excel"
+          },
+          {
+            "start": "19:31",
+            "end": "19:34",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Workspace Overview | Settings | OpenRouter",
+            "note": "openrouter.ai"
+          },
+          {
+            "start": "19:34",
+            "end": "19:47",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Excel",
+            "note": "com.microsoft.Excel"
+          },
+          {
+            "start": "19:48",
+            "end": "19:57",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(29) YouTube",
+            "note": "youtube.com"
+          },
+          {
+            "start": "19:57",
+            "end": "20:17",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "20:17",
+            "end": "20:23",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "20:23",
+            "end": "20:30",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "20:49",
+            "end": "20:51",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "20:51",
+            "end": "20:54",
+            "cat": "research",
+            "src": "macos",
+            "title": "Zhang et al. - 2024 - PsySafe A Comprehensive Framework for ",
+            "note": "file:///Users/ada/Zotero/storage/PB2F8B5"
+          },
+          {
+            "start": "20:54",
+            "end": "20:56",
+            "cat": "research",
+            "src": "macos",
+            "title": "DSGym: A Holistic Framework for Evaluating and Training Data",
+            "note": "openreview.net"
+          },
+          {
+            "start": "20:56",
+            "end": "21:01",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "21:01",
+            "end": "21:14",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "7 hits"
+          },
+          {
+            "start": "21:14",
+            "end": "21:16",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Sign into Codex",
+            "note": "localhost:1455"
+          },
+          {
+            "start": "21:16",
+            "end": "21:17",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "21:17",
+            "end": "21:27",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "21:27",
+            "end": "21:31",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "21:32",
+            "end": "21:37",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "21:38",
+            "end": "21:43",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "21:45",
+            "end": "22:12",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "22:13",
+            "end": "22:22",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "22:22",
+            "end": "22:27",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "22:27",
+            "end": "22:31",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "22:31",
+            "end": "22:49",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "22:49",
+            "end": "22:53",
+            "cat": "coding",
+            "src": "macos",
+            "title": "skills/skills/skill-creator/SKILL.md at main · anthropics/sk",
+            "note": "github.com"
+          },
+          {
+            "start": "22:54",
+            "end": "23:33",
+            "cat": "coding",
+            "src": "macos",
+            "title": "skills/skills/skill-creator/SKILL.md at main · anthropics/sk",
+            "note": "github.com"
+          },
+          {
+            "start": "23:37",
+            "end": "23:45",
             "cat": "writing",
-            "src": "local",
-            "title": "codex.txt",
-            "note": "1 hit"
+            "src": "macos",
+            "title": "Gemini Notebook",
+            "note": "notebook.google.com"
+          },
+          {
+            "start": "23:45",
+            "end": "23:52",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "23:52",
+            "end": "00:00",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "80 hits"
+          },
+          {
+            "start": "00:00",
+            "end": "00:06",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "00:06",
+            "end": "00:07",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(29) CMU AI Agents 2026: 6. Agents for Coding and Software D",
+            "note": "youtube.com"
+          },
+          {
+            "start": "00:07",
+            "end": "00:10",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "00:10",
+            "end": "00:14",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "81 hits"
+          },
+          {
+            "start": "00:14",
+            "end": "00:19",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "81 hits"
+          },
+          {
+            "start": "00:19",
+            "end": "00:27",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "81 hits"
+          },
+          {
+            "start": "00:29",
+            "end": "00:41",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Trial Review · precise-15 codex Sonnet",
+            "note": "claude.ai"
+          },
+          {
+            "start": "00:41",
+            "end": "00:52",
+            "cat": "coding",
+            "src": "macos",
+            "title": "skills/skills/skill-creator/SKILL.md at main · anthropics/sk",
+            "note": "github.com"
+          },
+          {
+            "start": "00:52",
+            "end": "01:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "35 hits"
+          },
+          {
+            "start": "01:03",
+            "end": "01:12",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "01:12",
+            "end": "01:14",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "64 hits"
+          },
+          {
+            "start": "01:15",
+            "end": "01:29",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Credits | OpenRouter",
+            "note": "openrouter.ai"
           }
         ],
-        "logged": 5,
-        "real": 5,
-        "deep": 5,
-        "ratio": 1.0,
+        "logged": 619,
+        "real": 589,
+        "deep": 589,
+        "ratio": 0.9523753847467747,
         "stats": {
-          "contextSwitches": 0,
+          "contextSwitches": 18,
           "tabsOpened": 0,
-          "longestFocus": "5m",
-          "justOneMoreThing": 0
+          "longestFocus": "4h 48m",
+          "justOneMoreThing": 2
         }
       },
       {
@@ -88477,17 +88837,834 @@
         "weekend": false,
         "dateShort": "Mon, Oct 5",
         "dateLong": "Monday, October 5",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "06:09",
+        "dayEnd": "10:24",
+        "events": [
+          {
+            "start": "06:09",
+            "end": "06:12",
+            "cat": "writing",
+            "src": "local",
+            "title": "claude-code.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "06:12",
+            "end": "06:14",
+            "cat": "writing",
+            "src": "local",
+            "title": "claude-code.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "06:14",
+            "end": "06:15",
+            "cat": "coding",
+            "src": "local",
+            "title": "remote-settings.json",
+            "note": "4 hits"
+          },
+          {
+            "start": "06:15",
+            "end": "06:17",
+            "cat": "writing",
+            "src": "local",
+            "title": "claude-code.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "06:17",
+            "end": "06:20",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "8 hits"
+          },
+          {
+            "start": "06:20",
+            "end": "06:21",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "8 hits"
+          },
+          {
+            "start": "06:21",
+            "end": "06:22",
+            "cat": "writing",
+            "src": "local",
+            "title": "claude-code.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "06:22",
+            "end": "06:23",
+            "cat": "writing",
+            "src": "local",
+            "title": "claude-code.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "06:23",
+            "end": "06:24",
+            "cat": "writing",
+            "src": "local",
+            "title": "claude-code.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "06:25",
+            "end": "06:28",
+            "cat": "coding",
+            "src": "local",
+            "title": "remote-settings.json",
+            "note": "11 hits"
+          },
+          {
+            "start": "06:28",
+            "end": "06:31",
+            "cat": "writing",
+            "src": "local",
+            "title": "bndbek0l9.txt",
+            "note": "2 hits"
+          },
+          {
+            "start": "06:31",
+            "end": "06:33",
+            "cat": "coding",
+            "src": "local",
+            "title": "compute.py",
+            "note": "3 hits"
+          },
+          {
+            "start": "06:33",
+            "end": "06:36",
+            "cat": "coding",
+            "src": "local",
+            "title": "remote-settings.json",
+            "note": "4 hits"
+          },
+          {
+            "start": "06:36",
+            "end": "06:38",
+            "cat": "writing",
+            "src": "local",
+            "title": "claude-code.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "06:38",
+            "end": "06:43",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "14 hits"
+          },
+          {
+            "start": "06:43",
+            "end": "06:46",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "14 hits"
+          },
+          {
+            "start": "06:46",
+            "end": "06:47",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "14 hits"
+          },
+          {
+            "start": "06:48",
+            "end": "06:50",
+            "cat": "writing",
+            "src": "local",
+            "title": "bvaybhhqw.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "06:50",
+            "end": "06:51",
+            "cat": "coding",
+            "src": "local",
+            "title": "compute.py",
+            "note": "3 hits"
+          },
+          {
+            "start": "06:51",
+            "end": "06:52",
+            "cat": "coding",
+            "src": "local",
+            "title": "remote-settings.json",
+            "note": "5 hits"
+          },
+          {
+            "start": "06:52",
+            "end": "06:53",
+            "cat": "writing",
+            "src": "local",
+            "title": "claude-code.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "06:53",
+            "end": "06:54",
+            "cat": "coding",
+            "src": "local",
+            "title": "remote-settings.json",
+            "note": "7 hits"
+          },
+          {
+            "start": "06:54",
+            "end": "06:55",
+            "cat": "writing",
+            "src": "local",
+            "title": "claude-code.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "06:55",
+            "end": "06:56",
+            "cat": "coding",
+            "src": "local",
+            "title": "policy-limits.json",
+            "note": "11 hits"
+          },
+          {
+            "start": "06:56",
+            "end": "06:57",
+            "cat": "coding",
+            "src": "local",
+            "title": "policy-limits.json",
+            "note": "11 hits"
+          },
+          {
+            "start": "06:57",
+            "end": "06:58",
+            "cat": "coding",
+            "src": "local",
+            "title": "policy-limits.json",
+            "note": "11 hits"
+          },
+          {
+            "start": "06:58",
+            "end": "06:59",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "8 hits"
+          },
+          {
+            "start": "07:00",
+            "end": "07:00",
+            "cat": "coding",
+            "src": "local",
+            "title": "policy-limits.json",
+            "note": "4 hits"
+          },
+          {
+            "start": "07:01",
+            "end": "07:02",
+            "cat": "writing",
+            "src": "local",
+            "title": "bsvlj2zj9.txt",
+            "note": "2 hits"
+          },
+          {
+            "start": "07:02",
+            "end": "07:03",
+            "cat": "writing",
+            "src": "local",
+            "title": "claude-code.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "07:03",
+            "end": "07:05",
+            "cat": "writing",
+            "src": "local",
+            "title": "claude-code.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "07:05",
+            "end": "07:06",
+            "cat": "writing",
+            "src": "local",
+            "title": "claude-code.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "07:06",
+            "end": "07:07",
+            "cat": "writing",
+            "src": "local",
+            "title": "claude-code.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "07:07",
+            "end": "07:08",
+            "cat": "coding",
+            "src": "local",
+            "title": "remote-settings.json",
+            "note": "4 hits"
+          },
+          {
+            "start": "07:08",
+            "end": "07:10",
+            "cat": "coding",
+            "src": "local",
+            "title": "remote-settings.json",
+            "note": "4 hits"
+          },
+          {
+            "start": "07:10",
+            "end": "07:11",
+            "cat": "writing",
+            "src": "local",
+            "title": "claude-code.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "07:12",
+            "end": "07:13",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "8 hits"
+          },
+          {
+            "start": "07:13",
+            "end": "07:14",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "8 hits"
+          },
+          {
+            "start": "07:14",
+            "end": "07:15",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "8 hits"
+          },
+          {
+            "start": "07:15",
+            "end": "07:16",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "8 hits"
+          },
+          {
+            "start": "07:16",
+            "end": "07:18",
+            "cat": "writing",
+            "src": "local",
+            "title": "claude-code.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "07:18",
+            "end": "07:18",
+            "cat": "writing",
+            "src": "local",
+            "title": "claude-code.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "07:19",
+            "end": "07:20",
+            "cat": "coding",
+            "src": "local",
+            "title": "remote-settings.json",
+            "note": "4 hits"
+          },
+          {
+            "start": "07:20",
+            "end": "07:21",
+            "cat": "coding",
+            "src": "local",
+            "title": "remote-settings.json",
+            "note": "4 hits"
+          },
+          {
+            "start": "07:21",
+            "end": "07:22",
+            "cat": "coding",
+            "src": "local",
+            "title": "remote-settings.json",
+            "note": "4 hits"
+          },
+          {
+            "start": "07:22",
+            "end": "07:23",
+            "cat": "coding",
+            "src": "local",
+            "title": "remote-settings.json",
+            "note": "4 hits"
+          },
+          {
+            "start": "07:23",
+            "end": "07:23",
+            "cat": "writing",
+            "src": "local",
+            "title": "claude-code.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "07:24",
+            "end": "07:24",
+            "cat": "writing",
+            "src": "local",
+            "title": "claude-code.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "07:25",
+            "end": "07:26",
+            "cat": "writing",
+            "src": "local",
+            "title": "claude-code.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "07:26",
+            "end": "07:27",
+            "cat": "writing",
+            "src": "local",
+            "title": "claude-code.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "07:27",
+            "end": "07:28",
+            "cat": "writing",
+            "src": "local",
+            "title": "claude-code.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "07:28",
+            "end": "07:29",
+            "cat": "coding",
+            "src": "local",
+            "title": "remote-settings.json",
+            "note": "6 hits"
+          },
+          {
+            "start": "07:30",
+            "end": "07:32",
+            "cat": "writing",
+            "src": "local",
+            "title": "claude-code.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "07:32",
+            "end": "07:33",
+            "cat": "writing",
+            "src": "local",
+            "title": "claude-code.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "07:50",
+            "end": "08:01",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "8 hits"
+          },
+          {
+            "start": "08:01",
+            "end": "08:06",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "8 hits"
+          },
+          {
+            "start": "08:06",
+            "end": "08:06",
+            "cat": "writing",
+            "src": "local",
+            "title": "codex.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "08:06",
+            "end": "08:09",
+            "cat": "coding",
+            "src": "local",
+            "title": "compute.py",
+            "note": "2 hits"
+          },
+          {
+            "start": "08:09",
+            "end": "08:12",
+            "cat": "coding",
+            "src": "local",
+            "title": "compute.py",
+            "note": "2 hits"
+          },
+          {
+            "start": "08:12",
+            "end": "08:12",
+            "cat": "writing",
+            "src": "local",
+            "title": "codex.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "08:13",
+            "end": "08:14",
+            "cat": "writing",
+            "src": "local",
+            "title": "codex.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "08:14",
+            "end": "08:17",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "08:17",
+            "end": "08:19",
+            "cat": "coding",
+            "src": "local",
+            "title": "analyze.py",
+            "note": "5 hits"
+          },
+          {
+            "start": "08:19",
+            "end": "08:21",
+            "cat": "coding",
+            "src": "local",
+            "title": "analyze.py",
+            "note": "5 hits"
+          },
+          {
+            "start": "08:21",
+            "end": "08:24",
+            "cat": "writing",
+            "src": "local",
+            "title": "codex.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "08:24",
+            "end": "08:27",
+            "cat": "coding",
+            "src": "local",
+            "title": "compute.py",
+            "note": "4 hits"
+          },
+          {
+            "start": "08:27",
+            "end": "08:30",
+            "cat": "coding",
+            "src": "local",
+            "title": "compute.py",
+            "note": "4 hits"
+          },
+          {
+            "start": "08:30",
+            "end": "08:32",
+            "cat": "writing",
+            "src": "local",
+            "title": "codex.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "08:32",
+            "end": "08:35",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "5 hits"
+          },
+          {
+            "start": "08:36",
+            "end": "08:41",
+            "cat": "writing",
+            "src": "local",
+            "title": "codex.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "08:41",
+            "end": "08:43",
+            "cat": "coding",
+            "src": "local",
+            "title": "cand_ids.json",
+            "note": "1 hit"
+          },
+          {
+            "start": "08:46",
+            "end": "08:49",
+            "cat": "writing",
+            "src": "local",
+            "title": "codex.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "08:50",
+            "end": "08:51",
+            "cat": "writing",
+            "src": "local",
+            "title": "codex.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "08:51",
+            "end": "08:53",
+            "cat": "coding",
+            "src": "local",
+            "title": "compute.py",
+            "note": "1 hit"
+          },
+          {
+            "start": "08:53",
+            "end": "08:54",
+            "cat": "writing",
+            "src": "local",
+            "title": "codex.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "08:55",
+            "end": "09:00",
+            "cat": "coding",
+            "src": "local",
+            "title": "debug2.py",
+            "note": "5 hits"
+          },
+          {
+            "start": "09:00",
+            "end": "09:04",
+            "cat": "coding",
+            "src": "local",
+            "title": "debug2.py",
+            "note": "5 hits"
+          },
+          {
+            "start": "09:04",
+            "end": "09:05",
+            "cat": "writing",
+            "src": "local",
+            "title": "codex.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "09:05",
+            "end": "09:07",
+            "cat": "coding",
+            "src": "local",
+            "title": "belles_aug.py",
+            "note": "1 hit"
+          },
+          {
+            "start": "09:07",
+            "end": "09:09",
+            "cat": "writing",
+            "src": "local",
+            "title": "codex.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "09:09",
+            "end": "09:12",
+            "cat": "coding",
+            "src": "local",
+            "title": "lock.json",
+            "note": "9 hits"
+          },
+          {
+            "start": "09:12",
+            "end": "09:16",
+            "cat": "coding",
+            "src": "local",
+            "title": "lock.json",
+            "note": "9 hits"
+          },
+          {
+            "start": "09:16",
+            "end": "09:17",
+            "cat": "writing",
+            "src": "local",
+            "title": "codex.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "09:17",
+            "end": "09:19",
+            "cat": "coding",
+            "src": "local",
+            "title": "compute.py",
+            "note": "1 hit"
+          },
+          {
+            "start": "09:28",
+            "end": "09:32",
+            "cat": "writing",
+            "src": "local",
+            "title": "codex.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "09:33",
+            "end": "09:34",
+            "cat": "coding",
+            "src": "local",
+            "title": "compute.py",
+            "note": "1 hit"
+          },
+          {
+            "start": "09:35",
+            "end": "09:40",
+            "cat": "writing",
+            "src": "local",
+            "title": "codex.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "09:40",
+            "end": "09:42",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "09:42",
+            "end": "09:47",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "09:47",
+            "end": "09:48",
+            "cat": "coding",
+            "src": "local",
+            "title": "compute.py",
+            "note": "1 hit"
+          },
+          {
+            "start": "09:49",
+            "end": "09:54",
+            "cat": "writing",
+            "src": "local",
+            "title": "codex.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "09:54",
+            "end": "09:56",
+            "cat": "coding",
+            "src": "local",
+            "title": "lock.json",
+            "note": "10 hits"
+          },
+          {
+            "start": "09:56",
+            "end": "10:00",
+            "cat": "coding",
+            "src": "local",
+            "title": "lock.json",
+            "note": "10 hits"
+          },
+          {
+            "start": "10:00",
+            "end": "10:01",
+            "cat": "writing",
+            "src": "local",
+            "title": "codex.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "10:01",
+            "end": "10:03",
+            "cat": "coding",
+            "src": "local",
+            "title": "compute.py",
+            "note": "1 hit"
+          },
+          {
+            "start": "10:03",
+            "end": "10:06",
+            "cat": "writing",
+            "src": "local",
+            "title": "codex.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "10:06",
+            "end": "10:10",
+            "cat": "coding",
+            "src": "local",
+            "title": "compute.py",
+            "note": "10 hits"
+          },
+          {
+            "start": "10:10",
+            "end": "10:14",
+            "cat": "coding",
+            "src": "local",
+            "title": "compute.py",
+            "note": "10 hits"
+          },
+          {
+            "start": "10:15",
+            "end": "10:15",
+            "cat": "coding",
+            "src": "local",
+            "title": "compute.py",
+            "note": "2 hits"
+          },
+          {
+            "start": "10:15",
+            "end": "10:19",
+            "cat": "coding",
+            "src": "local",
+            "title": "compute.py",
+            "note": "2 hits"
+          },
+          {
+            "start": "10:19",
+            "end": "10:20",
+            "cat": "writing",
+            "src": "local",
+            "title": "codex.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "10:20",
+            "end": "10:24",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          }
+        ],
+        "logged": 211,
+        "real": 211,
+        "deep": 211,
+        "ratio": 1.0,
         "stats": {
-          "contextSwitches": 0,
+          "contextSwitches": 56,
           "tabsOpened": 0,
-          "longestFocus": "0m",
+          "longestFocus": "3h 31m",
           "justOneMoreThing": 0
         }
       },
@@ -89811,7 +90988,7 @@
       "dateShort": "Sat, Oct 3",
       "dateLong": "Saturday, October 3",
       "dayStart": "10:40",
-      "dayEnd": "17:28",
+      "dayEnd": "03:28",
       "events": [
         {
           "start": "10:40",
@@ -89943,21 +91120,45 @@
         },
         {
           "start": "17:15",
-          "end": "17:28",
+          "end": "17:35",
           "cat": "coding",
           "src": "claude",
           "title": "Claude session · harbor",
           "note": "123 hits"
+        },
+        {
+          "start": "17:35",
+          "end": "18:49",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Workspace Overview | Settings | OpenRouter",
+          "note": "openrouter.ai"
+        },
+        {
+          "start": "00:57",
+          "end": "01:10",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "01:14",
+          "end": "03:28",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
         }
       ],
-      "logged": 404,
-      "real": 343,
-      "deep": 343,
-      "ratio": 0.8484089163646998,
+      "logged": 633,
+      "real": 572,
+      "deep": 572,
+      "ratio": 0.9032347386843858,
       "stats": {
-        "contextSwitches": 12,
+        "contextSwitches": 13,
         "tabsOpened": 0,
-        "longestFocus": "4h 3m",
+        "longestFocus": "4h 10m",
         "justOneMoreThing": 3
       }
     },
@@ -89968,27 +91169,363 @@
       "weekend": true,
       "dateShort": "Sun, Oct 4",
       "dateLong": "Sunday, October 4",
-      "dayStart": "09:34",
-      "dayEnd": "09:39",
+      "dayStart": "12:22",
+      "dayEnd": "01:29",
       "events": [
         {
-          "start": "09:34",
-          "end": "09:39",
+          "start": "12:22",
+          "end": "12:24",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "12:24",
+          "end": "17:08",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "19:22",
+          "end": "19:24",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "19:24",
+          "end": "19:31",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Excel",
+          "note": "com.microsoft.Excel"
+        },
+        {
+          "start": "19:31",
+          "end": "19:34",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Workspace Overview | Settings | OpenRouter",
+          "note": "openrouter.ai"
+        },
+        {
+          "start": "19:34",
+          "end": "19:47",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Excel",
+          "note": "com.microsoft.Excel"
+        },
+        {
+          "start": "19:48",
+          "end": "19:57",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(29) YouTube",
+          "note": "youtube.com"
+        },
+        {
+          "start": "19:57",
+          "end": "20:17",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "20:17",
+          "end": "20:23",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "20:23",
+          "end": "20:30",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "20:49",
+          "end": "20:51",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "20:51",
+          "end": "20:54",
+          "cat": "research",
+          "src": "macos",
+          "title": "Zhang et al. - 2024 - PsySafe A Comprehensive Framework for ",
+          "note": "file:///Users/ada/Zotero/storage/PB2F8B5"
+        },
+        {
+          "start": "20:54",
+          "end": "20:56",
+          "cat": "research",
+          "src": "macos",
+          "title": "DSGym: A Holistic Framework for Evaluating and Training Data",
+          "note": "openreview.net"
+        },
+        {
+          "start": "20:56",
+          "end": "21:01",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "21:01",
+          "end": "21:14",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "7 hits"
+        },
+        {
+          "start": "21:14",
+          "end": "21:16",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Sign into Codex",
+          "note": "localhost:1455"
+        },
+        {
+          "start": "21:16",
+          "end": "21:17",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "21:17",
+          "end": "21:27",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "21:27",
+          "end": "21:31",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "21:32",
+          "end": "21:37",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "21:38",
+          "end": "21:43",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "21:45",
+          "end": "22:12",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "22:13",
+          "end": "22:22",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "22:22",
+          "end": "22:27",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "22:27",
+          "end": "22:31",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "22:31",
+          "end": "22:49",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "22:49",
+          "end": "22:53",
+          "cat": "coding",
+          "src": "macos",
+          "title": "skills/skills/skill-creator/SKILL.md at main · anthropics/sk",
+          "note": "github.com"
+        },
+        {
+          "start": "22:54",
+          "end": "23:33",
+          "cat": "coding",
+          "src": "macos",
+          "title": "skills/skills/skill-creator/SKILL.md at main · anthropics/sk",
+          "note": "github.com"
+        },
+        {
+          "start": "23:37",
+          "end": "23:45",
           "cat": "writing",
-          "src": "local",
-          "title": "codex.txt",
-          "note": "1 hit"
+          "src": "macos",
+          "title": "Gemini Notebook",
+          "note": "notebook.google.com"
+        },
+        {
+          "start": "23:45",
+          "end": "23:52",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "23:52",
+          "end": "00:00",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "80 hits"
+        },
+        {
+          "start": "00:00",
+          "end": "00:06",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "00:06",
+          "end": "00:07",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(29) CMU AI Agents 2026: 6. Agents for Coding and Software D",
+          "note": "youtube.com"
+        },
+        {
+          "start": "00:07",
+          "end": "00:10",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "00:10",
+          "end": "00:14",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "81 hits"
+        },
+        {
+          "start": "00:14",
+          "end": "00:19",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "81 hits"
+        },
+        {
+          "start": "00:19",
+          "end": "00:27",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "81 hits"
+        },
+        {
+          "start": "00:29",
+          "end": "00:41",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Trial Review · precise-15 codex Sonnet",
+          "note": "claude.ai"
+        },
+        {
+          "start": "00:41",
+          "end": "00:52",
+          "cat": "coding",
+          "src": "macos",
+          "title": "skills/skills/skill-creator/SKILL.md at main · anthropics/sk",
+          "note": "github.com"
+        },
+        {
+          "start": "00:52",
+          "end": "01:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "35 hits"
+        },
+        {
+          "start": "01:03",
+          "end": "01:12",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "01:12",
+          "end": "01:14",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "64 hits"
+        },
+        {
+          "start": "01:15",
+          "end": "01:29",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Credits | OpenRouter",
+          "note": "openrouter.ai"
         }
       ],
-      "logged": 5,
-      "real": 5,
-      "deep": 5,
-      "ratio": 1.0,
+      "logged": 619,
+      "real": 589,
+      "deep": 589,
+      "ratio": 0.9523753847467747,
       "stats": {
-        "contextSwitches": 0,
+        "contextSwitches": 18,
         "tabsOpened": 0,
-        "longestFocus": "5m",
-        "justOneMoreThing": 0
+        "longestFocus": "4h 48m",
+        "justOneMoreThing": 2
       }
     },
     {
@@ -89998,17 +91535,834 @@
       "weekend": false,
       "dateShort": "Mon, Oct 5",
       "dateLong": "Monday, October 5",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "06:09",
+      "dayEnd": "10:24",
+      "events": [
+        {
+          "start": "06:09",
+          "end": "06:12",
+          "cat": "writing",
+          "src": "local",
+          "title": "claude-code.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "06:12",
+          "end": "06:14",
+          "cat": "writing",
+          "src": "local",
+          "title": "claude-code.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "06:14",
+          "end": "06:15",
+          "cat": "coding",
+          "src": "local",
+          "title": "remote-settings.json",
+          "note": "4 hits"
+        },
+        {
+          "start": "06:15",
+          "end": "06:17",
+          "cat": "writing",
+          "src": "local",
+          "title": "claude-code.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "06:17",
+          "end": "06:20",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "8 hits"
+        },
+        {
+          "start": "06:20",
+          "end": "06:21",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "8 hits"
+        },
+        {
+          "start": "06:21",
+          "end": "06:22",
+          "cat": "writing",
+          "src": "local",
+          "title": "claude-code.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "06:22",
+          "end": "06:23",
+          "cat": "writing",
+          "src": "local",
+          "title": "claude-code.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "06:23",
+          "end": "06:24",
+          "cat": "writing",
+          "src": "local",
+          "title": "claude-code.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "06:25",
+          "end": "06:28",
+          "cat": "coding",
+          "src": "local",
+          "title": "remote-settings.json",
+          "note": "11 hits"
+        },
+        {
+          "start": "06:28",
+          "end": "06:31",
+          "cat": "writing",
+          "src": "local",
+          "title": "bndbek0l9.txt",
+          "note": "2 hits"
+        },
+        {
+          "start": "06:31",
+          "end": "06:33",
+          "cat": "coding",
+          "src": "local",
+          "title": "compute.py",
+          "note": "3 hits"
+        },
+        {
+          "start": "06:33",
+          "end": "06:36",
+          "cat": "coding",
+          "src": "local",
+          "title": "remote-settings.json",
+          "note": "4 hits"
+        },
+        {
+          "start": "06:36",
+          "end": "06:38",
+          "cat": "writing",
+          "src": "local",
+          "title": "claude-code.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "06:38",
+          "end": "06:43",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "14 hits"
+        },
+        {
+          "start": "06:43",
+          "end": "06:46",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "14 hits"
+        },
+        {
+          "start": "06:46",
+          "end": "06:47",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "14 hits"
+        },
+        {
+          "start": "06:48",
+          "end": "06:50",
+          "cat": "writing",
+          "src": "local",
+          "title": "bvaybhhqw.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "06:50",
+          "end": "06:51",
+          "cat": "coding",
+          "src": "local",
+          "title": "compute.py",
+          "note": "3 hits"
+        },
+        {
+          "start": "06:51",
+          "end": "06:52",
+          "cat": "coding",
+          "src": "local",
+          "title": "remote-settings.json",
+          "note": "5 hits"
+        },
+        {
+          "start": "06:52",
+          "end": "06:53",
+          "cat": "writing",
+          "src": "local",
+          "title": "claude-code.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "06:53",
+          "end": "06:54",
+          "cat": "coding",
+          "src": "local",
+          "title": "remote-settings.json",
+          "note": "7 hits"
+        },
+        {
+          "start": "06:54",
+          "end": "06:55",
+          "cat": "writing",
+          "src": "local",
+          "title": "claude-code.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "06:55",
+          "end": "06:56",
+          "cat": "coding",
+          "src": "local",
+          "title": "policy-limits.json",
+          "note": "11 hits"
+        },
+        {
+          "start": "06:56",
+          "end": "06:57",
+          "cat": "coding",
+          "src": "local",
+          "title": "policy-limits.json",
+          "note": "11 hits"
+        },
+        {
+          "start": "06:57",
+          "end": "06:58",
+          "cat": "coding",
+          "src": "local",
+          "title": "policy-limits.json",
+          "note": "11 hits"
+        },
+        {
+          "start": "06:58",
+          "end": "06:59",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "8 hits"
+        },
+        {
+          "start": "07:00",
+          "end": "07:00",
+          "cat": "coding",
+          "src": "local",
+          "title": "policy-limits.json",
+          "note": "4 hits"
+        },
+        {
+          "start": "07:01",
+          "end": "07:02",
+          "cat": "writing",
+          "src": "local",
+          "title": "bsvlj2zj9.txt",
+          "note": "2 hits"
+        },
+        {
+          "start": "07:02",
+          "end": "07:03",
+          "cat": "writing",
+          "src": "local",
+          "title": "claude-code.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "07:03",
+          "end": "07:05",
+          "cat": "writing",
+          "src": "local",
+          "title": "claude-code.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "07:05",
+          "end": "07:06",
+          "cat": "writing",
+          "src": "local",
+          "title": "claude-code.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "07:06",
+          "end": "07:07",
+          "cat": "writing",
+          "src": "local",
+          "title": "claude-code.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "07:07",
+          "end": "07:08",
+          "cat": "coding",
+          "src": "local",
+          "title": "remote-settings.json",
+          "note": "4 hits"
+        },
+        {
+          "start": "07:08",
+          "end": "07:10",
+          "cat": "coding",
+          "src": "local",
+          "title": "remote-settings.json",
+          "note": "4 hits"
+        },
+        {
+          "start": "07:10",
+          "end": "07:11",
+          "cat": "writing",
+          "src": "local",
+          "title": "claude-code.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "07:12",
+          "end": "07:13",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "8 hits"
+        },
+        {
+          "start": "07:13",
+          "end": "07:14",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "8 hits"
+        },
+        {
+          "start": "07:14",
+          "end": "07:15",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "8 hits"
+        },
+        {
+          "start": "07:15",
+          "end": "07:16",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "8 hits"
+        },
+        {
+          "start": "07:16",
+          "end": "07:18",
+          "cat": "writing",
+          "src": "local",
+          "title": "claude-code.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "07:18",
+          "end": "07:18",
+          "cat": "writing",
+          "src": "local",
+          "title": "claude-code.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "07:19",
+          "end": "07:20",
+          "cat": "coding",
+          "src": "local",
+          "title": "remote-settings.json",
+          "note": "4 hits"
+        },
+        {
+          "start": "07:20",
+          "end": "07:21",
+          "cat": "coding",
+          "src": "local",
+          "title": "remote-settings.json",
+          "note": "4 hits"
+        },
+        {
+          "start": "07:21",
+          "end": "07:22",
+          "cat": "coding",
+          "src": "local",
+          "title": "remote-settings.json",
+          "note": "4 hits"
+        },
+        {
+          "start": "07:22",
+          "end": "07:23",
+          "cat": "coding",
+          "src": "local",
+          "title": "remote-settings.json",
+          "note": "4 hits"
+        },
+        {
+          "start": "07:23",
+          "end": "07:23",
+          "cat": "writing",
+          "src": "local",
+          "title": "claude-code.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "07:24",
+          "end": "07:24",
+          "cat": "writing",
+          "src": "local",
+          "title": "claude-code.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "07:25",
+          "end": "07:26",
+          "cat": "writing",
+          "src": "local",
+          "title": "claude-code.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "07:26",
+          "end": "07:27",
+          "cat": "writing",
+          "src": "local",
+          "title": "claude-code.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "07:27",
+          "end": "07:28",
+          "cat": "writing",
+          "src": "local",
+          "title": "claude-code.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "07:28",
+          "end": "07:29",
+          "cat": "coding",
+          "src": "local",
+          "title": "remote-settings.json",
+          "note": "6 hits"
+        },
+        {
+          "start": "07:30",
+          "end": "07:32",
+          "cat": "writing",
+          "src": "local",
+          "title": "claude-code.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "07:32",
+          "end": "07:33",
+          "cat": "writing",
+          "src": "local",
+          "title": "claude-code.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "07:50",
+          "end": "08:01",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "8 hits"
+        },
+        {
+          "start": "08:01",
+          "end": "08:06",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "8 hits"
+        },
+        {
+          "start": "08:06",
+          "end": "08:06",
+          "cat": "writing",
+          "src": "local",
+          "title": "codex.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "08:06",
+          "end": "08:09",
+          "cat": "coding",
+          "src": "local",
+          "title": "compute.py",
+          "note": "2 hits"
+        },
+        {
+          "start": "08:09",
+          "end": "08:12",
+          "cat": "coding",
+          "src": "local",
+          "title": "compute.py",
+          "note": "2 hits"
+        },
+        {
+          "start": "08:12",
+          "end": "08:12",
+          "cat": "writing",
+          "src": "local",
+          "title": "codex.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "08:13",
+          "end": "08:14",
+          "cat": "writing",
+          "src": "local",
+          "title": "codex.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "08:14",
+          "end": "08:17",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "08:17",
+          "end": "08:19",
+          "cat": "coding",
+          "src": "local",
+          "title": "analyze.py",
+          "note": "5 hits"
+        },
+        {
+          "start": "08:19",
+          "end": "08:21",
+          "cat": "coding",
+          "src": "local",
+          "title": "analyze.py",
+          "note": "5 hits"
+        },
+        {
+          "start": "08:21",
+          "end": "08:24",
+          "cat": "writing",
+          "src": "local",
+          "title": "codex.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "08:24",
+          "end": "08:27",
+          "cat": "coding",
+          "src": "local",
+          "title": "compute.py",
+          "note": "4 hits"
+        },
+        {
+          "start": "08:27",
+          "end": "08:30",
+          "cat": "coding",
+          "src": "local",
+          "title": "compute.py",
+          "note": "4 hits"
+        },
+        {
+          "start": "08:30",
+          "end": "08:32",
+          "cat": "writing",
+          "src": "local",
+          "title": "codex.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "08:32",
+          "end": "08:35",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "5 hits"
+        },
+        {
+          "start": "08:36",
+          "end": "08:41",
+          "cat": "writing",
+          "src": "local",
+          "title": "codex.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "08:41",
+          "end": "08:43",
+          "cat": "coding",
+          "src": "local",
+          "title": "cand_ids.json",
+          "note": "1 hit"
+        },
+        {
+          "start": "08:46",
+          "end": "08:49",
+          "cat": "writing",
+          "src": "local",
+          "title": "codex.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "08:50",
+          "end": "08:51",
+          "cat": "writing",
+          "src": "local",
+          "title": "codex.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "08:51",
+          "end": "08:53",
+          "cat": "coding",
+          "src": "local",
+          "title": "compute.py",
+          "note": "1 hit"
+        },
+        {
+          "start": "08:53",
+          "end": "08:54",
+          "cat": "writing",
+          "src": "local",
+          "title": "codex.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "08:55",
+          "end": "09:00",
+          "cat": "coding",
+          "src": "local",
+          "title": "debug2.py",
+          "note": "5 hits"
+        },
+        {
+          "start": "09:00",
+          "end": "09:04",
+          "cat": "coding",
+          "src": "local",
+          "title": "debug2.py",
+          "note": "5 hits"
+        },
+        {
+          "start": "09:04",
+          "end": "09:05",
+          "cat": "writing",
+          "src": "local",
+          "title": "codex.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "09:05",
+          "end": "09:07",
+          "cat": "coding",
+          "src": "local",
+          "title": "belles_aug.py",
+          "note": "1 hit"
+        },
+        {
+          "start": "09:07",
+          "end": "09:09",
+          "cat": "writing",
+          "src": "local",
+          "title": "codex.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "09:09",
+          "end": "09:12",
+          "cat": "coding",
+          "src": "local",
+          "title": "lock.json",
+          "note": "9 hits"
+        },
+        {
+          "start": "09:12",
+          "end": "09:16",
+          "cat": "coding",
+          "src": "local",
+          "title": "lock.json",
+          "note": "9 hits"
+        },
+        {
+          "start": "09:16",
+          "end": "09:17",
+          "cat": "writing",
+          "src": "local",
+          "title": "codex.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "09:17",
+          "end": "09:19",
+          "cat": "coding",
+          "src": "local",
+          "title": "compute.py",
+          "note": "1 hit"
+        },
+        {
+          "start": "09:28",
+          "end": "09:32",
+          "cat": "writing",
+          "src": "local",
+          "title": "codex.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "09:33",
+          "end": "09:34",
+          "cat": "coding",
+          "src": "local",
+          "title": "compute.py",
+          "note": "1 hit"
+        },
+        {
+          "start": "09:35",
+          "end": "09:40",
+          "cat": "writing",
+          "src": "local",
+          "title": "codex.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "09:40",
+          "end": "09:42",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "09:42",
+          "end": "09:47",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "09:47",
+          "end": "09:48",
+          "cat": "coding",
+          "src": "local",
+          "title": "compute.py",
+          "note": "1 hit"
+        },
+        {
+          "start": "09:49",
+          "end": "09:54",
+          "cat": "writing",
+          "src": "local",
+          "title": "codex.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "09:54",
+          "end": "09:56",
+          "cat": "coding",
+          "src": "local",
+          "title": "lock.json",
+          "note": "10 hits"
+        },
+        {
+          "start": "09:56",
+          "end": "10:00",
+          "cat": "coding",
+          "src": "local",
+          "title": "lock.json",
+          "note": "10 hits"
+        },
+        {
+          "start": "10:00",
+          "end": "10:01",
+          "cat": "writing",
+          "src": "local",
+          "title": "codex.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "10:01",
+          "end": "10:03",
+          "cat": "coding",
+          "src": "local",
+          "title": "compute.py",
+          "note": "1 hit"
+        },
+        {
+          "start": "10:03",
+          "end": "10:06",
+          "cat": "writing",
+          "src": "local",
+          "title": "codex.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "10:06",
+          "end": "10:10",
+          "cat": "coding",
+          "src": "local",
+          "title": "compute.py",
+          "note": "10 hits"
+        },
+        {
+          "start": "10:10",
+          "end": "10:14",
+          "cat": "coding",
+          "src": "local",
+          "title": "compute.py",
+          "note": "10 hits"
+        },
+        {
+          "start": "10:15",
+          "end": "10:15",
+          "cat": "coding",
+          "src": "local",
+          "title": "compute.py",
+          "note": "2 hits"
+        },
+        {
+          "start": "10:15",
+          "end": "10:19",
+          "cat": "coding",
+          "src": "local",
+          "title": "compute.py",
+          "note": "2 hits"
+        },
+        {
+          "start": "10:19",
+          "end": "10:20",
+          "cat": "writing",
+          "src": "local",
+          "title": "codex.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "10:20",
+          "end": "10:24",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        }
+      ],
+      "logged": 211,
+      "real": 211,
+      "deep": 211,
+      "ratio": 1.0,
       "stats": {
-        "contextSwitches": 0,
+        "contextSwitches": 56,
         "tabsOpened": 0,
-        "longestFocus": "0m",
+        "longestFocus": "3h 31m",
         "justOneMoreThing": 0
       }
     },
