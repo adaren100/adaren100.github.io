@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-10-06T10:20:12+11:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-10-07T10:20:14+11:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -88831,466 +88831,466 @@
         "weekend": true
       },
       {
-        "key": "2026-10-5",
-        "dayNum": 5,
-        "dow": 1,
-        "weekend": false,
-        "dateShort": "Mon, Oct 5",
         "dateLong": "Monday, October 5",
-        "dayStart": "10:21",
+        "dateShort": "Mon, Oct 5",
         "dayEnd": "22:37",
+        "dayNum": 5,
+        "dayStart": "10:21",
+        "deep": 409,
+        "dow": 1,
         "events": [
           {
-            "start": "10:21",
+            "cat": "coding",
             "end": "12:12",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "10:21",
+            "title": "VSCode"
           },
           {
-            "start": "12:13",
+            "cat": "coding",
             "end": "12:14",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "12:13",
+            "title": "VSCode"
           },
           {
-            "start": "12:14",
+            "cat": "coding",
             "end": "12:17",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "12:14",
+            "title": "VSCode"
           },
           {
-            "start": "12:17",
+            "cat": "admin",
             "end": "12:20",
-            "cat": "admin",
+            "note": "com.microsoft.Excel",
             "src": "macos",
-            "title": "Excel",
-            "note": "com.microsoft.Excel"
+            "start": "12:17",
+            "title": "Excel"
           },
           {
-            "start": "12:21",
+            "cat": "admin",
             "end": "12:26",
-            "cat": "admin",
+            "note": "com.microsoft.Excel",
             "src": "macos",
-            "title": "Excel",
-            "note": "com.microsoft.Excel"
+            "start": "12:21",
+            "title": "Excel"
           },
           {
-            "start": "12:26",
+            "cat": "admin",
             "end": "12:30",
-            "cat": "admin",
+            "note": "com.microsoft.Excel",
             "src": "macos",
-            "title": "Excel",
-            "note": "com.microsoft.Excel"
+            "start": "12:26",
+            "title": "Excel"
           },
           {
-            "start": "12:31",
+            "cat": "admin",
             "end": "12:35",
-            "cat": "admin",
+            "note": "com.microsoft.Excel",
             "src": "macos",
-            "title": "Excel",
-            "note": "com.microsoft.Excel"
+            "start": "12:31",
+            "title": "Excel"
           },
           {
-            "start": "12:35",
+            "cat": "admin",
             "end": "12:39",
-            "cat": "admin",
+            "note": "com.microsoft.Excel",
             "src": "macos",
-            "title": "Excel",
-            "note": "com.microsoft.Excel"
+            "start": "12:35",
+            "title": "Excel"
           },
           {
-            "start": "12:39",
+            "cat": "coding",
             "end": "12:43",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "12:39",
+            "title": "VSCode"
           },
           {
-            "start": "12:43",
+            "cat": "admin",
             "end": "12:44",
-            "cat": "admin",
+            "note": "com.microsoft.Excel",
             "src": "macos",
-            "title": "Excel",
-            "note": "com.microsoft.Excel"
+            "start": "12:43",
+            "title": "Excel"
           },
           {
-            "start": "12:44",
+            "cat": "admin",
             "end": "12:50",
-            "cat": "admin",
+            "note": "com.microsoft.Excel",
             "src": "macos",
-            "title": "Excel",
-            "note": "com.microsoft.Excel"
+            "start": "12:44",
+            "title": "Excel"
           },
           {
-            "start": "12:50",
+            "cat": "coding",
             "end": "12:51",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "12:50",
+            "title": "VSCode"
           },
           {
-            "start": "12:54",
+            "cat": "admin",
             "end": "12:58",
-            "cat": "admin",
+            "note": "com.tinyspeck.slackmacgap",
             "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "start": "12:54",
+            "title": "slackmacgap"
           },
           {
-            "start": "12:58",
+            "cat": "coding",
             "end": "13:01",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "12:58",
+            "title": "VSCode"
           },
           {
-            "start": "13:04",
+            "cat": "admin",
             "end": "13:06",
-            "cat": "admin",
+            "note": "com.tinyspeck.slackmacgap",
             "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "start": "13:04",
+            "title": "slackmacgap"
           },
           {
-            "start": "13:07",
+            "cat": "coding",
             "end": "13:26",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "13:07",
+            "title": "VSCode"
           },
           {
-            "start": "13:26",
+            "cat": "coding",
             "end": "13:46",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "13:26",
+            "title": "VSCode"
           },
           {
-            "start": "13:47",
+            "cat": "coding",
             "end": "13:48",
-            "cat": "coding",
+            "note": "40 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "40 hits"
+            "start": "13:47",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "13:48",
+            "cat": "coding",
             "end": "13:49",
-            "cat": "coding",
+            "note": "40 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "40 hits"
+            "start": "13:48",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "13:51",
+            "cat": "coding",
             "end": "13:55",
-            "cat": "coding",
+            "note": "17 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "17 hits"
+            "start": "13:51",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "14:02",
+            "cat": "research",
             "end": "14:03",
-            "cat": "research",
+            "note": "dblp.org",
             "src": "macos",
-            "title": "dblp: computer science bibliography",
-            "note": "dblp.org"
+            "start": "14:02",
+            "title": "dblp: computer science bibliography"
           },
           {
-            "start": "14:04",
+            "cat": "research",
             "end": "14:06",
-            "cat": "research",
+            "note": "dblp.org",
             "src": "macos",
-            "title": "dblp: Ada Ren",
-            "note": "dblp.org"
+            "start": "14:04",
+            "title": "dblp: Ada Ren"
           },
           {
-            "start": "14:06",
+            "cat": "research",
             "end": "14:09",
-            "cat": "research",
+            "note": "openreview.net",
             "src": "macos",
-            "title": "| OpenReview",
-            "note": "openreview.net"
+            "start": "14:06",
+            "title": "| OpenReview"
           },
           {
-            "start": "14:10",
+            "cat": "research",
             "end": "14:11",
-            "cat": "research",
+            "note": "openreview.net",
             "src": "macos",
-            "title": "Edit Profile | OpenReview",
-            "note": "openreview.net"
+            "start": "14:10",
+            "title": "Edit Profile | OpenReview"
           },
           {
-            "start": "14:13",
+            "cat": "research",
             "end": "14:15",
-            "cat": "research",
+            "note": "openreview.net",
             "src": "macos",
-            "title": "| OpenReview",
-            "note": "openreview.net"
+            "start": "14:13",
+            "title": "| OpenReview"
           },
           {
-            "start": "14:15",
+            "cat": "admin",
             "end": "14:19",
-            "cat": "admin",
+            "note": "linkedin.com",
             "src": "macos",
-            "title": "Feed | LinkedIn",
-            "note": "linkedin.com"
+            "start": "14:15",
+            "title": "Feed | LinkedIn"
           },
           {
-            "start": "14:19",
+            "cat": "research",
             "end": "14:22",
-            "cat": "research",
+            "note": "openreview.net",
             "src": "macos",
-            "title": "Search | OpenReview",
-            "note": "openreview.net"
+            "start": "14:19",
+            "title": "Search | OpenReview"
           },
           {
-            "start": "14:22",
-            "end": "14:23",
             "cat": "admin",
+            "end": "14:23",
+            "note": "com.tinyspeck.slackmacgap",
             "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "start": "14:22",
+            "title": "slackmacgap"
           },
           {
-            "start": "14:24",
+            "cat": "research",
             "end": "14:25",
-            "cat": "research",
+            "note": "aclrollingreview.org",
             "src": "macos",
-            "title": "ARR service qualifications – ACL Rolling Review",
-            "note": "aclrollingreview.org"
+            "start": "14:24",
+            "title": "ARR service qualifications – ACL Rolling Review"
           },
           {
-            "start": "14:25",
+            "cat": "coding",
             "end": "14:56",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "14:25",
+            "title": "VSCode"
           },
           {
-            "start": "14:56",
+            "cat": "writing",
             "end": "16:09",
-            "cat": "writing",
+            "note": "overleaf.com",
             "src": "macos",
-            "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf",
-            "note": "overleaf.com"
+            "start": "14:56",
+            "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf"
           },
           {
-            "start": "16:09",
+            "cat": "research",
             "end": "16:13",
-            "cat": "research",
+            "note": "chatgpt.com",
             "src": "macos",
-            "title": "Polish Introduction Writing",
-            "note": "chatgpt.com"
+            "start": "16:09",
+            "title": "Polish Introduction Writing"
           },
           {
+            "cat": "coding",
+            "end": "16:16",
+            "note": "com.openai.codex",
+            "src": "macos",
             "start": "16:14",
-            "end": "16:16",
-            "cat": "coding",
-            "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "title": "codex"
           },
           {
+            "cat": "research",
+            "end": "16:16",
+            "note": "chatgpt.com",
+            "src": "macos",
             "start": "16:16",
-            "end": "16:16",
-            "cat": "research",
-            "src": "macos",
-            "title": "ChatGPT",
-            "note": "chatgpt.com"
+            "title": "ChatGPT"
           },
           {
-            "start": "16:17",
+            "cat": "research",
             "end": "17:07",
-            "cat": "research",
+            "note": "chatgpt.com",
             "src": "macos",
-            "title": "Revise Introduction",
-            "note": "chatgpt.com"
+            "start": "16:17",
+            "title": "Revise Introduction"
           },
           {
-            "start": "17:07",
+            "cat": "personal",
             "end": "17:09",
-            "cat": "personal",
+            "note": "chrome-extension://fcoeoabgfenejglbffodg",
             "src": "macos",
-            "title": "Claude for Chrome",
-            "note": "chrome-extension://fcoeoabgfenejglbffodg"
+            "start": "17:07",
+            "title": "Claude for Chrome"
           },
           {
-            "start": "17:10",
+            "cat": "personal",
             "end": "17:37",
-            "cat": "personal",
+            "note": "chrome-extension://fcoeoabgfenejglbffodg",
             "src": "macos",
-            "title": "Claude for Chrome",
-            "note": "chrome-extension://fcoeoabgfenejglbffodg"
+            "start": "17:10",
+            "title": "Claude for Chrome"
           },
           {
-            "start": "17:37",
+            "cat": "research",
             "end": "17:38",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "GDPval: Evaluating AI Model Performance on Real-World Econom",
-            "note": "arxiv.org"
+            "start": "17:37",
+            "title": "GDPval: Evaluating AI Model Performance on Real-World Econom"
           },
           {
-            "start": "18:04",
+            "cat": "research",
             "end": "18:12",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "GDPval: Evaluating AI Model Performance on Real-World Econom",
-            "note": "arxiv.org"
+            "start": "18:04",
+            "title": "GDPval: Evaluating AI Model Performance on Real-World Econom"
           },
           {
-            "start": "18:12",
+            "cat": "research",
             "end": "18:21",
-            "cat": "research",
+            "note": "chatgpt.com",
             "src": "macos",
-            "title": "文献是否过时",
-            "note": "chatgpt.com"
+            "start": "18:12",
+            "title": "文献是否过时"
           },
           {
-            "start": "18:21",
-            "end": "18:23",
             "cat": "writing",
+            "end": "18:23",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Progress Updates - Google Sheets",
-            "note": "docs.google.com"
+            "start": "18:21",
+            "title": "Progress Updates - Google Sheets"
           },
           {
-            "start": "18:23",
+            "cat": "coding",
             "end": "18:24",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "18:23",
+            "title": "VSCode"
           },
           {
-            "start": "18:24",
+            "cat": "research",
             "end": "18:25",
-            "cat": "research",
+            "note": "openreview.net",
             "src": "macos",
-            "title": "494_SkillLearnBench_Benchmarki.pdf",
-            "note": "openreview.net"
+            "start": "18:24",
+            "title": "494_SkillLearnBench_Benchmarki.pdf"
           },
           {
-            "start": "18:27",
+            "cat": "research",
             "end": "18:32",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "[2409.07703] DSBench: How Far Are Data Science Agents from B",
-            "note": "arxiv.org"
+            "start": "18:27",
+            "title": "[2409.07703] DSBench: How Far Are Data Science Agents from B"
           },
           {
-            "start": "18:32",
+            "cat": "research",
             "end": "18:33",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "BLADE: Benchmarking Language Model Agents for Data-Driven Sc",
-            "note": "arxiv.org"
+            "start": "18:32",
+            "title": "BLADE: Benchmarking Language Model Agents for Data-Driven Sc"
           },
           {
-            "start": "18:33",
+            "cat": "research",
             "end": "18:47",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "2410.07095v6.pdf",
-            "note": "arxiv.org"
+            "start": "18:33",
+            "title": "2410.07095v6.pdf"
           },
           {
-            "start": "18:47",
+            "cat": "coding",
             "end": "18:51",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "18:47",
+            "title": "VSCode"
           },
           {
-            "start": "18:51",
+            "cat": "research",
             "end": "18:54",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "2410.07095v6.pdf",
-            "note": "arxiv.org"
+            "start": "18:51",
+            "title": "2410.07095v6.pdf"
           },
           {
-            "start": "18:54",
+            "cat": "coding",
             "end": "18:58",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "18:54",
+            "title": "VSCode"
           },
           {
-            "start": "18:58",
+            "cat": "coding",
             "end": "19:00",
-            "cat": "coding",
+            "note": "36 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "36 hits"
+            "start": "18:58",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "19:00",
-            "end": "19:04",
             "cat": "research",
+            "end": "19:04",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "2410.07095v6.pdf",
-            "note": "arxiv.org"
+            "start": "19:00",
+            "title": "2410.07095v6.pdf"
           },
           {
-            "start": "19:04",
+            "cat": "coding",
             "end": "19:08",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "19:04",
+            "title": "VSCode"
           },
           {
-            "start": "19:13",
+            "cat": "coding",
             "end": "19:16",
-            "cat": "coding",
+            "note": "10 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "10 hits"
+            "start": "19:13",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "20:08",
+            "cat": "coding",
             "end": "20:11",
-            "cat": "coding",
+            "note": "27 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "27 hits"
+            "start": "20:08",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "22:33",
-            "end": "22:37",
             "cat": "coding",
+            "end": "22:37",
+            "note": "28 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "28 hits"
+            "start": "22:33",
+            "title": "Claude session · harbor"
           }
         ],
+        "key": "2026-10-5",
         "logged": 477,
-        "real": 409,
-        "deep": 409,
         "ratio": 0.8584446243152751,
+        "real": 409,
         "stats": {
           "contextSwitches": 28,
-          "tabsOpened": 0,
+          "justOneMoreThing": 4,
           "longestFocus": "2h 40m",
-          "justOneMoreThing": 4
-        }
+          "tabsOpened": 0
+        },
+        "weekend": false
       },
       {
         "key": "2026-10-6",
@@ -89299,707 +89299,419 @@
         "weekend": false,
         "dateShort": "Tue, Oct 6",
         "dateLong": "Tuesday, October 6",
-        "dayStart": "06:00",
-        "dayEnd": "10:24",
+        "dayStart": "10:11",
+        "dayEnd": "00:45",
         "events": [
           {
-            "start": "06:00",
-            "end": "06:03",
-            "cat": "coding",
-            "src": "local",
-            "title": "trajectory.json",
-            "note": "3 hits"
-          },
-          {
-            "start": "06:03",
-            "end": "06:05",
-            "cat": "coding",
-            "src": "local",
-            "title": "trajectory.json",
-            "note": "3 hits"
-          },
-          {
-            "start": "06:05",
-            "end": "06:07",
-            "cat": "writing",
-            "src": "local",
-            "title": "hermes.txt",
-            "note": "1 hit"
-          },
-          {
-            "start": "06:07",
-            "end": "06:08",
-            "cat": "writing",
-            "src": "local",
-            "title": "hermes.txt",
-            "note": "1 hit"
-          },
-          {
-            "start": "06:08",
-            "end": "06:11",
-            "cat": "writing",
-            "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
-          },
-          {
-            "start": "06:11",
-            "end": "06:12",
-            "cat": "writing",
-            "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
-          },
-          {
-            "start": "06:12",
-            "end": "06:13",
-            "cat": "writing",
-            "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
-          },
-          {
-            "start": "06:13",
-            "end": "06:16",
-            "cat": "writing",
-            "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
-          },
-          {
-            "start": "06:16",
-            "end": "06:16",
-            "cat": "writing",
-            "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
-          },
-          {
-            "start": "06:16",
-            "end": "06:18",
-            "cat": "writing",
-            "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
-          },
-          {
-            "start": "06:18",
-            "end": "06:20",
-            "cat": "coding",
-            "src": "local",
-            "title": "inspect_rules.py",
-            "note": "16 hits"
-          },
-          {
-            "start": "06:20",
-            "end": "06:21",
-            "cat": "coding",
-            "src": "local",
-            "title": "inspect_rules.py",
-            "note": "16 hits"
-          },
-          {
-            "start": "06:21",
-            "end": "06:25",
-            "cat": "writing",
-            "src": "local",
-            "title": "hermes.txt",
-            "note": "1 hit"
-          },
-          {
-            "start": "06:25",
-            "end": "06:27",
-            "cat": "writing",
-            "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
-          },
-          {
-            "start": "06:27",
-            "end": "06:32",
-            "cat": "writing",
-            "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
-          },
-          {
-            "start": "06:32",
-            "end": "06:35",
-            "cat": "writing",
-            "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
-          },
-          {
-            "start": "06:35",
-            "end": "06:37",
-            "cat": "writing",
-            "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
-          },
-          {
-            "start": "06:37",
-            "end": "06:37",
-            "cat": "writing",
-            "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
-          },
-          {
-            "start": "06:38",
-            "end": "06:40",
-            "cat": "writing",
-            "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
-          },
-          {
-            "start": "06:40",
-            "end": "06:42",
-            "cat": "writing",
-            "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
-          },
-          {
-            "start": "06:43",
-            "end": "06:44",
-            "cat": "writing",
-            "src": "local",
-            "title": "hermes.txt",
-            "note": "1 hit"
-          },
-          {
-            "start": "06:44",
-            "end": "06:45",
-            "cat": "writing",
-            "src": "local",
-            "title": "hermes.txt",
-            "note": "1 hit"
-          },
-          {
-            "start": "06:45",
-            "end": "06:48",
-            "cat": "writing",
-            "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
-          },
-          {
-            "start": "06:48",
-            "end": "06:49",
-            "cat": "writing",
-            "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
-          },
-          {
-            "start": "06:49",
-            "end": "06:50",
-            "cat": "writing",
-            "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
-          },
-          {
-            "start": "06:50",
-            "end": "06:53",
-            "cat": "writing",
-            "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
-          },
-          {
-            "start": "06:53",
-            "end": "06:55",
-            "cat": "writing",
-            "src": "local",
-            "title": "hermes.txt",
-            "note": "1 hit"
-          },
-          {
-            "start": "06:55",
-            "end": "06:58",
-            "cat": "writing",
-            "src": "local",
-            "title": "hermes.txt",
-            "note": "1 hit"
-          },
-          {
-            "start": "06:58",
-            "end": "06:59",
-            "cat": "writing",
-            "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
-          },
-          {
-            "start": "06:59",
-            "end": "07:00",
-            "cat": "writing",
-            "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
-          },
-          {
-            "start": "07:00",
-            "end": "07:01",
-            "cat": "writing",
-            "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
-          },
-          {
-            "start": "07:01",
-            "end": "07:03",
-            "cat": "writing",
-            "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
-          },
-          {
-            "start": "07:03",
-            "end": "07:04",
-            "cat": "writing",
-            "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
-          },
-          {
-            "start": "07:04",
-            "end": "07:06",
-            "cat": "writing",
-            "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
-          },
-          {
-            "start": "07:06",
-            "end": "07:06",
-            "cat": "coding",
-            "src": "local",
-            "title": "result.json",
-            "note": "7 hits"
-          },
-          {
-            "start": "07:06",
-            "end": "07:08",
-            "cat": "coding",
-            "src": "local",
-            "title": "result.json",
-            "note": "7 hits"
-          },
-          {
-            "start": "07:10",
-            "end": "07:10",
-            "cat": "coding",
-            "src": "local",
-            "title": "calc_day300.py",
-            "note": "3 hits"
-          },
-          {
-            "start": "07:11",
-            "end": "07:13",
-            "cat": "coding",
-            "src": "local",
-            "title": "calc_day365.py",
-            "note": "2 hits"
-          },
-          {
-            "start": "07:13",
-            "end": "07:14",
-            "cat": "coding",
-            "src": "local",
-            "title": "solve.py",
-            "note": "1 hit"
-          },
-          {
-            "start": "07:15",
-            "end": "07:15",
-            "cat": "coding",
-            "src": "local",
-            "title": "run_task5.py",
-            "note": "1 hit"
-          },
-          {
-            "start": "07:16",
-            "end": "07:18",
-            "cat": "writing",
-            "src": "local",
-            "title": "hermes.txt",
-            "note": "1 hit"
-          },
-          {
-            "start": "07:18",
-            "end": "07:20",
-            "cat": "writing",
-            "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
-          },
-          {
-            "start": "07:20",
-            "end": "07:21",
-            "cat": "writing",
-            "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
-          },
-          {
-            "start": "07:21",
-            "end": "07:23",
-            "cat": "writing",
-            "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
-          },
-          {
-            "start": "07:23",
-            "end": "07:25",
-            "cat": "writing",
-            "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
-          },
-          {
-            "start": "07:25",
-            "end": "07:26",
-            "cat": "writing",
-            "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
-          },
-          {
-            "start": "07:26",
-            "end": "07:31",
-            "cat": "coding",
-            "src": "local",
-            "title": "result.json",
-            "note": "5 hits"
-          },
-          {
-            "start": "07:31",
-            "end": "07:36",
-            "cat": "coding",
-            "src": "local",
-            "title": "result.json",
-            "note": "5 hits"
-          },
-          {
-            "start": "07:37",
-            "end": "07:42",
-            "cat": "coding",
-            "src": "local",
-            "title": "solution.py",
-            "note": "1 hit"
-          },
-          {
-            "start": "07:43",
-            "end": "07:48",
-            "cat": "coding",
-            "src": "local",
-            "title": "solution.py",
-            "note": "1 hit"
-          },
-          {
-            "start": "07:49",
-            "end": "07:54",
-            "cat": "coding",
-            "src": "local",
-            "title": "solution.py",
-            "note": "1 hit"
-          },
-          {
-            "start": "07:54",
-            "end": "07:55",
-            "cat": "coding",
-            "src": "local",
-            "title": "solution.py",
-            "note": "1 hit"
-          },
-          {
-            "start": "07:55",
-            "end": "07:59",
-            "cat": "coding",
-            "src": "local",
-            "title": "solution.py",
-            "note": "1 hit"
-          },
-          {
-            "start": "07:59",
-            "end": "08:00",
-            "cat": "writing",
-            "src": "local",
-            "title": "codex.txt",
-            "note": "1 hit"
-          },
-          {
-            "start": "08:00",
-            "end": "08:05",
-            "cat": "coding",
-            "src": "local",
-            "title": "result.json",
-            "note": "5 hits"
-          },
-          {
-            "start": "08:05",
-            "end": "08:06",
-            "cat": "coding",
-            "src": "local",
-            "title": "result.json",
-            "note": "5 hits"
-          },
-          {
-            "start": "08:06",
-            "end": "08:09",
-            "cat": "coding",
-            "src": "local",
-            "title": "result.json",
-            "note": "5 hits"
-          },
-          {
-            "start": "08:09",
-            "end": "08:10",
-            "cat": "writing",
-            "src": "local",
-            "title": "codex.txt",
-            "note": "1 hit"
-          },
-          {
-            "start": "08:10",
-            "end": "08:11",
-            "cat": "writing",
-            "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
-          },
-          {
-            "start": "08:11",
-            "end": "08:16",
-            "cat": "coding",
-            "src": "local",
-            "title": "calculate_fees.py",
-            "note": "1 hit"
-          },
-          {
-            "start": "08:17",
-            "end": "08:22",
-            "cat": "coding",
-            "src": "local",
-            "title": "calculate_fees.py",
-            "note": "1 hit"
-          },
-          {
-            "start": "08:23",
-            "end": "08:28",
-            "cat": "coding",
-            "src": "local",
-            "title": "calculate_fees.py",
-            "note": "1 hit"
-          },
-          {
-            "start": "08:31",
-            "end": "08:36",
-            "cat": "writing",
-            "src": "local",
-            "title": "codex.txt",
-            "note": "1 hit"
-          },
-          {
-            "start": "08:39",
-            "end": "08:44",
-            "cat": "coding",
-            "src": "local",
-            "title": "calculate_fees.py",
-            "note": "1 hit"
-          },
-          {
-            "start": "08:47",
-            "end": "08:52",
-            "cat": "coding",
-            "src": "local",
-            "title": "solution.py",
-            "note": "1 hit"
-          },
-          {
-            "start": "08:54",
-            "end": "08:58",
-            "cat": "coding",
-            "src": "local",
-            "title": "solution.py",
-            "note": "1 hit"
-          },
-          {
-            "start": "08:59",
-            "end": "09:04",
-            "cat": "coding",
-            "src": "local",
-            "title": "run_task5.py",
-            "note": "1 hit"
-          },
-          {
-            "start": "09:09",
-            "end": "09:14",
-            "cat": "writing",
-            "src": "local",
-            "title": "codex.txt",
-            "note": "1 hit"
-          },
-          {
-            "start": "09:17",
-            "end": "09:22",
-            "cat": "coding",
-            "src": "local",
-            "title": "solution.py",
-            "note": "1 hit"
-          },
-          {
-            "start": "09:22",
-            "end": "09:24",
-            "cat": "coding",
-            "src": "local",
-            "title": "explore.py",
-            "note": "15 hits"
-          },
-          {
-            "start": "09:24",
-            "end": "09:29",
-            "cat": "coding",
-            "src": "local",
-            "title": "explore.py",
-            "note": "15 hits"
-          },
-          {
-            "start": "09:32",
-            "end": "09:36",
-            "cat": "coding",
-            "src": "local",
-            "title": "calculate_fees.py",
-            "note": "1 hit"
-          },
-          {
-            "start": "09:37",
-            "end": "09:42",
-            "cat": "writing",
-            "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
-          },
-          {
-            "start": "09:42",
-            "end": "09:44",
-            "cat": "coding",
-            "src": "local",
-            "title": "result.json",
-            "note": "5 hits"
-          },
-          {
-            "start": "09:44",
-            "end": "09:48",
-            "cat": "coding",
-            "src": "local",
-            "title": "result.json",
-            "note": "5 hits"
-          },
-          {
-            "start": "09:49",
-            "end": "09:51",
-            "cat": "writing",
-            "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
-          },
-          {
-            "start": "09:52",
-            "end": "09:56",
-            "cat": "writing",
-            "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
-          },
-          {
-            "start": "09:57",
-            "end": "09:58",
-            "cat": "writing",
-            "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
-          },
-          {
-            "start": "09:58",
-            "end": "10:03",
-            "cat": "writing",
-            "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
-          },
-          {
-            "start": "10:03",
-            "end": "10:06",
-            "cat": "writing",
-            "src": "local",
-            "title": "reward.txt",
-            "note": "5 hits"
-          },
-          {
-            "start": "10:07",
-            "end": "10:11",
-            "cat": "writing",
-            "src": "local",
-            "title": "reward.txt",
-            "note": "5 hits"
-          },
-          {
             "start": "10:11",
-            "end": "10:13",
+            "end": "10:37",
             "cat": "coding",
-            "src": "local",
-            "title": "lock.json",
-            "note": "8 hits"
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
           },
           {
-            "start": "10:13",
-            "end": "10:17",
-            "cat": "coding",
-            "src": "local",
-            "title": "lock.json",
-            "note": "8 hits"
-          },
-          {
-            "start": "10:17",
-            "end": "10:18",
+            "start": "10:38",
+            "end": "10:38",
             "cat": "writing",
-            "src": "local",
-            "title": "codex.txt",
-            "note": "1 hit"
+            "src": "macos",
+            "title": "Progress Updates - Google Sheets",
+            "note": "docs.google.com"
           },
           {
-            "start": "10:18",
-            "end": "10:22",
+            "start": "10:38",
+            "end": "10:41",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "10:41",
+            "end": "10:49",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Annual Progress Report - Annual Progress Report",
+            "note": "mq.service-now.com"
+          },
+          {
+            "start": "10:49",
+            "end": "10:50",
             "cat": "coding",
-            "src": "local",
-            "title": "solve_task2.py",
-            "note": "1 hit"
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
           },
           {
-            "start": "10:22",
-            "end": "10:24",
+            "start": "11:46",
+            "end": "11:54",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Macquarie University - Sign In",
+            "note": "mq.okta.com"
+          },
+          {
+            "start": "11:55",
+            "end": "12:10",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Annual Progress Report - Annual Progress Report",
+            "note": "mq.service-now.com"
+          },
+          {
+            "start": "12:10",
+            "end": "12:23",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "12:23",
+            "end": "12:26",
+            "cat": "research",
+            "src": "macos",
+            "title": "Page not found",
+            "note": "wiki.mq.edu.au"
+          },
+          {
+            "start": "12:26",
+            "end": "12:29",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Pure - Login",
+            "note": "research-management.mq.edu.au"
+          },
+          {
+            "start": "12:31",
+            "end": "14:04",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "14:05",
+            "end": "14:12",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "14:12",
+            "end": "14:21",
+            "cat": "coding",
+            "src": "macos",
+            "title": "codex",
+            "note": "com.openai.codex"
+          },
+          {
+            "start": "14:21",
+            "end": "14:26",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "14:27",
+            "end": "14:28",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Excel",
+            "note": "com.microsoft.Excel"
+          },
+          {
+            "start": "14:29",
+            "end": "14:32",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "14:32",
+            "end": "14:38",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Excel",
+            "note": "com.microsoft.Excel"
+          },
+          {
+            "start": "14:38",
+            "end": "14:39",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Excel",
+            "note": "com.microsoft.Excel"
+          },
+          {
+            "start": "14:39",
+            "end": "15:14",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:14",
+            "end": "15:24",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:24",
+            "end": "15:27",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Workspace Overview | Settings | OpenRouter",
+            "note": "openrouter.ai"
+          },
+          {
+            "start": "15:28",
+            "end": "15:33",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:33",
+            "end": "15:38",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Excel",
+            "note": "com.microsoft.Excel"
+          },
+          {
+            "start": "15:39",
+            "end": "16:03",
             "cat": "writing",
-            "src": "local",
-            "title": "reward.txt",
-            "note": "3 hits"
+            "src": "macos",
+            "title": "Create LaTeX tables online – TablesGenerator.com",
+            "note": "tablesgenerator.com"
+          },
+          {
+            "start": "16:03",
+            "end": "16:04",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:04",
+            "end": "16:10",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "35 hits"
+          },
+          {
+            "start": "16:11",
+            "end": "16:21",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:21",
+            "end": "16:24",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Excel",
+            "note": "com.microsoft.Excel"
+          },
+          {
+            "start": "16:24",
+            "end": "16:28",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:28",
+            "end": "16:33",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "52 hits"
+          },
+          {
+            "start": "16:33",
+            "end": "16:34",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Create LaTeX tables online – TablesGenerator.com",
+            "note": "tablesgenerator.com"
+          },
+          {
+            "start": "16:34",
+            "end": "16:58",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:59",
+            "end": "17:25",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "64 hits"
+          },
+          {
+            "start": "17:25",
+            "end": "18:06",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "18:06",
+            "end": "18:48",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Credits | OpenRouter",
+            "note": "openrouter.ai"
+          },
+          {
+            "start": "18:48",
+            "end": "18:54",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "20:01",
+            "end": "21:22",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "21:25",
+            "end": "21:29",
+            "cat": "admin",
+            "src": "macos",
+            "title": "[AINews] Reflection Beam - 501B-A23B American Open Model - a",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "21:29",
+            "end": "21:31",
+            "cat": "research",
+            "src": "macos",
+            "title": "‪Graham Neubig‬ - ‪Google Scholar‬",
+            "note": "scholar.google.com"
+          },
+          {
+            "start": "21:31",
+            "end": "21:38",
+            "cat": "coding",
+            "src": "macos",
+            "title": "OpenHands/OpenHands: 🙌 OpenHands: AI-Driven Development",
+            "note": "github.com"
+          },
+          {
+            "start": "21:38",
+            "end": "21:40",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "21:40",
+            "end": "21:43",
+            "cat": "coding",
+            "src": "macos",
+            "title": "OpenHands/OpenHands: 🙌 OpenHands: AI-Driven Development",
+            "note": "github.com"
+          },
+          {
+            "start": "21:44",
+            "end": "21:57",
+            "cat": "research",
+            "src": "macos",
+            "title": "NVIDIA-Nemotron-3-Ultra-Technical-Report.pdf",
+            "note": "research.nvidia.com"
+          },
+          {
+            "start": "21:57",
+            "end": "22:03",
+            "cat": "research",
+            "src": "macos",
+            "title": "SWE-Milestone: Evaluating AI Agentson Continuous Software Ev",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "22:03",
+            "end": "22:08",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(31) CMU AI Agents 2026: 7. Computer Use Agents - YouTube",
+            "note": "youtube.com"
+          },
+          {
+            "start": "22:08",
+            "end": "22:10",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(31) CMU AI Agents 2026: 8. Supervised Fine Tuning - YouTube",
+            "note": "youtube.com"
+          },
+          {
+            "start": "22:10",
+            "end": "22:53",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Yueqi Song",
+            "note": "yueqis.github.io"
+          },
+          {
+            "start": "22:54",
+            "end": "23:42",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "145 hits"
+          },
+          {
+            "start": "23:42",
+            "end": "00:05",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "00:41",
+            "end": "00:45",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "35 hits"
           }
         ],
-        "logged": 222,
-        "real": 222,
-        "deep": 222,
-        "ratio": 1.0,
+        "logged": 698,
+        "real": 526,
+        "deep": 526,
+        "ratio": 0.7532426630287804,
         "stats": {
-          "contextSwitches": 21,
+          "contextSwitches": 28,
           "tabsOpened": 0,
-          "longestFocus": "3h 42m",
-          "justOneMoreThing": 0
+          "longestFocus": "2h 23m",
+          "justOneMoreThing": 6
         }
       },
       {
@@ -90009,17 +89721,1170 @@
         "weekend": false,
         "dateShort": "Wed, Oct 7",
         "dateLong": "Wednesday, October 7",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "06:00",
+        "dayEnd": "10:28",
+        "events": [
+          {
+            "start": "06:00",
+            "end": "06:04",
+            "cat": "coding",
+            "src": "local",
+            "title": "solve.py",
+            "note": "1 hit"
+          },
+          {
+            "start": "06:04",
+            "end": "06:05",
+            "cat": "coding",
+            "src": "local",
+            "title": "solve.py",
+            "note": "1 hit"
+          },
+          {
+            "start": "06:05",
+            "end": "06:09",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "06:14",
+            "end": "06:17",
+            "cat": "coding",
+            "src": "local",
+            "title": "answer_task4.py",
+            "note": "2 hits"
+          },
+          {
+            "start": "06:18",
+            "end": "06:19",
+            "cat": "coding",
+            "src": "local",
+            "title": "answer_task4.py",
+            "note": "2 hits"
+          },
+          {
+            "start": "06:19",
+            "end": "06:20",
+            "cat": "coding",
+            "src": "local",
+            "title": "analyze.py",
+            "note": "2 hits"
+          },
+          {
+            "start": "06:21",
+            "end": "06:21",
+            "cat": "coding",
+            "src": "local",
+            "title": "analyze.py",
+            "note": "2 hits"
+          },
+          {
+            "start": "06:23",
+            "end": "06:25",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "5 hits"
+          },
+          {
+            "start": "06:27",
+            "end": "06:28",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "5 hits"
+          },
+          {
+            "start": "06:30",
+            "end": "06:30",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "06:31",
+            "end": "06:31",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "06:31",
+            "end": "06:32",
+            "cat": "coding",
+            "src": "local",
+            "title": "solve.js",
+            "note": "1 hit"
+          },
+          {
+            "start": "06:32",
+            "end": "06:34",
+            "cat": "coding",
+            "src": "local",
+            "title": "task4.js",
+            "note": "2 hits"
+          },
+          {
+            "start": "06:34",
+            "end": "06:35",
+            "cat": "coding",
+            "src": "local",
+            "title": "task5.js",
+            "note": "2 hits"
+          },
+          {
+            "start": "06:36",
+            "end": "06:38",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "5 hits"
+          },
+          {
+            "start": "06:40",
+            "end": "06:40",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "5 hits"
+          },
+          {
+            "start": "06:40",
+            "end": "06:43",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "5 hits"
+          },
+          {
+            "start": "06:46",
+            "end": "06:48",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "5 hits"
+          },
+          {
+            "start": "06:48",
+            "end": "06:48",
+            "cat": "coding",
+            "src": "local",
+            "title": "task2_result.json",
+            "note": "3 hits"
+          },
+          {
+            "start": "06:49",
+            "end": "06:49",
+            "cat": "coding",
+            "src": "local",
+            "title": "analyze.py",
+            "note": "3 hits"
+          },
+          {
+            "start": "06:49",
+            "end": "06:50",
+            "cat": "coding",
+            "src": "local",
+            "title": "analyze.py",
+            "note": "3 hits"
+          },
+          {
+            "start": "06:50",
+            "end": "06:52",
+            "cat": "coding",
+            "src": "local",
+            "title": "analyze.py",
+            "note": "3 hits"
+          },
+          {
+            "start": "06:52",
+            "end": "06:54",
+            "cat": "coding",
+            "src": "local",
+            "title": "analyze.py",
+            "note": "3 hits"
+          },
+          {
+            "start": "06:54",
+            "end": "06:55",
+            "cat": "coding",
+            "src": "local",
+            "title": "solve_task4.py",
+            "note": "1 hit"
+          },
+          {
+            "start": "06:55",
+            "end": "06:56",
+            "cat": "coding",
+            "src": "local",
+            "title": "solve_task5.py",
+            "note": "2 hits"
+          },
+          {
+            "start": "06:56",
+            "end": "06:57",
+            "cat": "writing",
+            "src": "local",
+            "title": "codex.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "06:57",
+            "end": "06:57",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "5 hits"
+          },
+          {
+            "start": "06:59",
+            "end": "07:02",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "5 hits"
+          },
+          {
+            "start": "07:04",
+            "end": "07:05",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "6 hits"
+          },
+          {
+            "start": "07:05",
+            "end": "07:08",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "6 hits"
+          },
+          {
+            "start": "07:08",
+            "end": "07:09",
+            "cat": "coding",
+            "src": "local",
+            "title": "rafa_july.py",
+            "note": "1 hit"
+          },
+          {
+            "start": "07:09",
+            "end": "07:10",
+            "cat": "coding",
+            "src": "local",
+            "title": "rafa_july.py",
+            "note": "1 hit"
+          },
+          {
+            "start": "07:10",
+            "end": "07:10",
+            "cat": "writing",
+            "src": "local",
+            "title": "codex.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "07:10",
+            "end": "07:13",
+            "cat": "coding",
+            "src": "local",
+            "title": "belles_july.py",
+            "note": "1 hit"
+          },
+          {
+            "start": "07:13",
+            "end": "07:14",
+            "cat": "writing",
+            "src": "local",
+            "title": "codex.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "07:16",
+            "end": "07:16",
+            "cat": "coding",
+            "src": "local",
+            "title": "solve.py",
+            "note": "1 hit"
+          },
+          {
+            "start": "07:16",
+            "end": "07:20",
+            "cat": "coding",
+            "src": "local",
+            "title": "solve.py",
+            "note": "1 hit"
+          },
+          {
+            "start": "07:21",
+            "end": "07:21",
+            "cat": "writing",
+            "src": "local",
+            "title": "codex.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "07:21",
+            "end": "07:25",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "07:27",
+            "end": "07:28",
+            "cat": "writing",
+            "src": "local",
+            "title": "README.md",
+            "note": "1 hit"
+          },
+          {
+            "start": "07:29",
+            "end": "07:31",
+            "cat": "writing",
+            "src": "local",
+            "title": "README.md",
+            "note": "1 hit"
+          },
+          {
+            "start": "07:32",
+            "end": "07:33",
+            "cat": "writing",
+            "src": "local",
+            "title": "codex.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "07:34",
+            "end": "07:35",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "9 hits"
+          },
+          {
+            "start": "07:35",
+            "end": "07:36",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "9 hits"
+          },
+          {
+            "start": "07:36",
+            "end": "07:38",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "9 hits"
+          },
+          {
+            "start": "07:38",
+            "end": "07:39",
+            "cat": "writing",
+            "src": "local",
+            "title": "codex.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "07:40",
+            "end": "07:41",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "07:41",
+            "end": "07:43",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "07:44",
+            "end": "07:44",
+            "cat": "coding",
+            "src": "local",
+            "title": "task5_crossfit_nov.py",
+            "note": "1 hit"
+          },
+          {
+            "start": "07:45",
+            "end": "07:46",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "5 hits"
+          },
+          {
+            "start": "07:46",
+            "end": "07:48",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "5 hits"
+          },
+          {
+            "start": "07:51",
+            "end": "07:52",
+            "cat": "writing",
+            "src": "local",
+            "title": "codex.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "07:52",
+            "end": "07:53",
+            "cat": "writing",
+            "src": "local",
+            "title": "codex.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "07:53",
+            "end": "07:54",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "07:54",
+            "end": "07:55",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "07:55",
+            "end": "07:56",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "07:57",
+            "end": "07:58",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "5 hits"
+          },
+          {
+            "start": "07:58",
+            "end": "07:59",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "5 hits"
+          },
+          {
+            "start": "07:59",
+            "end": "08:00",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "5 hits"
+          },
+          {
+            "start": "08:00",
+            "end": "08:01",
+            "cat": "writing",
+            "src": "local",
+            "title": "codex.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "08:02",
+            "end": "08:03",
+            "cat": "writing",
+            "src": "local",
+            "title": "codex.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "08:03",
+            "end": "08:04",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "08:05",
+            "end": "08:05",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "08:05",
+            "end": "08:07",
+            "cat": "writing",
+            "src": "local",
+            "title": "codex.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "08:08",
+            "end": "08:09",
+            "cat": "writing",
+            "src": "local",
+            "title": "codex.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "08:09",
+            "end": "08:11",
+            "cat": "coding",
+            "src": "local",
+            "title": "solve.py",
+            "note": "1 hit"
+          },
+          {
+            "start": "08:11",
+            "end": "08:12",
+            "cat": "coding",
+            "src": "local",
+            "title": "solve.py",
+            "note": "1 hit"
+          },
+          {
+            "start": "08:13",
+            "end": "08:15",
+            "cat": "coding",
+            "src": "local",
+            "title": "solve.py",
+            "note": "1 hit"
+          },
+          {
+            "start": "08:15",
+            "end": "08:16",
+            "cat": "coding",
+            "src": "local",
+            "title": "solve.py",
+            "note": "1 hit"
+          },
+          {
+            "start": "08:16",
+            "end": "08:17",
+            "cat": "coding",
+            "src": "local",
+            "title": "solve.js",
+            "note": "1 hit"
+          },
+          {
+            "start": "08:18",
+            "end": "08:18",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "08:18",
+            "end": "08:19",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "08:19",
+            "end": "08:20",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "08:20",
+            "end": "08:22",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "5 hits"
+          },
+          {
+            "start": "08:24",
+            "end": "08:25",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "08:25",
+            "end": "08:26",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "5 hits"
+          },
+          {
+            "start": "08:26",
+            "end": "08:27",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "5 hits"
+          },
+          {
+            "start": "08:27",
+            "end": "08:28",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "5 hits"
+          },
+          {
+            "start": "08:28",
+            "end": "08:30",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "08:30",
+            "end": "08:31",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "08:32",
+            "end": "08:35",
+            "cat": "coding",
+            "src": "local",
+            "title": "analyze_fees.py",
+            "note": "1 hit"
+          },
+          {
+            "start": "08:35",
+            "end": "08:36",
+            "cat": "coding",
+            "src": "local",
+            "title": "analyze_fees.py",
+            "note": "1 hit"
+          },
+          {
+            "start": "08:37",
+            "end": "08:40",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "5 hits"
+          },
+          {
+            "start": "08:42",
+            "end": "08:45",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "5 hits"
+          },
+          {
+            "start": "08:47",
+            "end": "08:49",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "5 hits"
+          },
+          {
+            "start": "08:49",
+            "end": "08:51",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "5 hits"
+          },
+          {
+            "start": "08:51",
+            "end": "08:53",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "5 hits"
+          },
+          {
+            "start": "08:54",
+            "end": "08:55",
+            "cat": "coding",
+            "src": "local",
+            "title": "compute_answer.py",
+            "note": "1 hit"
+          },
+          {
+            "start": "08:56",
+            "end": "08:56",
+            "cat": "writing",
+            "src": "local",
+            "title": "codex.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "08:56",
+            "end": "08:57",
+            "cat": "coding",
+            "src": "local",
+            "title": "compute_golf.py",
+            "note": "1 hit"
+          },
+          {
+            "start": "08:57",
+            "end": "08:58",
+            "cat": "coding",
+            "src": "local",
+            "title": "compute_golf.py",
+            "note": "1 hit"
+          },
+          {
+            "start": "08:58",
+            "end": "08:59",
+            "cat": "coding",
+            "src": "local",
+            "title": "compute_martinis.py",
+            "note": "1 hit"
+          },
+          {
+            "start": "09:00",
+            "end": "09:00",
+            "cat": "coding",
+            "src": "local",
+            "title": "compute_martinis.py",
+            "note": "1 hit"
+          },
+          {
+            "start": "09:01",
+            "end": "09:02",
+            "cat": "coding",
+            "src": "local",
+            "title": "compute_rafa.py",
+            "note": "1 hit"
+          },
+          {
+            "start": "09:02",
+            "end": "09:04",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "5 hits"
+          },
+          {
+            "start": "09:05",
+            "end": "09:06",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "09:06",
+            "end": "09:07",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "09:07",
+            "end": "09:08",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "5 hits"
+          },
+          {
+            "start": "09:08",
+            "end": "09:08",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "5 hits"
+          },
+          {
+            "start": "09:09",
+            "end": "09:10",
+            "cat": "writing",
+            "src": "local",
+            "title": "reward.txt",
+            "note": "3 hits"
+          },
+          {
+            "start": "09:10",
+            "end": "09:11",
+            "cat": "coding",
+            "src": "local",
+            "title": "solve_task3.py",
+            "note": "1 hit"
+          },
+          {
+            "start": "09:13",
+            "end": "09:15",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "8 hits"
+          },
+          {
+            "start": "09:15",
+            "end": "09:16",
+            "cat": "writing",
+            "src": "local",
+            "title": "README.md",
+            "note": "6 hits"
+          },
+          {
+            "start": "09:16",
+            "end": "09:16",
+            "cat": "writing",
+            "src": "local",
+            "title": "README.md",
+            "note": "6 hits"
+          },
+          {
+            "start": "09:18",
+            "end": "09:19",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "13 hits"
+          },
+          {
+            "start": "09:19",
+            "end": "09:20",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "13 hits"
+          },
+          {
+            "start": "09:21",
+            "end": "09:21",
+            "cat": "coding",
+            "src": "local",
+            "title": "remote-settings.json",
+            "note": "4 hits"
+          },
+          {
+            "start": "09:22",
+            "end": "09:23",
+            "cat": "writing",
+            "src": "local",
+            "title": "claude-code.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "09:24",
+            "end": "09:24",
+            "cat": "coding",
+            "src": "local",
+            "title": "remote-settings.json",
+            "note": "4 hits"
+          },
+          {
+            "start": "09:24",
+            "end": "09:25",
+            "cat": "writing",
+            "src": "local",
+            "title": "claude-code.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "09:26",
+            "end": "09:28",
+            "cat": "writing",
+            "src": "local",
+            "title": "claude-code.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "09:28",
+            "end": "09:30",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "8 hits"
+          },
+          {
+            "start": "09:30",
+            "end": "09:30",
+            "cat": "writing",
+            "src": "local",
+            "title": "README.md",
+            "note": "2 hits"
+          },
+          {
+            "start": "09:32",
+            "end": "09:33",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "11 hits"
+          },
+          {
+            "start": "09:33",
+            "end": "09:34",
+            "cat": "coding",
+            "src": "local",
+            "title": "remote-settings.json",
+            "note": "10 hits"
+          },
+          {
+            "start": "09:34",
+            "end": "09:36",
+            "cat": "coding",
+            "src": "local",
+            "title": "remote-settings.json",
+            "note": "10 hits"
+          },
+          {
+            "start": "09:37",
+            "end": "09:38",
+            "cat": "writing",
+            "src": "local",
+            "title": "claude-code.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "09:39",
+            "end": "09:40",
+            "cat": "writing",
+            "src": "local",
+            "title": "claude-code.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "09:40",
+            "end": "09:41",
+            "cat": "writing",
+            "src": "local",
+            "title": "claude-code.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "09:41",
+            "end": "09:42",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "8 hits"
+          },
+          {
+            "start": "09:42",
+            "end": "09:43",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "8 hits"
+          },
+          {
+            "start": "09:46",
+            "end": "09:47",
+            "cat": "writing",
+            "src": "local",
+            "title": "claude-code.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "09:47",
+            "end": "09:48",
+            "cat": "writing",
+            "src": "local",
+            "title": "claude-code.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "09:50",
+            "end": "09:51",
+            "cat": "writing",
+            "src": "local",
+            "title": "claude-code.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "09:51",
+            "end": "09:52",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "9 hits"
+          },
+          {
+            "start": "09:52",
+            "end": "09:53",
+            "cat": "coding",
+            "src": "local",
+            "title": "result.json",
+            "note": "9 hits"
+          },
+          {
+            "start": "09:55",
+            "end": "09:57",
+            "cat": "writing",
+            "src": "local",
+            "title": "claude-code.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "09:57",
+            "end": "09:58",
+            "cat": "coding",
+            "src": "local",
+            "title": "remote-settings.json",
+            "note": "4 hits"
+          },
+          {
+            "start": "09:58",
+            "end": "09:59",
+            "cat": "writing",
+            "src": "local",
+            "title": "claude-code.txt",
+            "note": "1 hit"
+          },
+          {
+            "start": "09:59",
+            "end": "10:00",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Workspace Overview | Settings | OpenRouter",
+            "note": "openrouter.ai"
+          },
+          {
+            "start": "10:01",
+            "end": "10:01",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Workspace Overview | Settings | OpenRouter",
+            "note": "openrouter.ai"
+          },
+          {
+            "start": "10:02",
+            "end": "10:03",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Workspace Overview | Settings | OpenRouter",
+            "note": "openrouter.ai"
+          },
+          {
+            "start": "10:03",
+            "end": "10:05",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Workspace Overview | Settings | OpenRouter",
+            "note": "openrouter.ai"
+          },
+          {
+            "start": "10:06",
+            "end": "10:07",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "Workspace Overview | Settings | OpenRouter",
+            "note": "openrouter.ai"
+          },
+          {
+            "start": "10:07",
+            "end": "10:08",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Week 9 recorded lectu",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "10:08",
+            "end": "10:09",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Week 9 recorded lectu",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "10:09",
+            "end": "10:10",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Week 9 recorded lectu",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "10:11",
+            "end": "10:12",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Week 9 recorded lectu",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "10:12",
+            "end": "10:14",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Week 9 recorded lectu",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "10:14",
+            "end": "10:15",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Week 9 recorded lectu",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "10:17",
+            "end": "10:19",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Week 9 recorded lectu",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "10:20",
+            "end": "10:21",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Week 9 recorded lectu",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "10:22",
+            "end": "10:24",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Week 9 recorded lectu",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "10:25",
+            "end": "10:28",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Week 9 recorded lectu",
+            "note": "ilearn.mq.edu.au"
+          }
+        ],
+        "logged": 184,
+        "real": 169,
+        "deep": 169,
+        "ratio": 0.9183380486273818,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "0m",
+          "contextSwitches": 47,
+          "tabsOpened": 45,
+          "longestFocus": "2h 49m",
           "justOneMoreThing": 0
         }
       },
@@ -91842,466 +92707,466 @@
       "weekend": true
     },
     {
-      "key": "2026-10-5",
-      "dayNum": 5,
-      "dow": 1,
-      "weekend": false,
-      "dateShort": "Mon, Oct 5",
       "dateLong": "Monday, October 5",
-      "dayStart": "10:21",
+      "dateShort": "Mon, Oct 5",
       "dayEnd": "22:37",
+      "dayNum": 5,
+      "dayStart": "10:21",
+      "deep": 409,
+      "dow": 1,
       "events": [
         {
-          "start": "10:21",
+          "cat": "coding",
           "end": "12:12",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "10:21",
+          "title": "VSCode"
         },
         {
-          "start": "12:13",
+          "cat": "coding",
           "end": "12:14",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "12:13",
+          "title": "VSCode"
         },
         {
-          "start": "12:14",
+          "cat": "coding",
           "end": "12:17",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "12:14",
+          "title": "VSCode"
         },
         {
-          "start": "12:17",
+          "cat": "admin",
           "end": "12:20",
-          "cat": "admin",
+          "note": "com.microsoft.Excel",
           "src": "macos",
-          "title": "Excel",
-          "note": "com.microsoft.Excel"
+          "start": "12:17",
+          "title": "Excel"
         },
         {
-          "start": "12:21",
+          "cat": "admin",
           "end": "12:26",
-          "cat": "admin",
+          "note": "com.microsoft.Excel",
           "src": "macos",
-          "title": "Excel",
-          "note": "com.microsoft.Excel"
+          "start": "12:21",
+          "title": "Excel"
         },
         {
-          "start": "12:26",
+          "cat": "admin",
           "end": "12:30",
-          "cat": "admin",
+          "note": "com.microsoft.Excel",
           "src": "macos",
-          "title": "Excel",
-          "note": "com.microsoft.Excel"
+          "start": "12:26",
+          "title": "Excel"
         },
         {
-          "start": "12:31",
+          "cat": "admin",
           "end": "12:35",
-          "cat": "admin",
+          "note": "com.microsoft.Excel",
           "src": "macos",
-          "title": "Excel",
-          "note": "com.microsoft.Excel"
+          "start": "12:31",
+          "title": "Excel"
         },
         {
-          "start": "12:35",
+          "cat": "admin",
           "end": "12:39",
-          "cat": "admin",
+          "note": "com.microsoft.Excel",
           "src": "macos",
-          "title": "Excel",
-          "note": "com.microsoft.Excel"
+          "start": "12:35",
+          "title": "Excel"
         },
         {
-          "start": "12:39",
+          "cat": "coding",
           "end": "12:43",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "12:39",
+          "title": "VSCode"
         },
         {
-          "start": "12:43",
+          "cat": "admin",
           "end": "12:44",
-          "cat": "admin",
+          "note": "com.microsoft.Excel",
           "src": "macos",
-          "title": "Excel",
-          "note": "com.microsoft.Excel"
+          "start": "12:43",
+          "title": "Excel"
         },
         {
-          "start": "12:44",
+          "cat": "admin",
           "end": "12:50",
-          "cat": "admin",
+          "note": "com.microsoft.Excel",
           "src": "macos",
-          "title": "Excel",
-          "note": "com.microsoft.Excel"
+          "start": "12:44",
+          "title": "Excel"
         },
         {
-          "start": "12:50",
+          "cat": "coding",
           "end": "12:51",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "12:50",
+          "title": "VSCode"
         },
         {
-          "start": "12:54",
+          "cat": "admin",
           "end": "12:58",
-          "cat": "admin",
+          "note": "com.tinyspeck.slackmacgap",
           "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "start": "12:54",
+          "title": "slackmacgap"
         },
         {
-          "start": "12:58",
+          "cat": "coding",
           "end": "13:01",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "12:58",
+          "title": "VSCode"
         },
         {
-          "start": "13:04",
+          "cat": "admin",
           "end": "13:06",
-          "cat": "admin",
+          "note": "com.tinyspeck.slackmacgap",
           "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "start": "13:04",
+          "title": "slackmacgap"
         },
         {
-          "start": "13:07",
+          "cat": "coding",
           "end": "13:26",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "13:07",
+          "title": "VSCode"
         },
         {
-          "start": "13:26",
+          "cat": "coding",
           "end": "13:46",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "13:26",
+          "title": "VSCode"
         },
         {
-          "start": "13:47",
+          "cat": "coding",
           "end": "13:48",
-          "cat": "coding",
+          "note": "40 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "40 hits"
+          "start": "13:47",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "13:48",
+          "cat": "coding",
           "end": "13:49",
-          "cat": "coding",
+          "note": "40 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "40 hits"
+          "start": "13:48",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "13:51",
+          "cat": "coding",
           "end": "13:55",
-          "cat": "coding",
+          "note": "17 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "17 hits"
+          "start": "13:51",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "14:02",
+          "cat": "research",
           "end": "14:03",
-          "cat": "research",
+          "note": "dblp.org",
           "src": "macos",
-          "title": "dblp: computer science bibliography",
-          "note": "dblp.org"
+          "start": "14:02",
+          "title": "dblp: computer science bibliography"
         },
         {
-          "start": "14:04",
+          "cat": "research",
           "end": "14:06",
-          "cat": "research",
+          "note": "dblp.org",
           "src": "macos",
-          "title": "dblp: Ada Ren",
-          "note": "dblp.org"
+          "start": "14:04",
+          "title": "dblp: Ada Ren"
         },
         {
-          "start": "14:06",
+          "cat": "research",
           "end": "14:09",
-          "cat": "research",
+          "note": "openreview.net",
           "src": "macos",
-          "title": "| OpenReview",
-          "note": "openreview.net"
+          "start": "14:06",
+          "title": "| OpenReview"
         },
         {
-          "start": "14:10",
+          "cat": "research",
           "end": "14:11",
-          "cat": "research",
+          "note": "openreview.net",
           "src": "macos",
-          "title": "Edit Profile | OpenReview",
-          "note": "openreview.net"
+          "start": "14:10",
+          "title": "Edit Profile | OpenReview"
         },
         {
-          "start": "14:13",
+          "cat": "research",
           "end": "14:15",
-          "cat": "research",
+          "note": "openreview.net",
           "src": "macos",
-          "title": "| OpenReview",
-          "note": "openreview.net"
+          "start": "14:13",
+          "title": "| OpenReview"
         },
         {
-          "start": "14:15",
+          "cat": "admin",
           "end": "14:19",
-          "cat": "admin",
+          "note": "linkedin.com",
           "src": "macos",
-          "title": "Feed | LinkedIn",
-          "note": "linkedin.com"
+          "start": "14:15",
+          "title": "Feed | LinkedIn"
         },
         {
-          "start": "14:19",
+          "cat": "research",
           "end": "14:22",
-          "cat": "research",
+          "note": "openreview.net",
           "src": "macos",
-          "title": "Search | OpenReview",
-          "note": "openreview.net"
+          "start": "14:19",
+          "title": "Search | OpenReview"
         },
         {
-          "start": "14:22",
-          "end": "14:23",
           "cat": "admin",
+          "end": "14:23",
+          "note": "com.tinyspeck.slackmacgap",
           "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "start": "14:22",
+          "title": "slackmacgap"
         },
         {
-          "start": "14:24",
+          "cat": "research",
           "end": "14:25",
-          "cat": "research",
+          "note": "aclrollingreview.org",
           "src": "macos",
-          "title": "ARR service qualifications – ACL Rolling Review",
-          "note": "aclrollingreview.org"
+          "start": "14:24",
+          "title": "ARR service qualifications – ACL Rolling Review"
         },
         {
-          "start": "14:25",
+          "cat": "coding",
           "end": "14:56",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "14:25",
+          "title": "VSCode"
         },
         {
-          "start": "14:56",
+          "cat": "writing",
           "end": "16:09",
-          "cat": "writing",
+          "note": "overleaf.com",
           "src": "macos",
-          "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf",
-          "note": "overleaf.com"
+          "start": "14:56",
+          "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf"
         },
         {
-          "start": "16:09",
+          "cat": "research",
           "end": "16:13",
-          "cat": "research",
+          "note": "chatgpt.com",
           "src": "macos",
-          "title": "Polish Introduction Writing",
-          "note": "chatgpt.com"
+          "start": "16:09",
+          "title": "Polish Introduction Writing"
         },
         {
+          "cat": "coding",
+          "end": "16:16",
+          "note": "com.openai.codex",
+          "src": "macos",
           "start": "16:14",
-          "end": "16:16",
-          "cat": "coding",
-          "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "title": "codex"
         },
         {
+          "cat": "research",
+          "end": "16:16",
+          "note": "chatgpt.com",
+          "src": "macos",
           "start": "16:16",
-          "end": "16:16",
-          "cat": "research",
-          "src": "macos",
-          "title": "ChatGPT",
-          "note": "chatgpt.com"
+          "title": "ChatGPT"
         },
         {
-          "start": "16:17",
+          "cat": "research",
           "end": "17:07",
-          "cat": "research",
+          "note": "chatgpt.com",
           "src": "macos",
-          "title": "Revise Introduction",
-          "note": "chatgpt.com"
+          "start": "16:17",
+          "title": "Revise Introduction"
         },
         {
-          "start": "17:07",
+          "cat": "personal",
           "end": "17:09",
-          "cat": "personal",
+          "note": "chrome-extension://fcoeoabgfenejglbffodg",
           "src": "macos",
-          "title": "Claude for Chrome",
-          "note": "chrome-extension://fcoeoabgfenejglbffodg"
+          "start": "17:07",
+          "title": "Claude for Chrome"
         },
         {
-          "start": "17:10",
+          "cat": "personal",
           "end": "17:37",
-          "cat": "personal",
+          "note": "chrome-extension://fcoeoabgfenejglbffodg",
           "src": "macos",
-          "title": "Claude for Chrome",
-          "note": "chrome-extension://fcoeoabgfenejglbffodg"
+          "start": "17:10",
+          "title": "Claude for Chrome"
         },
         {
-          "start": "17:37",
+          "cat": "research",
           "end": "17:38",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "GDPval: Evaluating AI Model Performance on Real-World Econom",
-          "note": "arxiv.org"
+          "start": "17:37",
+          "title": "GDPval: Evaluating AI Model Performance on Real-World Econom"
         },
         {
-          "start": "18:04",
+          "cat": "research",
           "end": "18:12",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "GDPval: Evaluating AI Model Performance on Real-World Econom",
-          "note": "arxiv.org"
+          "start": "18:04",
+          "title": "GDPval: Evaluating AI Model Performance on Real-World Econom"
         },
         {
-          "start": "18:12",
+          "cat": "research",
           "end": "18:21",
-          "cat": "research",
+          "note": "chatgpt.com",
           "src": "macos",
-          "title": "文献是否过时",
-          "note": "chatgpt.com"
+          "start": "18:12",
+          "title": "文献是否过时"
         },
         {
-          "start": "18:21",
-          "end": "18:23",
           "cat": "writing",
+          "end": "18:23",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Progress Updates - Google Sheets",
-          "note": "docs.google.com"
+          "start": "18:21",
+          "title": "Progress Updates - Google Sheets"
         },
         {
-          "start": "18:23",
+          "cat": "coding",
           "end": "18:24",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "18:23",
+          "title": "VSCode"
         },
         {
-          "start": "18:24",
+          "cat": "research",
           "end": "18:25",
-          "cat": "research",
+          "note": "openreview.net",
           "src": "macos",
-          "title": "494_SkillLearnBench_Benchmarki.pdf",
-          "note": "openreview.net"
+          "start": "18:24",
+          "title": "494_SkillLearnBench_Benchmarki.pdf"
         },
         {
-          "start": "18:27",
+          "cat": "research",
           "end": "18:32",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "[2409.07703] DSBench: How Far Are Data Science Agents from B",
-          "note": "arxiv.org"
+          "start": "18:27",
+          "title": "[2409.07703] DSBench: How Far Are Data Science Agents from B"
         },
         {
-          "start": "18:32",
+          "cat": "research",
           "end": "18:33",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "BLADE: Benchmarking Language Model Agents for Data-Driven Sc",
-          "note": "arxiv.org"
+          "start": "18:32",
+          "title": "BLADE: Benchmarking Language Model Agents for Data-Driven Sc"
         },
         {
-          "start": "18:33",
+          "cat": "research",
           "end": "18:47",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "2410.07095v6.pdf",
-          "note": "arxiv.org"
+          "start": "18:33",
+          "title": "2410.07095v6.pdf"
         },
         {
-          "start": "18:47",
+          "cat": "coding",
           "end": "18:51",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "18:47",
+          "title": "VSCode"
         },
         {
-          "start": "18:51",
+          "cat": "research",
           "end": "18:54",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "2410.07095v6.pdf",
-          "note": "arxiv.org"
+          "start": "18:51",
+          "title": "2410.07095v6.pdf"
         },
         {
-          "start": "18:54",
+          "cat": "coding",
           "end": "18:58",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "18:54",
+          "title": "VSCode"
         },
         {
-          "start": "18:58",
+          "cat": "coding",
           "end": "19:00",
-          "cat": "coding",
+          "note": "36 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "36 hits"
+          "start": "18:58",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "19:00",
-          "end": "19:04",
           "cat": "research",
+          "end": "19:04",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "2410.07095v6.pdf",
-          "note": "arxiv.org"
+          "start": "19:00",
+          "title": "2410.07095v6.pdf"
         },
         {
-          "start": "19:04",
+          "cat": "coding",
           "end": "19:08",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "19:04",
+          "title": "VSCode"
         },
         {
-          "start": "19:13",
+          "cat": "coding",
           "end": "19:16",
-          "cat": "coding",
+          "note": "10 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "10 hits"
+          "start": "19:13",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "20:08",
+          "cat": "coding",
           "end": "20:11",
-          "cat": "coding",
+          "note": "27 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "27 hits"
+          "start": "20:08",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "22:33",
-          "end": "22:37",
           "cat": "coding",
+          "end": "22:37",
+          "note": "28 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "28 hits"
+          "start": "22:33",
+          "title": "Claude session · harbor"
         }
       ],
+      "key": "2026-10-5",
       "logged": 477,
-      "real": 409,
-      "deep": 409,
       "ratio": 0.8584446243152751,
+      "real": 409,
       "stats": {
         "contextSwitches": 28,
-        "tabsOpened": 0,
+        "justOneMoreThing": 4,
         "longestFocus": "2h 40m",
-        "justOneMoreThing": 4
-      }
+        "tabsOpened": 0
+      },
+      "weekend": false
     },
     {
       "key": "2026-10-6",
@@ -92310,707 +93175,419 @@
       "weekend": false,
       "dateShort": "Tue, Oct 6",
       "dateLong": "Tuesday, October 6",
-      "dayStart": "06:00",
-      "dayEnd": "10:24",
+      "dayStart": "10:11",
+      "dayEnd": "00:45",
       "events": [
         {
-          "start": "06:00",
-          "end": "06:03",
-          "cat": "coding",
-          "src": "local",
-          "title": "trajectory.json",
-          "note": "3 hits"
-        },
-        {
-          "start": "06:03",
-          "end": "06:05",
-          "cat": "coding",
-          "src": "local",
-          "title": "trajectory.json",
-          "note": "3 hits"
-        },
-        {
-          "start": "06:05",
-          "end": "06:07",
-          "cat": "writing",
-          "src": "local",
-          "title": "hermes.txt",
-          "note": "1 hit"
-        },
-        {
-          "start": "06:07",
-          "end": "06:08",
-          "cat": "writing",
-          "src": "local",
-          "title": "hermes.txt",
-          "note": "1 hit"
-        },
-        {
-          "start": "06:08",
-          "end": "06:11",
-          "cat": "writing",
-          "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
-        },
-        {
-          "start": "06:11",
-          "end": "06:12",
-          "cat": "writing",
-          "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
-        },
-        {
-          "start": "06:12",
-          "end": "06:13",
-          "cat": "writing",
-          "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
-        },
-        {
-          "start": "06:13",
-          "end": "06:16",
-          "cat": "writing",
-          "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
-        },
-        {
-          "start": "06:16",
-          "end": "06:16",
-          "cat": "writing",
-          "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
-        },
-        {
-          "start": "06:16",
-          "end": "06:18",
-          "cat": "writing",
-          "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
-        },
-        {
-          "start": "06:18",
-          "end": "06:20",
-          "cat": "coding",
-          "src": "local",
-          "title": "inspect_rules.py",
-          "note": "16 hits"
-        },
-        {
-          "start": "06:20",
-          "end": "06:21",
-          "cat": "coding",
-          "src": "local",
-          "title": "inspect_rules.py",
-          "note": "16 hits"
-        },
-        {
-          "start": "06:21",
-          "end": "06:25",
-          "cat": "writing",
-          "src": "local",
-          "title": "hermes.txt",
-          "note": "1 hit"
-        },
-        {
-          "start": "06:25",
-          "end": "06:27",
-          "cat": "writing",
-          "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
-        },
-        {
-          "start": "06:27",
-          "end": "06:32",
-          "cat": "writing",
-          "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
-        },
-        {
-          "start": "06:32",
-          "end": "06:35",
-          "cat": "writing",
-          "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
-        },
-        {
-          "start": "06:35",
-          "end": "06:37",
-          "cat": "writing",
-          "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
-        },
-        {
-          "start": "06:37",
-          "end": "06:37",
-          "cat": "writing",
-          "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
-        },
-        {
-          "start": "06:38",
-          "end": "06:40",
-          "cat": "writing",
-          "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
-        },
-        {
-          "start": "06:40",
-          "end": "06:42",
-          "cat": "writing",
-          "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
-        },
-        {
-          "start": "06:43",
-          "end": "06:44",
-          "cat": "writing",
-          "src": "local",
-          "title": "hermes.txt",
-          "note": "1 hit"
-        },
-        {
-          "start": "06:44",
-          "end": "06:45",
-          "cat": "writing",
-          "src": "local",
-          "title": "hermes.txt",
-          "note": "1 hit"
-        },
-        {
-          "start": "06:45",
-          "end": "06:48",
-          "cat": "writing",
-          "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
-        },
-        {
-          "start": "06:48",
-          "end": "06:49",
-          "cat": "writing",
-          "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
-        },
-        {
-          "start": "06:49",
-          "end": "06:50",
-          "cat": "writing",
-          "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
-        },
-        {
-          "start": "06:50",
-          "end": "06:53",
-          "cat": "writing",
-          "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
-        },
-        {
-          "start": "06:53",
-          "end": "06:55",
-          "cat": "writing",
-          "src": "local",
-          "title": "hermes.txt",
-          "note": "1 hit"
-        },
-        {
-          "start": "06:55",
-          "end": "06:58",
-          "cat": "writing",
-          "src": "local",
-          "title": "hermes.txt",
-          "note": "1 hit"
-        },
-        {
-          "start": "06:58",
-          "end": "06:59",
-          "cat": "writing",
-          "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
-        },
-        {
-          "start": "06:59",
-          "end": "07:00",
-          "cat": "writing",
-          "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
-        },
-        {
-          "start": "07:00",
-          "end": "07:01",
-          "cat": "writing",
-          "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
-        },
-        {
-          "start": "07:01",
-          "end": "07:03",
-          "cat": "writing",
-          "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
-        },
-        {
-          "start": "07:03",
-          "end": "07:04",
-          "cat": "writing",
-          "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
-        },
-        {
-          "start": "07:04",
-          "end": "07:06",
-          "cat": "writing",
-          "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
-        },
-        {
-          "start": "07:06",
-          "end": "07:06",
-          "cat": "coding",
-          "src": "local",
-          "title": "result.json",
-          "note": "7 hits"
-        },
-        {
-          "start": "07:06",
-          "end": "07:08",
-          "cat": "coding",
-          "src": "local",
-          "title": "result.json",
-          "note": "7 hits"
-        },
-        {
-          "start": "07:10",
-          "end": "07:10",
-          "cat": "coding",
-          "src": "local",
-          "title": "calc_day300.py",
-          "note": "3 hits"
-        },
-        {
-          "start": "07:11",
-          "end": "07:13",
-          "cat": "coding",
-          "src": "local",
-          "title": "calc_day365.py",
-          "note": "2 hits"
-        },
-        {
-          "start": "07:13",
-          "end": "07:14",
-          "cat": "coding",
-          "src": "local",
-          "title": "solve.py",
-          "note": "1 hit"
-        },
-        {
-          "start": "07:15",
-          "end": "07:15",
-          "cat": "coding",
-          "src": "local",
-          "title": "run_task5.py",
-          "note": "1 hit"
-        },
-        {
-          "start": "07:16",
-          "end": "07:18",
-          "cat": "writing",
-          "src": "local",
-          "title": "hermes.txt",
-          "note": "1 hit"
-        },
-        {
-          "start": "07:18",
-          "end": "07:20",
-          "cat": "writing",
-          "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
-        },
-        {
-          "start": "07:20",
-          "end": "07:21",
-          "cat": "writing",
-          "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
-        },
-        {
-          "start": "07:21",
-          "end": "07:23",
-          "cat": "writing",
-          "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
-        },
-        {
-          "start": "07:23",
-          "end": "07:25",
-          "cat": "writing",
-          "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
-        },
-        {
-          "start": "07:25",
-          "end": "07:26",
-          "cat": "writing",
-          "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
-        },
-        {
-          "start": "07:26",
-          "end": "07:31",
-          "cat": "coding",
-          "src": "local",
-          "title": "result.json",
-          "note": "5 hits"
-        },
-        {
-          "start": "07:31",
-          "end": "07:36",
-          "cat": "coding",
-          "src": "local",
-          "title": "result.json",
-          "note": "5 hits"
-        },
-        {
-          "start": "07:37",
-          "end": "07:42",
-          "cat": "coding",
-          "src": "local",
-          "title": "solution.py",
-          "note": "1 hit"
-        },
-        {
-          "start": "07:43",
-          "end": "07:48",
-          "cat": "coding",
-          "src": "local",
-          "title": "solution.py",
-          "note": "1 hit"
-        },
-        {
-          "start": "07:49",
-          "end": "07:54",
-          "cat": "coding",
-          "src": "local",
-          "title": "solution.py",
-          "note": "1 hit"
-        },
-        {
-          "start": "07:54",
-          "end": "07:55",
-          "cat": "coding",
-          "src": "local",
-          "title": "solution.py",
-          "note": "1 hit"
-        },
-        {
-          "start": "07:55",
-          "end": "07:59",
-          "cat": "coding",
-          "src": "local",
-          "title": "solution.py",
-          "note": "1 hit"
-        },
-        {
-          "start": "07:59",
-          "end": "08:00",
-          "cat": "writing",
-          "src": "local",
-          "title": "codex.txt",
-          "note": "1 hit"
-        },
-        {
-          "start": "08:00",
-          "end": "08:05",
-          "cat": "coding",
-          "src": "local",
-          "title": "result.json",
-          "note": "5 hits"
-        },
-        {
-          "start": "08:05",
-          "end": "08:06",
-          "cat": "coding",
-          "src": "local",
-          "title": "result.json",
-          "note": "5 hits"
-        },
-        {
-          "start": "08:06",
-          "end": "08:09",
-          "cat": "coding",
-          "src": "local",
-          "title": "result.json",
-          "note": "5 hits"
-        },
-        {
-          "start": "08:09",
-          "end": "08:10",
-          "cat": "writing",
-          "src": "local",
-          "title": "codex.txt",
-          "note": "1 hit"
-        },
-        {
-          "start": "08:10",
-          "end": "08:11",
-          "cat": "writing",
-          "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
-        },
-        {
-          "start": "08:11",
-          "end": "08:16",
-          "cat": "coding",
-          "src": "local",
-          "title": "calculate_fees.py",
-          "note": "1 hit"
-        },
-        {
-          "start": "08:17",
-          "end": "08:22",
-          "cat": "coding",
-          "src": "local",
-          "title": "calculate_fees.py",
-          "note": "1 hit"
-        },
-        {
-          "start": "08:23",
-          "end": "08:28",
-          "cat": "coding",
-          "src": "local",
-          "title": "calculate_fees.py",
-          "note": "1 hit"
-        },
-        {
-          "start": "08:31",
-          "end": "08:36",
-          "cat": "writing",
-          "src": "local",
-          "title": "codex.txt",
-          "note": "1 hit"
-        },
-        {
-          "start": "08:39",
-          "end": "08:44",
-          "cat": "coding",
-          "src": "local",
-          "title": "calculate_fees.py",
-          "note": "1 hit"
-        },
-        {
-          "start": "08:47",
-          "end": "08:52",
-          "cat": "coding",
-          "src": "local",
-          "title": "solution.py",
-          "note": "1 hit"
-        },
-        {
-          "start": "08:54",
-          "end": "08:58",
-          "cat": "coding",
-          "src": "local",
-          "title": "solution.py",
-          "note": "1 hit"
-        },
-        {
-          "start": "08:59",
-          "end": "09:04",
-          "cat": "coding",
-          "src": "local",
-          "title": "run_task5.py",
-          "note": "1 hit"
-        },
-        {
-          "start": "09:09",
-          "end": "09:14",
-          "cat": "writing",
-          "src": "local",
-          "title": "codex.txt",
-          "note": "1 hit"
-        },
-        {
-          "start": "09:17",
-          "end": "09:22",
-          "cat": "coding",
-          "src": "local",
-          "title": "solution.py",
-          "note": "1 hit"
-        },
-        {
-          "start": "09:22",
-          "end": "09:24",
-          "cat": "coding",
-          "src": "local",
-          "title": "explore.py",
-          "note": "15 hits"
-        },
-        {
-          "start": "09:24",
-          "end": "09:29",
-          "cat": "coding",
-          "src": "local",
-          "title": "explore.py",
-          "note": "15 hits"
-        },
-        {
-          "start": "09:32",
-          "end": "09:36",
-          "cat": "coding",
-          "src": "local",
-          "title": "calculate_fees.py",
-          "note": "1 hit"
-        },
-        {
-          "start": "09:37",
-          "end": "09:42",
-          "cat": "writing",
-          "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
-        },
-        {
-          "start": "09:42",
-          "end": "09:44",
-          "cat": "coding",
-          "src": "local",
-          "title": "result.json",
-          "note": "5 hits"
-        },
-        {
-          "start": "09:44",
-          "end": "09:48",
-          "cat": "coding",
-          "src": "local",
-          "title": "result.json",
-          "note": "5 hits"
-        },
-        {
-          "start": "09:49",
-          "end": "09:51",
-          "cat": "writing",
-          "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
-        },
-        {
-          "start": "09:52",
-          "end": "09:56",
-          "cat": "writing",
-          "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
-        },
-        {
-          "start": "09:57",
-          "end": "09:58",
-          "cat": "writing",
-          "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
-        },
-        {
-          "start": "09:58",
-          "end": "10:03",
-          "cat": "writing",
-          "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
-        },
-        {
-          "start": "10:03",
-          "end": "10:06",
-          "cat": "writing",
-          "src": "local",
-          "title": "reward.txt",
-          "note": "5 hits"
-        },
-        {
-          "start": "10:07",
-          "end": "10:11",
-          "cat": "writing",
-          "src": "local",
-          "title": "reward.txt",
-          "note": "5 hits"
-        },
-        {
           "start": "10:11",
-          "end": "10:13",
+          "end": "10:37",
           "cat": "coding",
-          "src": "local",
-          "title": "lock.json",
-          "note": "8 hits"
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
         },
         {
-          "start": "10:13",
-          "end": "10:17",
-          "cat": "coding",
-          "src": "local",
-          "title": "lock.json",
-          "note": "8 hits"
-        },
-        {
-          "start": "10:17",
-          "end": "10:18",
+          "start": "10:38",
+          "end": "10:38",
           "cat": "writing",
-          "src": "local",
-          "title": "codex.txt",
-          "note": "1 hit"
+          "src": "macos",
+          "title": "Progress Updates - Google Sheets",
+          "note": "docs.google.com"
         },
         {
-          "start": "10:18",
-          "end": "10:22",
+          "start": "10:38",
+          "end": "10:41",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "10:41",
+          "end": "10:49",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Annual Progress Report - Annual Progress Report",
+          "note": "mq.service-now.com"
+        },
+        {
+          "start": "10:49",
+          "end": "10:50",
           "cat": "coding",
-          "src": "local",
-          "title": "solve_task2.py",
-          "note": "1 hit"
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
         },
         {
-          "start": "10:22",
-          "end": "10:24",
+          "start": "11:46",
+          "end": "11:54",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Macquarie University - Sign In",
+          "note": "mq.okta.com"
+        },
+        {
+          "start": "11:55",
+          "end": "12:10",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Annual Progress Report - Annual Progress Report",
+          "note": "mq.service-now.com"
+        },
+        {
+          "start": "12:10",
+          "end": "12:23",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "12:23",
+          "end": "12:26",
+          "cat": "research",
+          "src": "macos",
+          "title": "Page not found",
+          "note": "wiki.mq.edu.au"
+        },
+        {
+          "start": "12:26",
+          "end": "12:29",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Pure - Login",
+          "note": "research-management.mq.edu.au"
+        },
+        {
+          "start": "12:31",
+          "end": "14:04",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "14:05",
+          "end": "14:12",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "14:12",
+          "end": "14:21",
+          "cat": "coding",
+          "src": "macos",
+          "title": "codex",
+          "note": "com.openai.codex"
+        },
+        {
+          "start": "14:21",
+          "end": "14:26",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "14:27",
+          "end": "14:28",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Excel",
+          "note": "com.microsoft.Excel"
+        },
+        {
+          "start": "14:29",
+          "end": "14:32",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "14:32",
+          "end": "14:38",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Excel",
+          "note": "com.microsoft.Excel"
+        },
+        {
+          "start": "14:38",
+          "end": "14:39",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Excel",
+          "note": "com.microsoft.Excel"
+        },
+        {
+          "start": "14:39",
+          "end": "15:14",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:14",
+          "end": "15:24",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:24",
+          "end": "15:27",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Workspace Overview | Settings | OpenRouter",
+          "note": "openrouter.ai"
+        },
+        {
+          "start": "15:28",
+          "end": "15:33",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:33",
+          "end": "15:38",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Excel",
+          "note": "com.microsoft.Excel"
+        },
+        {
+          "start": "15:39",
+          "end": "16:03",
           "cat": "writing",
-          "src": "local",
-          "title": "reward.txt",
-          "note": "3 hits"
+          "src": "macos",
+          "title": "Create LaTeX tables online – TablesGenerator.com",
+          "note": "tablesgenerator.com"
+        },
+        {
+          "start": "16:03",
+          "end": "16:04",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:04",
+          "end": "16:10",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "35 hits"
+        },
+        {
+          "start": "16:11",
+          "end": "16:21",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:21",
+          "end": "16:24",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Excel",
+          "note": "com.microsoft.Excel"
+        },
+        {
+          "start": "16:24",
+          "end": "16:28",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:28",
+          "end": "16:33",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "52 hits"
+        },
+        {
+          "start": "16:33",
+          "end": "16:34",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Create LaTeX tables online – TablesGenerator.com",
+          "note": "tablesgenerator.com"
+        },
+        {
+          "start": "16:34",
+          "end": "16:58",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:59",
+          "end": "17:25",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "64 hits"
+        },
+        {
+          "start": "17:25",
+          "end": "18:06",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "18:06",
+          "end": "18:48",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Credits | OpenRouter",
+          "note": "openrouter.ai"
+        },
+        {
+          "start": "18:48",
+          "end": "18:54",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "20:01",
+          "end": "21:22",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "21:25",
+          "end": "21:29",
+          "cat": "admin",
+          "src": "macos",
+          "title": "[AINews] Reflection Beam - 501B-A23B American Open Model - a",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "21:29",
+          "end": "21:31",
+          "cat": "research",
+          "src": "macos",
+          "title": "‪Graham Neubig‬ - ‪Google Scholar‬",
+          "note": "scholar.google.com"
+        },
+        {
+          "start": "21:31",
+          "end": "21:38",
+          "cat": "coding",
+          "src": "macos",
+          "title": "OpenHands/OpenHands: 🙌 OpenHands: AI-Driven Development",
+          "note": "github.com"
+        },
+        {
+          "start": "21:38",
+          "end": "21:40",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "21:40",
+          "end": "21:43",
+          "cat": "coding",
+          "src": "macos",
+          "title": "OpenHands/OpenHands: 🙌 OpenHands: AI-Driven Development",
+          "note": "github.com"
+        },
+        {
+          "start": "21:44",
+          "end": "21:57",
+          "cat": "research",
+          "src": "macos",
+          "title": "NVIDIA-Nemotron-3-Ultra-Technical-Report.pdf",
+          "note": "research.nvidia.com"
+        },
+        {
+          "start": "21:57",
+          "end": "22:03",
+          "cat": "research",
+          "src": "macos",
+          "title": "SWE-Milestone: Evaluating AI Agentson Continuous Software Ev",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "22:03",
+          "end": "22:08",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(31) CMU AI Agents 2026: 7. Computer Use Agents - YouTube",
+          "note": "youtube.com"
+        },
+        {
+          "start": "22:08",
+          "end": "22:10",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(31) CMU AI Agents 2026: 8. Supervised Fine Tuning - YouTube",
+          "note": "youtube.com"
+        },
+        {
+          "start": "22:10",
+          "end": "22:53",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Yueqi Song",
+          "note": "yueqis.github.io"
+        },
+        {
+          "start": "22:54",
+          "end": "23:42",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "145 hits"
+        },
+        {
+          "start": "23:42",
+          "end": "00:05",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "00:41",
+          "end": "00:45",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "35 hits"
         }
       ],
-      "logged": 222,
-      "real": 222,
-      "deep": 222,
-      "ratio": 1.0,
+      "logged": 698,
+      "real": 526,
+      "deep": 526,
+      "ratio": 0.7532426630287804,
       "stats": {
-        "contextSwitches": 21,
+        "contextSwitches": 28,
         "tabsOpened": 0,
-        "longestFocus": "3h 42m",
-        "justOneMoreThing": 0
+        "longestFocus": "2h 23m",
+        "justOneMoreThing": 6
       }
     },
     {
@@ -93020,17 +93597,1170 @@
       "weekend": false,
       "dateShort": "Wed, Oct 7",
       "dateLong": "Wednesday, October 7",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "06:00",
+      "dayEnd": "10:28",
+      "events": [
+        {
+          "start": "06:00",
+          "end": "06:04",
+          "cat": "coding",
+          "src": "local",
+          "title": "solve.py",
+          "note": "1 hit"
+        },
+        {
+          "start": "06:04",
+          "end": "06:05",
+          "cat": "coding",
+          "src": "local",
+          "title": "solve.py",
+          "note": "1 hit"
+        },
+        {
+          "start": "06:05",
+          "end": "06:09",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "06:14",
+          "end": "06:17",
+          "cat": "coding",
+          "src": "local",
+          "title": "answer_task4.py",
+          "note": "2 hits"
+        },
+        {
+          "start": "06:18",
+          "end": "06:19",
+          "cat": "coding",
+          "src": "local",
+          "title": "answer_task4.py",
+          "note": "2 hits"
+        },
+        {
+          "start": "06:19",
+          "end": "06:20",
+          "cat": "coding",
+          "src": "local",
+          "title": "analyze.py",
+          "note": "2 hits"
+        },
+        {
+          "start": "06:21",
+          "end": "06:21",
+          "cat": "coding",
+          "src": "local",
+          "title": "analyze.py",
+          "note": "2 hits"
+        },
+        {
+          "start": "06:23",
+          "end": "06:25",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "5 hits"
+        },
+        {
+          "start": "06:27",
+          "end": "06:28",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "5 hits"
+        },
+        {
+          "start": "06:30",
+          "end": "06:30",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "06:31",
+          "end": "06:31",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "06:31",
+          "end": "06:32",
+          "cat": "coding",
+          "src": "local",
+          "title": "solve.js",
+          "note": "1 hit"
+        },
+        {
+          "start": "06:32",
+          "end": "06:34",
+          "cat": "coding",
+          "src": "local",
+          "title": "task4.js",
+          "note": "2 hits"
+        },
+        {
+          "start": "06:34",
+          "end": "06:35",
+          "cat": "coding",
+          "src": "local",
+          "title": "task5.js",
+          "note": "2 hits"
+        },
+        {
+          "start": "06:36",
+          "end": "06:38",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "5 hits"
+        },
+        {
+          "start": "06:40",
+          "end": "06:40",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "5 hits"
+        },
+        {
+          "start": "06:40",
+          "end": "06:43",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "5 hits"
+        },
+        {
+          "start": "06:46",
+          "end": "06:48",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "5 hits"
+        },
+        {
+          "start": "06:48",
+          "end": "06:48",
+          "cat": "coding",
+          "src": "local",
+          "title": "task2_result.json",
+          "note": "3 hits"
+        },
+        {
+          "start": "06:49",
+          "end": "06:49",
+          "cat": "coding",
+          "src": "local",
+          "title": "analyze.py",
+          "note": "3 hits"
+        },
+        {
+          "start": "06:49",
+          "end": "06:50",
+          "cat": "coding",
+          "src": "local",
+          "title": "analyze.py",
+          "note": "3 hits"
+        },
+        {
+          "start": "06:50",
+          "end": "06:52",
+          "cat": "coding",
+          "src": "local",
+          "title": "analyze.py",
+          "note": "3 hits"
+        },
+        {
+          "start": "06:52",
+          "end": "06:54",
+          "cat": "coding",
+          "src": "local",
+          "title": "analyze.py",
+          "note": "3 hits"
+        },
+        {
+          "start": "06:54",
+          "end": "06:55",
+          "cat": "coding",
+          "src": "local",
+          "title": "solve_task4.py",
+          "note": "1 hit"
+        },
+        {
+          "start": "06:55",
+          "end": "06:56",
+          "cat": "coding",
+          "src": "local",
+          "title": "solve_task5.py",
+          "note": "2 hits"
+        },
+        {
+          "start": "06:56",
+          "end": "06:57",
+          "cat": "writing",
+          "src": "local",
+          "title": "codex.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "06:57",
+          "end": "06:57",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "5 hits"
+        },
+        {
+          "start": "06:59",
+          "end": "07:02",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "5 hits"
+        },
+        {
+          "start": "07:04",
+          "end": "07:05",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "6 hits"
+        },
+        {
+          "start": "07:05",
+          "end": "07:08",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "6 hits"
+        },
+        {
+          "start": "07:08",
+          "end": "07:09",
+          "cat": "coding",
+          "src": "local",
+          "title": "rafa_july.py",
+          "note": "1 hit"
+        },
+        {
+          "start": "07:09",
+          "end": "07:10",
+          "cat": "coding",
+          "src": "local",
+          "title": "rafa_july.py",
+          "note": "1 hit"
+        },
+        {
+          "start": "07:10",
+          "end": "07:10",
+          "cat": "writing",
+          "src": "local",
+          "title": "codex.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "07:10",
+          "end": "07:13",
+          "cat": "coding",
+          "src": "local",
+          "title": "belles_july.py",
+          "note": "1 hit"
+        },
+        {
+          "start": "07:13",
+          "end": "07:14",
+          "cat": "writing",
+          "src": "local",
+          "title": "codex.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "07:16",
+          "end": "07:16",
+          "cat": "coding",
+          "src": "local",
+          "title": "solve.py",
+          "note": "1 hit"
+        },
+        {
+          "start": "07:16",
+          "end": "07:20",
+          "cat": "coding",
+          "src": "local",
+          "title": "solve.py",
+          "note": "1 hit"
+        },
+        {
+          "start": "07:21",
+          "end": "07:21",
+          "cat": "writing",
+          "src": "local",
+          "title": "codex.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "07:21",
+          "end": "07:25",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "07:27",
+          "end": "07:28",
+          "cat": "writing",
+          "src": "local",
+          "title": "README.md",
+          "note": "1 hit"
+        },
+        {
+          "start": "07:29",
+          "end": "07:31",
+          "cat": "writing",
+          "src": "local",
+          "title": "README.md",
+          "note": "1 hit"
+        },
+        {
+          "start": "07:32",
+          "end": "07:33",
+          "cat": "writing",
+          "src": "local",
+          "title": "codex.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "07:34",
+          "end": "07:35",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "9 hits"
+        },
+        {
+          "start": "07:35",
+          "end": "07:36",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "9 hits"
+        },
+        {
+          "start": "07:36",
+          "end": "07:38",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "9 hits"
+        },
+        {
+          "start": "07:38",
+          "end": "07:39",
+          "cat": "writing",
+          "src": "local",
+          "title": "codex.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "07:40",
+          "end": "07:41",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "07:41",
+          "end": "07:43",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "07:44",
+          "end": "07:44",
+          "cat": "coding",
+          "src": "local",
+          "title": "task5_crossfit_nov.py",
+          "note": "1 hit"
+        },
+        {
+          "start": "07:45",
+          "end": "07:46",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "5 hits"
+        },
+        {
+          "start": "07:46",
+          "end": "07:48",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "5 hits"
+        },
+        {
+          "start": "07:51",
+          "end": "07:52",
+          "cat": "writing",
+          "src": "local",
+          "title": "codex.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "07:52",
+          "end": "07:53",
+          "cat": "writing",
+          "src": "local",
+          "title": "codex.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "07:53",
+          "end": "07:54",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "07:54",
+          "end": "07:55",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "07:55",
+          "end": "07:56",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "07:57",
+          "end": "07:58",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "5 hits"
+        },
+        {
+          "start": "07:58",
+          "end": "07:59",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "5 hits"
+        },
+        {
+          "start": "07:59",
+          "end": "08:00",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "5 hits"
+        },
+        {
+          "start": "08:00",
+          "end": "08:01",
+          "cat": "writing",
+          "src": "local",
+          "title": "codex.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "08:02",
+          "end": "08:03",
+          "cat": "writing",
+          "src": "local",
+          "title": "codex.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "08:03",
+          "end": "08:04",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "08:05",
+          "end": "08:05",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "08:05",
+          "end": "08:07",
+          "cat": "writing",
+          "src": "local",
+          "title": "codex.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "08:08",
+          "end": "08:09",
+          "cat": "writing",
+          "src": "local",
+          "title": "codex.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "08:09",
+          "end": "08:11",
+          "cat": "coding",
+          "src": "local",
+          "title": "solve.py",
+          "note": "1 hit"
+        },
+        {
+          "start": "08:11",
+          "end": "08:12",
+          "cat": "coding",
+          "src": "local",
+          "title": "solve.py",
+          "note": "1 hit"
+        },
+        {
+          "start": "08:13",
+          "end": "08:15",
+          "cat": "coding",
+          "src": "local",
+          "title": "solve.py",
+          "note": "1 hit"
+        },
+        {
+          "start": "08:15",
+          "end": "08:16",
+          "cat": "coding",
+          "src": "local",
+          "title": "solve.py",
+          "note": "1 hit"
+        },
+        {
+          "start": "08:16",
+          "end": "08:17",
+          "cat": "coding",
+          "src": "local",
+          "title": "solve.js",
+          "note": "1 hit"
+        },
+        {
+          "start": "08:18",
+          "end": "08:18",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "08:18",
+          "end": "08:19",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "08:19",
+          "end": "08:20",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "08:20",
+          "end": "08:22",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "5 hits"
+        },
+        {
+          "start": "08:24",
+          "end": "08:25",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "08:25",
+          "end": "08:26",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "5 hits"
+        },
+        {
+          "start": "08:26",
+          "end": "08:27",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "5 hits"
+        },
+        {
+          "start": "08:27",
+          "end": "08:28",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "5 hits"
+        },
+        {
+          "start": "08:28",
+          "end": "08:30",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "08:30",
+          "end": "08:31",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "08:32",
+          "end": "08:35",
+          "cat": "coding",
+          "src": "local",
+          "title": "analyze_fees.py",
+          "note": "1 hit"
+        },
+        {
+          "start": "08:35",
+          "end": "08:36",
+          "cat": "coding",
+          "src": "local",
+          "title": "analyze_fees.py",
+          "note": "1 hit"
+        },
+        {
+          "start": "08:37",
+          "end": "08:40",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "5 hits"
+        },
+        {
+          "start": "08:42",
+          "end": "08:45",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "5 hits"
+        },
+        {
+          "start": "08:47",
+          "end": "08:49",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "5 hits"
+        },
+        {
+          "start": "08:49",
+          "end": "08:51",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "5 hits"
+        },
+        {
+          "start": "08:51",
+          "end": "08:53",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "5 hits"
+        },
+        {
+          "start": "08:54",
+          "end": "08:55",
+          "cat": "coding",
+          "src": "local",
+          "title": "compute_answer.py",
+          "note": "1 hit"
+        },
+        {
+          "start": "08:56",
+          "end": "08:56",
+          "cat": "writing",
+          "src": "local",
+          "title": "codex.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "08:56",
+          "end": "08:57",
+          "cat": "coding",
+          "src": "local",
+          "title": "compute_golf.py",
+          "note": "1 hit"
+        },
+        {
+          "start": "08:57",
+          "end": "08:58",
+          "cat": "coding",
+          "src": "local",
+          "title": "compute_golf.py",
+          "note": "1 hit"
+        },
+        {
+          "start": "08:58",
+          "end": "08:59",
+          "cat": "coding",
+          "src": "local",
+          "title": "compute_martinis.py",
+          "note": "1 hit"
+        },
+        {
+          "start": "09:00",
+          "end": "09:00",
+          "cat": "coding",
+          "src": "local",
+          "title": "compute_martinis.py",
+          "note": "1 hit"
+        },
+        {
+          "start": "09:01",
+          "end": "09:02",
+          "cat": "coding",
+          "src": "local",
+          "title": "compute_rafa.py",
+          "note": "1 hit"
+        },
+        {
+          "start": "09:02",
+          "end": "09:04",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "5 hits"
+        },
+        {
+          "start": "09:05",
+          "end": "09:06",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "09:06",
+          "end": "09:07",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "09:07",
+          "end": "09:08",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "5 hits"
+        },
+        {
+          "start": "09:08",
+          "end": "09:08",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "5 hits"
+        },
+        {
+          "start": "09:09",
+          "end": "09:10",
+          "cat": "writing",
+          "src": "local",
+          "title": "reward.txt",
+          "note": "3 hits"
+        },
+        {
+          "start": "09:10",
+          "end": "09:11",
+          "cat": "coding",
+          "src": "local",
+          "title": "solve_task3.py",
+          "note": "1 hit"
+        },
+        {
+          "start": "09:13",
+          "end": "09:15",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "8 hits"
+        },
+        {
+          "start": "09:15",
+          "end": "09:16",
+          "cat": "writing",
+          "src": "local",
+          "title": "README.md",
+          "note": "6 hits"
+        },
+        {
+          "start": "09:16",
+          "end": "09:16",
+          "cat": "writing",
+          "src": "local",
+          "title": "README.md",
+          "note": "6 hits"
+        },
+        {
+          "start": "09:18",
+          "end": "09:19",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "13 hits"
+        },
+        {
+          "start": "09:19",
+          "end": "09:20",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "13 hits"
+        },
+        {
+          "start": "09:21",
+          "end": "09:21",
+          "cat": "coding",
+          "src": "local",
+          "title": "remote-settings.json",
+          "note": "4 hits"
+        },
+        {
+          "start": "09:22",
+          "end": "09:23",
+          "cat": "writing",
+          "src": "local",
+          "title": "claude-code.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "09:24",
+          "end": "09:24",
+          "cat": "coding",
+          "src": "local",
+          "title": "remote-settings.json",
+          "note": "4 hits"
+        },
+        {
+          "start": "09:24",
+          "end": "09:25",
+          "cat": "writing",
+          "src": "local",
+          "title": "claude-code.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "09:26",
+          "end": "09:28",
+          "cat": "writing",
+          "src": "local",
+          "title": "claude-code.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "09:28",
+          "end": "09:30",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "8 hits"
+        },
+        {
+          "start": "09:30",
+          "end": "09:30",
+          "cat": "writing",
+          "src": "local",
+          "title": "README.md",
+          "note": "2 hits"
+        },
+        {
+          "start": "09:32",
+          "end": "09:33",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "11 hits"
+        },
+        {
+          "start": "09:33",
+          "end": "09:34",
+          "cat": "coding",
+          "src": "local",
+          "title": "remote-settings.json",
+          "note": "10 hits"
+        },
+        {
+          "start": "09:34",
+          "end": "09:36",
+          "cat": "coding",
+          "src": "local",
+          "title": "remote-settings.json",
+          "note": "10 hits"
+        },
+        {
+          "start": "09:37",
+          "end": "09:38",
+          "cat": "writing",
+          "src": "local",
+          "title": "claude-code.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "09:39",
+          "end": "09:40",
+          "cat": "writing",
+          "src": "local",
+          "title": "claude-code.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "09:40",
+          "end": "09:41",
+          "cat": "writing",
+          "src": "local",
+          "title": "claude-code.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "09:41",
+          "end": "09:42",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "8 hits"
+        },
+        {
+          "start": "09:42",
+          "end": "09:43",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "8 hits"
+        },
+        {
+          "start": "09:46",
+          "end": "09:47",
+          "cat": "writing",
+          "src": "local",
+          "title": "claude-code.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "09:47",
+          "end": "09:48",
+          "cat": "writing",
+          "src": "local",
+          "title": "claude-code.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "09:50",
+          "end": "09:51",
+          "cat": "writing",
+          "src": "local",
+          "title": "claude-code.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "09:51",
+          "end": "09:52",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "9 hits"
+        },
+        {
+          "start": "09:52",
+          "end": "09:53",
+          "cat": "coding",
+          "src": "local",
+          "title": "result.json",
+          "note": "9 hits"
+        },
+        {
+          "start": "09:55",
+          "end": "09:57",
+          "cat": "writing",
+          "src": "local",
+          "title": "claude-code.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "09:57",
+          "end": "09:58",
+          "cat": "coding",
+          "src": "local",
+          "title": "remote-settings.json",
+          "note": "4 hits"
+        },
+        {
+          "start": "09:58",
+          "end": "09:59",
+          "cat": "writing",
+          "src": "local",
+          "title": "claude-code.txt",
+          "note": "1 hit"
+        },
+        {
+          "start": "09:59",
+          "end": "10:00",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Workspace Overview | Settings | OpenRouter",
+          "note": "openrouter.ai"
+        },
+        {
+          "start": "10:01",
+          "end": "10:01",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Workspace Overview | Settings | OpenRouter",
+          "note": "openrouter.ai"
+        },
+        {
+          "start": "10:02",
+          "end": "10:03",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Workspace Overview | Settings | OpenRouter",
+          "note": "openrouter.ai"
+        },
+        {
+          "start": "10:03",
+          "end": "10:05",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Workspace Overview | Settings | OpenRouter",
+          "note": "openrouter.ai"
+        },
+        {
+          "start": "10:06",
+          "end": "10:07",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "Workspace Overview | Settings | OpenRouter",
+          "note": "openrouter.ai"
+        },
+        {
+          "start": "10:07",
+          "end": "10:08",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Week 9 recorded lectu",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "10:08",
+          "end": "10:09",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Week 9 recorded lectu",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "10:09",
+          "end": "10:10",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Week 9 recorded lectu",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "10:11",
+          "end": "10:12",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Week 9 recorded lectu",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "10:12",
+          "end": "10:14",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Week 9 recorded lectu",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "10:14",
+          "end": "10:15",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Week 9 recorded lectu",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "10:17",
+          "end": "10:19",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Week 9 recorded lectu",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "10:20",
+          "end": "10:21",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Week 9 recorded lectu",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "10:22",
+          "end": "10:24",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Week 9 recorded lectu",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "10:25",
+          "end": "10:28",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Week 9 recorded lectu",
+          "note": "ilearn.mq.edu.au"
+        }
+      ],
+      "logged": 184,
+      "real": 169,
+      "deep": 169,
+      "ratio": 0.9183380486273818,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "0m",
+        "contextSwitches": 47,
+        "tabsOpened": 45,
+        "longestFocus": "2h 49m",
         "justOneMoreThing": 0
       }
     },
