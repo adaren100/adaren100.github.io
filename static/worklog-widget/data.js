@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-10-09T10:20:16+11:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-10-10T10:20:53+11:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -90281,306 +90281,306 @@
         "weekend": false
       },
       {
-        "key": "2026-10-8",
-        "dayNum": 8,
-        "dow": 4,
-        "weekend": false,
-        "dateShort": "Thu, Oct 8",
         "dateLong": "Thursday, October 8",
-        "dayStart": "08:34",
+        "dateShort": "Thu, Oct 8",
         "dayEnd": "23:45",
+        "dayNum": 8,
+        "dayStart": "08:34",
+        "deep": 562,
+        "dow": 4,
         "events": [
           {
-            "start": "08:34",
+            "cat": "coding",
             "end": "08:41",
-            "cat": "coding",
+            "note": "67 hits",
             "src": "claude",
-            "title": "Claude session · bench",
-            "note": "67 hits"
+            "start": "08:34",
+            "title": "Claude session · bench"
           },
           {
-            "start": "10:19",
+            "cat": "coding",
             "end": "10:28",
-            "cat": "coding",
+            "note": "82 hits",
             "src": "claude",
-            "title": "Claude session · bench",
-            "note": "82 hits"
+            "start": "10:19",
+            "title": "Claude session · bench"
           },
           {
-            "start": "10:28",
+            "cat": "coding",
             "end": "10:35",
-            "cat": "coding",
+            "note": "19 hits",
             "src": "claude",
-            "title": "Claude session · bench",
-            "note": "19 hits"
+            "start": "10:28",
+            "title": "Claude session · bench"
           },
           {
-            "start": "10:35",
+            "cat": "coding",
             "end": "10:42",
-            "cat": "coding",
+            "note": "file:///Users/ada/Documents/MQ/repo/agen",
             "src": "macos",
-            "title": "Trajectory audit — human review of LLM-judge labels",
-            "note": "file:///Users/ada/Documents/MQ/repo/agen"
+            "start": "10:35",
+            "title": "Trajectory audit — human review of LLM-judge labels"
           },
           {
-            "start": "10:42",
+            "cat": "coding",
             "end": "10:44",
-            "cat": "coding",
+            "note": "8 hits",
             "src": "claude",
-            "title": "Claude session · bench",
-            "note": "8 hits"
+            "start": "10:42",
+            "title": "Claude session · bench"
           },
           {
-            "start": "10:44",
+            "cat": "writing",
             "end": "10:50",
-            "cat": "writing",
+            "note": "overleaf.com",
             "src": "macos",
-            "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea",
-            "note": "overleaf.com"
+            "start": "10:44",
+            "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea"
           },
           {
-            "start": "10:50",
+            "cat": "coding",
             "end": "10:54",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "10:50",
+            "title": "VSCode"
           },
           {
-            "start": "10:54",
+            "cat": "coding",
             "end": "11:03",
-            "cat": "coding",
+            "note": "38 hits",
             "src": "claude",
-            "title": "Claude session · bench",
-            "note": "38 hits"
+            "start": "10:54",
+            "title": "Claude session · bench"
           },
           {
-            "start": "11:03",
+            "cat": "writing",
             "end": "11:04",
-            "cat": "writing",
+            "note": "overleaf.com",
             "src": "macos",
-            "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea",
-            "note": "overleaf.com"
+            "start": "11:03",
+            "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea"
           },
           {
-            "start": "11:04",
+            "cat": "coding",
             "end": "11:14",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "11:04",
+            "title": "VSCode"
           },
           {
-            "start": "11:14",
+            "cat": "admin",
             "end": "11:56",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "macos",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "11:14",
+            "title": "Google Translate"
           },
           {
-            "start": "11:56",
+            "cat": "coding",
             "end": "12:34",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "11:56",
+            "title": "VSCode"
           },
           {
-            "start": "12:34",
+            "cat": "coding",
             "end": "12:40",
-            "cat": "coding",
+            "note": "43 hits",
             "src": "claude",
-            "title": "Claude session · bench",
-            "note": "43 hits"
+            "start": "12:34",
+            "title": "Claude session · bench"
           },
           {
-            "start": "12:40",
+            "cat": "coding",
             "end": "12:46",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "12:40",
+            "title": "VSCode"
           },
           {
-            "start": "12:46",
+            "cat": "coding",
             "end": "13:00",
-            "cat": "coding",
+            "note": "261 hits",
             "src": "claude",
-            "title": "Claude session · bench",
-            "note": "261 hits"
+            "start": "12:46",
+            "title": "Claude session · bench"
           },
           {
-            "start": "13:00",
+            "cat": "coding",
             "end": "13:08",
-            "cat": "coding",
+            "note": "261 hits",
             "src": "claude",
-            "title": "Claude session · bench",
-            "note": "261 hits"
+            "start": "13:00",
+            "title": "Claude session · bench"
           },
           {
-            "start": "13:08",
+            "cat": "coding",
             "end": "13:18",
-            "cat": "coding",
+            "note": "59 hits",
             "src": "claude",
-            "title": "Claude session · bench",
-            "note": "59 hits"
+            "start": "13:08",
+            "title": "Claude session · bench"
           },
           {
-            "start": "14:03",
+            "cat": "coding",
             "end": "15:29",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "14:03",
+            "title": "VSCode"
           },
           {
-            "start": "15:29",
+            "cat": "coding",
             "end": "15:47",
-            "cat": "coding",
+            "note": "380 hits",
             "src": "claude",
-            "title": "Claude session · bench",
-            "note": "380 hits"
+            "start": "15:29",
+            "title": "Claude session · bench"
           },
           {
-            "start": "15:47",
-            "end": "16:13",
             "cat": "research",
+            "end": "16:13",
+            "note": "adaren100.github.io",
             "src": "macos",
-            "title": "How a PhD Can Survive? | Ada's Notes",
-            "note": "adaren100.github.io"
+            "start": "15:47",
+            "title": "How a PhD Can Survive? | Ada's Notes"
           },
           {
-            "start": "16:13",
+            "cat": "coding",
             "end": "19:00",
-            "cat": "coding",
+            "note": "iridescent-smakager-d5ee12.netlify.app",
             "src": "macos",
-            "title": "2010年高考化学模拟卷",
-            "note": "iridescent-smakager-d5ee12.netlify.app"
+            "start": "16:13",
+            "title": "2010年高考化学模拟卷"
           },
           {
-            "start": "19:01",
+            "cat": "coding",
             "end": "19:10",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "19:01",
+            "title": "VSCode"
           },
           {
-            "start": "19:11",
-            "end": "19:12",
             "cat": "admin",
+            "end": "19:12",
+            "note": "com.microsoft.Excel",
             "src": "macos",
-            "title": "Excel",
-            "note": "com.microsoft.Excel"
+            "start": "19:11",
+            "title": "Excel"
           },
           {
-            "start": "19:12",
+            "cat": "writing",
             "end": "19:29",
-            "cat": "writing",
+            "note": "tablesgenerator.com",
             "src": "macos",
-            "title": "Create LaTeX tables online – TablesGenerator.com",
-            "note": "tablesgenerator.com"
+            "start": "19:12",
+            "title": "Create LaTeX tables online – TablesGenerator.com"
           },
           {
-            "start": "19:31",
+            "cat": "writing",
             "end": "20:05",
-            "cat": "writing",
+            "note": "overleaf.com",
             "src": "macos",
-            "title": "[SemEval-2025 Task 11: Task Description] - Bridging the Gap ",
-            "note": "overleaf.com"
+            "start": "19:31",
+            "title": "[SemEval-2025 Task 11: Task Description] - Bridging the Gap "
           },
           {
-            "start": "20:05",
+            "cat": "coding",
             "end": "20:15",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "20:05",
+            "title": "VSCode"
           },
           {
-            "start": "21:42",
+            "cat": "coding",
             "end": "21:45",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "21:42",
+            "title": "VSCode"
           },
           {
-            "start": "21:45",
+            "cat": "coding",
             "end": "22:05",
-            "cat": "coding",
+            "note": "25 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "25 hits"
+            "start": "21:45",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "22:06",
+            "cat": "coding",
             "end": "22:08",
-            "cat": "coding",
+            "note": "77 hits",
             "src": "claude",
-            "title": "Claude session · bench",
-            "note": "77 hits"
+            "start": "22:06",
+            "title": "Claude session · bench"
           },
           {
-            "start": "22:08",
+            "cat": "coding",
             "end": "22:10",
-            "cat": "coding",
+            "note": "77 hits",
             "src": "claude",
-            "title": "Claude session · bench",
-            "note": "77 hits"
+            "start": "22:08",
+            "title": "Claude session · bench"
           },
           {
-            "start": "22:16",
+            "cat": "coding",
             "end": "22:21",
-            "cat": "coding",
+            "note": "48 hits",
             "src": "claude",
-            "title": "Claude session · bench",
-            "note": "48 hits"
+            "start": "22:16",
+            "title": "Claude session · bench"
           },
           {
-            "start": "22:45",
+            "cat": "coding",
             "end": "22:51",
-            "cat": "coding",
+            "note": "27 hits",
             "src": "claude",
-            "title": "Claude session · bench",
-            "note": "27 hits"
+            "start": "22:45",
+            "title": "Claude session · bench"
           },
           {
-            "start": "22:53",
+            "cat": "coding",
             "end": "22:56",
-            "cat": "coding",
+            "note": "7 hits",
             "src": "claude",
-            "title": "Claude session · bench",
-            "note": "7 hits"
+            "start": "22:53",
+            "title": "Claude session · bench"
           },
           {
-            "start": "22:59",
+            "cat": "coding",
             "end": "23:06",
-            "cat": "coding",
+            "note": "27 hits",
             "src": "claude",
-            "title": "Claude session · bench",
-            "note": "27 hits"
+            "start": "22:59",
+            "title": "Claude session · bench"
           },
           {
-            "start": "23:41",
-            "end": "23:45",
             "cat": "coding",
+            "end": "23:45",
+            "note": "10 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "10 hits"
+            "start": "23:41",
+            "title": "Claude session · harbor"
           }
         ],
+        "key": "2026-10-8",
         "logged": 606,
-        "real": 562,
-        "deep": 562,
         "ratio": 0.9281794721861791,
+        "real": 562,
         "stats": {
           "contextSwitches": 11,
-          "tabsOpened": 0,
+          "justOneMoreThing": 1,
           "longestFocus": "6h 29m",
-          "justOneMoreThing": 1
-        }
+          "tabsOpened": 0
+        },
+        "weekend": false
       },
       {
         "key": "2026-10-9",
@@ -90589,18 +90589,363 @@
         "weekend": false,
         "dateShort": "Fri, Oct 9",
         "dateLong": "Friday, October 9",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "09:10",
+        "dayEnd": "17:15",
+        "events": [
+          {
+            "start": "09:10",
+            "end": "11:34",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:44",
+            "end": "11:48",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · bench",
+            "note": "26 hits"
+          },
+          {
+            "start": "11:50",
+            "end": "11:52",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:59",
+            "end": "12:15",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "12:23",
+            "end": "12:45",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "12:45",
+            "end": "12:48",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "12:49",
+            "end": "12:51",
+            "cat": "research",
+            "src": "macos",
+            "title": "CALL FOR PAPERS – ACL Rolling Review",
+            "note": "aclrollingreview.org"
+          },
+          {
+            "start": "12:51",
+            "end": "12:58",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "13:00",
+            "end": "13:03",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "13:03",
+            "end": "13:20",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "13:20",
+            "end": "13:21",
+            "cat": "research",
+            "src": "macos",
+            "title": "CALL FOR PAPERS – ACL Rolling Review",
+            "note": "aclrollingreview.org"
+          },
+          {
+            "start": "13:21",
+            "end": "13:23",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Progress Updates - Google Sheets",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "13:23",
+            "end": "13:27",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · bench",
+            "note": "12 hits"
+          },
+          {
+            "start": "13:31",
+            "end": "13:51",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Progress Updates - Google Sheets",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "13:51",
+            "end": "13:56",
+            "cat": "admin",
+            "src": "macos",
+            "title": "jinman - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "13:56",
+            "end": "14:06",
+            "cat": "writing",
+            "src": "macos",
+            "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf",
+            "note": "overleaf.com"
+          },
+          {
+            "start": "14:09",
+            "end": "14:14",
+            "cat": "personal",
+            "src": "macos",
+            "title": "主页 / X",
+            "note": "x.com"
+          },
+          {
+            "start": "14:14",
+            "end": "14:26",
+            "cat": "personal",
+            "src": "macos",
+            "title": "主页 / X",
+            "note": "x.com"
+          },
+          {
+            "start": "14:27",
+            "end": "14:30",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Copy of Week9.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "14:33",
+            "end": "14:39",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Week9.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "14:41",
+            "end": "14:42",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Week9.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "14:46",
+            "end": "14:48",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Excalidraw Whiteboard",
+            "note": "excalidraw.com"
+          },
+          {
+            "start": "14:48",
+            "end": "14:51",
+            "cat": "personal",
+            "src": "macos",
+            "title": "A Complete Guide to Principal Component Analysis – PCA in Ma",
+            "note": "ashutoshtripathi.com"
+          },
+          {
+            "start": "14:51",
+            "end": "14:52",
+            "cat": "admin",
+            "src": "macos",
+            "title": "PCA - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "14:52",
+            "end": "14:54",
+            "cat": "admin",
+            "src": "macos",
+            "title": "PCA - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "14:56",
+            "end": "15:00",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Week9.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "15:01",
+            "end": "15:03",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Week9.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "15:05",
+            "end": "15:10",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Week9.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "15:12",
+            "end": "15:34",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Week9.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "15:35",
+            "end": "15:36",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Week9.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "15:42",
+            "end": "15:44",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Week9.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "15:44",
+            "end": "15:46",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Week9.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "15:48",
+            "end": "15:49",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Week9.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "15:54",
+            "end": "15:57",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Week9.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "15:57",
+            "end": "15:59",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Automating eval design and hillclimbing with Claude / claude",
+            "note": "claude.dev"
+          },
+          {
+            "start": "15:59",
+            "end": "16:01",
+            "cat": "writing",
+            "src": "macos",
+            "title": "week9_prac.pdf",
+            "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+          },
+          {
+            "start": "16:03",
+            "end": "16:05",
+            "cat": "personal",
+            "src": "macos",
+            "title": "主页 / X",
+            "note": "x.com"
+          },
+          {
+            "start": "16:51",
+            "end": "16:59",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:59",
+            "end": "17:04",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "teams2",
+            "note": "com.microsoft.teams2"
+          },
+          {
+            "start": "17:04",
+            "end": "17:05",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "17:05",
+            "end": "17:08",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "17:08",
+            "end": "17:11",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "teams2",
+            "note": "com.microsoft.teams2"
+          },
+          {
+            "start": "17:12",
+            "end": "17:15",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Oct ARR Review/papers - Google Sheets",
+            "note": "docs.google.com"
+          }
+        ],
+        "logged": 363,
+        "real": 315,
+        "deep": 315,
+        "ratio": 0.8669805054464346,
         "stats": {
-          "contextSwitches": 0,
+          "contextSwitches": 24,
           "tabsOpened": 0,
-          "longestFocus": "0m",
-          "justOneMoreThing": 0
+          "longestFocus": "3h 6m",
+          "justOneMoreThing": 4
         }
       },
       {
@@ -93830,306 +94175,306 @@
       "weekend": false
     },
     {
-      "key": "2026-10-8",
-      "dayNum": 8,
-      "dow": 4,
-      "weekend": false,
-      "dateShort": "Thu, Oct 8",
       "dateLong": "Thursday, October 8",
-      "dayStart": "08:34",
+      "dateShort": "Thu, Oct 8",
       "dayEnd": "23:45",
+      "dayNum": 8,
+      "dayStart": "08:34",
+      "deep": 562,
+      "dow": 4,
       "events": [
         {
-          "start": "08:34",
+          "cat": "coding",
           "end": "08:41",
-          "cat": "coding",
+          "note": "67 hits",
           "src": "claude",
-          "title": "Claude session · bench",
-          "note": "67 hits"
+          "start": "08:34",
+          "title": "Claude session · bench"
         },
         {
-          "start": "10:19",
+          "cat": "coding",
           "end": "10:28",
-          "cat": "coding",
+          "note": "82 hits",
           "src": "claude",
-          "title": "Claude session · bench",
-          "note": "82 hits"
+          "start": "10:19",
+          "title": "Claude session · bench"
         },
         {
-          "start": "10:28",
+          "cat": "coding",
           "end": "10:35",
-          "cat": "coding",
+          "note": "19 hits",
           "src": "claude",
-          "title": "Claude session · bench",
-          "note": "19 hits"
+          "start": "10:28",
+          "title": "Claude session · bench"
         },
         {
-          "start": "10:35",
+          "cat": "coding",
           "end": "10:42",
-          "cat": "coding",
+          "note": "file:///Users/ada/Documents/MQ/repo/agen",
           "src": "macos",
-          "title": "Trajectory audit — human review of LLM-judge labels",
-          "note": "file:///Users/ada/Documents/MQ/repo/agen"
+          "start": "10:35",
+          "title": "Trajectory audit — human review of LLM-judge labels"
         },
         {
-          "start": "10:42",
+          "cat": "coding",
           "end": "10:44",
-          "cat": "coding",
+          "note": "8 hits",
           "src": "claude",
-          "title": "Claude session · bench",
-          "note": "8 hits"
+          "start": "10:42",
+          "title": "Claude session · bench"
         },
         {
-          "start": "10:44",
+          "cat": "writing",
           "end": "10:50",
-          "cat": "writing",
+          "note": "overleaf.com",
           "src": "macos",
-          "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea",
-          "note": "overleaf.com"
+          "start": "10:44",
+          "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea"
         },
         {
-          "start": "10:50",
+          "cat": "coding",
           "end": "10:54",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "10:50",
+          "title": "VSCode"
         },
         {
-          "start": "10:54",
+          "cat": "coding",
           "end": "11:03",
-          "cat": "coding",
+          "note": "38 hits",
           "src": "claude",
-          "title": "Claude session · bench",
-          "note": "38 hits"
+          "start": "10:54",
+          "title": "Claude session · bench"
         },
         {
-          "start": "11:03",
+          "cat": "writing",
           "end": "11:04",
-          "cat": "writing",
+          "note": "overleaf.com",
           "src": "macos",
-          "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea",
-          "note": "overleaf.com"
+          "start": "11:03",
+          "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea"
         },
         {
-          "start": "11:04",
+          "cat": "coding",
           "end": "11:14",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "11:04",
+          "title": "VSCode"
         },
         {
-          "start": "11:14",
+          "cat": "admin",
           "end": "11:56",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "macos",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "11:14",
+          "title": "Google Translate"
         },
         {
-          "start": "11:56",
+          "cat": "coding",
           "end": "12:34",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "11:56",
+          "title": "VSCode"
         },
         {
-          "start": "12:34",
+          "cat": "coding",
           "end": "12:40",
-          "cat": "coding",
+          "note": "43 hits",
           "src": "claude",
-          "title": "Claude session · bench",
-          "note": "43 hits"
+          "start": "12:34",
+          "title": "Claude session · bench"
         },
         {
-          "start": "12:40",
+          "cat": "coding",
           "end": "12:46",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "12:40",
+          "title": "VSCode"
         },
         {
-          "start": "12:46",
+          "cat": "coding",
           "end": "13:00",
-          "cat": "coding",
+          "note": "261 hits",
           "src": "claude",
-          "title": "Claude session · bench",
-          "note": "261 hits"
+          "start": "12:46",
+          "title": "Claude session · bench"
         },
         {
-          "start": "13:00",
+          "cat": "coding",
           "end": "13:08",
-          "cat": "coding",
+          "note": "261 hits",
           "src": "claude",
-          "title": "Claude session · bench",
-          "note": "261 hits"
+          "start": "13:00",
+          "title": "Claude session · bench"
         },
         {
-          "start": "13:08",
+          "cat": "coding",
           "end": "13:18",
-          "cat": "coding",
+          "note": "59 hits",
           "src": "claude",
-          "title": "Claude session · bench",
-          "note": "59 hits"
+          "start": "13:08",
+          "title": "Claude session · bench"
         },
         {
-          "start": "14:03",
+          "cat": "coding",
           "end": "15:29",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "14:03",
+          "title": "VSCode"
         },
         {
-          "start": "15:29",
+          "cat": "coding",
           "end": "15:47",
-          "cat": "coding",
+          "note": "380 hits",
           "src": "claude",
-          "title": "Claude session · bench",
-          "note": "380 hits"
+          "start": "15:29",
+          "title": "Claude session · bench"
         },
         {
-          "start": "15:47",
-          "end": "16:13",
           "cat": "research",
+          "end": "16:13",
+          "note": "adaren100.github.io",
           "src": "macos",
-          "title": "How a PhD Can Survive? | Ada's Notes",
-          "note": "adaren100.github.io"
+          "start": "15:47",
+          "title": "How a PhD Can Survive? | Ada's Notes"
         },
         {
-          "start": "16:13",
+          "cat": "coding",
           "end": "19:00",
-          "cat": "coding",
+          "note": "iridescent-smakager-d5ee12.netlify.app",
           "src": "macos",
-          "title": "2010年高考化学模拟卷",
-          "note": "iridescent-smakager-d5ee12.netlify.app"
+          "start": "16:13",
+          "title": "2010年高考化学模拟卷"
         },
         {
-          "start": "19:01",
+          "cat": "coding",
           "end": "19:10",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "19:01",
+          "title": "VSCode"
         },
         {
-          "start": "19:11",
-          "end": "19:12",
           "cat": "admin",
+          "end": "19:12",
+          "note": "com.microsoft.Excel",
           "src": "macos",
-          "title": "Excel",
-          "note": "com.microsoft.Excel"
+          "start": "19:11",
+          "title": "Excel"
         },
         {
-          "start": "19:12",
+          "cat": "writing",
           "end": "19:29",
-          "cat": "writing",
+          "note": "tablesgenerator.com",
           "src": "macos",
-          "title": "Create LaTeX tables online – TablesGenerator.com",
-          "note": "tablesgenerator.com"
+          "start": "19:12",
+          "title": "Create LaTeX tables online – TablesGenerator.com"
         },
         {
-          "start": "19:31",
+          "cat": "writing",
           "end": "20:05",
-          "cat": "writing",
+          "note": "overleaf.com",
           "src": "macos",
-          "title": "[SemEval-2025 Task 11: Task Description] - Bridging the Gap ",
-          "note": "overleaf.com"
+          "start": "19:31",
+          "title": "[SemEval-2025 Task 11: Task Description] - Bridging the Gap "
         },
         {
-          "start": "20:05",
+          "cat": "coding",
           "end": "20:15",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "20:05",
+          "title": "VSCode"
         },
         {
-          "start": "21:42",
+          "cat": "coding",
           "end": "21:45",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "21:42",
+          "title": "VSCode"
         },
         {
-          "start": "21:45",
+          "cat": "coding",
           "end": "22:05",
-          "cat": "coding",
+          "note": "25 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "25 hits"
+          "start": "21:45",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "22:06",
+          "cat": "coding",
           "end": "22:08",
-          "cat": "coding",
+          "note": "77 hits",
           "src": "claude",
-          "title": "Claude session · bench",
-          "note": "77 hits"
+          "start": "22:06",
+          "title": "Claude session · bench"
         },
         {
-          "start": "22:08",
+          "cat": "coding",
           "end": "22:10",
-          "cat": "coding",
+          "note": "77 hits",
           "src": "claude",
-          "title": "Claude session · bench",
-          "note": "77 hits"
+          "start": "22:08",
+          "title": "Claude session · bench"
         },
         {
-          "start": "22:16",
+          "cat": "coding",
           "end": "22:21",
-          "cat": "coding",
+          "note": "48 hits",
           "src": "claude",
-          "title": "Claude session · bench",
-          "note": "48 hits"
+          "start": "22:16",
+          "title": "Claude session · bench"
         },
         {
-          "start": "22:45",
+          "cat": "coding",
           "end": "22:51",
-          "cat": "coding",
+          "note": "27 hits",
           "src": "claude",
-          "title": "Claude session · bench",
-          "note": "27 hits"
+          "start": "22:45",
+          "title": "Claude session · bench"
         },
         {
-          "start": "22:53",
+          "cat": "coding",
           "end": "22:56",
-          "cat": "coding",
+          "note": "7 hits",
           "src": "claude",
-          "title": "Claude session · bench",
-          "note": "7 hits"
+          "start": "22:53",
+          "title": "Claude session · bench"
         },
         {
-          "start": "22:59",
+          "cat": "coding",
           "end": "23:06",
-          "cat": "coding",
+          "note": "27 hits",
           "src": "claude",
-          "title": "Claude session · bench",
-          "note": "27 hits"
+          "start": "22:59",
+          "title": "Claude session · bench"
         },
         {
-          "start": "23:41",
-          "end": "23:45",
           "cat": "coding",
+          "end": "23:45",
+          "note": "10 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "10 hits"
+          "start": "23:41",
+          "title": "Claude session · harbor"
         }
       ],
+      "key": "2026-10-8",
       "logged": 606,
-      "real": 562,
-      "deep": 562,
       "ratio": 0.9281794721861791,
+      "real": 562,
       "stats": {
         "contextSwitches": 11,
-        "tabsOpened": 0,
+        "justOneMoreThing": 1,
         "longestFocus": "6h 29m",
-        "justOneMoreThing": 1
-      }
+        "tabsOpened": 0
+      },
+      "weekend": false
     },
     {
       "key": "2026-10-9",
@@ -94138,18 +94483,363 @@
       "weekend": false,
       "dateShort": "Fri, Oct 9",
       "dateLong": "Friday, October 9",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "09:10",
+      "dayEnd": "17:15",
+      "events": [
+        {
+          "start": "09:10",
+          "end": "11:34",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:44",
+          "end": "11:48",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · bench",
+          "note": "26 hits"
+        },
+        {
+          "start": "11:50",
+          "end": "11:52",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:59",
+          "end": "12:15",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "12:23",
+          "end": "12:45",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "12:45",
+          "end": "12:48",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "12:49",
+          "end": "12:51",
+          "cat": "research",
+          "src": "macos",
+          "title": "CALL FOR PAPERS – ACL Rolling Review",
+          "note": "aclrollingreview.org"
+        },
+        {
+          "start": "12:51",
+          "end": "12:58",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "13:00",
+          "end": "13:03",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "13:03",
+          "end": "13:20",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "13:20",
+          "end": "13:21",
+          "cat": "research",
+          "src": "macos",
+          "title": "CALL FOR PAPERS – ACL Rolling Review",
+          "note": "aclrollingreview.org"
+        },
+        {
+          "start": "13:21",
+          "end": "13:23",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Progress Updates - Google Sheets",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "13:23",
+          "end": "13:27",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · bench",
+          "note": "12 hits"
+        },
+        {
+          "start": "13:31",
+          "end": "13:51",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Progress Updates - Google Sheets",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "13:51",
+          "end": "13:56",
+          "cat": "admin",
+          "src": "macos",
+          "title": "jinman - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "13:56",
+          "end": "14:06",
+          "cat": "writing",
+          "src": "macos",
+          "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf",
+          "note": "overleaf.com"
+        },
+        {
+          "start": "14:09",
+          "end": "14:14",
+          "cat": "personal",
+          "src": "macos",
+          "title": "主页 / X",
+          "note": "x.com"
+        },
+        {
+          "start": "14:14",
+          "end": "14:26",
+          "cat": "personal",
+          "src": "macos",
+          "title": "主页 / X",
+          "note": "x.com"
+        },
+        {
+          "start": "14:27",
+          "end": "14:30",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Copy of Week9.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "14:33",
+          "end": "14:39",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Week9.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "14:41",
+          "end": "14:42",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Week9.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "14:46",
+          "end": "14:48",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Excalidraw Whiteboard",
+          "note": "excalidraw.com"
+        },
+        {
+          "start": "14:48",
+          "end": "14:51",
+          "cat": "personal",
+          "src": "macos",
+          "title": "A Complete Guide to Principal Component Analysis – PCA in Ma",
+          "note": "ashutoshtripathi.com"
+        },
+        {
+          "start": "14:51",
+          "end": "14:52",
+          "cat": "admin",
+          "src": "macos",
+          "title": "PCA - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "14:52",
+          "end": "14:54",
+          "cat": "admin",
+          "src": "macos",
+          "title": "PCA - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "14:56",
+          "end": "15:00",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Week9.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "15:01",
+          "end": "15:03",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Week9.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "15:05",
+          "end": "15:10",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Week9.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "15:12",
+          "end": "15:34",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Week9.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "15:35",
+          "end": "15:36",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Week9.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "15:42",
+          "end": "15:44",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Week9.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "15:44",
+          "end": "15:46",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Week9.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "15:48",
+          "end": "15:49",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Week9.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "15:54",
+          "end": "15:57",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Week9.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "15:57",
+          "end": "15:59",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Automating eval design and hillclimbing with Claude / claude",
+          "note": "claude.dev"
+        },
+        {
+          "start": "15:59",
+          "end": "16:01",
+          "cat": "writing",
+          "src": "macos",
+          "title": "week9_prac.pdf",
+          "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+        },
+        {
+          "start": "16:03",
+          "end": "16:05",
+          "cat": "personal",
+          "src": "macos",
+          "title": "主页 / X",
+          "note": "x.com"
+        },
+        {
+          "start": "16:51",
+          "end": "16:59",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:59",
+          "end": "17:04",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "teams2",
+          "note": "com.microsoft.teams2"
+        },
+        {
+          "start": "17:04",
+          "end": "17:05",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "17:05",
+          "end": "17:08",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "17:08",
+          "end": "17:11",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "teams2",
+          "note": "com.microsoft.teams2"
+        },
+        {
+          "start": "17:12",
+          "end": "17:15",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Oct ARR Review/papers - Google Sheets",
+          "note": "docs.google.com"
+        }
+      ],
+      "logged": 363,
+      "real": 315,
+      "deep": 315,
+      "ratio": 0.8669805054464346,
       "stats": {
-        "contextSwitches": 0,
+        "contextSwitches": 24,
         "tabsOpened": 0,
-        "longestFocus": "0m",
-        "justOneMoreThing": 0
+        "longestFocus": "3h 6m",
+        "justOneMoreThing": 4
       }
     },
     {
