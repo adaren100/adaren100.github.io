@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-10-10T10:20:53+11:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-10-11T11:05:06+11:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -90955,17 +90955,266 @@
         "weekend": true,
         "dateShort": "Sat, Oct 10",
         "dateLong": "Saturday, October 10",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "12:49",
+        "dayEnd": "20:12",
+        "events": [
+          {
+            "start": "12:49",
+            "end": "12:50",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Post | LinkedIn",
+            "note": "linkedin.com"
+          },
+          {
+            "start": "12:51",
+            "end": "12:52",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Robin Carpentier | LinkedIn",
+            "note": "linkedin.com"
+          },
+          {
+            "start": "12:53",
+            "end": "12:55",
+            "cat": "research",
+            "src": "macos",
+            "title": "巴黎-萨克雷大学 - 维基百科，自由的百科全书",
+            "note": "zh.wikipedia.org"
+          },
+          {
+            "start": "12:55",
+            "end": "13:03",
+            "cat": "research",
+            "src": "macos",
+            "title": "ACL ARR 2026 October Qualifications | OpenReview",
+            "note": "openreview.net"
+          },
+          {
+            "start": "13:03",
+            "end": "13:09",
+            "cat": "research",
+            "src": "macos",
+            "title": "ChatGPT for Chrome",
+            "note": "chatgpt.com"
+          },
+          {
+            "start": "13:13",
+            "end": "13:33",
+            "cat": "research",
+            "src": "macos",
+            "title": "ChatGPT for Chrome",
+            "note": "chatgpt.com"
+          },
+          {
+            "start": "13:34",
+            "end": "13:56",
+            "cat": "writing",
+            "src": "macos",
+            "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf",
+            "note": "overleaf.com"
+          },
+          {
+            "start": "13:56",
+            "end": "14:06",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "14:06",
+            "end": "14:29",
+            "cat": "writing",
+            "src": "macos",
+            "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf",
+            "note": "overleaf.com"
+          },
+          {
+            "start": "15:22",
+            "end": "15:25",
+            "cat": "writing",
+            "src": "macos",
+            "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf",
+            "note": "overleaf.com"
+          },
+          {
+            "start": "15:26",
+            "end": "15:35",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Sign in - Google Accounts",
+            "note": "accounts.google.com"
+          },
+          {
+            "start": "15:37",
+            "end": "15:38",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Sign in - Google Accounts",
+            "note": "accounts.google.com"
+          },
+          {
+            "start": "15:41",
+            "end": "15:43",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Sign in - Google Accounts",
+            "note": "accounts.google.com"
+          },
+          {
+            "start": "15:47",
+            "end": "16:09",
+            "cat": "personal",
+            "src": "macos",
+            "title": "overview_v2.pdf",
+            "note": "file:///Users/ada/Documents/MQ/Phd/Minor"
+          },
+          {
+            "start": "16:09",
+            "end": "16:19",
+            "cat": "writing",
+            "src": "macos",
+            "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea",
+            "note": "overleaf.com"
+          },
+          {
+            "start": "16:20",
+            "end": "16:24",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "37 hits"
+          },
+          {
+            "start": "16:24",
+            "end": "16:25",
+            "cat": "writing",
+            "src": "macos",
+            "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea",
+            "note": "overleaf.com"
+          },
+          {
+            "start": "16:25",
+            "end": "16:27",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:27",
+            "end": "16:30",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "23 hits"
+          },
+          {
+            "start": "16:30",
+            "end": "17:10",
+            "cat": "writing",
+            "src": "macos",
+            "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea",
+            "note": "overleaf.com"
+          },
+          {
+            "start": "17:10",
+            "end": "17:28",
+            "cat": "research",
+            "src": "macos",
+            "title": "Writing Revision Summary",
+            "note": "chatgpt.com"
+          },
+          {
+            "start": "17:28",
+            "end": "17:42",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "66 hits"
+          },
+          {
+            "start": "17:43",
+            "end": "17:53",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "58 hits"
+          },
+          {
+            "start": "17:54",
+            "end": "17:55",
+            "cat": "research",
+            "src": "macos",
+            "title": "Preview",
+            "note": "com.apple.Preview"
+          },
+          {
+            "start": "17:55",
+            "end": "18:09",
+            "cat": "writing",
+            "src": "macos",
+            "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf",
+            "note": "overleaf.com"
+          },
+          {
+            "start": "18:09",
+            "end": "18:13",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "11 hits"
+          },
+          {
+            "start": "18:13",
+            "end": "18:38",
+            "cat": "writing",
+            "src": "macos",
+            "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf",
+            "note": "overleaf.com"
+          },
+          {
+            "start": "18:38",
+            "end": "18:42",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "15 hits"
+          },
+          {
+            "start": "18:42",
+            "end": "19:14",
+            "cat": "writing",
+            "src": "macos",
+            "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf",
+            "note": "overleaf.com"
+          },
+          {
+            "start": "19:14",
+            "end": "19:23",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "80 hits"
+          },
+          {
+            "start": "19:23",
+            "end": "20:12",
+            "cat": "writing",
+            "src": "macos",
+            "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf",
+            "note": "overleaf.com"
+          }
+        ],
+        "logged": 371,
+        "real": 334,
+        "deep": 334,
+        "ratio": 0.900453117168792,
         "stats": {
-          "contextSwitches": 0,
+          "contextSwitches": 21,
           "tabsOpened": 0,
-          "longestFocus": "0m",
+          "longestFocus": "4h 1m",
           "justOneMoreThing": 0
         }
       },
@@ -94849,17 +95098,266 @@
       "weekend": true,
       "dateShort": "Sat, Oct 10",
       "dateLong": "Saturday, October 10",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "12:49",
+      "dayEnd": "20:12",
+      "events": [
+        {
+          "start": "12:49",
+          "end": "12:50",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Post | LinkedIn",
+          "note": "linkedin.com"
+        },
+        {
+          "start": "12:51",
+          "end": "12:52",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Robin Carpentier | LinkedIn",
+          "note": "linkedin.com"
+        },
+        {
+          "start": "12:53",
+          "end": "12:55",
+          "cat": "research",
+          "src": "macos",
+          "title": "巴黎-萨克雷大学 - 维基百科，自由的百科全书",
+          "note": "zh.wikipedia.org"
+        },
+        {
+          "start": "12:55",
+          "end": "13:03",
+          "cat": "research",
+          "src": "macos",
+          "title": "ACL ARR 2026 October Qualifications | OpenReview",
+          "note": "openreview.net"
+        },
+        {
+          "start": "13:03",
+          "end": "13:09",
+          "cat": "research",
+          "src": "macos",
+          "title": "ChatGPT for Chrome",
+          "note": "chatgpt.com"
+        },
+        {
+          "start": "13:13",
+          "end": "13:33",
+          "cat": "research",
+          "src": "macos",
+          "title": "ChatGPT for Chrome",
+          "note": "chatgpt.com"
+        },
+        {
+          "start": "13:34",
+          "end": "13:56",
+          "cat": "writing",
+          "src": "macos",
+          "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf",
+          "note": "overleaf.com"
+        },
+        {
+          "start": "13:56",
+          "end": "14:06",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "14:06",
+          "end": "14:29",
+          "cat": "writing",
+          "src": "macos",
+          "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf",
+          "note": "overleaf.com"
+        },
+        {
+          "start": "15:22",
+          "end": "15:25",
+          "cat": "writing",
+          "src": "macos",
+          "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf",
+          "note": "overleaf.com"
+        },
+        {
+          "start": "15:26",
+          "end": "15:35",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Sign in - Google Accounts",
+          "note": "accounts.google.com"
+        },
+        {
+          "start": "15:37",
+          "end": "15:38",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Sign in - Google Accounts",
+          "note": "accounts.google.com"
+        },
+        {
+          "start": "15:41",
+          "end": "15:43",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Sign in - Google Accounts",
+          "note": "accounts.google.com"
+        },
+        {
+          "start": "15:47",
+          "end": "16:09",
+          "cat": "personal",
+          "src": "macos",
+          "title": "overview_v2.pdf",
+          "note": "file:///Users/ada/Documents/MQ/Phd/Minor"
+        },
+        {
+          "start": "16:09",
+          "end": "16:19",
+          "cat": "writing",
+          "src": "macos",
+          "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea",
+          "note": "overleaf.com"
+        },
+        {
+          "start": "16:20",
+          "end": "16:24",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "37 hits"
+        },
+        {
+          "start": "16:24",
+          "end": "16:25",
+          "cat": "writing",
+          "src": "macos",
+          "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea",
+          "note": "overleaf.com"
+        },
+        {
+          "start": "16:25",
+          "end": "16:27",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:27",
+          "end": "16:30",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "23 hits"
+        },
+        {
+          "start": "16:30",
+          "end": "17:10",
+          "cat": "writing",
+          "src": "macos",
+          "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea",
+          "note": "overleaf.com"
+        },
+        {
+          "start": "17:10",
+          "end": "17:28",
+          "cat": "research",
+          "src": "macos",
+          "title": "Writing Revision Summary",
+          "note": "chatgpt.com"
+        },
+        {
+          "start": "17:28",
+          "end": "17:42",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "66 hits"
+        },
+        {
+          "start": "17:43",
+          "end": "17:53",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "58 hits"
+        },
+        {
+          "start": "17:54",
+          "end": "17:55",
+          "cat": "research",
+          "src": "macos",
+          "title": "Preview",
+          "note": "com.apple.Preview"
+        },
+        {
+          "start": "17:55",
+          "end": "18:09",
+          "cat": "writing",
+          "src": "macos",
+          "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf",
+          "note": "overleaf.com"
+        },
+        {
+          "start": "18:09",
+          "end": "18:13",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "11 hits"
+        },
+        {
+          "start": "18:13",
+          "end": "18:38",
+          "cat": "writing",
+          "src": "macos",
+          "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf",
+          "note": "overleaf.com"
+        },
+        {
+          "start": "18:38",
+          "end": "18:42",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "15 hits"
+        },
+        {
+          "start": "18:42",
+          "end": "19:14",
+          "cat": "writing",
+          "src": "macos",
+          "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf",
+          "note": "overleaf.com"
+        },
+        {
+          "start": "19:14",
+          "end": "19:23",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "80 hits"
+        },
+        {
+          "start": "19:23",
+          "end": "20:12",
+          "cat": "writing",
+          "src": "macos",
+          "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf",
+          "note": "overleaf.com"
+        }
+      ],
+      "logged": 371,
+      "real": 334,
+      "deep": 334,
+      "ratio": 0.900453117168792,
       "stats": {
-        "contextSwitches": 0,
+        "contextSwitches": 21,
         "tabsOpened": 0,
-        "longestFocus": "0m",
+        "longestFocus": "4h 1m",
         "justOneMoreThing": 0
       }
     },
