@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-10-12T10:20:16+11:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-10-13T10:20:18+11:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -90583,1110 +90583,1110 @@
         "weekend": false
       },
       {
-        "key": "2026-10-9",
-        "dayNum": 9,
-        "dow": 5,
-        "weekend": false,
-        "dateShort": "Fri, Oct 9",
         "dateLong": "Friday, October 9",
-        "dayStart": "09:10",
+        "dateShort": "Fri, Oct 9",
         "dayEnd": "17:15",
+        "dayNum": 9,
+        "dayStart": "09:10",
+        "deep": 319,
+        "dow": 5,
         "events": [
           {
-            "start": "09:10",
+            "cat": "coding",
             "end": "11:34",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "09:10",
+            "title": "VSCode"
           },
           {
-            "start": "11:44",
+            "cat": "coding",
             "end": "11:48",
-            "cat": "coding",
+            "note": "26 hits",
             "src": "claude",
-            "title": "Claude session · bench",
-            "note": "26 hits"
+            "start": "11:44",
+            "title": "Claude session · bench"
           },
           {
-            "start": "11:50",
+            "cat": "coding",
             "end": "11:52",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "11:50",
+            "title": "VSCode"
           },
           {
-            "start": "11:59",
+            "cat": "coding",
             "end": "12:15",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "11:59",
+            "title": "VSCode"
           },
           {
-            "start": "12:23",
+            "cat": "coding",
             "end": "12:45",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "12:23",
+            "title": "VSCode"
           },
           {
-            "start": "12:45",
+            "cat": "admin",
             "end": "12:48",
-            "cat": "admin",
+            "note": "com.tinyspeck.slackmacgap",
             "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "start": "12:45",
+            "title": "slackmacgap"
           },
           {
-            "start": "12:49",
+            "cat": "research",
             "end": "12:51",
-            "cat": "research",
+            "note": "aclrollingreview.org",
             "src": "macos",
-            "title": "CALL FOR PAPERS – ACL Rolling Review",
-            "note": "aclrollingreview.org"
+            "start": "12:49",
+            "title": "CALL FOR PAPERS – ACL Rolling Review"
           },
           {
-            "start": "12:51",
+            "cat": "admin",
             "end": "12:58",
-            "cat": "admin",
+            "note": "com.tinyspeck.slackmacgap",
             "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "start": "12:51",
+            "title": "slackmacgap"
           },
           {
-            "start": "13:00",
+            "cat": "admin",
             "end": "13:03",
-            "cat": "admin",
+            "note": "com.tinyspeck.slackmacgap",
             "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "start": "13:00",
+            "title": "slackmacgap"
           },
           {
-            "start": "13:03",
+            "cat": "coding",
             "end": "13:20",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "13:03",
+            "title": "VSCode"
           },
           {
-            "start": "13:20",
+            "cat": "research",
             "end": "13:21",
-            "cat": "research",
+            "note": "aclrollingreview.org",
             "src": "macos",
-            "title": "CALL FOR PAPERS – ACL Rolling Review",
-            "note": "aclrollingreview.org"
+            "start": "13:20",
+            "title": "CALL FOR PAPERS – ACL Rolling Review"
           },
           {
-            "start": "13:21",
+            "cat": "writing",
             "end": "13:23",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Progress Updates - Google Sheets",
-            "note": "docs.google.com"
+            "start": "13:21",
+            "title": "Progress Updates - Google Sheets"
           },
           {
-            "start": "13:23",
+            "cat": "coding",
             "end": "13:27",
-            "cat": "coding",
+            "note": "12 hits",
             "src": "claude",
-            "title": "Claude session · bench",
-            "note": "12 hits"
+            "start": "13:23",
+            "title": "Claude session · bench"
           },
           {
-            "start": "13:31",
+            "cat": "writing",
             "end": "13:51",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Progress Updates - Google Sheets",
-            "note": "docs.google.com"
+            "start": "13:31",
+            "title": "Progress Updates - Google Sheets"
           },
           {
-            "start": "13:51",
+            "cat": "admin",
             "end": "13:56",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "jinman - Google Search",
-            "note": "google.com"
+            "start": "13:51",
+            "title": "jinman - Google Search"
           },
           {
-            "start": "13:56",
+            "cat": "writing",
             "end": "14:06",
-            "cat": "writing",
+            "note": "overleaf.com",
             "src": "macos",
-            "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf",
-            "note": "overleaf.com"
+            "start": "13:56",
+            "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf"
           },
           {
-            "start": "14:09",
+            "cat": "personal",
             "end": "14:14",
-            "cat": "personal",
+            "note": "x.com",
             "src": "macos",
-            "title": "主页 / X",
-            "note": "x.com"
+            "start": "14:09",
+            "title": "主页 / X"
           },
           {
-            "start": "14:14",
+            "cat": "personal",
             "end": "14:26",
-            "cat": "personal",
+            "note": "x.com",
             "src": "macos",
-            "title": "主页 / X",
-            "note": "x.com"
+            "start": "14:14",
+            "title": "主页 / X"
           },
           {
-            "start": "14:27",
+            "cat": "coding",
             "end": "14:30",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "Copy of Week9.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "14:27",
+            "title": "Copy of Week9.ipynb - Colab"
           },
           {
-            "start": "14:33",
+            "cat": "coding",
             "end": "14:39",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "Week9.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "14:33",
+            "title": "Week9.ipynb - Colab"
           },
           {
-            "start": "14:41",
+            "cat": "coding",
             "end": "14:42",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "Week9.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "14:41",
+            "title": "Week9.ipynb - Colab"
           },
           {
-            "start": "14:46",
+            "cat": "writing",
             "end": "14:48",
-            "cat": "writing",
+            "note": "excalidraw.com",
             "src": "macos",
-            "title": "Excalidraw Whiteboard",
-            "note": "excalidraw.com"
+            "start": "14:46",
+            "title": "Excalidraw Whiteboard"
           },
           {
-            "start": "14:48",
-            "end": "14:51",
             "cat": "research",
+            "end": "14:51",
+            "note": "ashutoshtripathi.com",
             "src": "macos",
-            "title": "A Complete Guide to Principal Component Analysis – PCA in Ma",
-            "note": "ashutoshtripathi.com"
+            "start": "14:48",
+            "title": "A Complete Guide to Principal Component Analysis – PCA in Ma"
           },
           {
-            "start": "14:51",
+            "cat": "admin",
             "end": "14:52",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "PCA - Google Search",
-            "note": "google.com"
+            "start": "14:51",
+            "title": "PCA - Google Search"
           },
           {
-            "start": "14:52",
+            "cat": "admin",
             "end": "14:54",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "PCA - Google Search",
-            "note": "google.com"
+            "start": "14:52",
+            "title": "PCA - Google Search"
           },
           {
-            "start": "14:56",
+            "cat": "coding",
             "end": "15:00",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "Week9.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "14:56",
+            "title": "Week9.ipynb - Colab"
           },
           {
-            "start": "15:01",
+            "cat": "coding",
             "end": "15:03",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "Week9.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "15:01",
+            "title": "Week9.ipynb - Colab"
           },
           {
-            "start": "15:05",
+            "cat": "coding",
             "end": "15:10",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "Week9.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "15:05",
+            "title": "Week9.ipynb - Colab"
           },
           {
-            "start": "15:12",
+            "cat": "coding",
             "end": "15:34",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "Week9.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "15:12",
+            "title": "Week9.ipynb - Colab"
           },
           {
-            "start": "15:35",
+            "cat": "coding",
             "end": "15:36",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "Week9.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "15:35",
+            "title": "Week9.ipynb - Colab"
           },
           {
-            "start": "15:42",
+            "cat": "coding",
             "end": "15:44",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "Week9.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "15:42",
+            "title": "Week9.ipynb - Colab"
           },
           {
-            "start": "15:44",
+            "cat": "coding",
             "end": "15:46",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "Week9.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "15:44",
+            "title": "Week9.ipynb - Colab"
           },
           {
-            "start": "15:48",
+            "cat": "coding",
             "end": "15:49",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "Week9.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "15:48",
+            "title": "Week9.ipynb - Colab"
           },
           {
-            "start": "15:54",
+            "cat": "coding",
             "end": "15:57",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "Week9.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "15:54",
+            "title": "Week9.ipynb - Colab"
           },
           {
-            "start": "15:57",
+            "cat": "coding",
             "end": "15:59",
-            "cat": "coding",
+            "note": "claude.dev",
             "src": "macos",
-            "title": "Automating eval design and hillclimbing with Claude / claude",
-            "note": "claude.dev"
+            "start": "15:57",
+            "title": "Automating eval design and hillclimbing with Claude / claude"
           },
           {
-            "start": "15:59",
+            "cat": "writing",
             "end": "16:01",
-            "cat": "writing",
+            "note": "file:///Users/ada/Documents/MQ/Phd/Teach",
             "src": "macos",
-            "title": "week9_prac.pdf",
-            "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+            "start": "15:59",
+            "title": "week9_prac.pdf"
           },
           {
-            "start": "16:03",
-            "end": "16:05",
             "cat": "personal",
+            "end": "16:05",
+            "note": "x.com",
             "src": "macos",
-            "title": "主页 / X",
-            "note": "x.com"
+            "start": "16:03",
+            "title": "主页 / X"
           },
           {
-            "start": "16:51",
-            "end": "16:59",
             "cat": "coding",
+            "end": "16:59",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "16:51",
+            "title": "VSCode"
           },
           {
-            "start": "16:59",
+            "cat": "meeting",
             "end": "17:04",
-            "cat": "meeting",
+            "note": "com.microsoft.teams2",
             "src": "macos",
-            "title": "teams2",
-            "note": "com.microsoft.teams2"
+            "start": "16:59",
+            "title": "teams2"
           },
           {
-            "start": "17:04",
+            "cat": "admin",
             "end": "17:05",
-            "cat": "admin",
+            "note": "com.tinyspeck.slackmacgap",
             "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "start": "17:04",
+            "title": "slackmacgap"
           },
           {
-            "start": "17:05",
+            "cat": "admin",
             "end": "17:08",
-            "cat": "admin",
+            "note": "com.tinyspeck.slackmacgap",
             "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "start": "17:05",
+            "title": "slackmacgap"
           },
           {
-            "start": "17:08",
-            "end": "17:11",
             "cat": "meeting",
+            "end": "17:11",
+            "note": "com.microsoft.teams2",
             "src": "macos",
-            "title": "teams2",
-            "note": "com.microsoft.teams2"
+            "start": "17:08",
+            "title": "teams2"
           },
           {
-            "start": "17:12",
-            "end": "17:15",
             "cat": "writing",
+            "end": "17:15",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Oct ARR Review/papers - Google Sheets",
-            "note": "docs.google.com"
+            "start": "17:12",
+            "title": "Oct ARR Review/papers - Google Sheets"
           }
         ],
+        "key": "2026-10-9",
         "logged": 363,
-        "real": 319,
-        "deep": 319,
         "ratio": 0.8790152657769461,
+        "real": 319,
         "stats": {
           "contextSwitches": 23,
-          "tabsOpened": 0,
+          "justOneMoreThing": 3,
           "longestFocus": "3h 6m",
-          "justOneMoreThing": 3
-        }
+          "tabsOpened": 0
+        },
+        "weekend": false
       },
       {
-        "key": "2026-10-10",
-        "dayNum": 10,
-        "dow": 6,
-        "weekend": true,
-        "dateShort": "Sat, Oct 10",
         "dateLong": "Saturday, October 10",
-        "dayStart": "12:49",
+        "dateShort": "Sat, Oct 10",
         "dayEnd": "23:09",
+        "dayNum": 10,
+        "dayStart": "12:49",
+        "deep": 432,
+        "dow": 6,
         "events": [
           {
-            "start": "12:49",
+            "cat": "admin",
             "end": "12:50",
-            "cat": "admin",
+            "note": "linkedin.com",
             "src": "macos",
-            "title": "Post | LinkedIn",
-            "note": "linkedin.com"
+            "start": "12:49",
+            "title": "Post | LinkedIn"
           },
           {
-            "start": "12:51",
+            "cat": "admin",
             "end": "12:52",
-            "cat": "admin",
+            "note": "linkedin.com",
             "src": "macos",
-            "title": "Robin Carpentier | LinkedIn",
-            "note": "linkedin.com"
+            "start": "12:51",
+            "title": "Robin Carpentier | LinkedIn"
           },
           {
-            "start": "12:53",
+            "cat": "research",
             "end": "12:55",
-            "cat": "research",
+            "note": "zh.wikipedia.org",
             "src": "macos",
-            "title": "巴黎-萨克雷大学 - 维基百科，自由的百科全书",
-            "note": "zh.wikipedia.org"
+            "start": "12:53",
+            "title": "巴黎-萨克雷大学 - 维基百科，自由的百科全书"
           },
           {
-            "start": "12:55",
+            "cat": "research",
             "end": "13:03",
-            "cat": "research",
+            "note": "openreview.net",
             "src": "macos",
-            "title": "ACL ARR 2026 October Qualifications | OpenReview",
-            "note": "openreview.net"
+            "start": "12:55",
+            "title": "ACL ARR 2026 October Qualifications | OpenReview"
           },
           {
-            "start": "13:03",
+            "cat": "research",
             "end": "13:09",
-            "cat": "research",
+            "note": "chatgpt.com",
             "src": "macos",
-            "title": "ChatGPT for Chrome",
-            "note": "chatgpt.com"
+            "start": "13:03",
+            "title": "ChatGPT for Chrome"
           },
           {
-            "start": "13:13",
+            "cat": "research",
             "end": "13:33",
-            "cat": "research",
+            "note": "chatgpt.com",
             "src": "macos",
-            "title": "ChatGPT for Chrome",
-            "note": "chatgpt.com"
+            "start": "13:13",
+            "title": "ChatGPT for Chrome"
           },
           {
-            "start": "13:34",
+            "cat": "writing",
             "end": "13:56",
-            "cat": "writing",
+            "note": "overleaf.com",
             "src": "macos",
-            "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf",
-            "note": "overleaf.com"
+            "start": "13:34",
+            "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf"
           },
           {
-            "start": "13:56",
+            "cat": "coding",
             "end": "14:06",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "13:56",
+            "title": "VSCode"
           },
           {
-            "start": "14:06",
+            "cat": "writing",
             "end": "14:29",
-            "cat": "writing",
+            "note": "overleaf.com",
             "src": "macos",
-            "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf",
-            "note": "overleaf.com"
+            "start": "14:06",
+            "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf"
           },
           {
-            "start": "15:22",
+            "cat": "writing",
             "end": "15:25",
-            "cat": "writing",
+            "note": "overleaf.com",
             "src": "macos",
-            "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf",
-            "note": "overleaf.com"
+            "start": "15:22",
+            "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf"
           },
           {
-            "start": "15:26",
+            "cat": "admin",
             "end": "15:35",
-            "cat": "admin",
+            "note": "accounts.google.com",
             "src": "macos",
-            "title": "Sign in - Google Accounts",
-            "note": "accounts.google.com"
+            "start": "15:26",
+            "title": "Sign in - Google Accounts"
           },
           {
-            "start": "15:37",
+            "cat": "admin",
             "end": "15:38",
-            "cat": "admin",
+            "note": "accounts.google.com",
             "src": "macos",
-            "title": "Sign in - Google Accounts",
-            "note": "accounts.google.com"
+            "start": "15:37",
+            "title": "Sign in - Google Accounts"
           },
           {
-            "start": "15:41",
+            "cat": "admin",
             "end": "15:43",
-            "cat": "admin",
+            "note": "accounts.google.com",
             "src": "macos",
-            "title": "Sign in - Google Accounts",
-            "note": "accounts.google.com"
+            "start": "15:41",
+            "title": "Sign in - Google Accounts"
           },
           {
-            "start": "15:47",
+            "cat": "writing",
             "end": "16:09",
-            "cat": "writing",
+            "note": "file:///Users/ada/Documents/MQ/Phd/Minor",
             "src": "macos",
-            "title": "overview_v2.pdf",
-            "note": "file:///Users/ada/Documents/MQ/Phd/Minor"
+            "start": "15:47",
+            "title": "overview_v2.pdf"
           },
           {
-            "start": "16:09",
+            "cat": "writing",
             "end": "16:19",
-            "cat": "writing",
+            "note": "overleaf.com",
             "src": "macos",
-            "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea",
-            "note": "overleaf.com"
+            "start": "16:09",
+            "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea"
           },
           {
-            "start": "16:20",
+            "cat": "coding",
             "end": "16:24",
-            "cat": "coding",
+            "note": "37 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "37 hits"
+            "start": "16:20",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "16:24",
+            "cat": "writing",
             "end": "16:25",
-            "cat": "writing",
+            "note": "overleaf.com",
             "src": "macos",
-            "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea",
-            "note": "overleaf.com"
+            "start": "16:24",
+            "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea"
           },
           {
-            "start": "16:25",
+            "cat": "coding",
             "end": "16:27",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "16:25",
+            "title": "VSCode"
           },
           {
-            "start": "16:27",
+            "cat": "coding",
             "end": "16:30",
-            "cat": "coding",
+            "note": "23 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "23 hits"
+            "start": "16:27",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "16:30",
+            "cat": "writing",
             "end": "17:10",
-            "cat": "writing",
+            "note": "overleaf.com",
             "src": "macos",
-            "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea",
-            "note": "overleaf.com"
+            "start": "16:30",
+            "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea"
           },
           {
-            "start": "17:10",
+            "cat": "research",
             "end": "17:28",
-            "cat": "research",
+            "note": "chatgpt.com",
             "src": "macos",
-            "title": "Writing Revision Summary",
-            "note": "chatgpt.com"
+            "start": "17:10",
+            "title": "Writing Revision Summary"
           },
           {
-            "start": "17:28",
+            "cat": "coding",
             "end": "17:42",
-            "cat": "coding",
+            "note": "66 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "66 hits"
+            "start": "17:28",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "17:43",
+            "cat": "coding",
             "end": "17:53",
-            "cat": "coding",
+            "note": "58 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "58 hits"
+            "start": "17:43",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "17:54",
+            "cat": "research",
             "end": "17:55",
-            "cat": "research",
+            "note": "com.apple.Preview",
             "src": "macos",
-            "title": "Preview",
-            "note": "com.apple.Preview"
+            "start": "17:54",
+            "title": "Preview"
           },
           {
-            "start": "17:55",
+            "cat": "writing",
             "end": "18:09",
-            "cat": "writing",
+            "note": "overleaf.com",
             "src": "macos",
-            "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf",
-            "note": "overleaf.com"
+            "start": "17:55",
+            "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf"
           },
           {
-            "start": "18:09",
+            "cat": "coding",
             "end": "18:13",
-            "cat": "coding",
+            "note": "11 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "11 hits"
+            "start": "18:09",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "18:13",
+            "cat": "writing",
             "end": "18:38",
-            "cat": "writing",
+            "note": "overleaf.com",
             "src": "macos",
-            "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf",
-            "note": "overleaf.com"
+            "start": "18:13",
+            "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf"
           },
           {
-            "start": "18:38",
+            "cat": "coding",
             "end": "18:42",
-            "cat": "coding",
+            "note": "15 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "15 hits"
+            "start": "18:38",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "18:42",
+            "cat": "writing",
             "end": "19:14",
-            "cat": "writing",
+            "note": "overleaf.com",
             "src": "macos",
-            "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf",
-            "note": "overleaf.com"
+            "start": "18:42",
+            "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf"
           },
           {
-            "start": "19:14",
+            "cat": "coding",
             "end": "19:23",
-            "cat": "coding",
+            "note": "80 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "80 hits"
+            "start": "19:14",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "19:23",
+            "cat": "writing",
             "end": "20:12",
-            "cat": "writing",
+            "note": "overleaf.com",
             "src": "macos",
-            "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf",
-            "note": "overleaf.com"
+            "start": "19:23",
+            "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf"
           },
           {
-            "start": "21:35",
+            "cat": "writing",
             "end": "21:37",
-            "cat": "writing",
+            "note": "overleaf.com",
             "src": "macos",
-            "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf",
-            "note": "overleaf.com"
+            "start": "21:35",
+            "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf"
           },
           {
-            "start": "21:37",
+            "cat": "coding",
             "end": "21:42",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "21:37",
+            "title": "VSCode"
           },
           {
-            "start": "21:54",
+            "cat": "coding",
             "end": "21:55",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "21:54",
+            "title": "VSCode"
           },
           {
-            "start": "21:55",
+            "cat": "admin",
             "end": "21:57",
-            "cat": "admin",
+            "note": "com.tinyspeck.slackmacgap",
             "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "start": "21:55",
+            "title": "slackmacgap"
           },
           {
-            "start": "21:57",
+            "cat": "coding",
             "end": "22:00",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "21:57",
+            "title": "VSCode"
           },
           {
-            "start": "22:00",
-            "end": "22:01",
             "cat": "admin",
+            "end": "22:01",
+            "note": "com.tinyspeck.slackmacgap",
             "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "start": "22:00",
+            "title": "slackmacgap"
           },
           {
-            "start": "22:03",
+            "cat": "writing",
             "end": "22:10",
-            "cat": "writing",
+            "note": "file:///Users/ada/Documents/MQ/Phd/Minor",
             "src": "macos",
-            "title": "EduAgentBench_ARR-Oct_UN.pdf",
-            "note": "file:///Users/ada/Documents/MQ/Phd/Minor"
+            "start": "22:03",
+            "title": "EduAgentBench_ARR-Oct_UN.pdf"
           },
           {
-            "start": "22:10",
+            "cat": "coding",
             "end": "22:19",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "22:10",
+            "title": "VSCode"
           },
           {
-            "start": "22:20",
+            "cat": "writing",
             "end": "22:22",
-            "cat": "writing",
+            "note": "file:///Users/ada/Documents/MQ/Phd/Minor",
             "src": "macos",
-            "title": "EduAgentBench_ARR-Oct_UN.pdf",
-            "note": "file:///Users/ada/Documents/MQ/Phd/Minor"
+            "start": "22:20",
+            "title": "EduAgentBench_ARR-Oct_UN.pdf"
           },
           {
-            "start": "22:22",
+            "cat": "coding",
             "end": "22:23",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "22:22",
+            "title": "VSCode"
           },
           {
-            "start": "22:23",
-            "end": "22:27",
             "cat": "writing",
+            "end": "22:27",
+            "note": "file:///Users/ada/Documents/MQ/Phd/Minor",
             "src": "macos",
-            "title": "EduAgentBench_ARR-Oct_UN.pdf",
-            "note": "file:///Users/ada/Documents/MQ/Phd/Minor"
+            "start": "22:23",
+            "title": "EduAgentBench_ARR-Oct_UN.pdf"
           },
           {
-            "start": "22:27",
-            "end": "22:33",
             "cat": "research",
+            "end": "22:33",
+            "note": "chatgpt.com",
             "src": "macos",
-            "title": "Remove Parentheses",
-            "note": "chatgpt.com"
+            "start": "22:27",
+            "title": "Remove Parentheses"
           },
           {
-            "start": "22:34",
-            "end": "23:09",
             "cat": "coding",
+            "end": "23:09",
+            "note": "openrouter.ai",
             "src": "macos",
-            "title": "App & Agent Rankings | OpenRouter",
-            "note": "openrouter.ai"
+            "start": "22:34",
+            "title": "App & Agent Rankings | OpenRouter"
           }
         ],
+        "key": "2026-10-10",
         "logged": 450,
-        "real": 432,
-        "deep": 432,
         "ratio": 0.9610208623138224,
+        "real": 432,
         "stats": {
           "contextSwitches": 31,
-          "tabsOpened": 0,
+          "justOneMoreThing": 2,
           "longestFocus": "4h 32m",
-          "justOneMoreThing": 2
-        }
+          "tabsOpened": 0
+        },
+        "weekend": true
       },
       {
-        "key": "2026-10-11",
-        "dayNum": 11,
-        "dow": 0,
-        "weekend": true,
-        "dateShort": "Sun, Oct 11",
         "dateLong": "Sunday, October 11",
-        "dayStart": "11:17",
+        "dateShort": "Sun, Oct 11",
         "dayEnd": "22:14",
+        "dayNum": 11,
+        "dayStart": "11:17",
+        "deep": 462,
+        "dow": 0,
         "events": [
           {
-            "start": "11:17",
+            "cat": "coding",
             "end": "11:20",
-            "cat": "coding",
+            "note": "openrouter.ai",
             "src": "macos",
-            "title": "App & Agent Rankings | OpenRouter",
-            "note": "openrouter.ai"
+            "start": "11:17",
+            "title": "App & Agent Rankings | OpenRouter"
           },
           {
-            "start": "11:20",
+            "cat": "personal",
             "end": "11:22",
-            "cat": "personal",
+            "note": "youtube.com",
             "src": "macos",
-            "title": "(35) Morning Fresh Start | Cozy Cafe Jazz BGM for Relaxing D",
-            "note": "youtube.com"
+            "start": "11:20",
+            "title": "(35) Morning Fresh Start | Cozy Cafe Jazz BGM for Relaxing D"
           },
           {
-            "start": "11:22",
+            "cat": "personal",
             "end": "11:25",
-            "cat": "personal",
+            "note": "x.com",
             "src": "macos",
-            "title": "主页 / X",
-            "note": "x.com"
+            "start": "11:22",
+            "title": "主页 / X"
           },
           {
-            "start": "11:49",
+            "cat": "coding",
             "end": "12:58",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "11:49",
+            "title": "codex"
           },
           {
-            "start": "12:58",
+            "cat": "coding",
             "end": "12:59",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "12:58",
+            "title": "VSCode"
           },
           {
-            "start": "13:17",
+            "cat": "coding",
             "end": "13:24",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "13:17",
+            "title": "VSCode"
           },
           {
-            "start": "13:26",
-            "end": "13:29",
             "cat": "personal",
+            "end": "13:29",
+            "note": "x.com",
             "src": "macos",
-            "title": "主页 / X",
-            "note": "x.com"
+            "start": "13:26",
+            "title": "主页 / X"
           },
           {
-            "start": "13:29",
+            "cat": "admin",
             "end": "13:30",
-            "cat": "admin",
+            "note": "com.tinyspeck.slackmacgap",
             "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "start": "13:29",
+            "title": "slackmacgap"
           },
           {
-            "start": "13:32",
+            "cat": "research",
             "end": "13:38",
-            "cat": "research",
+            "note": "openreview.net",
             "src": "macos",
-            "title": "Search | OpenReview",
-            "note": "openreview.net"
+            "start": "13:32",
+            "title": "Search | OpenReview"
           },
           {
-            "start": "13:38",
+            "cat": "coding",
             "end": "13:39",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "13:38",
+            "title": "VSCode"
           },
           {
-            "start": "13:39",
+            "cat": "research",
             "end": "13:44",
-            "cat": "research",
+            "note": "openreview.net",
             "src": "macos",
-            "title": "Search | OpenReview",
-            "note": "openreview.net"
+            "start": "13:39",
+            "title": "Search | OpenReview"
           },
           {
-            "start": "13:45",
+            "cat": "writing",
             "end": "13:59",
-            "cat": "writing",
+            "note": "overleaf.com",
             "src": "macos",
-            "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf",
-            "note": "overleaf.com"
+            "start": "13:45",
+            "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf"
           },
           {
-            "start": "14:01",
+            "cat": "writing",
             "end": "14:23",
-            "cat": "writing",
+            "note": "overleaf.com",
             "src": "macos",
-            "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf",
-            "note": "overleaf.com"
+            "start": "14:01",
+            "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf"
           },
           {
-            "start": "14:38",
+            "cat": "writing",
             "end": "14:55",
-            "cat": "writing",
+            "note": "overleaf.com",
             "src": "macos",
-            "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf",
-            "note": "overleaf.com"
+            "start": "14:38",
+            "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf"
           },
           {
-            "start": "14:57",
+            "cat": "research",
             "end": "15:06",
-            "cat": "research",
+            "note": "openai.com",
             "src": "macos",
-            "title": "GPT-6 and Intelligent UI for everyone | OpenAI",
-            "note": "openai.com"
+            "start": "14:57",
+            "title": "GPT-6 and Intelligent UI for everyone | OpenAI"
           },
           {
-            "start": "15:06",
+            "cat": "coding",
             "end": "15:08",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "15:06",
+            "title": "VSCode"
           },
           {
-            "start": "15:09",
+            "cat": "coding",
             "end": "15:10",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "15:09",
+            "title": "VSCode"
           },
           {
-            "start": "15:10",
-            "end": "15:13",
             "cat": "research",
+            "end": "15:13",
+            "note": "openai.com",
             "src": "macos",
-            "title": "GPT-6 and Intelligent UI for everyone | OpenAI",
-            "note": "openai.com"
+            "start": "15:10",
+            "title": "GPT-6 and Intelligent UI for everyone | OpenAI"
           },
           {
-            "start": "15:13",
+            "cat": "coding",
             "end": "15:41",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "15:13",
+            "title": "VSCode"
           },
           {
-            "start": "15:44",
+            "cat": "coding",
             "end": "16:17",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "15:44",
+            "title": "VSCode"
           },
           {
-            "start": "16:17",
+            "cat": "coding",
             "end": "16:23",
-            "cat": "coding",
+            "note": "19 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "19 hits"
+            "start": "16:17",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "16:23",
+            "cat": "coding",
             "end": "17:05",
-            "cat": "coding",
+            "note": "openrouter.ai",
             "src": "macos",
-            "title": "Workspace Overview | Settings | OpenRouter",
-            "note": "openrouter.ai"
+            "start": "16:23",
+            "title": "Workspace Overview | Settings | OpenRouter"
           },
           {
-            "start": "17:05",
+            "cat": "coding",
             "end": "17:22",
-            "cat": "coding",
+            "note": "71 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "71 hits"
+            "start": "17:05",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "17:23",
+            "cat": "coding",
             "end": "17:31",
-            "cat": "coding",
+            "note": "48 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "48 hits"
+            "start": "17:23",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "17:31",
+            "cat": "writing",
             "end": "17:44",
-            "cat": "writing",
+            "note": "overleaf.com",
             "src": "macos",
-            "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea",
-            "note": "overleaf.com"
+            "start": "17:31",
+            "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea"
           },
           {
-            "start": "17:44",
+            "cat": "coding",
             "end": "17:48",
-            "cat": "coding",
+            "note": "17 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "17 hits"
+            "start": "17:44",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "17:48",
+            "cat": "writing",
             "end": "17:55",
-            "cat": "writing",
+            "note": "overleaf.com",
             "src": "macos",
-            "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea",
-            "note": "overleaf.com"
+            "start": "17:48",
+            "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea"
           },
           {
-            "start": "19:13",
+            "cat": "coding",
             "end": "19:19",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "19:13",
+            "title": "VSCode"
           },
           {
-            "start": "19:19",
+            "cat": "coding",
             "end": "19:25",
-            "cat": "coding",
+            "note": "34 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "34 hits"
+            "start": "19:19",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "19:31",
+            "cat": "coding",
             "end": "19:33",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "week10_prac.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "19:31",
+            "title": "week10_prac.ipynb - Colab"
           },
           {
-            "start": "19:34",
+            "cat": "coding",
             "end": "19:41",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "week10_prac.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "19:34",
+            "title": "week10_prac.ipynb - Colab"
           },
           {
-            "start": "19:42",
+            "cat": "writing",
             "end": "19:43",
-            "cat": "writing",
+            "note": "file:///Users/ada/Documents/MQ/Phd/Teach",
             "src": "macos",
-            "title": "week10_prac.pdf",
-            "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+            "start": "19:42",
+            "title": "week10_prac.pdf"
           },
           {
-            "start": "19:43",
+            "cat": "coding",
             "end": "19:51",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "19:43",
+            "title": "VSCode"
           },
           {
-            "start": "19:51",
-            "end": "19:54",
             "cat": "writing",
+            "end": "19:54",
+            "note": "file:///Users/ada/Documents/MQ/Phd/Teach",
             "src": "macos",
-            "title": "week10_prac.pdf",
-            "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+            "start": "19:51",
+            "title": "week10_prac.pdf"
           },
           {
-            "start": "19:54",
+            "cat": "coding",
             "end": "20:01",
-            "cat": "coding",
+            "note": "openrouter.ai",
             "src": "macos",
-            "title": "Credits | OpenRouter",
-            "note": "openrouter.ai"
+            "start": "19:54",
+            "title": "Credits | OpenRouter"
           },
           {
-            "start": "20:01",
+            "cat": "admin",
             "end": "20:15",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "macos",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "20:01",
+            "title": "Google Translate"
           },
           {
-            "start": "20:15",
+            "cat": "coding",
             "end": "20:29",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "20:15",
+            "title": "VSCode"
           },
           {
-            "start": "20:29",
+            "cat": "admin",
             "end": "20:35",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "macos",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "20:29",
+            "title": "Google Translate"
           },
           {
-            "start": "20:35",
+            "cat": "coding",
             "end": "20:39",
-            "cat": "coding",
+            "note": "4 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "4 hits"
+            "start": "20:35",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "20:39",
-            "end": "20:44",
             "cat": "admin",
+            "end": "20:44",
+            "note": "translate.google.com",
             "src": "macos",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "20:39",
+            "title": "Google Translate"
           },
           {
-            "start": "20:44",
+            "cat": "coding",
             "end": "20:58",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "20:44",
+            "title": "VSCode"
           },
           {
-            "start": "20:58",
+            "cat": "coding",
             "end": "22:07",
-            "cat": "coding",
+            "note": "64 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "64 hits"
+            "start": "20:58",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "22:11",
-            "end": "22:14",
             "cat": "coding",
+            "end": "22:14",
+            "note": "26 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "26 hits"
+            "start": "22:11",
+            "title": "Claude session · harbor"
           }
         ],
+        "key": "2026-10-11",
         "logged": 494,
-        "real": 462,
-        "deep": 462,
         "ratio": 0.935080828964783,
+        "real": 462,
         "stats": {
           "contextSwitches": 26,
-          "tabsOpened": 0,
+          "justOneMoreThing": 2,
           "longestFocus": "4h 37m",
-          "justOneMoreThing": 2
-        }
+          "tabsOpened": 0
+        },
+        "weekend": true
       },
       {
         "key": "2026-10-12",
@@ -91695,107 +91695,907 @@
         "weekend": false,
         "dateShort": "Mon, Oct 12",
         "dateLong": "Monday, October 12",
-        "dayStart": "06:00",
-        "dayEnd": "10:22",
+        "dayStart": "10:05",
+        "dayEnd": "05:59",
         "events": [
           {
-            "start": "06:00",
-            "end": "06:01",
+            "start": "10:05",
+            "end": "10:12",
             "cat": "coding",
-            "src": "local",
-            "title": "trajectory.json",
-            "note": "3 hits"
-          },
-          {
-            "start": "06:01",
-            "end": "06:05",
-            "cat": "coding",
-            "src": "local",
-            "title": "trajectory.json",
-            "note": "3 hits"
-          },
-          {
-            "start": "06:05",
-            "end": "06:06",
-            "cat": "writing",
-            "src": "local",
-            "title": "codex.txt",
-            "note": "1 hit"
-          },
-          {
-            "start": "06:06",
-            "end": "06:07",
-            "cat": "writing",
-            "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
-          },
-          {
-            "start": "06:07",
-            "end": "06:10",
-            "cat": "writing",
-            "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
-          },
-          {
-            "start": "06:10",
-            "end": "06:11",
-            "cat": "writing",
-            "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
-          },
-          {
-            "start": "06:11",
-            "end": "06:12",
-            "cat": "writing",
-            "src": "local",
-            "title": "claude-code.txt",
-            "note": "1 hit"
-          },
-          {
-            "start": "06:14",
-            "end": "06:19",
-            "cat": "writing",
-            "src": "local",
-            "title": "codex.txt",
-            "note": "1 hit"
-          },
-          {
-            "start": "10:04",
-            "end": "10:15",
-            "cat": "coding",
-            "src": "chrome",
+            "src": "macos",
             "title": "Credits | OpenRouter",
             "note": "openrouter.ai"
           },
           {
-            "start": "10:15",
-            "end": "10:18",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "10:12",
+            "end": "10:14",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "teams2",
+            "note": "com.microsoft.teams2"
           },
           {
-            "start": "10:18",
-            "end": "10:22",
+            "start": "10:16",
+            "end": "10:26",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "10:27",
+            "end": "10:29",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "10:58",
+            "end": "10:59",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "teams2",
+            "note": "com.microsoft.teams2"
+          },
+          {
+            "start": "10:59",
+            "end": "11:19",
+            "cat": "coding",
+            "src": "macos",
+            "title": "colab.research.google.com",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "11:26",
+            "end": "11:58",
+            "cat": "coding",
+            "src": "macos",
+            "title": "colab.research.google.com",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "11:59",
+            "end": "12:08",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Start your free trial of Tableau",
+            "note": "tableau.com"
+          },
+          {
+            "start": "12:09",
+            "end": "12:37",
+            "cat": "coding",
+            "src": "macos",
+            "title": "week10_prac.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "12:37",
+            "end": "12:38",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "12:38",
+            "end": "12:40",
+            "cat": "coding",
+            "src": "macos",
+            "title": "week10_prac.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "12:42",
+            "end": "12:44",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Start your free trial of Tableau",
+            "note": "tableau.com"
+          },
+          {
+            "start": "13:05",
+            "end": "13:09",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "13:09",
+            "end": "13:17",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Tableau Dashboard Showcase | Tableau",
+            "note": "tableau.com"
+          },
+          {
+            "start": "13:17",
+            "end": "13:18",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "13:19",
+            "end": "13:20",
+            "cat": "coding",
+            "src": "macos",
+            "title": "230313mzl4w4u92",
+            "note": "com.todesktop.230313mzl4w4u92"
+          },
+          {
+            "start": "13:20",
+            "end": "13:22",
+            "cat": "coding",
+            "src": "macos",
+            "title": "230313mzl4w4u92",
+            "note": "com.todesktop.230313mzl4w4u92"
+          },
+          {
+            "start": "13:22",
+            "end": "13:24",
+            "cat": "coding",
+            "src": "macos",
+            "title": "230313mzl4w4u92",
+            "note": "com.todesktop.230313mzl4w4u92"
+          },
+          {
+            "start": "13:26",
+            "end": "13:30",
+            "cat": "coding",
+            "src": "macos",
+            "title": "week10_prac.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "13:34",
+            "end": "13:36",
+            "cat": "coding",
+            "src": "macos",
+            "title": "week10_prac_solution.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "13:38",
+            "end": "13:40",
+            "cat": "coding",
+            "src": "macos",
+            "title": "week10_prac_solution.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "13:42",
+            "end": "13:43",
+            "cat": "coding",
+            "src": "macos",
+            "title": "week10_prac_solution.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "13:47",
+            "end": "13:50",
+            "cat": "coding",
+            "src": "macos",
+            "title": "week10_prac.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "13:50",
+            "end": "13:52",
+            "cat": "coding",
+            "src": "macos",
+            "title": "week10_prac.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "13:53",
+            "end": "13:54",
+            "cat": "coding",
+            "src": "macos",
+            "title": "week10_prac.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "13:57",
+            "end": "14:01",
+            "cat": "coding",
+            "src": "macos",
+            "title": "week10_prac.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "14:05",
+            "end": "14:08",
+            "cat": "coding",
+            "src": "macos",
+            "title": "week10_prac.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "14:10",
+            "end": "14:14",
+            "cat": "coding",
+            "src": "macos",
+            "title": "week10_prac.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "14:17",
+            "end": "14:21",
+            "cat": "coding",
+            "src": "macos",
+            "title": "week10_prac.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "14:22",
+            "end": "14:24",
+            "cat": "coding",
+            "src": "macos",
+            "title": "week10_prac.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "14:27",
+            "end": "14:29",
+            "cat": "coding",
+            "src": "macos",
+            "title": "week10_prac.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "14:36",
+            "end": "14:40",
+            "cat": "coding",
+            "src": "macos",
+            "title": "week10_prac.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "14:41",
+            "end": "14:43",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Credits | OpenRouter",
+            "note": "openrouter.ai"
+          },
+          {
+            "start": "14:43",
+            "end": "14:44",
+            "cat": "writing",
+            "src": "macos",
+            "title": "EduAgentBench_ARR-Oct_UN.pdf",
+            "note": "file:///Users/ada/Documents/MQ/Phd/Minor"
+          },
+          {
+            "start": "14:46",
+            "end": "14:48",
+            "cat": "research",
+            "src": "macos",
+            "title": "ACL ARR 2026 October | OpenReview",
+            "note": "openreview.net"
+          },
+          {
+            "start": "14:50",
+            "end": "14:51",
+            "cat": "writing",
+            "src": "macos",
+            "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf",
+            "note": "overleaf.com"
+          },
+          {
+            "start": "14:52",
+            "end": "14:54",
+            "cat": "research",
+            "src": "macos",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+            "note": "openreview.net"
+          },
+          {
+            "start": "14:55",
+            "end": "15:09",
+            "cat": "research",
+            "src": "macos",
+            "title": "Tutor, Not Solver: Designing a Guardrailed AI Assistant for ",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "15:09",
+            "end": "15:13",
+            "cat": "writing",
+            "src": "macos",
+            "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea",
+            "note": "overleaf.com"
+          },
+          {
+            "start": "15:13",
+            "end": "15:17",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "15:17",
+            "end": "15:20",
+            "cat": "writing",
+            "src": "macos",
+            "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea",
+            "note": "overleaf.com"
+          },
+          {
+            "start": "15:20",
+            "end": "15:22",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "15:23",
+            "end": "15:59",
+            "cat": "research",
+            "src": "macos",
+            "title": "1Introduction",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "16:00",
+            "end": "16:02",
             "cat": "coding",
             "src": "claude",
             "title": "Claude session · harbor",
-            "note": "64 hits"
+            "note": "78 hits"
+          },
+          {
+            "start": "16:03",
+            "end": "16:05",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "78 hits"
+          },
+          {
+            "start": "16:05",
+            "end": "16:18",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Word",
+            "note": "com.microsoft.Word"
+          },
+          {
+            "start": "16:19",
+            "end": "16:21",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "19 hits"
+          },
+          {
+            "start": "16:21",
+            "end": "16:22",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "19 hits"
+          },
+          {
+            "start": "16:22",
+            "end": "16:28",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Word",
+            "note": "com.microsoft.Word"
+          },
+          {
+            "start": "16:28",
+            "end": "16:32",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Credits | OpenRouter",
+            "note": "openrouter.ai"
+          },
+          {
+            "start": "16:32",
+            "end": "16:39",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Word",
+            "note": "com.microsoft.Word"
+          },
+          {
+            "start": "16:39",
+            "end": "16:40",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Credits | OpenRouter",
+            "note": "openrouter.ai"
+          },
+          {
+            "start": "16:40",
+            "end": "16:41",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "16:41",
+            "end": "16:54",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Credits | OpenRouter",
+            "note": "openrouter.ai"
+          },
+          {
+            "start": "16:55",
+            "end": "16:57",
+            "cat": "writing",
+            "src": "macos",
+            "title": "week10_prac.pdf",
+            "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+          },
+          {
+            "start": "17:03",
+            "end": "17:06",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Matplotlib cheatsheets — Visualization with Python",
+            "note": "matplotlib.org"
+          },
+          {
+            "start": "17:07",
+            "end": "17:10",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Super Sample Superstore – Dashboard | Tableau",
+            "note": "tableau.com"
+          },
+          {
+            "start": "17:10",
+            "end": "17:16",
+            "cat": "coding",
+            "src": "macos",
+            "title": "week10_prac.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "17:16",
+            "end": "17:19",
+            "cat": "coding",
+            "src": "macos",
+            "title": "week10_prac.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "17:22",
+            "end": "17:25",
+            "cat": "coding",
+            "src": "macos",
+            "title": "week10_prac.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "17:28",
+            "end": "17:36",
+            "cat": "coding",
+            "src": "macos",
+            "title": "week10_prac.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "17:38",
+            "end": "17:43",
+            "cat": "coding",
+            "src": "macos",
+            "title": "week10_prac.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "17:46",
+            "end": "17:49",
+            "cat": "coding",
+            "src": "macos",
+            "title": "week10_prac.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "17:51",
+            "end": "17:57",
+            "cat": "coding",
+            "src": "macos",
+            "title": "week10_prac.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "18:01",
+            "end": "18:02",
+            "cat": "coding",
+            "src": "macos",
+            "title": "week10_prac.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "18:04",
+            "end": "18:05",
+            "cat": "coding",
+            "src": "macos",
+            "title": "week10_prac.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "18:05",
+            "end": "18:07",
+            "cat": "coding",
+            "src": "macos",
+            "title": "week10_prac.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "18:08",
+            "end": "18:09",
+            "cat": "coding",
+            "src": "macos",
+            "title": "week10_prac.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "18:10",
+            "end": "18:19",
+            "cat": "coding",
+            "src": "macos",
+            "title": "week10_prac.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "18:19",
+            "end": "18:23",
+            "cat": "coding",
+            "src": "macos",
+            "title": "week10_prac.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "18:24",
+            "end": "18:26",
+            "cat": "coding",
+            "src": "macos",
+            "title": "week10_prac.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "18:27",
+            "end": "18:30",
+            "cat": "coding",
+            "src": "macos",
+            "title": "week10_prac.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "18:31",
+            "end": "18:32",
+            "cat": "coding",
+            "src": "macos",
+            "title": "week10_prac.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "18:33",
+            "end": "18:35",
+            "cat": "coding",
+            "src": "macos",
+            "title": "week10_prac.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "18:38",
+            "end": "18:41",
+            "cat": "coding",
+            "src": "macos",
+            "title": "week10_prac.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "18:42",
+            "end": "18:44",
+            "cat": "coding",
+            "src": "macos",
+            "title": "week10_prac.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "18:44",
+            "end": "18:48",
+            "cat": "coding",
+            "src": "macos",
+            "title": "week10_prac.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "18:49",
+            "end": "18:50",
+            "cat": "coding",
+            "src": "macos",
+            "title": "week10_prac.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "18:52",
+            "end": "18:56",
+            "cat": "coding",
+            "src": "macos",
+            "title": "LinearRegression — scikit-learn 1.9.1 documentation",
+            "note": "scikit-learn.org"
+          },
+          {
+            "start": "19:00",
+            "end": "19:06",
+            "cat": "coding",
+            "src": "macos",
+            "title": "LinearRegression — scikit-learn 1.9.1 documentation",
+            "note": "scikit-learn.org"
+          },
+          {
+            "start": "19:10",
+            "end": "19:18",
+            "cat": "coding",
+            "src": "macos",
+            "title": "LinearRegression — scikit-learn 1.9.1 documentation",
+            "note": "scikit-learn.org"
+          },
+          {
+            "start": "19:19",
+            "end": "19:22",
+            "cat": "research",
+            "src": "macos",
+            "title": "ACL ARR 2026 October | OpenReview",
+            "note": "openreview.net"
+          },
+          {
+            "start": "19:23",
+            "end": "19:24",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "19:24",
+            "end": "19:27",
+            "cat": "research",
+            "src": "macos",
+            "title": "ACL ARR 2026 October Qualifications | OpenReview",
+            "note": "openreview.net"
+          },
+          {
+            "start": "19:29",
+            "end": "19:30",
+            "cat": "research",
+            "src": "macos",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+            "note": "openreview.net"
+          },
+          {
+            "start": "19:30",
+            "end": "19:39",
+            "cat": "research",
+            "src": "macos",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+            "note": "openreview.net"
+          },
+          {
+            "start": "19:40",
+            "end": "19:56",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Untitled document - Google Docs",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "19:56",
+            "end": "20:07",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Revision note - Online LaTeX Editor Overleaf",
+            "note": "overleaf.com"
+          },
+          {
+            "start": "20:07",
+            "end": "20:09",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "20:09",
+            "end": "20:10",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Revision note - Online LaTeX Editor Overleaf",
+            "note": "overleaf.com"
+          },
+          {
+            "start": "20:11",
+            "end": "20:16",
+            "cat": "writing",
+            "src": "macos",
+            "title": "[ARR OCT; Ada] (Copy) - Online LaTeX Editor Overleaf",
+            "note": "overleaf.com"
+          },
+          {
+            "start": "20:16",
+            "end": "20:21",
+            "cat": "research",
+            "src": "macos",
+            "title": "Preview",
+            "note": "com.apple.Preview"
+          },
+          {
+            "start": "20:21",
+            "end": "20:23",
+            "cat": "research",
+            "src": "macos",
+            "title": "Preview",
+            "note": "com.apple.Preview"
+          },
+          {
+            "start": "20:23",
+            "end": "20:25",
+            "cat": "research",
+            "src": "macos",
+            "title": "Preview",
+            "note": "com.apple.Preview"
+          },
+          {
+            "start": "20:25",
+            "end": "20:30",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "20:30",
+            "end": "20:33",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Untitled document - Google Docs",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "20:34",
+            "end": "20:46",
+            "cat": "writing",
+            "src": "macos",
+            "title": "[ARR May; Ada] MinorAgentBench (Copy) - Online LaTeX Editor ",
+            "note": "overleaf.com"
+          },
+          {
+            "start": "20:46",
+            "end": "21:02",
+            "cat": "writing",
+            "src": "macos",
+            "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea",
+            "note": "overleaf.com"
+          },
+          {
+            "start": "21:02",
+            "end": "21:13",
+            "cat": "writing",
+            "src": "macos",
+            "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf",
+            "note": "overleaf.com"
+          },
+          {
+            "start": "21:27",
+            "end": "21:32",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "22:49",
+            "end": "22:57",
+            "cat": "writing",
+            "src": "macos",
+            "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf",
+            "note": "overleaf.com"
+          },
+          {
+            "start": "23:03",
+            "end": "23:04",
+            "cat": "research",
+            "src": "macos",
+            "title": "Zhang et al. - 2024 - PsySafe A Comprehensive Framework for ",
+            "note": "file:///Users/ada/Zotero/storage/PB2F8B5"
+          },
+          {
+            "start": "23:14",
+            "end": "23:19",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "16 hits"
+          },
+          {
+            "start": "23:19",
+            "end": "23:21",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Search results for Office worker - Flaticon",
+            "note": "flaticon.com"
+          },
+          {
+            "start": "23:21",
+            "end": "23:23",
+            "cat": "writing",
+            "src": "macos",
+            "title": "agent_misuse_fig.pdf",
+            "note": "file:///Users/ada/Documents/MQ/Phd/Minor"
+          },
+          {
+            "start": "23:26",
+            "end": "23:27",
+            "cat": "writing",
+            "src": "macos",
+            "title": "agent_misuse_fig.pdf",
+            "note": "file:///Users/ada/Documents/MQ/Phd/Minor"
+          },
+          {
+            "start": "23:44",
+            "end": "23:47",
+            "cat": "writing",
+            "src": "macos",
+            "title": "agent_misuse_fig.pdf",
+            "note": "file:///Users/ada/Documents/MQ/Phd/Minor"
+          },
+          {
+            "start": "23:48",
+            "end": "23:53",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · bench",
+            "note": "45 hits"
+          },
+          {
+            "start": "23:53",
+            "end": "23:57",
+            "cat": "writing",
+            "src": "macos",
+            "title": "agent_misuse_fig.pdf",
+            "note": "file:///Users/ada/Documents/MQ/Phd/Minor"
+          },
+          {
+            "start": "00:28",
+            "end": "01:09",
+            "cat": "writing",
+            "src": "macos",
+            "title": "agent_misuse_fig.pdf",
+            "note": "file:///Users/ada/Documents/MQ/Phd/Minor"
+          },
+          {
+            "start": "01:09",
+            "end": "05:59",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
           }
         ],
-        "logged": 34,
-        "real": 31,
-        "deep": 31,
-        "ratio": 0.9109390798943369,
+        "logged": 870,
+        "real": 833,
+        "deep": 833,
+        "ratio": 0.9574941577890155,
         "stats": {
-          "contextSwitches": 4,
-          "tabsOpened": 6,
-          "longestFocus": "27m",
-          "justOneMoreThing": 1
+          "contextSwitches": 49,
+          "tabsOpened": 0,
+          "longestFocus": "6h 49m",
+          "justOneMoreThing": 8
         }
       },
       {
@@ -91805,18 +92605,59 @@
         "weekend": false,
         "dateShort": "Tue, Oct 13",
         "dateLong": "Tuesday, October 13",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "06:00",
+        "dayEnd": "10:21",
+        "events": [
+          {
+            "start": "06:00",
+            "end": "09:51",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "09:52",
+            "end": "09:57",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "15 hits"
+          },
+          {
+            "start": "09:57",
+            "end": "09:59",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "09:59",
+            "end": "09:59",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Credits | OpenRouter",
+            "note": "openrouter.ai"
+          },
+          {
+            "start": "09:59",
+            "end": "10:21",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "143 hits"
+          }
+        ],
+        "logged": 261,
+        "real": 260,
+        "deep": 260,
+        "ratio": 0.9953380196573454,
         "stats": {
-          "contextSwitches": 0,
+          "contextSwitches": 2,
           "tabsOpened": 0,
-          "longestFocus": "0m",
-          "justOneMoreThing": 0
+          "longestFocus": "3h 57m",
+          "justOneMoreThing": 1
         }
       },
       {
@@ -95264,1110 +96105,1110 @@
       "weekend": false
     },
     {
-      "key": "2026-10-9",
-      "dayNum": 9,
-      "dow": 5,
-      "weekend": false,
-      "dateShort": "Fri, Oct 9",
       "dateLong": "Friday, October 9",
-      "dayStart": "09:10",
+      "dateShort": "Fri, Oct 9",
       "dayEnd": "17:15",
+      "dayNum": 9,
+      "dayStart": "09:10",
+      "deep": 319,
+      "dow": 5,
       "events": [
         {
-          "start": "09:10",
+          "cat": "coding",
           "end": "11:34",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "09:10",
+          "title": "VSCode"
         },
         {
-          "start": "11:44",
+          "cat": "coding",
           "end": "11:48",
-          "cat": "coding",
+          "note": "26 hits",
           "src": "claude",
-          "title": "Claude session · bench",
-          "note": "26 hits"
+          "start": "11:44",
+          "title": "Claude session · bench"
         },
         {
-          "start": "11:50",
+          "cat": "coding",
           "end": "11:52",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "11:50",
+          "title": "VSCode"
         },
         {
-          "start": "11:59",
+          "cat": "coding",
           "end": "12:15",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "11:59",
+          "title": "VSCode"
         },
         {
-          "start": "12:23",
+          "cat": "coding",
           "end": "12:45",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "12:23",
+          "title": "VSCode"
         },
         {
-          "start": "12:45",
+          "cat": "admin",
           "end": "12:48",
-          "cat": "admin",
+          "note": "com.tinyspeck.slackmacgap",
           "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "start": "12:45",
+          "title": "slackmacgap"
         },
         {
-          "start": "12:49",
+          "cat": "research",
           "end": "12:51",
-          "cat": "research",
+          "note": "aclrollingreview.org",
           "src": "macos",
-          "title": "CALL FOR PAPERS – ACL Rolling Review",
-          "note": "aclrollingreview.org"
+          "start": "12:49",
+          "title": "CALL FOR PAPERS – ACL Rolling Review"
         },
         {
-          "start": "12:51",
+          "cat": "admin",
           "end": "12:58",
-          "cat": "admin",
+          "note": "com.tinyspeck.slackmacgap",
           "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "start": "12:51",
+          "title": "slackmacgap"
         },
         {
-          "start": "13:00",
+          "cat": "admin",
           "end": "13:03",
-          "cat": "admin",
+          "note": "com.tinyspeck.slackmacgap",
           "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "start": "13:00",
+          "title": "slackmacgap"
         },
         {
-          "start": "13:03",
+          "cat": "coding",
           "end": "13:20",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "13:03",
+          "title": "VSCode"
         },
         {
-          "start": "13:20",
+          "cat": "research",
           "end": "13:21",
-          "cat": "research",
+          "note": "aclrollingreview.org",
           "src": "macos",
-          "title": "CALL FOR PAPERS – ACL Rolling Review",
-          "note": "aclrollingreview.org"
+          "start": "13:20",
+          "title": "CALL FOR PAPERS – ACL Rolling Review"
         },
         {
-          "start": "13:21",
+          "cat": "writing",
           "end": "13:23",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Progress Updates - Google Sheets",
-          "note": "docs.google.com"
+          "start": "13:21",
+          "title": "Progress Updates - Google Sheets"
         },
         {
-          "start": "13:23",
+          "cat": "coding",
           "end": "13:27",
-          "cat": "coding",
+          "note": "12 hits",
           "src": "claude",
-          "title": "Claude session · bench",
-          "note": "12 hits"
+          "start": "13:23",
+          "title": "Claude session · bench"
         },
         {
-          "start": "13:31",
+          "cat": "writing",
           "end": "13:51",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Progress Updates - Google Sheets",
-          "note": "docs.google.com"
+          "start": "13:31",
+          "title": "Progress Updates - Google Sheets"
         },
         {
-          "start": "13:51",
+          "cat": "admin",
           "end": "13:56",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "jinman - Google Search",
-          "note": "google.com"
+          "start": "13:51",
+          "title": "jinman - Google Search"
         },
         {
-          "start": "13:56",
+          "cat": "writing",
           "end": "14:06",
-          "cat": "writing",
+          "note": "overleaf.com",
           "src": "macos",
-          "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf",
-          "note": "overleaf.com"
+          "start": "13:56",
+          "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf"
         },
         {
-          "start": "14:09",
+          "cat": "personal",
           "end": "14:14",
-          "cat": "personal",
+          "note": "x.com",
           "src": "macos",
-          "title": "主页 / X",
-          "note": "x.com"
+          "start": "14:09",
+          "title": "主页 / X"
         },
         {
-          "start": "14:14",
+          "cat": "personal",
           "end": "14:26",
-          "cat": "personal",
+          "note": "x.com",
           "src": "macos",
-          "title": "主页 / X",
-          "note": "x.com"
+          "start": "14:14",
+          "title": "主页 / X"
         },
         {
-          "start": "14:27",
+          "cat": "coding",
           "end": "14:30",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "Copy of Week9.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "14:27",
+          "title": "Copy of Week9.ipynb - Colab"
         },
         {
-          "start": "14:33",
+          "cat": "coding",
           "end": "14:39",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "Week9.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "14:33",
+          "title": "Week9.ipynb - Colab"
         },
         {
-          "start": "14:41",
+          "cat": "coding",
           "end": "14:42",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "Week9.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "14:41",
+          "title": "Week9.ipynb - Colab"
         },
         {
-          "start": "14:46",
+          "cat": "writing",
           "end": "14:48",
-          "cat": "writing",
+          "note": "excalidraw.com",
           "src": "macos",
-          "title": "Excalidraw Whiteboard",
-          "note": "excalidraw.com"
+          "start": "14:46",
+          "title": "Excalidraw Whiteboard"
         },
         {
-          "start": "14:48",
-          "end": "14:51",
           "cat": "research",
+          "end": "14:51",
+          "note": "ashutoshtripathi.com",
           "src": "macos",
-          "title": "A Complete Guide to Principal Component Analysis – PCA in Ma",
-          "note": "ashutoshtripathi.com"
+          "start": "14:48",
+          "title": "A Complete Guide to Principal Component Analysis – PCA in Ma"
         },
         {
-          "start": "14:51",
+          "cat": "admin",
           "end": "14:52",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "PCA - Google Search",
-          "note": "google.com"
+          "start": "14:51",
+          "title": "PCA - Google Search"
         },
         {
-          "start": "14:52",
+          "cat": "admin",
           "end": "14:54",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "PCA - Google Search",
-          "note": "google.com"
+          "start": "14:52",
+          "title": "PCA - Google Search"
         },
         {
-          "start": "14:56",
+          "cat": "coding",
           "end": "15:00",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "Week9.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "14:56",
+          "title": "Week9.ipynb - Colab"
         },
         {
-          "start": "15:01",
+          "cat": "coding",
           "end": "15:03",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "Week9.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "15:01",
+          "title": "Week9.ipynb - Colab"
         },
         {
-          "start": "15:05",
+          "cat": "coding",
           "end": "15:10",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "Week9.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "15:05",
+          "title": "Week9.ipynb - Colab"
         },
         {
-          "start": "15:12",
+          "cat": "coding",
           "end": "15:34",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "Week9.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "15:12",
+          "title": "Week9.ipynb - Colab"
         },
         {
-          "start": "15:35",
+          "cat": "coding",
           "end": "15:36",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "Week9.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "15:35",
+          "title": "Week9.ipynb - Colab"
         },
         {
-          "start": "15:42",
+          "cat": "coding",
           "end": "15:44",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "Week9.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "15:42",
+          "title": "Week9.ipynb - Colab"
         },
         {
-          "start": "15:44",
+          "cat": "coding",
           "end": "15:46",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "Week9.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "15:44",
+          "title": "Week9.ipynb - Colab"
         },
         {
-          "start": "15:48",
+          "cat": "coding",
           "end": "15:49",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "Week9.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "15:48",
+          "title": "Week9.ipynb - Colab"
         },
         {
-          "start": "15:54",
+          "cat": "coding",
           "end": "15:57",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "Week9.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "15:54",
+          "title": "Week9.ipynb - Colab"
         },
         {
-          "start": "15:57",
+          "cat": "coding",
           "end": "15:59",
-          "cat": "coding",
+          "note": "claude.dev",
           "src": "macos",
-          "title": "Automating eval design and hillclimbing with Claude / claude",
-          "note": "claude.dev"
+          "start": "15:57",
+          "title": "Automating eval design and hillclimbing with Claude / claude"
         },
         {
-          "start": "15:59",
+          "cat": "writing",
           "end": "16:01",
-          "cat": "writing",
+          "note": "file:///Users/ada/Documents/MQ/Phd/Teach",
           "src": "macos",
-          "title": "week9_prac.pdf",
-          "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+          "start": "15:59",
+          "title": "week9_prac.pdf"
         },
         {
-          "start": "16:03",
-          "end": "16:05",
           "cat": "personal",
+          "end": "16:05",
+          "note": "x.com",
           "src": "macos",
-          "title": "主页 / X",
-          "note": "x.com"
+          "start": "16:03",
+          "title": "主页 / X"
         },
         {
-          "start": "16:51",
-          "end": "16:59",
           "cat": "coding",
+          "end": "16:59",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "16:51",
+          "title": "VSCode"
         },
         {
-          "start": "16:59",
+          "cat": "meeting",
           "end": "17:04",
-          "cat": "meeting",
+          "note": "com.microsoft.teams2",
           "src": "macos",
-          "title": "teams2",
-          "note": "com.microsoft.teams2"
+          "start": "16:59",
+          "title": "teams2"
         },
         {
-          "start": "17:04",
+          "cat": "admin",
           "end": "17:05",
-          "cat": "admin",
+          "note": "com.tinyspeck.slackmacgap",
           "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "start": "17:04",
+          "title": "slackmacgap"
         },
         {
-          "start": "17:05",
+          "cat": "admin",
           "end": "17:08",
-          "cat": "admin",
+          "note": "com.tinyspeck.slackmacgap",
           "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "start": "17:05",
+          "title": "slackmacgap"
         },
         {
-          "start": "17:08",
-          "end": "17:11",
           "cat": "meeting",
+          "end": "17:11",
+          "note": "com.microsoft.teams2",
           "src": "macos",
-          "title": "teams2",
-          "note": "com.microsoft.teams2"
+          "start": "17:08",
+          "title": "teams2"
         },
         {
-          "start": "17:12",
-          "end": "17:15",
           "cat": "writing",
+          "end": "17:15",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Oct ARR Review/papers - Google Sheets",
-          "note": "docs.google.com"
+          "start": "17:12",
+          "title": "Oct ARR Review/papers - Google Sheets"
         }
       ],
+      "key": "2026-10-9",
       "logged": 363,
-      "real": 319,
-      "deep": 319,
       "ratio": 0.8790152657769461,
+      "real": 319,
       "stats": {
         "contextSwitches": 23,
-        "tabsOpened": 0,
+        "justOneMoreThing": 3,
         "longestFocus": "3h 6m",
-        "justOneMoreThing": 3
-      }
+        "tabsOpened": 0
+      },
+      "weekend": false
     },
     {
-      "key": "2026-10-10",
-      "dayNum": 10,
-      "dow": 6,
-      "weekend": true,
-      "dateShort": "Sat, Oct 10",
       "dateLong": "Saturday, October 10",
-      "dayStart": "12:49",
+      "dateShort": "Sat, Oct 10",
       "dayEnd": "23:09",
+      "dayNum": 10,
+      "dayStart": "12:49",
+      "deep": 432,
+      "dow": 6,
       "events": [
         {
-          "start": "12:49",
+          "cat": "admin",
           "end": "12:50",
-          "cat": "admin",
+          "note": "linkedin.com",
           "src": "macos",
-          "title": "Post | LinkedIn",
-          "note": "linkedin.com"
+          "start": "12:49",
+          "title": "Post | LinkedIn"
         },
         {
-          "start": "12:51",
+          "cat": "admin",
           "end": "12:52",
-          "cat": "admin",
+          "note": "linkedin.com",
           "src": "macos",
-          "title": "Robin Carpentier | LinkedIn",
-          "note": "linkedin.com"
+          "start": "12:51",
+          "title": "Robin Carpentier | LinkedIn"
         },
         {
-          "start": "12:53",
+          "cat": "research",
           "end": "12:55",
-          "cat": "research",
+          "note": "zh.wikipedia.org",
           "src": "macos",
-          "title": "巴黎-萨克雷大学 - 维基百科，自由的百科全书",
-          "note": "zh.wikipedia.org"
+          "start": "12:53",
+          "title": "巴黎-萨克雷大学 - 维基百科，自由的百科全书"
         },
         {
-          "start": "12:55",
+          "cat": "research",
           "end": "13:03",
-          "cat": "research",
+          "note": "openreview.net",
           "src": "macos",
-          "title": "ACL ARR 2026 October Qualifications | OpenReview",
-          "note": "openreview.net"
+          "start": "12:55",
+          "title": "ACL ARR 2026 October Qualifications | OpenReview"
         },
         {
-          "start": "13:03",
+          "cat": "research",
           "end": "13:09",
-          "cat": "research",
+          "note": "chatgpt.com",
           "src": "macos",
-          "title": "ChatGPT for Chrome",
-          "note": "chatgpt.com"
+          "start": "13:03",
+          "title": "ChatGPT for Chrome"
         },
         {
-          "start": "13:13",
+          "cat": "research",
           "end": "13:33",
-          "cat": "research",
+          "note": "chatgpt.com",
           "src": "macos",
-          "title": "ChatGPT for Chrome",
-          "note": "chatgpt.com"
+          "start": "13:13",
+          "title": "ChatGPT for Chrome"
         },
         {
-          "start": "13:34",
+          "cat": "writing",
           "end": "13:56",
-          "cat": "writing",
+          "note": "overleaf.com",
           "src": "macos",
-          "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf",
-          "note": "overleaf.com"
+          "start": "13:34",
+          "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf"
         },
         {
-          "start": "13:56",
+          "cat": "coding",
           "end": "14:06",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "13:56",
+          "title": "VSCode"
         },
         {
-          "start": "14:06",
+          "cat": "writing",
           "end": "14:29",
-          "cat": "writing",
+          "note": "overleaf.com",
           "src": "macos",
-          "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf",
-          "note": "overleaf.com"
+          "start": "14:06",
+          "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf"
         },
         {
-          "start": "15:22",
+          "cat": "writing",
           "end": "15:25",
-          "cat": "writing",
+          "note": "overleaf.com",
           "src": "macos",
-          "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf",
-          "note": "overleaf.com"
+          "start": "15:22",
+          "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf"
         },
         {
-          "start": "15:26",
+          "cat": "admin",
           "end": "15:35",
-          "cat": "admin",
+          "note": "accounts.google.com",
           "src": "macos",
-          "title": "Sign in - Google Accounts",
-          "note": "accounts.google.com"
+          "start": "15:26",
+          "title": "Sign in - Google Accounts"
         },
         {
-          "start": "15:37",
+          "cat": "admin",
           "end": "15:38",
-          "cat": "admin",
+          "note": "accounts.google.com",
           "src": "macos",
-          "title": "Sign in - Google Accounts",
-          "note": "accounts.google.com"
+          "start": "15:37",
+          "title": "Sign in - Google Accounts"
         },
         {
-          "start": "15:41",
+          "cat": "admin",
           "end": "15:43",
-          "cat": "admin",
+          "note": "accounts.google.com",
           "src": "macos",
-          "title": "Sign in - Google Accounts",
-          "note": "accounts.google.com"
+          "start": "15:41",
+          "title": "Sign in - Google Accounts"
         },
         {
-          "start": "15:47",
+          "cat": "writing",
           "end": "16:09",
-          "cat": "writing",
+          "note": "file:///Users/ada/Documents/MQ/Phd/Minor",
           "src": "macos",
-          "title": "overview_v2.pdf",
-          "note": "file:///Users/ada/Documents/MQ/Phd/Minor"
+          "start": "15:47",
+          "title": "overview_v2.pdf"
         },
         {
-          "start": "16:09",
+          "cat": "writing",
           "end": "16:19",
-          "cat": "writing",
+          "note": "overleaf.com",
           "src": "macos",
-          "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea",
-          "note": "overleaf.com"
+          "start": "16:09",
+          "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea"
         },
         {
-          "start": "16:20",
+          "cat": "coding",
           "end": "16:24",
-          "cat": "coding",
+          "note": "37 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "37 hits"
+          "start": "16:20",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "16:24",
+          "cat": "writing",
           "end": "16:25",
-          "cat": "writing",
+          "note": "overleaf.com",
           "src": "macos",
-          "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea",
-          "note": "overleaf.com"
+          "start": "16:24",
+          "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea"
         },
         {
-          "start": "16:25",
+          "cat": "coding",
           "end": "16:27",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "16:25",
+          "title": "VSCode"
         },
         {
-          "start": "16:27",
+          "cat": "coding",
           "end": "16:30",
-          "cat": "coding",
+          "note": "23 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "23 hits"
+          "start": "16:27",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "16:30",
+          "cat": "writing",
           "end": "17:10",
-          "cat": "writing",
+          "note": "overleaf.com",
           "src": "macos",
-          "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea",
-          "note": "overleaf.com"
+          "start": "16:30",
+          "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea"
         },
         {
-          "start": "17:10",
+          "cat": "research",
           "end": "17:28",
-          "cat": "research",
+          "note": "chatgpt.com",
           "src": "macos",
-          "title": "Writing Revision Summary",
-          "note": "chatgpt.com"
+          "start": "17:10",
+          "title": "Writing Revision Summary"
         },
         {
-          "start": "17:28",
+          "cat": "coding",
           "end": "17:42",
-          "cat": "coding",
+          "note": "66 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "66 hits"
+          "start": "17:28",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "17:43",
+          "cat": "coding",
           "end": "17:53",
-          "cat": "coding",
+          "note": "58 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "58 hits"
+          "start": "17:43",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "17:54",
+          "cat": "research",
           "end": "17:55",
-          "cat": "research",
+          "note": "com.apple.Preview",
           "src": "macos",
-          "title": "Preview",
-          "note": "com.apple.Preview"
+          "start": "17:54",
+          "title": "Preview"
         },
         {
-          "start": "17:55",
+          "cat": "writing",
           "end": "18:09",
-          "cat": "writing",
+          "note": "overleaf.com",
           "src": "macos",
-          "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf",
-          "note": "overleaf.com"
+          "start": "17:55",
+          "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf"
         },
         {
-          "start": "18:09",
+          "cat": "coding",
           "end": "18:13",
-          "cat": "coding",
+          "note": "11 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "11 hits"
+          "start": "18:09",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "18:13",
+          "cat": "writing",
           "end": "18:38",
-          "cat": "writing",
+          "note": "overleaf.com",
           "src": "macos",
-          "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf",
-          "note": "overleaf.com"
+          "start": "18:13",
+          "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf"
         },
         {
-          "start": "18:38",
+          "cat": "coding",
           "end": "18:42",
-          "cat": "coding",
+          "note": "15 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "15 hits"
+          "start": "18:38",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "18:42",
+          "cat": "writing",
           "end": "19:14",
-          "cat": "writing",
+          "note": "overleaf.com",
           "src": "macos",
-          "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf",
-          "note": "overleaf.com"
+          "start": "18:42",
+          "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf"
         },
         {
-          "start": "19:14",
+          "cat": "coding",
           "end": "19:23",
-          "cat": "coding",
+          "note": "80 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "80 hits"
+          "start": "19:14",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "19:23",
+          "cat": "writing",
           "end": "20:12",
-          "cat": "writing",
+          "note": "overleaf.com",
           "src": "macos",
-          "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf",
-          "note": "overleaf.com"
+          "start": "19:23",
+          "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf"
         },
         {
-          "start": "21:35",
+          "cat": "writing",
           "end": "21:37",
-          "cat": "writing",
+          "note": "overleaf.com",
           "src": "macos",
-          "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf",
-          "note": "overleaf.com"
+          "start": "21:35",
+          "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf"
         },
         {
-          "start": "21:37",
+          "cat": "coding",
           "end": "21:42",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "21:37",
+          "title": "VSCode"
         },
         {
-          "start": "21:54",
+          "cat": "coding",
           "end": "21:55",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "21:54",
+          "title": "VSCode"
         },
         {
-          "start": "21:55",
+          "cat": "admin",
           "end": "21:57",
-          "cat": "admin",
+          "note": "com.tinyspeck.slackmacgap",
           "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "start": "21:55",
+          "title": "slackmacgap"
         },
         {
-          "start": "21:57",
+          "cat": "coding",
           "end": "22:00",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "21:57",
+          "title": "VSCode"
         },
         {
-          "start": "22:00",
-          "end": "22:01",
           "cat": "admin",
+          "end": "22:01",
+          "note": "com.tinyspeck.slackmacgap",
           "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "start": "22:00",
+          "title": "slackmacgap"
         },
         {
-          "start": "22:03",
+          "cat": "writing",
           "end": "22:10",
-          "cat": "writing",
+          "note": "file:///Users/ada/Documents/MQ/Phd/Minor",
           "src": "macos",
-          "title": "EduAgentBench_ARR-Oct_UN.pdf",
-          "note": "file:///Users/ada/Documents/MQ/Phd/Minor"
+          "start": "22:03",
+          "title": "EduAgentBench_ARR-Oct_UN.pdf"
         },
         {
-          "start": "22:10",
+          "cat": "coding",
           "end": "22:19",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "22:10",
+          "title": "VSCode"
         },
         {
-          "start": "22:20",
+          "cat": "writing",
           "end": "22:22",
-          "cat": "writing",
+          "note": "file:///Users/ada/Documents/MQ/Phd/Minor",
           "src": "macos",
-          "title": "EduAgentBench_ARR-Oct_UN.pdf",
-          "note": "file:///Users/ada/Documents/MQ/Phd/Minor"
+          "start": "22:20",
+          "title": "EduAgentBench_ARR-Oct_UN.pdf"
         },
         {
-          "start": "22:22",
+          "cat": "coding",
           "end": "22:23",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "22:22",
+          "title": "VSCode"
         },
         {
-          "start": "22:23",
-          "end": "22:27",
           "cat": "writing",
+          "end": "22:27",
+          "note": "file:///Users/ada/Documents/MQ/Phd/Minor",
           "src": "macos",
-          "title": "EduAgentBench_ARR-Oct_UN.pdf",
-          "note": "file:///Users/ada/Documents/MQ/Phd/Minor"
+          "start": "22:23",
+          "title": "EduAgentBench_ARR-Oct_UN.pdf"
         },
         {
-          "start": "22:27",
-          "end": "22:33",
           "cat": "research",
+          "end": "22:33",
+          "note": "chatgpt.com",
           "src": "macos",
-          "title": "Remove Parentheses",
-          "note": "chatgpt.com"
+          "start": "22:27",
+          "title": "Remove Parentheses"
         },
         {
-          "start": "22:34",
-          "end": "23:09",
           "cat": "coding",
+          "end": "23:09",
+          "note": "openrouter.ai",
           "src": "macos",
-          "title": "App & Agent Rankings | OpenRouter",
-          "note": "openrouter.ai"
+          "start": "22:34",
+          "title": "App & Agent Rankings | OpenRouter"
         }
       ],
+      "key": "2026-10-10",
       "logged": 450,
-      "real": 432,
-      "deep": 432,
       "ratio": 0.9610208623138224,
+      "real": 432,
       "stats": {
         "contextSwitches": 31,
-        "tabsOpened": 0,
+        "justOneMoreThing": 2,
         "longestFocus": "4h 32m",
-        "justOneMoreThing": 2
-      }
+        "tabsOpened": 0
+      },
+      "weekend": true
     },
     {
-      "key": "2026-10-11",
-      "dayNum": 11,
-      "dow": 0,
-      "weekend": true,
-      "dateShort": "Sun, Oct 11",
       "dateLong": "Sunday, October 11",
-      "dayStart": "11:17",
+      "dateShort": "Sun, Oct 11",
       "dayEnd": "22:14",
+      "dayNum": 11,
+      "dayStart": "11:17",
+      "deep": 462,
+      "dow": 0,
       "events": [
         {
-          "start": "11:17",
+          "cat": "coding",
           "end": "11:20",
-          "cat": "coding",
+          "note": "openrouter.ai",
           "src": "macos",
-          "title": "App & Agent Rankings | OpenRouter",
-          "note": "openrouter.ai"
+          "start": "11:17",
+          "title": "App & Agent Rankings | OpenRouter"
         },
         {
-          "start": "11:20",
+          "cat": "personal",
           "end": "11:22",
-          "cat": "personal",
+          "note": "youtube.com",
           "src": "macos",
-          "title": "(35) Morning Fresh Start | Cozy Cafe Jazz BGM for Relaxing D",
-          "note": "youtube.com"
+          "start": "11:20",
+          "title": "(35) Morning Fresh Start | Cozy Cafe Jazz BGM for Relaxing D"
         },
         {
-          "start": "11:22",
+          "cat": "personal",
           "end": "11:25",
-          "cat": "personal",
+          "note": "x.com",
           "src": "macos",
-          "title": "主页 / X",
-          "note": "x.com"
+          "start": "11:22",
+          "title": "主页 / X"
         },
         {
-          "start": "11:49",
+          "cat": "coding",
           "end": "12:58",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "11:49",
+          "title": "codex"
         },
         {
-          "start": "12:58",
+          "cat": "coding",
           "end": "12:59",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "12:58",
+          "title": "VSCode"
         },
         {
-          "start": "13:17",
+          "cat": "coding",
           "end": "13:24",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "13:17",
+          "title": "VSCode"
         },
         {
-          "start": "13:26",
-          "end": "13:29",
           "cat": "personal",
+          "end": "13:29",
+          "note": "x.com",
           "src": "macos",
-          "title": "主页 / X",
-          "note": "x.com"
+          "start": "13:26",
+          "title": "主页 / X"
         },
         {
-          "start": "13:29",
+          "cat": "admin",
           "end": "13:30",
-          "cat": "admin",
+          "note": "com.tinyspeck.slackmacgap",
           "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "start": "13:29",
+          "title": "slackmacgap"
         },
         {
-          "start": "13:32",
+          "cat": "research",
           "end": "13:38",
-          "cat": "research",
+          "note": "openreview.net",
           "src": "macos",
-          "title": "Search | OpenReview",
-          "note": "openreview.net"
+          "start": "13:32",
+          "title": "Search | OpenReview"
         },
         {
-          "start": "13:38",
+          "cat": "coding",
           "end": "13:39",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "13:38",
+          "title": "VSCode"
         },
         {
-          "start": "13:39",
+          "cat": "research",
           "end": "13:44",
-          "cat": "research",
+          "note": "openreview.net",
           "src": "macos",
-          "title": "Search | OpenReview",
-          "note": "openreview.net"
+          "start": "13:39",
+          "title": "Search | OpenReview"
         },
         {
-          "start": "13:45",
+          "cat": "writing",
           "end": "13:59",
-          "cat": "writing",
+          "note": "overleaf.com",
           "src": "macos",
-          "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf",
-          "note": "overleaf.com"
+          "start": "13:45",
+          "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf"
         },
         {
-          "start": "14:01",
+          "cat": "writing",
           "end": "14:23",
-          "cat": "writing",
+          "note": "overleaf.com",
           "src": "macos",
-          "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf",
-          "note": "overleaf.com"
+          "start": "14:01",
+          "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf"
         },
         {
-          "start": "14:38",
+          "cat": "writing",
           "end": "14:55",
-          "cat": "writing",
+          "note": "overleaf.com",
           "src": "macos",
-          "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf",
-          "note": "overleaf.com"
+          "start": "14:38",
+          "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf"
         },
         {
-          "start": "14:57",
+          "cat": "research",
           "end": "15:06",
-          "cat": "research",
+          "note": "openai.com",
           "src": "macos",
-          "title": "GPT-6 and Intelligent UI for everyone | OpenAI",
-          "note": "openai.com"
+          "start": "14:57",
+          "title": "GPT-6 and Intelligent UI for everyone | OpenAI"
         },
         {
-          "start": "15:06",
+          "cat": "coding",
           "end": "15:08",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "15:06",
+          "title": "VSCode"
         },
         {
-          "start": "15:09",
+          "cat": "coding",
           "end": "15:10",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "15:09",
+          "title": "VSCode"
         },
         {
-          "start": "15:10",
-          "end": "15:13",
           "cat": "research",
+          "end": "15:13",
+          "note": "openai.com",
           "src": "macos",
-          "title": "GPT-6 and Intelligent UI for everyone | OpenAI",
-          "note": "openai.com"
+          "start": "15:10",
+          "title": "GPT-6 and Intelligent UI for everyone | OpenAI"
         },
         {
-          "start": "15:13",
+          "cat": "coding",
           "end": "15:41",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "15:13",
+          "title": "VSCode"
         },
         {
-          "start": "15:44",
+          "cat": "coding",
           "end": "16:17",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "15:44",
+          "title": "VSCode"
         },
         {
-          "start": "16:17",
+          "cat": "coding",
           "end": "16:23",
-          "cat": "coding",
+          "note": "19 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "19 hits"
+          "start": "16:17",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "16:23",
+          "cat": "coding",
           "end": "17:05",
-          "cat": "coding",
+          "note": "openrouter.ai",
           "src": "macos",
-          "title": "Workspace Overview | Settings | OpenRouter",
-          "note": "openrouter.ai"
+          "start": "16:23",
+          "title": "Workspace Overview | Settings | OpenRouter"
         },
         {
-          "start": "17:05",
+          "cat": "coding",
           "end": "17:22",
-          "cat": "coding",
+          "note": "71 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "71 hits"
+          "start": "17:05",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "17:23",
+          "cat": "coding",
           "end": "17:31",
-          "cat": "coding",
+          "note": "48 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "48 hits"
+          "start": "17:23",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "17:31",
+          "cat": "writing",
           "end": "17:44",
-          "cat": "writing",
+          "note": "overleaf.com",
           "src": "macos",
-          "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea",
-          "note": "overleaf.com"
+          "start": "17:31",
+          "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea"
         },
         {
-          "start": "17:44",
+          "cat": "coding",
           "end": "17:48",
-          "cat": "coding",
+          "note": "17 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "17 hits"
+          "start": "17:44",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "17:48",
+          "cat": "writing",
           "end": "17:55",
-          "cat": "writing",
+          "note": "overleaf.com",
           "src": "macos",
-          "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea",
-          "note": "overleaf.com"
+          "start": "17:48",
+          "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea"
         },
         {
-          "start": "19:13",
+          "cat": "coding",
           "end": "19:19",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "19:13",
+          "title": "VSCode"
         },
         {
-          "start": "19:19",
+          "cat": "coding",
           "end": "19:25",
-          "cat": "coding",
+          "note": "34 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "34 hits"
+          "start": "19:19",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "19:31",
+          "cat": "coding",
           "end": "19:33",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "week10_prac.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "19:31",
+          "title": "week10_prac.ipynb - Colab"
         },
         {
-          "start": "19:34",
+          "cat": "coding",
           "end": "19:41",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "week10_prac.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "19:34",
+          "title": "week10_prac.ipynb - Colab"
         },
         {
-          "start": "19:42",
+          "cat": "writing",
           "end": "19:43",
-          "cat": "writing",
+          "note": "file:///Users/ada/Documents/MQ/Phd/Teach",
           "src": "macos",
-          "title": "week10_prac.pdf",
-          "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+          "start": "19:42",
+          "title": "week10_prac.pdf"
         },
         {
-          "start": "19:43",
+          "cat": "coding",
           "end": "19:51",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "19:43",
+          "title": "VSCode"
         },
         {
-          "start": "19:51",
-          "end": "19:54",
           "cat": "writing",
+          "end": "19:54",
+          "note": "file:///Users/ada/Documents/MQ/Phd/Teach",
           "src": "macos",
-          "title": "week10_prac.pdf",
-          "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+          "start": "19:51",
+          "title": "week10_prac.pdf"
         },
         {
-          "start": "19:54",
+          "cat": "coding",
           "end": "20:01",
-          "cat": "coding",
+          "note": "openrouter.ai",
           "src": "macos",
-          "title": "Credits | OpenRouter",
-          "note": "openrouter.ai"
+          "start": "19:54",
+          "title": "Credits | OpenRouter"
         },
         {
-          "start": "20:01",
+          "cat": "admin",
           "end": "20:15",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "macos",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "20:01",
+          "title": "Google Translate"
         },
         {
-          "start": "20:15",
+          "cat": "coding",
           "end": "20:29",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "20:15",
+          "title": "VSCode"
         },
         {
-          "start": "20:29",
+          "cat": "admin",
           "end": "20:35",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "macos",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "20:29",
+          "title": "Google Translate"
         },
         {
-          "start": "20:35",
+          "cat": "coding",
           "end": "20:39",
-          "cat": "coding",
+          "note": "4 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "4 hits"
+          "start": "20:35",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "20:39",
-          "end": "20:44",
           "cat": "admin",
+          "end": "20:44",
+          "note": "translate.google.com",
           "src": "macos",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "20:39",
+          "title": "Google Translate"
         },
         {
-          "start": "20:44",
+          "cat": "coding",
           "end": "20:58",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "20:44",
+          "title": "VSCode"
         },
         {
-          "start": "20:58",
+          "cat": "coding",
           "end": "22:07",
-          "cat": "coding",
+          "note": "64 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "64 hits"
+          "start": "20:58",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "22:11",
-          "end": "22:14",
           "cat": "coding",
+          "end": "22:14",
+          "note": "26 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "26 hits"
+          "start": "22:11",
+          "title": "Claude session · harbor"
         }
       ],
+      "key": "2026-10-11",
       "logged": 494,
-      "real": 462,
-      "deep": 462,
       "ratio": 0.935080828964783,
+      "real": 462,
       "stats": {
         "contextSwitches": 26,
-        "tabsOpened": 0,
+        "justOneMoreThing": 2,
         "longestFocus": "4h 37m",
-        "justOneMoreThing": 2
-      }
+        "tabsOpened": 0
+      },
+      "weekend": true
     },
     {
       "key": "2026-10-12",
@@ -96376,107 +97217,907 @@
       "weekend": false,
       "dateShort": "Mon, Oct 12",
       "dateLong": "Monday, October 12",
-      "dayStart": "06:00",
-      "dayEnd": "10:22",
+      "dayStart": "10:05",
+      "dayEnd": "05:59",
       "events": [
         {
-          "start": "06:00",
-          "end": "06:01",
+          "start": "10:05",
+          "end": "10:12",
           "cat": "coding",
-          "src": "local",
-          "title": "trajectory.json",
-          "note": "3 hits"
-        },
-        {
-          "start": "06:01",
-          "end": "06:05",
-          "cat": "coding",
-          "src": "local",
-          "title": "trajectory.json",
-          "note": "3 hits"
-        },
-        {
-          "start": "06:05",
-          "end": "06:06",
-          "cat": "writing",
-          "src": "local",
-          "title": "codex.txt",
-          "note": "1 hit"
-        },
-        {
-          "start": "06:06",
-          "end": "06:07",
-          "cat": "writing",
-          "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
-        },
-        {
-          "start": "06:07",
-          "end": "06:10",
-          "cat": "writing",
-          "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
-        },
-        {
-          "start": "06:10",
-          "end": "06:11",
-          "cat": "writing",
-          "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
-        },
-        {
-          "start": "06:11",
-          "end": "06:12",
-          "cat": "writing",
-          "src": "local",
-          "title": "claude-code.txt",
-          "note": "1 hit"
-        },
-        {
-          "start": "06:14",
-          "end": "06:19",
-          "cat": "writing",
-          "src": "local",
-          "title": "codex.txt",
-          "note": "1 hit"
-        },
-        {
-          "start": "10:04",
-          "end": "10:15",
-          "cat": "coding",
-          "src": "chrome",
+          "src": "macos",
           "title": "Credits | OpenRouter",
           "note": "openrouter.ai"
         },
         {
-          "start": "10:15",
-          "end": "10:18",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "10:12",
+          "end": "10:14",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "teams2",
+          "note": "com.microsoft.teams2"
         },
         {
-          "start": "10:18",
-          "end": "10:22",
+          "start": "10:16",
+          "end": "10:26",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "10:27",
+          "end": "10:29",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "10:58",
+          "end": "10:59",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "teams2",
+          "note": "com.microsoft.teams2"
+        },
+        {
+          "start": "10:59",
+          "end": "11:19",
+          "cat": "coding",
+          "src": "macos",
+          "title": "colab.research.google.com",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "11:26",
+          "end": "11:58",
+          "cat": "coding",
+          "src": "macos",
+          "title": "colab.research.google.com",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "11:59",
+          "end": "12:08",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Start your free trial of Tableau",
+          "note": "tableau.com"
+        },
+        {
+          "start": "12:09",
+          "end": "12:37",
+          "cat": "coding",
+          "src": "macos",
+          "title": "week10_prac.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "12:37",
+          "end": "12:38",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "12:38",
+          "end": "12:40",
+          "cat": "coding",
+          "src": "macos",
+          "title": "week10_prac.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "12:42",
+          "end": "12:44",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Start your free trial of Tableau",
+          "note": "tableau.com"
+        },
+        {
+          "start": "13:05",
+          "end": "13:09",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "13:09",
+          "end": "13:17",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Tableau Dashboard Showcase | Tableau",
+          "note": "tableau.com"
+        },
+        {
+          "start": "13:17",
+          "end": "13:18",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "13:19",
+          "end": "13:20",
+          "cat": "coding",
+          "src": "macos",
+          "title": "230313mzl4w4u92",
+          "note": "com.todesktop.230313mzl4w4u92"
+        },
+        {
+          "start": "13:20",
+          "end": "13:22",
+          "cat": "coding",
+          "src": "macos",
+          "title": "230313mzl4w4u92",
+          "note": "com.todesktop.230313mzl4w4u92"
+        },
+        {
+          "start": "13:22",
+          "end": "13:24",
+          "cat": "coding",
+          "src": "macos",
+          "title": "230313mzl4w4u92",
+          "note": "com.todesktop.230313mzl4w4u92"
+        },
+        {
+          "start": "13:26",
+          "end": "13:30",
+          "cat": "coding",
+          "src": "macos",
+          "title": "week10_prac.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "13:34",
+          "end": "13:36",
+          "cat": "coding",
+          "src": "macos",
+          "title": "week10_prac_solution.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "13:38",
+          "end": "13:40",
+          "cat": "coding",
+          "src": "macos",
+          "title": "week10_prac_solution.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "13:42",
+          "end": "13:43",
+          "cat": "coding",
+          "src": "macos",
+          "title": "week10_prac_solution.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "13:47",
+          "end": "13:50",
+          "cat": "coding",
+          "src": "macos",
+          "title": "week10_prac.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "13:50",
+          "end": "13:52",
+          "cat": "coding",
+          "src": "macos",
+          "title": "week10_prac.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "13:53",
+          "end": "13:54",
+          "cat": "coding",
+          "src": "macos",
+          "title": "week10_prac.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "13:57",
+          "end": "14:01",
+          "cat": "coding",
+          "src": "macos",
+          "title": "week10_prac.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "14:05",
+          "end": "14:08",
+          "cat": "coding",
+          "src": "macos",
+          "title": "week10_prac.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "14:10",
+          "end": "14:14",
+          "cat": "coding",
+          "src": "macos",
+          "title": "week10_prac.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "14:17",
+          "end": "14:21",
+          "cat": "coding",
+          "src": "macos",
+          "title": "week10_prac.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "14:22",
+          "end": "14:24",
+          "cat": "coding",
+          "src": "macos",
+          "title": "week10_prac.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "14:27",
+          "end": "14:29",
+          "cat": "coding",
+          "src": "macos",
+          "title": "week10_prac.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "14:36",
+          "end": "14:40",
+          "cat": "coding",
+          "src": "macos",
+          "title": "week10_prac.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "14:41",
+          "end": "14:43",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Credits | OpenRouter",
+          "note": "openrouter.ai"
+        },
+        {
+          "start": "14:43",
+          "end": "14:44",
+          "cat": "writing",
+          "src": "macos",
+          "title": "EduAgentBench_ARR-Oct_UN.pdf",
+          "note": "file:///Users/ada/Documents/MQ/Phd/Minor"
+        },
+        {
+          "start": "14:46",
+          "end": "14:48",
+          "cat": "research",
+          "src": "macos",
+          "title": "ACL ARR 2026 October | OpenReview",
+          "note": "openreview.net"
+        },
+        {
+          "start": "14:50",
+          "end": "14:51",
+          "cat": "writing",
+          "src": "macos",
+          "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf",
+          "note": "overleaf.com"
+        },
+        {
+          "start": "14:52",
+          "end": "14:54",
+          "cat": "research",
+          "src": "macos",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+          "note": "openreview.net"
+        },
+        {
+          "start": "14:55",
+          "end": "15:09",
+          "cat": "research",
+          "src": "macos",
+          "title": "Tutor, Not Solver: Designing a Guardrailed AI Assistant for ",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "15:09",
+          "end": "15:13",
+          "cat": "writing",
+          "src": "macos",
+          "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea",
+          "note": "overleaf.com"
+        },
+        {
+          "start": "15:13",
+          "end": "15:17",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "15:17",
+          "end": "15:20",
+          "cat": "writing",
+          "src": "macos",
+          "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea",
+          "note": "overleaf.com"
+        },
+        {
+          "start": "15:20",
+          "end": "15:22",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "15:23",
+          "end": "15:59",
+          "cat": "research",
+          "src": "macos",
+          "title": "1Introduction",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "16:00",
+          "end": "16:02",
           "cat": "coding",
           "src": "claude",
           "title": "Claude session · harbor",
-          "note": "64 hits"
+          "note": "78 hits"
+        },
+        {
+          "start": "16:03",
+          "end": "16:05",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "78 hits"
+        },
+        {
+          "start": "16:05",
+          "end": "16:18",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Word",
+          "note": "com.microsoft.Word"
+        },
+        {
+          "start": "16:19",
+          "end": "16:21",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "19 hits"
+        },
+        {
+          "start": "16:21",
+          "end": "16:22",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "19 hits"
+        },
+        {
+          "start": "16:22",
+          "end": "16:28",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Word",
+          "note": "com.microsoft.Word"
+        },
+        {
+          "start": "16:28",
+          "end": "16:32",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Credits | OpenRouter",
+          "note": "openrouter.ai"
+        },
+        {
+          "start": "16:32",
+          "end": "16:39",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Word",
+          "note": "com.microsoft.Word"
+        },
+        {
+          "start": "16:39",
+          "end": "16:40",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Credits | OpenRouter",
+          "note": "openrouter.ai"
+        },
+        {
+          "start": "16:40",
+          "end": "16:41",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "16:41",
+          "end": "16:54",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Credits | OpenRouter",
+          "note": "openrouter.ai"
+        },
+        {
+          "start": "16:55",
+          "end": "16:57",
+          "cat": "writing",
+          "src": "macos",
+          "title": "week10_prac.pdf",
+          "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+        },
+        {
+          "start": "17:03",
+          "end": "17:06",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Matplotlib cheatsheets — Visualization with Python",
+          "note": "matplotlib.org"
+        },
+        {
+          "start": "17:07",
+          "end": "17:10",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Super Sample Superstore – Dashboard | Tableau",
+          "note": "tableau.com"
+        },
+        {
+          "start": "17:10",
+          "end": "17:16",
+          "cat": "coding",
+          "src": "macos",
+          "title": "week10_prac.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "17:16",
+          "end": "17:19",
+          "cat": "coding",
+          "src": "macos",
+          "title": "week10_prac.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "17:22",
+          "end": "17:25",
+          "cat": "coding",
+          "src": "macos",
+          "title": "week10_prac.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "17:28",
+          "end": "17:36",
+          "cat": "coding",
+          "src": "macos",
+          "title": "week10_prac.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "17:38",
+          "end": "17:43",
+          "cat": "coding",
+          "src": "macos",
+          "title": "week10_prac.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "17:46",
+          "end": "17:49",
+          "cat": "coding",
+          "src": "macos",
+          "title": "week10_prac.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "17:51",
+          "end": "17:57",
+          "cat": "coding",
+          "src": "macos",
+          "title": "week10_prac.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "18:01",
+          "end": "18:02",
+          "cat": "coding",
+          "src": "macos",
+          "title": "week10_prac.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "18:04",
+          "end": "18:05",
+          "cat": "coding",
+          "src": "macos",
+          "title": "week10_prac.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "18:05",
+          "end": "18:07",
+          "cat": "coding",
+          "src": "macos",
+          "title": "week10_prac.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "18:08",
+          "end": "18:09",
+          "cat": "coding",
+          "src": "macos",
+          "title": "week10_prac.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "18:10",
+          "end": "18:19",
+          "cat": "coding",
+          "src": "macos",
+          "title": "week10_prac.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "18:19",
+          "end": "18:23",
+          "cat": "coding",
+          "src": "macos",
+          "title": "week10_prac.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "18:24",
+          "end": "18:26",
+          "cat": "coding",
+          "src": "macos",
+          "title": "week10_prac.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "18:27",
+          "end": "18:30",
+          "cat": "coding",
+          "src": "macos",
+          "title": "week10_prac.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "18:31",
+          "end": "18:32",
+          "cat": "coding",
+          "src": "macos",
+          "title": "week10_prac.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "18:33",
+          "end": "18:35",
+          "cat": "coding",
+          "src": "macos",
+          "title": "week10_prac.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "18:38",
+          "end": "18:41",
+          "cat": "coding",
+          "src": "macos",
+          "title": "week10_prac.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "18:42",
+          "end": "18:44",
+          "cat": "coding",
+          "src": "macos",
+          "title": "week10_prac.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "18:44",
+          "end": "18:48",
+          "cat": "coding",
+          "src": "macos",
+          "title": "week10_prac.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "18:49",
+          "end": "18:50",
+          "cat": "coding",
+          "src": "macos",
+          "title": "week10_prac.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "18:52",
+          "end": "18:56",
+          "cat": "coding",
+          "src": "macos",
+          "title": "LinearRegression — scikit-learn 1.9.1 documentation",
+          "note": "scikit-learn.org"
+        },
+        {
+          "start": "19:00",
+          "end": "19:06",
+          "cat": "coding",
+          "src": "macos",
+          "title": "LinearRegression — scikit-learn 1.9.1 documentation",
+          "note": "scikit-learn.org"
+        },
+        {
+          "start": "19:10",
+          "end": "19:18",
+          "cat": "coding",
+          "src": "macos",
+          "title": "LinearRegression — scikit-learn 1.9.1 documentation",
+          "note": "scikit-learn.org"
+        },
+        {
+          "start": "19:19",
+          "end": "19:22",
+          "cat": "research",
+          "src": "macos",
+          "title": "ACL ARR 2026 October | OpenReview",
+          "note": "openreview.net"
+        },
+        {
+          "start": "19:23",
+          "end": "19:24",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "19:24",
+          "end": "19:27",
+          "cat": "research",
+          "src": "macos",
+          "title": "ACL ARR 2026 October Qualifications | OpenReview",
+          "note": "openreview.net"
+        },
+        {
+          "start": "19:29",
+          "end": "19:30",
+          "cat": "research",
+          "src": "macos",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+          "note": "openreview.net"
+        },
+        {
+          "start": "19:30",
+          "end": "19:39",
+          "cat": "research",
+          "src": "macos",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+          "note": "openreview.net"
+        },
+        {
+          "start": "19:40",
+          "end": "19:56",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Untitled document - Google Docs",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "19:56",
+          "end": "20:07",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Revision note - Online LaTeX Editor Overleaf",
+          "note": "overleaf.com"
+        },
+        {
+          "start": "20:07",
+          "end": "20:09",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "20:09",
+          "end": "20:10",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Revision note - Online LaTeX Editor Overleaf",
+          "note": "overleaf.com"
+        },
+        {
+          "start": "20:11",
+          "end": "20:16",
+          "cat": "writing",
+          "src": "macos",
+          "title": "[ARR OCT; Ada] (Copy) - Online LaTeX Editor Overleaf",
+          "note": "overleaf.com"
+        },
+        {
+          "start": "20:16",
+          "end": "20:21",
+          "cat": "research",
+          "src": "macos",
+          "title": "Preview",
+          "note": "com.apple.Preview"
+        },
+        {
+          "start": "20:21",
+          "end": "20:23",
+          "cat": "research",
+          "src": "macos",
+          "title": "Preview",
+          "note": "com.apple.Preview"
+        },
+        {
+          "start": "20:23",
+          "end": "20:25",
+          "cat": "research",
+          "src": "macos",
+          "title": "Preview",
+          "note": "com.apple.Preview"
+        },
+        {
+          "start": "20:25",
+          "end": "20:30",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "20:30",
+          "end": "20:33",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Untitled document - Google Docs",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "20:34",
+          "end": "20:46",
+          "cat": "writing",
+          "src": "macos",
+          "title": "[ARR May; Ada] MinorAgentBench (Copy) - Online LaTeX Editor ",
+          "note": "overleaf.com"
+        },
+        {
+          "start": "20:46",
+          "end": "21:02",
+          "cat": "writing",
+          "src": "macos",
+          "title": "[ARR May; Ada] MinorAgentBench - Online LaTeX Editor Overlea",
+          "note": "overleaf.com"
+        },
+        {
+          "start": "21:02",
+          "end": "21:13",
+          "cat": "writing",
+          "src": "macos",
+          "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf",
+          "note": "overleaf.com"
+        },
+        {
+          "start": "21:27",
+          "end": "21:32",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "22:49",
+          "end": "22:57",
+          "cat": "writing",
+          "src": "macos",
+          "title": "[ARR OCT; Ada] - Online LaTeX Editor Overleaf",
+          "note": "overleaf.com"
+        },
+        {
+          "start": "23:03",
+          "end": "23:04",
+          "cat": "research",
+          "src": "macos",
+          "title": "Zhang et al. - 2024 - PsySafe A Comprehensive Framework for ",
+          "note": "file:///Users/ada/Zotero/storage/PB2F8B5"
+        },
+        {
+          "start": "23:14",
+          "end": "23:19",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "16 hits"
+        },
+        {
+          "start": "23:19",
+          "end": "23:21",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Search results for Office worker - Flaticon",
+          "note": "flaticon.com"
+        },
+        {
+          "start": "23:21",
+          "end": "23:23",
+          "cat": "writing",
+          "src": "macos",
+          "title": "agent_misuse_fig.pdf",
+          "note": "file:///Users/ada/Documents/MQ/Phd/Minor"
+        },
+        {
+          "start": "23:26",
+          "end": "23:27",
+          "cat": "writing",
+          "src": "macos",
+          "title": "agent_misuse_fig.pdf",
+          "note": "file:///Users/ada/Documents/MQ/Phd/Minor"
+        },
+        {
+          "start": "23:44",
+          "end": "23:47",
+          "cat": "writing",
+          "src": "macos",
+          "title": "agent_misuse_fig.pdf",
+          "note": "file:///Users/ada/Documents/MQ/Phd/Minor"
+        },
+        {
+          "start": "23:48",
+          "end": "23:53",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · bench",
+          "note": "45 hits"
+        },
+        {
+          "start": "23:53",
+          "end": "23:57",
+          "cat": "writing",
+          "src": "macos",
+          "title": "agent_misuse_fig.pdf",
+          "note": "file:///Users/ada/Documents/MQ/Phd/Minor"
+        },
+        {
+          "start": "00:28",
+          "end": "01:09",
+          "cat": "writing",
+          "src": "macos",
+          "title": "agent_misuse_fig.pdf",
+          "note": "file:///Users/ada/Documents/MQ/Phd/Minor"
+        },
+        {
+          "start": "01:09",
+          "end": "05:59",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
         }
       ],
-      "logged": 34,
-      "real": 31,
-      "deep": 31,
-      "ratio": 0.9109390798943369,
+      "logged": 870,
+      "real": 833,
+      "deep": 833,
+      "ratio": 0.9574941577890155,
       "stats": {
-        "contextSwitches": 4,
-        "tabsOpened": 6,
-        "longestFocus": "27m",
-        "justOneMoreThing": 1
+        "contextSwitches": 49,
+        "tabsOpened": 0,
+        "longestFocus": "6h 49m",
+        "justOneMoreThing": 8
       }
     },
     {
@@ -96486,18 +98127,59 @@
       "weekend": false,
       "dateShort": "Tue, Oct 13",
       "dateLong": "Tuesday, October 13",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "06:00",
+      "dayEnd": "10:21",
+      "events": [
+        {
+          "start": "06:00",
+          "end": "09:51",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "09:52",
+          "end": "09:57",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "15 hits"
+        },
+        {
+          "start": "09:57",
+          "end": "09:59",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "09:59",
+          "end": "09:59",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Credits | OpenRouter",
+          "note": "openrouter.ai"
+        },
+        {
+          "start": "09:59",
+          "end": "10:21",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "143 hits"
+        }
+      ],
+      "logged": 261,
+      "real": 260,
+      "deep": 260,
+      "ratio": 0.9953380196573454,
       "stats": {
-        "contextSwitches": 0,
+        "contextSwitches": 2,
         "tabsOpened": 0,
-        "longestFocus": "0m",
-        "justOneMoreThing": 0
+        "longestFocus": "3h 57m",
+        "justOneMoreThing": 1
       }
     },
     {
