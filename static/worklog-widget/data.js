@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-10-13T10:20:18+11:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-10-14T10:22:45+11:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -92606,7 +92606,7 @@
         "dateShort": "Tue, Oct 13",
         "dateLong": "Tuesday, October 13",
         "dayStart": "06:00",
-        "dayEnd": "10:21",
+        "dayEnd": "22:44",
         "events": [
           {
             "start": "06:00",
@@ -92642,22 +92642,606 @@
           },
           {
             "start": "09:59",
-            "end": "10:21",
+            "end": "10:17",
             "cat": "coding",
             "src": "claude",
             "title": "Claude session · harbor",
-            "note": "143 hits"
+            "note": "154 hits"
+          },
+          {
+            "start": "10:17",
+            "end": "10:25",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "154 hits"
+          },
+          {
+            "start": "10:32",
+            "end": "10:35",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Create LaTeX tables online – TablesGenerator.com",
+            "note": "tablesgenerator.com"
+          },
+          {
+            "start": "10:35",
+            "end": "10:47",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "10:52",
+            "end": "11:02",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "34 hits"
+          },
+          {
+            "start": "11:02",
+            "end": "11:04",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:04",
+            "end": "11:07",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "7 hits"
+          },
+          {
+            "start": "11:07",
+            "end": "11:16",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Create LaTeX tables online – TablesGenerator.com",
+            "note": "tablesgenerator.com"
+          },
+          {
+            "start": "11:16",
+            "end": "11:23",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "12:08",
+            "end": "12:11",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Create LaTeX tables online – TablesGenerator.com",
+            "note": "tablesgenerator.com"
+          },
+          {
+            "start": "12:11",
+            "end": "12:15",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "12:18",
+            "end": "12:22",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "13 hits"
+          },
+          {
+            "start": "12:33",
+            "end": "12:42",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Create LaTeX tables online – TablesGenerator.com",
+            "note": "tablesgenerator.com"
+          },
+          {
+            "start": "12:42",
+            "end": "12:44",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "12:44",
+            "end": "12:46",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Excel",
+            "note": "com.microsoft.Excel"
+          },
+          {
+            "start": "12:48",
+            "end": "12:51",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "28 hits"
+          },
+          {
+            "start": "12:55",
+            "end": "14:15",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "14:15",
+            "end": "14:18",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "7 hits"
+          },
+          {
+            "start": "14:18",
+            "end": "14:26",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "14:26",
+            "end": "14:31",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Excel",
+            "note": "com.microsoft.Excel"
+          },
+          {
+            "start": "14:31",
+            "end": "14:49",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Create LaTeX tables online – TablesGenerator.com",
+            "note": "tablesgenerator.com"
+          },
+          {
+            "start": "14:49",
+            "end": "15:08",
+            "cat": "personal",
+            "src": "macos",
+            "title": "_ARR_OCT__Ada_ (1).pdf",
+            "note": "file:///Users/ada/Documents/MQ/Phd/Tool%"
+          },
+          {
+            "start": "15:10",
+            "end": "15:14",
+            "cat": "research",
+            "src": "macos",
+            "title": "2004.10645v2.pdf",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "15:32",
+            "end": "15:48",
+            "cat": "research",
+            "src": "macos",
+            "title": "2004.10645v2.pdf",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "15:48",
+            "end": "16:09",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:09",
+            "end": "16:14",
+            "cat": "research",
+            "src": "macos",
+            "title": "2004.10645v2.pdf",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "16:16",
+            "end": "16:30",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "179 hits"
+          },
+          {
+            "start": "16:30",
+            "end": "16:35",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "179 hits"
+          },
+          {
+            "start": "16:35",
+            "end": "16:41",
+            "cat": "research",
+            "src": "macos",
+            "title": "2004.10645v2.pdf",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "16:43",
+            "end": "16:53",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "14 hits"
+          },
+          {
+            "start": "16:53",
+            "end": "16:54",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "16:54",
+            "end": "17:00",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "17:00",
+            "end": "17:00",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "17:01",
+            "end": "17:04",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "17:04",
+            "end": "17:10",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Oct ARR Review/papers - Google Sheets",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "17:10",
+            "end": "17:12",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "14 hits"
+          },
+          {
+            "start": "17:13",
+            "end": "17:15",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "14 hits"
+          },
+          {
+            "start": "17:15",
+            "end": "17:17",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Oct ARR Review/papers - Google Sheets",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "18:06",
+            "end": "18:10",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Oct ARR Review/papers - Google Sheets",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "18:10",
+            "end": "18:17",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "18:35",
+            "end": "20:03",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Oct ARR Review/papers - Google Sheets",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "20:32",
+            "end": "20:38",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Oct ARR Review/papers - Google Sheets",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "20:40",
+            "end": "20:47",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "61 hits"
+          },
+          {
+            "start": "20:47",
+            "end": "20:55",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Oct ARR Review/papers - Google Sheets",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "20:57",
+            "end": "21:05",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Oct ARR Review/papers - Google Sheets",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "21:05",
+            "end": "21:08",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "21:09",
+            "end": "21:12",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "16 hits"
+          },
+          {
+            "start": "21:14",
+            "end": "21:20",
+            "cat": "research",
+            "src": "macos",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+            "note": "openreview.net"
+          },
+          {
+            "start": "21:20",
+            "end": "21:25",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "21:25",
+            "end": "21:27",
+            "cat": "research",
+            "src": "macos",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+            "note": "openreview.net"
+          },
+          {
+            "start": "21:27",
+            "end": "21:29",
+            "cat": "research",
+            "src": "macos",
+            "title": "Area Keywords at ARR – ACL Rolling Review",
+            "note": "aclrollingreview.org"
+          },
+          {
+            "start": "21:30",
+            "end": "21:34",
+            "cat": "research",
+            "src": "macos",
+            "title": "ACL ARR 2026 October | OpenReview",
+            "note": "openreview.net"
+          },
+          {
+            "start": "21:34",
+            "end": "21:35",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "21:35",
+            "end": "21:40",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "45 hits"
+          },
+          {
+            "start": "21:40",
+            "end": "21:42",
+            "cat": "research",
+            "src": "macos",
+            "title": "ACL ARR 2026 October | OpenReview",
+            "note": "openreview.net"
+          },
+          {
+            "start": "21:42",
+            "end": "21:43",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "21:44",
+            "end": "21:46",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "21:46",
+            "end": "21:52",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Oct ARR Review/papers - Google Sheets",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "21:52",
+            "end": "21:54",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "21:54",
+            "end": "21:55",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "21:56",
+            "end": "21:57",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "21:57",
+            "end": "22:00",
+            "cat": "research",
+            "src": "macos",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+            "note": "openreview.net"
+          },
+          {
+            "start": "22:00",
+            "end": "22:01",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Excel",
+            "note": "com.microsoft.Excel"
+          },
+          {
+            "start": "22:01",
+            "end": "22:02",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "22:02",
+            "end": "22:03",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Excel",
+            "note": "com.microsoft.Excel"
+          },
+          {
+            "start": "22:03",
+            "end": "22:04",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Excel",
+            "note": "com.microsoft.Excel"
+          },
+          {
+            "start": "22:04",
+            "end": "22:05",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "22:05",
+            "end": "22:10",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "42 hits"
+          },
+          {
+            "start": "22:11",
+            "end": "22:13",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Submission Deadline: Oct 13 2026 11:59AM UTC-0 - Google Sear",
+            "note": "google.com"
+          },
+          {
+            "start": "22:13",
+            "end": "22:22",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "111 hits"
+          },
+          {
+            "start": "22:22",
+            "end": "22:23",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Submission Deadline: Oct 13 2026 11:59AM UTC-0 - Google Sear",
+            "note": "google.com"
+          },
+          {
+            "start": "22:23",
+            "end": "22:28",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "15 hits"
+          },
+          {
+            "start": "22:28",
+            "end": "22:34",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Submission Deadline: Oct 13 2026 11:59AM UTC-0 - Google Sear",
+            "note": "google.com"
+          },
+          {
+            "start": "22:34",
+            "end": "22:44",
+            "cat": "research",
+            "src": "macos",
+            "title": "Do LLM Agents Amortize Work Across Related Tasks? | OpenRevi",
+            "note": "openreview.net"
           }
         ],
-        "logged": 261,
-        "real": 260,
-        "deep": 260,
-        "ratio": 0.9953380196573454,
+        "logged": 796,
+        "real": 744,
+        "deep": 744,
+        "ratio": 0.9352609249484976,
         "stats": {
-          "contextSwitches": 2,
+          "contextSwitches": 54,
           "tabsOpened": 0,
           "longestFocus": "3h 57m",
-          "justOneMoreThing": 1
+          "justOneMoreThing": 11
         }
       },
       {
@@ -98128,7 +98712,7 @@
       "dateShort": "Tue, Oct 13",
       "dateLong": "Tuesday, October 13",
       "dayStart": "06:00",
-      "dayEnd": "10:21",
+      "dayEnd": "22:44",
       "events": [
         {
           "start": "06:00",
@@ -98164,22 +98748,606 @@
         },
         {
           "start": "09:59",
-          "end": "10:21",
+          "end": "10:17",
           "cat": "coding",
           "src": "claude",
           "title": "Claude session · harbor",
-          "note": "143 hits"
+          "note": "154 hits"
+        },
+        {
+          "start": "10:17",
+          "end": "10:25",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "154 hits"
+        },
+        {
+          "start": "10:32",
+          "end": "10:35",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Create LaTeX tables online – TablesGenerator.com",
+          "note": "tablesgenerator.com"
+        },
+        {
+          "start": "10:35",
+          "end": "10:47",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "10:52",
+          "end": "11:02",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "34 hits"
+        },
+        {
+          "start": "11:02",
+          "end": "11:04",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:04",
+          "end": "11:07",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "7 hits"
+        },
+        {
+          "start": "11:07",
+          "end": "11:16",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Create LaTeX tables online – TablesGenerator.com",
+          "note": "tablesgenerator.com"
+        },
+        {
+          "start": "11:16",
+          "end": "11:23",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "12:08",
+          "end": "12:11",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Create LaTeX tables online – TablesGenerator.com",
+          "note": "tablesgenerator.com"
+        },
+        {
+          "start": "12:11",
+          "end": "12:15",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "12:18",
+          "end": "12:22",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "13 hits"
+        },
+        {
+          "start": "12:33",
+          "end": "12:42",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Create LaTeX tables online – TablesGenerator.com",
+          "note": "tablesgenerator.com"
+        },
+        {
+          "start": "12:42",
+          "end": "12:44",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "12:44",
+          "end": "12:46",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Excel",
+          "note": "com.microsoft.Excel"
+        },
+        {
+          "start": "12:48",
+          "end": "12:51",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "28 hits"
+        },
+        {
+          "start": "12:55",
+          "end": "14:15",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "14:15",
+          "end": "14:18",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "7 hits"
+        },
+        {
+          "start": "14:18",
+          "end": "14:26",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "14:26",
+          "end": "14:31",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Excel",
+          "note": "com.microsoft.Excel"
+        },
+        {
+          "start": "14:31",
+          "end": "14:49",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Create LaTeX tables online – TablesGenerator.com",
+          "note": "tablesgenerator.com"
+        },
+        {
+          "start": "14:49",
+          "end": "15:08",
+          "cat": "personal",
+          "src": "macos",
+          "title": "_ARR_OCT__Ada_ (1).pdf",
+          "note": "file:///Users/ada/Documents/MQ/Phd/Tool%"
+        },
+        {
+          "start": "15:10",
+          "end": "15:14",
+          "cat": "research",
+          "src": "macos",
+          "title": "2004.10645v2.pdf",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "15:32",
+          "end": "15:48",
+          "cat": "research",
+          "src": "macos",
+          "title": "2004.10645v2.pdf",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "15:48",
+          "end": "16:09",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:09",
+          "end": "16:14",
+          "cat": "research",
+          "src": "macos",
+          "title": "2004.10645v2.pdf",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "16:16",
+          "end": "16:30",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "179 hits"
+        },
+        {
+          "start": "16:30",
+          "end": "16:35",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "179 hits"
+        },
+        {
+          "start": "16:35",
+          "end": "16:41",
+          "cat": "research",
+          "src": "macos",
+          "title": "2004.10645v2.pdf",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "16:43",
+          "end": "16:53",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "14 hits"
+        },
+        {
+          "start": "16:53",
+          "end": "16:54",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "16:54",
+          "end": "17:00",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "17:00",
+          "end": "17:00",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "17:01",
+          "end": "17:04",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "17:04",
+          "end": "17:10",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Oct ARR Review/papers - Google Sheets",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "17:10",
+          "end": "17:12",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "14 hits"
+        },
+        {
+          "start": "17:13",
+          "end": "17:15",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "14 hits"
+        },
+        {
+          "start": "17:15",
+          "end": "17:17",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Oct ARR Review/papers - Google Sheets",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "18:06",
+          "end": "18:10",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Oct ARR Review/papers - Google Sheets",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "18:10",
+          "end": "18:17",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "18:35",
+          "end": "20:03",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Oct ARR Review/papers - Google Sheets",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "20:32",
+          "end": "20:38",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Oct ARR Review/papers - Google Sheets",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "20:40",
+          "end": "20:47",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "61 hits"
+        },
+        {
+          "start": "20:47",
+          "end": "20:55",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Oct ARR Review/papers - Google Sheets",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "20:57",
+          "end": "21:05",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Oct ARR Review/papers - Google Sheets",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "21:05",
+          "end": "21:08",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "21:09",
+          "end": "21:12",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "16 hits"
+        },
+        {
+          "start": "21:14",
+          "end": "21:20",
+          "cat": "research",
+          "src": "macos",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+          "note": "openreview.net"
+        },
+        {
+          "start": "21:20",
+          "end": "21:25",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "21:25",
+          "end": "21:27",
+          "cat": "research",
+          "src": "macos",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+          "note": "openreview.net"
+        },
+        {
+          "start": "21:27",
+          "end": "21:29",
+          "cat": "research",
+          "src": "macos",
+          "title": "Area Keywords at ARR – ACL Rolling Review",
+          "note": "aclrollingreview.org"
+        },
+        {
+          "start": "21:30",
+          "end": "21:34",
+          "cat": "research",
+          "src": "macos",
+          "title": "ACL ARR 2026 October | OpenReview",
+          "note": "openreview.net"
+        },
+        {
+          "start": "21:34",
+          "end": "21:35",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "21:35",
+          "end": "21:40",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "45 hits"
+        },
+        {
+          "start": "21:40",
+          "end": "21:42",
+          "cat": "research",
+          "src": "macos",
+          "title": "ACL ARR 2026 October | OpenReview",
+          "note": "openreview.net"
+        },
+        {
+          "start": "21:42",
+          "end": "21:43",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "21:44",
+          "end": "21:46",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "21:46",
+          "end": "21:52",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Oct ARR Review/papers - Google Sheets",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "21:52",
+          "end": "21:54",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "21:54",
+          "end": "21:55",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "21:56",
+          "end": "21:57",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "21:57",
+          "end": "22:00",
+          "cat": "research",
+          "src": "macos",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+          "note": "openreview.net"
+        },
+        {
+          "start": "22:00",
+          "end": "22:01",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Excel",
+          "note": "com.microsoft.Excel"
+        },
+        {
+          "start": "22:01",
+          "end": "22:02",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "22:02",
+          "end": "22:03",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Excel",
+          "note": "com.microsoft.Excel"
+        },
+        {
+          "start": "22:03",
+          "end": "22:04",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Excel",
+          "note": "com.microsoft.Excel"
+        },
+        {
+          "start": "22:04",
+          "end": "22:05",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "22:05",
+          "end": "22:10",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "42 hits"
+        },
+        {
+          "start": "22:11",
+          "end": "22:13",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Submission Deadline: Oct 13 2026 11:59AM UTC-0 - Google Sear",
+          "note": "google.com"
+        },
+        {
+          "start": "22:13",
+          "end": "22:22",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "111 hits"
+        },
+        {
+          "start": "22:22",
+          "end": "22:23",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Submission Deadline: Oct 13 2026 11:59AM UTC-0 - Google Sear",
+          "note": "google.com"
+        },
+        {
+          "start": "22:23",
+          "end": "22:28",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "15 hits"
+        },
+        {
+          "start": "22:28",
+          "end": "22:34",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Submission Deadline: Oct 13 2026 11:59AM UTC-0 - Google Sear",
+          "note": "google.com"
+        },
+        {
+          "start": "22:34",
+          "end": "22:44",
+          "cat": "research",
+          "src": "macos",
+          "title": "Do LLM Agents Amortize Work Across Related Tasks? | OpenRevi",
+          "note": "openreview.net"
         }
       ],
-      "logged": 261,
-      "real": 260,
-      "deep": 260,
-      "ratio": 0.9953380196573454,
+      "logged": 796,
+      "real": 744,
+      "deep": 744,
+      "ratio": 0.9352609249484976,
       "stats": {
-        "contextSwitches": 2,
+        "contextSwitches": 54,
         "tabsOpened": 0,
         "longestFocus": "3h 57m",
-        "justOneMoreThing": 1
+        "justOneMoreThing": 11
       }
     },
     {
