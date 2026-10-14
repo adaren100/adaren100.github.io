@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-10-14T10:22:45+11:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-10-15T10:20:20+11:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -92391,7 +92391,7 @@
             "end": "19:56",
             "cat": "writing",
             "src": "macos",
-            "title": "Untitled document - Google Docs",
+            "title": "Revision note - Google Docs",
             "note": "docs.google.com"
           },
           {
@@ -92606,7 +92606,7 @@
         "dateShort": "Tue, Oct 13",
         "dateLong": "Tuesday, October 13",
         "dayStart": "06:00",
-        "dayEnd": "22:44",
+        "dayEnd": "22:46",
         "events": [
           {
             "start": "06:00",
@@ -93231,12 +93231,20 @@
             "src": "macos",
             "title": "Do LLM Agents Amortize Work Across Related Tasks? | OpenRevi",
             "note": "openreview.net"
+          },
+          {
+            "start": "22:45",
+            "end": "22:46",
+            "cat": "research",
+            "src": "macos",
+            "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+            "note": "openreview.net"
           }
         ],
-        "logged": 796,
-        "real": 744,
-        "deep": 744,
-        "ratio": 0.9352609249484976,
+        "logged": 797,
+        "real": 746,
+        "deep": 746,
+        "ratio": 0.9353679411043329,
         "stats": {
           "contextSwitches": 54,
           "tabsOpened": 0,
@@ -93251,15 +93259,80 @@
         "weekend": false,
         "dateShort": "Wed, Oct 14",
         "dateLong": "Wednesday, October 14",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
+        "dayStart": "20:08",
+        "dayEnd": "21:05",
+        "events": [
+          {
+            "start": "20:08",
+            "end": "20:12",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Search | Ski Solutions",
+            "note": "skisolutions.com"
+          },
+          {
+            "start": "20:17",
+            "end": "20:19",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Search | Ski Solutions",
+            "note": "skisolutions.com"
+          },
+          {
+            "start": "20:22",
+            "end": "20:25",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Pragelato Sestriere, Italy All-Inclusive Club Med Ski Resort",
+            "note": "clubmed.com.au"
+          },
+          {
+            "start": "20:27",
+            "end": "20:33",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Pragelato Sestriere, Italy All-Inclusive Club Med Ski Resort",
+            "note": "clubmed.com.au"
+          },
+          {
+            "start": "20:39",
+            "end": "20:42",
+            "cat": "admin",
+            "src": "macos",
+            "title": "paris to lyon train - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "20:43",
+            "end": "20:45",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Club Med Ski Holidays & Ski Deals 2026/2027 | Ski Solutions",
+            "note": "skisolutions.com"
+          },
+          {
+            "start": "20:45",
+            "end": "20:46",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Search | Ski Solutions",
+            "note": "skisolutions.com"
+          },
+          {
+            "start": "20:59",
+            "end": "21:05",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Reformer Pilates | Sport and Aquatic Centre | Macquarie Uni",
+            "note": "sport.mq.edu.au"
+          }
+        ],
+        "logged": 26,
         "real": 0,
         "deep": 0,
-        "ratio": 0,
+        "ratio": 0.0,
         "stats": {
-          "contextSwitches": 0,
+          "contextSwitches": 3,
           "tabsOpened": 0,
           "longestFocus": "0m",
           "justOneMoreThing": 0
@@ -93272,16 +93345,25 @@
         "weekend": false,
         "dateShort": "Thu, Oct 15",
         "dateLong": "Thursday, October 15",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
+        "dayStart": "10:18",
+        "dayEnd": "10:38",
+        "events": [
+          {
+            "start": "10:18",
+            "end": "10:38",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: MQAIS x Sym AI Open 2",
+            "note": "ilearn.mq.edu.au"
+          }
+        ],
+        "logged": 21,
         "real": 0,
         "deep": 0,
-        "ratio": 0,
+        "ratio": 0.0,
         "stats": {
           "contextSwitches": 0,
-          "tabsOpened": 0,
+          "tabsOpened": 3,
           "longestFocus": "0m",
           "justOneMoreThing": 0
         }
@@ -98497,7 +98579,7 @@
           "end": "19:56",
           "cat": "writing",
           "src": "macos",
-          "title": "Untitled document - Google Docs",
+          "title": "Revision note - Google Docs",
           "note": "docs.google.com"
         },
         {
@@ -98712,7 +98794,7 @@
       "dateShort": "Tue, Oct 13",
       "dateLong": "Tuesday, October 13",
       "dayStart": "06:00",
-      "dayEnd": "22:44",
+      "dayEnd": "22:46",
       "events": [
         {
           "start": "06:00",
@@ -99337,12 +99419,20 @@
           "src": "macos",
           "title": "Do LLM Agents Amortize Work Across Related Tasks? | OpenRevi",
           "note": "openreview.net"
+        },
+        {
+          "start": "22:45",
+          "end": "22:46",
+          "cat": "research",
+          "src": "macos",
+          "title": "Shortcut or Study Buddy? Benchmarking AI Agent Compliance wi",
+          "note": "openreview.net"
         }
       ],
-      "logged": 796,
-      "real": 744,
-      "deep": 744,
-      "ratio": 0.9352609249484976,
+      "logged": 797,
+      "real": 746,
+      "deep": 746,
+      "ratio": 0.9353679411043329,
       "stats": {
         "contextSwitches": 54,
         "tabsOpened": 0,
@@ -99357,15 +99447,80 @@
       "weekend": false,
       "dateShort": "Wed, Oct 14",
       "dateLong": "Wednesday, October 14",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
+      "dayStart": "20:08",
+      "dayEnd": "21:05",
+      "events": [
+        {
+          "start": "20:08",
+          "end": "20:12",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Search | Ski Solutions",
+          "note": "skisolutions.com"
+        },
+        {
+          "start": "20:17",
+          "end": "20:19",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Search | Ski Solutions",
+          "note": "skisolutions.com"
+        },
+        {
+          "start": "20:22",
+          "end": "20:25",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Pragelato Sestriere, Italy All-Inclusive Club Med Ski Resort",
+          "note": "clubmed.com.au"
+        },
+        {
+          "start": "20:27",
+          "end": "20:33",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Pragelato Sestriere, Italy All-Inclusive Club Med Ski Resort",
+          "note": "clubmed.com.au"
+        },
+        {
+          "start": "20:39",
+          "end": "20:42",
+          "cat": "admin",
+          "src": "macos",
+          "title": "paris to lyon train - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "20:43",
+          "end": "20:45",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Club Med Ski Holidays & Ski Deals 2026/2027 | Ski Solutions",
+          "note": "skisolutions.com"
+        },
+        {
+          "start": "20:45",
+          "end": "20:46",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Search | Ski Solutions",
+          "note": "skisolutions.com"
+        },
+        {
+          "start": "20:59",
+          "end": "21:05",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Reformer Pilates | Sport and Aquatic Centre | Macquarie Uni",
+          "note": "sport.mq.edu.au"
+        }
+      ],
+      "logged": 26,
       "real": 0,
       "deep": 0,
-      "ratio": 0,
+      "ratio": 0.0,
       "stats": {
-        "contextSwitches": 0,
+        "contextSwitches": 3,
         "tabsOpened": 0,
         "longestFocus": "0m",
         "justOneMoreThing": 0
@@ -99378,16 +99533,25 @@
       "weekend": false,
       "dateShort": "Thu, Oct 15",
       "dateLong": "Thursday, October 15",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
+      "dayStart": "10:18",
+      "dayEnd": "10:38",
+      "events": [
+        {
+          "start": "10:18",
+          "end": "10:38",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: MQAIS x Sym AI Open 2",
+          "note": "ilearn.mq.edu.au"
+        }
+      ],
+      "logged": 21,
       "real": 0,
       "deep": 0,
-      "ratio": 0,
+      "ratio": 0.0,
       "stats": {
         "contextSwitches": 0,
-        "tabsOpened": 0,
+        "tabsOpened": 3,
         "longestFocus": "0m",
         "justOneMoreThing": 0
       }
