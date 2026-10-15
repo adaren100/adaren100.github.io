@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-10-15T10:20:20+11:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-10-16T10:27:16+11:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -93345,26 +93345,522 @@
         "weekend": false,
         "dateShort": "Thu, Oct 15",
         "dateLong": "Thursday, October 15",
-        "dayStart": "10:18",
-        "dayEnd": "10:38",
+        "dayStart": "10:08",
+        "dayEnd": "16:28",
         "events": [
           {
-            "start": "10:18",
-            "end": "10:38",
+            "start": "10:08",
+            "end": "10:09",
             "cat": "admin",
-            "src": "chrome",
-            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: MQAIS x Sym AI Open 2",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "10:09",
+            "end": "10:12",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "10:13",
+            "end": "10:15",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "10:16",
+            "end": "10:20",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "10:22",
+            "end": "10:24",
+            "cat": "admin",
+            "src": "macos",
+            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Question 6 | iLearn",
             "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "10:27",
+            "end": "10:32",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Authentication Error - OpenAI",
+            "note": "auth.openai.com"
+          },
+          {
+            "start": "10:36",
+            "end": "10:40",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Authentication Error - OpenAI",
+            "note": "auth.openai.com"
+          },
+          {
+            "start": "10:40",
+            "end": "10:51",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Billing | Claude Platform",
+            "note": "platform.claude.com"
+          },
+          {
+            "start": "10:53",
+            "end": "10:54",
+            "cat": "personal",
+            "src": "macos",
+            "title": "X 上的 lifcc：“Anthropic 宣布找到了一套新方法，让其他 AI 公司更难通过 Claude 的回答和推理",
+            "note": "x.com"
+          },
+          {
+            "start": "10:54",
+            "end": "10:55",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Paris, France to Club Med Arcs Panorama - French Alps - Goog",
+            "note": "google.com"
+          },
+          {
+            "start": "11:01",
+            "end": "11:03",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Academic Dates - Calendar | MQ Sydney",
+            "note": "students.mq.edu.au"
+          },
+          {
+            "start": "11:04",
+            "end": "11:08",
+            "cat": "admin",
+            "src": "macos",
+            "title": "macquarie university shut down period 2026 - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "11:21",
+            "end": "11:22",
+            "cat": "personal",
+            "src": "macos",
+            "title": "French Alps Holiday Packages & All-Inclusive Resorts 2026/20",
+            "note": "clubmed.com.au"
+          },
+          {
+            "start": "11:22",
+            "end": "11:23",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Les Arcs Panorama, France All-Inclusive Club Med Ski Resort",
+            "note": "clubmed.com.au"
+          },
+          {
+            "start": "11:23",
+            "end": "11:24",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Les Arcs Panorama, France All-Inclusive Club Med Ski Resort",
+            "note": "clubmed.com.au"
+          },
+          {
+            "start": "11:27",
+            "end": "11:29",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Log in to France-Visas | France-Visas",
+            "note": "connect.france-visas.gouv.fr"
+          },
+          {
+            "start": "11:30",
+            "end": "11:31",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Check mailbox | France-Visas",
+            "note": "connect.france-visas.gouv.fr"
+          },
+          {
+            "start": "11:31",
+            "end": "11:33",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "11:33",
+            "end": "11:37",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "11:38",
+            "end": "11:39",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Search results - ada.ren.cn@gmail.com - Gmail",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "11:39",
+            "end": "11:40",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Sydney | vfsglobal",
+            "note": "visa.vfsglobal.com"
+          },
+          {
+            "start": "11:40",
+            "end": "11:41",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Make an appointment - France-Visas",
+            "note": "france-visas.gouv.fr"
+          },
+          {
+            "start": "11:48",
+            "end": "11:57",
+            "cat": "admin",
+            "src": "macos",
+            "title": "十一大航海！与陆大鹏漫游葡萄牙西班牙",
+            "note": "mp.weixin.qq.com"
+          },
+          {
+            "start": "12:00",
+            "end": "12:01",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "12:01",
+            "end": "12:03",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Sign in to usager",
+            "note": "connect.france-visas.gouv.fr"
+          },
+          {
+            "start": "12:03",
+            "end": "12:04",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Club Med Val D'Isere in Val d'Isere | AlpineAnswers.co.uk",
+            "note": "alpineanswers.co.uk"
+          },
+          {
+            "start": "12:05",
+            "end": "12:15",
+            "cat": "admin",
+            "src": "macos",
+            "title": "COMP2200 Data Science / COMP6200: Personal profile: Muhammad",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "12:51",
+            "end": "12:53",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Inbox (3,222) - ada.ren.cn@gmail.com - Gmail",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "12:57",
+            "end": "12:59",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Inbox (3,222) - ada.ren.cn@gmail.com - Gmail",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "12:59",
+            "end": "13:01",
+            "cat": "admin",
+            "src": "macos",
+            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: python project | iLea",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "13:03",
+            "end": "13:13",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "13:29",
+            "end": "13:31",
+            "cat": "personal",
+            "src": "macos",
+            "title": "AI写信润色_AI写邮件_邮件润色-网易外贸通",
+            "note": "waimao.163.com"
+          },
+          {
+            "start": "13:31",
+            "end": "13:45",
+            "cat": "personal",
+            "src": "macos",
+            "title": "France-Visas | Demande de Visa | Step 2 of 6 - Your informat",
+            "note": "application-form.france-visas.gouv.fr"
+          },
+          {
+            "start": "13:46",
+            "end": "13:48",
+            "cat": "personal",
+            "src": "macos",
+            "title": "France-Visas | Demande de Visa | Step 4 of 6 - Your stay",
+            "note": "application-form.france-visas.gouv.fr"
+          },
+          {
+            "start": "13:49",
+            "end": "13:55",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Confirmation d'enregistrement / Confirmation of registration",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "13:57",
+            "end": "13:58",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Inbox (3,222) - ada.ren.cn@gmail.com - Gmail",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "13:58",
+            "end": "14:02",
+            "cat": "admin",
+            "src": "macos",
+            "title": "My Maison In Paris Montmartre - ada.ren.cn@gmail.com - Gmail",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "14:02",
+            "end": "14:06",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "teams2",
+            "note": "com.microsoft.teams2"
+          },
+          {
+            "start": "14:06",
+            "end": "14:15",
+            "cat": "admin",
+            "src": "macos",
+            "title": "WhatsApp",
+            "note": "web.whatsapp.com"
+          },
+          {
+            "start": "14:16",
+            "end": "14:22",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "14:22",
+            "end": "14:24",
+            "cat": "research",
+            "src": "macos",
+            "title": "How a PhD Can Survive? | Ada's Notes",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "14:24",
+            "end": "14:25",
+            "cat": "personal",
+            "src": "macos",
+            "title": "rednote - Your lifestyle guide",
+            "note": "rednote.com"
+          },
+          {
+            "start": "14:27",
+            "end": "14:29",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Register | VFS Global",
+            "note": "visa.vfsglobal.com"
+          },
+          {
+            "start": "14:29",
+            "end": "14:31",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Appointment details | VFS Global",
+            "note": "visa.vfsglobal.com"
+          },
+          {
+            "start": "14:35",
+            "end": "14:36",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(1228封未读) 网易邮箱6.0版",
+            "note": "hw.mail.163.com"
+          },
+          {
+            "start": "14:36",
+            "end": "14:40",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Login | VFS Global",
+            "note": "visa.vfsglobal.com"
+          },
+          {
+            "start": "14:40",
+            "end": "14:41",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Login | VFS Global",
+            "note": "visa.vfsglobal.com"
+          },
+          {
+            "start": "14:42",
+            "end": "14:44",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Login | VFS Global",
+            "note": "visa.vfsglobal.com"
+          },
+          {
+            "start": "14:44",
+            "end": "14:45",
+            "cat": "personal",
+            "src": "macos",
+            "title": "VFS Global | Official partner of the Government",
+            "note": "visa.vfsglobal.com"
+          },
+          {
+            "start": "14:45",
+            "end": "14:47",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Dashboard | VFS Global",
+            "note": "visa.vfsglobal.com"
+          },
+          {
+            "start": "14:47",
+            "end": "14:51",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Welcome to VFS Global | For Individuals | Home",
+            "note": "vfsglobal.com"
+          },
+          {
+            "start": "14:52",
+            "end": "14:58",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Schengen visas",
+            "note": "exteriores.gob.es"
+          },
+          {
+            "start": "14:59",
+            "end": "15:01",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Welcome to TLScontact Shanghai | TLScontact Shanghai",
+            "note": "visas-fr.tlscontact.com"
+          },
+          {
+            "start": "15:01",
+            "end": "15:06",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Announcements | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "15:46",
+            "end": "15:49",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "xos",
+            "note": "us.zoom.xos"
+          },
+          {
+            "start": "15:49",
+            "end": "15:50",
+            "cat": "admin",
+            "src": "macos",
+            "title": "WeChat/Weixin for Web",
+            "note": "wx.qq.com"
+          },
+          {
+            "start": "15:51",
+            "end": "15:52",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Grand-Massif, France All-Inclusive Club Med Ski Resort",
+            "note": "clubmed.com.au"
+          },
+          {
+            "start": "15:52",
+            "end": "15:54",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "xos",
+            "note": "us.zoom.xos"
+          },
+          {
+            "start": "15:54",
+            "end": "15:55",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Grand-Massif, France All-Inclusive Club Med Ski Resort",
+            "note": "clubmed.com.au"
+          },
+          {
+            "start": "15:59",
+            "end": "16:01",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Saint-Moritz Roi Soleil All-Inclusive Club Med Resort",
+            "note": "clubmed.com.au"
+          },
+          {
+            "start": "16:06",
+            "end": "16:13",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Pragelato Sestriere, Italy All-Inclusive Club Med Ski Resort",
+            "note": "clubmed.com.au"
+          },
+          {
+            "start": "16:20",
+            "end": "16:23",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "xos",
+            "note": "us.zoom.xos"
+          },
+          {
+            "start": "16:23",
+            "end": "16:28",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Pragelato Sestriere, Italy All-Inclusive Club Med Ski Resort",
+            "note": "clubmed.com.au"
           }
         ],
-        "logged": 21,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0.0,
+        "logged": 201,
+        "real": 25,
+        "deep": 25,
+        "ratio": 0.12233477820542284,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 3,
-          "longestFocus": "0m",
+          "contextSwitches": 23,
+          "tabsOpened": 0,
+          "longestFocus": "11m",
           "justOneMoreThing": 0
         }
       },
@@ -99533,26 +100029,522 @@
       "weekend": false,
       "dateShort": "Thu, Oct 15",
       "dateLong": "Thursday, October 15",
-      "dayStart": "10:18",
-      "dayEnd": "10:38",
+      "dayStart": "10:08",
+      "dayEnd": "16:28",
       "events": [
         {
-          "start": "10:18",
-          "end": "10:38",
+          "start": "10:08",
+          "end": "10:09",
           "cat": "admin",
-          "src": "chrome",
-          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: MQAIS x Sym AI Open 2",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "10:09",
+          "end": "10:12",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "10:13",
+          "end": "10:15",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "10:16",
+          "end": "10:20",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "10:22",
+          "end": "10:24",
+          "cat": "admin",
+          "src": "macos",
+          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Question 6 | iLearn",
           "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "10:27",
+          "end": "10:32",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Authentication Error - OpenAI",
+          "note": "auth.openai.com"
+        },
+        {
+          "start": "10:36",
+          "end": "10:40",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Authentication Error - OpenAI",
+          "note": "auth.openai.com"
+        },
+        {
+          "start": "10:40",
+          "end": "10:51",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Billing | Claude Platform",
+          "note": "platform.claude.com"
+        },
+        {
+          "start": "10:53",
+          "end": "10:54",
+          "cat": "personal",
+          "src": "macos",
+          "title": "X 上的 lifcc：“Anthropic 宣布找到了一套新方法，让其他 AI 公司更难通过 Claude 的回答和推理",
+          "note": "x.com"
+        },
+        {
+          "start": "10:54",
+          "end": "10:55",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Paris, France to Club Med Arcs Panorama - French Alps - Goog",
+          "note": "google.com"
+        },
+        {
+          "start": "11:01",
+          "end": "11:03",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Academic Dates - Calendar | MQ Sydney",
+          "note": "students.mq.edu.au"
+        },
+        {
+          "start": "11:04",
+          "end": "11:08",
+          "cat": "admin",
+          "src": "macos",
+          "title": "macquarie university shut down period 2026 - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "11:21",
+          "end": "11:22",
+          "cat": "personal",
+          "src": "macos",
+          "title": "French Alps Holiday Packages & All-Inclusive Resorts 2026/20",
+          "note": "clubmed.com.au"
+        },
+        {
+          "start": "11:22",
+          "end": "11:23",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Les Arcs Panorama, France All-Inclusive Club Med Ski Resort",
+          "note": "clubmed.com.au"
+        },
+        {
+          "start": "11:23",
+          "end": "11:24",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Les Arcs Panorama, France All-Inclusive Club Med Ski Resort",
+          "note": "clubmed.com.au"
+        },
+        {
+          "start": "11:27",
+          "end": "11:29",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Log in to France-Visas | France-Visas",
+          "note": "connect.france-visas.gouv.fr"
+        },
+        {
+          "start": "11:30",
+          "end": "11:31",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Check mailbox | France-Visas",
+          "note": "connect.france-visas.gouv.fr"
+        },
+        {
+          "start": "11:31",
+          "end": "11:33",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "11:33",
+          "end": "11:37",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "11:38",
+          "end": "11:39",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Search results - ada.ren.cn@gmail.com - Gmail",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "11:39",
+          "end": "11:40",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Sydney | vfsglobal",
+          "note": "visa.vfsglobal.com"
+        },
+        {
+          "start": "11:40",
+          "end": "11:41",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Make an appointment - France-Visas",
+          "note": "france-visas.gouv.fr"
+        },
+        {
+          "start": "11:48",
+          "end": "11:57",
+          "cat": "admin",
+          "src": "macos",
+          "title": "十一大航海！与陆大鹏漫游葡萄牙西班牙",
+          "note": "mp.weixin.qq.com"
+        },
+        {
+          "start": "12:00",
+          "end": "12:01",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "12:01",
+          "end": "12:03",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Sign in to usager",
+          "note": "connect.france-visas.gouv.fr"
+        },
+        {
+          "start": "12:03",
+          "end": "12:04",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Club Med Val D'Isere in Val d'Isere | AlpineAnswers.co.uk",
+          "note": "alpineanswers.co.uk"
+        },
+        {
+          "start": "12:05",
+          "end": "12:15",
+          "cat": "admin",
+          "src": "macos",
+          "title": "COMP2200 Data Science / COMP6200: Personal profile: Muhammad",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "12:51",
+          "end": "12:53",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Inbox (3,222) - ada.ren.cn@gmail.com - Gmail",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "12:57",
+          "end": "12:59",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Inbox (3,222) - ada.ren.cn@gmail.com - Gmail",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "12:59",
+          "end": "13:01",
+          "cat": "admin",
+          "src": "macos",
+          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: python project | iLea",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "13:03",
+          "end": "13:13",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "13:29",
+          "end": "13:31",
+          "cat": "personal",
+          "src": "macos",
+          "title": "AI写信润色_AI写邮件_邮件润色-网易外贸通",
+          "note": "waimao.163.com"
+        },
+        {
+          "start": "13:31",
+          "end": "13:45",
+          "cat": "personal",
+          "src": "macos",
+          "title": "France-Visas | Demande de Visa | Step 2 of 6 - Your informat",
+          "note": "application-form.france-visas.gouv.fr"
+        },
+        {
+          "start": "13:46",
+          "end": "13:48",
+          "cat": "personal",
+          "src": "macos",
+          "title": "France-Visas | Demande de Visa | Step 4 of 6 - Your stay",
+          "note": "application-form.france-visas.gouv.fr"
+        },
+        {
+          "start": "13:49",
+          "end": "13:55",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Confirmation d'enregistrement / Confirmation of registration",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "13:57",
+          "end": "13:58",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Inbox (3,222) - ada.ren.cn@gmail.com - Gmail",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "13:58",
+          "end": "14:02",
+          "cat": "admin",
+          "src": "macos",
+          "title": "My Maison In Paris Montmartre - ada.ren.cn@gmail.com - Gmail",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "14:02",
+          "end": "14:06",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "teams2",
+          "note": "com.microsoft.teams2"
+        },
+        {
+          "start": "14:06",
+          "end": "14:15",
+          "cat": "admin",
+          "src": "macos",
+          "title": "WhatsApp",
+          "note": "web.whatsapp.com"
+        },
+        {
+          "start": "14:16",
+          "end": "14:22",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "14:22",
+          "end": "14:24",
+          "cat": "research",
+          "src": "macos",
+          "title": "How a PhD Can Survive? | Ada's Notes",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "14:24",
+          "end": "14:25",
+          "cat": "personal",
+          "src": "macos",
+          "title": "rednote - Your lifestyle guide",
+          "note": "rednote.com"
+        },
+        {
+          "start": "14:27",
+          "end": "14:29",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Register | VFS Global",
+          "note": "visa.vfsglobal.com"
+        },
+        {
+          "start": "14:29",
+          "end": "14:31",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Appointment details | VFS Global",
+          "note": "visa.vfsglobal.com"
+        },
+        {
+          "start": "14:35",
+          "end": "14:36",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(1228封未读) 网易邮箱6.0版",
+          "note": "hw.mail.163.com"
+        },
+        {
+          "start": "14:36",
+          "end": "14:40",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Login | VFS Global",
+          "note": "visa.vfsglobal.com"
+        },
+        {
+          "start": "14:40",
+          "end": "14:41",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Login | VFS Global",
+          "note": "visa.vfsglobal.com"
+        },
+        {
+          "start": "14:42",
+          "end": "14:44",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Login | VFS Global",
+          "note": "visa.vfsglobal.com"
+        },
+        {
+          "start": "14:44",
+          "end": "14:45",
+          "cat": "personal",
+          "src": "macos",
+          "title": "VFS Global | Official partner of the Government",
+          "note": "visa.vfsglobal.com"
+        },
+        {
+          "start": "14:45",
+          "end": "14:47",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Dashboard | VFS Global",
+          "note": "visa.vfsglobal.com"
+        },
+        {
+          "start": "14:47",
+          "end": "14:51",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Welcome to VFS Global | For Individuals | Home",
+          "note": "vfsglobal.com"
+        },
+        {
+          "start": "14:52",
+          "end": "14:58",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Schengen visas",
+          "note": "exteriores.gob.es"
+        },
+        {
+          "start": "14:59",
+          "end": "15:01",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Welcome to TLScontact Shanghai | TLScontact Shanghai",
+          "note": "visas-fr.tlscontact.com"
+        },
+        {
+          "start": "15:01",
+          "end": "15:06",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Announcements | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "15:46",
+          "end": "15:49",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "xos",
+          "note": "us.zoom.xos"
+        },
+        {
+          "start": "15:49",
+          "end": "15:50",
+          "cat": "admin",
+          "src": "macos",
+          "title": "WeChat/Weixin for Web",
+          "note": "wx.qq.com"
+        },
+        {
+          "start": "15:51",
+          "end": "15:52",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Grand-Massif, France All-Inclusive Club Med Ski Resort",
+          "note": "clubmed.com.au"
+        },
+        {
+          "start": "15:52",
+          "end": "15:54",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "xos",
+          "note": "us.zoom.xos"
+        },
+        {
+          "start": "15:54",
+          "end": "15:55",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Grand-Massif, France All-Inclusive Club Med Ski Resort",
+          "note": "clubmed.com.au"
+        },
+        {
+          "start": "15:59",
+          "end": "16:01",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Saint-Moritz Roi Soleil All-Inclusive Club Med Resort",
+          "note": "clubmed.com.au"
+        },
+        {
+          "start": "16:06",
+          "end": "16:13",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Pragelato Sestriere, Italy All-Inclusive Club Med Ski Resort",
+          "note": "clubmed.com.au"
+        },
+        {
+          "start": "16:20",
+          "end": "16:23",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "xos",
+          "note": "us.zoom.xos"
+        },
+        {
+          "start": "16:23",
+          "end": "16:28",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Pragelato Sestriere, Italy All-Inclusive Club Med Ski Resort",
+          "note": "clubmed.com.au"
         }
       ],
-      "logged": 21,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0.0,
+      "logged": 201,
+      "real": 25,
+      "deep": 25,
+      "ratio": 0.12233477820542284,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 3,
-        "longestFocus": "0m",
+        "contextSwitches": 23,
+        "tabsOpened": 0,
+        "longestFocus": "11m",
         "justOneMoreThing": 0
       }
     },
