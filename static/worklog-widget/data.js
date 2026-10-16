@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-10-16T10:27:16+11:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-10-17T10:37:33+11:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -93346,7 +93346,7 @@
         "dateShort": "Thu, Oct 15",
         "dateLong": "Thursday, October 15",
         "dayStart": "10:08",
-        "dayEnd": "16:28",
+        "dayEnd": "22:46",
         "events": [
           {
             "start": "10:08",
@@ -93569,7 +93569,7 @@
             "end": "12:53",
             "cat": "admin",
             "src": "macos",
-            "title": "Inbox (3,222) - ada.ren.cn@gmail.com - Gmail",
+            "title": "Inbox (3,223) - ada.ren.cn@gmail.com - Gmail",
             "note": "mail.google.com"
           },
           {
@@ -93577,7 +93577,7 @@
             "end": "12:59",
             "cat": "admin",
             "src": "macos",
-            "title": "Inbox (3,222) - ada.ren.cn@gmail.com - Gmail",
+            "title": "Inbox (3,223) - ada.ren.cn@gmail.com - Gmail",
             "note": "mail.google.com"
           },
           {
@@ -93633,7 +93633,7 @@
             "end": "13:58",
             "cat": "admin",
             "src": "macos",
-            "title": "Inbox (3,222) - ada.ren.cn@gmail.com - Gmail",
+            "title": "Inbox (3,223) - ada.ren.cn@gmail.com - Gmail",
             "note": "mail.google.com"
           },
           {
@@ -93851,14 +93851,150 @@
             "src": "macos",
             "title": "Pragelato Sestriere, Italy All-Inclusive Club Med Ski Resort",
             "note": "clubmed.com.au"
+          },
+          {
+            "start": "16:37",
+            "end": "16:38",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Inbox (3,223) - ada.ren.cn@gmail.com - Gmail",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "16:40",
+            "end": "16:41",
+            "cat": "personal",
+            "src": "macos",
+            "title": "France-Visas | Demande de Visa | Step 2 of 6 - Your informat",
+            "note": "application-form.france-visas.gouv.fr"
+          },
+          {
+            "start": "16:41",
+            "end": "16:42",
+            "cat": "personal",
+            "src": "macos",
+            "title": "France-Visas | Demande de Visa | Step 3 of 6 - Your last vis",
+            "note": "application-form.france-visas.gouv.fr"
+          },
+          {
+            "start": "16:48",
+            "end": "16:53",
+            "cat": "admin",
+            "src": "macos",
+            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Question 6 clarificat",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "16:53",
+            "end": "16:55",
+            "cat": "coding",
+            "src": "macos",
+            "title": "train_test_split — scikit-learn 1.9.1 documentation",
+            "note": "scikit-learn.org"
+          },
+          {
+            "start": "16:56",
+            "end": "16:58",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Preview question: Customer Engagement Preprocessing and Anal",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "16:58",
+            "end": "17:00",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
+            "note": "sport.mq.edu.au"
+          },
+          {
+            "start": "17:01",
+            "end": "17:09",
+            "cat": "research",
+            "src": "macos",
+            "title": "18604_Adaptive_Sparse_Support_.pdf",
+            "note": "openreview.net"
+          },
+          {
+            "start": "20:56",
+            "end": "20:58",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "21:02",
+            "end": "21:10",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Preview question: DEMO Q1 | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "21:11",
+            "end": "21:17",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Preview question: DEMO Q1 | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "21:19",
+            "end": "21:21",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Preview question: DEMO Q2 | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "21:22",
+            "end": "21:29",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Preview question: DEMO Q3 | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "21:29",
+            "end": "21:56",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Preview question: DEMO Q3 | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "21:57",
+            "end": "22:07",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Log in to the site | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "22:22",
+            "end": "22:27",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Log in to the site | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "22:42",
+            "end": "22:46",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Log in to the site | iLearn",
+            "note": "ilearn.mq.edu.au"
           }
         ],
-        "logged": 201,
-        "real": 25,
-        "deep": 25,
-        "ratio": 0.12233477820542284,
+        "logged": 292,
+        "real": 33,
+        "deep": 33,
+        "ratio": 0.11316682462297567,
         "stats": {
-          "contextSwitches": 23,
+          "contextSwitches": 30,
           "tabsOpened": 0,
           "longestFocus": "11m",
           "justOneMoreThing": 0
@@ -93871,18 +94007,467 @@
         "weekend": false,
         "dateShort": "Fri, Oct 16",
         "dateLong": "Friday, October 16",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "10:37",
+        "dayEnd": "16:51",
+        "events": [
+          {
+            "start": "10:37",
+            "end": "10:39",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Registration Prenot@mi",
+            "note": "prenotami.esteri.it"
+          },
+          {
+            "start": "10:39",
+            "end": "10:41",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Registration Prenot@mi",
+            "note": "prenotami.esteri.it"
+          },
+          {
+            "start": "10:43",
+            "end": "10:45",
+            "cat": "admin",
+            "src": "macos",
+            "title": "OTP Code - ada.ren.cn@gmail.com - Gmail",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "10:45",
+            "end": "10:46",
+            "cat": "personal",
+            "src": "macos",
+            "title": "REN JUAN.pdf",
+            "note": "file:///Users/ada/Documents/reset/Travli"
+          },
+          {
+            "start": "10:46",
+            "end": "10:48",
+            "cat": "research",
+            "src": "macos",
+            "title": "Preview",
+            "note": "com.apple.Preview"
+          },
+          {
+            "start": "10:49",
+            "end": "10:59",
+            "cat": "coding",
+            "src": "macos",
+            "title": "iterm2",
+            "note": "com.googlecode.iterm2"
+          },
+          {
+            "start": "11:05",
+            "end": "11:16",
+            "cat": "admin",
+            "src": "macos",
+            "title": "WeChat/Weixin for Web",
+            "note": "wx.qq.com"
+          },
+          {
+            "start": "11:22",
+            "end": "11:23",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "teams2",
+            "note": "com.microsoft.teams2"
+          },
+          {
+            "start": "11:25",
+            "end": "11:27",
+            "cat": "personal",
+            "src": "macos",
+            "title": "What food can you bring in?",
+            "note": "abf.gov.au"
+          },
+          {
+            "start": "11:27",
+            "end": "11:29",
+            "cat": "personal",
+            "src": "macos",
+            "title": "What food can you bring in?",
+            "note": "abf.gov.au"
+          },
+          {
+            "start": "11:34",
+            "end": "11:42",
+            "cat": "personal",
+            "src": "macos",
+            "title": "你能带什么食物进来？ --- What food can you bring in?",
+            "note": "abf.gov.au"
+          },
+          {
+            "start": "11:44",
+            "end": "11:51",
+            "cat": "personal",
+            "src": "macos",
+            "title": "你能带什么食物进来？ --- What food can you bring in?",
+            "note": "abf.gov.au"
+          },
+          {
+            "start": "11:57",
+            "end": "11:59",
+            "cat": "personal",
+            "src": "macos",
+            "title": "WeChat/Weixin for Web",
+            "note": "web.wechat.com"
+          },
+          {
+            "start": "12:06",
+            "end": "12:07",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Inbox (3,223) - ada.ren.cn@gmail.com - Gmail",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "12:10",
+            "end": "12:12",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "teams2",
+            "note": "com.microsoft.teams2"
+          },
+          {
+            "start": "13:11",
+            "end": "13:16",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Inbox (3,223) - ada.ren.cn@gmail.com - Gmail",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "13:17",
+            "end": "13:23",
+            "cat": "personal",
+            "src": "macos",
+            "title": "领事签证服务 – Ambasciata d'Italia Pechino",
+            "note": "ambpechino.esteri.it"
+          },
+          {
+            "start": "13:24",
+            "end": "13:25",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Inbox (3,223) - ada.ren.cn@gmail.com - Gmail",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "13:25",
+            "end": "13:27",
+            "cat": "coding",
+            "src": "macos",
+            "title": "week10_prac.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "13:28",
+            "end": "13:31",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "13:31",
+            "end": "13:33",
+            "cat": "research",
+            "src": "macos",
+            "title": "Edit Profile | OpenReview",
+            "note": "openreview.net"
+          },
+          {
+            "start": "13:40",
+            "end": "13:41",
+            "cat": "coding",
+            "src": "macos",
+            "title": "week10_prac.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "13:42",
+            "end": "13:51",
+            "cat": "coding",
+            "src": "macos",
+            "title": "week10_prac.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "13:54",
+            "end": "13:56",
+            "cat": "coding",
+            "src": "macos",
+            "title": "week10_prac.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "14:03",
+            "end": "14:09",
+            "cat": "coding",
+            "src": "macos",
+            "title": "week10_prac.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "14:14",
+            "end": "14:16",
+            "cat": "coding",
+            "src": "macos",
+            "title": "week10_prac.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "14:18",
+            "end": "14:19",
+            "cat": "coding",
+            "src": "macos",
+            "title": "week10_prac.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "14:21",
+            "end": "14:24",
+            "cat": "coding",
+            "src": "macos",
+            "title": "week10_prac.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "14:26",
+            "end": "14:28",
+            "cat": "coding",
+            "src": "macos",
+            "title": "week10_prac.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "14:34",
+            "end": "14:36",
+            "cat": "coding",
+            "src": "macos",
+            "title": "week10_prac.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "14:36",
+            "end": "14:38",
+            "cat": "coding",
+            "src": "macos",
+            "title": "week10_prac.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "14:46",
+            "end": "14:48",
+            "cat": "coding",
+            "src": "macos",
+            "title": "week10_prac.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "14:50",
+            "end": "14:51",
+            "cat": "coding",
+            "src": "macos",
+            "title": "week10_prac.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "14:52",
+            "end": "14:56",
+            "cat": "coding",
+            "src": "macos",
+            "title": "week10_prac.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "14:56",
+            "end": "14:58",
+            "cat": "coding",
+            "src": "macos",
+            "title": "week10_prac.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "14:58",
+            "end": "15:00",
+            "cat": "coding",
+            "src": "macos",
+            "title": "week10_prac.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "15:01",
+            "end": "15:02",
+            "cat": "coding",
+            "src": "macos",
+            "title": "week10_prac.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "15:02",
+            "end": "15:04",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "teams2",
+            "note": "com.microsoft.teams2"
+          },
+          {
+            "start": "15:04",
+            "end": "15:05",
+            "cat": "coding",
+            "src": "macos",
+            "title": "week10_prac.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "15:06",
+            "end": "15:10",
+            "cat": "coding",
+            "src": "macos",
+            "title": "week10_prac.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "15:15",
+            "end": "15:18",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google drive - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "15:21",
+            "end": "15:24",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Pragelato Sestriere, Italy All-Inclusive Club Med Ski Resort",
+            "note": "clubmed.com.au"
+          },
+          {
+            "start": "15:26",
+            "end": "15:28",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Access Restricted",
+            "note": "clubmed.com.cn"
+          },
+          {
+            "start": "15:39",
+            "end": "15:44",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Les Arcs Panorama - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "15:44",
+            "end": "15:47",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Maps",
+            "note": "google.com"
+          },
+          {
+            "start": "15:50",
+            "end": "15:56",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Pragelato - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "15:58",
+            "end": "16:00",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Pragelato - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "16:03",
+            "end": "16:05",
+            "cat": "admin",
+            "src": "macos",
+            "title": "多洛米蒂 - Google Maps",
+            "note": "google.com"
+          },
+          {
+            "start": "16:14",
+            "end": "16:18",
+            "cat": "research",
+            "src": "macos",
+            "title": "Dates and Venues – ACL Rolling Review",
+            "note": "aclrollingreview.org"
+          },
+          {
+            "start": "16:26",
+            "end": "16:31",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Genoa - Google Maps",
+            "note": "google.com"
+          },
+          {
+            "start": "16:35",
+            "end": "16:36",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google",
+            "note": "google.com"
+          },
+          {
+            "start": "16:39",
+            "end": "16:41",
+            "cat": "writing",
+            "src": "macos",
+            "title": "europe-trip-itinerary-v2 - Google Sheets",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "16:41",
+            "end": "16:43",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Genoa - Google Maps",
+            "note": "google.com"
+          },
+          {
+            "start": "16:45",
+            "end": "16:47",
+            "cat": "writing",
+            "src": "macos",
+            "title": "europe-trip-itinerary-v2 - Google Sheets",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "16:48",
+            "end": "16:49",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Claude",
+            "note": "claude.ai"
+          },
+          {
+            "start": "16:50",
+            "end": "16:51",
+            "cat": "writing",
+            "src": "macos",
+            "title": "europe-trip-itinerary-v2 - Google Sheets",
+            "note": "docs.google.com"
+          }
+        ],
+        "logged": 163,
+        "real": 77,
+        "deep": 77,
+        "ratio": 0.475143850398753,
         "stats": {
-          "contextSwitches": 0,
+          "contextSwitches": 28,
           "tabsOpened": 0,
-          "longestFocus": "0m",
-          "justOneMoreThing": 0
+          "longestFocus": "49m",
+          "justOneMoreThing": 2
         }
       },
       {
@@ -100030,7 +100615,7 @@
       "dateShort": "Thu, Oct 15",
       "dateLong": "Thursday, October 15",
       "dayStart": "10:08",
-      "dayEnd": "16:28",
+      "dayEnd": "22:46",
       "events": [
         {
           "start": "10:08",
@@ -100253,7 +100838,7 @@
           "end": "12:53",
           "cat": "admin",
           "src": "macos",
-          "title": "Inbox (3,222) - ada.ren.cn@gmail.com - Gmail",
+          "title": "Inbox (3,223) - ada.ren.cn@gmail.com - Gmail",
           "note": "mail.google.com"
         },
         {
@@ -100261,7 +100846,7 @@
           "end": "12:59",
           "cat": "admin",
           "src": "macos",
-          "title": "Inbox (3,222) - ada.ren.cn@gmail.com - Gmail",
+          "title": "Inbox (3,223) - ada.ren.cn@gmail.com - Gmail",
           "note": "mail.google.com"
         },
         {
@@ -100317,7 +100902,7 @@
           "end": "13:58",
           "cat": "admin",
           "src": "macos",
-          "title": "Inbox (3,222) - ada.ren.cn@gmail.com - Gmail",
+          "title": "Inbox (3,223) - ada.ren.cn@gmail.com - Gmail",
           "note": "mail.google.com"
         },
         {
@@ -100535,14 +101120,150 @@
           "src": "macos",
           "title": "Pragelato Sestriere, Italy All-Inclusive Club Med Ski Resort",
           "note": "clubmed.com.au"
+        },
+        {
+          "start": "16:37",
+          "end": "16:38",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Inbox (3,223) - ada.ren.cn@gmail.com - Gmail",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "16:40",
+          "end": "16:41",
+          "cat": "personal",
+          "src": "macos",
+          "title": "France-Visas | Demande de Visa | Step 2 of 6 - Your informat",
+          "note": "application-form.france-visas.gouv.fr"
+        },
+        {
+          "start": "16:41",
+          "end": "16:42",
+          "cat": "personal",
+          "src": "macos",
+          "title": "France-Visas | Demande de Visa | Step 3 of 6 - Your last vis",
+          "note": "application-form.france-visas.gouv.fr"
+        },
+        {
+          "start": "16:48",
+          "end": "16:53",
+          "cat": "admin",
+          "src": "macos",
+          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Question 6 clarificat",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "16:53",
+          "end": "16:55",
+          "cat": "coding",
+          "src": "macos",
+          "title": "train_test_split — scikit-learn 1.9.1 documentation",
+          "note": "scikit-learn.org"
+        },
+        {
+          "start": "16:56",
+          "end": "16:58",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Preview question: Customer Engagement Preprocessing and Anal",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "16:58",
+          "end": "17:00",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
+          "note": "sport.mq.edu.au"
+        },
+        {
+          "start": "17:01",
+          "end": "17:09",
+          "cat": "research",
+          "src": "macos",
+          "title": "18604_Adaptive_Sparse_Support_.pdf",
+          "note": "openreview.net"
+        },
+        {
+          "start": "20:56",
+          "end": "20:58",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "21:02",
+          "end": "21:10",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Preview question: DEMO Q1 | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "21:11",
+          "end": "21:17",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Preview question: DEMO Q1 | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "21:19",
+          "end": "21:21",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Preview question: DEMO Q2 | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "21:22",
+          "end": "21:29",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Preview question: DEMO Q3 | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "21:29",
+          "end": "21:56",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Preview question: DEMO Q3 | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "21:57",
+          "end": "22:07",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Log in to the site | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "22:22",
+          "end": "22:27",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Log in to the site | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "22:42",
+          "end": "22:46",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Log in to the site | iLearn",
+          "note": "ilearn.mq.edu.au"
         }
       ],
-      "logged": 201,
-      "real": 25,
-      "deep": 25,
-      "ratio": 0.12233477820542284,
+      "logged": 292,
+      "real": 33,
+      "deep": 33,
+      "ratio": 0.11316682462297567,
       "stats": {
-        "contextSwitches": 23,
+        "contextSwitches": 30,
         "tabsOpened": 0,
         "longestFocus": "11m",
         "justOneMoreThing": 0
@@ -100555,18 +101276,467 @@
       "weekend": false,
       "dateShort": "Fri, Oct 16",
       "dateLong": "Friday, October 16",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "10:37",
+      "dayEnd": "16:51",
+      "events": [
+        {
+          "start": "10:37",
+          "end": "10:39",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Registration Prenot@mi",
+          "note": "prenotami.esteri.it"
+        },
+        {
+          "start": "10:39",
+          "end": "10:41",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Registration Prenot@mi",
+          "note": "prenotami.esteri.it"
+        },
+        {
+          "start": "10:43",
+          "end": "10:45",
+          "cat": "admin",
+          "src": "macos",
+          "title": "OTP Code - ada.ren.cn@gmail.com - Gmail",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "10:45",
+          "end": "10:46",
+          "cat": "personal",
+          "src": "macos",
+          "title": "REN JUAN.pdf",
+          "note": "file:///Users/ada/Documents/reset/Travli"
+        },
+        {
+          "start": "10:46",
+          "end": "10:48",
+          "cat": "research",
+          "src": "macos",
+          "title": "Preview",
+          "note": "com.apple.Preview"
+        },
+        {
+          "start": "10:49",
+          "end": "10:59",
+          "cat": "coding",
+          "src": "macos",
+          "title": "iterm2",
+          "note": "com.googlecode.iterm2"
+        },
+        {
+          "start": "11:05",
+          "end": "11:16",
+          "cat": "admin",
+          "src": "macos",
+          "title": "WeChat/Weixin for Web",
+          "note": "wx.qq.com"
+        },
+        {
+          "start": "11:22",
+          "end": "11:23",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "teams2",
+          "note": "com.microsoft.teams2"
+        },
+        {
+          "start": "11:25",
+          "end": "11:27",
+          "cat": "personal",
+          "src": "macos",
+          "title": "What food can you bring in?",
+          "note": "abf.gov.au"
+        },
+        {
+          "start": "11:27",
+          "end": "11:29",
+          "cat": "personal",
+          "src": "macos",
+          "title": "What food can you bring in?",
+          "note": "abf.gov.au"
+        },
+        {
+          "start": "11:34",
+          "end": "11:42",
+          "cat": "personal",
+          "src": "macos",
+          "title": "你能带什么食物进来？ --- What food can you bring in?",
+          "note": "abf.gov.au"
+        },
+        {
+          "start": "11:44",
+          "end": "11:51",
+          "cat": "personal",
+          "src": "macos",
+          "title": "你能带什么食物进来？ --- What food can you bring in?",
+          "note": "abf.gov.au"
+        },
+        {
+          "start": "11:57",
+          "end": "11:59",
+          "cat": "personal",
+          "src": "macos",
+          "title": "WeChat/Weixin for Web",
+          "note": "web.wechat.com"
+        },
+        {
+          "start": "12:06",
+          "end": "12:07",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Inbox (3,223) - ada.ren.cn@gmail.com - Gmail",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "12:10",
+          "end": "12:12",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "teams2",
+          "note": "com.microsoft.teams2"
+        },
+        {
+          "start": "13:11",
+          "end": "13:16",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Inbox (3,223) - ada.ren.cn@gmail.com - Gmail",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "13:17",
+          "end": "13:23",
+          "cat": "personal",
+          "src": "macos",
+          "title": "领事签证服务 – Ambasciata d'Italia Pechino",
+          "note": "ambpechino.esteri.it"
+        },
+        {
+          "start": "13:24",
+          "end": "13:25",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Inbox (3,223) - ada.ren.cn@gmail.com - Gmail",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "13:25",
+          "end": "13:27",
+          "cat": "coding",
+          "src": "macos",
+          "title": "week10_prac.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "13:28",
+          "end": "13:31",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "13:31",
+          "end": "13:33",
+          "cat": "research",
+          "src": "macos",
+          "title": "Edit Profile | OpenReview",
+          "note": "openreview.net"
+        },
+        {
+          "start": "13:40",
+          "end": "13:41",
+          "cat": "coding",
+          "src": "macos",
+          "title": "week10_prac.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "13:42",
+          "end": "13:51",
+          "cat": "coding",
+          "src": "macos",
+          "title": "week10_prac.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "13:54",
+          "end": "13:56",
+          "cat": "coding",
+          "src": "macos",
+          "title": "week10_prac.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "14:03",
+          "end": "14:09",
+          "cat": "coding",
+          "src": "macos",
+          "title": "week10_prac.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "14:14",
+          "end": "14:16",
+          "cat": "coding",
+          "src": "macos",
+          "title": "week10_prac.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "14:18",
+          "end": "14:19",
+          "cat": "coding",
+          "src": "macos",
+          "title": "week10_prac.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "14:21",
+          "end": "14:24",
+          "cat": "coding",
+          "src": "macos",
+          "title": "week10_prac.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "14:26",
+          "end": "14:28",
+          "cat": "coding",
+          "src": "macos",
+          "title": "week10_prac.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "14:34",
+          "end": "14:36",
+          "cat": "coding",
+          "src": "macos",
+          "title": "week10_prac.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "14:36",
+          "end": "14:38",
+          "cat": "coding",
+          "src": "macos",
+          "title": "week10_prac.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "14:46",
+          "end": "14:48",
+          "cat": "coding",
+          "src": "macos",
+          "title": "week10_prac.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "14:50",
+          "end": "14:51",
+          "cat": "coding",
+          "src": "macos",
+          "title": "week10_prac.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "14:52",
+          "end": "14:56",
+          "cat": "coding",
+          "src": "macos",
+          "title": "week10_prac.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "14:56",
+          "end": "14:58",
+          "cat": "coding",
+          "src": "macos",
+          "title": "week10_prac.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "14:58",
+          "end": "15:00",
+          "cat": "coding",
+          "src": "macos",
+          "title": "week10_prac.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "15:01",
+          "end": "15:02",
+          "cat": "coding",
+          "src": "macos",
+          "title": "week10_prac.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "15:02",
+          "end": "15:04",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "teams2",
+          "note": "com.microsoft.teams2"
+        },
+        {
+          "start": "15:04",
+          "end": "15:05",
+          "cat": "coding",
+          "src": "macos",
+          "title": "week10_prac.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "15:06",
+          "end": "15:10",
+          "cat": "coding",
+          "src": "macos",
+          "title": "week10_prac.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "15:15",
+          "end": "15:18",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google drive - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "15:21",
+          "end": "15:24",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Pragelato Sestriere, Italy All-Inclusive Club Med Ski Resort",
+          "note": "clubmed.com.au"
+        },
+        {
+          "start": "15:26",
+          "end": "15:28",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Access Restricted",
+          "note": "clubmed.com.cn"
+        },
+        {
+          "start": "15:39",
+          "end": "15:44",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Les Arcs Panorama - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "15:44",
+          "end": "15:47",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Maps",
+          "note": "google.com"
+        },
+        {
+          "start": "15:50",
+          "end": "15:56",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Pragelato - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "15:58",
+          "end": "16:00",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Pragelato - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "16:03",
+          "end": "16:05",
+          "cat": "admin",
+          "src": "macos",
+          "title": "多洛米蒂 - Google Maps",
+          "note": "google.com"
+        },
+        {
+          "start": "16:14",
+          "end": "16:18",
+          "cat": "research",
+          "src": "macos",
+          "title": "Dates and Venues – ACL Rolling Review",
+          "note": "aclrollingreview.org"
+        },
+        {
+          "start": "16:26",
+          "end": "16:31",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Genoa - Google Maps",
+          "note": "google.com"
+        },
+        {
+          "start": "16:35",
+          "end": "16:36",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google",
+          "note": "google.com"
+        },
+        {
+          "start": "16:39",
+          "end": "16:41",
+          "cat": "writing",
+          "src": "macos",
+          "title": "europe-trip-itinerary-v2 - Google Sheets",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "16:41",
+          "end": "16:43",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Genoa - Google Maps",
+          "note": "google.com"
+        },
+        {
+          "start": "16:45",
+          "end": "16:47",
+          "cat": "writing",
+          "src": "macos",
+          "title": "europe-trip-itinerary-v2 - Google Sheets",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "16:48",
+          "end": "16:49",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Claude",
+          "note": "claude.ai"
+        },
+        {
+          "start": "16:50",
+          "end": "16:51",
+          "cat": "writing",
+          "src": "macos",
+          "title": "europe-trip-itinerary-v2 - Google Sheets",
+          "note": "docs.google.com"
+        }
+      ],
+      "logged": 163,
+      "real": 77,
+      "deep": 77,
+      "ratio": 0.475143850398753,
       "stats": {
-        "contextSwitches": 0,
+        "contextSwitches": 28,
         "tabsOpened": 0,
-        "longestFocus": "0m",
-        "justOneMoreThing": 0
+        "longestFocus": "49m",
+        "justOneMoreThing": 2
       }
     },
     {
