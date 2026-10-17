@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-10-17T10:37:33+11:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-10-18T10:20:21+11:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -91757,7 +91757,7 @@
           {
             "start": "11:59",
             "end": "12:08",
-            "cat": "personal",
+            "cat": "coding",
             "src": "macos",
             "title": "Start your free trial of Tableau",
             "note": "tableau.com"
@@ -91789,29 +91789,13 @@
           {
             "start": "12:42",
             "end": "12:44",
-            "cat": "personal",
+            "cat": "coding",
             "src": "macos",
             "title": "Start your free trial of Tableau",
             "note": "tableau.com"
           },
           {
             "start": "13:05",
-            "end": "13:09",
-            "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
-          },
-          {
-            "start": "13:09",
-            "end": "13:17",
-            "cat": "personal",
-            "src": "macos",
-            "title": "Tableau Dashboard Showcase | Tableau",
-            "note": "tableau.com"
-          },
-          {
-            "start": "13:17",
             "end": "13:18",
             "cat": "coding",
             "src": "macos",
@@ -92141,26 +92125,18 @@
           {
             "start": "17:03",
             "end": "17:06",
-            "cat": "personal",
+            "cat": "research",
             "src": "macos",
             "title": "Matplotlib cheatsheets — Visualization with Python",
             "note": "matplotlib.org"
           },
           {
             "start": "17:07",
-            "end": "17:10",
-            "cat": "personal",
-            "src": "macos",
-            "title": "Super Sample Superstore – Dashboard | Tableau",
-            "note": "tableau.com"
-          },
-          {
-            "start": "17:10",
             "end": "17:16",
             "cat": "coding",
             "src": "macos",
-            "title": "week10_prac.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "title": "Super Sample Superstore – Dashboard | Tableau",
+            "note": "tableau.com"
           },
           {
             "start": "17:16",
@@ -92588,14 +92564,14 @@
           }
         ],
         "logged": 870,
-        "real": 833,
-        "deep": 833,
-        "ratio": 0.9574941577890155,
+        "real": 860,
+        "deep": 860,
+        "ratio": 0.9878021119665553,
         "stats": {
-          "contextSwitches": 49,
+          "contextSwitches": 43,
           "tabsOpened": 0,
           "longestFocus": "6h 49m",
-          "justOneMoreThing": 8
+          "justOneMoreThing": 5
         }
       },
       {
@@ -92802,19 +92778,11 @@
           },
           {
             "start": "14:31",
-            "end": "14:49",
+            "end": "15:08",
             "cat": "writing",
             "src": "macos",
             "title": "Create LaTeX tables online – TablesGenerator.com",
             "note": "tablesgenerator.com"
-          },
-          {
-            "start": "14:49",
-            "end": "15:08",
-            "cat": "personal",
-            "src": "macos",
-            "title": "_ARR_OCT__Ada_ (1).pdf",
-            "note": "file:///Users/ada/Documents/MQ/Phd/Tool%"
           },
           {
             "start": "15:10",
@@ -93242,11 +93210,11 @@
           }
         ],
         "logged": 797,
-        "real": 746,
-        "deep": 746,
-        "ratio": 0.9353679411043329,
+        "real": 765,
+        "deep": 765,
+        "ratio": 0.9600629420582253,
         "stats": {
-          "contextSwitches": 54,
+          "contextSwitches": 53,
           "tabsOpened": 0,
           "longestFocus": "3h 57m",
           "justOneMoreThing": 11
@@ -93471,26 +93439,18 @@
           {
             "start": "11:27",
             "end": "11:29",
-            "cat": "personal",
+            "cat": "admin",
             "src": "macos",
             "title": "Log in to France-Visas | France-Visas",
             "note": "connect.france-visas.gouv.fr"
           },
           {
             "start": "11:30",
-            "end": "11:31",
-            "cat": "personal",
-            "src": "macos",
-            "title": "Check mailbox | France-Visas",
-            "note": "connect.france-visas.gouv.fr"
-          },
-          {
-            "start": "11:31",
             "end": "11:33",
             "cat": "admin",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "title": "Check mailbox | France-Visas",
+            "note": "connect.france-visas.gouv.fr"
           },
           {
             "start": "11:33",
@@ -93511,7 +93471,7 @@
           {
             "start": "11:39",
             "end": "11:40",
-            "cat": "personal",
+            "cat": "admin",
             "src": "macos",
             "title": "Sydney | vfsglobal",
             "note": "visa.vfsglobal.com"
@@ -93519,7 +93479,7 @@
           {
             "start": "11:40",
             "end": "11:41",
-            "cat": "personal",
+            "cat": "admin",
             "src": "macos",
             "title": "Make an appointment - France-Visas",
             "note": "france-visas.gouv.fr"
@@ -93543,7 +93503,7 @@
           {
             "start": "12:01",
             "end": "12:03",
-            "cat": "personal",
+            "cat": "admin",
             "src": "macos",
             "title": "Sign in to usager",
             "note": "connect.france-visas.gouv.fr"
@@ -93569,7 +93529,7 @@
             "end": "12:53",
             "cat": "admin",
             "src": "macos",
-            "title": "Inbox (3,223) - ada.ren.cn@gmail.com - Gmail",
+            "title": "Inbox (3,229) - ada.ren.cn@gmail.com - Gmail",
             "note": "mail.google.com"
           },
           {
@@ -93577,7 +93537,7 @@
             "end": "12:59",
             "cat": "admin",
             "src": "macos",
-            "title": "Inbox (3,223) - ada.ren.cn@gmail.com - Gmail",
+            "title": "Inbox (3,229) - ada.ren.cn@gmail.com - Gmail",
             "note": "mail.google.com"
           },
           {
@@ -93599,7 +93559,7 @@
           {
             "start": "13:29",
             "end": "13:31",
-            "cat": "personal",
+            "cat": "admin",
             "src": "macos",
             "title": "AI写信润色_AI写邮件_邮件润色-网易外贸通",
             "note": "waimao.163.com"
@@ -93607,7 +93567,7 @@
           {
             "start": "13:31",
             "end": "13:45",
-            "cat": "personal",
+            "cat": "admin",
             "src": "macos",
             "title": "France-Visas | Demande de Visa | Step 2 of 6 - Your informat",
             "note": "application-form.france-visas.gouv.fr"
@@ -93615,7 +93575,7 @@
           {
             "start": "13:46",
             "end": "13:48",
-            "cat": "personal",
+            "cat": "admin",
             "src": "macos",
             "title": "France-Visas | Demande de Visa | Step 4 of 6 - Your stay",
             "note": "application-form.france-visas.gouv.fr"
@@ -93633,7 +93593,7 @@
             "end": "13:58",
             "cat": "admin",
             "src": "macos",
-            "title": "Inbox (3,223) - ada.ren.cn@gmail.com - Gmail",
+            "title": "Inbox (3,229) - ada.ren.cn@gmail.com - Gmail",
             "note": "mail.google.com"
           },
           {
@@ -93687,7 +93647,7 @@
           {
             "start": "14:27",
             "end": "14:29",
-            "cat": "personal",
+            "cat": "admin",
             "src": "macos",
             "title": "Register | VFS Global",
             "note": "visa.vfsglobal.com"
@@ -93695,7 +93655,7 @@
           {
             "start": "14:29",
             "end": "14:31",
-            "cat": "personal",
+            "cat": "admin",
             "src": "macos",
             "title": "Appointment details | VFS Global",
             "note": "visa.vfsglobal.com"
@@ -93703,7 +93663,7 @@
           {
             "start": "14:35",
             "end": "14:36",
-            "cat": "personal",
+            "cat": "admin",
             "src": "macos",
             "title": "(1228封未读) 网易邮箱6.0版",
             "note": "hw.mail.163.com"
@@ -93711,7 +93671,7 @@
           {
             "start": "14:36",
             "end": "14:40",
-            "cat": "personal",
+            "cat": "admin",
             "src": "macos",
             "title": "Login | VFS Global",
             "note": "visa.vfsglobal.com"
@@ -93719,7 +93679,7 @@
           {
             "start": "14:40",
             "end": "14:41",
-            "cat": "personal",
+            "cat": "admin",
             "src": "macos",
             "title": "Login | VFS Global",
             "note": "visa.vfsglobal.com"
@@ -93727,7 +93687,7 @@
           {
             "start": "14:42",
             "end": "14:44",
-            "cat": "personal",
+            "cat": "admin",
             "src": "macos",
             "title": "Login | VFS Global",
             "note": "visa.vfsglobal.com"
@@ -93735,7 +93695,7 @@
           {
             "start": "14:44",
             "end": "14:45",
-            "cat": "personal",
+            "cat": "admin",
             "src": "macos",
             "title": "VFS Global | Official partner of the Government",
             "note": "visa.vfsglobal.com"
@@ -93743,7 +93703,7 @@
           {
             "start": "14:45",
             "end": "14:47",
-            "cat": "personal",
+            "cat": "admin",
             "src": "macos",
             "title": "Dashboard | VFS Global",
             "note": "visa.vfsglobal.com"
@@ -93751,7 +93711,7 @@
           {
             "start": "14:47",
             "end": "14:51",
-            "cat": "personal",
+            "cat": "admin",
             "src": "macos",
             "title": "Welcome to VFS Global | For Individuals | Home",
             "note": "vfsglobal.com"
@@ -93759,7 +93719,7 @@
           {
             "start": "14:52",
             "end": "14:58",
-            "cat": "personal",
+            "cat": "admin",
             "src": "macos",
             "title": "Schengen visas",
             "note": "exteriores.gob.es"
@@ -93767,7 +93727,7 @@
           {
             "start": "14:59",
             "end": "15:01",
-            "cat": "personal",
+            "cat": "admin",
             "src": "macos",
             "title": "Welcome to TLScontact Shanghai | TLScontact Shanghai",
             "note": "visas-fr.tlscontact.com"
@@ -93857,13 +93817,13 @@
             "end": "16:38",
             "cat": "admin",
             "src": "macos",
-            "title": "Inbox (3,223) - ada.ren.cn@gmail.com - Gmail",
+            "title": "Inbox (3,229) - ada.ren.cn@gmail.com - Gmail",
             "note": "mail.google.com"
           },
           {
             "start": "16:40",
             "end": "16:41",
-            "cat": "personal",
+            "cat": "admin",
             "src": "macos",
             "title": "France-Visas | Demande de Visa | Step 2 of 6 - Your informat",
             "note": "application-form.france-visas.gouv.fr"
@@ -93871,7 +93831,7 @@
           {
             "start": "16:41",
             "end": "16:42",
-            "cat": "personal",
+            "cat": "admin",
             "src": "macos",
             "title": "France-Visas | Demande de Visa | Step 3 of 6 - Your last vis",
             "note": "application-form.france-visas.gouv.fr"
@@ -93994,7 +93954,7 @@
         "deep": 33,
         "ratio": 0.11316682462297567,
         "stats": {
-          "contextSwitches": 30,
+          "contextSwitches": 24,
           "tabsOpened": 0,
           "longestFocus": "11m",
           "justOneMoreThing": 0
@@ -94008,12 +93968,12 @@
         "dateShort": "Fri, Oct 16",
         "dateLong": "Friday, October 16",
         "dayStart": "10:37",
-        "dayEnd": "16:51",
+        "dayEnd": "23:57",
         "events": [
           {
             "start": "10:37",
             "end": "10:39",
-            "cat": "personal",
+            "cat": "admin",
             "src": "macos",
             "title": "Registration Prenot@mi",
             "note": "prenotami.esteri.it"
@@ -94021,7 +93981,7 @@
           {
             "start": "10:39",
             "end": "10:41",
-            "cat": "personal",
+            "cat": "admin",
             "src": "macos",
             "title": "Registration Prenot@mi",
             "note": "prenotami.esteri.it"
@@ -94077,7 +94037,7 @@
           {
             "start": "11:25",
             "end": "11:27",
-            "cat": "personal",
+            "cat": "admin",
             "src": "macos",
             "title": "What food can you bring in?",
             "note": "abf.gov.au"
@@ -94085,7 +94045,7 @@
           {
             "start": "11:27",
             "end": "11:29",
-            "cat": "personal",
+            "cat": "admin",
             "src": "macos",
             "title": "What food can you bring in?",
             "note": "abf.gov.au"
@@ -94093,7 +94053,7 @@
           {
             "start": "11:34",
             "end": "11:42",
-            "cat": "personal",
+            "cat": "admin",
             "src": "macos",
             "title": "你能带什么食物进来？ --- What food can you bring in?",
             "note": "abf.gov.au"
@@ -94101,7 +94061,7 @@
           {
             "start": "11:44",
             "end": "11:51",
-            "cat": "personal",
+            "cat": "admin",
             "src": "macos",
             "title": "你能带什么食物进来？ --- What food can you bring in?",
             "note": "abf.gov.au"
@@ -94119,7 +94079,7 @@
             "end": "12:07",
             "cat": "admin",
             "src": "macos",
-            "title": "Inbox (3,223) - ada.ren.cn@gmail.com - Gmail",
+            "title": "Inbox (3,229) - ada.ren.cn@gmail.com - Gmail",
             "note": "mail.google.com"
           },
           {
@@ -94135,13 +94095,13 @@
             "end": "13:16",
             "cat": "admin",
             "src": "macos",
-            "title": "Inbox (3,223) - ada.ren.cn@gmail.com - Gmail",
+            "title": "Inbox (3,229) - ada.ren.cn@gmail.com - Gmail",
             "note": "mail.google.com"
           },
           {
             "start": "13:17",
             "end": "13:23",
-            "cat": "personal",
+            "cat": "admin",
             "src": "macos",
             "title": "领事签证服务 – Ambasciata d'Italia Pechino",
             "note": "ambpechino.esteri.it"
@@ -94151,7 +94111,7 @@
             "end": "13:25",
             "cat": "admin",
             "src": "macos",
-            "title": "Inbox (3,223) - ada.ren.cn@gmail.com - Gmail",
+            "title": "Inbox (3,229) - ada.ren.cn@gmail.com - Gmail",
             "note": "mail.google.com"
           },
           {
@@ -94457,14 +94417,158 @@
             "src": "macos",
             "title": "europe-trip-itinerary-v2 - Google Sheets",
             "note": "docs.google.com"
+          },
+          {
+            "start": "18:39",
+            "end": "18:49",
+            "cat": "writing",
+            "src": "macos",
+            "title": "europe-trip-itinerary-v2 - Google Sheets",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "19:21",
+            "end": "19:23",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Club Med All-inclusive Ski & Sun Resorts & Holiday Packages",
+            "note": "accounts.clubmed.com"
+          },
+          {
+            "start": "19:24",
+            "end": "19:25",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Access Restricted",
+            "note": "clubmed.com.cn"
+          },
+          {
+            "start": "19:27",
+            "end": "19:29",
+            "cat": "admin",
+            "src": "macos",
+            "title": "2027 chinese new year - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "19:37",
+            "end": "19:39",
+            "cat": "writing",
+            "src": "macos",
+            "title": "europe-trip-itinerary-v2 - Google Sheets",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "23:03",
+            "end": "23:05",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Madrid, Spain to Barcelona, Spain - Google Maps",
+            "note": "google.com"
+          },
+          {
+            "start": "23:05",
+            "end": "23:06",
+            "cat": "admin",
+            "src": "macos",
+            "title": "网上值机",
+            "note": "csair.com"
+          },
+          {
+            "start": "23:06",
+            "end": "23:14",
+            "cat": "admin",
+            "src": "macos",
+            "title": "中国南方航空",
+            "note": "oversea.csair.com"
+          },
+          {
+            "start": "23:15",
+            "end": "23:19",
+            "cat": "admin",
+            "src": "macos",
+            "title": "extint.csair.com",
+            "note": "extint.csair.com"
+          },
+          {
+            "start": "23:21",
+            "end": "23:24",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Select Seat",
+            "note": "extint.csair.com"
+          },
+          {
+            "start": "23:27",
+            "end": "23:28",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Select Seat",
+            "note": "extint.csair.com"
+          },
+          {
+            "start": "23:31",
+            "end": "23:32",
+            "cat": "admin",
+            "src": "macos",
+            "title": "航班查询 - 中国南方航空",
+            "note": "b2c.csair.com"
+          },
+          {
+            "start": "23:32",
+            "end": "23:34",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Select Seat",
+            "note": "extint.csair.com"
+          },
+          {
+            "start": "23:35",
+            "end": "23:39",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Select Seat",
+            "note": "extint.csair.com"
+          },
+          {
+            "start": "23:41",
+            "end": "23:44",
+            "cat": "admin",
+            "src": "macos",
+            "title": "中国南方航空股份有限公司 - 南航明珠俱乐部",
+            "note": "skypearl.csair.com"
+          },
+          {
+            "start": "23:50",
+            "end": "23:53",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Women's Tops | lululemon AU",
+            "note": "lululemon.com.au"
+          },
+          {
+            "start": "23:55",
+            "end": "23:56",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Inbox (3,229) - ada.ren.cn@gmail.com - Gmail",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "23:56",
+            "end": "23:57",
+            "cat": "writing",
+            "src": "macos",
+            "title": "europe-trip-itinerary-v2 - Google Sheets",
+            "note": "docs.google.com"
           }
         ],
-        "logged": 163,
-        "real": 77,
-        "deep": 77,
-        "ratio": 0.475143850398753,
+        "logged": 213,
+        "real": 89,
+        "deep": 89,
+        "ratio": 0.41806360573336193,
         "stats": {
-          "contextSwitches": 28,
+          "contextSwitches": 33,
           "tabsOpened": 0,
           "longestFocus": "49m",
           "justOneMoreThing": 2
@@ -94477,17 +94581,26 @@
         "weekend": true,
         "dateShort": "Sat, Oct 17",
         "dateLong": "Saturday, October 17",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "10:37",
+        "dayEnd": "10:42",
+        "events": [
+          {
+            "start": "10:37",
+            "end": "10:42",
+            "cat": "coding",
+            "src": "local",
+            "title": "data.js",
+            "note": "2 hits"
+          }
+        ],
+        "logged": 5,
+        "real": 5,
+        "deep": 5,
+        "ratio": 1.0,
         "stats": {
           "contextSwitches": 0,
           "tabsOpened": 0,
-          "longestFocus": "0m",
+          "longestFocus": "5m",
           "justOneMoreThing": 0
         }
       },
@@ -94498,13 +94611,30 @@
         "weekend": true,
         "dateShort": "Sun, Oct 18",
         "dateLong": "Sunday, October 18",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
+        "dayStart": "09:48",
+        "dayEnd": "10:13",
+        "events": [
+          {
+            "start": "09:48",
+            "end": "09:58",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Index Prenot@mi",
+            "note": "prenotami.esteri.it"
+          },
+          {
+            "start": "10:11",
+            "end": "10:13",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Index Prenot@mi",
+            "note": "prenotami.esteri.it"
+          }
+        ],
+        "logged": 13,
         "real": 0,
         "deep": 0,
-        "ratio": 0,
+        "ratio": 0.0,
         "stats": {
           "contextSwitches": 0,
           "tabsOpened": 0,
@@ -99026,7 +99156,7 @@
         {
           "start": "11:59",
           "end": "12:08",
-          "cat": "personal",
+          "cat": "coding",
           "src": "macos",
           "title": "Start your free trial of Tableau",
           "note": "tableau.com"
@@ -99058,29 +99188,13 @@
         {
           "start": "12:42",
           "end": "12:44",
-          "cat": "personal",
+          "cat": "coding",
           "src": "macos",
           "title": "Start your free trial of Tableau",
           "note": "tableau.com"
         },
         {
           "start": "13:05",
-          "end": "13:09",
-          "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
-        },
-        {
-          "start": "13:09",
-          "end": "13:17",
-          "cat": "personal",
-          "src": "macos",
-          "title": "Tableau Dashboard Showcase | Tableau",
-          "note": "tableau.com"
-        },
-        {
-          "start": "13:17",
           "end": "13:18",
           "cat": "coding",
           "src": "macos",
@@ -99410,26 +99524,18 @@
         {
           "start": "17:03",
           "end": "17:06",
-          "cat": "personal",
+          "cat": "research",
           "src": "macos",
           "title": "Matplotlib cheatsheets — Visualization with Python",
           "note": "matplotlib.org"
         },
         {
           "start": "17:07",
-          "end": "17:10",
-          "cat": "personal",
-          "src": "macos",
-          "title": "Super Sample Superstore – Dashboard | Tableau",
-          "note": "tableau.com"
-        },
-        {
-          "start": "17:10",
           "end": "17:16",
           "cat": "coding",
           "src": "macos",
-          "title": "week10_prac.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "title": "Super Sample Superstore – Dashboard | Tableau",
+          "note": "tableau.com"
         },
         {
           "start": "17:16",
@@ -99857,14 +99963,14 @@
         }
       ],
       "logged": 870,
-      "real": 833,
-      "deep": 833,
-      "ratio": 0.9574941577890155,
+      "real": 860,
+      "deep": 860,
+      "ratio": 0.9878021119665553,
       "stats": {
-        "contextSwitches": 49,
+        "contextSwitches": 43,
         "tabsOpened": 0,
         "longestFocus": "6h 49m",
-        "justOneMoreThing": 8
+        "justOneMoreThing": 5
       }
     },
     {
@@ -100071,19 +100177,11 @@
         },
         {
           "start": "14:31",
-          "end": "14:49",
+          "end": "15:08",
           "cat": "writing",
           "src": "macos",
           "title": "Create LaTeX tables online – TablesGenerator.com",
           "note": "tablesgenerator.com"
-        },
-        {
-          "start": "14:49",
-          "end": "15:08",
-          "cat": "personal",
-          "src": "macos",
-          "title": "_ARR_OCT__Ada_ (1).pdf",
-          "note": "file:///Users/ada/Documents/MQ/Phd/Tool%"
         },
         {
           "start": "15:10",
@@ -100511,11 +100609,11 @@
         }
       ],
       "logged": 797,
-      "real": 746,
-      "deep": 746,
-      "ratio": 0.9353679411043329,
+      "real": 765,
+      "deep": 765,
+      "ratio": 0.9600629420582253,
       "stats": {
-        "contextSwitches": 54,
+        "contextSwitches": 53,
         "tabsOpened": 0,
         "longestFocus": "3h 57m",
         "justOneMoreThing": 11
@@ -100740,26 +100838,18 @@
         {
           "start": "11:27",
           "end": "11:29",
-          "cat": "personal",
+          "cat": "admin",
           "src": "macos",
           "title": "Log in to France-Visas | France-Visas",
           "note": "connect.france-visas.gouv.fr"
         },
         {
           "start": "11:30",
-          "end": "11:31",
-          "cat": "personal",
-          "src": "macos",
-          "title": "Check mailbox | France-Visas",
-          "note": "connect.france-visas.gouv.fr"
-        },
-        {
-          "start": "11:31",
           "end": "11:33",
           "cat": "admin",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "title": "Check mailbox | France-Visas",
+          "note": "connect.france-visas.gouv.fr"
         },
         {
           "start": "11:33",
@@ -100780,7 +100870,7 @@
         {
           "start": "11:39",
           "end": "11:40",
-          "cat": "personal",
+          "cat": "admin",
           "src": "macos",
           "title": "Sydney | vfsglobal",
           "note": "visa.vfsglobal.com"
@@ -100788,7 +100878,7 @@
         {
           "start": "11:40",
           "end": "11:41",
-          "cat": "personal",
+          "cat": "admin",
           "src": "macos",
           "title": "Make an appointment - France-Visas",
           "note": "france-visas.gouv.fr"
@@ -100812,7 +100902,7 @@
         {
           "start": "12:01",
           "end": "12:03",
-          "cat": "personal",
+          "cat": "admin",
           "src": "macos",
           "title": "Sign in to usager",
           "note": "connect.france-visas.gouv.fr"
@@ -100838,7 +100928,7 @@
           "end": "12:53",
           "cat": "admin",
           "src": "macos",
-          "title": "Inbox (3,223) - ada.ren.cn@gmail.com - Gmail",
+          "title": "Inbox (3,229) - ada.ren.cn@gmail.com - Gmail",
           "note": "mail.google.com"
         },
         {
@@ -100846,7 +100936,7 @@
           "end": "12:59",
           "cat": "admin",
           "src": "macos",
-          "title": "Inbox (3,223) - ada.ren.cn@gmail.com - Gmail",
+          "title": "Inbox (3,229) - ada.ren.cn@gmail.com - Gmail",
           "note": "mail.google.com"
         },
         {
@@ -100868,7 +100958,7 @@
         {
           "start": "13:29",
           "end": "13:31",
-          "cat": "personal",
+          "cat": "admin",
           "src": "macos",
           "title": "AI写信润色_AI写邮件_邮件润色-网易外贸通",
           "note": "waimao.163.com"
@@ -100876,7 +100966,7 @@
         {
           "start": "13:31",
           "end": "13:45",
-          "cat": "personal",
+          "cat": "admin",
           "src": "macos",
           "title": "France-Visas | Demande de Visa | Step 2 of 6 - Your informat",
           "note": "application-form.france-visas.gouv.fr"
@@ -100884,7 +100974,7 @@
         {
           "start": "13:46",
           "end": "13:48",
-          "cat": "personal",
+          "cat": "admin",
           "src": "macos",
           "title": "France-Visas | Demande de Visa | Step 4 of 6 - Your stay",
           "note": "application-form.france-visas.gouv.fr"
@@ -100902,7 +100992,7 @@
           "end": "13:58",
           "cat": "admin",
           "src": "macos",
-          "title": "Inbox (3,223) - ada.ren.cn@gmail.com - Gmail",
+          "title": "Inbox (3,229) - ada.ren.cn@gmail.com - Gmail",
           "note": "mail.google.com"
         },
         {
@@ -100956,7 +101046,7 @@
         {
           "start": "14:27",
           "end": "14:29",
-          "cat": "personal",
+          "cat": "admin",
           "src": "macos",
           "title": "Register | VFS Global",
           "note": "visa.vfsglobal.com"
@@ -100964,7 +101054,7 @@
         {
           "start": "14:29",
           "end": "14:31",
-          "cat": "personal",
+          "cat": "admin",
           "src": "macos",
           "title": "Appointment details | VFS Global",
           "note": "visa.vfsglobal.com"
@@ -100972,7 +101062,7 @@
         {
           "start": "14:35",
           "end": "14:36",
-          "cat": "personal",
+          "cat": "admin",
           "src": "macos",
           "title": "(1228封未读) 网易邮箱6.0版",
           "note": "hw.mail.163.com"
@@ -100980,7 +101070,7 @@
         {
           "start": "14:36",
           "end": "14:40",
-          "cat": "personal",
+          "cat": "admin",
           "src": "macos",
           "title": "Login | VFS Global",
           "note": "visa.vfsglobal.com"
@@ -100988,7 +101078,7 @@
         {
           "start": "14:40",
           "end": "14:41",
-          "cat": "personal",
+          "cat": "admin",
           "src": "macos",
           "title": "Login | VFS Global",
           "note": "visa.vfsglobal.com"
@@ -100996,7 +101086,7 @@
         {
           "start": "14:42",
           "end": "14:44",
-          "cat": "personal",
+          "cat": "admin",
           "src": "macos",
           "title": "Login | VFS Global",
           "note": "visa.vfsglobal.com"
@@ -101004,7 +101094,7 @@
         {
           "start": "14:44",
           "end": "14:45",
-          "cat": "personal",
+          "cat": "admin",
           "src": "macos",
           "title": "VFS Global | Official partner of the Government",
           "note": "visa.vfsglobal.com"
@@ -101012,7 +101102,7 @@
         {
           "start": "14:45",
           "end": "14:47",
-          "cat": "personal",
+          "cat": "admin",
           "src": "macos",
           "title": "Dashboard | VFS Global",
           "note": "visa.vfsglobal.com"
@@ -101020,7 +101110,7 @@
         {
           "start": "14:47",
           "end": "14:51",
-          "cat": "personal",
+          "cat": "admin",
           "src": "macos",
           "title": "Welcome to VFS Global | For Individuals | Home",
           "note": "vfsglobal.com"
@@ -101028,7 +101118,7 @@
         {
           "start": "14:52",
           "end": "14:58",
-          "cat": "personal",
+          "cat": "admin",
           "src": "macos",
           "title": "Schengen visas",
           "note": "exteriores.gob.es"
@@ -101036,7 +101126,7 @@
         {
           "start": "14:59",
           "end": "15:01",
-          "cat": "personal",
+          "cat": "admin",
           "src": "macos",
           "title": "Welcome to TLScontact Shanghai | TLScontact Shanghai",
           "note": "visas-fr.tlscontact.com"
@@ -101126,13 +101216,13 @@
           "end": "16:38",
           "cat": "admin",
           "src": "macos",
-          "title": "Inbox (3,223) - ada.ren.cn@gmail.com - Gmail",
+          "title": "Inbox (3,229) - ada.ren.cn@gmail.com - Gmail",
           "note": "mail.google.com"
         },
         {
           "start": "16:40",
           "end": "16:41",
-          "cat": "personal",
+          "cat": "admin",
           "src": "macos",
           "title": "France-Visas | Demande de Visa | Step 2 of 6 - Your informat",
           "note": "application-form.france-visas.gouv.fr"
@@ -101140,7 +101230,7 @@
         {
           "start": "16:41",
           "end": "16:42",
-          "cat": "personal",
+          "cat": "admin",
           "src": "macos",
           "title": "France-Visas | Demande de Visa | Step 3 of 6 - Your last vis",
           "note": "application-form.france-visas.gouv.fr"
@@ -101263,7 +101353,7 @@
       "deep": 33,
       "ratio": 0.11316682462297567,
       "stats": {
-        "contextSwitches": 30,
+        "contextSwitches": 24,
         "tabsOpened": 0,
         "longestFocus": "11m",
         "justOneMoreThing": 0
@@ -101277,12 +101367,12 @@
       "dateShort": "Fri, Oct 16",
       "dateLong": "Friday, October 16",
       "dayStart": "10:37",
-      "dayEnd": "16:51",
+      "dayEnd": "23:57",
       "events": [
         {
           "start": "10:37",
           "end": "10:39",
-          "cat": "personal",
+          "cat": "admin",
           "src": "macos",
           "title": "Registration Prenot@mi",
           "note": "prenotami.esteri.it"
@@ -101290,7 +101380,7 @@
         {
           "start": "10:39",
           "end": "10:41",
-          "cat": "personal",
+          "cat": "admin",
           "src": "macos",
           "title": "Registration Prenot@mi",
           "note": "prenotami.esteri.it"
@@ -101346,7 +101436,7 @@
         {
           "start": "11:25",
           "end": "11:27",
-          "cat": "personal",
+          "cat": "admin",
           "src": "macos",
           "title": "What food can you bring in?",
           "note": "abf.gov.au"
@@ -101354,7 +101444,7 @@
         {
           "start": "11:27",
           "end": "11:29",
-          "cat": "personal",
+          "cat": "admin",
           "src": "macos",
           "title": "What food can you bring in?",
           "note": "abf.gov.au"
@@ -101362,7 +101452,7 @@
         {
           "start": "11:34",
           "end": "11:42",
-          "cat": "personal",
+          "cat": "admin",
           "src": "macos",
           "title": "你能带什么食物进来？ --- What food can you bring in?",
           "note": "abf.gov.au"
@@ -101370,7 +101460,7 @@
         {
           "start": "11:44",
           "end": "11:51",
-          "cat": "personal",
+          "cat": "admin",
           "src": "macos",
           "title": "你能带什么食物进来？ --- What food can you bring in?",
           "note": "abf.gov.au"
@@ -101388,7 +101478,7 @@
           "end": "12:07",
           "cat": "admin",
           "src": "macos",
-          "title": "Inbox (3,223) - ada.ren.cn@gmail.com - Gmail",
+          "title": "Inbox (3,229) - ada.ren.cn@gmail.com - Gmail",
           "note": "mail.google.com"
         },
         {
@@ -101404,13 +101494,13 @@
           "end": "13:16",
           "cat": "admin",
           "src": "macos",
-          "title": "Inbox (3,223) - ada.ren.cn@gmail.com - Gmail",
+          "title": "Inbox (3,229) - ada.ren.cn@gmail.com - Gmail",
           "note": "mail.google.com"
         },
         {
           "start": "13:17",
           "end": "13:23",
-          "cat": "personal",
+          "cat": "admin",
           "src": "macos",
           "title": "领事签证服务 – Ambasciata d'Italia Pechino",
           "note": "ambpechino.esteri.it"
@@ -101420,7 +101510,7 @@
           "end": "13:25",
           "cat": "admin",
           "src": "macos",
-          "title": "Inbox (3,223) - ada.ren.cn@gmail.com - Gmail",
+          "title": "Inbox (3,229) - ada.ren.cn@gmail.com - Gmail",
           "note": "mail.google.com"
         },
         {
@@ -101726,14 +101816,158 @@
           "src": "macos",
           "title": "europe-trip-itinerary-v2 - Google Sheets",
           "note": "docs.google.com"
+        },
+        {
+          "start": "18:39",
+          "end": "18:49",
+          "cat": "writing",
+          "src": "macos",
+          "title": "europe-trip-itinerary-v2 - Google Sheets",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "19:21",
+          "end": "19:23",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Club Med All-inclusive Ski & Sun Resorts & Holiday Packages",
+          "note": "accounts.clubmed.com"
+        },
+        {
+          "start": "19:24",
+          "end": "19:25",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Access Restricted",
+          "note": "clubmed.com.cn"
+        },
+        {
+          "start": "19:27",
+          "end": "19:29",
+          "cat": "admin",
+          "src": "macos",
+          "title": "2027 chinese new year - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "19:37",
+          "end": "19:39",
+          "cat": "writing",
+          "src": "macos",
+          "title": "europe-trip-itinerary-v2 - Google Sheets",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "23:03",
+          "end": "23:05",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Madrid, Spain to Barcelona, Spain - Google Maps",
+          "note": "google.com"
+        },
+        {
+          "start": "23:05",
+          "end": "23:06",
+          "cat": "admin",
+          "src": "macos",
+          "title": "网上值机",
+          "note": "csair.com"
+        },
+        {
+          "start": "23:06",
+          "end": "23:14",
+          "cat": "admin",
+          "src": "macos",
+          "title": "中国南方航空",
+          "note": "oversea.csair.com"
+        },
+        {
+          "start": "23:15",
+          "end": "23:19",
+          "cat": "admin",
+          "src": "macos",
+          "title": "extint.csair.com",
+          "note": "extint.csair.com"
+        },
+        {
+          "start": "23:21",
+          "end": "23:24",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Select Seat",
+          "note": "extint.csair.com"
+        },
+        {
+          "start": "23:27",
+          "end": "23:28",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Select Seat",
+          "note": "extint.csair.com"
+        },
+        {
+          "start": "23:31",
+          "end": "23:32",
+          "cat": "admin",
+          "src": "macos",
+          "title": "航班查询 - 中国南方航空",
+          "note": "b2c.csair.com"
+        },
+        {
+          "start": "23:32",
+          "end": "23:34",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Select Seat",
+          "note": "extint.csair.com"
+        },
+        {
+          "start": "23:35",
+          "end": "23:39",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Select Seat",
+          "note": "extint.csair.com"
+        },
+        {
+          "start": "23:41",
+          "end": "23:44",
+          "cat": "admin",
+          "src": "macos",
+          "title": "中国南方航空股份有限公司 - 南航明珠俱乐部",
+          "note": "skypearl.csair.com"
+        },
+        {
+          "start": "23:50",
+          "end": "23:53",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Women's Tops | lululemon AU",
+          "note": "lululemon.com.au"
+        },
+        {
+          "start": "23:55",
+          "end": "23:56",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Inbox (3,229) - ada.ren.cn@gmail.com - Gmail",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "23:56",
+          "end": "23:57",
+          "cat": "writing",
+          "src": "macos",
+          "title": "europe-trip-itinerary-v2 - Google Sheets",
+          "note": "docs.google.com"
         }
       ],
-      "logged": 163,
-      "real": 77,
-      "deep": 77,
-      "ratio": 0.475143850398753,
+      "logged": 213,
+      "real": 89,
+      "deep": 89,
+      "ratio": 0.41806360573336193,
       "stats": {
-        "contextSwitches": 28,
+        "contextSwitches": 33,
         "tabsOpened": 0,
         "longestFocus": "49m",
         "justOneMoreThing": 2
@@ -101746,17 +101980,26 @@
       "weekend": true,
       "dateShort": "Sat, Oct 17",
       "dateLong": "Saturday, October 17",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "10:37",
+      "dayEnd": "10:42",
+      "events": [
+        {
+          "start": "10:37",
+          "end": "10:42",
+          "cat": "coding",
+          "src": "local",
+          "title": "data.js",
+          "note": "2 hits"
+        }
+      ],
+      "logged": 5,
+      "real": 5,
+      "deep": 5,
+      "ratio": 1.0,
       "stats": {
         "contextSwitches": 0,
         "tabsOpened": 0,
-        "longestFocus": "0m",
+        "longestFocus": "5m",
         "justOneMoreThing": 0
       }
     },
@@ -101767,13 +102010,30 @@
       "weekend": true,
       "dateShort": "Sun, Oct 18",
       "dateLong": "Sunday, October 18",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
+      "dayStart": "09:48",
+      "dayEnd": "10:13",
+      "events": [
+        {
+          "start": "09:48",
+          "end": "09:58",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Index Prenot@mi",
+          "note": "prenotami.esteri.it"
+        },
+        {
+          "start": "10:11",
+          "end": "10:13",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Index Prenot@mi",
+          "note": "prenotami.esteri.it"
+        }
+      ],
+      "logged": 13,
       "real": 0,
       "deep": 0,
-      "ratio": 0,
+      "ratio": 0.0,
       "stats": {
         "contextSwitches": 0,
         "tabsOpened": 0,
