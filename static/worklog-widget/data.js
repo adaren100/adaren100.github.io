@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-10-19T10:20:21+11:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-10-20T10:20:20+11:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -94605,834 +94605,834 @@
         "weekend": true
       },
       {
-        "key": "2026-10-18",
-        "dayNum": 18,
-        "dow": 0,
-        "weekend": true,
-        "dateShort": "Sun, Oct 18",
         "dateLong": "Sunday, October 18",
-        "dayStart": "09:48",
+        "dateShort": "Sun, Oct 18",
         "dayEnd": "22:27",
+        "dayNum": 18,
+        "dayStart": "09:48",
+        "deep": 52,
+        "dow": 0,
         "events": [
           {
-            "start": "09:48",
+            "cat": "admin",
             "end": "09:58",
-            "cat": "admin",
+            "note": "prenotami.esteri.it",
             "src": "macos",
-            "title": "Home Page Prenot@mi",
-            "note": "prenotami.esteri.it"
+            "start": "09:48",
+            "title": "Home Page Prenot@mi"
           },
           {
-            "start": "10:11",
+            "cat": "admin",
             "end": "10:15",
-            "cat": "admin",
+            "note": "prenotami.esteri.it",
             "src": "macos",
-            "title": "Index Prenot@mi",
-            "note": "prenotami.esteri.it"
+            "start": "10:11",
+            "title": "Index Prenot@mi"
           },
           {
-            "start": "10:16",
+            "cat": "admin",
             "end": "10:17",
-            "cat": "admin",
+            "note": "prenotami.esteri.it",
             "src": "macos",
-            "title": "Detail Prenot@mi",
-            "note": "prenotami.esteri.it"
+            "start": "10:16",
+            "title": "Detail Prenot@mi"
           },
           {
-            "start": "10:21",
+            "cat": "writing",
             "end": "10:22",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "europe-trip-itinerary-v2 - Google Sheets",
-            "note": "docs.google.com"
+            "start": "10:21",
+            "title": "europe-trip-itinerary-v2 - Google Sheets"
           },
           {
-            "start": "10:28",
+            "cat": "writing",
             "end": "10:30",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "europe-trip-itinerary-v2 - Google Sheets",
-            "note": "docs.google.com"
+            "start": "10:28",
+            "title": "europe-trip-itinerary-v2 - Google Sheets"
           },
           {
-            "start": "10:37",
+            "cat": "admin",
             "end": "10:41",
-            "cat": "admin",
+            "note": "secure.booking.com",
             "src": "macos",
-            "title": "Booking.com：最终信息",
-            "note": "secure.booking.com"
+            "start": "10:37",
+            "title": "Booking.com：最终信息"
           },
           {
-            "start": "10:42",
+            "cat": "admin",
             "end": "10:44",
-            "cat": "admin",
+            "note": "secure.booking.com",
             "src": "macos",
-            "title": "Booking.com: 确认",
-            "note": "secure.booking.com"
+            "start": "10:42",
+            "title": "Booking.com: 确认"
           },
           {
-            "start": "10:50",
+            "cat": "personal",
             "end": "10:54",
-            "cat": "personal",
+            "note": "madridroyalpalace-tickets.feelthecitytours.com",
             "src": "macos",
-            "title": "Royal Palace Madrid Tickets | Opening Hours & Online Booking",
-            "note": "madridroyalpalace-tickets.feelthecitytours.com"
+            "start": "10:50",
+            "title": "Royal Palace Madrid Tickets | Opening Hours & Online Booking"
           },
           {
-            "start": "10:55",
+            "cat": "admin",
             "end": "10:57",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "Madrid, Spain to Seville, Spain - Google Maps",
-            "note": "google.com"
+            "start": "10:55",
+            "title": "Madrid, Spain to Seville, Spain - Google Maps"
           },
           {
-            "start": "11:00",
+            "cat": "writing",
             "end": "11:02",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "europe-trip-itinerary-v2 - Google Sheets",
-            "note": "docs.google.com"
+            "start": "11:00",
+            "title": "europe-trip-itinerary-v2 - Google Sheets"
           },
           {
-            "start": "11:04",
+            "cat": "personal",
             "end": "11:05",
-            "cat": "personal",
+            "note": "booking.com",
             "src": "macos",
-            "title": "搜索塞维利亚酒店_塞维利亚酒店查询_Booking.com缤客",
-            "note": "booking.com"
+            "start": "11:04",
+            "title": "搜索塞维利亚酒店_塞维利亚酒店查询_Booking.com缤客"
           },
           {
-            "start": "11:09",
+            "cat": "admin",
             "end": "11:10",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "Google Maps",
-            "note": "google.com"
+            "start": "11:09",
+            "title": "Google Maps"
           },
           {
-            "start": "11:14",
+            "cat": "admin",
             "end": "11:15",
-            "cat": "admin",
+            "note": "secure.booking.com",
             "src": "macos",
-            "title": "Booking.com：最终信息",
-            "note": "secure.booking.com"
+            "start": "11:14",
+            "title": "Booking.com：最终信息"
           },
           {
-            "start": "11:28",
+            "cat": "admin",
             "end": "11:29",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "格兰大道欧洲之星酒店 - Google Maps",
-            "note": "google.com"
+            "start": "11:28",
+            "title": "格兰大道欧洲之星酒店 - Google Maps"
           },
           {
-            "start": "11:34",
+            "cat": "admin",
             "end": "11:36",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "Google Maps",
-            "note": "google.com"
+            "start": "11:34",
+            "title": "Google Maps"
           },
           {
-            "start": "11:41",
+            "cat": "admin",
             "end": "11:43",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "Google Maps",
-            "note": "google.com"
+            "start": "11:41",
+            "title": "Google Maps"
           },
           {
-            "start": "11:43",
+            "cat": "personal",
             "end": "11:46",
-            "cat": "personal",
+            "note": "alhambraonline.com",
             "src": "macos",
-            "title": "Alhambra Guided Tour of Granada, Spain | Alhambra Online",
-            "note": "alhambraonline.com"
+            "start": "11:43",
+            "title": "Alhambra Guided Tour of Granada, Spain | Alhambra Online"
           },
           {
-            "start": "11:54",
+            "cat": "admin",
             "end": "11:55",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "Barcelona, Spain to Marseille, France - Google Maps",
-            "note": "google.com"
+            "start": "11:54",
+            "title": "Barcelona, Spain to Marseille, France - Google Maps"
           },
           {
-            "start": "11:56",
+            "cat": "admin",
             "end": "11:57",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "Marseille, France to Nice, France - Google Maps",
-            "note": "google.com"
+            "start": "11:56",
+            "title": "Marseille, France to Nice, France - Google Maps"
           },
           {
-            "start": "12:03",
+            "cat": "writing",
             "end": "12:05",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "europe-trip-itinerary-v2 - Google Sheets",
-            "note": "docs.google.com"
+            "start": "12:03",
+            "title": "europe-trip-itinerary-v2 - Google Sheets"
           },
           {
-            "start": "12:30",
+            "cat": "admin",
             "end": "12:32",
-            "cat": "admin",
+            "note": "secure.booking.com",
             "src": "macos",
-            "title": "Booking.com: 确认",
-            "note": "secure.booking.com"
+            "start": "12:30",
+            "title": "Booking.com: 确认"
           },
           {
-            "start": "12:37",
+            "cat": "admin",
             "end": "12:39",
-            "cat": "admin",
+            "note": "secure.booking.com",
             "src": "macos",
-            "title": "Booking.com：最终信息",
-            "note": "secure.booking.com"
+            "start": "12:37",
+            "title": "Booking.com：最终信息"
           },
           {
-            "start": "12:40",
+            "cat": "admin",
             "end": "12:42",
-            "cat": "admin",
+            "note": "secure.booking.com",
             "src": "macos",
-            "title": "Booking.com: 确认",
-            "note": "secure.booking.com"
+            "start": "12:40",
+            "title": "Booking.com: 确认"
           },
           {
-            "start": "13:31",
+            "cat": "admin",
             "end": "13:32",
-            "cat": "admin",
+            "note": "secure.booking.com",
             "src": "macos",
-            "title": "Booking.com: 确认",
-            "note": "secure.booking.com"
+            "start": "13:31",
+            "title": "Booking.com: 确认"
           },
           {
-            "start": "13:39",
+            "cat": "personal",
             "end": "13:45",
-            "cat": "personal",
+            "note": "booking.com",
             "src": "macos",
-            "title": "尼斯丽笙布鲁酒店，尼斯（2027最新房价）",
-            "note": "booking.com"
+            "start": "13:39",
+            "title": "尼斯丽笙布鲁酒店，尼斯（2027最新房价）"
           },
           {
-            "start": "13:49",
+            "cat": "writing",
             "end": "13:55",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "europe-trip-itinerary-v2 - Google Sheets",
-            "note": "docs.google.com"
+            "start": "13:49",
+            "title": "europe-trip-itinerary-v2 - Google Sheets"
           },
           {
-            "start": "14:00",
+            "cat": "writing",
             "end": "14:01",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "europe-trip-itinerary-v2 - Google Sheets",
-            "note": "docs.google.com"
+            "start": "14:00",
+            "title": "europe-trip-itinerary-v2 - Google Sheets"
           },
           {
-            "start": "14:12",
+            "cat": "admin",
             "end": "14:16",
-            "cat": "admin",
+            "note": "secure.booking.com",
             "src": "macos",
-            "title": "Booking.com: 确认",
-            "note": "secure.booking.com"
+            "start": "14:12",
+            "title": "Booking.com: 确认"
           },
           {
-            "start": "14:21",
+            "cat": "admin",
             "end": "14:23",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "Hôtel Mercure Nice Promenade des Anglais to Genoa, Metropoli",
-            "note": "google.com"
+            "start": "14:21",
+            "title": "Hôtel Mercure Nice Promenade des Anglais to Genoa, Metropoli"
           },
           {
-            "start": "14:26",
+            "cat": "admin",
             "end": "14:29",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "Google Maps",
-            "note": "google.com"
+            "start": "14:26",
+            "title": "Google Maps"
           },
           {
-            "start": "15:25",
+            "cat": "admin",
             "end": "15:26",
-            "cat": "admin",
+            "note": "secure.booking.com",
             "src": "macos",
-            "title": "Booking.com: 确认",
-            "note": "secure.booking.com"
+            "start": "15:25",
+            "title": "Booking.com: 确认"
           },
           {
-            "start": "15:26",
+            "cat": "admin",
             "end": "15:27",
-            "cat": "admin",
+            "note": "secure.booking.com",
             "src": "macos",
-            "title": "您的行程 - 订单和行程 - Booking.com",
-            "note": "secure.booking.com"
+            "start": "15:26",
+            "title": "您的行程 - 订单和行程 - Booking.com"
           },
           {
-            "start": "15:28",
+            "cat": "admin",
             "end": "15:30",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "Marseille - Google Maps",
-            "note": "google.com"
+            "start": "15:28",
+            "title": "Marseille - Google Maps"
           },
           {
-            "start": "16:16",
+            "cat": "admin",
             "end": "16:18",
-            "cat": "admin",
+            "note": "threedsecure.thetrainline.com",
             "src": "macos",
-            "title": "threedsecure.thetrainline.com",
-            "note": "threedsecure.thetrainline.com"
+            "start": "16:16",
+            "title": "threedsecure.thetrainline.com"
           },
           {
-            "start": "16:18",
+            "cat": "personal",
             "end": "16:19",
-            "cat": "personal",
+            "note": "thetrainline.com",
             "src": "macos",
-            "title": "Confirmation | Trainline",
-            "note": "thetrainline.com"
+            "start": "16:18",
+            "title": "Confirmation | Trainline"
           },
           {
-            "start": "16:23",
+            "cat": "personal",
             "end": "16:25",
-            "cat": "personal",
+            "note": "thetrainline.com",
             "src": "macos",
-            "title": "Trainline : Search, Compare & Buy Cheap Train Tickets",
-            "note": "thetrainline.com"
+            "start": "16:23",
+            "title": "Trainline : Search, Compare & Buy Cheap Train Tickets"
           },
           {
-            "start": "16:25",
+            "cat": "personal",
             "end": "16:27",
-            "cat": "personal",
+            "note": "thetrainline.com",
             "src": "macos",
-            "title": "Search Results | Trainline",
-            "note": "thetrainline.com"
+            "start": "16:25",
+            "title": "Search Results | Trainline"
           },
           {
-            "start": "16:36",
+            "cat": "personal",
             "end": "16:37",
-            "cat": "personal",
+            "note": "thetrainline.com",
             "src": "macos",
-            "title": "Trainline: Train tickets, travel information, train times an",
-            "note": "thetrainline.com"
+            "start": "16:36",
+            "title": "Trainline: Train tickets, travel information, train times an"
           },
           {
-            "start": "16:37",
+            "cat": "personal",
             "end": "16:39",
-            "cat": "personal",
+            "note": "thetrainline.com",
             "src": "macos",
-            "title": "Trainline: Train tickets, travel information, train times an",
-            "note": "thetrainline.com"
+            "start": "16:37",
+            "title": "Trainline: Train tickets, travel information, train times an"
           },
           {
-            "start": "16:40",
+            "cat": "personal",
             "end": "16:42",
-            "cat": "personal",
+            "note": "thetrainline.com",
             "src": "macos",
-            "title": "Search Results | Trainline",
-            "note": "thetrainline.com"
+            "start": "16:40",
+            "title": "Search Results | Trainline"
           },
           {
-            "start": "16:45",
+            "cat": "personal",
             "end": "16:47",
-            "cat": "personal",
+            "note": "thetrainline.com",
             "src": "macos",
-            "title": "Trainline: Train tickets, travel information, train times an",
-            "note": "thetrainline.com"
+            "start": "16:45",
+            "title": "Trainline: Train tickets, travel information, train times an"
           },
           {
-            "start": "16:47",
+            "cat": "writing",
             "end": "16:50",
-            "cat": "writing",
+            "note": "drive.google.com",
             "src": "macos",
-            "title": "train - Google Drive",
-            "note": "drive.google.com"
+            "start": "16:47",
+            "title": "train - Google Drive"
           },
           {
-            "start": "16:55",
+            "cat": "writing",
             "end": "16:56",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "europe-trip-itinerary-v2 - Google Sheets",
-            "note": "docs.google.com"
+            "start": "16:55",
+            "title": "europe-trip-itinerary-v2 - Google Sheets"
           },
           {
-            "start": "16:56",
+            "cat": "writing",
             "end": "16:59",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "europe-trip-itinerary-v2 - Google Sheets",
-            "note": "docs.google.com"
+            "start": "16:56",
+            "title": "europe-trip-itinerary-v2 - Google Sheets"
           },
           {
-            "start": "17:00",
+            "cat": "writing",
             "end": "17:03",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "europe-trip-itinerary-v2 - Google Sheets",
-            "note": "docs.google.com"
+            "start": "17:00",
+            "title": "europe-trip-itinerary-v2 - Google Sheets"
           },
           {
-            "start": "17:05",
+            "cat": "writing",
             "end": "17:07",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "europe-trip-itinerary-v2 - Google Sheets",
-            "note": "docs.google.com"
+            "start": "17:05",
+            "title": "europe-trip-itinerary-v2 - Google Sheets"
           },
           {
-            "start": "17:07",
+            "cat": "writing",
             "end": "17:12",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "europe-trip-itinerary-v2 - Google Sheets",
-            "note": "docs.google.com"
+            "start": "17:07",
+            "title": "europe-trip-itinerary-v2 - Google Sheets"
           },
           {
-            "start": "17:13",
+            "cat": "writing",
             "end": "17:16",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "europe-trip-itinerary-v2 - Google Sheets",
-            "note": "docs.google.com"
+            "start": "17:13",
+            "title": "europe-trip-itinerary-v2 - Google Sheets"
           },
           {
-            "start": "17:17",
+            "cat": "writing",
             "end": "17:22",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "europe-trip-itinerary-v2 - Google Sheets",
-            "note": "docs.google.com"
+            "start": "17:17",
+            "title": "europe-trip-itinerary-v2 - Google Sheets"
           },
           {
-            "start": "17:23",
+            "cat": "writing",
             "end": "17:24",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "europe-trip-itinerary-v2 - Google Sheets",
-            "note": "docs.google.com"
+            "start": "17:23",
+            "title": "europe-trip-itinerary-v2 - Google Sheets"
           },
           {
-            "start": "17:25",
+            "cat": "personal",
             "end": "17:27",
-            "cat": "personal",
+            "note": "thetrainline.com",
             "src": "macos",
-            "title": "Trainline : Search, Compare & Buy Cheap Train Tickets",
-            "note": "thetrainline.com"
+            "start": "17:25",
+            "title": "Trainline : Search, Compare & Buy Cheap Train Tickets"
           },
           {
-            "start": "17:29",
+            "cat": "admin",
             "end": "17:31",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "Marseille - Google Maps",
-            "note": "google.com"
+            "start": "17:29",
+            "title": "Marseille - Google Maps"
           },
           {
-            "start": "17:32",
+            "cat": "personal",
             "end": "17:41",
-            "cat": "personal",
+            "note": "thetrainline.com",
             "src": "macos",
-            "title": "Search Results | Trainline",
-            "note": "thetrainline.com"
+            "start": "17:32",
+            "title": "Search Results | Trainline"
           },
           {
-            "start": "17:43",
+            "cat": "personal",
             "end": "17:47",
-            "cat": "personal",
+            "note": "thetrainline.com",
             "src": "macos",
-            "title": "Search Results | Trainline",
-            "note": "thetrainline.com"
+            "start": "17:43",
+            "title": "Search Results | Trainline"
           },
           {
-            "start": "17:47",
+            "cat": "personal",
             "end": "17:48",
-            "cat": "personal",
+            "note": "thetrainline.com",
             "src": "macos",
-            "title": "Search Results | Trainline",
-            "note": "thetrainline.com"
+            "start": "17:47",
+            "title": "Search Results | Trainline"
           },
           {
-            "start": "17:49",
+            "cat": "writing",
             "end": "17:52",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "europe-trip-itinerary-v2 - Google Sheets",
-            "note": "docs.google.com"
+            "start": "17:49",
+            "title": "europe-trip-itinerary-v2 - Google Sheets"
           },
           {
-            "start": "17:54",
+            "cat": "writing",
             "end": "17:58",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "europe-trip-itinerary-v2 - Google Sheets",
-            "note": "docs.google.com"
+            "start": "17:54",
+            "title": "europe-trip-itinerary-v2 - Google Sheets"
           },
           {
-            "start": "18:01",
+            "cat": "personal",
             "end": "18:02",
-            "cat": "personal",
+            "note": "tickets.alhambra-patronato.es",
             "src": "macos",
-            "title": "Home - Tickets Alhambra Patronato",
-            "note": "tickets.alhambra-patronato.es"
+            "start": "18:01",
+            "title": "Home - Tickets Alhambra Patronato"
           },
           {
-            "start": "18:02",
+            "cat": "personal",
             "end": "18:08",
-            "cat": "personal",
+            "note": "compratickets.alhambra-patronato.es",
             "src": "macos",
-            "title": "Patronato de la Alhambra y Generalife | Official tickets",
-            "note": "compratickets.alhambra-patronato.es"
+            "start": "18:02",
+            "title": "Patronato de la Alhambra y Generalife | Official tickets"
           },
           {
-            "start": "18:08",
+            "cat": "admin",
             "end": "18:09",
-            "cat": "admin",
+            "note": "mail.google.com",
             "src": "macos",
-            "title": "User code to purchase - ada.ren.cn@gmail.com - Gmail",
-            "note": "mail.google.com"
+            "start": "18:08",
+            "title": "User code to purchase - ada.ren.cn@gmail.com - Gmail"
           },
           {
-            "start": "18:11",
+            "cat": "personal",
             "end": "18:14",
-            "cat": "personal",
+            "note": "compratickets.alhambra-patronato.es",
             "src": "macos",
-            "title": "Patronato de la Alhambra y Generalife | Official tickets",
-            "note": "compratickets.alhambra-patronato.es"
+            "start": "18:11",
+            "title": "Patronato de la Alhambra y Generalife | Official tickets"
           },
           {
-            "start": "18:14",
+            "cat": "personal",
             "end": "18:16",
-            "cat": "personal",
+            "note": "thetrainline.com",
             "src": "macos",
-            "title": "Search Results | Trainline",
-            "note": "thetrainline.com"
+            "start": "18:14",
+            "title": "Search Results | Trainline"
           },
           {
-            "start": "18:16",
+            "cat": "personal",
             "end": "18:18",
-            "cat": "personal",
+            "note": "thetrainline.com",
             "src": "macos",
-            "title": "Search Results | Trainline",
-            "note": "thetrainline.com"
+            "start": "18:16",
+            "title": "Search Results | Trainline"
           },
           {
-            "start": "18:19",
+            "cat": "personal",
             "end": "18:20",
-            "cat": "personal",
+            "note": "thetrainline.com",
             "src": "macos",
-            "title": "Search Results | Trainline",
-            "note": "thetrainline.com"
+            "start": "18:19",
+            "title": "Search Results | Trainline"
           },
           {
-            "start": "18:26",
+            "cat": "personal",
             "end": "18:28",
-            "cat": "personal",
+            "note": "thetrainline.com",
             "src": "macos",
-            "title": "Search Results | Trainline",
-            "note": "thetrainline.com"
+            "start": "18:26",
+            "title": "Search Results | Trainline"
           },
           {
-            "start": "18:29",
+            "cat": "personal",
             "end": "18:30",
-            "cat": "personal",
+            "note": "thetrainline.com",
             "src": "macos",
-            "title": "Search Results | Trainline",
-            "note": "thetrainline.com"
+            "start": "18:29",
+            "title": "Search Results | Trainline"
           },
           {
-            "start": "18:30",
+            "cat": "personal",
             "end": "18:32",
-            "cat": "personal",
+            "note": "thetrainline.com",
             "src": "macos",
-            "title": "Search Results | Trainline",
-            "note": "thetrainline.com"
+            "start": "18:30",
+            "title": "Search Results | Trainline"
           },
           {
-            "start": "18:33",
+            "cat": "personal",
             "end": "18:37",
-            "cat": "personal",
+            "note": "compratickets.alhambra-patronato.es",
             "src": "macos",
-            "title": "Patronato de la Alhambra y Generalife | Official tickets",
-            "note": "compratickets.alhambra-patronato.es"
+            "start": "18:33",
+            "title": "Patronato de la Alhambra y Generalife | Official tickets"
           },
           {
-            "start": "18:37",
+            "cat": "personal",
             "end": "18:38",
-            "cat": "personal",
+            "note": "thetrainline.com",
             "src": "macos",
-            "title": "Search Results | Trainline",
-            "note": "thetrainline.com"
+            "start": "18:37",
+            "title": "Search Results | Trainline"
           },
           {
-            "start": "18:38",
+            "cat": "personal",
             "end": "18:39",
-            "cat": "personal",
+            "note": "thetrainline.com",
             "src": "macos",
-            "title": "Search Results | Trainline",
-            "note": "thetrainline.com"
+            "start": "18:38",
+            "title": "Search Results | Trainline"
           },
           {
-            "start": "18:40",
+            "cat": "personal",
             "end": "18:43",
-            "cat": "personal",
+            "note": "thetrainline.com",
             "src": "macos",
-            "title": "Search Results | Trainline",
-            "note": "thetrainline.com"
+            "start": "18:40",
+            "title": "Search Results | Trainline"
           },
           {
-            "start": "18:45",
+            "cat": "personal",
             "end": "18:47",
-            "cat": "personal",
+            "note": "thetrainline.com",
             "src": "macos",
-            "title": "Search Results | Trainline",
-            "note": "thetrainline.com"
+            "start": "18:45",
+            "title": "Search Results | Trainline"
           },
           {
-            "start": "18:47",
+            "cat": "admin",
             "end": "18:49",
-            "cat": "admin",
+            "note": "com.tinyspeck.slackmacgap",
             "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "start": "18:47",
+            "title": "slackmacgap"
           },
           {
-            "start": "18:50",
+            "cat": "personal",
             "end": "18:53",
-            "cat": "personal",
+            "note": "thetrainline.com",
             "src": "macos",
-            "title": "Search Results | Trainline",
-            "note": "thetrainline.com"
+            "start": "18:50",
+            "title": "Search Results | Trainline"
           },
           {
-            "start": "19:09",
+            "cat": "admin",
             "end": "19:11",
-            "cat": "admin",
+            "note": "secure.booking.com",
             "src": "macos",
-            "title": "Booking.com: 确认",
-            "note": "secure.booking.com"
+            "start": "19:09",
+            "title": "Booking.com: 确认"
           },
           {
-            "start": "19:11",
+            "cat": "admin",
             "end": "19:15",
-            "cat": "admin",
+            "note": "secure.booking.com",
             "src": "macos",
-            "title": "Booking.com: 确认",
-            "note": "secure.booking.com"
+            "start": "19:11",
+            "title": "Booking.com: 确认"
           },
           {
-            "start": "19:16",
+            "cat": "personal",
             "end": "19:18",
-            "cat": "personal",
+            "note": "thetrainline.com",
             "src": "macos",
-            "title": "Search Results | Trainline",
-            "note": "thetrainline.com"
+            "start": "19:16",
+            "title": "Search Results | Trainline"
           },
           {
-            "start": "19:18",
+            "cat": "personal",
             "end": "19:20",
-            "cat": "personal",
+            "note": "thetrainline.com",
             "src": "macos",
-            "title": "Search Results | Trainline",
-            "note": "thetrainline.com"
+            "start": "19:18",
+            "title": "Search Results | Trainline"
           },
           {
-            "start": "19:20",
+            "cat": "admin",
             "end": "19:23",
-            "cat": "admin",
+            "note": "mail.google.com",
             "src": "macos",
-            "title": "Your tickets for trips to Marseille St-Charles and Paris Gar",
-            "note": "mail.google.com"
+            "start": "19:20",
+            "title": "Your tickets for trips to Marseille St-Charles and Paris Gar"
           },
           {
-            "start": "19:23",
+            "cat": "personal",
             "end": "19:24",
-            "cat": "personal",
+            "note": "thetrainline.com",
             "src": "macos",
-            "title": "Search Results | Trainline",
-            "note": "thetrainline.com"
+            "start": "19:23",
+            "title": "Search Results | Trainline"
           },
           {
-            "start": "19:24",
+            "cat": "personal",
             "end": "19:26",
-            "cat": "personal",
+            "note": "thetrainline.com",
             "src": "macos",
-            "title": "Search Results | Trainline",
-            "note": "thetrainline.com"
+            "start": "19:24",
+            "title": "Search Results | Trainline"
           },
           {
-            "start": "19:31",
+            "cat": "writing",
             "end": "19:33",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "europe-trip-itinerary-v2 - Google Sheets",
-            "note": "docs.google.com"
+            "start": "19:31",
+            "title": "europe-trip-itinerary-v2 - Google Sheets"
           },
           {
-            "start": "19:43",
+            "cat": "admin",
             "end": "19:45",
-            "cat": "admin",
+            "note": "secure.booking.com",
             "src": "macos",
-            "title": "Booking.com: 确认",
-            "note": "secure.booking.com"
+            "start": "19:43",
+            "title": "Booking.com: 确认"
           },
           {
-            "start": "19:50",
+            "cat": "personal",
             "end": "19:52",
-            "cat": "personal",
+            "note": "thetrainline.com",
             "src": "macos",
-            "title": "Search Results | Trainline",
-            "note": "thetrainline.com"
+            "start": "19:50",
+            "title": "Search Results | Trainline"
           },
           {
-            "start": "19:52",
+            "cat": "personal",
             "end": "19:58",
-            "cat": "personal",
+            "note": "thetrainline.com",
             "src": "macos",
-            "title": "Search Results | Trainline",
-            "note": "thetrainline.com"
+            "start": "19:52",
+            "title": "Search Results | Trainline"
           },
           {
-            "start": "20:13",
-            "end": "20:14",
             "cat": "writing",
+            "end": "20:14",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "europe-trip-itinerary-v2 - Google Sheets",
-            "note": "docs.google.com"
+            "start": "20:13",
+            "title": "europe-trip-itinerary-v2 - Google Sheets"
           },
           {
-            "start": "20:17",
+            "cat": "admin",
             "end": "20:31",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Editing quiz: Final Exam | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "20:17",
+            "title": "Editing quiz: Final Exam | iLearn"
           },
           {
-            "start": "21:38",
+            "cat": "admin",
             "end": "21:40",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Preview question: DEMO Regression vs Classification | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "21:38",
+            "title": "Preview question: DEMO Regression vs Classification | iLearn"
           },
           {
-            "start": "21:47",
+            "cat": "admin",
             "end": "21:49",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Error | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "21:47",
+            "title": "Error | iLearn"
           },
           {
-            "start": "21:50",
+            "cat": "admin",
             "end": "21:52",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Preview question: centroid_1 | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "21:50",
+            "title": "Preview question: centroid_1 | iLearn"
           },
           {
-            "start": "21:54",
+            "cat": "admin",
             "end": "21:59",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Preview question: DEMO calculate stats | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "21:54",
+            "title": "Preview question: DEMO calculate stats | iLearn"
           },
           {
-            "start": "21:59",
+            "cat": "admin",
             "end": "22:01",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Preview question: DEMO calculate stats | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "21:59",
+            "title": "Preview question: DEMO calculate stats | iLearn"
           },
           {
-            "start": "22:01",
+            "cat": "admin",
             "end": "22:03",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Preview question: DEMO calculate stats | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "22:01",
+            "title": "Preview question: DEMO calculate stats | iLearn"
           },
           {
-            "start": "22:04",
+            "cat": "admin",
             "end": "22:11",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Final Exam (page 5 of 5) | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "22:04",
+            "title": "Final Exam (page 5 of 5) | iLearn"
           },
           {
-            "start": "22:12",
+            "cat": "admin",
             "end": "22:14",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Final Exam (page 5 of 5) | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "22:12",
+            "title": "Final Exam (page 5 of 5) | iLearn"
           },
           {
-            "start": "22:15",
+            "cat": "admin",
             "end": "22:16",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Final Exam (page 5 of 5) | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "22:15",
+            "title": "Final Exam (page 5 of 5) | iLearn"
           },
           {
-            "start": "22:16",
+            "cat": "admin",
             "end": "22:17",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Final Exam (page 5 of 5) | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "22:16",
+            "title": "Final Exam (page 5 of 5) | iLearn"
           },
           {
-            "start": "22:18",
+            "cat": "admin",
             "end": "22:19",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Final Exam (page 5 of 5) | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "22:18",
+            "title": "Final Exam (page 5 of 5) | iLearn"
           },
           {
-            "start": "22:19",
+            "cat": "admin",
             "end": "22:20",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Final Exam (page 5 of 5) | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "22:19",
+            "title": "Final Exam (page 5 of 5) | iLearn"
           },
           {
-            "start": "22:22",
+            "cat": "admin",
             "end": "22:24",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "22:22",
+            "title": "Outlook"
           },
           {
-            "start": "22:24",
-            "end": "22:27",
             "cat": "admin",
+            "end": "22:27",
+            "note": "com.microsoft.Excel",
             "src": "macos",
-            "title": "Excel",
-            "note": "com.microsoft.Excel"
+            "start": "22:24",
+            "title": "Excel"
           }
         ],
+        "key": "2026-10-18",
         "logged": 256,
-        "real": 52,
-        "deep": 52,
         "ratio": 0.2049068339127491,
+        "real": 52,
         "stats": {
           "contextSwitches": 34,
-          "tabsOpened": 0,
+          "justOneMoreThing": 0,
           "longestFocus": "27m",
-          "justOneMoreThing": 0
-        }
+          "tabsOpened": 0
+        },
+        "weekend": true
       },
       {
         "key": "2026-10-19",
@@ -95441,26 +95441,314 @@
         "weekend": false,
         "dateShort": "Mon, Oct 19",
         "dateLong": "Monday, October 19",
-        "dayStart": "10:03",
-        "dayEnd": "10:37",
+        "dayStart": "09:58",
+        "dayEnd": "17:41",
         "events": [
           {
-            "start": "10:03",
-            "end": "10:37",
+            "start": "09:58",
+            "end": "10:01",
             "cat": "admin",
-            "src": "chrome",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "10:01",
+            "end": "10:13",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "teams2",
+            "note": "com.microsoft.teams2"
+          },
+          {
+            "start": "10:13",
+            "end": "10:16",
+            "cat": "admin",
+            "src": "macos",
+            "title": "My home | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "10:17",
+            "end": "10:20",
+            "cat": "admin",
+            "src": "macos",
+            "title": "exam-cheatsheet.pdf",
+            "note": "content.ilearn.mq.edu.au"
+          },
+          {
+            "start": "10:21",
+            "end": "10:23",
+            "cat": "admin",
+            "src": "macos",
+            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Week 11 Lecture Data ",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "10:23",
+            "end": "10:25",
+            "cat": "admin",
+            "src": "macos",
+            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Practice Final Exam |",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "11:01",
+            "end": "11:03",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "11:04",
+            "end": "11:05",
+            "cat": "admin",
+            "src": "macos",
             "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Question 6 | iLearn",
             "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "11:06",
+            "end": "11:21",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Announcements | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "11:21",
+            "end": "11:27",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "teams2",
+            "note": "com.microsoft.teams2"
+          },
+          {
+            "start": "11:27",
+            "end": "11:36",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Announcements | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "11:40",
+            "end": "11:44",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Announcements | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "11:44",
+            "end": "11:50",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "11:54",
+            "end": "12:00",
+            "cat": "admin",
+            "src": "macos",
+            "title": "graph nodes and edges - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "12:16",
+            "end": "12:24",
+            "cat": "admin",
+            "src": "macos",
+            "title": "graph nodes and edges - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "12:26",
+            "end": "12:51",
+            "cat": "admin",
+            "src": "macos",
+            "title": "graph nodes and edges - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "12:55",
+            "end": "12:59",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Week 11 Practical Quiz (page 2 of 2) | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "13:16",
+            "end": "13:26",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "xos",
+            "note": "us.zoom.xos"
+          },
+          {
+            "start": "13:26",
+            "end": "13:29",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Progress Updates - Google Sheets",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "14:09",
+            "end": "14:11",
+            "cat": "research",
+            "src": "macos",
+            "title": "Dates and Venues – ACL Rolling Review",
+            "note": "aclrollingreview.org"
+          },
+          {
+            "start": "16:28",
+            "end": "16:36",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
+            "note": "sport.mq.edu.au"
+          },
+          {
+            "start": "16:36",
+            "end": "16:42",
+            "cat": "admin",
+            "src": "macos",
+            "title": "us visa renewal australia - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "16:45",
+            "end": "16:49",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Inbox (3,258) - ada.ren.cn@gmail.com - Gmail",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "16:52",
+            "end": "16:55",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Services offered",
+            "note": "forms.zohopublic.eu"
+          },
+          {
+            "start": "16:55",
+            "end": "16:57",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Booking Prenot@mi",
+            "note": "prenotami.esteri.it"
+          },
+          {
+            "start": "16:59",
+            "end": "17:02",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Request for Earlier Schengen Visa Appointment - ada.ren.cn@g",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "17:03",
+            "end": "17:04",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Index Prenot@mi",
+            "note": "prenotami.esteri.it"
+          },
+          {
+            "start": "17:04",
+            "end": "17:06",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Home - Workday",
+            "note": "wd3.myworkday.com"
+          },
+          {
+            "start": "17:07",
+            "end": "17:08",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Enter Time - Workday",
+            "note": "wd3.myworkday.com"
+          },
+          {
+            "start": "17:08",
+            "end": "17:11",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Enter Time - Workday",
+            "note": "wd3.myworkday.com"
+          },
+          {
+            "start": "17:11",
+            "end": "17:12",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Enter Time - Workday",
+            "note": "wd3.myworkday.com"
+          },
+          {
+            "start": "17:12",
+            "end": "17:14",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "17:15",
+            "end": "17:17",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Enter Time - Workday",
+            "note": "wd3.myworkday.com"
+          },
+          {
+            "start": "17:17",
+            "end": "17:19",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Inbox (3,258) - ada.ren.cn@gmail.com - Gmail",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "17:21",
+            "end": "17:24",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "17:27",
+            "end": "17:35",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "17:35",
+            "end": "17:41",
+            "cat": "admin",
+            "src": "macos",
+            "title": "nobel prize usyd - Google Search",
+            "note": "google.com"
           }
         ],
-        "logged": 34,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0.0,
+        "logged": 178,
+        "real": 33,
+        "deep": 33,
+        "ratio": 0.18342069887317458,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 3,
-          "longestFocus": "0m",
+          "contextSwitches": 8,
+          "tabsOpened": 0,
+          "longestFocus": "15m",
           "justOneMoreThing": 0
         }
       },
@@ -95471,17 +95759,50 @@
         "weekend": false,
         "dateShort": "Tue, Oct 20",
         "dateLong": "Tuesday, October 20",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "10:02",
+        "dayEnd": "10:39",
+        "events": [
+          {
+            "start": "10:02",
+            "end": "10:18",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Embassy/Consulate Prenot@mi",
+            "note": "prenotami.esteri.it"
+          },
+          {
+            "start": "10:18",
+            "end": "10:32",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Embassy/Consulate Prenot@mi",
+            "note": "prenotami.esteri.it"
+          },
+          {
+            "start": "10:32",
+            "end": "10:38",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Claude",
+            "note": "claude.com"
+          },
+          {
+            "start": "10:38",
+            "end": "10:39",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Employee Center Homepage - Employee",
+            "note": "onehelp.mq.edu.au"
+          }
+        ],
+        "logged": 37,
+        "real": 6,
+        "deep": 6,
+        "ratio": 0.16385801088950158,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "0m",
+          "contextSwitches": 2,
+          "tabsOpened": 12,
+          "longestFocus": "6m",
           "justOneMoreThing": 0
         }
       },
@@ -102805,834 +103126,834 @@
       "weekend": true
     },
     {
-      "key": "2026-10-18",
-      "dayNum": 18,
-      "dow": 0,
-      "weekend": true,
-      "dateShort": "Sun, Oct 18",
       "dateLong": "Sunday, October 18",
-      "dayStart": "09:48",
+      "dateShort": "Sun, Oct 18",
       "dayEnd": "22:27",
+      "dayNum": 18,
+      "dayStart": "09:48",
+      "deep": 52,
+      "dow": 0,
       "events": [
         {
-          "start": "09:48",
+          "cat": "admin",
           "end": "09:58",
-          "cat": "admin",
+          "note": "prenotami.esteri.it",
           "src": "macos",
-          "title": "Home Page Prenot@mi",
-          "note": "prenotami.esteri.it"
+          "start": "09:48",
+          "title": "Home Page Prenot@mi"
         },
         {
-          "start": "10:11",
+          "cat": "admin",
           "end": "10:15",
-          "cat": "admin",
+          "note": "prenotami.esteri.it",
           "src": "macos",
-          "title": "Index Prenot@mi",
-          "note": "prenotami.esteri.it"
+          "start": "10:11",
+          "title": "Index Prenot@mi"
         },
         {
-          "start": "10:16",
+          "cat": "admin",
           "end": "10:17",
-          "cat": "admin",
+          "note": "prenotami.esteri.it",
           "src": "macos",
-          "title": "Detail Prenot@mi",
-          "note": "prenotami.esteri.it"
+          "start": "10:16",
+          "title": "Detail Prenot@mi"
         },
         {
-          "start": "10:21",
+          "cat": "writing",
           "end": "10:22",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "europe-trip-itinerary-v2 - Google Sheets",
-          "note": "docs.google.com"
+          "start": "10:21",
+          "title": "europe-trip-itinerary-v2 - Google Sheets"
         },
         {
-          "start": "10:28",
+          "cat": "writing",
           "end": "10:30",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "europe-trip-itinerary-v2 - Google Sheets",
-          "note": "docs.google.com"
+          "start": "10:28",
+          "title": "europe-trip-itinerary-v2 - Google Sheets"
         },
         {
-          "start": "10:37",
+          "cat": "admin",
           "end": "10:41",
-          "cat": "admin",
+          "note": "secure.booking.com",
           "src": "macos",
-          "title": "Booking.com：最终信息",
-          "note": "secure.booking.com"
+          "start": "10:37",
+          "title": "Booking.com：最终信息"
         },
         {
-          "start": "10:42",
+          "cat": "admin",
           "end": "10:44",
-          "cat": "admin",
+          "note": "secure.booking.com",
           "src": "macos",
-          "title": "Booking.com: 确认",
-          "note": "secure.booking.com"
+          "start": "10:42",
+          "title": "Booking.com: 确认"
         },
         {
-          "start": "10:50",
+          "cat": "personal",
           "end": "10:54",
-          "cat": "personal",
+          "note": "madridroyalpalace-tickets.feelthecitytours.com",
           "src": "macos",
-          "title": "Royal Palace Madrid Tickets | Opening Hours & Online Booking",
-          "note": "madridroyalpalace-tickets.feelthecitytours.com"
+          "start": "10:50",
+          "title": "Royal Palace Madrid Tickets | Opening Hours & Online Booking"
         },
         {
-          "start": "10:55",
+          "cat": "admin",
           "end": "10:57",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "Madrid, Spain to Seville, Spain - Google Maps",
-          "note": "google.com"
+          "start": "10:55",
+          "title": "Madrid, Spain to Seville, Spain - Google Maps"
         },
         {
-          "start": "11:00",
+          "cat": "writing",
           "end": "11:02",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "europe-trip-itinerary-v2 - Google Sheets",
-          "note": "docs.google.com"
+          "start": "11:00",
+          "title": "europe-trip-itinerary-v2 - Google Sheets"
         },
         {
-          "start": "11:04",
+          "cat": "personal",
           "end": "11:05",
-          "cat": "personal",
+          "note": "booking.com",
           "src": "macos",
-          "title": "搜索塞维利亚酒店_塞维利亚酒店查询_Booking.com缤客",
-          "note": "booking.com"
+          "start": "11:04",
+          "title": "搜索塞维利亚酒店_塞维利亚酒店查询_Booking.com缤客"
         },
         {
-          "start": "11:09",
+          "cat": "admin",
           "end": "11:10",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "Google Maps",
-          "note": "google.com"
+          "start": "11:09",
+          "title": "Google Maps"
         },
         {
-          "start": "11:14",
+          "cat": "admin",
           "end": "11:15",
-          "cat": "admin",
+          "note": "secure.booking.com",
           "src": "macos",
-          "title": "Booking.com：最终信息",
-          "note": "secure.booking.com"
+          "start": "11:14",
+          "title": "Booking.com：最终信息"
         },
         {
-          "start": "11:28",
+          "cat": "admin",
           "end": "11:29",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "格兰大道欧洲之星酒店 - Google Maps",
-          "note": "google.com"
+          "start": "11:28",
+          "title": "格兰大道欧洲之星酒店 - Google Maps"
         },
         {
-          "start": "11:34",
+          "cat": "admin",
           "end": "11:36",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "Google Maps",
-          "note": "google.com"
+          "start": "11:34",
+          "title": "Google Maps"
         },
         {
-          "start": "11:41",
+          "cat": "admin",
           "end": "11:43",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "Google Maps",
-          "note": "google.com"
+          "start": "11:41",
+          "title": "Google Maps"
         },
         {
-          "start": "11:43",
+          "cat": "personal",
           "end": "11:46",
-          "cat": "personal",
+          "note": "alhambraonline.com",
           "src": "macos",
-          "title": "Alhambra Guided Tour of Granada, Spain | Alhambra Online",
-          "note": "alhambraonline.com"
+          "start": "11:43",
+          "title": "Alhambra Guided Tour of Granada, Spain | Alhambra Online"
         },
         {
-          "start": "11:54",
+          "cat": "admin",
           "end": "11:55",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "Barcelona, Spain to Marseille, France - Google Maps",
-          "note": "google.com"
+          "start": "11:54",
+          "title": "Barcelona, Spain to Marseille, France - Google Maps"
         },
         {
-          "start": "11:56",
+          "cat": "admin",
           "end": "11:57",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "Marseille, France to Nice, France - Google Maps",
-          "note": "google.com"
+          "start": "11:56",
+          "title": "Marseille, France to Nice, France - Google Maps"
         },
         {
-          "start": "12:03",
+          "cat": "writing",
           "end": "12:05",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "europe-trip-itinerary-v2 - Google Sheets",
-          "note": "docs.google.com"
+          "start": "12:03",
+          "title": "europe-trip-itinerary-v2 - Google Sheets"
         },
         {
-          "start": "12:30",
+          "cat": "admin",
           "end": "12:32",
-          "cat": "admin",
+          "note": "secure.booking.com",
           "src": "macos",
-          "title": "Booking.com: 确认",
-          "note": "secure.booking.com"
+          "start": "12:30",
+          "title": "Booking.com: 确认"
         },
         {
-          "start": "12:37",
+          "cat": "admin",
           "end": "12:39",
-          "cat": "admin",
+          "note": "secure.booking.com",
           "src": "macos",
-          "title": "Booking.com：最终信息",
-          "note": "secure.booking.com"
+          "start": "12:37",
+          "title": "Booking.com：最终信息"
         },
         {
-          "start": "12:40",
+          "cat": "admin",
           "end": "12:42",
-          "cat": "admin",
+          "note": "secure.booking.com",
           "src": "macos",
-          "title": "Booking.com: 确认",
-          "note": "secure.booking.com"
+          "start": "12:40",
+          "title": "Booking.com: 确认"
         },
         {
-          "start": "13:31",
+          "cat": "admin",
           "end": "13:32",
-          "cat": "admin",
+          "note": "secure.booking.com",
           "src": "macos",
-          "title": "Booking.com: 确认",
-          "note": "secure.booking.com"
+          "start": "13:31",
+          "title": "Booking.com: 确认"
         },
         {
-          "start": "13:39",
+          "cat": "personal",
           "end": "13:45",
-          "cat": "personal",
+          "note": "booking.com",
           "src": "macos",
-          "title": "尼斯丽笙布鲁酒店，尼斯（2027最新房价）",
-          "note": "booking.com"
+          "start": "13:39",
+          "title": "尼斯丽笙布鲁酒店，尼斯（2027最新房价）"
         },
         {
-          "start": "13:49",
+          "cat": "writing",
           "end": "13:55",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "europe-trip-itinerary-v2 - Google Sheets",
-          "note": "docs.google.com"
+          "start": "13:49",
+          "title": "europe-trip-itinerary-v2 - Google Sheets"
         },
         {
-          "start": "14:00",
+          "cat": "writing",
           "end": "14:01",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "europe-trip-itinerary-v2 - Google Sheets",
-          "note": "docs.google.com"
+          "start": "14:00",
+          "title": "europe-trip-itinerary-v2 - Google Sheets"
         },
         {
-          "start": "14:12",
+          "cat": "admin",
           "end": "14:16",
-          "cat": "admin",
+          "note": "secure.booking.com",
           "src": "macos",
-          "title": "Booking.com: 确认",
-          "note": "secure.booking.com"
+          "start": "14:12",
+          "title": "Booking.com: 确认"
         },
         {
-          "start": "14:21",
+          "cat": "admin",
           "end": "14:23",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "Hôtel Mercure Nice Promenade des Anglais to Genoa, Metropoli",
-          "note": "google.com"
+          "start": "14:21",
+          "title": "Hôtel Mercure Nice Promenade des Anglais to Genoa, Metropoli"
         },
         {
-          "start": "14:26",
+          "cat": "admin",
           "end": "14:29",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "Google Maps",
-          "note": "google.com"
+          "start": "14:26",
+          "title": "Google Maps"
         },
         {
-          "start": "15:25",
+          "cat": "admin",
           "end": "15:26",
-          "cat": "admin",
+          "note": "secure.booking.com",
           "src": "macos",
-          "title": "Booking.com: 确认",
-          "note": "secure.booking.com"
+          "start": "15:25",
+          "title": "Booking.com: 确认"
         },
         {
-          "start": "15:26",
+          "cat": "admin",
           "end": "15:27",
-          "cat": "admin",
+          "note": "secure.booking.com",
           "src": "macos",
-          "title": "您的行程 - 订单和行程 - Booking.com",
-          "note": "secure.booking.com"
+          "start": "15:26",
+          "title": "您的行程 - 订单和行程 - Booking.com"
         },
         {
-          "start": "15:28",
+          "cat": "admin",
           "end": "15:30",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "Marseille - Google Maps",
-          "note": "google.com"
+          "start": "15:28",
+          "title": "Marseille - Google Maps"
         },
         {
-          "start": "16:16",
+          "cat": "admin",
           "end": "16:18",
-          "cat": "admin",
+          "note": "threedsecure.thetrainline.com",
           "src": "macos",
-          "title": "threedsecure.thetrainline.com",
-          "note": "threedsecure.thetrainline.com"
+          "start": "16:16",
+          "title": "threedsecure.thetrainline.com"
         },
         {
-          "start": "16:18",
+          "cat": "personal",
           "end": "16:19",
-          "cat": "personal",
+          "note": "thetrainline.com",
           "src": "macos",
-          "title": "Confirmation | Trainline",
-          "note": "thetrainline.com"
+          "start": "16:18",
+          "title": "Confirmation | Trainline"
         },
         {
-          "start": "16:23",
+          "cat": "personal",
           "end": "16:25",
-          "cat": "personal",
+          "note": "thetrainline.com",
           "src": "macos",
-          "title": "Trainline : Search, Compare & Buy Cheap Train Tickets",
-          "note": "thetrainline.com"
+          "start": "16:23",
+          "title": "Trainline : Search, Compare & Buy Cheap Train Tickets"
         },
         {
-          "start": "16:25",
+          "cat": "personal",
           "end": "16:27",
-          "cat": "personal",
+          "note": "thetrainline.com",
           "src": "macos",
-          "title": "Search Results | Trainline",
-          "note": "thetrainline.com"
+          "start": "16:25",
+          "title": "Search Results | Trainline"
         },
         {
-          "start": "16:36",
+          "cat": "personal",
           "end": "16:37",
-          "cat": "personal",
+          "note": "thetrainline.com",
           "src": "macos",
-          "title": "Trainline: Train tickets, travel information, train times an",
-          "note": "thetrainline.com"
+          "start": "16:36",
+          "title": "Trainline: Train tickets, travel information, train times an"
         },
         {
-          "start": "16:37",
+          "cat": "personal",
           "end": "16:39",
-          "cat": "personal",
+          "note": "thetrainline.com",
           "src": "macos",
-          "title": "Trainline: Train tickets, travel information, train times an",
-          "note": "thetrainline.com"
+          "start": "16:37",
+          "title": "Trainline: Train tickets, travel information, train times an"
         },
         {
-          "start": "16:40",
+          "cat": "personal",
           "end": "16:42",
-          "cat": "personal",
+          "note": "thetrainline.com",
           "src": "macos",
-          "title": "Search Results | Trainline",
-          "note": "thetrainline.com"
+          "start": "16:40",
+          "title": "Search Results | Trainline"
         },
         {
-          "start": "16:45",
+          "cat": "personal",
           "end": "16:47",
-          "cat": "personal",
+          "note": "thetrainline.com",
           "src": "macos",
-          "title": "Trainline: Train tickets, travel information, train times an",
-          "note": "thetrainline.com"
+          "start": "16:45",
+          "title": "Trainline: Train tickets, travel information, train times an"
         },
         {
-          "start": "16:47",
+          "cat": "writing",
           "end": "16:50",
-          "cat": "writing",
+          "note": "drive.google.com",
           "src": "macos",
-          "title": "train - Google Drive",
-          "note": "drive.google.com"
+          "start": "16:47",
+          "title": "train - Google Drive"
         },
         {
-          "start": "16:55",
+          "cat": "writing",
           "end": "16:56",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "europe-trip-itinerary-v2 - Google Sheets",
-          "note": "docs.google.com"
+          "start": "16:55",
+          "title": "europe-trip-itinerary-v2 - Google Sheets"
         },
         {
-          "start": "16:56",
+          "cat": "writing",
           "end": "16:59",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "europe-trip-itinerary-v2 - Google Sheets",
-          "note": "docs.google.com"
+          "start": "16:56",
+          "title": "europe-trip-itinerary-v2 - Google Sheets"
         },
         {
-          "start": "17:00",
+          "cat": "writing",
           "end": "17:03",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "europe-trip-itinerary-v2 - Google Sheets",
-          "note": "docs.google.com"
+          "start": "17:00",
+          "title": "europe-trip-itinerary-v2 - Google Sheets"
         },
         {
-          "start": "17:05",
+          "cat": "writing",
           "end": "17:07",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "europe-trip-itinerary-v2 - Google Sheets",
-          "note": "docs.google.com"
+          "start": "17:05",
+          "title": "europe-trip-itinerary-v2 - Google Sheets"
         },
         {
-          "start": "17:07",
+          "cat": "writing",
           "end": "17:12",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "europe-trip-itinerary-v2 - Google Sheets",
-          "note": "docs.google.com"
+          "start": "17:07",
+          "title": "europe-trip-itinerary-v2 - Google Sheets"
         },
         {
-          "start": "17:13",
+          "cat": "writing",
           "end": "17:16",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "europe-trip-itinerary-v2 - Google Sheets",
-          "note": "docs.google.com"
+          "start": "17:13",
+          "title": "europe-trip-itinerary-v2 - Google Sheets"
         },
         {
-          "start": "17:17",
+          "cat": "writing",
           "end": "17:22",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "europe-trip-itinerary-v2 - Google Sheets",
-          "note": "docs.google.com"
+          "start": "17:17",
+          "title": "europe-trip-itinerary-v2 - Google Sheets"
         },
         {
-          "start": "17:23",
+          "cat": "writing",
           "end": "17:24",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "europe-trip-itinerary-v2 - Google Sheets",
-          "note": "docs.google.com"
+          "start": "17:23",
+          "title": "europe-trip-itinerary-v2 - Google Sheets"
         },
         {
-          "start": "17:25",
+          "cat": "personal",
           "end": "17:27",
-          "cat": "personal",
+          "note": "thetrainline.com",
           "src": "macos",
-          "title": "Trainline : Search, Compare & Buy Cheap Train Tickets",
-          "note": "thetrainline.com"
+          "start": "17:25",
+          "title": "Trainline : Search, Compare & Buy Cheap Train Tickets"
         },
         {
-          "start": "17:29",
+          "cat": "admin",
           "end": "17:31",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "Marseille - Google Maps",
-          "note": "google.com"
+          "start": "17:29",
+          "title": "Marseille - Google Maps"
         },
         {
-          "start": "17:32",
+          "cat": "personal",
           "end": "17:41",
-          "cat": "personal",
+          "note": "thetrainline.com",
           "src": "macos",
-          "title": "Search Results | Trainline",
-          "note": "thetrainline.com"
+          "start": "17:32",
+          "title": "Search Results | Trainline"
         },
         {
-          "start": "17:43",
+          "cat": "personal",
           "end": "17:47",
-          "cat": "personal",
+          "note": "thetrainline.com",
           "src": "macos",
-          "title": "Search Results | Trainline",
-          "note": "thetrainline.com"
+          "start": "17:43",
+          "title": "Search Results | Trainline"
         },
         {
-          "start": "17:47",
+          "cat": "personal",
           "end": "17:48",
-          "cat": "personal",
+          "note": "thetrainline.com",
           "src": "macos",
-          "title": "Search Results | Trainline",
-          "note": "thetrainline.com"
+          "start": "17:47",
+          "title": "Search Results | Trainline"
         },
         {
-          "start": "17:49",
+          "cat": "writing",
           "end": "17:52",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "europe-trip-itinerary-v2 - Google Sheets",
-          "note": "docs.google.com"
+          "start": "17:49",
+          "title": "europe-trip-itinerary-v2 - Google Sheets"
         },
         {
-          "start": "17:54",
+          "cat": "writing",
           "end": "17:58",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "europe-trip-itinerary-v2 - Google Sheets",
-          "note": "docs.google.com"
+          "start": "17:54",
+          "title": "europe-trip-itinerary-v2 - Google Sheets"
         },
         {
-          "start": "18:01",
+          "cat": "personal",
           "end": "18:02",
-          "cat": "personal",
+          "note": "tickets.alhambra-patronato.es",
           "src": "macos",
-          "title": "Home - Tickets Alhambra Patronato",
-          "note": "tickets.alhambra-patronato.es"
+          "start": "18:01",
+          "title": "Home - Tickets Alhambra Patronato"
         },
         {
-          "start": "18:02",
+          "cat": "personal",
           "end": "18:08",
-          "cat": "personal",
+          "note": "compratickets.alhambra-patronato.es",
           "src": "macos",
-          "title": "Patronato de la Alhambra y Generalife | Official tickets",
-          "note": "compratickets.alhambra-patronato.es"
+          "start": "18:02",
+          "title": "Patronato de la Alhambra y Generalife | Official tickets"
         },
         {
-          "start": "18:08",
+          "cat": "admin",
           "end": "18:09",
-          "cat": "admin",
+          "note": "mail.google.com",
           "src": "macos",
-          "title": "User code to purchase - ada.ren.cn@gmail.com - Gmail",
-          "note": "mail.google.com"
+          "start": "18:08",
+          "title": "User code to purchase - ada.ren.cn@gmail.com - Gmail"
         },
         {
-          "start": "18:11",
+          "cat": "personal",
           "end": "18:14",
-          "cat": "personal",
+          "note": "compratickets.alhambra-patronato.es",
           "src": "macos",
-          "title": "Patronato de la Alhambra y Generalife | Official tickets",
-          "note": "compratickets.alhambra-patronato.es"
+          "start": "18:11",
+          "title": "Patronato de la Alhambra y Generalife | Official tickets"
         },
         {
-          "start": "18:14",
+          "cat": "personal",
           "end": "18:16",
-          "cat": "personal",
+          "note": "thetrainline.com",
           "src": "macos",
-          "title": "Search Results | Trainline",
-          "note": "thetrainline.com"
+          "start": "18:14",
+          "title": "Search Results | Trainline"
         },
         {
-          "start": "18:16",
+          "cat": "personal",
           "end": "18:18",
-          "cat": "personal",
+          "note": "thetrainline.com",
           "src": "macos",
-          "title": "Search Results | Trainline",
-          "note": "thetrainline.com"
+          "start": "18:16",
+          "title": "Search Results | Trainline"
         },
         {
-          "start": "18:19",
+          "cat": "personal",
           "end": "18:20",
-          "cat": "personal",
+          "note": "thetrainline.com",
           "src": "macos",
-          "title": "Search Results | Trainline",
-          "note": "thetrainline.com"
+          "start": "18:19",
+          "title": "Search Results | Trainline"
         },
         {
-          "start": "18:26",
+          "cat": "personal",
           "end": "18:28",
-          "cat": "personal",
+          "note": "thetrainline.com",
           "src": "macos",
-          "title": "Search Results | Trainline",
-          "note": "thetrainline.com"
+          "start": "18:26",
+          "title": "Search Results | Trainline"
         },
         {
-          "start": "18:29",
+          "cat": "personal",
           "end": "18:30",
-          "cat": "personal",
+          "note": "thetrainline.com",
           "src": "macos",
-          "title": "Search Results | Trainline",
-          "note": "thetrainline.com"
+          "start": "18:29",
+          "title": "Search Results | Trainline"
         },
         {
-          "start": "18:30",
+          "cat": "personal",
           "end": "18:32",
-          "cat": "personal",
+          "note": "thetrainline.com",
           "src": "macos",
-          "title": "Search Results | Trainline",
-          "note": "thetrainline.com"
+          "start": "18:30",
+          "title": "Search Results | Trainline"
         },
         {
-          "start": "18:33",
+          "cat": "personal",
           "end": "18:37",
-          "cat": "personal",
+          "note": "compratickets.alhambra-patronato.es",
           "src": "macos",
-          "title": "Patronato de la Alhambra y Generalife | Official tickets",
-          "note": "compratickets.alhambra-patronato.es"
+          "start": "18:33",
+          "title": "Patronato de la Alhambra y Generalife | Official tickets"
         },
         {
-          "start": "18:37",
+          "cat": "personal",
           "end": "18:38",
-          "cat": "personal",
+          "note": "thetrainline.com",
           "src": "macos",
-          "title": "Search Results | Trainline",
-          "note": "thetrainline.com"
+          "start": "18:37",
+          "title": "Search Results | Trainline"
         },
         {
-          "start": "18:38",
+          "cat": "personal",
           "end": "18:39",
-          "cat": "personal",
+          "note": "thetrainline.com",
           "src": "macos",
-          "title": "Search Results | Trainline",
-          "note": "thetrainline.com"
+          "start": "18:38",
+          "title": "Search Results | Trainline"
         },
         {
-          "start": "18:40",
+          "cat": "personal",
           "end": "18:43",
-          "cat": "personal",
+          "note": "thetrainline.com",
           "src": "macos",
-          "title": "Search Results | Trainline",
-          "note": "thetrainline.com"
+          "start": "18:40",
+          "title": "Search Results | Trainline"
         },
         {
-          "start": "18:45",
+          "cat": "personal",
           "end": "18:47",
-          "cat": "personal",
+          "note": "thetrainline.com",
           "src": "macos",
-          "title": "Search Results | Trainline",
-          "note": "thetrainline.com"
+          "start": "18:45",
+          "title": "Search Results | Trainline"
         },
         {
-          "start": "18:47",
+          "cat": "admin",
           "end": "18:49",
-          "cat": "admin",
+          "note": "com.tinyspeck.slackmacgap",
           "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "start": "18:47",
+          "title": "slackmacgap"
         },
         {
-          "start": "18:50",
+          "cat": "personal",
           "end": "18:53",
-          "cat": "personal",
+          "note": "thetrainline.com",
           "src": "macos",
-          "title": "Search Results | Trainline",
-          "note": "thetrainline.com"
+          "start": "18:50",
+          "title": "Search Results | Trainline"
         },
         {
-          "start": "19:09",
+          "cat": "admin",
           "end": "19:11",
-          "cat": "admin",
+          "note": "secure.booking.com",
           "src": "macos",
-          "title": "Booking.com: 确认",
-          "note": "secure.booking.com"
+          "start": "19:09",
+          "title": "Booking.com: 确认"
         },
         {
-          "start": "19:11",
+          "cat": "admin",
           "end": "19:15",
-          "cat": "admin",
+          "note": "secure.booking.com",
           "src": "macos",
-          "title": "Booking.com: 确认",
-          "note": "secure.booking.com"
+          "start": "19:11",
+          "title": "Booking.com: 确认"
         },
         {
-          "start": "19:16",
+          "cat": "personal",
           "end": "19:18",
-          "cat": "personal",
+          "note": "thetrainline.com",
           "src": "macos",
-          "title": "Search Results | Trainline",
-          "note": "thetrainline.com"
+          "start": "19:16",
+          "title": "Search Results | Trainline"
         },
         {
-          "start": "19:18",
+          "cat": "personal",
           "end": "19:20",
-          "cat": "personal",
+          "note": "thetrainline.com",
           "src": "macos",
-          "title": "Search Results | Trainline",
-          "note": "thetrainline.com"
+          "start": "19:18",
+          "title": "Search Results | Trainline"
         },
         {
-          "start": "19:20",
+          "cat": "admin",
           "end": "19:23",
-          "cat": "admin",
+          "note": "mail.google.com",
           "src": "macos",
-          "title": "Your tickets for trips to Marseille St-Charles and Paris Gar",
-          "note": "mail.google.com"
+          "start": "19:20",
+          "title": "Your tickets for trips to Marseille St-Charles and Paris Gar"
         },
         {
-          "start": "19:23",
+          "cat": "personal",
           "end": "19:24",
-          "cat": "personal",
+          "note": "thetrainline.com",
           "src": "macos",
-          "title": "Search Results | Trainline",
-          "note": "thetrainline.com"
+          "start": "19:23",
+          "title": "Search Results | Trainline"
         },
         {
-          "start": "19:24",
+          "cat": "personal",
           "end": "19:26",
-          "cat": "personal",
+          "note": "thetrainline.com",
           "src": "macos",
-          "title": "Search Results | Trainline",
-          "note": "thetrainline.com"
+          "start": "19:24",
+          "title": "Search Results | Trainline"
         },
         {
-          "start": "19:31",
+          "cat": "writing",
           "end": "19:33",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "europe-trip-itinerary-v2 - Google Sheets",
-          "note": "docs.google.com"
+          "start": "19:31",
+          "title": "europe-trip-itinerary-v2 - Google Sheets"
         },
         {
-          "start": "19:43",
+          "cat": "admin",
           "end": "19:45",
-          "cat": "admin",
+          "note": "secure.booking.com",
           "src": "macos",
-          "title": "Booking.com: 确认",
-          "note": "secure.booking.com"
+          "start": "19:43",
+          "title": "Booking.com: 确认"
         },
         {
-          "start": "19:50",
+          "cat": "personal",
           "end": "19:52",
-          "cat": "personal",
+          "note": "thetrainline.com",
           "src": "macos",
-          "title": "Search Results | Trainline",
-          "note": "thetrainline.com"
+          "start": "19:50",
+          "title": "Search Results | Trainline"
         },
         {
-          "start": "19:52",
+          "cat": "personal",
           "end": "19:58",
-          "cat": "personal",
+          "note": "thetrainline.com",
           "src": "macos",
-          "title": "Search Results | Trainline",
-          "note": "thetrainline.com"
+          "start": "19:52",
+          "title": "Search Results | Trainline"
         },
         {
-          "start": "20:13",
-          "end": "20:14",
           "cat": "writing",
+          "end": "20:14",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "europe-trip-itinerary-v2 - Google Sheets",
-          "note": "docs.google.com"
+          "start": "20:13",
+          "title": "europe-trip-itinerary-v2 - Google Sheets"
         },
         {
-          "start": "20:17",
+          "cat": "admin",
           "end": "20:31",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Editing quiz: Final Exam | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "20:17",
+          "title": "Editing quiz: Final Exam | iLearn"
         },
         {
-          "start": "21:38",
+          "cat": "admin",
           "end": "21:40",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Preview question: DEMO Regression vs Classification | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "21:38",
+          "title": "Preview question: DEMO Regression vs Classification | iLearn"
         },
         {
-          "start": "21:47",
+          "cat": "admin",
           "end": "21:49",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Error | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "21:47",
+          "title": "Error | iLearn"
         },
         {
-          "start": "21:50",
+          "cat": "admin",
           "end": "21:52",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Preview question: centroid_1 | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "21:50",
+          "title": "Preview question: centroid_1 | iLearn"
         },
         {
-          "start": "21:54",
+          "cat": "admin",
           "end": "21:59",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Preview question: DEMO calculate stats | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "21:54",
+          "title": "Preview question: DEMO calculate stats | iLearn"
         },
         {
-          "start": "21:59",
+          "cat": "admin",
           "end": "22:01",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Preview question: DEMO calculate stats | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "21:59",
+          "title": "Preview question: DEMO calculate stats | iLearn"
         },
         {
-          "start": "22:01",
+          "cat": "admin",
           "end": "22:03",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Preview question: DEMO calculate stats | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "22:01",
+          "title": "Preview question: DEMO calculate stats | iLearn"
         },
         {
-          "start": "22:04",
+          "cat": "admin",
           "end": "22:11",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Final Exam (page 5 of 5) | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "22:04",
+          "title": "Final Exam (page 5 of 5) | iLearn"
         },
         {
-          "start": "22:12",
+          "cat": "admin",
           "end": "22:14",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Final Exam (page 5 of 5) | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "22:12",
+          "title": "Final Exam (page 5 of 5) | iLearn"
         },
         {
-          "start": "22:15",
+          "cat": "admin",
           "end": "22:16",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Final Exam (page 5 of 5) | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "22:15",
+          "title": "Final Exam (page 5 of 5) | iLearn"
         },
         {
-          "start": "22:16",
+          "cat": "admin",
           "end": "22:17",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Final Exam (page 5 of 5) | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "22:16",
+          "title": "Final Exam (page 5 of 5) | iLearn"
         },
         {
-          "start": "22:18",
+          "cat": "admin",
           "end": "22:19",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Final Exam (page 5 of 5) | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "22:18",
+          "title": "Final Exam (page 5 of 5) | iLearn"
         },
         {
-          "start": "22:19",
+          "cat": "admin",
           "end": "22:20",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Final Exam (page 5 of 5) | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "22:19",
+          "title": "Final Exam (page 5 of 5) | iLearn"
         },
         {
-          "start": "22:22",
+          "cat": "admin",
           "end": "22:24",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "22:22",
+          "title": "Outlook"
         },
         {
-          "start": "22:24",
-          "end": "22:27",
           "cat": "admin",
+          "end": "22:27",
+          "note": "com.microsoft.Excel",
           "src": "macos",
-          "title": "Excel",
-          "note": "com.microsoft.Excel"
+          "start": "22:24",
+          "title": "Excel"
         }
       ],
+      "key": "2026-10-18",
       "logged": 256,
-      "real": 52,
-      "deep": 52,
       "ratio": 0.2049068339127491,
+      "real": 52,
       "stats": {
         "contextSwitches": 34,
-        "tabsOpened": 0,
+        "justOneMoreThing": 0,
         "longestFocus": "27m",
-        "justOneMoreThing": 0
-      }
+        "tabsOpened": 0
+      },
+      "weekend": true
     },
     {
       "key": "2026-10-19",
@@ -103641,26 +103962,314 @@
       "weekend": false,
       "dateShort": "Mon, Oct 19",
       "dateLong": "Monday, October 19",
-      "dayStart": "10:03",
-      "dayEnd": "10:37",
+      "dayStart": "09:58",
+      "dayEnd": "17:41",
       "events": [
         {
-          "start": "10:03",
-          "end": "10:37",
+          "start": "09:58",
+          "end": "10:01",
           "cat": "admin",
-          "src": "chrome",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "10:01",
+          "end": "10:13",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "teams2",
+          "note": "com.microsoft.teams2"
+        },
+        {
+          "start": "10:13",
+          "end": "10:16",
+          "cat": "admin",
+          "src": "macos",
+          "title": "My home | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "10:17",
+          "end": "10:20",
+          "cat": "admin",
+          "src": "macos",
+          "title": "exam-cheatsheet.pdf",
+          "note": "content.ilearn.mq.edu.au"
+        },
+        {
+          "start": "10:21",
+          "end": "10:23",
+          "cat": "admin",
+          "src": "macos",
+          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Week 11 Lecture Data ",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "10:23",
+          "end": "10:25",
+          "cat": "admin",
+          "src": "macos",
+          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Practice Final Exam |",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "11:01",
+          "end": "11:03",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "11:04",
+          "end": "11:05",
+          "cat": "admin",
+          "src": "macos",
           "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Question 6 | iLearn",
           "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "11:06",
+          "end": "11:21",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Announcements | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "11:21",
+          "end": "11:27",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "teams2",
+          "note": "com.microsoft.teams2"
+        },
+        {
+          "start": "11:27",
+          "end": "11:36",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Announcements | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "11:40",
+          "end": "11:44",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Announcements | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "11:44",
+          "end": "11:50",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "11:54",
+          "end": "12:00",
+          "cat": "admin",
+          "src": "macos",
+          "title": "graph nodes and edges - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "12:16",
+          "end": "12:24",
+          "cat": "admin",
+          "src": "macos",
+          "title": "graph nodes and edges - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "12:26",
+          "end": "12:51",
+          "cat": "admin",
+          "src": "macos",
+          "title": "graph nodes and edges - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "12:55",
+          "end": "12:59",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Week 11 Practical Quiz (page 2 of 2) | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "13:16",
+          "end": "13:26",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "xos",
+          "note": "us.zoom.xos"
+        },
+        {
+          "start": "13:26",
+          "end": "13:29",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Progress Updates - Google Sheets",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "14:09",
+          "end": "14:11",
+          "cat": "research",
+          "src": "macos",
+          "title": "Dates and Venues – ACL Rolling Review",
+          "note": "aclrollingreview.org"
+        },
+        {
+          "start": "16:28",
+          "end": "16:36",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
+          "note": "sport.mq.edu.au"
+        },
+        {
+          "start": "16:36",
+          "end": "16:42",
+          "cat": "admin",
+          "src": "macos",
+          "title": "us visa renewal australia - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "16:45",
+          "end": "16:49",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Inbox (3,258) - ada.ren.cn@gmail.com - Gmail",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "16:52",
+          "end": "16:55",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Services offered",
+          "note": "forms.zohopublic.eu"
+        },
+        {
+          "start": "16:55",
+          "end": "16:57",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Booking Prenot@mi",
+          "note": "prenotami.esteri.it"
+        },
+        {
+          "start": "16:59",
+          "end": "17:02",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Request for Earlier Schengen Visa Appointment - ada.ren.cn@g",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "17:03",
+          "end": "17:04",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Index Prenot@mi",
+          "note": "prenotami.esteri.it"
+        },
+        {
+          "start": "17:04",
+          "end": "17:06",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Home - Workday",
+          "note": "wd3.myworkday.com"
+        },
+        {
+          "start": "17:07",
+          "end": "17:08",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Enter Time - Workday",
+          "note": "wd3.myworkday.com"
+        },
+        {
+          "start": "17:08",
+          "end": "17:11",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Enter Time - Workday",
+          "note": "wd3.myworkday.com"
+        },
+        {
+          "start": "17:11",
+          "end": "17:12",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Enter Time - Workday",
+          "note": "wd3.myworkday.com"
+        },
+        {
+          "start": "17:12",
+          "end": "17:14",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "17:15",
+          "end": "17:17",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Enter Time - Workday",
+          "note": "wd3.myworkday.com"
+        },
+        {
+          "start": "17:17",
+          "end": "17:19",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Inbox (3,258) - ada.ren.cn@gmail.com - Gmail",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "17:21",
+          "end": "17:24",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "17:27",
+          "end": "17:35",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "17:35",
+          "end": "17:41",
+          "cat": "admin",
+          "src": "macos",
+          "title": "nobel prize usyd - Google Search",
+          "note": "google.com"
         }
       ],
-      "logged": 34,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0.0,
+      "logged": 178,
+      "real": 33,
+      "deep": 33,
+      "ratio": 0.18342069887317458,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 3,
-        "longestFocus": "0m",
+        "contextSwitches": 8,
+        "tabsOpened": 0,
+        "longestFocus": "15m",
         "justOneMoreThing": 0
       }
     },
@@ -103671,17 +104280,50 @@
       "weekend": false,
       "dateShort": "Tue, Oct 20",
       "dateLong": "Tuesday, October 20",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "10:02",
+      "dayEnd": "10:39",
+      "events": [
+        {
+          "start": "10:02",
+          "end": "10:18",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Embassy/Consulate Prenot@mi",
+          "note": "prenotami.esteri.it"
+        },
+        {
+          "start": "10:18",
+          "end": "10:32",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Embassy/Consulate Prenot@mi",
+          "note": "prenotami.esteri.it"
+        },
+        {
+          "start": "10:32",
+          "end": "10:38",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Claude",
+          "note": "claude.com"
+        },
+        {
+          "start": "10:38",
+          "end": "10:39",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Employee Center Homepage - Employee",
+          "note": "onehelp.mq.edu.au"
+        }
+      ],
+      "logged": 37,
+      "real": 6,
+      "deep": 6,
+      "ratio": 0.16385801088950158,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "0m",
+        "contextSwitches": 2,
+        "tabsOpened": 12,
+        "longestFocus": "6m",
         "justOneMoreThing": 0
       }
     },
