@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-10-20T10:20:20+11:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-10-21T10:20:17+11:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -95435,322 +95435,322 @@
         "weekend": true
       },
       {
-        "key": "2026-10-19",
-        "dayNum": 19,
-        "dow": 1,
-        "weekend": false,
-        "dateShort": "Mon, Oct 19",
         "dateLong": "Monday, October 19",
-        "dayStart": "09:58",
+        "dateShort": "Mon, Oct 19",
         "dayEnd": "17:41",
+        "dayNum": 19,
+        "dayStart": "09:58",
+        "deep": 33,
+        "dow": 1,
         "events": [
           {
-            "start": "09:58",
+            "cat": "admin",
             "end": "10:01",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "09:58",
+            "title": "Outlook"
           },
           {
-            "start": "10:01",
+            "cat": "meeting",
             "end": "10:13",
-            "cat": "meeting",
+            "note": "com.microsoft.teams2",
             "src": "macos",
-            "title": "teams2",
-            "note": "com.microsoft.teams2"
+            "start": "10:01",
+            "title": "teams2"
           },
           {
-            "start": "10:13",
+            "cat": "admin",
             "end": "10:16",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "My home | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "10:13",
+            "title": "My home | iLearn"
           },
           {
-            "start": "10:17",
+            "cat": "admin",
             "end": "10:20",
-            "cat": "admin",
+            "note": "content.ilearn.mq.edu.au",
             "src": "macos",
-            "title": "exam-cheatsheet.pdf",
-            "note": "content.ilearn.mq.edu.au"
+            "start": "10:17",
+            "title": "exam-cheatsheet.pdf"
           },
           {
-            "start": "10:21",
+            "cat": "admin",
             "end": "10:23",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Week 11 Lecture Data ",
-            "note": "ilearn.mq.edu.au"
+            "start": "10:21",
+            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Week 11 Lecture Data "
           },
           {
-            "start": "10:23",
+            "cat": "admin",
             "end": "10:25",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Practice Final Exam |",
-            "note": "ilearn.mq.edu.au"
+            "start": "10:23",
+            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Practice Final Exam |"
           },
           {
-            "start": "11:01",
+            "cat": "admin",
             "end": "11:03",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "11:01",
+            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn"
           },
           {
-            "start": "11:04",
+            "cat": "admin",
             "end": "11:05",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Question 6 | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "11:04",
+            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Question 6 | iLearn"
           },
           {
-            "start": "11:06",
+            "cat": "admin",
             "end": "11:21",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Announcements | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "11:06",
+            "title": "Announcements | iLearn"
           },
           {
-            "start": "11:21",
+            "cat": "meeting",
             "end": "11:27",
-            "cat": "meeting",
+            "note": "com.microsoft.teams2",
             "src": "macos",
-            "title": "teams2",
-            "note": "com.microsoft.teams2"
+            "start": "11:21",
+            "title": "teams2"
           },
           {
-            "start": "11:27",
+            "cat": "admin",
             "end": "11:36",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Announcements | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "11:27",
+            "title": "Announcements | iLearn"
           },
           {
-            "start": "11:40",
+            "cat": "admin",
             "end": "11:44",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Announcements | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "11:40",
+            "title": "Announcements | iLearn"
           },
           {
-            "start": "11:44",
+            "cat": "admin",
             "end": "11:50",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "macos",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "11:44",
+            "title": "Google Translate"
           },
           {
-            "start": "11:54",
+            "cat": "admin",
             "end": "12:00",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "graph nodes and edges - Google Search",
-            "note": "google.com"
+            "start": "11:54",
+            "title": "graph nodes and edges - Google Search"
           },
           {
-            "start": "12:16",
+            "cat": "admin",
             "end": "12:24",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "graph nodes and edges - Google Search",
-            "note": "google.com"
+            "start": "12:16",
+            "title": "graph nodes and edges - Google Search"
           },
           {
-            "start": "12:26",
+            "cat": "admin",
             "end": "12:51",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "graph nodes and edges - Google Search",
-            "note": "google.com"
+            "start": "12:26",
+            "title": "graph nodes and edges - Google Search"
           },
           {
-            "start": "12:55",
+            "cat": "admin",
             "end": "12:59",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Week 11 Practical Quiz (page 2 of 2) | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "12:55",
+            "title": "Week 11 Practical Quiz (page 2 of 2) | iLearn"
           },
           {
-            "start": "13:16",
-            "end": "13:26",
             "cat": "meeting",
+            "end": "13:26",
+            "note": "us.zoom.xos",
             "src": "macos",
-            "title": "xos",
-            "note": "us.zoom.xos"
+            "start": "13:16",
+            "title": "xos"
           },
           {
-            "start": "13:26",
-            "end": "13:29",
             "cat": "writing",
+            "end": "13:29",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Progress Updates - Google Sheets",
-            "note": "docs.google.com"
+            "start": "13:26",
+            "title": "Progress Updates - Google Sheets"
           },
           {
-            "start": "14:09",
-            "end": "14:11",
             "cat": "research",
+            "end": "14:11",
+            "note": "aclrollingreview.org",
             "src": "macos",
-            "title": "Dates and Venues – ACL Rolling Review",
-            "note": "aclrollingreview.org"
+            "start": "14:09",
+            "title": "Dates and Venues – ACL Rolling Review"
           },
           {
-            "start": "16:28",
+            "cat": "admin",
             "end": "16:36",
-            "cat": "admin",
+            "note": "sport.mq.edu.au",
             "src": "macos",
-            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
-            "note": "sport.mq.edu.au"
+            "start": "16:28",
+            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni"
           },
           {
-            "start": "16:36",
+            "cat": "admin",
             "end": "16:42",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "us visa renewal australia - Google Search",
-            "note": "google.com"
+            "start": "16:36",
+            "title": "us visa renewal australia - Google Search"
           },
           {
-            "start": "16:45",
+            "cat": "admin",
             "end": "16:49",
-            "cat": "admin",
+            "note": "mail.google.com",
             "src": "macos",
-            "title": "Inbox (3,258) - ada.ren.cn@gmail.com - Gmail",
-            "note": "mail.google.com"
+            "start": "16:45",
+            "title": "Inbox (3,258) - ada.ren.cn@gmail.com - Gmail"
           },
           {
-            "start": "16:52",
+            "cat": "admin",
             "end": "16:55",
-            "cat": "admin",
+            "note": "forms.zohopublic.eu",
             "src": "macos",
-            "title": "Services offered",
-            "note": "forms.zohopublic.eu"
+            "start": "16:52",
+            "title": "Services offered"
           },
           {
-            "start": "16:55",
+            "cat": "admin",
             "end": "16:57",
-            "cat": "admin",
+            "note": "prenotami.esteri.it",
             "src": "macos",
-            "title": "Booking Prenot@mi",
-            "note": "prenotami.esteri.it"
+            "start": "16:55",
+            "title": "Booking Prenot@mi"
           },
           {
-            "start": "16:59",
+            "cat": "admin",
             "end": "17:02",
-            "cat": "admin",
+            "note": "mail.google.com",
             "src": "macos",
-            "title": "Request for Earlier Schengen Visa Appointment - ada.ren.cn@g",
-            "note": "mail.google.com"
+            "start": "16:59",
+            "title": "Request for Earlier Schengen Visa Appointment - ada.ren.cn@g"
           },
           {
-            "start": "17:03",
+            "cat": "admin",
             "end": "17:04",
-            "cat": "admin",
+            "note": "prenotami.esteri.it",
             "src": "macos",
-            "title": "Index Prenot@mi",
-            "note": "prenotami.esteri.it"
+            "start": "17:03",
+            "title": "Index Prenot@mi"
           },
           {
-            "start": "17:04",
+            "cat": "admin",
             "end": "17:06",
-            "cat": "admin",
+            "note": "wd3.myworkday.com",
             "src": "macos",
-            "title": "Home - Workday",
-            "note": "wd3.myworkday.com"
+            "start": "17:04",
+            "title": "Home - Workday"
           },
           {
-            "start": "17:07",
+            "cat": "admin",
             "end": "17:08",
-            "cat": "admin",
+            "note": "wd3.myworkday.com",
             "src": "macos",
-            "title": "Enter Time - Workday",
-            "note": "wd3.myworkday.com"
+            "start": "17:07",
+            "title": "Enter Time - Workday"
           },
           {
-            "start": "17:08",
+            "cat": "admin",
             "end": "17:11",
-            "cat": "admin",
+            "note": "wd3.myworkday.com",
             "src": "macos",
-            "title": "Enter Time - Workday",
-            "note": "wd3.myworkday.com"
+            "start": "17:08",
+            "title": "Enter Time - Workday"
           },
           {
-            "start": "17:11",
+            "cat": "admin",
             "end": "17:12",
-            "cat": "admin",
+            "note": "wd3.myworkday.com",
             "src": "macos",
-            "title": "Enter Time - Workday",
-            "note": "wd3.myworkday.com"
+            "start": "17:11",
+            "title": "Enter Time - Workday"
           },
           {
-            "start": "17:12",
+            "cat": "admin",
             "end": "17:14",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "macos",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "17:12",
+            "title": "Google Translate"
           },
           {
-            "start": "17:15",
+            "cat": "admin",
             "end": "17:17",
-            "cat": "admin",
+            "note": "wd3.myworkday.com",
             "src": "macos",
-            "title": "Enter Time - Workday",
-            "note": "wd3.myworkday.com"
+            "start": "17:15",
+            "title": "Enter Time - Workday"
           },
           {
-            "start": "17:17",
+            "cat": "admin",
             "end": "17:19",
-            "cat": "admin",
+            "note": "mail.google.com",
             "src": "macos",
-            "title": "Inbox (3,258) - ada.ren.cn@gmail.com - Gmail",
-            "note": "mail.google.com"
+            "start": "17:17",
+            "title": "Inbox (3,258) - ada.ren.cn@gmail.com - Gmail"
           },
           {
-            "start": "17:21",
+            "cat": "admin",
             "end": "17:24",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "17:21",
+            "title": "Outlook"
           },
           {
-            "start": "17:27",
+            "cat": "admin",
             "end": "17:35",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "17:27",
+            "title": "Outlook"
           },
           {
-            "start": "17:35",
-            "end": "17:41",
             "cat": "admin",
+            "end": "17:41",
+            "note": "google.com",
             "src": "macos",
-            "title": "nobel prize usyd - Google Search",
-            "note": "google.com"
+            "start": "17:35",
+            "title": "nobel prize usyd - Google Search"
           }
         ],
+        "key": "2026-10-19",
         "logged": 178,
-        "real": 33,
-        "deep": 33,
         "ratio": 0.18342069887317458,
+        "real": 33,
         "stats": {
           "contextSwitches": 8,
-          "tabsOpened": 0,
+          "justOneMoreThing": 0,
           "longestFocus": "15m",
-          "justOneMoreThing": 0
-        }
+          "tabsOpened": 0
+        },
+        "weekend": false
       },
       {
         "key": "2026-10-20",
@@ -95759,51 +95759,443 @@
         "weekend": false,
         "dateShort": "Tue, Oct 20",
         "dateLong": "Tuesday, October 20",
-        "dayStart": "10:02",
-        "dayEnd": "10:39",
+        "dayStart": "10:04",
+        "dayEnd": "22:50",
         "events": [
           {
-            "start": "10:02",
-            "end": "10:18",
+            "start": "10:04",
+            "end": "10:10",
             "cat": "admin",
-            "src": "chrome",
-            "title": "Embassy/Consulate Prenot@mi",
+            "src": "macos",
+            "title": "Index Prenot@mi",
             "note": "prenotami.esteri.it"
+          },
+          {
+            "start": "10:12",
+            "end": "10:18",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Choose your room",
+            "note": "radissonhotels.com"
           },
           {
             "start": "10:18",
-            "end": "10:32",
+            "end": "10:19",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Claude",
+            "note": "claude.ai"
+          },
+          {
+            "start": "10:19",
+            "end": "10:20",
             "cat": "admin",
-            "src": "chrome",
-            "title": "Embassy/Consulate Prenot@mi",
-            "note": "prenotami.esteri.it"
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "10:20",
+            "end": "10:22",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Technology (ICT) - How to view my closed tickets",
+            "note": "mq.service-now.com"
+          },
+          {
+            "start": "10:22",
+            "end": "10:31",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
           },
           {
             "start": "10:32",
-            "end": "10:38",
-            "cat": "research",
-            "src": "chrome",
-            "title": "Claude",
-            "note": "claude.com"
+            "end": "10:33",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Fees & charges | Macquarie University Sport & Aquatic Centre",
+            "note": "sport.mq.edu.au"
           },
           {
-            "start": "10:38",
-            "end": "10:39",
+            "start": "10:33",
+            "end": "10:34",
             "cat": "admin",
-            "src": "chrome",
-            "title": "Employee Center Homepage - Employee",
-            "note": "onehelp.mq.edu.au"
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "10:34",
+            "end": "10:37",
+            "cat": "admin",
+            "src": "macos",
+            "title": "My Tickets - Employee",
+            "note": "mq.service-now.com"
+          },
+          {
+            "start": "10:37",
+            "end": "10:45",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(43) CMU AI Agents 2026: 7. Computer Use Agents - YouTube",
+            "note": "youtube.com"
+          },
+          {
+            "start": "10:46",
+            "end": "10:47",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "10:48",
+            "end": "10:53",
+            "cat": "personal",
+            "src": "macos",
+            "title": "CMU AI Agents 2026: 9. Reinforcement Learning Basics - YouTu",
+            "note": "youtube.com"
+          },
+          {
+            "start": "10:53",
+            "end": "11:08",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google",
+            "note": "google.com"
+          },
+          {
+            "start": "11:09",
+            "end": "11:13",
+            "cat": "research",
+            "src": "macos",
+            "title": "Radisson Hotel Group brings hotel discovery into ChatGPT | O",
+            "note": "openai.com"
+          },
+          {
+            "start": "11:14",
+            "end": "11:32",
+            "cat": "writing",
+            "src": "macos",
+            "title": "obsidian",
+            "note": "md.obsidian"
+          },
+          {
+            "start": "11:38",
+            "end": "12:11",
+            "cat": "research",
+            "src": "macos",
+            "title": "Radisson Hotel Group brings hotel discovery into ChatGPT | O",
+            "note": "openai.com"
+          },
+          {
+            "start": "12:12",
+            "end": "12:14",
+            "cat": "coding",
+            "src": "macos",
+            "title": "danyuchn/asd-ste100-skill: ASD-STE100 Simplified Technical E",
+            "note": "github.com"
+          },
+          {
+            "start": "13:24",
+            "end": "13:56",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Daily papers of 19 Oct 2026 - ada.ren.cn@gmail.com - Gmail",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "13:59",
+            "end": "14:00",
+            "cat": "admin",
+            "src": "macos",
+            "title": "europe travel insurance - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "14:01",
+            "end": "14:11",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Prenotami - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "14:13",
+            "end": "14:26",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Pack Cover-More travel insurance and worry less",
+            "note": "covermore.com.au"
+          },
+          {
+            "start": "14:27",
+            "end": "14:38",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Login",
+            "note": "iam.esteri.it"
+          },
+          {
+            "start": "14:43",
+            "end": "14:45",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Booking Prenot@mi",
+            "note": "prenotami.esteri.it"
+          },
+          {
+            "start": "14:45",
+            "end": "14:47",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Booking Prenot@mi",
+            "note": "prenotami.esteri.it"
+          },
+          {
+            "start": "14:50",
+            "end": "15:00",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Booking Prenot@mi",
+            "note": "prenotami.esteri.it"
+          },
+          {
+            "start": "15:08",
+            "end": "15:09",
+            "cat": "admin",
+            "src": "macos",
+            "title": "wd3-media.myworkdaycdn.com",
+            "note": "wd3-media.myworkdaycdn.com"
+          },
+          {
+            "start": "15:14",
+            "end": "15:17",
+            "cat": "writing",
+            "src": "macos",
+            "title": "europe-trip-itinerary-v2 - Google Sheets",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "15:17",
+            "end": "15:19",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "15:19",
+            "end": "15:20",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Find a project or group | MyNCI",
+            "note": "my.nci.org.au"
+          },
+          {
+            "start": "15:21",
+            "end": "15:28",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "15:29",
+            "end": "15:30",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Research Compute & Storage Allocation Request - Employee",
+            "note": "mq.service-now.com"
+          },
+          {
+            "start": "15:33",
+            "end": "15:42",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Home | MyNCI",
+            "note": "my.nci.org.au"
+          },
+          {
+            "start": "15:42",
+            "end": "15:46",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "15:47",
+            "end": "15:49",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Propose a project: step 3 of 8 | MyNCI",
+            "note": "my.nci.org.au"
+          },
+          {
+            "start": "15:50",
+            "end": "15:58",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Propose a project: step 7 of 10 | MyNCI",
+            "note": "my.nci.org.au"
+          },
+          {
+            "start": "15:59",
+            "end": "16:00",
+            "cat": "admin",
+            "src": "macos",
+            "title": "My Profile - Employee",
+            "note": "mq.service-now.com"
+          },
+          {
+            "start": "16:01",
+            "end": "16:02",
+            "cat": "admin",
+            "src": "macos",
+            "title": "My Profile - Employee",
+            "note": "mq.service-now.com"
+          },
+          {
+            "start": "16:04",
+            "end": "16:08",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Booking Prenot@mi",
+            "note": "prenotami.esteri.it"
+          },
+          {
+            "start": "16:12",
+            "end": "16:17",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Booking Prenot@mi",
+            "note": "prenotami.esteri.it"
+          },
+          {
+            "start": "16:18",
+            "end": "16:23",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Parcel Locker Registration Reminder - ada.ren.cn@gmail.com -",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "16:23",
+            "end": "16:38",
+            "cat": "personal",
+            "src": "macos",
+            "title": "CMU AI Agents 2026: 9. Reinforcement Learning Basics - YouTu",
+            "note": "youtube.com"
+          },
+          {
+            "start": "16:41",
+            "end": "16:44",
+            "cat": "personal",
+            "src": "macos",
+            "title": "CMU AI Agents 2026: 9. Reinforcement Learning Basics - YouTu",
+            "note": "youtube.com"
+          },
+          {
+            "start": "16:45",
+            "end": "16:47",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Booking.com: 确认",
+            "note": "secure.booking.com"
+          },
+          {
+            "start": "16:47",
+            "end": "16:48",
+            "cat": "writing",
+            "src": "macos",
+            "title": "train - Google Drive",
+            "note": "drive.google.com"
+          },
+          {
+            "start": "16:51",
+            "end": "16:58",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Research Compute & Storage Allocation Request - Employee",
+            "note": "mq.service-now.com"
+          },
+          {
+            "start": "16:59",
+            "end": "17:02",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Ethical Review Manager",
+            "note": "file:///Users/ada/Documents/MQ/Phd/GADI/"
+          },
+          {
+            "start": "17:02",
+            "end": "17:10",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "20:57",
+            "end": "21:21",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Anita's Theatre | On Sale Now - ada.ren.cn@gmail.com - Gmail",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "21:25",
+            "end": "21:30",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Anita's Theatre | On Sale Now - ada.ren.cn@gmail.com - Gmail",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "21:38",
+            "end": "21:41",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Compare Internet & nbn Plans & Deals - Origin Energy",
+            "note": "originenergy.com.au"
+          },
+          {
+            "start": "21:42",
+            "end": "21:49",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Compare Internet & nbn Plans & Deals - Origin Energy",
+            "note": "originenergy.com.au"
+          },
+          {
+            "start": "21:57",
+            "end": "22:44",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Search results - ada.ren.cn@gmail.com - Gmail",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "22:44",
+            "end": "22:50",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Unlimited Data SIM Only Mobile Plan – 50% off first 3/mths |",
+            "note": "felixmobile.com.au"
           }
         ],
-        "logged": 37,
-        "real": 6,
-        "deep": 6,
-        "ratio": 0.16385801088950158,
+        "logged": 382,
+        "real": 65,
+        "deep": 65,
+        "ratio": 0.16915344781542194,
         "stats": {
-          "contextSwitches": 2,
-          "tabsOpened": 12,
-          "longestFocus": "6m",
-          "justOneMoreThing": 0
+          "contextSwitches": 20,
+          "tabsOpened": 0,
+          "longestFocus": "57m",
+          "justOneMoreThing": 1
         }
       },
       {
@@ -95813,16 +96205,25 @@
         "weekend": false,
         "dateShort": "Wed, Oct 21",
         "dateLong": "Wednesday, October 21",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
+        "dayStart": "10:06",
+        "dayEnd": "10:26",
+        "events": [
+          {
+            "start": "10:06",
+            "end": "10:26",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Mobile Plans Better for you and the Planet | felix mobile",
+            "note": "google.com"
+          }
+        ],
+        "logged": 20,
         "real": 0,
         "deep": 0,
-        "ratio": 0,
+        "ratio": 0.0,
         "stats": {
           "contextSwitches": 0,
-          "tabsOpened": 0,
+          "tabsOpened": 3,
           "longestFocus": "0m",
           "justOneMoreThing": 0
         }
@@ -103956,322 +104357,322 @@
       "weekend": true
     },
     {
-      "key": "2026-10-19",
-      "dayNum": 19,
-      "dow": 1,
-      "weekend": false,
-      "dateShort": "Mon, Oct 19",
       "dateLong": "Monday, October 19",
-      "dayStart": "09:58",
+      "dateShort": "Mon, Oct 19",
       "dayEnd": "17:41",
+      "dayNum": 19,
+      "dayStart": "09:58",
+      "deep": 33,
+      "dow": 1,
       "events": [
         {
-          "start": "09:58",
+          "cat": "admin",
           "end": "10:01",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "09:58",
+          "title": "Outlook"
         },
         {
-          "start": "10:01",
+          "cat": "meeting",
           "end": "10:13",
-          "cat": "meeting",
+          "note": "com.microsoft.teams2",
           "src": "macos",
-          "title": "teams2",
-          "note": "com.microsoft.teams2"
+          "start": "10:01",
+          "title": "teams2"
         },
         {
-          "start": "10:13",
+          "cat": "admin",
           "end": "10:16",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "My home | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "10:13",
+          "title": "My home | iLearn"
         },
         {
-          "start": "10:17",
+          "cat": "admin",
           "end": "10:20",
-          "cat": "admin",
+          "note": "content.ilearn.mq.edu.au",
           "src": "macos",
-          "title": "exam-cheatsheet.pdf",
-          "note": "content.ilearn.mq.edu.au"
+          "start": "10:17",
+          "title": "exam-cheatsheet.pdf"
         },
         {
-          "start": "10:21",
+          "cat": "admin",
           "end": "10:23",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Week 11 Lecture Data ",
-          "note": "ilearn.mq.edu.au"
+          "start": "10:21",
+          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Week 11 Lecture Data "
         },
         {
-          "start": "10:23",
+          "cat": "admin",
           "end": "10:25",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Practice Final Exam |",
-          "note": "ilearn.mq.edu.au"
+          "start": "10:23",
+          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Practice Final Exam |"
         },
         {
-          "start": "11:01",
+          "cat": "admin",
           "end": "11:03",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "11:01",
+          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn"
         },
         {
-          "start": "11:04",
+          "cat": "admin",
           "end": "11:05",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Question 6 | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "11:04",
+          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Question 6 | iLearn"
         },
         {
-          "start": "11:06",
+          "cat": "admin",
           "end": "11:21",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Announcements | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "11:06",
+          "title": "Announcements | iLearn"
         },
         {
-          "start": "11:21",
+          "cat": "meeting",
           "end": "11:27",
-          "cat": "meeting",
+          "note": "com.microsoft.teams2",
           "src": "macos",
-          "title": "teams2",
-          "note": "com.microsoft.teams2"
+          "start": "11:21",
+          "title": "teams2"
         },
         {
-          "start": "11:27",
+          "cat": "admin",
           "end": "11:36",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Announcements | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "11:27",
+          "title": "Announcements | iLearn"
         },
         {
-          "start": "11:40",
+          "cat": "admin",
           "end": "11:44",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Announcements | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "11:40",
+          "title": "Announcements | iLearn"
         },
         {
-          "start": "11:44",
+          "cat": "admin",
           "end": "11:50",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "macos",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "11:44",
+          "title": "Google Translate"
         },
         {
-          "start": "11:54",
+          "cat": "admin",
           "end": "12:00",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "graph nodes and edges - Google Search",
-          "note": "google.com"
+          "start": "11:54",
+          "title": "graph nodes and edges - Google Search"
         },
         {
-          "start": "12:16",
+          "cat": "admin",
           "end": "12:24",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "graph nodes and edges - Google Search",
-          "note": "google.com"
+          "start": "12:16",
+          "title": "graph nodes and edges - Google Search"
         },
         {
-          "start": "12:26",
+          "cat": "admin",
           "end": "12:51",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "graph nodes and edges - Google Search",
-          "note": "google.com"
+          "start": "12:26",
+          "title": "graph nodes and edges - Google Search"
         },
         {
-          "start": "12:55",
+          "cat": "admin",
           "end": "12:59",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Week 11 Practical Quiz (page 2 of 2) | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "12:55",
+          "title": "Week 11 Practical Quiz (page 2 of 2) | iLearn"
         },
         {
-          "start": "13:16",
-          "end": "13:26",
           "cat": "meeting",
+          "end": "13:26",
+          "note": "us.zoom.xos",
           "src": "macos",
-          "title": "xos",
-          "note": "us.zoom.xos"
+          "start": "13:16",
+          "title": "xos"
         },
         {
-          "start": "13:26",
-          "end": "13:29",
           "cat": "writing",
+          "end": "13:29",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Progress Updates - Google Sheets",
-          "note": "docs.google.com"
+          "start": "13:26",
+          "title": "Progress Updates - Google Sheets"
         },
         {
-          "start": "14:09",
-          "end": "14:11",
           "cat": "research",
+          "end": "14:11",
+          "note": "aclrollingreview.org",
           "src": "macos",
-          "title": "Dates and Venues – ACL Rolling Review",
-          "note": "aclrollingreview.org"
+          "start": "14:09",
+          "title": "Dates and Venues – ACL Rolling Review"
         },
         {
-          "start": "16:28",
+          "cat": "admin",
           "end": "16:36",
-          "cat": "admin",
+          "note": "sport.mq.edu.au",
           "src": "macos",
-          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
-          "note": "sport.mq.edu.au"
+          "start": "16:28",
+          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni"
         },
         {
-          "start": "16:36",
+          "cat": "admin",
           "end": "16:42",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "us visa renewal australia - Google Search",
-          "note": "google.com"
+          "start": "16:36",
+          "title": "us visa renewal australia - Google Search"
         },
         {
-          "start": "16:45",
+          "cat": "admin",
           "end": "16:49",
-          "cat": "admin",
+          "note": "mail.google.com",
           "src": "macos",
-          "title": "Inbox (3,258) - ada.ren.cn@gmail.com - Gmail",
-          "note": "mail.google.com"
+          "start": "16:45",
+          "title": "Inbox (3,258) - ada.ren.cn@gmail.com - Gmail"
         },
         {
-          "start": "16:52",
+          "cat": "admin",
           "end": "16:55",
-          "cat": "admin",
+          "note": "forms.zohopublic.eu",
           "src": "macos",
-          "title": "Services offered",
-          "note": "forms.zohopublic.eu"
+          "start": "16:52",
+          "title": "Services offered"
         },
         {
-          "start": "16:55",
+          "cat": "admin",
           "end": "16:57",
-          "cat": "admin",
+          "note": "prenotami.esteri.it",
           "src": "macos",
-          "title": "Booking Prenot@mi",
-          "note": "prenotami.esteri.it"
+          "start": "16:55",
+          "title": "Booking Prenot@mi"
         },
         {
-          "start": "16:59",
+          "cat": "admin",
           "end": "17:02",
-          "cat": "admin",
+          "note": "mail.google.com",
           "src": "macos",
-          "title": "Request for Earlier Schengen Visa Appointment - ada.ren.cn@g",
-          "note": "mail.google.com"
+          "start": "16:59",
+          "title": "Request for Earlier Schengen Visa Appointment - ada.ren.cn@g"
         },
         {
-          "start": "17:03",
+          "cat": "admin",
           "end": "17:04",
-          "cat": "admin",
+          "note": "prenotami.esteri.it",
           "src": "macos",
-          "title": "Index Prenot@mi",
-          "note": "prenotami.esteri.it"
+          "start": "17:03",
+          "title": "Index Prenot@mi"
         },
         {
-          "start": "17:04",
+          "cat": "admin",
           "end": "17:06",
-          "cat": "admin",
+          "note": "wd3.myworkday.com",
           "src": "macos",
-          "title": "Home - Workday",
-          "note": "wd3.myworkday.com"
+          "start": "17:04",
+          "title": "Home - Workday"
         },
         {
-          "start": "17:07",
+          "cat": "admin",
           "end": "17:08",
-          "cat": "admin",
+          "note": "wd3.myworkday.com",
           "src": "macos",
-          "title": "Enter Time - Workday",
-          "note": "wd3.myworkday.com"
+          "start": "17:07",
+          "title": "Enter Time - Workday"
         },
         {
-          "start": "17:08",
+          "cat": "admin",
           "end": "17:11",
-          "cat": "admin",
+          "note": "wd3.myworkday.com",
           "src": "macos",
-          "title": "Enter Time - Workday",
-          "note": "wd3.myworkday.com"
+          "start": "17:08",
+          "title": "Enter Time - Workday"
         },
         {
-          "start": "17:11",
+          "cat": "admin",
           "end": "17:12",
-          "cat": "admin",
+          "note": "wd3.myworkday.com",
           "src": "macos",
-          "title": "Enter Time - Workday",
-          "note": "wd3.myworkday.com"
+          "start": "17:11",
+          "title": "Enter Time - Workday"
         },
         {
-          "start": "17:12",
+          "cat": "admin",
           "end": "17:14",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "macos",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "17:12",
+          "title": "Google Translate"
         },
         {
-          "start": "17:15",
+          "cat": "admin",
           "end": "17:17",
-          "cat": "admin",
+          "note": "wd3.myworkday.com",
           "src": "macos",
-          "title": "Enter Time - Workday",
-          "note": "wd3.myworkday.com"
+          "start": "17:15",
+          "title": "Enter Time - Workday"
         },
         {
-          "start": "17:17",
+          "cat": "admin",
           "end": "17:19",
-          "cat": "admin",
+          "note": "mail.google.com",
           "src": "macos",
-          "title": "Inbox (3,258) - ada.ren.cn@gmail.com - Gmail",
-          "note": "mail.google.com"
+          "start": "17:17",
+          "title": "Inbox (3,258) - ada.ren.cn@gmail.com - Gmail"
         },
         {
-          "start": "17:21",
+          "cat": "admin",
           "end": "17:24",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "17:21",
+          "title": "Outlook"
         },
         {
-          "start": "17:27",
+          "cat": "admin",
           "end": "17:35",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "17:27",
+          "title": "Outlook"
         },
         {
-          "start": "17:35",
-          "end": "17:41",
           "cat": "admin",
+          "end": "17:41",
+          "note": "google.com",
           "src": "macos",
-          "title": "nobel prize usyd - Google Search",
-          "note": "google.com"
+          "start": "17:35",
+          "title": "nobel prize usyd - Google Search"
         }
       ],
+      "key": "2026-10-19",
       "logged": 178,
-      "real": 33,
-      "deep": 33,
       "ratio": 0.18342069887317458,
+      "real": 33,
       "stats": {
         "contextSwitches": 8,
-        "tabsOpened": 0,
+        "justOneMoreThing": 0,
         "longestFocus": "15m",
-        "justOneMoreThing": 0
-      }
+        "tabsOpened": 0
+      },
+      "weekend": false
     },
     {
       "key": "2026-10-20",
@@ -104280,51 +104681,443 @@
       "weekend": false,
       "dateShort": "Tue, Oct 20",
       "dateLong": "Tuesday, October 20",
-      "dayStart": "10:02",
-      "dayEnd": "10:39",
+      "dayStart": "10:04",
+      "dayEnd": "22:50",
       "events": [
         {
-          "start": "10:02",
-          "end": "10:18",
+          "start": "10:04",
+          "end": "10:10",
           "cat": "admin",
-          "src": "chrome",
-          "title": "Embassy/Consulate Prenot@mi",
+          "src": "macos",
+          "title": "Index Prenot@mi",
           "note": "prenotami.esteri.it"
+        },
+        {
+          "start": "10:12",
+          "end": "10:18",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Choose your room",
+          "note": "radissonhotels.com"
         },
         {
           "start": "10:18",
-          "end": "10:32",
+          "end": "10:19",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Claude",
+          "note": "claude.ai"
+        },
+        {
+          "start": "10:19",
+          "end": "10:20",
           "cat": "admin",
-          "src": "chrome",
-          "title": "Embassy/Consulate Prenot@mi",
-          "note": "prenotami.esteri.it"
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "10:20",
+          "end": "10:22",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Technology (ICT) - How to view my closed tickets",
+          "note": "mq.service-now.com"
+        },
+        {
+          "start": "10:22",
+          "end": "10:31",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
         },
         {
           "start": "10:32",
-          "end": "10:38",
-          "cat": "research",
-          "src": "chrome",
-          "title": "Claude",
-          "note": "claude.com"
+          "end": "10:33",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Fees & charges | Macquarie University Sport & Aquatic Centre",
+          "note": "sport.mq.edu.au"
         },
         {
-          "start": "10:38",
-          "end": "10:39",
+          "start": "10:33",
+          "end": "10:34",
           "cat": "admin",
-          "src": "chrome",
-          "title": "Employee Center Homepage - Employee",
-          "note": "onehelp.mq.edu.au"
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "10:34",
+          "end": "10:37",
+          "cat": "admin",
+          "src": "macos",
+          "title": "My Tickets - Employee",
+          "note": "mq.service-now.com"
+        },
+        {
+          "start": "10:37",
+          "end": "10:45",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(43) CMU AI Agents 2026: 7. Computer Use Agents - YouTube",
+          "note": "youtube.com"
+        },
+        {
+          "start": "10:46",
+          "end": "10:47",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "10:48",
+          "end": "10:53",
+          "cat": "personal",
+          "src": "macos",
+          "title": "CMU AI Agents 2026: 9. Reinforcement Learning Basics - YouTu",
+          "note": "youtube.com"
+        },
+        {
+          "start": "10:53",
+          "end": "11:08",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google",
+          "note": "google.com"
+        },
+        {
+          "start": "11:09",
+          "end": "11:13",
+          "cat": "research",
+          "src": "macos",
+          "title": "Radisson Hotel Group brings hotel discovery into ChatGPT | O",
+          "note": "openai.com"
+        },
+        {
+          "start": "11:14",
+          "end": "11:32",
+          "cat": "writing",
+          "src": "macos",
+          "title": "obsidian",
+          "note": "md.obsidian"
+        },
+        {
+          "start": "11:38",
+          "end": "12:11",
+          "cat": "research",
+          "src": "macos",
+          "title": "Radisson Hotel Group brings hotel discovery into ChatGPT | O",
+          "note": "openai.com"
+        },
+        {
+          "start": "12:12",
+          "end": "12:14",
+          "cat": "coding",
+          "src": "macos",
+          "title": "danyuchn/asd-ste100-skill: ASD-STE100 Simplified Technical E",
+          "note": "github.com"
+        },
+        {
+          "start": "13:24",
+          "end": "13:56",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Daily papers of 19 Oct 2026 - ada.ren.cn@gmail.com - Gmail",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "13:59",
+          "end": "14:00",
+          "cat": "admin",
+          "src": "macos",
+          "title": "europe travel insurance - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "14:01",
+          "end": "14:11",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Prenotami - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "14:13",
+          "end": "14:26",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Pack Cover-More travel insurance and worry less",
+          "note": "covermore.com.au"
+        },
+        {
+          "start": "14:27",
+          "end": "14:38",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Login",
+          "note": "iam.esteri.it"
+        },
+        {
+          "start": "14:43",
+          "end": "14:45",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Booking Prenot@mi",
+          "note": "prenotami.esteri.it"
+        },
+        {
+          "start": "14:45",
+          "end": "14:47",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Booking Prenot@mi",
+          "note": "prenotami.esteri.it"
+        },
+        {
+          "start": "14:50",
+          "end": "15:00",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Booking Prenot@mi",
+          "note": "prenotami.esteri.it"
+        },
+        {
+          "start": "15:08",
+          "end": "15:09",
+          "cat": "admin",
+          "src": "macos",
+          "title": "wd3-media.myworkdaycdn.com",
+          "note": "wd3-media.myworkdaycdn.com"
+        },
+        {
+          "start": "15:14",
+          "end": "15:17",
+          "cat": "writing",
+          "src": "macos",
+          "title": "europe-trip-itinerary-v2 - Google Sheets",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "15:17",
+          "end": "15:19",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "15:19",
+          "end": "15:20",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Find a project or group | MyNCI",
+          "note": "my.nci.org.au"
+        },
+        {
+          "start": "15:21",
+          "end": "15:28",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "15:29",
+          "end": "15:30",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Research Compute & Storage Allocation Request - Employee",
+          "note": "mq.service-now.com"
+        },
+        {
+          "start": "15:33",
+          "end": "15:42",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Home | MyNCI",
+          "note": "my.nci.org.au"
+        },
+        {
+          "start": "15:42",
+          "end": "15:46",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "15:47",
+          "end": "15:49",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Propose a project: step 3 of 8 | MyNCI",
+          "note": "my.nci.org.au"
+        },
+        {
+          "start": "15:50",
+          "end": "15:58",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Propose a project: step 7 of 10 | MyNCI",
+          "note": "my.nci.org.au"
+        },
+        {
+          "start": "15:59",
+          "end": "16:00",
+          "cat": "admin",
+          "src": "macos",
+          "title": "My Profile - Employee",
+          "note": "mq.service-now.com"
+        },
+        {
+          "start": "16:01",
+          "end": "16:02",
+          "cat": "admin",
+          "src": "macos",
+          "title": "My Profile - Employee",
+          "note": "mq.service-now.com"
+        },
+        {
+          "start": "16:04",
+          "end": "16:08",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Booking Prenot@mi",
+          "note": "prenotami.esteri.it"
+        },
+        {
+          "start": "16:12",
+          "end": "16:17",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Booking Prenot@mi",
+          "note": "prenotami.esteri.it"
+        },
+        {
+          "start": "16:18",
+          "end": "16:23",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Parcel Locker Registration Reminder - ada.ren.cn@gmail.com -",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "16:23",
+          "end": "16:38",
+          "cat": "personal",
+          "src": "macos",
+          "title": "CMU AI Agents 2026: 9. Reinforcement Learning Basics - YouTu",
+          "note": "youtube.com"
+        },
+        {
+          "start": "16:41",
+          "end": "16:44",
+          "cat": "personal",
+          "src": "macos",
+          "title": "CMU AI Agents 2026: 9. Reinforcement Learning Basics - YouTu",
+          "note": "youtube.com"
+        },
+        {
+          "start": "16:45",
+          "end": "16:47",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Booking.com: 确认",
+          "note": "secure.booking.com"
+        },
+        {
+          "start": "16:47",
+          "end": "16:48",
+          "cat": "writing",
+          "src": "macos",
+          "title": "train - Google Drive",
+          "note": "drive.google.com"
+        },
+        {
+          "start": "16:51",
+          "end": "16:58",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Research Compute & Storage Allocation Request - Employee",
+          "note": "mq.service-now.com"
+        },
+        {
+          "start": "16:59",
+          "end": "17:02",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Ethical Review Manager",
+          "note": "file:///Users/ada/Documents/MQ/Phd/GADI/"
+        },
+        {
+          "start": "17:02",
+          "end": "17:10",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "20:57",
+          "end": "21:21",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Anita's Theatre | On Sale Now - ada.ren.cn@gmail.com - Gmail",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "21:25",
+          "end": "21:30",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Anita's Theatre | On Sale Now - ada.ren.cn@gmail.com - Gmail",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "21:38",
+          "end": "21:41",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Compare Internet & nbn Plans & Deals - Origin Energy",
+          "note": "originenergy.com.au"
+        },
+        {
+          "start": "21:42",
+          "end": "21:49",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Compare Internet & nbn Plans & Deals - Origin Energy",
+          "note": "originenergy.com.au"
+        },
+        {
+          "start": "21:57",
+          "end": "22:44",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Search results - ada.ren.cn@gmail.com - Gmail",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "22:44",
+          "end": "22:50",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Unlimited Data SIM Only Mobile Plan – 50% off first 3/mths |",
+          "note": "felixmobile.com.au"
         }
       ],
-      "logged": 37,
-      "real": 6,
-      "deep": 6,
-      "ratio": 0.16385801088950158,
+      "logged": 382,
+      "real": 65,
+      "deep": 65,
+      "ratio": 0.16915344781542194,
       "stats": {
-        "contextSwitches": 2,
-        "tabsOpened": 12,
-        "longestFocus": "6m",
-        "justOneMoreThing": 0
+        "contextSwitches": 20,
+        "tabsOpened": 0,
+        "longestFocus": "57m",
+        "justOneMoreThing": 1
       }
     },
     {
@@ -104334,16 +105127,25 @@
       "weekend": false,
       "dateShort": "Wed, Oct 21",
       "dateLong": "Wednesday, October 21",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
+      "dayStart": "10:06",
+      "dayEnd": "10:26",
+      "events": [
+        {
+          "start": "10:06",
+          "end": "10:26",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Mobile Plans Better for you and the Planet | felix mobile",
+          "note": "google.com"
+        }
+      ],
+      "logged": 20,
       "real": 0,
       "deep": 0,
-      "ratio": 0,
+      "ratio": 0.0,
       "stats": {
         "contextSwitches": 0,
-        "tabsOpened": 0,
+        "tabsOpened": 3,
         "longestFocus": "0m",
         "justOneMoreThing": 0
       }
