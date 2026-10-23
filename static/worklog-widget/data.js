@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-10-23T10:20:16+11:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-10-24T10:40:37+11:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -96669,330 +96669,330 @@
         "weekend": false
       },
       {
-        "key": "2026-10-22",
-        "dayNum": 22,
-        "dow": 4,
-        "weekend": false,
-        "dateShort": "Thu, Oct 22",
         "dateLong": "Thursday, October 22",
-        "dayStart": "09:01",
+        "dateShort": "Thu, Oct 22",
         "dayEnd": "15:39",
+        "dayNum": 22,
+        "dayStart": "09:01",
+        "deep": 152,
+        "dow": 4,
         "events": [
           {
-            "start": "09:01",
+            "cat": "admin",
             "end": "09:03",
-            "cat": "admin",
+            "note": "prenotami.esteri.it",
             "src": "macos",
-            "title": "Booking Prenot@mi",
-            "note": "prenotami.esteri.it"
+            "start": "09:01",
+            "title": "Booking Prenot@mi"
           },
           {
-            "start": "09:03",
+            "cat": "admin",
             "end": "09:05",
-            "cat": "admin",
+            "note": "prenotami.esteri.it",
             "src": "macos",
-            "title": "Booking Prenot@mi",
-            "note": "prenotami.esteri.it"
+            "start": "09:03",
+            "title": "Booking Prenot@mi"
           },
           {
-            "start": "09:05",
+            "cat": "admin",
             "end": "09:07",
-            "cat": "admin",
+            "note": "prenotami.esteri.it",
             "src": "macos",
-            "title": "Booking Prenot@mi",
-            "note": "prenotami.esteri.it"
+            "start": "09:05",
+            "title": "Booking Prenot@mi"
           },
           {
-            "start": "09:08",
+            "cat": "admin",
             "end": "09:13",
-            "cat": "admin",
+            "note": "prenotami.esteri.it",
             "src": "macos",
-            "title": "Booking Prenot@mi",
-            "note": "prenotami.esteri.it"
+            "start": "09:08",
+            "title": "Booking Prenot@mi"
           },
           {
-            "start": "09:18",
+            "cat": "admin",
             "end": "09:19",
-            "cat": "admin",
+            "note": "mail.google.com",
             "src": "macos",
-            "title": "**** **** 9104 to MERITON PROPERTY SERVICES PTY LTD - ada.re",
-            "note": "mail.google.com"
+            "start": "09:18",
+            "title": "**** **** 9104 to MERITON PROPERTY SERVICES PTY LTD - ada.re"
           },
           {
-            "start": "09:21",
+            "cat": "admin",
             "end": "09:26",
-            "cat": "admin",
+            "note": "mail.google.com",
             "src": "macos",
-            "title": "Inbox (3,269) - ada.ren.cn@gmail.com - Gmail",
-            "note": "mail.google.com"
+            "start": "09:21",
+            "title": "Inbox (3,269) - ada.ren.cn@gmail.com - Gmail"
           },
           {
-            "start": "09:34",
+            "cat": "admin",
             "end": "09:40",
-            "cat": "admin",
+            "note": "mail.google.com",
             "src": "macos",
-            "title": "Your ultimate live line-up is here, Ada! - ada.ren.cn@gmail.",
-            "note": "mail.google.com"
+            "start": "09:34",
+            "title": "Your ultimate live line-up is here, Ada! - ada.ren.cn@gmail."
           },
           {
-            "start": "09:45",
+            "cat": "admin",
             "end": "09:59",
-            "cat": "admin",
+            "note": "sport.mq.edu.au",
             "src": "macos",
-            "title": "Memberships | Pool, gym & health club | Macquarie University",
-            "note": "sport.mq.edu.au"
+            "start": "09:45",
+            "title": "Memberships | Pool, gym & health club | Macquarie University"
           },
           {
-            "start": "10:09",
+            "cat": "personal",
             "end": "10:11",
-            "cat": "personal",
+            "note": "binglee.com.au",
             "src": "macos",
-            "title": "TVs - Shop Smart TVs, OLED, QLED, 4k TVs & more - Bing Lee",
-            "note": "binglee.com.au"
+            "start": "10:09",
+            "title": "TVs - Shop Smart TVs, OLED, QLED, 4k TVs & more - Bing Lee"
           },
           {
-            "start": "10:11",
+            "cat": "personal",
             "end": "10:18",
-            "cat": "personal",
+            "note": "binglee.com.au",
             "src": "macos",
-            "title": "Hisense 55″ Hi-QLED Q6SAU 4K Smart TV (2026) - Bing Lee",
-            "note": "binglee.com.au"
+            "start": "10:11",
+            "title": "Hisense 55″ Hi-QLED Q6SAU 4K Smart TV (2026) - Bing Lee"
           },
           {
-            "start": "10:18",
+            "cat": "research",
             "end": "10:30",
-            "cat": "research",
+            "note": "scholar.google.com",
             "src": "macos",
-            "title": "‪Akari Asai‬ - ‪Google Scholar‬",
-            "note": "scholar.google.com"
+            "start": "10:18",
+            "title": "‪Akari Asai‬ - ‪Google Scholar‬"
           },
           {
-            "start": "10:47",
+            "cat": "admin",
             "end": "10:56",
-            "cat": "admin",
+            "note": "sport.mq.edu.au",
             "src": "macos",
-            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
-            "note": "sport.mq.edu.au"
+            "start": "10:47",
+            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni"
           },
           {
-            "start": "10:57",
+            "cat": "coding",
             "end": "10:58",
-            "cat": "coding",
+            "note": "github.com",
             "src": "macos",
-            "title": "GitHub - Alibaba-NLP/DeepResearch: Tongyi Deep Research, the",
-            "note": "github.com"
+            "start": "10:57",
+            "title": "GitHub - Alibaba-NLP/DeepResearch: Tongyi Deep Research, the"
           },
           {
-            "start": "10:58",
+            "cat": "admin",
             "end": "11:00",
-            "cat": "admin",
+            "note": "com.tinyspeck.slackmacgap",
             "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "start": "10:58",
+            "title": "slackmacgap"
           },
           {
-            "start": "11:00",
+            "cat": "research",
             "end": "11:12",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "11:00",
+            "title": "zotero"
           },
           {
-            "start": "11:14",
+            "cat": "admin",
             "end": "11:24",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "11:14",
+            "title": "Outlook"
           },
           {
-            "start": "11:24",
+            "cat": "research",
             "end": "11:30",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "11:24",
+            "title": "zotero"
           },
           {
-            "start": "11:30",
+            "cat": "research",
             "end": "11:31",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "11:30",
+            "title": "zotero"
           },
           {
-            "start": "11:31",
+            "cat": "admin",
             "end": "11:32",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "macos",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "11:31",
+            "title": "Google Translate"
           },
           {
-            "start": "11:52",
-            "end": "11:53",
             "cat": "personal",
+            "end": "11:53",
+            "note": "youtube.com",
             "src": "macos",
-            "title": "(2) AI \"psychology,\" with Jack Lindsey - YouTube",
-            "note": "youtube.com"
+            "start": "11:52",
+            "title": "(2) AI \"psychology,\" with Jack Lindsey - YouTube"
           },
           {
-            "start": "11:54",
+            "cat": "research",
             "end": "12:08",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "11:54",
+            "title": "zotero"
           },
           {
-            "start": "13:15",
+            "cat": "research",
             "end": "13:16",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "13:15",
+            "title": "zotero"
           },
           {
-            "start": "13:18",
+            "cat": "research",
             "end": "13:20",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "Focused Omni-Modal GUI Agents",
-            "note": "arxiv.org"
+            "start": "13:18",
+            "title": "Focused Omni-Modal GUI Agents"
           },
           {
-            "start": "13:23",
+            "cat": "admin",
             "end": "13:26",
-            "cat": "admin",
+            "note": "sport.mq.edu.au",
             "src": "macos",
-            "title": "Memberships | Pool, gym & health club | Macquarie University",
-            "note": "sport.mq.edu.au"
+            "start": "13:23",
+            "title": "Memberships | Pool, gym & health club | Macquarie University"
           },
           {
-            "start": "13:30",
+            "cat": "admin",
             "end": "13:33",
-            "cat": "admin",
+            "note": "sport.mq.edu.au",
             "src": "macos",
-            "title": "Memberships | Pool, gym & health club | Macquarie University",
-            "note": "sport.mq.edu.au"
+            "start": "13:30",
+            "title": "Memberships | Pool, gym & health club | Macquarie University"
           },
           {
-            "start": "13:35",
+            "cat": "research",
             "end": "13:44",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "13:35",
+            "title": "zotero"
           },
           {
-            "start": "13:44",
+            "cat": "coding",
             "end": "13:45",
-            "cat": "coding",
+            "note": "lenz.io",
             "src": "macos",
-            "title": "Fact-Checking API — Verify AI & Human-Written Documents | Le",
-            "note": "lenz.io"
+            "start": "13:44",
+            "title": "Fact-Checking API — Verify AI & Human-Written Documents | Le"
           },
           {
-            "start": "13:45",
+            "cat": "research",
             "end": "13:47",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "13:45",
+            "title": "zotero"
           },
           {
-            "start": "13:47",
+            "cat": "coding",
             "end": "13:48",
-            "cat": "coding",
+            "note": "lenz.io",
             "src": "macos",
-            "title": "Fact-Checking API — Verify AI & Human-Written Documents | Le",
-            "note": "lenz.io"
+            "start": "13:47",
+            "title": "Fact-Checking API — Verify AI & Human-Written Documents | Le"
           },
           {
-            "start": "13:48",
+            "cat": "admin",
             "end": "13:49",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "13:48",
+            "title": "Outlook"
           },
           {
-            "start": "13:50",
+            "cat": "research",
             "end": "13:51",
-            "cat": "research",
+            "note": "chatgpt.com",
             "src": "macos",
-            "title": "ChatGPT",
-            "note": "chatgpt.com"
+            "start": "13:50",
+            "title": "ChatGPT"
           },
           {
-            "start": "13:51",
+            "cat": "research",
             "end": "14:12",
-            "cat": "research",
+            "note": "chatgpt.com",
             "src": "macos",
-            "title": "Mechanistic interpretability glossary",
-            "note": "chatgpt.com"
+            "start": "13:51",
+            "title": "Mechanistic interpretability glossary"
           },
           {
-            "start": "14:12",
-            "end": "14:16",
             "cat": "coding",
+            "end": "14:16",
+            "note": "anthropic.com",
             "src": "macos",
-            "title": "Decomposing language models into components \\ Anthropic",
-            "note": "anthropic.com"
+            "start": "14:12",
+            "title": "Decomposing language models into components \\ Anthropic"
           },
           {
-            "start": "14:16",
+            "cat": "research",
             "end": "14:23",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "14:16",
+            "title": "zotero"
           },
           {
-            "start": "14:26",
+            "cat": "research",
             "end": "14:46",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "14:26",
+            "title": "zotero"
           },
           {
-            "start": "14:46",
-            "end": "15:03",
             "cat": "admin",
+            "end": "15:03",
+            "note": "google.com",
             "src": "macos",
-            "title": "From Neurons to Agents: A Survey of Automated Interpretabili",
-            "note": "google.com"
+            "start": "14:46",
+            "title": "From Neurons to Agents: A Survey of Automated Interpretabili"
           },
           {
-            "start": "15:03",
+            "cat": "research",
             "end": "15:10",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "15:03",
+            "title": "zotero"
           },
           {
-            "start": "15:10",
-            "end": "15:39",
             "cat": "research",
+            "end": "15:39",
+            "note": "chatgpt.com",
             "src": "macos",
-            "title": "解释字典变化原因",
-            "note": "chatgpt.com"
+            "start": "15:10",
+            "title": "解释字典变化原因"
           }
         ],
+        "key": "2026-10-22",
         "logged": 241,
-        "real": 152,
-        "deep": 152,
         "ratio": 0.6303089320999028,
+        "real": 152,
         "stats": {
           "contextSwitches": 22,
-          "tabsOpened": 0,
+          "justOneMoreThing": 3,
           "longestFocus": "53m",
-          "justOneMoreThing": 3
-        }
+          "tabsOpened": 0
+        },
+        "weekend": false
       },
       {
         "key": "2026-10-23",
@@ -97001,35 +97001,387 @@
         "weekend": false,
         "dateShort": "Fri, Oct 23",
         "dateLong": "Friday, October 23",
-        "dayStart": "08:58",
-        "dayEnd": "10:28",
+        "dayStart": "08:59",
+        "dayEnd": "19:06",
         "events": [
           {
-            "start": "08:58",
-            "end": "09:25",
+            "start": "08:59",
+            "end": "09:00",
             "cat": "admin",
-            "src": "chrome",
-            "title": "Inbox (3,269) - ada.ren.cn@gmail.com - Gmail",
+            "src": "macos",
+            "title": "Inbox (3,272) - ada.ren.cn@gmail.com - Gmail",
             "note": "mail.google.com"
           },
           {
-            "start": "10:08",
-            "end": "10:28",
+            "start": "09:05",
+            "end": "09:10",
             "cat": "admin",
-            "src": "chrome",
-            "title": "Inbox (3,269) - ada.ren.cn@gmail.com - Gmail",
+            "src": "macos",
+            "title": "WaitingList Prenot@mi",
+            "note": "prenotami.esteri.it"
+          },
+          {
+            "start": "10:10",
+            "end": "10:13",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
+            "note": "sport.mq.edu.au"
+          },
+          {
+            "start": "10:18",
+            "end": "10:29",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
+            "note": "sport.mq.edu.au"
+          },
+          {
+            "start": "10:30",
+            "end": "10:31",
+            "cat": "coding",
+            "src": "macos",
+            "title": "assignment-1/ASSIGNMENT.md at main · cmu-agents/assignment-1",
+            "note": "github.com"
+          },
+          {
+            "start": "10:31",
+            "end": "10:39",
+            "cat": "coding",
+            "src": "macos",
+            "title": "assignment-1/src/assignment/agent/base.py at main · cmu-agen",
+            "note": "github.com"
+          },
+          {
+            "start": "10:52",
+            "end": "11:38",
+            "cat": "coding",
+            "src": "macos",
+            "title": "assignment-1/src/assignment/agent/base.py at main · cmu-agen",
+            "note": "github.com"
+          },
+          {
+            "start": "11:38",
+            "end": "11:58",
+            "cat": "research",
+            "src": "macos",
+            "title": "Where the goblins came from | OpenAI",
+            "note": "openai.com"
+          },
+          {
+            "start": "11:58",
+            "end": "12:11",
+            "cat": "personal",
+            "src": "macos",
+            "title": "CMU AI Agents 2026: 11. Advanced RL Algorithms - YouTube",
+            "note": "youtube.com"
+          },
+          {
+            "start": "12:12",
+            "end": "12:14",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Introducing Claude Dashboards and Claude Motion - YouTube",
+            "note": "youtube.com"
+          },
+          {
+            "start": "12:56",
+            "end": "13:07",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "13:07",
+            "end": "13:09",
+            "cat": "research",
+            "src": "macos",
+            "title": "ACL Rolling Review",
+            "note": "aclrollingreview.org"
+          },
+          {
+            "start": "13:09",
+            "end": "13:11",
+            "cat": "admin",
+            "src": "macos",
+            "title": "arr 2027 cycle - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "13:12",
+            "end": "13:15",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "13:26",
+            "end": "13:36",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Python Project: Attempt review | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "13:40",
+            "end": "13:49",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Python Project (page 4 of 7) | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "13:50",
+            "end": "13:54",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Editing a CodeRunner question | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "13:56",
+            "end": "13:59",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Python Project (page 4 of 7) | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "14:02",
+            "end": "14:04",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Preview question: LR | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "14:04",
+            "end": "14:06",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Editing a CodeRunner question | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "14:11",
+            "end": "14:14",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Python Project (page 4 of 7) | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "14:15",
+            "end": "14:16",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Untitled26.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "14:19",
+            "end": "14:20",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Editing a CodeRunner question | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "14:20",
+            "end": "14:21",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Untitled26.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "14:23",
+            "end": "14:24",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Preview question: Lr2 | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "14:24",
+            "end": "14:27",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "teams2",
+            "note": "com.microsoft.teams2"
+          },
+          {
+            "start": "14:31",
+            "end": "14:32",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "teams2",
+            "note": "com.microsoft.teams2"
+          },
+          {
+            "start": "14:32",
+            "end": "14:33",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Python Project (page 4 of 7) | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "14:33",
+            "end": "14:37",
+            "cat": "admin",
+            "src": "macos",
+            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Having an issue with ",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "14:48",
+            "end": "14:50",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Python Project: Attempt review | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "14:53",
+            "end": "15:04",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "15:06",
+            "end": "15:08",
+            "cat": "writing",
+            "src": "macos",
+            "title": "europe-trip-itinerary-v2 - Google Sheets",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "15:09",
+            "end": "15:18",
+            "cat": "admin",
+            "src": "macos",
+            "title": "2027 spring festival - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "15:18",
+            "end": "15:19",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Inbox (3,272) - ada.ren.cn@gmail.com - Gmail",
             "note": "mail.google.com"
+          },
+          {
+            "start": "15:19",
+            "end": "15:20",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "15:21",
+            "end": "15:26",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Recommender Systems: Evidence, Models, and Product Choices",
+            "note": "content.ilearn.mq.edu.au"
+          },
+          {
+            "start": "15:26",
+            "end": "15:29",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "15:32",
+            "end": "15:49",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "18:28",
+            "end": "18:30",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "18:30",
+            "end": "18:32",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "teams2",
+            "note": "com.microsoft.teams2"
+          },
+          {
+            "start": "18:32",
+            "end": "18:34",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "18:35",
+            "end": "18:36",
+            "cat": "coding",
+            "src": "macos",
+            "title": "ass2 verificaiton.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "18:39",
+            "end": "18:44",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "18:44",
+            "end": "18:45",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "18:46",
+            "end": "18:57",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Announcements | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "19:01",
+            "end": "19:06",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
           }
         ],
-        "logged": 47,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0.0,
+        "logged": 257,
+        "real": 88,
+        "deep": 88,
+        "ratio": 0.34293517106589516,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 6,
-          "longestFocus": "0m",
-          "justOneMoreThing": 0
+          "contextSwitches": 18,
+          "tabsOpened": 0,
+          "longestFocus": "1h 14m",
+          "justOneMoreThing": 3
         }
       },
       {
@@ -97039,16 +97391,25 @@
         "weekend": true,
         "dateShort": "Sat, Oct 24",
         "dateLong": "Saturday, October 24",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
+        "dayStart": "08:56",
+        "dayEnd": "09:17",
+        "events": [
+          {
+            "start": "08:56",
+            "end": "09:17",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "An error occurred while processing the request Prenot@mi",
+            "note": "iam.esteri.it"
+          }
+        ],
+        "logged": 21,
         "real": 0,
         "deep": 0,
-        "ratio": 0,
+        "ratio": 0.0,
         "stats": {
           "contextSwitches": 0,
-          "tabsOpened": 0,
+          "tabsOpened": 3,
           "longestFocus": "0m",
           "justOneMoreThing": 0
         }
@@ -106353,330 +106714,330 @@
       "weekend": false
     },
     {
-      "key": "2026-10-22",
-      "dayNum": 22,
-      "dow": 4,
-      "weekend": false,
-      "dateShort": "Thu, Oct 22",
       "dateLong": "Thursday, October 22",
-      "dayStart": "09:01",
+      "dateShort": "Thu, Oct 22",
       "dayEnd": "15:39",
+      "dayNum": 22,
+      "dayStart": "09:01",
+      "deep": 152,
+      "dow": 4,
       "events": [
         {
-          "start": "09:01",
+          "cat": "admin",
           "end": "09:03",
-          "cat": "admin",
+          "note": "prenotami.esteri.it",
           "src": "macos",
-          "title": "Booking Prenot@mi",
-          "note": "prenotami.esteri.it"
+          "start": "09:01",
+          "title": "Booking Prenot@mi"
         },
         {
-          "start": "09:03",
+          "cat": "admin",
           "end": "09:05",
-          "cat": "admin",
+          "note": "prenotami.esteri.it",
           "src": "macos",
-          "title": "Booking Prenot@mi",
-          "note": "prenotami.esteri.it"
+          "start": "09:03",
+          "title": "Booking Prenot@mi"
         },
         {
-          "start": "09:05",
+          "cat": "admin",
           "end": "09:07",
-          "cat": "admin",
+          "note": "prenotami.esteri.it",
           "src": "macos",
-          "title": "Booking Prenot@mi",
-          "note": "prenotami.esteri.it"
+          "start": "09:05",
+          "title": "Booking Prenot@mi"
         },
         {
-          "start": "09:08",
+          "cat": "admin",
           "end": "09:13",
-          "cat": "admin",
+          "note": "prenotami.esteri.it",
           "src": "macos",
-          "title": "Booking Prenot@mi",
-          "note": "prenotami.esteri.it"
+          "start": "09:08",
+          "title": "Booking Prenot@mi"
         },
         {
-          "start": "09:18",
+          "cat": "admin",
           "end": "09:19",
-          "cat": "admin",
+          "note": "mail.google.com",
           "src": "macos",
-          "title": "**** **** 9104 to MERITON PROPERTY SERVICES PTY LTD - ada.re",
-          "note": "mail.google.com"
+          "start": "09:18",
+          "title": "**** **** 9104 to MERITON PROPERTY SERVICES PTY LTD - ada.re"
         },
         {
-          "start": "09:21",
+          "cat": "admin",
           "end": "09:26",
-          "cat": "admin",
+          "note": "mail.google.com",
           "src": "macos",
-          "title": "Inbox (3,269) - ada.ren.cn@gmail.com - Gmail",
-          "note": "mail.google.com"
+          "start": "09:21",
+          "title": "Inbox (3,269) - ada.ren.cn@gmail.com - Gmail"
         },
         {
-          "start": "09:34",
+          "cat": "admin",
           "end": "09:40",
-          "cat": "admin",
+          "note": "mail.google.com",
           "src": "macos",
-          "title": "Your ultimate live line-up is here, Ada! - ada.ren.cn@gmail.",
-          "note": "mail.google.com"
+          "start": "09:34",
+          "title": "Your ultimate live line-up is here, Ada! - ada.ren.cn@gmail."
         },
         {
-          "start": "09:45",
+          "cat": "admin",
           "end": "09:59",
-          "cat": "admin",
+          "note": "sport.mq.edu.au",
           "src": "macos",
-          "title": "Memberships | Pool, gym & health club | Macquarie University",
-          "note": "sport.mq.edu.au"
+          "start": "09:45",
+          "title": "Memberships | Pool, gym & health club | Macquarie University"
         },
         {
-          "start": "10:09",
+          "cat": "personal",
           "end": "10:11",
-          "cat": "personal",
+          "note": "binglee.com.au",
           "src": "macos",
-          "title": "TVs - Shop Smart TVs, OLED, QLED, 4k TVs & more - Bing Lee",
-          "note": "binglee.com.au"
+          "start": "10:09",
+          "title": "TVs - Shop Smart TVs, OLED, QLED, 4k TVs & more - Bing Lee"
         },
         {
-          "start": "10:11",
+          "cat": "personal",
           "end": "10:18",
-          "cat": "personal",
+          "note": "binglee.com.au",
           "src": "macos",
-          "title": "Hisense 55″ Hi-QLED Q6SAU 4K Smart TV (2026) - Bing Lee",
-          "note": "binglee.com.au"
+          "start": "10:11",
+          "title": "Hisense 55″ Hi-QLED Q6SAU 4K Smart TV (2026) - Bing Lee"
         },
         {
-          "start": "10:18",
+          "cat": "research",
           "end": "10:30",
-          "cat": "research",
+          "note": "scholar.google.com",
           "src": "macos",
-          "title": "‪Akari Asai‬ - ‪Google Scholar‬",
-          "note": "scholar.google.com"
+          "start": "10:18",
+          "title": "‪Akari Asai‬ - ‪Google Scholar‬"
         },
         {
-          "start": "10:47",
+          "cat": "admin",
           "end": "10:56",
-          "cat": "admin",
+          "note": "sport.mq.edu.au",
           "src": "macos",
-          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
-          "note": "sport.mq.edu.au"
+          "start": "10:47",
+          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni"
         },
         {
-          "start": "10:57",
+          "cat": "coding",
           "end": "10:58",
-          "cat": "coding",
+          "note": "github.com",
           "src": "macos",
-          "title": "GitHub - Alibaba-NLP/DeepResearch: Tongyi Deep Research, the",
-          "note": "github.com"
+          "start": "10:57",
+          "title": "GitHub - Alibaba-NLP/DeepResearch: Tongyi Deep Research, the"
         },
         {
-          "start": "10:58",
+          "cat": "admin",
           "end": "11:00",
-          "cat": "admin",
+          "note": "com.tinyspeck.slackmacgap",
           "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "start": "10:58",
+          "title": "slackmacgap"
         },
         {
-          "start": "11:00",
+          "cat": "research",
           "end": "11:12",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "11:00",
+          "title": "zotero"
         },
         {
-          "start": "11:14",
+          "cat": "admin",
           "end": "11:24",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "11:14",
+          "title": "Outlook"
         },
         {
-          "start": "11:24",
+          "cat": "research",
           "end": "11:30",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "11:24",
+          "title": "zotero"
         },
         {
-          "start": "11:30",
+          "cat": "research",
           "end": "11:31",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "11:30",
+          "title": "zotero"
         },
         {
-          "start": "11:31",
+          "cat": "admin",
           "end": "11:32",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "macos",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "11:31",
+          "title": "Google Translate"
         },
         {
-          "start": "11:52",
-          "end": "11:53",
           "cat": "personal",
+          "end": "11:53",
+          "note": "youtube.com",
           "src": "macos",
-          "title": "(2) AI \"psychology,\" with Jack Lindsey - YouTube",
-          "note": "youtube.com"
+          "start": "11:52",
+          "title": "(2) AI \"psychology,\" with Jack Lindsey - YouTube"
         },
         {
-          "start": "11:54",
+          "cat": "research",
           "end": "12:08",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "11:54",
+          "title": "zotero"
         },
         {
-          "start": "13:15",
+          "cat": "research",
           "end": "13:16",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "13:15",
+          "title": "zotero"
         },
         {
-          "start": "13:18",
+          "cat": "research",
           "end": "13:20",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "Focused Omni-Modal GUI Agents",
-          "note": "arxiv.org"
+          "start": "13:18",
+          "title": "Focused Omni-Modal GUI Agents"
         },
         {
-          "start": "13:23",
+          "cat": "admin",
           "end": "13:26",
-          "cat": "admin",
+          "note": "sport.mq.edu.au",
           "src": "macos",
-          "title": "Memberships | Pool, gym & health club | Macquarie University",
-          "note": "sport.mq.edu.au"
+          "start": "13:23",
+          "title": "Memberships | Pool, gym & health club | Macquarie University"
         },
         {
-          "start": "13:30",
+          "cat": "admin",
           "end": "13:33",
-          "cat": "admin",
+          "note": "sport.mq.edu.au",
           "src": "macos",
-          "title": "Memberships | Pool, gym & health club | Macquarie University",
-          "note": "sport.mq.edu.au"
+          "start": "13:30",
+          "title": "Memberships | Pool, gym & health club | Macquarie University"
         },
         {
-          "start": "13:35",
+          "cat": "research",
           "end": "13:44",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "13:35",
+          "title": "zotero"
         },
         {
-          "start": "13:44",
+          "cat": "coding",
           "end": "13:45",
-          "cat": "coding",
+          "note": "lenz.io",
           "src": "macos",
-          "title": "Fact-Checking API — Verify AI & Human-Written Documents | Le",
-          "note": "lenz.io"
+          "start": "13:44",
+          "title": "Fact-Checking API — Verify AI & Human-Written Documents | Le"
         },
         {
-          "start": "13:45",
+          "cat": "research",
           "end": "13:47",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "13:45",
+          "title": "zotero"
         },
         {
-          "start": "13:47",
+          "cat": "coding",
           "end": "13:48",
-          "cat": "coding",
+          "note": "lenz.io",
           "src": "macos",
-          "title": "Fact-Checking API — Verify AI & Human-Written Documents | Le",
-          "note": "lenz.io"
+          "start": "13:47",
+          "title": "Fact-Checking API — Verify AI & Human-Written Documents | Le"
         },
         {
-          "start": "13:48",
+          "cat": "admin",
           "end": "13:49",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "13:48",
+          "title": "Outlook"
         },
         {
-          "start": "13:50",
+          "cat": "research",
           "end": "13:51",
-          "cat": "research",
+          "note": "chatgpt.com",
           "src": "macos",
-          "title": "ChatGPT",
-          "note": "chatgpt.com"
+          "start": "13:50",
+          "title": "ChatGPT"
         },
         {
-          "start": "13:51",
+          "cat": "research",
           "end": "14:12",
-          "cat": "research",
+          "note": "chatgpt.com",
           "src": "macos",
-          "title": "Mechanistic interpretability glossary",
-          "note": "chatgpt.com"
+          "start": "13:51",
+          "title": "Mechanistic interpretability glossary"
         },
         {
-          "start": "14:12",
-          "end": "14:16",
           "cat": "coding",
+          "end": "14:16",
+          "note": "anthropic.com",
           "src": "macos",
-          "title": "Decomposing language models into components \\ Anthropic",
-          "note": "anthropic.com"
+          "start": "14:12",
+          "title": "Decomposing language models into components \\ Anthropic"
         },
         {
-          "start": "14:16",
+          "cat": "research",
           "end": "14:23",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "14:16",
+          "title": "zotero"
         },
         {
-          "start": "14:26",
+          "cat": "research",
           "end": "14:46",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "14:26",
+          "title": "zotero"
         },
         {
-          "start": "14:46",
-          "end": "15:03",
           "cat": "admin",
+          "end": "15:03",
+          "note": "google.com",
           "src": "macos",
-          "title": "From Neurons to Agents: A Survey of Automated Interpretabili",
-          "note": "google.com"
+          "start": "14:46",
+          "title": "From Neurons to Agents: A Survey of Automated Interpretabili"
         },
         {
-          "start": "15:03",
+          "cat": "research",
           "end": "15:10",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "15:03",
+          "title": "zotero"
         },
         {
-          "start": "15:10",
-          "end": "15:39",
           "cat": "research",
+          "end": "15:39",
+          "note": "chatgpt.com",
           "src": "macos",
-          "title": "解释字典变化原因",
-          "note": "chatgpt.com"
+          "start": "15:10",
+          "title": "解释字典变化原因"
         }
       ],
+      "key": "2026-10-22",
       "logged": 241,
-      "real": 152,
-      "deep": 152,
       "ratio": 0.6303089320999028,
+      "real": 152,
       "stats": {
         "contextSwitches": 22,
-        "tabsOpened": 0,
+        "justOneMoreThing": 3,
         "longestFocus": "53m",
-        "justOneMoreThing": 3
-      }
+        "tabsOpened": 0
+      },
+      "weekend": false
     },
     {
       "key": "2026-10-23",
@@ -106685,35 +107046,387 @@
       "weekend": false,
       "dateShort": "Fri, Oct 23",
       "dateLong": "Friday, October 23",
-      "dayStart": "08:58",
-      "dayEnd": "10:28",
+      "dayStart": "08:59",
+      "dayEnd": "19:06",
       "events": [
         {
-          "start": "08:58",
-          "end": "09:25",
+          "start": "08:59",
+          "end": "09:00",
           "cat": "admin",
-          "src": "chrome",
-          "title": "Inbox (3,269) - ada.ren.cn@gmail.com - Gmail",
+          "src": "macos",
+          "title": "Inbox (3,272) - ada.ren.cn@gmail.com - Gmail",
           "note": "mail.google.com"
         },
         {
-          "start": "10:08",
-          "end": "10:28",
+          "start": "09:05",
+          "end": "09:10",
           "cat": "admin",
-          "src": "chrome",
-          "title": "Inbox (3,269) - ada.ren.cn@gmail.com - Gmail",
+          "src": "macos",
+          "title": "WaitingList Prenot@mi",
+          "note": "prenotami.esteri.it"
+        },
+        {
+          "start": "10:10",
+          "end": "10:13",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
+          "note": "sport.mq.edu.au"
+        },
+        {
+          "start": "10:18",
+          "end": "10:29",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
+          "note": "sport.mq.edu.au"
+        },
+        {
+          "start": "10:30",
+          "end": "10:31",
+          "cat": "coding",
+          "src": "macos",
+          "title": "assignment-1/ASSIGNMENT.md at main · cmu-agents/assignment-1",
+          "note": "github.com"
+        },
+        {
+          "start": "10:31",
+          "end": "10:39",
+          "cat": "coding",
+          "src": "macos",
+          "title": "assignment-1/src/assignment/agent/base.py at main · cmu-agen",
+          "note": "github.com"
+        },
+        {
+          "start": "10:52",
+          "end": "11:38",
+          "cat": "coding",
+          "src": "macos",
+          "title": "assignment-1/src/assignment/agent/base.py at main · cmu-agen",
+          "note": "github.com"
+        },
+        {
+          "start": "11:38",
+          "end": "11:58",
+          "cat": "research",
+          "src": "macos",
+          "title": "Where the goblins came from | OpenAI",
+          "note": "openai.com"
+        },
+        {
+          "start": "11:58",
+          "end": "12:11",
+          "cat": "personal",
+          "src": "macos",
+          "title": "CMU AI Agents 2026: 11. Advanced RL Algorithms - YouTube",
+          "note": "youtube.com"
+        },
+        {
+          "start": "12:12",
+          "end": "12:14",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Introducing Claude Dashboards and Claude Motion - YouTube",
+          "note": "youtube.com"
+        },
+        {
+          "start": "12:56",
+          "end": "13:07",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "13:07",
+          "end": "13:09",
+          "cat": "research",
+          "src": "macos",
+          "title": "ACL Rolling Review",
+          "note": "aclrollingreview.org"
+        },
+        {
+          "start": "13:09",
+          "end": "13:11",
+          "cat": "admin",
+          "src": "macos",
+          "title": "arr 2027 cycle - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "13:12",
+          "end": "13:15",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "13:26",
+          "end": "13:36",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Python Project: Attempt review | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "13:40",
+          "end": "13:49",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Python Project (page 4 of 7) | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "13:50",
+          "end": "13:54",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Editing a CodeRunner question | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "13:56",
+          "end": "13:59",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Python Project (page 4 of 7) | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "14:02",
+          "end": "14:04",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Preview question: LR | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "14:04",
+          "end": "14:06",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Editing a CodeRunner question | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "14:11",
+          "end": "14:14",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Python Project (page 4 of 7) | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "14:15",
+          "end": "14:16",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Untitled26.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "14:19",
+          "end": "14:20",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Editing a CodeRunner question | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "14:20",
+          "end": "14:21",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Untitled26.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "14:23",
+          "end": "14:24",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Preview question: Lr2 | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "14:24",
+          "end": "14:27",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "teams2",
+          "note": "com.microsoft.teams2"
+        },
+        {
+          "start": "14:31",
+          "end": "14:32",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "teams2",
+          "note": "com.microsoft.teams2"
+        },
+        {
+          "start": "14:32",
+          "end": "14:33",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Python Project (page 4 of 7) | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "14:33",
+          "end": "14:37",
+          "cat": "admin",
+          "src": "macos",
+          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Having an issue with ",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "14:48",
+          "end": "14:50",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Python Project: Attempt review | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "14:53",
+          "end": "15:04",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "15:06",
+          "end": "15:08",
+          "cat": "writing",
+          "src": "macos",
+          "title": "europe-trip-itinerary-v2 - Google Sheets",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "15:09",
+          "end": "15:18",
+          "cat": "admin",
+          "src": "macos",
+          "title": "2027 spring festival - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "15:18",
+          "end": "15:19",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Inbox (3,272) - ada.ren.cn@gmail.com - Gmail",
           "note": "mail.google.com"
+        },
+        {
+          "start": "15:19",
+          "end": "15:20",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "15:21",
+          "end": "15:26",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Recommender Systems: Evidence, Models, and Product Choices",
+          "note": "content.ilearn.mq.edu.au"
+        },
+        {
+          "start": "15:26",
+          "end": "15:29",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "15:32",
+          "end": "15:49",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "18:28",
+          "end": "18:30",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "18:30",
+          "end": "18:32",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "teams2",
+          "note": "com.microsoft.teams2"
+        },
+        {
+          "start": "18:32",
+          "end": "18:34",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "18:35",
+          "end": "18:36",
+          "cat": "coding",
+          "src": "macos",
+          "title": "ass2 verificaiton.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "18:39",
+          "end": "18:44",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "18:44",
+          "end": "18:45",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "18:46",
+          "end": "18:57",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Announcements | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "19:01",
+          "end": "19:06",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
         }
       ],
-      "logged": 47,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0.0,
+      "logged": 257,
+      "real": 88,
+      "deep": 88,
+      "ratio": 0.34293517106589516,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 6,
-        "longestFocus": "0m",
-        "justOneMoreThing": 0
+        "contextSwitches": 18,
+        "tabsOpened": 0,
+        "longestFocus": "1h 14m",
+        "justOneMoreThing": 3
       }
     },
     {
@@ -106723,16 +107436,25 @@
       "weekend": true,
       "dateShort": "Sat, Oct 24",
       "dateLong": "Saturday, October 24",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
+      "dayStart": "08:56",
+      "dayEnd": "09:17",
+      "events": [
+        {
+          "start": "08:56",
+          "end": "09:17",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "An error occurred while processing the request Prenot@mi",
+          "note": "iam.esteri.it"
+        }
+      ],
+      "logged": 21,
       "real": 0,
       "deep": 0,
-      "ratio": 0,
+      "ratio": 0.0,
       "stats": {
         "contextSwitches": 0,
-        "tabsOpened": 0,
+        "tabsOpened": 3,
         "longestFocus": "0m",
         "justOneMoreThing": 0
       }
