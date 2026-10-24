@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-10-24T10:40:37+11:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-10-25T10:20:17+11:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -97009,7 +97009,7 @@
             "end": "09:00",
             "cat": "admin",
             "src": "macos",
-            "title": "Inbox (3,272) - ada.ren.cn@gmail.com - Gmail",
+            "title": "Inbox (3,277) - ada.ren.cn@gmail.com - Gmail",
             "note": "mail.google.com"
           },
           {
@@ -97081,7 +97081,7 @@
             "end": "12:14",
             "cat": "personal",
             "src": "macos",
-            "title": "Introducing Claude Dashboards and Claude Motion - YouTube",
+            "title": "(3) Introducing Claude Dashboards and Claude Motion - YouTub",
             "note": "youtube.com"
           },
           {
@@ -97177,7 +97177,7 @@
             "end": "14:16",
             "cat": "coding",
             "src": "macos",
-            "title": "Untitled26.ipynb - Colab",
+            "title": "ass2 verificaiton.ipynb - Colab",
             "note": "colab.research.google.com"
           },
           {
@@ -97273,7 +97273,7 @@
             "end": "15:19",
             "cat": "admin",
             "src": "macos",
-            "title": "Inbox (3,272) - ada.ren.cn@gmail.com - Gmail",
+            "title": "Inbox (3,277) - ada.ren.cn@gmail.com - Gmail",
             "note": "mail.google.com"
           },
           {
@@ -97391,25 +97391,73 @@
         "weekend": true,
         "dateShort": "Sat, Oct 24",
         "dateLong": "Saturday, October 24",
-        "dayStart": "08:56",
-        "dayEnd": "09:17",
+        "dayStart": "20:35",
+        "dayEnd": "23:18",
         "events": [
           {
-            "start": "08:56",
-            "end": "09:17",
+            "start": "20:35",
+            "end": "20:45",
             "cat": "admin",
-            "src": "chrome",
-            "title": "An error occurred while processing the request Prenot@mi",
-            "note": "iam.esteri.it"
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "20:52",
+            "end": "20:55",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Buy Apple Watch Series 12 - Education - Apple (AU)",
+            "note": "apple.com"
+          },
+          {
+            "start": "20:55",
+            "end": "21:00",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Buy Apple Watch Series 12 GPS, 42-mm Black Aluminium Case wi",
+            "note": "apple.com"
+          },
+          {
+            "start": "23:09",
+            "end": "23:11",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Buy Apple Watch Series 12 - Education - Apple (AU)",
+            "note": "apple.com"
+          },
+          {
+            "start": "23:12",
+            "end": "23:14",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Order Options — Secure Checkout",
+            "note": "secure8.store.apple.com"
+          },
+          {
+            "start": "23:14",
+            "end": "23:16",
+            "cat": "admin",
+            "src": "macos",
+            "title": "apple watch s12 - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "23:17",
+            "end": "23:18",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
           }
         ],
-        "logged": 21,
+        "logged": 24,
         "real": 0,
         "deep": 0,
         "ratio": 0.0,
         "stats": {
           "contextSwitches": 0,
-          "tabsOpened": 3,
+          "tabsOpened": 0,
           "longestFocus": "0m",
           "justOneMoreThing": 0
         }
@@ -97421,16 +97469,33 @@
         "weekend": true,
         "dateShort": "Sun, Oct 25",
         "dateLong": "Sunday, October 25",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
+        "dayStart": "10:07",
+        "dayEnd": "10:22",
+        "events": [
+          {
+            "start": "10:07",
+            "end": "10:14",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(3) CMU AI Agents 2026: 13. Agentic Safety - YouTube",
+            "note": "youtube.com"
+          },
+          {
+            "start": "10:14",
+            "end": "10:22",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Summer Looks Better From Here - ada.ren.cn@gmail.com - Gmail",
+            "note": "mail.google.com"
+          }
+        ],
+        "logged": 14,
         "real": 0,
         "deep": 0,
-        "ratio": 0,
+        "ratio": 0.0,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
+          "contextSwitches": 1,
+          "tabsOpened": 6,
           "longestFocus": "0m",
           "justOneMoreThing": 0
         }
@@ -107054,7 +107119,7 @@
           "end": "09:00",
           "cat": "admin",
           "src": "macos",
-          "title": "Inbox (3,272) - ada.ren.cn@gmail.com - Gmail",
+          "title": "Inbox (3,277) - ada.ren.cn@gmail.com - Gmail",
           "note": "mail.google.com"
         },
         {
@@ -107126,7 +107191,7 @@
           "end": "12:14",
           "cat": "personal",
           "src": "macos",
-          "title": "Introducing Claude Dashboards and Claude Motion - YouTube",
+          "title": "(3) Introducing Claude Dashboards and Claude Motion - YouTub",
           "note": "youtube.com"
         },
         {
@@ -107222,7 +107287,7 @@
           "end": "14:16",
           "cat": "coding",
           "src": "macos",
-          "title": "Untitled26.ipynb - Colab",
+          "title": "ass2 verificaiton.ipynb - Colab",
           "note": "colab.research.google.com"
         },
         {
@@ -107318,7 +107383,7 @@
           "end": "15:19",
           "cat": "admin",
           "src": "macos",
-          "title": "Inbox (3,272) - ada.ren.cn@gmail.com - Gmail",
+          "title": "Inbox (3,277) - ada.ren.cn@gmail.com - Gmail",
           "note": "mail.google.com"
         },
         {
@@ -107436,25 +107501,73 @@
       "weekend": true,
       "dateShort": "Sat, Oct 24",
       "dateLong": "Saturday, October 24",
-      "dayStart": "08:56",
-      "dayEnd": "09:17",
+      "dayStart": "20:35",
+      "dayEnd": "23:18",
       "events": [
         {
-          "start": "08:56",
-          "end": "09:17",
+          "start": "20:35",
+          "end": "20:45",
           "cat": "admin",
-          "src": "chrome",
-          "title": "An error occurred while processing the request Prenot@mi",
-          "note": "iam.esteri.it"
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "20:52",
+          "end": "20:55",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Buy Apple Watch Series 12 - Education - Apple (AU)",
+          "note": "apple.com"
+        },
+        {
+          "start": "20:55",
+          "end": "21:00",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Buy Apple Watch Series 12 GPS, 42-mm Black Aluminium Case wi",
+          "note": "apple.com"
+        },
+        {
+          "start": "23:09",
+          "end": "23:11",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Buy Apple Watch Series 12 - Education - Apple (AU)",
+          "note": "apple.com"
+        },
+        {
+          "start": "23:12",
+          "end": "23:14",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Order Options — Secure Checkout",
+          "note": "secure8.store.apple.com"
+        },
+        {
+          "start": "23:14",
+          "end": "23:16",
+          "cat": "admin",
+          "src": "macos",
+          "title": "apple watch s12 - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "23:17",
+          "end": "23:18",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
         }
       ],
-      "logged": 21,
+      "logged": 24,
       "real": 0,
       "deep": 0,
       "ratio": 0.0,
       "stats": {
         "contextSwitches": 0,
-        "tabsOpened": 3,
+        "tabsOpened": 0,
         "longestFocus": "0m",
         "justOneMoreThing": 0
       }
@@ -107466,16 +107579,33 @@
       "weekend": true,
       "dateShort": "Sun, Oct 25",
       "dateLong": "Sunday, October 25",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
+      "dayStart": "10:07",
+      "dayEnd": "10:22",
+      "events": [
+        {
+          "start": "10:07",
+          "end": "10:14",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(3) CMU AI Agents 2026: 13. Agentic Safety - YouTube",
+          "note": "youtube.com"
+        },
+        {
+          "start": "10:14",
+          "end": "10:22",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Summer Looks Better From Here - ada.ren.cn@gmail.com - Gmail",
+          "note": "mail.google.com"
+        }
+      ],
+      "logged": 14,
       "real": 0,
       "deep": 0,
-      "ratio": 0,
+      "ratio": 0.0,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
+        "contextSwitches": 1,
+        "tabsOpened": 6,
         "longestFocus": "0m",
         "justOneMoreThing": 0
       }
