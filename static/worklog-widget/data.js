@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-10-25T10:20:17+11:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-10-26T10:20:16+11:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -96995,472 +96995,472 @@
         "weekend": false
       },
       {
-        "key": "2026-10-23",
-        "dayNum": 23,
-        "dow": 5,
-        "weekend": false,
-        "dateShort": "Fri, Oct 23",
         "dateLong": "Friday, October 23",
-        "dayStart": "08:59",
+        "dateShort": "Fri, Oct 23",
         "dayEnd": "19:06",
+        "dayNum": 23,
+        "dayStart": "08:59",
+        "deep": 88,
+        "dow": 5,
         "events": [
           {
-            "start": "08:59",
+            "cat": "admin",
             "end": "09:00",
-            "cat": "admin",
+            "note": "mail.google.com",
             "src": "macos",
-            "title": "Inbox (3,277) - ada.ren.cn@gmail.com - Gmail",
-            "note": "mail.google.com"
+            "start": "08:59",
+            "title": "Inbox (3,277) - ada.ren.cn@gmail.com - Gmail"
           },
           {
-            "start": "09:05",
+            "cat": "admin",
             "end": "09:10",
-            "cat": "admin",
+            "note": "prenotami.esteri.it",
             "src": "macos",
-            "title": "WaitingList Prenot@mi",
-            "note": "prenotami.esteri.it"
+            "start": "09:05",
+            "title": "WaitingList Prenot@mi"
           },
           {
-            "start": "10:10",
+            "cat": "admin",
             "end": "10:13",
-            "cat": "admin",
+            "note": "sport.mq.edu.au",
             "src": "macos",
-            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
-            "note": "sport.mq.edu.au"
+            "start": "10:10",
+            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni"
           },
           {
-            "start": "10:18",
+            "cat": "admin",
             "end": "10:29",
-            "cat": "admin",
+            "note": "sport.mq.edu.au",
             "src": "macos",
-            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
-            "note": "sport.mq.edu.au"
+            "start": "10:18",
+            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni"
           },
           {
-            "start": "10:30",
+            "cat": "coding",
             "end": "10:31",
-            "cat": "coding",
+            "note": "github.com",
             "src": "macos",
-            "title": "assignment-1/ASSIGNMENT.md at main · cmu-agents/assignment-1",
-            "note": "github.com"
+            "start": "10:30",
+            "title": "assignment-1/ASSIGNMENT.md at main · cmu-agents/assignment-1"
           },
           {
-            "start": "10:31",
+            "cat": "coding",
             "end": "10:39",
-            "cat": "coding",
+            "note": "github.com",
             "src": "macos",
-            "title": "assignment-1/src/assignment/agent/base.py at main · cmu-agen",
-            "note": "github.com"
+            "start": "10:31",
+            "title": "assignment-1/src/assignment/agent/base.py at main · cmu-agen"
           },
           {
-            "start": "10:52",
+            "cat": "coding",
             "end": "11:38",
-            "cat": "coding",
+            "note": "github.com",
             "src": "macos",
-            "title": "assignment-1/src/assignment/agent/base.py at main · cmu-agen",
-            "note": "github.com"
+            "start": "10:52",
+            "title": "assignment-1/src/assignment/agent/base.py at main · cmu-agen"
           },
           {
-            "start": "11:38",
+            "cat": "research",
             "end": "11:58",
-            "cat": "research",
+            "note": "openai.com",
             "src": "macos",
-            "title": "Where the goblins came from | OpenAI",
-            "note": "openai.com"
+            "start": "11:38",
+            "title": "Where the goblins came from | OpenAI"
           },
           {
-            "start": "11:58",
+            "cat": "personal",
             "end": "12:11",
-            "cat": "personal",
+            "note": "youtube.com",
             "src": "macos",
-            "title": "CMU AI Agents 2026: 11. Advanced RL Algorithms - YouTube",
-            "note": "youtube.com"
+            "start": "11:58",
+            "title": "CMU AI Agents 2026: 11. Advanced RL Algorithms - YouTube"
           },
           {
-            "start": "12:12",
+            "cat": "personal",
             "end": "12:14",
-            "cat": "personal",
+            "note": "youtube.com",
             "src": "macos",
-            "title": "(3) Introducing Claude Dashboards and Claude Motion - YouTub",
-            "note": "youtube.com"
+            "start": "12:12",
+            "title": "(3) Introducing Claude Dashboards and Claude Motion - YouTub"
           },
           {
-            "start": "12:56",
+            "cat": "admin",
             "end": "13:07",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "12:56",
+            "title": "Outlook"
           },
           {
-            "start": "13:07",
-            "end": "13:09",
             "cat": "research",
+            "end": "13:09",
+            "note": "aclrollingreview.org",
             "src": "macos",
-            "title": "ACL Rolling Review",
-            "note": "aclrollingreview.org"
+            "start": "13:07",
+            "title": "ACL Rolling Review"
           },
           {
-            "start": "13:09",
+            "cat": "admin",
             "end": "13:11",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "arr 2027 cycle - Google Search",
-            "note": "google.com"
+            "start": "13:09",
+            "title": "arr 2027 cycle - Google Search"
           },
           {
-            "start": "13:12",
+            "cat": "admin",
             "end": "13:15",
-            "cat": "admin",
+            "note": "com.tinyspeck.slackmacgap",
             "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "start": "13:12",
+            "title": "slackmacgap"
           },
           {
-            "start": "13:26",
+            "cat": "admin",
             "end": "13:36",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Python Project: Attempt review | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "13:26",
+            "title": "Python Project: Attempt review | iLearn"
           },
           {
-            "start": "13:40",
+            "cat": "admin",
             "end": "13:49",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Python Project (page 4 of 7) | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "13:40",
+            "title": "Python Project (page 4 of 7) | iLearn"
           },
           {
-            "start": "13:50",
+            "cat": "admin",
             "end": "13:54",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Editing a CodeRunner question | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "13:50",
+            "title": "Editing a CodeRunner question | iLearn"
           },
           {
-            "start": "13:56",
+            "cat": "admin",
             "end": "13:59",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Python Project (page 4 of 7) | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "13:56",
+            "title": "Python Project (page 4 of 7) | iLearn"
           },
           {
-            "start": "14:02",
+            "cat": "admin",
             "end": "14:04",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Preview question: LR | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "14:02",
+            "title": "Preview question: LR | iLearn"
           },
           {
-            "start": "14:04",
+            "cat": "admin",
             "end": "14:06",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Editing a CodeRunner question | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "14:04",
+            "title": "Editing a CodeRunner question | iLearn"
           },
           {
-            "start": "14:11",
+            "cat": "admin",
             "end": "14:14",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Python Project (page 4 of 7) | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "14:11",
+            "title": "Python Project (page 4 of 7) | iLearn"
           },
           {
-            "start": "14:15",
+            "cat": "coding",
             "end": "14:16",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "ass2 verificaiton.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "14:15",
+            "title": "ass2 verificaiton.ipynb - Colab"
           },
           {
-            "start": "14:19",
+            "cat": "admin",
             "end": "14:20",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Editing a CodeRunner question | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "14:19",
+            "title": "Editing a CodeRunner question | iLearn"
           },
           {
-            "start": "14:20",
+            "cat": "coding",
             "end": "14:21",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "Untitled26.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "14:20",
+            "title": "Untitled26.ipynb - Colab"
           },
           {
-            "start": "14:23",
+            "cat": "admin",
             "end": "14:24",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Preview question: Lr2 | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "14:23",
+            "title": "Preview question: Lr2 | iLearn"
           },
           {
-            "start": "14:24",
+            "cat": "meeting",
             "end": "14:27",
-            "cat": "meeting",
+            "note": "com.microsoft.teams2",
             "src": "macos",
-            "title": "teams2",
-            "note": "com.microsoft.teams2"
+            "start": "14:24",
+            "title": "teams2"
           },
           {
-            "start": "14:31",
+            "cat": "meeting",
             "end": "14:32",
-            "cat": "meeting",
+            "note": "com.microsoft.teams2",
             "src": "macos",
-            "title": "teams2",
-            "note": "com.microsoft.teams2"
+            "start": "14:31",
+            "title": "teams2"
           },
           {
-            "start": "14:32",
+            "cat": "admin",
             "end": "14:33",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Python Project (page 4 of 7) | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "14:32",
+            "title": "Python Project (page 4 of 7) | iLearn"
           },
           {
-            "start": "14:33",
+            "cat": "admin",
             "end": "14:37",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Having an issue with ",
-            "note": "ilearn.mq.edu.au"
+            "start": "14:33",
+            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Having an issue with "
           },
           {
-            "start": "14:48",
+            "cat": "admin",
             "end": "14:50",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Python Project: Attempt review | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "14:48",
+            "title": "Python Project: Attempt review | iLearn"
           },
           {
-            "start": "14:53",
+            "cat": "admin",
             "end": "15:04",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "14:53",
+            "title": "Outlook"
           },
           {
-            "start": "15:06",
-            "end": "15:08",
             "cat": "writing",
+            "end": "15:08",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "europe-trip-itinerary-v2 - Google Sheets",
-            "note": "docs.google.com"
+            "start": "15:06",
+            "title": "europe-trip-itinerary-v2 - Google Sheets"
           },
           {
-            "start": "15:09",
+            "cat": "admin",
             "end": "15:18",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "2027 spring festival - Google Search",
-            "note": "google.com"
+            "start": "15:09",
+            "title": "2027 spring festival - Google Search"
           },
           {
-            "start": "15:18",
+            "cat": "admin",
             "end": "15:19",
-            "cat": "admin",
+            "note": "mail.google.com",
             "src": "macos",
-            "title": "Inbox (3,277) - ada.ren.cn@gmail.com - Gmail",
-            "note": "mail.google.com"
+            "start": "15:18",
+            "title": "Inbox (3,277) - ada.ren.cn@gmail.com - Gmail"
           },
           {
-            "start": "15:19",
+            "cat": "admin",
             "end": "15:20",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "15:19",
+            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn"
           },
           {
-            "start": "15:21",
+            "cat": "admin",
             "end": "15:26",
-            "cat": "admin",
+            "note": "content.ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Recommender Systems: Evidence, Models, and Product Choices",
-            "note": "content.ilearn.mq.edu.au"
+            "start": "15:21",
+            "title": "Recommender Systems: Evidence, Models, and Product Choices"
           },
           {
-            "start": "15:26",
+            "cat": "admin",
             "end": "15:29",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "macos",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "15:26",
+            "title": "Google Translate"
           },
           {
-            "start": "15:32",
+            "cat": "admin",
             "end": "15:49",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "macos",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "15:32",
+            "title": "Google Translate"
           },
           {
-            "start": "18:28",
+            "cat": "admin",
             "end": "18:30",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "18:28",
+            "title": "Outlook"
           },
           {
-            "start": "18:30",
-            "end": "18:32",
             "cat": "meeting",
+            "end": "18:32",
+            "note": "com.microsoft.teams2",
             "src": "macos",
-            "title": "teams2",
-            "note": "com.microsoft.teams2"
+            "start": "18:30",
+            "title": "teams2"
           },
           {
-            "start": "18:32",
+            "cat": "admin",
             "end": "18:34",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "18:32",
+            "title": "Outlook"
           },
           {
-            "start": "18:35",
-            "end": "18:36",
             "cat": "coding",
+            "end": "18:36",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "ass2 verificaiton.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "18:35",
+            "title": "ass2 verificaiton.ipynb - Colab"
           },
           {
-            "start": "18:39",
+            "cat": "admin",
             "end": "18:44",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "18:39",
+            "title": "Outlook"
           },
           {
-            "start": "18:44",
+            "cat": "admin",
             "end": "18:45",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "18:44",
+            "title": "Outlook"
           },
           {
-            "start": "18:46",
+            "cat": "admin",
             "end": "18:57",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Announcements | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "18:46",
+            "title": "Announcements | iLearn"
           },
           {
-            "start": "19:01",
-            "end": "19:06",
             "cat": "admin",
+            "end": "19:06",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "19:01",
+            "title": "Outlook"
           }
         ],
+        "key": "2026-10-23",
         "logged": 257,
-        "real": 88,
-        "deep": 88,
         "ratio": 0.34293517106589516,
+        "real": 88,
         "stats": {
           "contextSwitches": 18,
-          "tabsOpened": 0,
+          "justOneMoreThing": 3,
           "longestFocus": "1h 14m",
-          "justOneMoreThing": 3
-        }
+          "tabsOpened": 0
+        },
+        "weekend": false
       },
       {
-        "key": "2026-10-24",
-        "dayNum": 24,
-        "dow": 6,
-        "weekend": true,
-        "dateShort": "Sat, Oct 24",
         "dateLong": "Saturday, October 24",
-        "dayStart": "20:35",
+        "dateShort": "Sat, Oct 24",
         "dayEnd": "23:18",
+        "dayNum": 24,
+        "dayStart": "20:35",
+        "deep": 0,
+        "dow": 6,
         "events": [
           {
-            "start": "20:35",
+            "cat": "admin",
             "end": "20:45",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "20:35",
+            "title": "Outlook"
           },
           {
-            "start": "20:52",
+            "cat": "admin",
             "end": "20:55",
-            "cat": "admin",
+            "note": "apple.com",
             "src": "macos",
-            "title": "Buy Apple Watch Series 12 - Education - Apple (AU)",
-            "note": "apple.com"
+            "start": "20:52",
+            "title": "Buy Apple Watch Series 12 - Education - Apple (AU)"
           },
           {
-            "start": "20:55",
+            "cat": "admin",
             "end": "21:00",
-            "cat": "admin",
+            "note": "apple.com",
             "src": "macos",
-            "title": "Buy Apple Watch Series 12 GPS, 42-mm Black Aluminium Case wi",
-            "note": "apple.com"
+            "start": "20:55",
+            "title": "Buy Apple Watch Series 12 GPS, 42-mm Black Aluminium Case wi"
           },
           {
-            "start": "23:09",
+            "cat": "admin",
             "end": "23:11",
-            "cat": "admin",
+            "note": "apple.com",
             "src": "macos",
-            "title": "Buy Apple Watch Series 12 - Education - Apple (AU)",
-            "note": "apple.com"
+            "start": "23:09",
+            "title": "Buy Apple Watch Series 12 - Education - Apple (AU)"
           },
           {
-            "start": "23:12",
+            "cat": "admin",
             "end": "23:14",
-            "cat": "admin",
+            "note": "secure8.store.apple.com",
             "src": "macos",
-            "title": "Order Options — Secure Checkout",
-            "note": "secure8.store.apple.com"
+            "start": "23:12",
+            "title": "Order Options — Secure Checkout"
           },
           {
-            "start": "23:14",
+            "cat": "admin",
             "end": "23:16",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "apple watch s12 - Google Search",
-            "note": "google.com"
+            "start": "23:14",
+            "title": "apple watch s12 - Google Search"
           },
           {
-            "start": "23:17",
-            "end": "23:18",
             "cat": "admin",
+            "end": "23:18",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "23:17",
+            "title": "Outlook"
           }
         ],
+        "key": "2026-10-24",
         "logged": 24,
-        "real": 0,
-        "deep": 0,
         "ratio": 0.0,
+        "real": 0,
         "stats": {
           "contextSwitches": 0,
-          "tabsOpened": 0,
+          "justOneMoreThing": 0,
           "longestFocus": "0m",
-          "justOneMoreThing": 0
-        }
+          "tabsOpened": 0
+        },
+        "weekend": true
       },
       {
         "key": "2026-10-25",
@@ -97470,34 +97470,242 @@
         "dateShort": "Sun, Oct 25",
         "dateLong": "Sunday, October 25",
         "dayStart": "10:07",
-        "dayEnd": "10:22",
+        "dayEnd": "00:46",
         "events": [
           {
             "start": "10:07",
             "end": "10:14",
             "cat": "personal",
-            "src": "chrome",
-            "title": "(3) CMU AI Agents 2026: 13. Agentic Safety - YouTube",
+            "src": "macos",
+            "title": "CMU AI Agents 2026: 13. Agentic Safety - YouTube",
             "note": "youtube.com"
           },
           {
             "start": "10:14",
-            "end": "10:22",
+            "end": "10:19",
             "cat": "admin",
-            "src": "chrome",
+            "src": "macos",
             "title": "Summer Looks Better From Here - ada.ren.cn@gmail.com - Gmail",
             "note": "mail.google.com"
+          },
+          {
+            "start": "10:20",
+            "end": "10:44",
+            "cat": "personal",
+            "src": "macos",
+            "title": "CMU AI Agents 2026: 13. Agentic Safety - YouTube",
+            "note": "youtube.com"
+          },
+          {
+            "start": "10:46",
+            "end": "10:47",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Access Restricted",
+            "note": "clubmed.com.cn"
+          },
+          {
+            "start": "10:50",
+            "end": "10:57",
+            "cat": "writing",
+            "src": "macos",
+            "title": "europe-trip-itinerary-v2 - Google Sheets",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "10:59",
+            "end": "11:09",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Banking - CommBank",
+            "note": "commbank.com.au"
+          },
+          {
+            "start": "11:25",
+            "end": "11:49",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Banking - CommBank",
+            "note": "commbank.com.au"
+          },
+          {
+            "start": "11:49",
+            "end": "11:51",
+            "cat": "writing",
+            "src": "macos",
+            "title": "obsidian",
+            "note": "md.obsidian"
+          },
+          {
+            "start": "11:51",
+            "end": "11:54",
+            "cat": "research",
+            "src": "macos",
+            "title": "How a PhD Can Survive? | Ada's Notes",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "11:54",
+            "end": "12:07",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Inbox (3,281) - ada.ren.cn@gmail.com - Gmail",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "15:19",
+            "end": "15:24",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Inbox (3,281) - ada.ren.cn@gmail.com - Gmail",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "15:26",
+            "end": "15:34",
+            "cat": "coding",
+            "src": "macos",
+            "title": "assignment-1/ASSIGNMENT.md at main · cmu-agents/assignment-1",
+            "note": "github.com"
+          },
+          {
+            "start": "15:37",
+            "end": "15:41",
+            "cat": "coding",
+            "src": "macos",
+            "title": "assignment-1/ASSIGNMENT.md at main · cmu-agents/assignment-1",
+            "note": "github.com"
+          },
+          {
+            "start": "16:38",
+            "end": "16:52",
+            "cat": "coding",
+            "src": "macos",
+            "title": "assignment-1/ASSIGNMENT.md at main · cmu-agents/assignment-1",
+            "note": "github.com"
+          },
+          {
+            "start": "16:52",
+            "end": "16:54",
+            "cat": "personal",
+            "src": "macos",
+            "title": "TVmaze.com - Your personal TV guide",
+            "note": "tvmaze.com"
+          },
+          {
+            "start": "17:25",
+            "end": "17:42",
+            "cat": "personal",
+            "src": "macos",
+            "title": "TVmaze.com - Your personal TV guide",
+            "note": "tvmaze.com"
+          },
+          {
+            "start": "17:42",
+            "end": "17:57",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "17:58",
+            "end": "18:00",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Teaching Associates Substitutions S2 2026",
+            "note": "forms.cloud.microsoft"
+          },
+          {
+            "start": "18:00",
+            "end": "18:02",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "19:23",
+            "end": "19:55",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "20:01",
+            "end": "20:38",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "20:40",
+            "end": "21:13",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "21:18",
+            "end": "21:20",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Access Restricted",
+            "note": "clubmed.com.cn"
+          },
+          {
+            "start": "21:20",
+            "end": "21:23",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(35) Morning Fresh Start | Cozy Cafe Jazz BGM for Relaxing D",
+            "note": "youtube.com"
+          },
+          {
+            "start": "21:26",
+            "end": "22:31",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "22:35",
+            "end": "22:46",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · week12prac",
+            "note": "48 hits"
+          },
+          {
+            "start": "23:39",
+            "end": "00:09",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "00:22",
+            "end": "00:46",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · week12prac",
+            "note": "99 hits"
           }
         ],
-        "logged": 14,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0.0,
+        "logged": 400,
+        "real": 285,
+        "deep": 285,
+        "ratio": 0.7111504536308106,
         "stats": {
-          "contextSwitches": 1,
-          "tabsOpened": 6,
-          "longestFocus": "0m",
-          "justOneMoreThing": 0
+          "contextSwitches": 14,
+          "tabsOpened": 0,
+          "longestFocus": "2h 11m",
+          "justOneMoreThing": 1
         }
       },
       {
@@ -97507,16 +97715,33 @@
         "weekend": false,
         "dateShort": "Mon, Oct 26",
         "dateLong": "Monday, October 26",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
+        "dayStart": "09:58",
+        "dayEnd": "10:35",
+        "events": [
+          {
+            "start": "09:58",
+            "end": "10:15",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Inbox (3,281) - ada.ren.cn@gmail.com - Gmail",
+            "note": "accounts.google.com"
+          },
+          {
+            "start": "10:15",
+            "end": "10:35",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Inbox (3,281) - ada.ren.cn@gmail.com - Gmail",
+            "note": "accounts.google.com"
+          }
+        ],
+        "logged": 37,
         "real": 0,
         "deep": 0,
-        "ratio": 0,
+        "ratio": 0.0,
         "stats": {
           "contextSwitches": 0,
-          "tabsOpened": 0,
+          "tabsOpened": 6,
           "longestFocus": "0m",
           "justOneMoreThing": 0
         }
@@ -107105,472 +107330,472 @@
       "weekend": false
     },
     {
-      "key": "2026-10-23",
-      "dayNum": 23,
-      "dow": 5,
-      "weekend": false,
-      "dateShort": "Fri, Oct 23",
       "dateLong": "Friday, October 23",
-      "dayStart": "08:59",
+      "dateShort": "Fri, Oct 23",
       "dayEnd": "19:06",
+      "dayNum": 23,
+      "dayStart": "08:59",
+      "deep": 88,
+      "dow": 5,
       "events": [
         {
-          "start": "08:59",
+          "cat": "admin",
           "end": "09:00",
-          "cat": "admin",
+          "note": "mail.google.com",
           "src": "macos",
-          "title": "Inbox (3,277) - ada.ren.cn@gmail.com - Gmail",
-          "note": "mail.google.com"
+          "start": "08:59",
+          "title": "Inbox (3,277) - ada.ren.cn@gmail.com - Gmail"
         },
         {
-          "start": "09:05",
+          "cat": "admin",
           "end": "09:10",
-          "cat": "admin",
+          "note": "prenotami.esteri.it",
           "src": "macos",
-          "title": "WaitingList Prenot@mi",
-          "note": "prenotami.esteri.it"
+          "start": "09:05",
+          "title": "WaitingList Prenot@mi"
         },
         {
-          "start": "10:10",
+          "cat": "admin",
           "end": "10:13",
-          "cat": "admin",
+          "note": "sport.mq.edu.au",
           "src": "macos",
-          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
-          "note": "sport.mq.edu.au"
+          "start": "10:10",
+          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni"
         },
         {
-          "start": "10:18",
+          "cat": "admin",
           "end": "10:29",
-          "cat": "admin",
+          "note": "sport.mq.edu.au",
           "src": "macos",
-          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
-          "note": "sport.mq.edu.au"
+          "start": "10:18",
+          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni"
         },
         {
-          "start": "10:30",
+          "cat": "coding",
           "end": "10:31",
-          "cat": "coding",
+          "note": "github.com",
           "src": "macos",
-          "title": "assignment-1/ASSIGNMENT.md at main · cmu-agents/assignment-1",
-          "note": "github.com"
+          "start": "10:30",
+          "title": "assignment-1/ASSIGNMENT.md at main · cmu-agents/assignment-1"
         },
         {
-          "start": "10:31",
+          "cat": "coding",
           "end": "10:39",
-          "cat": "coding",
+          "note": "github.com",
           "src": "macos",
-          "title": "assignment-1/src/assignment/agent/base.py at main · cmu-agen",
-          "note": "github.com"
+          "start": "10:31",
+          "title": "assignment-1/src/assignment/agent/base.py at main · cmu-agen"
         },
         {
-          "start": "10:52",
+          "cat": "coding",
           "end": "11:38",
-          "cat": "coding",
+          "note": "github.com",
           "src": "macos",
-          "title": "assignment-1/src/assignment/agent/base.py at main · cmu-agen",
-          "note": "github.com"
+          "start": "10:52",
+          "title": "assignment-1/src/assignment/agent/base.py at main · cmu-agen"
         },
         {
-          "start": "11:38",
+          "cat": "research",
           "end": "11:58",
-          "cat": "research",
+          "note": "openai.com",
           "src": "macos",
-          "title": "Where the goblins came from | OpenAI",
-          "note": "openai.com"
+          "start": "11:38",
+          "title": "Where the goblins came from | OpenAI"
         },
         {
-          "start": "11:58",
+          "cat": "personal",
           "end": "12:11",
-          "cat": "personal",
+          "note": "youtube.com",
           "src": "macos",
-          "title": "CMU AI Agents 2026: 11. Advanced RL Algorithms - YouTube",
-          "note": "youtube.com"
+          "start": "11:58",
+          "title": "CMU AI Agents 2026: 11. Advanced RL Algorithms - YouTube"
         },
         {
-          "start": "12:12",
+          "cat": "personal",
           "end": "12:14",
-          "cat": "personal",
+          "note": "youtube.com",
           "src": "macos",
-          "title": "(3) Introducing Claude Dashboards and Claude Motion - YouTub",
-          "note": "youtube.com"
+          "start": "12:12",
+          "title": "(3) Introducing Claude Dashboards and Claude Motion - YouTub"
         },
         {
-          "start": "12:56",
+          "cat": "admin",
           "end": "13:07",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "12:56",
+          "title": "Outlook"
         },
         {
-          "start": "13:07",
-          "end": "13:09",
           "cat": "research",
+          "end": "13:09",
+          "note": "aclrollingreview.org",
           "src": "macos",
-          "title": "ACL Rolling Review",
-          "note": "aclrollingreview.org"
+          "start": "13:07",
+          "title": "ACL Rolling Review"
         },
         {
-          "start": "13:09",
+          "cat": "admin",
           "end": "13:11",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "arr 2027 cycle - Google Search",
-          "note": "google.com"
+          "start": "13:09",
+          "title": "arr 2027 cycle - Google Search"
         },
         {
-          "start": "13:12",
+          "cat": "admin",
           "end": "13:15",
-          "cat": "admin",
+          "note": "com.tinyspeck.slackmacgap",
           "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "start": "13:12",
+          "title": "slackmacgap"
         },
         {
-          "start": "13:26",
+          "cat": "admin",
           "end": "13:36",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Python Project: Attempt review | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "13:26",
+          "title": "Python Project: Attempt review | iLearn"
         },
         {
-          "start": "13:40",
+          "cat": "admin",
           "end": "13:49",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Python Project (page 4 of 7) | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "13:40",
+          "title": "Python Project (page 4 of 7) | iLearn"
         },
         {
-          "start": "13:50",
+          "cat": "admin",
           "end": "13:54",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Editing a CodeRunner question | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "13:50",
+          "title": "Editing a CodeRunner question | iLearn"
         },
         {
-          "start": "13:56",
+          "cat": "admin",
           "end": "13:59",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Python Project (page 4 of 7) | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "13:56",
+          "title": "Python Project (page 4 of 7) | iLearn"
         },
         {
-          "start": "14:02",
+          "cat": "admin",
           "end": "14:04",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Preview question: LR | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "14:02",
+          "title": "Preview question: LR | iLearn"
         },
         {
-          "start": "14:04",
+          "cat": "admin",
           "end": "14:06",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Editing a CodeRunner question | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "14:04",
+          "title": "Editing a CodeRunner question | iLearn"
         },
         {
-          "start": "14:11",
+          "cat": "admin",
           "end": "14:14",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Python Project (page 4 of 7) | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "14:11",
+          "title": "Python Project (page 4 of 7) | iLearn"
         },
         {
-          "start": "14:15",
+          "cat": "coding",
           "end": "14:16",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "ass2 verificaiton.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "14:15",
+          "title": "ass2 verificaiton.ipynb - Colab"
         },
         {
-          "start": "14:19",
+          "cat": "admin",
           "end": "14:20",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Editing a CodeRunner question | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "14:19",
+          "title": "Editing a CodeRunner question | iLearn"
         },
         {
-          "start": "14:20",
+          "cat": "coding",
           "end": "14:21",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "Untitled26.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "14:20",
+          "title": "Untitled26.ipynb - Colab"
         },
         {
-          "start": "14:23",
+          "cat": "admin",
           "end": "14:24",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Preview question: Lr2 | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "14:23",
+          "title": "Preview question: Lr2 | iLearn"
         },
         {
-          "start": "14:24",
+          "cat": "meeting",
           "end": "14:27",
-          "cat": "meeting",
+          "note": "com.microsoft.teams2",
           "src": "macos",
-          "title": "teams2",
-          "note": "com.microsoft.teams2"
+          "start": "14:24",
+          "title": "teams2"
         },
         {
-          "start": "14:31",
+          "cat": "meeting",
           "end": "14:32",
-          "cat": "meeting",
+          "note": "com.microsoft.teams2",
           "src": "macos",
-          "title": "teams2",
-          "note": "com.microsoft.teams2"
+          "start": "14:31",
+          "title": "teams2"
         },
         {
-          "start": "14:32",
+          "cat": "admin",
           "end": "14:33",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Python Project (page 4 of 7) | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "14:32",
+          "title": "Python Project (page 4 of 7) | iLearn"
         },
         {
-          "start": "14:33",
+          "cat": "admin",
           "end": "14:37",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Having an issue with ",
-          "note": "ilearn.mq.edu.au"
+          "start": "14:33",
+          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Having an issue with "
         },
         {
-          "start": "14:48",
+          "cat": "admin",
           "end": "14:50",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Python Project: Attempt review | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "14:48",
+          "title": "Python Project: Attempt review | iLearn"
         },
         {
-          "start": "14:53",
+          "cat": "admin",
           "end": "15:04",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "14:53",
+          "title": "Outlook"
         },
         {
-          "start": "15:06",
-          "end": "15:08",
           "cat": "writing",
+          "end": "15:08",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "europe-trip-itinerary-v2 - Google Sheets",
-          "note": "docs.google.com"
+          "start": "15:06",
+          "title": "europe-trip-itinerary-v2 - Google Sheets"
         },
         {
-          "start": "15:09",
+          "cat": "admin",
           "end": "15:18",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "2027 spring festival - Google Search",
-          "note": "google.com"
+          "start": "15:09",
+          "title": "2027 spring festival - Google Search"
         },
         {
-          "start": "15:18",
+          "cat": "admin",
           "end": "15:19",
-          "cat": "admin",
+          "note": "mail.google.com",
           "src": "macos",
-          "title": "Inbox (3,277) - ada.ren.cn@gmail.com - Gmail",
-          "note": "mail.google.com"
+          "start": "15:18",
+          "title": "Inbox (3,277) - ada.ren.cn@gmail.com - Gmail"
         },
         {
-          "start": "15:19",
+          "cat": "admin",
           "end": "15:20",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "15:19",
+          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn"
         },
         {
-          "start": "15:21",
+          "cat": "admin",
           "end": "15:26",
-          "cat": "admin",
+          "note": "content.ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Recommender Systems: Evidence, Models, and Product Choices",
-          "note": "content.ilearn.mq.edu.au"
+          "start": "15:21",
+          "title": "Recommender Systems: Evidence, Models, and Product Choices"
         },
         {
-          "start": "15:26",
+          "cat": "admin",
           "end": "15:29",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "macos",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "15:26",
+          "title": "Google Translate"
         },
         {
-          "start": "15:32",
+          "cat": "admin",
           "end": "15:49",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "macos",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "15:32",
+          "title": "Google Translate"
         },
         {
-          "start": "18:28",
+          "cat": "admin",
           "end": "18:30",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "18:28",
+          "title": "Outlook"
         },
         {
-          "start": "18:30",
-          "end": "18:32",
           "cat": "meeting",
+          "end": "18:32",
+          "note": "com.microsoft.teams2",
           "src": "macos",
-          "title": "teams2",
-          "note": "com.microsoft.teams2"
+          "start": "18:30",
+          "title": "teams2"
         },
         {
-          "start": "18:32",
+          "cat": "admin",
           "end": "18:34",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "18:32",
+          "title": "Outlook"
         },
         {
-          "start": "18:35",
-          "end": "18:36",
           "cat": "coding",
+          "end": "18:36",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "ass2 verificaiton.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "18:35",
+          "title": "ass2 verificaiton.ipynb - Colab"
         },
         {
-          "start": "18:39",
+          "cat": "admin",
           "end": "18:44",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "18:39",
+          "title": "Outlook"
         },
         {
-          "start": "18:44",
+          "cat": "admin",
           "end": "18:45",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "18:44",
+          "title": "Outlook"
         },
         {
-          "start": "18:46",
+          "cat": "admin",
           "end": "18:57",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Announcements | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "18:46",
+          "title": "Announcements | iLearn"
         },
         {
-          "start": "19:01",
-          "end": "19:06",
           "cat": "admin",
+          "end": "19:06",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "19:01",
+          "title": "Outlook"
         }
       ],
+      "key": "2026-10-23",
       "logged": 257,
-      "real": 88,
-      "deep": 88,
       "ratio": 0.34293517106589516,
+      "real": 88,
       "stats": {
         "contextSwitches": 18,
-        "tabsOpened": 0,
+        "justOneMoreThing": 3,
         "longestFocus": "1h 14m",
-        "justOneMoreThing": 3
-      }
+        "tabsOpened": 0
+      },
+      "weekend": false
     },
     {
-      "key": "2026-10-24",
-      "dayNum": 24,
-      "dow": 6,
-      "weekend": true,
-      "dateShort": "Sat, Oct 24",
       "dateLong": "Saturday, October 24",
-      "dayStart": "20:35",
+      "dateShort": "Sat, Oct 24",
       "dayEnd": "23:18",
+      "dayNum": 24,
+      "dayStart": "20:35",
+      "deep": 0,
+      "dow": 6,
       "events": [
         {
-          "start": "20:35",
+          "cat": "admin",
           "end": "20:45",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "20:35",
+          "title": "Outlook"
         },
         {
-          "start": "20:52",
+          "cat": "admin",
           "end": "20:55",
-          "cat": "admin",
+          "note": "apple.com",
           "src": "macos",
-          "title": "Buy Apple Watch Series 12 - Education - Apple (AU)",
-          "note": "apple.com"
+          "start": "20:52",
+          "title": "Buy Apple Watch Series 12 - Education - Apple (AU)"
         },
         {
-          "start": "20:55",
+          "cat": "admin",
           "end": "21:00",
-          "cat": "admin",
+          "note": "apple.com",
           "src": "macos",
-          "title": "Buy Apple Watch Series 12 GPS, 42-mm Black Aluminium Case wi",
-          "note": "apple.com"
+          "start": "20:55",
+          "title": "Buy Apple Watch Series 12 GPS, 42-mm Black Aluminium Case wi"
         },
         {
-          "start": "23:09",
+          "cat": "admin",
           "end": "23:11",
-          "cat": "admin",
+          "note": "apple.com",
           "src": "macos",
-          "title": "Buy Apple Watch Series 12 - Education - Apple (AU)",
-          "note": "apple.com"
+          "start": "23:09",
+          "title": "Buy Apple Watch Series 12 - Education - Apple (AU)"
         },
         {
-          "start": "23:12",
+          "cat": "admin",
           "end": "23:14",
-          "cat": "admin",
+          "note": "secure8.store.apple.com",
           "src": "macos",
-          "title": "Order Options — Secure Checkout",
-          "note": "secure8.store.apple.com"
+          "start": "23:12",
+          "title": "Order Options — Secure Checkout"
         },
         {
-          "start": "23:14",
+          "cat": "admin",
           "end": "23:16",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "apple watch s12 - Google Search",
-          "note": "google.com"
+          "start": "23:14",
+          "title": "apple watch s12 - Google Search"
         },
         {
-          "start": "23:17",
-          "end": "23:18",
           "cat": "admin",
+          "end": "23:18",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "23:17",
+          "title": "Outlook"
         }
       ],
+      "key": "2026-10-24",
       "logged": 24,
-      "real": 0,
-      "deep": 0,
       "ratio": 0.0,
+      "real": 0,
       "stats": {
         "contextSwitches": 0,
-        "tabsOpened": 0,
+        "justOneMoreThing": 0,
         "longestFocus": "0m",
-        "justOneMoreThing": 0
-      }
+        "tabsOpened": 0
+      },
+      "weekend": true
     },
     {
       "key": "2026-10-25",
@@ -107580,34 +107805,242 @@
       "dateShort": "Sun, Oct 25",
       "dateLong": "Sunday, October 25",
       "dayStart": "10:07",
-      "dayEnd": "10:22",
+      "dayEnd": "00:46",
       "events": [
         {
           "start": "10:07",
           "end": "10:14",
           "cat": "personal",
-          "src": "chrome",
-          "title": "(3) CMU AI Agents 2026: 13. Agentic Safety - YouTube",
+          "src": "macos",
+          "title": "CMU AI Agents 2026: 13. Agentic Safety - YouTube",
           "note": "youtube.com"
         },
         {
           "start": "10:14",
-          "end": "10:22",
+          "end": "10:19",
           "cat": "admin",
-          "src": "chrome",
+          "src": "macos",
           "title": "Summer Looks Better From Here - ada.ren.cn@gmail.com - Gmail",
           "note": "mail.google.com"
+        },
+        {
+          "start": "10:20",
+          "end": "10:44",
+          "cat": "personal",
+          "src": "macos",
+          "title": "CMU AI Agents 2026: 13. Agentic Safety - YouTube",
+          "note": "youtube.com"
+        },
+        {
+          "start": "10:46",
+          "end": "10:47",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Access Restricted",
+          "note": "clubmed.com.cn"
+        },
+        {
+          "start": "10:50",
+          "end": "10:57",
+          "cat": "writing",
+          "src": "macos",
+          "title": "europe-trip-itinerary-v2 - Google Sheets",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "10:59",
+          "end": "11:09",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Banking - CommBank",
+          "note": "commbank.com.au"
+        },
+        {
+          "start": "11:25",
+          "end": "11:49",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Banking - CommBank",
+          "note": "commbank.com.au"
+        },
+        {
+          "start": "11:49",
+          "end": "11:51",
+          "cat": "writing",
+          "src": "macos",
+          "title": "obsidian",
+          "note": "md.obsidian"
+        },
+        {
+          "start": "11:51",
+          "end": "11:54",
+          "cat": "research",
+          "src": "macos",
+          "title": "How a PhD Can Survive? | Ada's Notes",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "11:54",
+          "end": "12:07",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Inbox (3,281) - ada.ren.cn@gmail.com - Gmail",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "15:19",
+          "end": "15:24",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Inbox (3,281) - ada.ren.cn@gmail.com - Gmail",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "15:26",
+          "end": "15:34",
+          "cat": "coding",
+          "src": "macos",
+          "title": "assignment-1/ASSIGNMENT.md at main · cmu-agents/assignment-1",
+          "note": "github.com"
+        },
+        {
+          "start": "15:37",
+          "end": "15:41",
+          "cat": "coding",
+          "src": "macos",
+          "title": "assignment-1/ASSIGNMENT.md at main · cmu-agents/assignment-1",
+          "note": "github.com"
+        },
+        {
+          "start": "16:38",
+          "end": "16:52",
+          "cat": "coding",
+          "src": "macos",
+          "title": "assignment-1/ASSIGNMENT.md at main · cmu-agents/assignment-1",
+          "note": "github.com"
+        },
+        {
+          "start": "16:52",
+          "end": "16:54",
+          "cat": "personal",
+          "src": "macos",
+          "title": "TVmaze.com - Your personal TV guide",
+          "note": "tvmaze.com"
+        },
+        {
+          "start": "17:25",
+          "end": "17:42",
+          "cat": "personal",
+          "src": "macos",
+          "title": "TVmaze.com - Your personal TV guide",
+          "note": "tvmaze.com"
+        },
+        {
+          "start": "17:42",
+          "end": "17:57",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "17:58",
+          "end": "18:00",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Teaching Associates Substitutions S2 2026",
+          "note": "forms.cloud.microsoft"
+        },
+        {
+          "start": "18:00",
+          "end": "18:02",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "19:23",
+          "end": "19:55",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "20:01",
+          "end": "20:38",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "20:40",
+          "end": "21:13",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "21:18",
+          "end": "21:20",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Access Restricted",
+          "note": "clubmed.com.cn"
+        },
+        {
+          "start": "21:20",
+          "end": "21:23",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(35) Morning Fresh Start | Cozy Cafe Jazz BGM for Relaxing D",
+          "note": "youtube.com"
+        },
+        {
+          "start": "21:26",
+          "end": "22:31",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "22:35",
+          "end": "22:46",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · week12prac",
+          "note": "48 hits"
+        },
+        {
+          "start": "23:39",
+          "end": "00:09",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "00:22",
+          "end": "00:46",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · week12prac",
+          "note": "99 hits"
         }
       ],
-      "logged": 14,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0.0,
+      "logged": 400,
+      "real": 285,
+      "deep": 285,
+      "ratio": 0.7111504536308106,
       "stats": {
-        "contextSwitches": 1,
-        "tabsOpened": 6,
-        "longestFocus": "0m",
-        "justOneMoreThing": 0
+        "contextSwitches": 14,
+        "tabsOpened": 0,
+        "longestFocus": "2h 11m",
+        "justOneMoreThing": 1
       }
     },
     {
@@ -107617,16 +108050,33 @@
       "weekend": false,
       "dateShort": "Mon, Oct 26",
       "dateLong": "Monday, October 26",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
+      "dayStart": "09:58",
+      "dayEnd": "10:35",
+      "events": [
+        {
+          "start": "09:58",
+          "end": "10:15",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Inbox (3,281) - ada.ren.cn@gmail.com - Gmail",
+          "note": "accounts.google.com"
+        },
+        {
+          "start": "10:15",
+          "end": "10:35",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Inbox (3,281) - ada.ren.cn@gmail.com - Gmail",
+          "note": "accounts.google.com"
+        }
+      ],
+      "logged": 37,
       "real": 0,
       "deep": 0,
-      "ratio": 0,
+      "ratio": 0.0,
       "stats": {
         "contextSwitches": 0,
-        "tabsOpened": 0,
+        "tabsOpened": 6,
         "longestFocus": "0m",
         "justOneMoreThing": 0
       }
