@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-10-26T10:20:16+11:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-10-27T10:20:18+11:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -97463,250 +97463,250 @@
         "weekend": true
       },
       {
-        "key": "2026-10-25",
-        "dayNum": 25,
-        "dow": 0,
-        "weekend": true,
-        "dateShort": "Sun, Oct 25",
         "dateLong": "Sunday, October 25",
-        "dayStart": "10:07",
+        "dateShort": "Sun, Oct 25",
         "dayEnd": "00:46",
+        "dayNum": 25,
+        "dayStart": "10:07",
+        "deep": 285,
+        "dow": 0,
         "events": [
           {
-            "start": "10:07",
+            "cat": "personal",
             "end": "10:14",
-            "cat": "personal",
+            "note": "youtube.com",
             "src": "macos",
-            "title": "CMU AI Agents 2026: 13. Agentic Safety - YouTube",
-            "note": "youtube.com"
+            "start": "10:07",
+            "title": "CMU AI Agents 2026: 13. Agentic Safety - YouTube"
           },
           {
-            "start": "10:14",
+            "cat": "admin",
             "end": "10:19",
-            "cat": "admin",
+            "note": "mail.google.com",
             "src": "macos",
-            "title": "Summer Looks Better From Here - ada.ren.cn@gmail.com - Gmail",
-            "note": "mail.google.com"
+            "start": "10:14",
+            "title": "Summer Looks Better From Here - ada.ren.cn@gmail.com - Gmail"
           },
           {
-            "start": "10:20",
+            "cat": "personal",
             "end": "10:44",
-            "cat": "personal",
+            "note": "youtube.com",
             "src": "macos",
-            "title": "CMU AI Agents 2026: 13. Agentic Safety - YouTube",
-            "note": "youtube.com"
+            "start": "10:20",
+            "title": "CMU AI Agents 2026: 13. Agentic Safety - YouTube"
           },
           {
-            "start": "10:46",
+            "cat": "personal",
             "end": "10:47",
-            "cat": "personal",
+            "note": "clubmed.com.cn",
             "src": "macos",
-            "title": "Access Restricted",
-            "note": "clubmed.com.cn"
+            "start": "10:46",
+            "title": "Access Restricted"
           },
           {
-            "start": "10:50",
+            "cat": "writing",
             "end": "10:57",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "europe-trip-itinerary-v2 - Google Sheets",
-            "note": "docs.google.com"
+            "start": "10:50",
+            "title": "europe-trip-itinerary-v2 - Google Sheets"
           },
           {
-            "start": "10:59",
+            "cat": "admin",
             "end": "11:09",
-            "cat": "admin",
+            "note": "commbank.com.au",
             "src": "macos",
-            "title": "Banking - CommBank",
-            "note": "commbank.com.au"
+            "start": "10:59",
+            "title": "Banking - CommBank"
           },
           {
-            "start": "11:25",
+            "cat": "admin",
             "end": "11:49",
-            "cat": "admin",
+            "note": "commbank.com.au",
             "src": "macos",
-            "title": "Banking - CommBank",
-            "note": "commbank.com.au"
+            "start": "11:25",
+            "title": "Banking - CommBank"
           },
           {
-            "start": "11:49",
-            "end": "11:51",
             "cat": "writing",
+            "end": "11:51",
+            "note": "md.obsidian",
             "src": "macos",
-            "title": "obsidian",
-            "note": "md.obsidian"
+            "start": "11:49",
+            "title": "obsidian"
           },
           {
-            "start": "11:51",
-            "end": "11:54",
             "cat": "research",
+            "end": "11:54",
+            "note": "adaren100.github.io",
             "src": "macos",
-            "title": "How a PhD Can Survive? | Ada's Notes",
-            "note": "adaren100.github.io"
+            "start": "11:51",
+            "title": "How a PhD Can Survive? | Ada's Notes"
           },
           {
-            "start": "11:54",
+            "cat": "admin",
             "end": "12:07",
-            "cat": "admin",
+            "note": "mail.google.com",
             "src": "macos",
-            "title": "Inbox (3,281) - ada.ren.cn@gmail.com - Gmail",
-            "note": "mail.google.com"
+            "start": "11:54",
+            "title": "Inbox (3,281) - ada.ren.cn@gmail.com - Gmail"
           },
           {
-            "start": "15:19",
+            "cat": "admin",
             "end": "15:24",
-            "cat": "admin",
+            "note": "mail.google.com",
             "src": "macos",
-            "title": "Inbox (3,281) - ada.ren.cn@gmail.com - Gmail",
-            "note": "mail.google.com"
+            "start": "15:19",
+            "title": "Inbox (3,281) - ada.ren.cn@gmail.com - Gmail"
           },
           {
-            "start": "15:26",
+            "cat": "coding",
             "end": "15:34",
-            "cat": "coding",
+            "note": "github.com",
             "src": "macos",
-            "title": "assignment-1/ASSIGNMENT.md at main · cmu-agents/assignment-1",
-            "note": "github.com"
+            "start": "15:26",
+            "title": "assignment-1/ASSIGNMENT.md at main · cmu-agents/assignment-1"
           },
           {
-            "start": "15:37",
+            "cat": "coding",
             "end": "15:41",
-            "cat": "coding",
+            "note": "github.com",
             "src": "macos",
-            "title": "assignment-1/ASSIGNMENT.md at main · cmu-agents/assignment-1",
-            "note": "github.com"
+            "start": "15:37",
+            "title": "assignment-1/ASSIGNMENT.md at main · cmu-agents/assignment-1"
           },
           {
-            "start": "16:38",
+            "cat": "coding",
             "end": "16:52",
-            "cat": "coding",
+            "note": "github.com",
             "src": "macos",
-            "title": "assignment-1/ASSIGNMENT.md at main · cmu-agents/assignment-1",
-            "note": "github.com"
+            "start": "16:38",
+            "title": "assignment-1/ASSIGNMENT.md at main · cmu-agents/assignment-1"
           },
           {
-            "start": "16:52",
+            "cat": "personal",
             "end": "16:54",
-            "cat": "personal",
+            "note": "tvmaze.com",
             "src": "macos",
-            "title": "TVmaze.com - Your personal TV guide",
-            "note": "tvmaze.com"
+            "start": "16:52",
+            "title": "TVmaze.com - Your personal TV guide"
           },
           {
-            "start": "17:25",
+            "cat": "personal",
             "end": "17:42",
-            "cat": "personal",
+            "note": "tvmaze.com",
             "src": "macos",
-            "title": "TVmaze.com - Your personal TV guide",
-            "note": "tvmaze.com"
+            "start": "17:25",
+            "title": "TVmaze.com - Your personal TV guide"
           },
           {
-            "start": "17:42",
+            "cat": "coding",
             "end": "17:57",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "17:42",
+            "title": "VSCode"
           },
           {
-            "start": "17:58",
-            "end": "18:00",
             "cat": "admin",
+            "end": "18:00",
+            "note": "forms.cloud.microsoft",
             "src": "macos",
-            "title": "Teaching Associates Substitutions S2 2026",
-            "note": "forms.cloud.microsoft"
+            "start": "17:58",
+            "title": "Teaching Associates Substitutions S2 2026"
           },
           {
-            "start": "18:00",
+            "cat": "coding",
             "end": "18:02",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "18:00",
+            "title": "VSCode"
           },
           {
-            "start": "19:23",
+            "cat": "coding",
             "end": "19:55",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "19:23",
+            "title": "VSCode"
           },
           {
-            "start": "20:01",
+            "cat": "coding",
             "end": "20:38",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "20:01",
+            "title": "VSCode"
           },
           {
-            "start": "20:40",
+            "cat": "coding",
             "end": "21:13",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "20:40",
+            "title": "VSCode"
           },
           {
-            "start": "21:18",
+            "cat": "personal",
             "end": "21:20",
-            "cat": "personal",
+            "note": "clubmed.com.cn",
             "src": "macos",
-            "title": "Access Restricted",
-            "note": "clubmed.com.cn"
+            "start": "21:18",
+            "title": "Access Restricted"
           },
           {
-            "start": "21:20",
+            "cat": "personal",
             "end": "21:23",
-            "cat": "personal",
+            "note": "youtube.com",
             "src": "macos",
-            "title": "(35) Morning Fresh Start | Cozy Cafe Jazz BGM for Relaxing D",
-            "note": "youtube.com"
+            "start": "21:20",
+            "title": "(35) Morning Fresh Start | Cozy Cafe Jazz BGM for Relaxing D"
           },
           {
-            "start": "21:26",
+            "cat": "coding",
             "end": "22:31",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "21:26",
+            "title": "VSCode"
           },
           {
-            "start": "22:35",
+            "cat": "coding",
             "end": "22:46",
-            "cat": "coding",
+            "note": "48 hits",
             "src": "claude",
-            "title": "Claude session · week12prac",
-            "note": "48 hits"
+            "start": "22:35",
+            "title": "Claude session · week12prac"
           },
           {
-            "start": "23:39",
+            "cat": "coding",
             "end": "00:09",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "23:39",
+            "title": "VSCode"
           },
           {
-            "start": "00:22",
-            "end": "00:46",
             "cat": "coding",
+            "end": "00:46",
+            "note": "99 hits",
             "src": "claude",
-            "title": "Claude session · week12prac",
-            "note": "99 hits"
+            "start": "00:22",
+            "title": "Claude session · week12prac"
           }
         ],
+        "key": "2026-10-25",
         "logged": 400,
-        "real": 285,
-        "deep": 285,
         "ratio": 0.7111504536308106,
+        "real": 285,
         "stats": {
           "contextSwitches": 14,
-          "tabsOpened": 0,
+          "justOneMoreThing": 1,
           "longestFocus": "2h 11m",
-          "justOneMoreThing": 1
-        }
+          "tabsOpened": 0
+        },
+        "weekend": true
       },
       {
         "key": "2026-10-26",
@@ -97715,35 +97715,403 @@
         "weekend": false,
         "dateShort": "Mon, Oct 26",
         "dateLong": "Monday, October 26",
-        "dayStart": "09:58",
-        "dayEnd": "10:35",
+        "dayStart": "08:57",
+        "dayEnd": "18:24",
         "events": [
           {
-            "start": "09:58",
-            "end": "10:15",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Inbox (3,281) - ada.ren.cn@gmail.com - Gmail",
-            "note": "accounts.google.com"
+            "start": "08:57",
+            "end": "09:10",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
           },
           {
-            "start": "10:15",
-            "end": "10:35",
+            "start": "09:55",
+            "end": "09:57",
             "cat": "admin",
-            "src": "chrome",
-            "title": "Inbox (3,281) - ada.ren.cn@gmail.com - Gmail",
-            "note": "accounts.google.com"
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "09:58",
+            "end": "10:01",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Recommender Systems: Evidence, Models, and Product Choices",
+            "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+          },
+          {
+            "start": "10:01",
+            "end": "10:07",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "teams2",
+            "note": "com.microsoft.teams2"
+          },
+          {
+            "start": "10:17",
+            "end": "10:19",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Practice Final Exam (page 1 of 3) | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "10:19",
+            "end": "10:20",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Editing quiz: Final Exam | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "10:21",
+            "end": "10:27",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "teams2",
+            "note": "com.microsoft.teams2"
+          },
+          {
+            "start": "10:27",
+            "end": "10:33",
+            "cat": "admin",
+            "src": "macos",
+            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Week 12 Practical | i",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "10:36",
+            "end": "10:40",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "teams2",
+            "note": "com.microsoft.teams2"
+          },
+          {
+            "start": "11:02",
+            "end": "11:11",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "11:11",
+            "end": "11:14",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "11:14",
+            "end": "11:20",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Teaching Associates Substitutions S2 2026",
+            "note": "forms.office.com"
+          },
+          {
+            "start": "11:25",
+            "end": "11:40",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Teaching Associates Substitutions S2 2026",
+            "note": "forms.office.com"
+          },
+          {
+            "start": "11:40",
+            "end": "11:42",
+            "cat": "research",
+            "src": "macos",
+            "title": "Training and Finetuning Reranker Models with Sentence Transf",
+            "note": "huggingface.co"
+          },
+          {
+            "start": "11:42",
+            "end": "11:46",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "teams2",
+            "note": "com.microsoft.teams2"
+          },
+          {
+            "start": "11:46",
+            "end": "12:03",
+            "cat": "research",
+            "src": "macos",
+            "title": "Training and Finetuning Reranker Models with Sentence Transf",
+            "note": "huggingface.co"
+          },
+          {
+            "start": "12:12",
+            "end": "12:23",
+            "cat": "research",
+            "src": "macos",
+            "title": "Training and Finetuning Reranker Models with Sentence Transf",
+            "note": "huggingface.co"
+          },
+          {
+            "start": "12:23",
+            "end": "12:25",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "teams2",
+            "note": "com.microsoft.teams2"
+          },
+          {
+            "start": "12:25",
+            "end": "12:28",
+            "cat": "research",
+            "src": "macos",
+            "title": "Training and Finetuning Reranker Models with Sentence Transf",
+            "note": "huggingface.co"
+          },
+          {
+            "start": "12:28",
+            "end": "12:30",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "teams2",
+            "note": "com.microsoft.teams2"
+          },
+          {
+            "start": "12:31",
+            "end": "12:43",
+            "cat": "research",
+            "src": "macos",
+            "title": "How a PhD Can Survive? | Ada's Notes",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "12:47",
+            "end": "13:02",
+            "cat": "research",
+            "src": "macos",
+            "title": "How a PhD Can Survive? | Ada's Notes",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "13:39",
+            "end": "13:43",
+            "cat": "research",
+            "src": "macos",
+            "title": "P3 Recommendation Engine",
+            "note": "p3.symmachus.org"
+          },
+          {
+            "start": "13:43",
+            "end": "13:54",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Excalidraw Whiteboard",
+            "note": "excalidraw.com"
+          },
+          {
+            "start": "13:59",
+            "end": "14:10",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "14:11",
+            "end": "14:12",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Excel",
+            "note": "com.microsoft.Excel"
+          },
+          {
+            "start": "14:13",
+            "end": "14:18",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Excel",
+            "note": "com.microsoft.Excel"
+          },
+          {
+            "start": "14:19",
+            "end": "14:21",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Excel",
+            "note": "com.microsoft.Excel"
+          },
+          {
+            "start": "14:21",
+            "end": "15:16",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:17",
+            "end": "15:45",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:47",
+            "end": "16:03",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:04",
+            "end": "16:08",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Untitled26.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "16:08",
+            "end": "16:12",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:12",
+            "end": "16:14",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google",
+            "note": "google.com"
+          },
+          {
+            "start": "16:14",
+            "end": "16:15",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:15",
+            "end": "16:35",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google",
+            "note": "google.com"
+          },
+          {
+            "start": "16:36",
+            "end": "16:38",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "16:39",
+            "end": "16:45",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "16:49",
+            "end": "16:51",
+            "cat": "admin",
+            "src": "macos",
+            "title": "My home | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "16:52",
+            "end": "16:56",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Learner Evaluation of Unit.pdf",
+            "note": "ishare.mq.edu.au"
+          },
+          {
+            "start": "16:59",
+            "end": "17:00",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Learner Evaluation of Unit.pdf",
+            "note": "ishare.mq.edu.au"
+          },
+          {
+            "start": "17:01",
+            "end": "17:17",
+            "cat": "admin",
+            "src": "macos",
+            "title": "COMP2200/COMP6200 MQ Slides Template",
+            "note": "content.ilearn.mq.edu.au"
+          },
+          {
+            "start": "17:17",
+            "end": "17:54",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "17:54",
+            "end": "18:00",
+            "cat": "admin",
+            "src": "macos",
+            "title": "COMP2200/COMP6200 MQ Slides Template",
+            "note": "content.ilearn.mq.edu.au"
+          },
+          {
+            "start": "18:00",
+            "end": "18:03",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "18:03",
+            "end": "18:08",
+            "cat": "admin",
+            "src": "macos",
+            "title": "COMP2200/COMP6200 MQ Slides Template",
+            "note": "content.ilearn.mq.edu.au"
+          },
+          {
+            "start": "18:08",
+            "end": "18:23",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "18:23",
+            "end": "18:24",
+            "cat": "admin",
+            "src": "macos",
+            "title": "COMP2200/COMP6200 MQ Slides Template",
+            "note": "content.ilearn.mq.edu.au"
           }
         ],
-        "logged": 37,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0.0,
+        "logged": 408,
+        "real": 310,
+        "deep": 310,
+        "ratio": 0.7600319647597598,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 6,
-          "longestFocus": "0m",
-          "justOneMoreThing": 0
+          "contextSwitches": 29,
+          "tabsOpened": 0,
+          "longestFocus": "1h 56m",
+          "justOneMoreThing": 5
         }
       },
       {
@@ -97753,17 +98121,66 @@
         "weekend": false,
         "dateShort": "Tue, Oct 27",
         "dateLong": "Tuesday, October 27",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "09:58",
+        "dayEnd": "10:33",
+        "events": [
+          {
+            "start": "09:58",
+            "end": "10:00",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "30% OFF STARTS NOW (not a drill) - ada.ren.cn@gmail.com - Gm",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "10:00",
+            "end": "10:12",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "30% OFF STARTS NOW (not a drill) - ada.ren.cn@gmail.com - Gm",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "10:12",
+            "end": "10:20",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "30% OFF STARTS NOW (not a drill) - ada.ren.cn@gmail.com - Gm",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "10:20",
+            "end": "10:21",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "ALO | Yoga leggings, clothes, and accessories for studio to ",
+            "note": "aloyoga.com"
+          },
+          {
+            "start": "10:21",
+            "end": "10:32",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Prenot@mi - Appuntamento da confermare - Confirm Booking - a",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "10:32",
+            "end": "10:33",
+            "cat": "coding",
+            "src": "chrome",
+            "title": "COMP8460_Week12_solutionsV2.ipynb - Colab",
+            "note": "colab.research.google.com"
+          }
+        ],
+        "logged": 35,
+        "real": 1,
+        "deep": 1,
+        "ratio": 0.02545431625103229,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "0m",
+          "contextSwitches": 3,
+          "tabsOpened": 18,
+          "longestFocus": "1m",
           "justOneMoreThing": 0
         }
       },
@@ -107798,250 +108215,250 @@
       "weekend": true
     },
     {
-      "key": "2026-10-25",
-      "dayNum": 25,
-      "dow": 0,
-      "weekend": true,
-      "dateShort": "Sun, Oct 25",
       "dateLong": "Sunday, October 25",
-      "dayStart": "10:07",
+      "dateShort": "Sun, Oct 25",
       "dayEnd": "00:46",
+      "dayNum": 25,
+      "dayStart": "10:07",
+      "deep": 285,
+      "dow": 0,
       "events": [
         {
-          "start": "10:07",
+          "cat": "personal",
           "end": "10:14",
-          "cat": "personal",
+          "note": "youtube.com",
           "src": "macos",
-          "title": "CMU AI Agents 2026: 13. Agentic Safety - YouTube",
-          "note": "youtube.com"
+          "start": "10:07",
+          "title": "CMU AI Agents 2026: 13. Agentic Safety - YouTube"
         },
         {
-          "start": "10:14",
+          "cat": "admin",
           "end": "10:19",
-          "cat": "admin",
+          "note": "mail.google.com",
           "src": "macos",
-          "title": "Summer Looks Better From Here - ada.ren.cn@gmail.com - Gmail",
-          "note": "mail.google.com"
+          "start": "10:14",
+          "title": "Summer Looks Better From Here - ada.ren.cn@gmail.com - Gmail"
         },
         {
-          "start": "10:20",
+          "cat": "personal",
           "end": "10:44",
-          "cat": "personal",
+          "note": "youtube.com",
           "src": "macos",
-          "title": "CMU AI Agents 2026: 13. Agentic Safety - YouTube",
-          "note": "youtube.com"
+          "start": "10:20",
+          "title": "CMU AI Agents 2026: 13. Agentic Safety - YouTube"
         },
         {
-          "start": "10:46",
+          "cat": "personal",
           "end": "10:47",
-          "cat": "personal",
+          "note": "clubmed.com.cn",
           "src": "macos",
-          "title": "Access Restricted",
-          "note": "clubmed.com.cn"
+          "start": "10:46",
+          "title": "Access Restricted"
         },
         {
-          "start": "10:50",
+          "cat": "writing",
           "end": "10:57",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "europe-trip-itinerary-v2 - Google Sheets",
-          "note": "docs.google.com"
+          "start": "10:50",
+          "title": "europe-trip-itinerary-v2 - Google Sheets"
         },
         {
-          "start": "10:59",
+          "cat": "admin",
           "end": "11:09",
-          "cat": "admin",
+          "note": "commbank.com.au",
           "src": "macos",
-          "title": "Banking - CommBank",
-          "note": "commbank.com.au"
+          "start": "10:59",
+          "title": "Banking - CommBank"
         },
         {
-          "start": "11:25",
+          "cat": "admin",
           "end": "11:49",
-          "cat": "admin",
+          "note": "commbank.com.au",
           "src": "macos",
-          "title": "Banking - CommBank",
-          "note": "commbank.com.au"
+          "start": "11:25",
+          "title": "Banking - CommBank"
         },
         {
-          "start": "11:49",
-          "end": "11:51",
           "cat": "writing",
+          "end": "11:51",
+          "note": "md.obsidian",
           "src": "macos",
-          "title": "obsidian",
-          "note": "md.obsidian"
+          "start": "11:49",
+          "title": "obsidian"
         },
         {
-          "start": "11:51",
-          "end": "11:54",
           "cat": "research",
+          "end": "11:54",
+          "note": "adaren100.github.io",
           "src": "macos",
-          "title": "How a PhD Can Survive? | Ada's Notes",
-          "note": "adaren100.github.io"
+          "start": "11:51",
+          "title": "How a PhD Can Survive? | Ada's Notes"
         },
         {
-          "start": "11:54",
+          "cat": "admin",
           "end": "12:07",
-          "cat": "admin",
+          "note": "mail.google.com",
           "src": "macos",
-          "title": "Inbox (3,281) - ada.ren.cn@gmail.com - Gmail",
-          "note": "mail.google.com"
+          "start": "11:54",
+          "title": "Inbox (3,281) - ada.ren.cn@gmail.com - Gmail"
         },
         {
-          "start": "15:19",
+          "cat": "admin",
           "end": "15:24",
-          "cat": "admin",
+          "note": "mail.google.com",
           "src": "macos",
-          "title": "Inbox (3,281) - ada.ren.cn@gmail.com - Gmail",
-          "note": "mail.google.com"
+          "start": "15:19",
+          "title": "Inbox (3,281) - ada.ren.cn@gmail.com - Gmail"
         },
         {
-          "start": "15:26",
+          "cat": "coding",
           "end": "15:34",
-          "cat": "coding",
+          "note": "github.com",
           "src": "macos",
-          "title": "assignment-1/ASSIGNMENT.md at main · cmu-agents/assignment-1",
-          "note": "github.com"
+          "start": "15:26",
+          "title": "assignment-1/ASSIGNMENT.md at main · cmu-agents/assignment-1"
         },
         {
-          "start": "15:37",
+          "cat": "coding",
           "end": "15:41",
-          "cat": "coding",
+          "note": "github.com",
           "src": "macos",
-          "title": "assignment-1/ASSIGNMENT.md at main · cmu-agents/assignment-1",
-          "note": "github.com"
+          "start": "15:37",
+          "title": "assignment-1/ASSIGNMENT.md at main · cmu-agents/assignment-1"
         },
         {
-          "start": "16:38",
+          "cat": "coding",
           "end": "16:52",
-          "cat": "coding",
+          "note": "github.com",
           "src": "macos",
-          "title": "assignment-1/ASSIGNMENT.md at main · cmu-agents/assignment-1",
-          "note": "github.com"
+          "start": "16:38",
+          "title": "assignment-1/ASSIGNMENT.md at main · cmu-agents/assignment-1"
         },
         {
-          "start": "16:52",
+          "cat": "personal",
           "end": "16:54",
-          "cat": "personal",
+          "note": "tvmaze.com",
           "src": "macos",
-          "title": "TVmaze.com - Your personal TV guide",
-          "note": "tvmaze.com"
+          "start": "16:52",
+          "title": "TVmaze.com - Your personal TV guide"
         },
         {
-          "start": "17:25",
+          "cat": "personal",
           "end": "17:42",
-          "cat": "personal",
+          "note": "tvmaze.com",
           "src": "macos",
-          "title": "TVmaze.com - Your personal TV guide",
-          "note": "tvmaze.com"
+          "start": "17:25",
+          "title": "TVmaze.com - Your personal TV guide"
         },
         {
-          "start": "17:42",
+          "cat": "coding",
           "end": "17:57",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "17:42",
+          "title": "VSCode"
         },
         {
-          "start": "17:58",
-          "end": "18:00",
           "cat": "admin",
+          "end": "18:00",
+          "note": "forms.cloud.microsoft",
           "src": "macos",
-          "title": "Teaching Associates Substitutions S2 2026",
-          "note": "forms.cloud.microsoft"
+          "start": "17:58",
+          "title": "Teaching Associates Substitutions S2 2026"
         },
         {
-          "start": "18:00",
+          "cat": "coding",
           "end": "18:02",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "18:00",
+          "title": "VSCode"
         },
         {
-          "start": "19:23",
+          "cat": "coding",
           "end": "19:55",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "19:23",
+          "title": "VSCode"
         },
         {
-          "start": "20:01",
+          "cat": "coding",
           "end": "20:38",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "20:01",
+          "title": "VSCode"
         },
         {
-          "start": "20:40",
+          "cat": "coding",
           "end": "21:13",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "20:40",
+          "title": "VSCode"
         },
         {
-          "start": "21:18",
+          "cat": "personal",
           "end": "21:20",
-          "cat": "personal",
+          "note": "clubmed.com.cn",
           "src": "macos",
-          "title": "Access Restricted",
-          "note": "clubmed.com.cn"
+          "start": "21:18",
+          "title": "Access Restricted"
         },
         {
-          "start": "21:20",
+          "cat": "personal",
           "end": "21:23",
-          "cat": "personal",
+          "note": "youtube.com",
           "src": "macos",
-          "title": "(35) Morning Fresh Start | Cozy Cafe Jazz BGM for Relaxing D",
-          "note": "youtube.com"
+          "start": "21:20",
+          "title": "(35) Morning Fresh Start | Cozy Cafe Jazz BGM for Relaxing D"
         },
         {
-          "start": "21:26",
+          "cat": "coding",
           "end": "22:31",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "21:26",
+          "title": "VSCode"
         },
         {
-          "start": "22:35",
+          "cat": "coding",
           "end": "22:46",
-          "cat": "coding",
+          "note": "48 hits",
           "src": "claude",
-          "title": "Claude session · week12prac",
-          "note": "48 hits"
+          "start": "22:35",
+          "title": "Claude session · week12prac"
         },
         {
-          "start": "23:39",
+          "cat": "coding",
           "end": "00:09",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "23:39",
+          "title": "VSCode"
         },
         {
-          "start": "00:22",
-          "end": "00:46",
           "cat": "coding",
+          "end": "00:46",
+          "note": "99 hits",
           "src": "claude",
-          "title": "Claude session · week12prac",
-          "note": "99 hits"
+          "start": "00:22",
+          "title": "Claude session · week12prac"
         }
       ],
+      "key": "2026-10-25",
       "logged": 400,
-      "real": 285,
-      "deep": 285,
       "ratio": 0.7111504536308106,
+      "real": 285,
       "stats": {
         "contextSwitches": 14,
-        "tabsOpened": 0,
+        "justOneMoreThing": 1,
         "longestFocus": "2h 11m",
-        "justOneMoreThing": 1
-      }
+        "tabsOpened": 0
+      },
+      "weekend": true
     },
     {
       "key": "2026-10-26",
@@ -108050,35 +108467,403 @@
       "weekend": false,
       "dateShort": "Mon, Oct 26",
       "dateLong": "Monday, October 26",
-      "dayStart": "09:58",
-      "dayEnd": "10:35",
+      "dayStart": "08:57",
+      "dayEnd": "18:24",
       "events": [
         {
-          "start": "09:58",
-          "end": "10:15",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Inbox (3,281) - ada.ren.cn@gmail.com - Gmail",
-          "note": "accounts.google.com"
+          "start": "08:57",
+          "end": "09:10",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
         },
         {
-          "start": "10:15",
-          "end": "10:35",
+          "start": "09:55",
+          "end": "09:57",
           "cat": "admin",
-          "src": "chrome",
-          "title": "Inbox (3,281) - ada.ren.cn@gmail.com - Gmail",
-          "note": "accounts.google.com"
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "09:58",
+          "end": "10:01",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Recommender Systems: Evidence, Models, and Product Choices",
+          "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+        },
+        {
+          "start": "10:01",
+          "end": "10:07",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "teams2",
+          "note": "com.microsoft.teams2"
+        },
+        {
+          "start": "10:17",
+          "end": "10:19",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Practice Final Exam (page 1 of 3) | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "10:19",
+          "end": "10:20",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Editing quiz: Final Exam | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "10:21",
+          "end": "10:27",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "teams2",
+          "note": "com.microsoft.teams2"
+        },
+        {
+          "start": "10:27",
+          "end": "10:33",
+          "cat": "admin",
+          "src": "macos",
+          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Week 12 Practical | i",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "10:36",
+          "end": "10:40",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "teams2",
+          "note": "com.microsoft.teams2"
+        },
+        {
+          "start": "11:02",
+          "end": "11:11",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "11:11",
+          "end": "11:14",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "11:14",
+          "end": "11:20",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Teaching Associates Substitutions S2 2026",
+          "note": "forms.office.com"
+        },
+        {
+          "start": "11:25",
+          "end": "11:40",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Teaching Associates Substitutions S2 2026",
+          "note": "forms.office.com"
+        },
+        {
+          "start": "11:40",
+          "end": "11:42",
+          "cat": "research",
+          "src": "macos",
+          "title": "Training and Finetuning Reranker Models with Sentence Transf",
+          "note": "huggingface.co"
+        },
+        {
+          "start": "11:42",
+          "end": "11:46",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "teams2",
+          "note": "com.microsoft.teams2"
+        },
+        {
+          "start": "11:46",
+          "end": "12:03",
+          "cat": "research",
+          "src": "macos",
+          "title": "Training and Finetuning Reranker Models with Sentence Transf",
+          "note": "huggingface.co"
+        },
+        {
+          "start": "12:12",
+          "end": "12:23",
+          "cat": "research",
+          "src": "macos",
+          "title": "Training and Finetuning Reranker Models with Sentence Transf",
+          "note": "huggingface.co"
+        },
+        {
+          "start": "12:23",
+          "end": "12:25",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "teams2",
+          "note": "com.microsoft.teams2"
+        },
+        {
+          "start": "12:25",
+          "end": "12:28",
+          "cat": "research",
+          "src": "macos",
+          "title": "Training and Finetuning Reranker Models with Sentence Transf",
+          "note": "huggingface.co"
+        },
+        {
+          "start": "12:28",
+          "end": "12:30",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "teams2",
+          "note": "com.microsoft.teams2"
+        },
+        {
+          "start": "12:31",
+          "end": "12:43",
+          "cat": "research",
+          "src": "macos",
+          "title": "How a PhD Can Survive? | Ada's Notes",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "12:47",
+          "end": "13:02",
+          "cat": "research",
+          "src": "macos",
+          "title": "How a PhD Can Survive? | Ada's Notes",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "13:39",
+          "end": "13:43",
+          "cat": "research",
+          "src": "macos",
+          "title": "P3 Recommendation Engine",
+          "note": "p3.symmachus.org"
+        },
+        {
+          "start": "13:43",
+          "end": "13:54",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Excalidraw Whiteboard",
+          "note": "excalidraw.com"
+        },
+        {
+          "start": "13:59",
+          "end": "14:10",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "14:11",
+          "end": "14:12",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Excel",
+          "note": "com.microsoft.Excel"
+        },
+        {
+          "start": "14:13",
+          "end": "14:18",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Excel",
+          "note": "com.microsoft.Excel"
+        },
+        {
+          "start": "14:19",
+          "end": "14:21",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Excel",
+          "note": "com.microsoft.Excel"
+        },
+        {
+          "start": "14:21",
+          "end": "15:16",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:17",
+          "end": "15:45",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:47",
+          "end": "16:03",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:04",
+          "end": "16:08",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Untitled26.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "16:08",
+          "end": "16:12",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:12",
+          "end": "16:14",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google",
+          "note": "google.com"
+        },
+        {
+          "start": "16:14",
+          "end": "16:15",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:15",
+          "end": "16:35",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google",
+          "note": "google.com"
+        },
+        {
+          "start": "16:36",
+          "end": "16:38",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "16:39",
+          "end": "16:45",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "16:49",
+          "end": "16:51",
+          "cat": "admin",
+          "src": "macos",
+          "title": "My home | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "16:52",
+          "end": "16:56",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Learner Evaluation of Unit.pdf",
+          "note": "ishare.mq.edu.au"
+        },
+        {
+          "start": "16:59",
+          "end": "17:00",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Learner Evaluation of Unit.pdf",
+          "note": "ishare.mq.edu.au"
+        },
+        {
+          "start": "17:01",
+          "end": "17:17",
+          "cat": "admin",
+          "src": "macos",
+          "title": "COMP2200/COMP6200 MQ Slides Template",
+          "note": "content.ilearn.mq.edu.au"
+        },
+        {
+          "start": "17:17",
+          "end": "17:54",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "17:54",
+          "end": "18:00",
+          "cat": "admin",
+          "src": "macos",
+          "title": "COMP2200/COMP6200 MQ Slides Template",
+          "note": "content.ilearn.mq.edu.au"
+        },
+        {
+          "start": "18:00",
+          "end": "18:03",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "18:03",
+          "end": "18:08",
+          "cat": "admin",
+          "src": "macos",
+          "title": "COMP2200/COMP6200 MQ Slides Template",
+          "note": "content.ilearn.mq.edu.au"
+        },
+        {
+          "start": "18:08",
+          "end": "18:23",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "18:23",
+          "end": "18:24",
+          "cat": "admin",
+          "src": "macos",
+          "title": "COMP2200/COMP6200 MQ Slides Template",
+          "note": "content.ilearn.mq.edu.au"
         }
       ],
-      "logged": 37,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0.0,
+      "logged": 408,
+      "real": 310,
+      "deep": 310,
+      "ratio": 0.7600319647597598,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 6,
-        "longestFocus": "0m",
-        "justOneMoreThing": 0
+        "contextSwitches": 29,
+        "tabsOpened": 0,
+        "longestFocus": "1h 56m",
+        "justOneMoreThing": 5
       }
     },
     {
@@ -108088,17 +108873,66 @@
       "weekend": false,
       "dateShort": "Tue, Oct 27",
       "dateLong": "Tuesday, October 27",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "09:58",
+      "dayEnd": "10:33",
+      "events": [
+        {
+          "start": "09:58",
+          "end": "10:00",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "30% OFF STARTS NOW (not a drill) - ada.ren.cn@gmail.com - Gm",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "10:00",
+          "end": "10:12",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "30% OFF STARTS NOW (not a drill) - ada.ren.cn@gmail.com - Gm",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "10:12",
+          "end": "10:20",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "30% OFF STARTS NOW (not a drill) - ada.ren.cn@gmail.com - Gm",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "10:20",
+          "end": "10:21",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "ALO | Yoga leggings, clothes, and accessories for studio to ",
+          "note": "aloyoga.com"
+        },
+        {
+          "start": "10:21",
+          "end": "10:32",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Prenot@mi - Appuntamento da confermare - Confirm Booking - a",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "10:32",
+          "end": "10:33",
+          "cat": "coding",
+          "src": "chrome",
+          "title": "COMP8460_Week12_solutionsV2.ipynb - Colab",
+          "note": "colab.research.google.com"
+        }
+      ],
+      "logged": 35,
+      "real": 1,
+      "deep": 1,
+      "ratio": 0.02545431625103229,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "0m",
+        "contextSwitches": 3,
+        "tabsOpened": 18,
+        "longestFocus": "1m",
         "justOneMoreThing": 0
       }
     },
