@@ -55,6 +55,11 @@ enableRobotsTXT = true
     url = '/archives/'
     weight = 20
 
+# Personal posts live at the site root (/<file-name>/), not under /posts/.
+# The pre-2026-10-28 /posts/<name>/ URLs redirect via static/posts/<name>/index.html.
+[permalinks]
+  posts = '/:contentbasename/'
+
 [markup.tableOfContents]
   startLevel = 2
   endLevel = 2
