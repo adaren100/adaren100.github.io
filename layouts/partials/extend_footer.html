@@ -29,12 +29,16 @@
     a.setAttribute('rel', 'noopener');
   });
 
-  /* ── CJK paragraph tagger ─────────────────────────────────── */
+  /* ── CJK paragraph tagger ───────────────────────────────────
+     Only for the bilingual digests. Personal posts (.section-posts) are
+     written in one language and should render as plain prose. */
   var CJK = /[㐀-鿿　-〿＀-￯]/;
   var SEL = '.post-content p, .post-content li, .post-content h2, .post-content h3, .post-content h4, .post-content blockquote';
-  document.querySelectorAll(SEL).forEach(function (el) {
-    if (CJK.test(el.textContent)) el.classList.add('lang-zh');
-  });
+  if (!document.querySelector('.section-posts')) {
+    document.querySelectorAll(SEL).forEach(function (el) {
+      if (CJK.test(el.textContent)) el.classList.add('lang-zh');
+    });
+  }
 
   /* ── Reading progress bar ────────────────────────────────── */
   var progressFill = document.querySelector('.post-toc-progress-fill');
