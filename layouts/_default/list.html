@@ -32,7 +32,7 @@
       <span class="count">{{ len .Pages }} entries</span>
     </div>
     {{- range .Pages }}
-    <a class="home-post-row" href="{{ .RelPermalink }}">
+    <a class="home-post-row" href="{{ partial "entry-url.html" . }}">
       <div class="home-post-date">
           <span class="date-month">{{ .Date.Format "Jan" | upper }}</span>
           <span class="date-day">{{ .Date.Format "2" }}</span>

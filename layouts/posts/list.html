@@ -1,0 +1,31 @@
+{{- /* Personal posts — one page, every post in full, newest first.
+       Posts have no page of their own; each gets an anchor (#<file-name>)
+       that the home page, archive and old /posts/<name>/ redirects point at.
+*/ -}}
+
+{{- define "main" }}
+
+{{- $pages := .RegularPagesRecursive.ByDate.Reverse }}
+
+<div class="section-wrap section-posts">
+  <header class="section-header">
+    <h1>{{ .Title | default (humanize .Section) }}</h1>
+    <div class="count">{{ len $pages }} entries</div>
+  </header>
+
+  {{- range $pages }}
+  <article class="posts-stream-entry" id="{{ anchorize .File.ContentBaseName }}">
+    <div class="post-meta-line">
+      <a href="#{{ anchorize .File.ContentBaseName }}" style="border:none;">{{ .Date.Format "Jan 2, 2006" }}</a>
+      <span>· {{ .ReadingTime }} min</span>
+    </div>
+    <h2 class="post-title">{{ .Title }}</h2>
+    <hr class="post-divider">
+    <div class="post-content">
+      {{ .Content }}
+    </div>
+  </article>
+  {{- end }}
+</div>
+
+{{- end }}
