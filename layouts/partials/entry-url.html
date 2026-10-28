@@ -1,7 +1,0 @@
-{{- /* URL for a list entry. Personal posts aren't rendered as their own pages
-       (see the cascade in hugo.toml), so they link to their anchor on /posts/. */ -}}
-{{- $url := .RelPermalink -}}
-{{- if eq .Section "posts" -}}
-  {{- $url = printf "/posts/#%s" (anchorize .File.ContentBaseName) -}}
-{{- end -}}
-{{- return $url -}}
