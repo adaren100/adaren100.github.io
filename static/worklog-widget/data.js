@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-10-28T10:20:16+11:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-10-29T10:20:23+11:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -98115,650 +98115,650 @@
         "weekend": false
       },
       {
-        "key": "2026-10-27",
-        "dayNum": 27,
-        "dow": 2,
-        "weekend": false,
-        "dateShort": "Tue, Oct 27",
         "dateLong": "Tuesday, October 27",
-        "dayStart": "09:58",
+        "dateShort": "Tue, Oct 27",
         "dayEnd": "18:45",
+        "dayNum": 27,
+        "dayStart": "09:58",
+        "deep": 313,
+        "dow": 2,
         "events": [
           {
-            "start": "09:58",
+            "cat": "admin",
             "end": "10:00",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "09:58",
+            "title": "Outlook"
           },
           {
-            "start": "10:05",
+            "cat": "admin",
             "end": "10:06",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "10:05",
+            "title": "Outlook"
           },
           {
-            "start": "10:06",
+            "cat": "admin",
             "end": "10:12",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "10:06",
+            "title": "Outlook"
           },
           {
-            "start": "10:13",
+            "cat": "coding",
             "end": "10:15",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "COMP8460_Week12_questionsV2.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "10:13",
+            "title": "COMP8460_Week12_questionsV2.ipynb - Colab"
           },
           {
-            "start": "10:17",
+            "cat": "coding",
             "end": "10:19",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "COMP8460_Week12_questionsV2.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "10:17",
+            "title": "COMP8460_Week12_questionsV2.ipynb - Colab"
           },
           {
-            "start": "10:25",
+            "cat": "coding",
             "end": "10:30",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "COMP8460_Week12_questionsV2.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "10:25",
+            "title": "COMP8460_Week12_questionsV2.ipynb - Colab"
           },
           {
-            "start": "10:32",
+            "cat": "admin",
             "end": "10:33",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "Librispeech - Google Search",
-            "note": "google.com"
+            "start": "10:32",
+            "title": "Librispeech - Google Search"
           },
           {
-            "start": "10:34",
+            "cat": "coding",
             "end": "10:39",
-            "cat": "coding",
+            "note": "claude.ai",
             "src": "macos",
-            "title": "Claude",
-            "note": "claude.ai"
+            "start": "10:34",
+            "title": "Claude"
           },
           {
-            "start": "10:39",
+            "cat": "research",
             "end": "10:41",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "2006.11477v3.pdf",
-            "note": "arxiv.org"
+            "start": "10:39",
+            "title": "2006.11477v3.pdf"
           },
           {
-            "start": "10:41",
+            "cat": "coding",
             "end": "10:50",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "COMP8460_Week12_questionsV2.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "10:41",
+            "title": "COMP8460_Week12_questionsV2.ipynb - Colab"
           },
           {
-            "start": "10:53",
+            "cat": "admin",
             "end": "10:59",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "10:53",
+            "title": "Outlook"
           },
           {
-            "start": "11:05",
+            "cat": "admin",
             "end": "11:06",
-            "cat": "admin",
+            "note": "conssydney.esteri.it",
             "src": "macos",
-            "title": "New booking portal: Prenot@mi – Consolato Generale d'Italia ",
-            "note": "conssydney.esteri.it"
+            "start": "11:05",
+            "title": "New booking portal: Prenot@mi – Consolato Generale d'Italia "
           },
           {
-            "start": "11:08",
+            "cat": "admin",
             "end": "11:11",
-            "cat": "admin",
+            "note": "visa.vfsglobal.com",
             "src": "macos",
-            "title": "italy-checklist-feb.pdf",
-            "note": "visa.vfsglobal.com"
+            "start": "11:08",
+            "title": "italy-checklist-feb.pdf"
           },
           {
-            "start": "11:12",
+            "cat": "admin",
             "end": "11:14",
-            "cat": "admin",
+            "note": "conssydney.esteri.it",
             "src": "macos",
-            "title": "Regulation (EU) 2023/2667 of the European Parliament and of ",
-            "note": "conssydney.esteri.it"
+            "start": "11:12",
+            "title": "Regulation (EU) 2023/2667 of the European Parliament and of "
           },
           {
-            "start": "11:14",
+            "cat": "research",
             "end": "11:21",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "11:14",
+            "title": "zotero"
           },
           {
-            "start": "11:21",
+            "cat": "research",
             "end": "11:24",
-            "cat": "research",
+            "note": "chatgpt.com",
             "src": "macos",
-            "title": "ChatGPT",
-            "note": "chatgpt.com"
+            "start": "11:21",
+            "title": "ChatGPT"
           },
           {
-            "start": "11:24",
+            "cat": "admin",
             "end": "11:26",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "unmeltable me lyrics - Google Search",
-            "note": "google.com"
+            "start": "11:24",
+            "title": "unmeltable me lyrics - Google Search"
           },
           {
-            "start": "11:26",
+            "cat": "research",
             "end": "11:28",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "11:26",
+            "title": "zotero"
           },
           {
-            "start": "11:29",
+            "cat": "research",
             "end": "11:35",
-            "cat": "research",
+            "note": "chatgpt.com",
             "src": "macos",
-            "title": "解释图中文字",
-            "note": "chatgpt.com"
+            "start": "11:29",
+            "title": "解释图中文字"
           },
           {
-            "start": "11:35",
+            "cat": "research",
             "end": "11:36",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "11:35",
+            "title": "zotero"
           },
           {
-            "start": "11:37",
+            "cat": "research",
             "end": "11:38",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "11:37",
+            "title": "zotero"
           },
           {
-            "start": "11:38",
+            "cat": "research",
             "end": "11:39",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "11:38",
+            "title": "zotero"
           },
           {
-            "start": "11:40",
+            "cat": "research",
             "end": "11:45",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "11:40",
+            "title": "zotero"
           },
           {
-            "start": "11:45",
+            "cat": "research",
             "end": "11:50",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "11:45",
+            "title": "zotero"
           },
           {
-            "start": "11:51",
+            "cat": "research",
             "end": "11:53",
-            "cat": "research",
+            "note": "chatgpt.com",
             "src": "macos",
-            "title": "ChatGPT",
-            "note": "chatgpt.com"
+            "start": "11:51",
+            "title": "ChatGPT"
           },
           {
-            "start": "11:53",
+            "cat": "research",
             "end": "11:56",
-            "cat": "research",
+            "note": "chatgpt.com",
             "src": "macos",
-            "title": "ChatGPT",
-            "note": "chatgpt.com"
+            "start": "11:53",
+            "title": "ChatGPT"
           },
           {
-            "start": "11:56",
+            "cat": "research",
             "end": "12:09",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "11:56",
+            "title": "zotero"
           },
           {
-            "start": "13:04",
+            "cat": "research",
             "end": "13:19",
-            "cat": "research",
+            "note": "chatgpt.com",
             "src": "macos",
-            "title": "翻译 Exemplar-based Explainers",
-            "note": "chatgpt.com"
+            "start": "13:04",
+            "title": "翻译 Exemplar-based Explainers"
           },
           {
-            "start": "13:20",
+            "cat": "research",
             "end": "13:23",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "13:20",
+            "title": "zotero"
           },
           {
-            "start": "13:23",
+            "cat": "research",
             "end": "13:42",
-            "cat": "research",
+            "note": "sourcepulse.org",
             "src": "macos",
-            "title": "404: This page could not be found.",
-            "note": "sourcepulse.org"
+            "start": "13:23",
+            "title": "404: This page could not be found."
           },
           {
-            "start": "13:43",
+            "cat": "research",
             "end": "13:57",
-            "cat": "research",
+            "note": "file:///Users/ada/Documents/MQ/papers/li",
             "src": "macos",
-            "title": "1194_From_Neurons_to_Agents_A_.pdf",
-            "note": "file:///Users/ada/Documents/MQ/papers/li"
+            "start": "13:43",
+            "title": "1194_From_Neurons_to_Agents_A_.pdf"
           },
           {
-            "start": "14:01",
+            "cat": "research",
             "end": "14:06",
-            "cat": "research",
+            "note": "file:///Users/ada/Documents/MQ/papers/li",
             "src": "macos",
-            "title": "1194_From_Neurons_to_Agents_A_.pdf",
-            "note": "file:///Users/ada/Documents/MQ/papers/li"
+            "start": "14:01",
+            "title": "1194_From_Neurons_to_Agents_A_.pdf"
           },
           {
-            "start": "14:09",
+            "cat": "research",
             "end": "14:21",
-            "cat": "research",
+            "note": "file:///Users/ada/Documents/MQ/papers/li",
             "src": "macos",
-            "title": "1194_From_Neurons_to_Agents_A_.pdf",
-            "note": "file:///Users/ada/Documents/MQ/papers/li"
+            "start": "14:09",
+            "title": "1194_From_Neurons_to_Agents_A_.pdf"
           },
           {
-            "start": "14:26",
+            "cat": "admin",
             "end": "14:29",
-            "cat": "admin",
+            "note": "com.tinyspeck.slackmacgap",
             "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "start": "14:26",
+            "title": "slackmacgap"
           },
           {
-            "start": "14:32",
+            "cat": "research",
             "end": "14:33",
-            "cat": "research",
+            "note": "underline.io",
             "src": "macos",
-            "title": "AgentTAC: Mining Temporal Action-Context Error Patterns from",
-            "note": "underline.io"
+            "start": "14:32",
+            "title": "AgentTAC: Mining Temporal Action-Context Error Patterns from"
           },
           {
-            "start": "14:34",
+            "cat": "admin",
             "end": "14:37",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "AgentTAC: Mining Temporal Action-Context Error Patterns from",
-            "note": "google.com"
+            "start": "14:34",
+            "title": "AgentTAC: Mining Temporal Action-Context Error Patterns from"
           },
           {
-            "start": "14:38",
+            "cat": "research",
             "end": "14:39",
-            "cat": "research",
+            "note": "scholar.google.com",
             "src": "macos",
-            "title": "‪Chenchen ZHAO‬ - ‪Google 学术搜索‬",
-            "note": "scholar.google.com"
+            "start": "14:38",
+            "title": "‪Chenchen ZHAO‬ - ‪Google 学术搜索‬"
           },
           {
-            "start": "14:39",
+            "cat": "admin",
             "end": "14:44",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "14:39",
+            "title": "Outlook"
           },
           {
-            "start": "14:44",
+            "cat": "research",
             "end": "14:47",
-            "cat": "research",
+            "note": "underline.io",
             "src": "macos",
-            "title": "AgentTAC: Mining Temporal Action-Context Error Patterns from",
-            "note": "underline.io"
+            "start": "14:44",
+            "title": "AgentTAC: Mining Temporal Action-Context Error Patterns from"
           },
           {
-            "start": "14:47",
+            "cat": "research",
             "end": "15:04",
-            "cat": "research",
+            "note": "aclanthology.org",
             "src": "macos",
-            "title": "2026.emnlp-main.1637.pdf",
-            "note": "aclanthology.org"
+            "start": "14:47",
+            "title": "2026.emnlp-main.1637.pdf"
           },
           {
-            "start": "15:05",
-            "end": "15:06",
             "cat": "meeting",
+            "end": "15:06",
+            "note": "com.microsoft.teams2",
             "src": "macos",
-            "title": "teams2",
-            "note": "com.microsoft.teams2"
+            "start": "15:05",
+            "title": "teams2"
           },
           {
-            "start": "15:06",
+            "cat": "admin",
             "end": "15:08",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "15:06",
+            "title": "Outlook"
           },
           {
-            "start": "15:08",
+            "cat": "admin",
             "end": "15:17",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "Healthcare AI @ MQ Research Day - Google Search",
-            "note": "google.com"
+            "start": "15:08",
+            "title": "Healthcare AI @ MQ Research Day - Google Search"
           },
           {
-            "start": "15:17",
+            "cat": "research",
             "end": "15:19",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "15:17",
+            "title": "zotero"
           },
           {
-            "start": "15:19",
+            "cat": "admin",
             "end": "15:22",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "Healthcare AI @ MQ Research Day - Google Search",
-            "note": "google.com"
+            "start": "15:19",
+            "title": "Healthcare AI @ MQ Research Day - Google Search"
           },
           {
-            "start": "15:22",
+            "cat": "research",
             "end": "15:23",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "15:22",
+            "title": "zotero"
           },
           {
-            "start": "15:23",
+            "cat": "research",
             "end": "15:27",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "15:23",
+            "title": "zotero"
           },
           {
-            "start": "15:27",
+            "cat": "writing",
             "end": "15:28",
-            "cat": "writing",
+            "note": "zotero.org",
             "src": "macos",
-            "title": "Set up a passkey",
-            "note": "zotero.org"
+            "start": "15:27",
+            "title": "Set up a passkey"
           },
           {
-            "start": "15:28",
+            "cat": "admin",
             "end": "15:31",
-            "cat": "admin",
+            "note": "com.tinyspeck.slackmacgap",
             "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "start": "15:28",
+            "title": "slackmacgap"
           },
           {
-            "start": "15:32",
+            "cat": "research",
             "end": "15:37",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "15:32",
+            "title": "zotero"
           },
           {
-            "start": "15:38",
-            "end": "15:40",
             "cat": "writing",
+            "end": "15:40",
+            "note": "zotero.org",
             "src": "macos",
-            "title": "Set up a passkey",
-            "note": "zotero.org"
+            "start": "15:38",
+            "title": "Set up a passkey"
           },
           {
-            "start": "15:40",
+            "cat": "research",
             "end": "15:44",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "15:40",
+            "title": "zotero"
           },
           {
-            "start": "15:44",
+            "cat": "admin",
             "end": "15:50",
-            "cat": "admin",
+            "note": "com.tinyspeck.slackmacgap",
             "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "start": "15:44",
+            "title": "slackmacgap"
           },
           {
-            "start": "15:52",
+            "cat": "research",
             "end": "15:54",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "15:52",
+            "title": "zotero"
           },
           {
-            "start": "15:56",
+            "cat": "research",
             "end": "16:06",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "2006.11477v3.pdf",
-            "note": "arxiv.org"
+            "start": "15:56",
+            "title": "2006.11477v3.pdf"
           },
           {
-            "start": "16:09",
+            "cat": "research",
             "end": "16:11",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "16:09",
+            "title": "zotero"
           },
           {
-            "start": "16:11",
-            "end": "16:13",
             "cat": "admin",
+            "end": "16:13",
+            "note": "com.tinyspeck.slackmacgap",
             "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "start": "16:11",
+            "title": "slackmacgap"
           },
           {
-            "start": "16:13",
+            "cat": "research",
             "end": "16:22",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "16:13",
+            "title": "zotero"
           },
           {
-            "start": "16:22",
+            "cat": "research",
             "end": "16:42",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "VitaBench: Benchmarking LLM Agents with Versatile Interactiv",
-            "note": "arxiv.org"
+            "start": "16:22",
+            "title": "VitaBench: Benchmarking LLM Agents with Versatile Interactiv"
           },
           {
-            "start": "16:43",
+            "cat": "coding",
             "end": "16:45",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "COMP8460_Week12_solutionsV2.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "16:43",
+            "title": "COMP8460_Week12_solutionsV2.ipynb - Colab"
           },
           {
-            "start": "16:45",
+            "cat": "research",
             "end": "16:51",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "16:45",
+            "title": "zotero"
           },
           {
-            "start": "16:59",
+            "cat": "coding",
             "end": "17:13",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "COMP8460_Week12_solutionsV2.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "16:59",
+            "title": "COMP8460_Week12_solutionsV2.ipynb - Colab"
           },
           {
-            "start": "17:13",
+            "cat": "coding",
             "end": "17:18",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "COMP8460_Week12_questionsV2.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "17:13",
+            "title": "COMP8460_Week12_questionsV2.ipynb - Colab"
           },
           {
-            "start": "17:19",
+            "cat": "coding",
             "end": "17:22",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "COMP8460_Week12_questionsV2.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "17:19",
+            "title": "COMP8460_Week12_questionsV2.ipynb - Colab"
           },
           {
-            "start": "17:23",
+            "cat": "coding",
             "end": "17:27",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "COMP8460_Week12_questionsV2.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "17:23",
+            "title": "COMP8460_Week12_questionsV2.ipynb - Colab"
           },
           {
-            "start": "17:27",
+            "cat": "coding",
             "end": "17:28",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "COMP8460_Week12_questionsV2.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "17:27",
+            "title": "COMP8460_Week12_questionsV2.ipynb - Colab"
           },
           {
-            "start": "17:29",
+            "cat": "coding",
             "end": "17:30",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "COMP8460_Week12_questionsV2.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "17:29",
+            "title": "COMP8460_Week12_questionsV2.ipynb - Colab"
           },
           {
-            "start": "17:31",
+            "cat": "coding",
             "end": "17:33",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "COMP8460_Week12_solutionsV2.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "17:31",
+            "title": "COMP8460_Week12_solutionsV2.ipynb - Colab"
           },
           {
-            "start": "17:33",
+            "cat": "research",
             "end": "17:35",
-            "cat": "research",
+            "note": "huggingface.co",
             "src": "macos",
-            "title": "Pipelines · Hugging Face",
-            "note": "huggingface.co"
+            "start": "17:33",
+            "title": "Pipelines · Hugging Face"
           },
           {
-            "start": "17:35",
+            "cat": "research",
             "end": "17:40",
-            "cat": "research",
+            "note": "huggingface.co",
             "src": "macos",
-            "title": "Pipelines",
-            "note": "huggingface.co"
+            "start": "17:35",
+            "title": "Pipelines"
           },
           {
-            "start": "17:40",
+            "cat": "coding",
             "end": "17:45",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "COMP8460_Week12_solutionsV2.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "17:40",
+            "title": "COMP8460_Week12_solutionsV2.ipynb - Colab"
           },
           {
-            "start": "17:46",
+            "cat": "coding",
             "end": "17:47",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "COMP8460_Week12_solutionsV2.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "17:46",
+            "title": "COMP8460_Week12_solutionsV2.ipynb - Colab"
           },
           {
-            "start": "17:50",
+            "cat": "coding",
             "end": "17:52",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "COMP8460_Week12_solutionsV2.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "17:50",
+            "title": "COMP8460_Week12_solutionsV2.ipynb - Colab"
           },
           {
-            "start": "17:52",
+            "cat": "coding",
             "end": "17:54",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "COMP8460_Week12_questionsV2.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "17:52",
+            "title": "COMP8460_Week12_questionsV2.ipynb - Colab"
           },
           {
-            "start": "17:55",
+            "cat": "coding",
             "end": "18:04",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "COMP8460_Week12_questionsV2.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "17:55",
+            "title": "COMP8460_Week12_questionsV2.ipynb - Colab"
           },
           {
-            "start": "18:10",
+            "cat": "coding",
             "end": "18:17",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "COMP8460_Week12_questionsV2.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "18:10",
+            "title": "COMP8460_Week12_questionsV2.ipynb - Colab"
           },
           {
-            "start": "18:19",
+            "cat": "coding",
             "end": "18:32",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "COMP8460_Week12_questionsV2.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "18:19",
+            "title": "COMP8460_Week12_questionsV2.ipynb - Colab"
           },
           {
-            "start": "18:39",
-            "end": "18:45",
             "cat": "coding",
+            "end": "18:45",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "COMP8460_Week12_questionsV2.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "18:39",
+            "title": "COMP8460_Week12_questionsV2.ipynb - Colab"
           }
         ],
+        "key": "2026-10-27",
         "logged": 376,
-        "real": 313,
-        "deep": 313,
         "ratio": 0.8342546864828214,
+        "real": 313,
         "stats": {
           "contextSwitches": 34,
-          "tabsOpened": 0,
+          "justOneMoreThing": 9,
           "longestFocus": "1h 58m",
-          "justOneMoreThing": 9
-        }
+          "tabsOpened": 0
+        },
+        "weekend": false
       },
       {
         "key": "2026-10-28",
@@ -98767,42 +98767,298 @@
         "weekend": false,
         "dateShort": "Wed, Oct 28",
         "dateLong": "Wednesday, October 28",
-        "dayStart": "09:58",
-        "dayEnd": "10:22",
+        "dayStart": "09:59",
+        "dayEnd": "15:49",
         "events": [
           {
-            "start": "09:58",
-            "end": "10:18",
-            "cat": "research",
-            "src": "chrome",
-            "title": "huggingface.co",
-            "note": "huggingface.co"
-          },
-          {
-            "start": "10:18",
-            "end": "10:20",
+            "start": "09:59",
+            "end": "10:00",
             "cat": "admin",
-            "src": "chrome",
-            "title": "Inbox (3,300) - ada.ren.cn@gmail.com - Gmail",
-            "note": "accounts.google.com"
+            "src": "macos",
+            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
+            "note": "sport.mq.edu.au"
           },
           {
-            "start": "10:20",
-            "end": "10:22",
+            "start": "10:01",
+            "end": "10:04",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Inbox (3,307) - ada.ren.cn@gmail.com - Gmail",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "10:11",
+            "end": "10:15",
             "cat": "personal",
-            "src": "chrome",
+            "src": "macos",
+            "title": "(5) Genie 4: A new generation of world simulation - YouTube",
+            "note": "youtube.com"
+          },
+          {
+            "start": "10:15",
+            "end": "10:19",
+            "cat": "personal",
+            "src": "macos",
             "title": "(5) Applying Gemini 4 for large-scale codebase maintenance i",
             "note": "youtube.com"
+          },
+          {
+            "start": "10:19",
+            "end": "10:23",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(5) Using Gemini 4 Argon to protect against Cyber attackers ",
+            "note": "youtube.com"
+          },
+          {
+            "start": "10:28",
+            "end": "10:29",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Thariq (@trq212) / X",
+            "note": "x.com"
+          },
+          {
+            "start": "10:33",
+            "end": "10:36",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Sign in successful | Claude Platform",
+            "note": "platform.claude.com"
+          },
+          {
+            "start": "10:39",
+            "end": "10:45",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Sign in successful | Claude Platform",
+            "note": "platform.claude.com"
+          },
+          {
+            "start": "10:45",
+            "end": "10:46",
+            "cat": "research",
+            "src": "macos",
+            "title": "Posts | Ada's Notes",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "10:46",
+            "end": "10:47",
+            "cat": "writing",
+            "src": "macos",
+            "title": "obsidian",
+            "note": "md.obsidian"
+          },
+          {
+            "start": "10:48",
+            "end": "10:50",
+            "cat": "research",
+            "src": "macos",
+            "title": "Posts | Ada's Notes",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "10:50",
+            "end": "10:52",
+            "cat": "research",
+            "src": "macos",
+            "title": "Posts | Ada's Notes",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "11:06",
+            "end": "11:07",
+            "cat": "research",
+            "src": "macos",
+            "title": "Posts | Ada's Notes",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "11:11",
+            "end": "11:13",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Newsroom \\ Anthropic",
+            "note": "anthropic.com"
+          },
+          {
+            "start": "11:15",
+            "end": "11:16",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Redesigning source control at Anthropic \\ Anthropic",
+            "note": "anthropic.com"
+          },
+          {
+            "start": "11:16",
+            "end": "11:27",
+            "cat": "coding",
+            "src": "macos",
+            "title": "New session - Claude",
+            "note": "claude.ai"
+          },
+          {
+            "start": "11:27",
+            "end": "11:39",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Redesigning source control at Anthropic \\ Anthropic",
+            "note": "anthropic.com"
+          },
+          {
+            "start": "11:40",
+            "end": "11:47",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Chrome 插件:交错英文和中文",
+            "note": "22 hits"
+          },
+          {
+            "start": "11:47",
+            "end": "11:59",
+            "cat": "coding",
+            "src": "macos",
+            "title": "New session - Claude",
+            "note": "claude.ai"
+          },
+          {
+            "start": "12:58",
+            "end": "13:01",
+            "cat": "admin",
+            "src": "macos",
+            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Assignment 2 marks | ",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "13:01",
+            "end": "13:04",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "13:04",
+            "end": "13:25",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(5) CMU AI Agents 2026: 13. Agentic Safety - YouTube",
+            "note": "youtube.com"
+          },
+          {
+            "start": "13:32",
+            "end": "13:47",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(5) CMU AI Agents 2026: 13. Agentic Safety - YouTube",
+            "note": "youtube.com"
+          },
+          {
+            "start": "13:48",
+            "end": "13:54",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(5) CMU AI Agents 2026: 14. Lessons from Building OpenHands ",
+            "note": "youtube.com"
+          },
+          {
+            "start": "14:09",
+            "end": "14:37",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(5) CMU AI Agents 2026: 14. Lessons from Building OpenHands ",
+            "note": "youtube.com"
+          },
+          {
+            "start": "14:37",
+            "end": "14:38",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Smart Rental Bonds is here. - ada.ren.cn@gmail.com - Gmail",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "14:41",
+            "end": "14:46",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Enter Time - Workday",
+            "note": "wd3.myworkday.com"
+          },
+          {
+            "start": "14:50",
+            "end": "14:52",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Enter Time - Workday",
+            "note": "wd3.myworkday.com"
+          },
+          {
+            "start": "14:54",
+            "end": "14:57",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Enter Time - Workday",
+            "note": "wd3.myworkday.com"
+          },
+          {
+            "start": "14:57",
+            "end": "14:59",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Enter Time - Workday",
+            "note": "wd3.myworkday.com"
+          },
+          {
+            "start": "15:02",
+            "end": "15:03",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Enter Time - Workday",
+            "note": "wd3.myworkday.com"
+          },
+          {
+            "start": "15:03",
+            "end": "15:04",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Enter Time - Workday",
+            "note": "wd3.myworkday.com"
+          },
+          {
+            "start": "15:06",
+            "end": "15:08",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Enter Time - Workday",
+            "note": "wd3.myworkday.com"
+          },
+          {
+            "start": "15:09",
+            "end": "15:19",
+            "cat": "admin",
+            "src": "macos",
+            "title": "View Event - Workday",
+            "note": "wd3.myworkday.com"
+          },
+          {
+            "start": "15:28",
+            "end": "15:49",
+            "cat": "personal",
+            "src": "macos",
+            "title": "OverTheWire: Level Goal: Bandit Level 0 → Level 1",
+            "note": "overthewire.org"
           }
         ],
-        "logged": 23,
-        "real": 20,
-        "deep": 20,
-        "ratio": 0.8604890484864468,
+        "logged": 201,
+        "real": 60,
+        "deep": 60,
+        "ratio": 0.2986516043588763,
         "stats": {
-          "contextSwitches": 2,
-          "tabsOpened": 9,
-          "longestFocus": "20m",
+          "contextSwitches": 10,
+          "tabsOpened": 0,
+          "longestFocus": "1h",
           "justOneMoreThing": 0
         }
       },
@@ -98813,16 +99069,49 @@
         "weekend": false,
         "dateShort": "Thu, Oct 29",
         "dateLong": "Thursday, October 29",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
+        "dayStart": "09:56",
+        "dayEnd": "10:37",
+        "events": [
+          {
+            "start": "09:56",
+            "end": "10:01",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Community Notes with Jay Baxter · Zoom · Luma",
+            "note": "google.com"
+          },
+          {
+            "start": "10:01",
+            "end": "10:06",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Community Notes with Jay Baxter · Zoom · Luma",
+            "note": "google.com"
+          },
+          {
+            "start": "10:06",
+            "end": "10:21",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Community Notes with Jay Baxter · Zoom · Luma",
+            "note": "google.com"
+          },
+          {
+            "start": "10:21",
+            "end": "10:37",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "beabadoobee tickets | Afterpay Arena, formerly known as Qudo",
+            "note": "google.com"
+          }
+        ],
+        "logged": 39,
         "real": 0,
         "deep": 0,
-        "ratio": 0,
+        "ratio": 0.0,
         "stats": {
           "contextSwitches": 0,
-          "tabsOpened": 0,
+          "tabsOpened": 12,
           "longestFocus": "0m",
           "justOneMoreThing": 0
         }
@@ -109468,650 +109757,650 @@
       "weekend": false
     },
     {
-      "key": "2026-10-27",
-      "dayNum": 27,
-      "dow": 2,
-      "weekend": false,
-      "dateShort": "Tue, Oct 27",
       "dateLong": "Tuesday, October 27",
-      "dayStart": "09:58",
+      "dateShort": "Tue, Oct 27",
       "dayEnd": "18:45",
+      "dayNum": 27,
+      "dayStart": "09:58",
+      "deep": 313,
+      "dow": 2,
       "events": [
         {
-          "start": "09:58",
+          "cat": "admin",
           "end": "10:00",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "09:58",
+          "title": "Outlook"
         },
         {
-          "start": "10:05",
+          "cat": "admin",
           "end": "10:06",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "10:05",
+          "title": "Outlook"
         },
         {
-          "start": "10:06",
+          "cat": "admin",
           "end": "10:12",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "10:06",
+          "title": "Outlook"
         },
         {
-          "start": "10:13",
+          "cat": "coding",
           "end": "10:15",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "COMP8460_Week12_questionsV2.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "10:13",
+          "title": "COMP8460_Week12_questionsV2.ipynb - Colab"
         },
         {
-          "start": "10:17",
+          "cat": "coding",
           "end": "10:19",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "COMP8460_Week12_questionsV2.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "10:17",
+          "title": "COMP8460_Week12_questionsV2.ipynb - Colab"
         },
         {
-          "start": "10:25",
+          "cat": "coding",
           "end": "10:30",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "COMP8460_Week12_questionsV2.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "10:25",
+          "title": "COMP8460_Week12_questionsV2.ipynb - Colab"
         },
         {
-          "start": "10:32",
+          "cat": "admin",
           "end": "10:33",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "Librispeech - Google Search",
-          "note": "google.com"
+          "start": "10:32",
+          "title": "Librispeech - Google Search"
         },
         {
-          "start": "10:34",
+          "cat": "coding",
           "end": "10:39",
-          "cat": "coding",
+          "note": "claude.ai",
           "src": "macos",
-          "title": "Claude",
-          "note": "claude.ai"
+          "start": "10:34",
+          "title": "Claude"
         },
         {
-          "start": "10:39",
+          "cat": "research",
           "end": "10:41",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "2006.11477v3.pdf",
-          "note": "arxiv.org"
+          "start": "10:39",
+          "title": "2006.11477v3.pdf"
         },
         {
-          "start": "10:41",
+          "cat": "coding",
           "end": "10:50",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "COMP8460_Week12_questionsV2.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "10:41",
+          "title": "COMP8460_Week12_questionsV2.ipynb - Colab"
         },
         {
-          "start": "10:53",
+          "cat": "admin",
           "end": "10:59",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "10:53",
+          "title": "Outlook"
         },
         {
-          "start": "11:05",
+          "cat": "admin",
           "end": "11:06",
-          "cat": "admin",
+          "note": "conssydney.esteri.it",
           "src": "macos",
-          "title": "New booking portal: Prenot@mi – Consolato Generale d'Italia ",
-          "note": "conssydney.esteri.it"
+          "start": "11:05",
+          "title": "New booking portal: Prenot@mi – Consolato Generale d'Italia "
         },
         {
-          "start": "11:08",
+          "cat": "admin",
           "end": "11:11",
-          "cat": "admin",
+          "note": "visa.vfsglobal.com",
           "src": "macos",
-          "title": "italy-checklist-feb.pdf",
-          "note": "visa.vfsglobal.com"
+          "start": "11:08",
+          "title": "italy-checklist-feb.pdf"
         },
         {
-          "start": "11:12",
+          "cat": "admin",
           "end": "11:14",
-          "cat": "admin",
+          "note": "conssydney.esteri.it",
           "src": "macos",
-          "title": "Regulation (EU) 2023/2667 of the European Parliament and of ",
-          "note": "conssydney.esteri.it"
+          "start": "11:12",
+          "title": "Regulation (EU) 2023/2667 of the European Parliament and of "
         },
         {
-          "start": "11:14",
+          "cat": "research",
           "end": "11:21",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "11:14",
+          "title": "zotero"
         },
         {
-          "start": "11:21",
+          "cat": "research",
           "end": "11:24",
-          "cat": "research",
+          "note": "chatgpt.com",
           "src": "macos",
-          "title": "ChatGPT",
-          "note": "chatgpt.com"
+          "start": "11:21",
+          "title": "ChatGPT"
         },
         {
-          "start": "11:24",
+          "cat": "admin",
           "end": "11:26",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "unmeltable me lyrics - Google Search",
-          "note": "google.com"
+          "start": "11:24",
+          "title": "unmeltable me lyrics - Google Search"
         },
         {
-          "start": "11:26",
+          "cat": "research",
           "end": "11:28",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "11:26",
+          "title": "zotero"
         },
         {
-          "start": "11:29",
+          "cat": "research",
           "end": "11:35",
-          "cat": "research",
+          "note": "chatgpt.com",
           "src": "macos",
-          "title": "解释图中文字",
-          "note": "chatgpt.com"
+          "start": "11:29",
+          "title": "解释图中文字"
         },
         {
-          "start": "11:35",
+          "cat": "research",
           "end": "11:36",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "11:35",
+          "title": "zotero"
         },
         {
-          "start": "11:37",
+          "cat": "research",
           "end": "11:38",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "11:37",
+          "title": "zotero"
         },
         {
-          "start": "11:38",
+          "cat": "research",
           "end": "11:39",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "11:38",
+          "title": "zotero"
         },
         {
-          "start": "11:40",
+          "cat": "research",
           "end": "11:45",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "11:40",
+          "title": "zotero"
         },
         {
-          "start": "11:45",
+          "cat": "research",
           "end": "11:50",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "11:45",
+          "title": "zotero"
         },
         {
-          "start": "11:51",
+          "cat": "research",
           "end": "11:53",
-          "cat": "research",
+          "note": "chatgpt.com",
           "src": "macos",
-          "title": "ChatGPT",
-          "note": "chatgpt.com"
+          "start": "11:51",
+          "title": "ChatGPT"
         },
         {
-          "start": "11:53",
+          "cat": "research",
           "end": "11:56",
-          "cat": "research",
+          "note": "chatgpt.com",
           "src": "macos",
-          "title": "ChatGPT",
-          "note": "chatgpt.com"
+          "start": "11:53",
+          "title": "ChatGPT"
         },
         {
-          "start": "11:56",
+          "cat": "research",
           "end": "12:09",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "11:56",
+          "title": "zotero"
         },
         {
-          "start": "13:04",
+          "cat": "research",
           "end": "13:19",
-          "cat": "research",
+          "note": "chatgpt.com",
           "src": "macos",
-          "title": "翻译 Exemplar-based Explainers",
-          "note": "chatgpt.com"
+          "start": "13:04",
+          "title": "翻译 Exemplar-based Explainers"
         },
         {
-          "start": "13:20",
+          "cat": "research",
           "end": "13:23",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "13:20",
+          "title": "zotero"
         },
         {
-          "start": "13:23",
+          "cat": "research",
           "end": "13:42",
-          "cat": "research",
+          "note": "sourcepulse.org",
           "src": "macos",
-          "title": "404: This page could not be found.",
-          "note": "sourcepulse.org"
+          "start": "13:23",
+          "title": "404: This page could not be found."
         },
         {
-          "start": "13:43",
+          "cat": "research",
           "end": "13:57",
-          "cat": "research",
+          "note": "file:///Users/ada/Documents/MQ/papers/li",
           "src": "macos",
-          "title": "1194_From_Neurons_to_Agents_A_.pdf",
-          "note": "file:///Users/ada/Documents/MQ/papers/li"
+          "start": "13:43",
+          "title": "1194_From_Neurons_to_Agents_A_.pdf"
         },
         {
-          "start": "14:01",
+          "cat": "research",
           "end": "14:06",
-          "cat": "research",
+          "note": "file:///Users/ada/Documents/MQ/papers/li",
           "src": "macos",
-          "title": "1194_From_Neurons_to_Agents_A_.pdf",
-          "note": "file:///Users/ada/Documents/MQ/papers/li"
+          "start": "14:01",
+          "title": "1194_From_Neurons_to_Agents_A_.pdf"
         },
         {
-          "start": "14:09",
+          "cat": "research",
           "end": "14:21",
-          "cat": "research",
+          "note": "file:///Users/ada/Documents/MQ/papers/li",
           "src": "macos",
-          "title": "1194_From_Neurons_to_Agents_A_.pdf",
-          "note": "file:///Users/ada/Documents/MQ/papers/li"
+          "start": "14:09",
+          "title": "1194_From_Neurons_to_Agents_A_.pdf"
         },
         {
-          "start": "14:26",
+          "cat": "admin",
           "end": "14:29",
-          "cat": "admin",
+          "note": "com.tinyspeck.slackmacgap",
           "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "start": "14:26",
+          "title": "slackmacgap"
         },
         {
-          "start": "14:32",
+          "cat": "research",
           "end": "14:33",
-          "cat": "research",
+          "note": "underline.io",
           "src": "macos",
-          "title": "AgentTAC: Mining Temporal Action-Context Error Patterns from",
-          "note": "underline.io"
+          "start": "14:32",
+          "title": "AgentTAC: Mining Temporal Action-Context Error Patterns from"
         },
         {
-          "start": "14:34",
+          "cat": "admin",
           "end": "14:37",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "AgentTAC: Mining Temporal Action-Context Error Patterns from",
-          "note": "google.com"
+          "start": "14:34",
+          "title": "AgentTAC: Mining Temporal Action-Context Error Patterns from"
         },
         {
-          "start": "14:38",
+          "cat": "research",
           "end": "14:39",
-          "cat": "research",
+          "note": "scholar.google.com",
           "src": "macos",
-          "title": "‪Chenchen ZHAO‬ - ‪Google 学术搜索‬",
-          "note": "scholar.google.com"
+          "start": "14:38",
+          "title": "‪Chenchen ZHAO‬ - ‪Google 学术搜索‬"
         },
         {
-          "start": "14:39",
+          "cat": "admin",
           "end": "14:44",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "14:39",
+          "title": "Outlook"
         },
         {
-          "start": "14:44",
+          "cat": "research",
           "end": "14:47",
-          "cat": "research",
+          "note": "underline.io",
           "src": "macos",
-          "title": "AgentTAC: Mining Temporal Action-Context Error Patterns from",
-          "note": "underline.io"
+          "start": "14:44",
+          "title": "AgentTAC: Mining Temporal Action-Context Error Patterns from"
         },
         {
-          "start": "14:47",
+          "cat": "research",
           "end": "15:04",
-          "cat": "research",
+          "note": "aclanthology.org",
           "src": "macos",
-          "title": "2026.emnlp-main.1637.pdf",
-          "note": "aclanthology.org"
+          "start": "14:47",
+          "title": "2026.emnlp-main.1637.pdf"
         },
         {
-          "start": "15:05",
-          "end": "15:06",
           "cat": "meeting",
+          "end": "15:06",
+          "note": "com.microsoft.teams2",
           "src": "macos",
-          "title": "teams2",
-          "note": "com.microsoft.teams2"
+          "start": "15:05",
+          "title": "teams2"
         },
         {
-          "start": "15:06",
+          "cat": "admin",
           "end": "15:08",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "15:06",
+          "title": "Outlook"
         },
         {
-          "start": "15:08",
+          "cat": "admin",
           "end": "15:17",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "Healthcare AI @ MQ Research Day - Google Search",
-          "note": "google.com"
+          "start": "15:08",
+          "title": "Healthcare AI @ MQ Research Day - Google Search"
         },
         {
-          "start": "15:17",
+          "cat": "research",
           "end": "15:19",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "15:17",
+          "title": "zotero"
         },
         {
-          "start": "15:19",
+          "cat": "admin",
           "end": "15:22",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "Healthcare AI @ MQ Research Day - Google Search",
-          "note": "google.com"
+          "start": "15:19",
+          "title": "Healthcare AI @ MQ Research Day - Google Search"
         },
         {
-          "start": "15:22",
+          "cat": "research",
           "end": "15:23",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "15:22",
+          "title": "zotero"
         },
         {
-          "start": "15:23",
+          "cat": "research",
           "end": "15:27",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "15:23",
+          "title": "zotero"
         },
         {
-          "start": "15:27",
+          "cat": "writing",
           "end": "15:28",
-          "cat": "writing",
+          "note": "zotero.org",
           "src": "macos",
-          "title": "Set up a passkey",
-          "note": "zotero.org"
+          "start": "15:27",
+          "title": "Set up a passkey"
         },
         {
-          "start": "15:28",
+          "cat": "admin",
           "end": "15:31",
-          "cat": "admin",
+          "note": "com.tinyspeck.slackmacgap",
           "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "start": "15:28",
+          "title": "slackmacgap"
         },
         {
-          "start": "15:32",
+          "cat": "research",
           "end": "15:37",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "15:32",
+          "title": "zotero"
         },
         {
-          "start": "15:38",
-          "end": "15:40",
           "cat": "writing",
+          "end": "15:40",
+          "note": "zotero.org",
           "src": "macos",
-          "title": "Set up a passkey",
-          "note": "zotero.org"
+          "start": "15:38",
+          "title": "Set up a passkey"
         },
         {
-          "start": "15:40",
+          "cat": "research",
           "end": "15:44",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "15:40",
+          "title": "zotero"
         },
         {
-          "start": "15:44",
+          "cat": "admin",
           "end": "15:50",
-          "cat": "admin",
+          "note": "com.tinyspeck.slackmacgap",
           "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "start": "15:44",
+          "title": "slackmacgap"
         },
         {
-          "start": "15:52",
+          "cat": "research",
           "end": "15:54",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "15:52",
+          "title": "zotero"
         },
         {
-          "start": "15:56",
+          "cat": "research",
           "end": "16:06",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "2006.11477v3.pdf",
-          "note": "arxiv.org"
+          "start": "15:56",
+          "title": "2006.11477v3.pdf"
         },
         {
-          "start": "16:09",
+          "cat": "research",
           "end": "16:11",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "16:09",
+          "title": "zotero"
         },
         {
-          "start": "16:11",
-          "end": "16:13",
           "cat": "admin",
+          "end": "16:13",
+          "note": "com.tinyspeck.slackmacgap",
           "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "start": "16:11",
+          "title": "slackmacgap"
         },
         {
-          "start": "16:13",
+          "cat": "research",
           "end": "16:22",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "16:13",
+          "title": "zotero"
         },
         {
-          "start": "16:22",
+          "cat": "research",
           "end": "16:42",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "VitaBench: Benchmarking LLM Agents with Versatile Interactiv",
-          "note": "arxiv.org"
+          "start": "16:22",
+          "title": "VitaBench: Benchmarking LLM Agents with Versatile Interactiv"
         },
         {
-          "start": "16:43",
+          "cat": "coding",
           "end": "16:45",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "COMP8460_Week12_solutionsV2.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "16:43",
+          "title": "COMP8460_Week12_solutionsV2.ipynb - Colab"
         },
         {
-          "start": "16:45",
+          "cat": "research",
           "end": "16:51",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "16:45",
+          "title": "zotero"
         },
         {
-          "start": "16:59",
+          "cat": "coding",
           "end": "17:13",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "COMP8460_Week12_solutionsV2.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "16:59",
+          "title": "COMP8460_Week12_solutionsV2.ipynb - Colab"
         },
         {
-          "start": "17:13",
+          "cat": "coding",
           "end": "17:18",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "COMP8460_Week12_questionsV2.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "17:13",
+          "title": "COMP8460_Week12_questionsV2.ipynb - Colab"
         },
         {
-          "start": "17:19",
+          "cat": "coding",
           "end": "17:22",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "COMP8460_Week12_questionsV2.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "17:19",
+          "title": "COMP8460_Week12_questionsV2.ipynb - Colab"
         },
         {
-          "start": "17:23",
+          "cat": "coding",
           "end": "17:27",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "COMP8460_Week12_questionsV2.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "17:23",
+          "title": "COMP8460_Week12_questionsV2.ipynb - Colab"
         },
         {
-          "start": "17:27",
+          "cat": "coding",
           "end": "17:28",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "COMP8460_Week12_questionsV2.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "17:27",
+          "title": "COMP8460_Week12_questionsV2.ipynb - Colab"
         },
         {
-          "start": "17:29",
+          "cat": "coding",
           "end": "17:30",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "COMP8460_Week12_questionsV2.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "17:29",
+          "title": "COMP8460_Week12_questionsV2.ipynb - Colab"
         },
         {
-          "start": "17:31",
+          "cat": "coding",
           "end": "17:33",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "COMP8460_Week12_solutionsV2.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "17:31",
+          "title": "COMP8460_Week12_solutionsV2.ipynb - Colab"
         },
         {
-          "start": "17:33",
+          "cat": "research",
           "end": "17:35",
-          "cat": "research",
+          "note": "huggingface.co",
           "src": "macos",
-          "title": "Pipelines · Hugging Face",
-          "note": "huggingface.co"
+          "start": "17:33",
+          "title": "Pipelines · Hugging Face"
         },
         {
-          "start": "17:35",
+          "cat": "research",
           "end": "17:40",
-          "cat": "research",
+          "note": "huggingface.co",
           "src": "macos",
-          "title": "Pipelines",
-          "note": "huggingface.co"
+          "start": "17:35",
+          "title": "Pipelines"
         },
         {
-          "start": "17:40",
+          "cat": "coding",
           "end": "17:45",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "COMP8460_Week12_solutionsV2.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "17:40",
+          "title": "COMP8460_Week12_solutionsV2.ipynb - Colab"
         },
         {
-          "start": "17:46",
+          "cat": "coding",
           "end": "17:47",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "COMP8460_Week12_solutionsV2.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "17:46",
+          "title": "COMP8460_Week12_solutionsV2.ipynb - Colab"
         },
         {
-          "start": "17:50",
+          "cat": "coding",
           "end": "17:52",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "COMP8460_Week12_solutionsV2.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "17:50",
+          "title": "COMP8460_Week12_solutionsV2.ipynb - Colab"
         },
         {
-          "start": "17:52",
+          "cat": "coding",
           "end": "17:54",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "COMP8460_Week12_questionsV2.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "17:52",
+          "title": "COMP8460_Week12_questionsV2.ipynb - Colab"
         },
         {
-          "start": "17:55",
+          "cat": "coding",
           "end": "18:04",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "COMP8460_Week12_questionsV2.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "17:55",
+          "title": "COMP8460_Week12_questionsV2.ipynb - Colab"
         },
         {
-          "start": "18:10",
+          "cat": "coding",
           "end": "18:17",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "COMP8460_Week12_questionsV2.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "18:10",
+          "title": "COMP8460_Week12_questionsV2.ipynb - Colab"
         },
         {
-          "start": "18:19",
+          "cat": "coding",
           "end": "18:32",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "COMP8460_Week12_questionsV2.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "18:19",
+          "title": "COMP8460_Week12_questionsV2.ipynb - Colab"
         },
         {
-          "start": "18:39",
-          "end": "18:45",
           "cat": "coding",
+          "end": "18:45",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "COMP8460_Week12_questionsV2.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "18:39",
+          "title": "COMP8460_Week12_questionsV2.ipynb - Colab"
         }
       ],
+      "key": "2026-10-27",
       "logged": 376,
-      "real": 313,
-      "deep": 313,
       "ratio": 0.8342546864828214,
+      "real": 313,
       "stats": {
         "contextSwitches": 34,
-        "tabsOpened": 0,
+        "justOneMoreThing": 9,
         "longestFocus": "1h 58m",
-        "justOneMoreThing": 9
-      }
+        "tabsOpened": 0
+      },
+      "weekend": false
     },
     {
       "key": "2026-10-28",
@@ -110120,42 +110409,298 @@
       "weekend": false,
       "dateShort": "Wed, Oct 28",
       "dateLong": "Wednesday, October 28",
-      "dayStart": "09:58",
-      "dayEnd": "10:22",
+      "dayStart": "09:59",
+      "dayEnd": "15:49",
       "events": [
         {
-          "start": "09:58",
-          "end": "10:18",
-          "cat": "research",
-          "src": "chrome",
-          "title": "huggingface.co",
-          "note": "huggingface.co"
-        },
-        {
-          "start": "10:18",
-          "end": "10:20",
+          "start": "09:59",
+          "end": "10:00",
           "cat": "admin",
-          "src": "chrome",
-          "title": "Inbox (3,300) - ada.ren.cn@gmail.com - Gmail",
-          "note": "accounts.google.com"
+          "src": "macos",
+          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
+          "note": "sport.mq.edu.au"
         },
         {
-          "start": "10:20",
-          "end": "10:22",
+          "start": "10:01",
+          "end": "10:04",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Inbox (3,307) - ada.ren.cn@gmail.com - Gmail",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "10:11",
+          "end": "10:15",
           "cat": "personal",
-          "src": "chrome",
+          "src": "macos",
+          "title": "(5) Genie 4: A new generation of world simulation - YouTube",
+          "note": "youtube.com"
+        },
+        {
+          "start": "10:15",
+          "end": "10:19",
+          "cat": "personal",
+          "src": "macos",
           "title": "(5) Applying Gemini 4 for large-scale codebase maintenance i",
           "note": "youtube.com"
+        },
+        {
+          "start": "10:19",
+          "end": "10:23",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(5) Using Gemini 4 Argon to protect against Cyber attackers ",
+          "note": "youtube.com"
+        },
+        {
+          "start": "10:28",
+          "end": "10:29",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Thariq (@trq212) / X",
+          "note": "x.com"
+        },
+        {
+          "start": "10:33",
+          "end": "10:36",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Sign in successful | Claude Platform",
+          "note": "platform.claude.com"
+        },
+        {
+          "start": "10:39",
+          "end": "10:45",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Sign in successful | Claude Platform",
+          "note": "platform.claude.com"
+        },
+        {
+          "start": "10:45",
+          "end": "10:46",
+          "cat": "research",
+          "src": "macos",
+          "title": "Posts | Ada's Notes",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "10:46",
+          "end": "10:47",
+          "cat": "writing",
+          "src": "macos",
+          "title": "obsidian",
+          "note": "md.obsidian"
+        },
+        {
+          "start": "10:48",
+          "end": "10:50",
+          "cat": "research",
+          "src": "macos",
+          "title": "Posts | Ada's Notes",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "10:50",
+          "end": "10:52",
+          "cat": "research",
+          "src": "macos",
+          "title": "Posts | Ada's Notes",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "11:06",
+          "end": "11:07",
+          "cat": "research",
+          "src": "macos",
+          "title": "Posts | Ada's Notes",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "11:11",
+          "end": "11:13",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Newsroom \\ Anthropic",
+          "note": "anthropic.com"
+        },
+        {
+          "start": "11:15",
+          "end": "11:16",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Redesigning source control at Anthropic \\ Anthropic",
+          "note": "anthropic.com"
+        },
+        {
+          "start": "11:16",
+          "end": "11:27",
+          "cat": "coding",
+          "src": "macos",
+          "title": "New session - Claude",
+          "note": "claude.ai"
+        },
+        {
+          "start": "11:27",
+          "end": "11:39",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Redesigning source control at Anthropic \\ Anthropic",
+          "note": "anthropic.com"
+        },
+        {
+          "start": "11:40",
+          "end": "11:47",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Chrome 插件:交错英文和中文",
+          "note": "22 hits"
+        },
+        {
+          "start": "11:47",
+          "end": "11:59",
+          "cat": "coding",
+          "src": "macos",
+          "title": "New session - Claude",
+          "note": "claude.ai"
+        },
+        {
+          "start": "12:58",
+          "end": "13:01",
+          "cat": "admin",
+          "src": "macos",
+          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Assignment 2 marks | ",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "13:01",
+          "end": "13:04",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "13:04",
+          "end": "13:25",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(5) CMU AI Agents 2026: 13. Agentic Safety - YouTube",
+          "note": "youtube.com"
+        },
+        {
+          "start": "13:32",
+          "end": "13:47",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(5) CMU AI Agents 2026: 13. Agentic Safety - YouTube",
+          "note": "youtube.com"
+        },
+        {
+          "start": "13:48",
+          "end": "13:54",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(5) CMU AI Agents 2026: 14. Lessons from Building OpenHands ",
+          "note": "youtube.com"
+        },
+        {
+          "start": "14:09",
+          "end": "14:37",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(5) CMU AI Agents 2026: 14. Lessons from Building OpenHands ",
+          "note": "youtube.com"
+        },
+        {
+          "start": "14:37",
+          "end": "14:38",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Smart Rental Bonds is here. - ada.ren.cn@gmail.com - Gmail",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "14:41",
+          "end": "14:46",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Enter Time - Workday",
+          "note": "wd3.myworkday.com"
+        },
+        {
+          "start": "14:50",
+          "end": "14:52",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Enter Time - Workday",
+          "note": "wd3.myworkday.com"
+        },
+        {
+          "start": "14:54",
+          "end": "14:57",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Enter Time - Workday",
+          "note": "wd3.myworkday.com"
+        },
+        {
+          "start": "14:57",
+          "end": "14:59",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Enter Time - Workday",
+          "note": "wd3.myworkday.com"
+        },
+        {
+          "start": "15:02",
+          "end": "15:03",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Enter Time - Workday",
+          "note": "wd3.myworkday.com"
+        },
+        {
+          "start": "15:03",
+          "end": "15:04",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Enter Time - Workday",
+          "note": "wd3.myworkday.com"
+        },
+        {
+          "start": "15:06",
+          "end": "15:08",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Enter Time - Workday",
+          "note": "wd3.myworkday.com"
+        },
+        {
+          "start": "15:09",
+          "end": "15:19",
+          "cat": "admin",
+          "src": "macos",
+          "title": "View Event - Workday",
+          "note": "wd3.myworkday.com"
+        },
+        {
+          "start": "15:28",
+          "end": "15:49",
+          "cat": "personal",
+          "src": "macos",
+          "title": "OverTheWire: Level Goal: Bandit Level 0 → Level 1",
+          "note": "overthewire.org"
         }
       ],
-      "logged": 23,
-      "real": 20,
-      "deep": 20,
-      "ratio": 0.8604890484864468,
+      "logged": 201,
+      "real": 60,
+      "deep": 60,
+      "ratio": 0.2986516043588763,
       "stats": {
-        "contextSwitches": 2,
-        "tabsOpened": 9,
-        "longestFocus": "20m",
+        "contextSwitches": 10,
+        "tabsOpened": 0,
+        "longestFocus": "1h",
         "justOneMoreThing": 0
       }
     },
@@ -110166,16 +110711,49 @@
       "weekend": false,
       "dateShort": "Thu, Oct 29",
       "dateLong": "Thursday, October 29",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
+      "dayStart": "09:56",
+      "dayEnd": "10:37",
+      "events": [
+        {
+          "start": "09:56",
+          "end": "10:01",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Community Notes with Jay Baxter · Zoom · Luma",
+          "note": "google.com"
+        },
+        {
+          "start": "10:01",
+          "end": "10:06",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Community Notes with Jay Baxter · Zoom · Luma",
+          "note": "google.com"
+        },
+        {
+          "start": "10:06",
+          "end": "10:21",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Community Notes with Jay Baxter · Zoom · Luma",
+          "note": "google.com"
+        },
+        {
+          "start": "10:21",
+          "end": "10:37",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "beabadoobee tickets | Afterpay Arena, formerly known as Qudo",
+          "note": "google.com"
+        }
+      ],
+      "logged": 39,
       "real": 0,
       "deep": 0,
-      "ratio": 0,
+      "ratio": 0.0,
       "stats": {
         "contextSwitches": 0,
-        "tabsOpened": 0,
+        "tabsOpened": 12,
         "longestFocus": "0m",
         "justOneMoreThing": 0
       }
