@@ -55,6 +55,12 @@ enableRobotsTXT = true
     url = '/archives/'
     weight = 20
 
+# Personal post URLs come from the title (or `slug:` if set), not the Obsidian
+# file name, so a post only needs one name. Old file-name URLs redirect via
+# static/posts/<old-name>/index.html.
+[permalinks]
+  posts = '/posts/:slug/'
+
 [markup.tableOfContents]
   startLevel = 2
   endLevel = 2
