@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-10-29T10:20:23+11:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-10-30T10:20:18+11:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -98761,306 +98761,306 @@
         "weekend": false
       },
       {
-        "key": "2026-10-28",
-        "dayNum": 28,
-        "dow": 3,
-        "weekend": false,
-        "dateShort": "Wed, Oct 28",
         "dateLong": "Wednesday, October 28",
-        "dayStart": "09:59",
+        "dateShort": "Wed, Oct 28",
         "dayEnd": "15:49",
+        "dayNum": 28,
+        "dayStart": "09:59",
+        "deep": 60,
+        "dow": 3,
         "events": [
           {
-            "start": "09:59",
+            "cat": "admin",
             "end": "10:00",
-            "cat": "admin",
+            "note": "sport.mq.edu.au",
             "src": "macos",
-            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
-            "note": "sport.mq.edu.au"
+            "start": "09:59",
+            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni"
           },
           {
-            "start": "10:01",
+            "cat": "admin",
             "end": "10:04",
-            "cat": "admin",
+            "note": "mail.google.com",
             "src": "macos",
-            "title": "Inbox (3,307) - ada.ren.cn@gmail.com - Gmail",
-            "note": "mail.google.com"
+            "start": "10:01",
+            "title": "Inbox (3,307) - ada.ren.cn@gmail.com - Gmail"
           },
           {
-            "start": "10:11",
+            "cat": "personal",
             "end": "10:15",
-            "cat": "personal",
+            "note": "youtube.com",
             "src": "macos",
-            "title": "(5) Genie 4: A new generation of world simulation - YouTube",
-            "note": "youtube.com"
+            "start": "10:11",
+            "title": "(5) Genie 4: A new generation of world simulation - YouTube"
           },
           {
-            "start": "10:15",
+            "cat": "personal",
             "end": "10:19",
-            "cat": "personal",
+            "note": "youtube.com",
             "src": "macos",
-            "title": "(5) Applying Gemini 4 for large-scale codebase maintenance i",
-            "note": "youtube.com"
+            "start": "10:15",
+            "title": "(5) Applying Gemini 4 for large-scale codebase maintenance i"
           },
           {
-            "start": "10:19",
+            "cat": "personal",
             "end": "10:23",
-            "cat": "personal",
+            "note": "youtube.com",
             "src": "macos",
-            "title": "(5) Using Gemini 4 Argon to protect against Cyber attackers ",
-            "note": "youtube.com"
+            "start": "10:19",
+            "title": "(5) Using Gemini 4 Argon to protect against Cyber attackers "
           },
           {
-            "start": "10:28",
+            "cat": "personal",
             "end": "10:29",
-            "cat": "personal",
+            "note": "x.com",
             "src": "macos",
-            "title": "Thariq (@trq212) / X",
-            "note": "x.com"
+            "start": "10:28",
+            "title": "Thariq (@trq212) / X"
           },
           {
-            "start": "10:33",
+            "cat": "coding",
             "end": "10:36",
-            "cat": "coding",
+            "note": "platform.claude.com",
             "src": "macos",
-            "title": "Sign in successful | Claude Platform",
-            "note": "platform.claude.com"
+            "start": "10:33",
+            "title": "Sign in successful | Claude Platform"
           },
           {
-            "start": "10:39",
+            "cat": "coding",
             "end": "10:45",
-            "cat": "coding",
+            "note": "platform.claude.com",
             "src": "macos",
-            "title": "Sign in successful | Claude Platform",
-            "note": "platform.claude.com"
+            "start": "10:39",
+            "title": "Sign in successful | Claude Platform"
           },
           {
-            "start": "10:45",
+            "cat": "research",
             "end": "10:46",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "macos",
-            "title": "Posts | Ada's Notes",
-            "note": "adaren100.github.io"
+            "start": "10:45",
+            "title": "Posts | Ada's Notes"
           },
           {
-            "start": "10:46",
-            "end": "10:47",
             "cat": "writing",
+            "end": "10:47",
+            "note": "md.obsidian",
             "src": "macos",
-            "title": "obsidian",
-            "note": "md.obsidian"
+            "start": "10:46",
+            "title": "obsidian"
           },
           {
-            "start": "10:48",
+            "cat": "research",
             "end": "10:50",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "macos",
-            "title": "Posts | Ada's Notes",
-            "note": "adaren100.github.io"
+            "start": "10:48",
+            "title": "Posts | Ada's Notes"
           },
           {
-            "start": "10:50",
+            "cat": "research",
             "end": "10:52",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "macos",
-            "title": "Posts | Ada's Notes",
-            "note": "adaren100.github.io"
+            "start": "10:50",
+            "title": "Posts | Ada's Notes"
           },
           {
-            "start": "11:06",
+            "cat": "research",
             "end": "11:07",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "macos",
-            "title": "Posts | Ada's Notes",
-            "note": "adaren100.github.io"
+            "start": "11:06",
+            "title": "Posts | Ada's Notes"
           },
           {
-            "start": "11:11",
+            "cat": "coding",
             "end": "11:13",
-            "cat": "coding",
+            "note": "anthropic.com",
             "src": "macos",
-            "title": "Newsroom \\ Anthropic",
-            "note": "anthropic.com"
+            "start": "11:11",
+            "title": "Newsroom \\ Anthropic"
           },
           {
-            "start": "11:15",
+            "cat": "coding",
             "end": "11:16",
-            "cat": "coding",
+            "note": "anthropic.com",
             "src": "macos",
-            "title": "Redesigning source control at Anthropic \\ Anthropic",
-            "note": "anthropic.com"
+            "start": "11:15",
+            "title": "Redesigning source control at Anthropic \\ Anthropic"
           },
           {
-            "start": "11:16",
+            "cat": "coding",
             "end": "11:27",
-            "cat": "coding",
+            "note": "claude.ai",
             "src": "macos",
-            "title": "New session - Claude",
-            "note": "claude.ai"
+            "start": "11:16",
+            "title": "New session - Claude"
           },
           {
-            "start": "11:27",
+            "cat": "coding",
             "end": "11:39",
-            "cat": "coding",
+            "note": "anthropic.com",
             "src": "macos",
-            "title": "Redesigning source control at Anthropic \\ Anthropic",
-            "note": "anthropic.com"
+            "start": "11:27",
+            "title": "Redesigning source control at Anthropic \\ Anthropic"
           },
           {
-            "start": "11:40",
+            "cat": "coding",
             "end": "11:47",
-            "cat": "coding",
+            "note": "22 hits",
             "src": "claude",
-            "title": "Chrome 插件:交错英文和中文",
-            "note": "22 hits"
+            "start": "11:40",
+            "title": "Chrome 插件:交错英文和中文"
           },
           {
-            "start": "11:47",
-            "end": "11:59",
             "cat": "coding",
+            "end": "11:59",
+            "note": "claude.ai",
             "src": "macos",
-            "title": "New session - Claude",
-            "note": "claude.ai"
+            "start": "11:47",
+            "title": "New session - Claude"
           },
           {
-            "start": "12:58",
+            "cat": "admin",
             "end": "13:01",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Assignment 2 marks | ",
-            "note": "ilearn.mq.edu.au"
+            "start": "12:58",
+            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Assignment 2 marks | "
           },
           {
-            "start": "13:01",
+            "cat": "admin",
             "end": "13:04",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "13:01",
+            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn"
           },
           {
-            "start": "13:04",
+            "cat": "personal",
             "end": "13:25",
-            "cat": "personal",
+            "note": "youtube.com",
             "src": "macos",
-            "title": "(5) CMU AI Agents 2026: 13. Agentic Safety - YouTube",
-            "note": "youtube.com"
+            "start": "13:04",
+            "title": "(5) CMU AI Agents 2026: 13. Agentic Safety - YouTube"
           },
           {
-            "start": "13:32",
+            "cat": "personal",
             "end": "13:47",
-            "cat": "personal",
+            "note": "youtube.com",
             "src": "macos",
-            "title": "(5) CMU AI Agents 2026: 13. Agentic Safety - YouTube",
-            "note": "youtube.com"
+            "start": "13:32",
+            "title": "(5) CMU AI Agents 2026: 13. Agentic Safety - YouTube"
           },
           {
-            "start": "13:48",
+            "cat": "personal",
             "end": "13:54",
-            "cat": "personal",
+            "note": "youtube.com",
             "src": "macos",
-            "title": "(5) CMU AI Agents 2026: 14. Lessons from Building OpenHands ",
-            "note": "youtube.com"
+            "start": "13:48",
+            "title": "(5) CMU AI Agents 2026: 14. Lessons from Building OpenHands "
           },
           {
-            "start": "14:09",
+            "cat": "personal",
             "end": "14:37",
-            "cat": "personal",
+            "note": "youtube.com",
             "src": "macos",
-            "title": "(5) CMU AI Agents 2026: 14. Lessons from Building OpenHands ",
-            "note": "youtube.com"
+            "start": "14:09",
+            "title": "(5) CMU AI Agents 2026: 14. Lessons from Building OpenHands "
           },
           {
-            "start": "14:37",
+            "cat": "admin",
             "end": "14:38",
-            "cat": "admin",
+            "note": "mail.google.com",
             "src": "macos",
-            "title": "Smart Rental Bonds is here. - ada.ren.cn@gmail.com - Gmail",
-            "note": "mail.google.com"
+            "start": "14:37",
+            "title": "Smart Rental Bonds is here. - ada.ren.cn@gmail.com - Gmail"
           },
           {
-            "start": "14:41",
+            "cat": "admin",
             "end": "14:46",
-            "cat": "admin",
+            "note": "wd3.myworkday.com",
             "src": "macos",
-            "title": "Enter Time - Workday",
-            "note": "wd3.myworkday.com"
+            "start": "14:41",
+            "title": "Enter Time - Workday"
           },
           {
-            "start": "14:50",
+            "cat": "admin",
             "end": "14:52",
-            "cat": "admin",
+            "note": "wd3.myworkday.com",
             "src": "macos",
-            "title": "Enter Time - Workday",
-            "note": "wd3.myworkday.com"
+            "start": "14:50",
+            "title": "Enter Time - Workday"
           },
           {
-            "start": "14:54",
+            "cat": "admin",
             "end": "14:57",
-            "cat": "admin",
+            "note": "wd3.myworkday.com",
             "src": "macos",
-            "title": "Enter Time - Workday",
-            "note": "wd3.myworkday.com"
+            "start": "14:54",
+            "title": "Enter Time - Workday"
           },
           {
-            "start": "14:57",
+            "cat": "admin",
             "end": "14:59",
-            "cat": "admin",
+            "note": "wd3.myworkday.com",
             "src": "macos",
-            "title": "Enter Time - Workday",
-            "note": "wd3.myworkday.com"
+            "start": "14:57",
+            "title": "Enter Time - Workday"
           },
           {
-            "start": "15:02",
+            "cat": "admin",
             "end": "15:03",
-            "cat": "admin",
+            "note": "wd3.myworkday.com",
             "src": "macos",
-            "title": "Enter Time - Workday",
-            "note": "wd3.myworkday.com"
+            "start": "15:02",
+            "title": "Enter Time - Workday"
           },
           {
-            "start": "15:03",
+            "cat": "admin",
             "end": "15:04",
-            "cat": "admin",
+            "note": "wd3.myworkday.com",
             "src": "macos",
-            "title": "Enter Time - Workday",
-            "note": "wd3.myworkday.com"
+            "start": "15:03",
+            "title": "Enter Time - Workday"
           },
           {
-            "start": "15:06",
+            "cat": "admin",
             "end": "15:08",
-            "cat": "admin",
+            "note": "wd3.myworkday.com",
             "src": "macos",
-            "title": "Enter Time - Workday",
-            "note": "wd3.myworkday.com"
+            "start": "15:06",
+            "title": "Enter Time - Workday"
           },
           {
-            "start": "15:09",
+            "cat": "admin",
             "end": "15:19",
-            "cat": "admin",
+            "note": "wd3.myworkday.com",
             "src": "macos",
-            "title": "View Event - Workday",
-            "note": "wd3.myworkday.com"
+            "start": "15:09",
+            "title": "View Event - Workday"
           },
           {
-            "start": "15:28",
-            "end": "15:49",
             "cat": "personal",
+            "end": "15:49",
+            "note": "overthewire.org",
             "src": "macos",
-            "title": "OverTheWire: Level Goal: Bandit Level 0 → Level 1",
-            "note": "overthewire.org"
+            "start": "15:28",
+            "title": "OverTheWire: Level Goal: Bandit Level 0 → Level 1"
           }
         ],
+        "key": "2026-10-28",
         "logged": 201,
-        "real": 60,
-        "deep": 60,
         "ratio": 0.2986516043588763,
+        "real": 60,
         "stats": {
           "contextSwitches": 10,
-          "tabsOpened": 0,
+          "justOneMoreThing": 0,
           "longestFocus": "1h",
-          "justOneMoreThing": 0
-        }
+          "tabsOpened": 0
+        },
+        "weekend": false
       },
       {
         "key": "2026-10-29",
@@ -99069,51 +99069,435 @@
         "weekend": false,
         "dateShort": "Thu, Oct 29",
         "dateLong": "Thursday, October 29",
-        "dayStart": "09:56",
-        "dayEnd": "10:37",
+        "dayStart": "09:57",
+        "dayEnd": "00:22",
         "events": [
           {
-            "start": "09:56",
+            "start": "09:57",
             "end": "10:01",
             "cat": "admin",
-            "src": "chrome",
-            "title": "Community Notes with Jay Baxter · Zoom · Luma",
-            "note": "google.com"
+            "src": "macos",
+            "title": "My Request - RITM1471091 - Employee",
+            "note": "mq.service-now.com"
           },
           {
-            "start": "10:01",
-            "end": "10:06",
+            "start": "10:03",
+            "end": "10:04",
             "cat": "admin",
-            "src": "chrome",
-            "title": "Community Notes with Jay Baxter · Zoom · Luma",
-            "note": "google.com"
-          },
-          {
-            "start": "10:06",
-            "end": "10:21",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "Community Notes with Jay Baxter · Zoom · Luma",
-            "note": "google.com"
-          },
-          {
-            "start": "10:21",
-            "end": "10:37",
-            "cat": "admin",
-            "src": "chrome",
+            "src": "macos",
             "title": "beabadoobee tickets | Afterpay Arena, formerly known as Qudo",
+            "note": "premier.ticketek.com.au"
+          },
+          {
+            "start": "10:10",
+            "end": "10:14",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Shop All Women | 30% Off Sitewide | ALO",
+            "note": "aloyoga.com"
+          },
+          {
+            "start": "10:18",
+            "end": "10:20",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Outlet – Arc'teryx Australia",
+            "note": "arcteryx.com.au"
+          },
+          {
+            "start": "10:20",
+            "end": "10:26",
+            "cat": "personal",
+            "src": "macos",
+            "title": "主页 / X",
+            "note": "x.com"
+          },
+          {
+            "start": "10:32",
+            "end": "10:37",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Airbrush Better Together Bra - Black/White | ALO",
+            "note": "aloyoga.com"
+          },
+          {
+            "start": "10:37",
+            "end": "10:39",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Zora Wang",
+            "note": "zorazrw.github.io"
+          },
+          {
+            "start": "10:40",
+            "end": "11:03",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(5) Michigan AI Lab - YouTube",
+            "note": "youtube.com"
+          },
+          {
+            "start": "11:20",
+            "end": "11:28",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(5) Michigan AI Lab - YouTube",
+            "note": "youtube.com"
+          },
+          {
+            "start": "11:28",
+            "end": "11:55",
+            "cat": "research",
+            "src": "macos",
+            "title": "Efficient Test-Time Adaptation through Human-AI Interaction",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "11:56",
+            "end": "12:01",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(6) Skills, Memory, Collaboration: What's Next for Al Agents",
+            "note": "youtube.com"
+          },
+          {
+            "start": "12:08",
+            "end": "12:17",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(6) Skills, Memory, Collaboration: What's Next for Al Agents",
+            "note": "youtube.com"
+          },
+          {
+            "start": "12:22",
+            "end": "12:25",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(6) Stanford CS329A Self-Improving AI Agents | Part 1 | Cour",
+            "note": "youtube.com"
+          },
+          {
+            "start": "14:03",
+            "end": "14:04",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Inbox (3,318) - ada.ren.cn@gmail.com - Gmail",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "14:05",
+            "end": "14:07",
+            "cat": "writing",
+            "src": "macos",
+            "title": "europe-trip-itinerary-v2 - Google Sheets",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "14:07",
+            "end": "14:12",
+            "cat": "writing",
+            "src": "macos",
+            "title": "europe-trip-itinerary-v2 - Google Sheets",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "14:12",
+            "end": "14:20",
+            "cat": "writing",
+            "src": "macos",
+            "title": "europe-trip-itinerary-v2 - Google Sheets",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "14:21",
+            "end": "14:22",
+            "cat": "writing",
+            "src": "macos",
+            "title": "europe-trip-itinerary-v2 - Google Sheets",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "14:22",
+            "end": "14:24",
+            "cat": "writing",
+            "src": "macos",
+            "title": "europe-trip-itinerary-v2 - Google Sheets",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "14:25",
+            "end": "14:35",
+            "cat": "writing",
+            "src": "macos",
+            "title": "europe-trip-itinerary-v2 - Google Sheets",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "14:52",
+            "end": "14:53",
+            "cat": "writing",
+            "src": "macos",
+            "title": "europe-trip-itinerary-v2 - Google Sheets",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "15:08",
+            "end": "15:12",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Cheap Flights, Airline Tickets & Flight Deals | Trip.com AU",
+            "note": "au.trip.com"
+          },
+          {
+            "start": "15:21",
+            "end": "15:22",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Huge Discounts on Silversea Cruises",
+            "note": "luxury.cruiselines.com"
+          },
+          {
+            "start": "15:24",
+            "end": "15:25",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Luxury.CruiseLines.com: FastDeal# 49393, Silver Spirit Depar",
+            "note": "luxury.cruiselines.com"
+          },
+          {
+            "start": "15:31",
+            "end": "15:33",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Maps",
             "note": "google.com"
+          },
+          {
+            "start": "15:33",
+            "end": "15:41",
+            "cat": "writing",
+            "src": "macos",
+            "title": "europe-trip-itinerary-v2 - Google Sheets",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "15:45",
+            "end": "15:52",
+            "cat": "writing",
+            "src": "macos",
+            "title": "europe-trip-itinerary-v2 - Google Sheets",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "15:53",
+            "end": "16:06",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Propose a project: step 8 of 10 | MyNCI",
+            "note": "my.nci.org.au"
+          },
+          {
+            "start": "16:10",
+            "end": "16:14",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Home | MyNCI",
+            "note": "my.nci.org.au"
+          },
+          {
+            "start": "16:14",
+            "end": "16:20",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(5) YouTube",
+            "note": "youtube.com"
+          },
+          {
+            "start": "16:23",
+            "end": "16:26",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "16:27",
+            "end": "16:28",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Research Compute",
+            "note": "mqoutlook.sharepoint.com"
+          },
+          {
+            "start": "16:37",
+            "end": "16:38",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Change Project proposal-17533 details | MyNCI",
+            "note": "my.nci.org.au"
+          },
+          {
+            "start": "16:40",
+            "end": "16:41",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Project proposal-17533 | MyNCI",
+            "note": "my.nci.org.au"
+          },
+          {
+            "start": "16:41",
+            "end": "17:05",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(6) Stanford CS329A Self-Improving AI Agents | Part 2 | Test",
+            "note": "youtube.com"
+          },
+          {
+            "start": "17:07",
+            "end": "17:09",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "17:10",
+            "end": "17:13",
+            "cat": "coding",
+            "src": "macos",
+            "title": "iterm2",
+            "note": "com.googlecode.iterm2"
+          },
+          {
+            "start": "17:13",
+            "end": "17:14",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Connecting to Gadi... - NCI Help - Opus - NCI Confluence",
+            "note": "opus.nci.org.au"
+          },
+          {
+            "start": "17:14",
+            "end": "17:15",
+            "cat": "coding",
+            "src": "macos",
+            "title": "XQuartz",
+            "note": "xquartz.org"
+          },
+          {
+            "start": "17:15",
+            "end": "17:19",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
+            "note": "sport.mq.edu.au"
+          },
+          {
+            "start": "17:22",
+            "end": "17:25",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Claude in Chrome",
+            "note": "claude.ai"
+          },
+          {
+            "start": "17:25",
+            "end": "17:28",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · week12prac",
+            "note": "56 hits"
+          },
+          {
+            "start": "17:28",
+            "end": "17:37",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · week12prac",
+            "note": "56 hits"
+          },
+          {
+            "start": "17:37",
+            "end": "17:45",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "17:49",
+            "end": "17:59",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "17:59",
+            "end": "18:16",
+            "cat": "coding",
+            "src": "macos",
+            "title": "iterm2",
+            "note": "com.googlecode.iterm2"
+          },
+          {
+            "start": "18:34",
+            "end": "18:43",
+            "cat": "coding",
+            "src": "macos",
+            "title": "iterm2",
+            "note": "com.googlecode.iterm2"
+          },
+          {
+            "start": "21:13",
+            "end": "21:25",
+            "cat": "coding",
+            "src": "macos",
+            "title": "iterm2",
+            "note": "com.googlecode.iterm2"
+          },
+          {
+            "start": "21:27",
+            "end": "22:01",
+            "cat": "coding",
+            "src": "macos",
+            "title": "iterm2",
+            "note": "com.googlecode.iterm2"
+          },
+          {
+            "start": "22:04",
+            "end": "22:23",
+            "cat": "coding",
+            "src": "macos",
+            "title": "iterm2",
+            "note": "com.googlecode.iterm2"
+          },
+          {
+            "start": "23:28",
+            "end": "23:33",
+            "cat": "coding",
+            "src": "macos",
+            "title": "iterm2",
+            "note": "com.googlecode.iterm2"
+          },
+          {
+            "start": "00:05",
+            "end": "00:22",
+            "cat": "coding",
+            "src": "macos",
+            "title": "iterm2",
+            "note": "com.googlecode.iterm2"
           }
         ],
-        "logged": 39,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0.0,
+        "logged": 363,
+        "real": 225,
+        "deep": 225,
+        "ratio": 0.6191700769922285,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 12,
-          "longestFocus": "0m",
-          "justOneMoreThing": 0
+          "contextSwitches": 19,
+          "tabsOpened": 0,
+          "longestFocus": "2h 25m",
+          "justOneMoreThing": 2
         }
       },
       {
@@ -99123,13 +99507,38 @@
         "weekend": false,
         "dateShort": "Fri, Oct 30",
         "dateLong": "Friday, October 30",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
+        "dayStart": "09:56",
+        "dayEnd": "10:08",
+        "events": [
+          {
+            "start": "09:56",
+            "end": "09:58",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "10:01",
+            "end": "10:04",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Move In",
+            "note": "meritonenergy.nextgenutilities.com.au"
+          },
+          {
+            "start": "10:06",
+            "end": "10:08",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          }
+        ],
+        "logged": 7,
         "real": 0,
         "deep": 0,
-        "ratio": 0,
+        "ratio": 0.0,
         "stats": {
           "contextSwitches": 0,
           "tabsOpened": 0,
@@ -110403,306 +110812,306 @@
       "weekend": false
     },
     {
-      "key": "2026-10-28",
-      "dayNum": 28,
-      "dow": 3,
-      "weekend": false,
-      "dateShort": "Wed, Oct 28",
       "dateLong": "Wednesday, October 28",
-      "dayStart": "09:59",
+      "dateShort": "Wed, Oct 28",
       "dayEnd": "15:49",
+      "dayNum": 28,
+      "dayStart": "09:59",
+      "deep": 60,
+      "dow": 3,
       "events": [
         {
-          "start": "09:59",
+          "cat": "admin",
           "end": "10:00",
-          "cat": "admin",
+          "note": "sport.mq.edu.au",
           "src": "macos",
-          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
-          "note": "sport.mq.edu.au"
+          "start": "09:59",
+          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni"
         },
         {
-          "start": "10:01",
+          "cat": "admin",
           "end": "10:04",
-          "cat": "admin",
+          "note": "mail.google.com",
           "src": "macos",
-          "title": "Inbox (3,307) - ada.ren.cn@gmail.com - Gmail",
-          "note": "mail.google.com"
+          "start": "10:01",
+          "title": "Inbox (3,307) - ada.ren.cn@gmail.com - Gmail"
         },
         {
-          "start": "10:11",
+          "cat": "personal",
           "end": "10:15",
-          "cat": "personal",
+          "note": "youtube.com",
           "src": "macos",
-          "title": "(5) Genie 4: A new generation of world simulation - YouTube",
-          "note": "youtube.com"
+          "start": "10:11",
+          "title": "(5) Genie 4: A new generation of world simulation - YouTube"
         },
         {
-          "start": "10:15",
+          "cat": "personal",
           "end": "10:19",
-          "cat": "personal",
+          "note": "youtube.com",
           "src": "macos",
-          "title": "(5) Applying Gemini 4 for large-scale codebase maintenance i",
-          "note": "youtube.com"
+          "start": "10:15",
+          "title": "(5) Applying Gemini 4 for large-scale codebase maintenance i"
         },
         {
-          "start": "10:19",
+          "cat": "personal",
           "end": "10:23",
-          "cat": "personal",
+          "note": "youtube.com",
           "src": "macos",
-          "title": "(5) Using Gemini 4 Argon to protect against Cyber attackers ",
-          "note": "youtube.com"
+          "start": "10:19",
+          "title": "(5) Using Gemini 4 Argon to protect against Cyber attackers "
         },
         {
-          "start": "10:28",
+          "cat": "personal",
           "end": "10:29",
-          "cat": "personal",
+          "note": "x.com",
           "src": "macos",
-          "title": "Thariq (@trq212) / X",
-          "note": "x.com"
+          "start": "10:28",
+          "title": "Thariq (@trq212) / X"
         },
         {
-          "start": "10:33",
+          "cat": "coding",
           "end": "10:36",
-          "cat": "coding",
+          "note": "platform.claude.com",
           "src": "macos",
-          "title": "Sign in successful | Claude Platform",
-          "note": "platform.claude.com"
+          "start": "10:33",
+          "title": "Sign in successful | Claude Platform"
         },
         {
-          "start": "10:39",
+          "cat": "coding",
           "end": "10:45",
-          "cat": "coding",
+          "note": "platform.claude.com",
           "src": "macos",
-          "title": "Sign in successful | Claude Platform",
-          "note": "platform.claude.com"
+          "start": "10:39",
+          "title": "Sign in successful | Claude Platform"
         },
         {
-          "start": "10:45",
+          "cat": "research",
           "end": "10:46",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "macos",
-          "title": "Posts | Ada's Notes",
-          "note": "adaren100.github.io"
+          "start": "10:45",
+          "title": "Posts | Ada's Notes"
         },
         {
-          "start": "10:46",
-          "end": "10:47",
           "cat": "writing",
+          "end": "10:47",
+          "note": "md.obsidian",
           "src": "macos",
-          "title": "obsidian",
-          "note": "md.obsidian"
+          "start": "10:46",
+          "title": "obsidian"
         },
         {
-          "start": "10:48",
+          "cat": "research",
           "end": "10:50",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "macos",
-          "title": "Posts | Ada's Notes",
-          "note": "adaren100.github.io"
+          "start": "10:48",
+          "title": "Posts | Ada's Notes"
         },
         {
-          "start": "10:50",
+          "cat": "research",
           "end": "10:52",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "macos",
-          "title": "Posts | Ada's Notes",
-          "note": "adaren100.github.io"
+          "start": "10:50",
+          "title": "Posts | Ada's Notes"
         },
         {
-          "start": "11:06",
+          "cat": "research",
           "end": "11:07",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "macos",
-          "title": "Posts | Ada's Notes",
-          "note": "adaren100.github.io"
+          "start": "11:06",
+          "title": "Posts | Ada's Notes"
         },
         {
-          "start": "11:11",
+          "cat": "coding",
           "end": "11:13",
-          "cat": "coding",
+          "note": "anthropic.com",
           "src": "macos",
-          "title": "Newsroom \\ Anthropic",
-          "note": "anthropic.com"
+          "start": "11:11",
+          "title": "Newsroom \\ Anthropic"
         },
         {
-          "start": "11:15",
+          "cat": "coding",
           "end": "11:16",
-          "cat": "coding",
+          "note": "anthropic.com",
           "src": "macos",
-          "title": "Redesigning source control at Anthropic \\ Anthropic",
-          "note": "anthropic.com"
+          "start": "11:15",
+          "title": "Redesigning source control at Anthropic \\ Anthropic"
         },
         {
-          "start": "11:16",
+          "cat": "coding",
           "end": "11:27",
-          "cat": "coding",
+          "note": "claude.ai",
           "src": "macos",
-          "title": "New session - Claude",
-          "note": "claude.ai"
+          "start": "11:16",
+          "title": "New session - Claude"
         },
         {
-          "start": "11:27",
+          "cat": "coding",
           "end": "11:39",
-          "cat": "coding",
+          "note": "anthropic.com",
           "src": "macos",
-          "title": "Redesigning source control at Anthropic \\ Anthropic",
-          "note": "anthropic.com"
+          "start": "11:27",
+          "title": "Redesigning source control at Anthropic \\ Anthropic"
         },
         {
-          "start": "11:40",
+          "cat": "coding",
           "end": "11:47",
-          "cat": "coding",
+          "note": "22 hits",
           "src": "claude",
-          "title": "Chrome 插件:交错英文和中文",
-          "note": "22 hits"
+          "start": "11:40",
+          "title": "Chrome 插件:交错英文和中文"
         },
         {
-          "start": "11:47",
-          "end": "11:59",
           "cat": "coding",
+          "end": "11:59",
+          "note": "claude.ai",
           "src": "macos",
-          "title": "New session - Claude",
-          "note": "claude.ai"
+          "start": "11:47",
+          "title": "New session - Claude"
         },
         {
-          "start": "12:58",
+          "cat": "admin",
           "end": "13:01",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Assignment 2 marks | ",
-          "note": "ilearn.mq.edu.au"
+          "start": "12:58",
+          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Assignment 2 marks | "
         },
         {
-          "start": "13:01",
+          "cat": "admin",
           "end": "13:04",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "13:01",
+          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn"
         },
         {
-          "start": "13:04",
+          "cat": "personal",
           "end": "13:25",
-          "cat": "personal",
+          "note": "youtube.com",
           "src": "macos",
-          "title": "(5) CMU AI Agents 2026: 13. Agentic Safety - YouTube",
-          "note": "youtube.com"
+          "start": "13:04",
+          "title": "(5) CMU AI Agents 2026: 13. Agentic Safety - YouTube"
         },
         {
-          "start": "13:32",
+          "cat": "personal",
           "end": "13:47",
-          "cat": "personal",
+          "note": "youtube.com",
           "src": "macos",
-          "title": "(5) CMU AI Agents 2026: 13. Agentic Safety - YouTube",
-          "note": "youtube.com"
+          "start": "13:32",
+          "title": "(5) CMU AI Agents 2026: 13. Agentic Safety - YouTube"
         },
         {
-          "start": "13:48",
+          "cat": "personal",
           "end": "13:54",
-          "cat": "personal",
+          "note": "youtube.com",
           "src": "macos",
-          "title": "(5) CMU AI Agents 2026: 14. Lessons from Building OpenHands ",
-          "note": "youtube.com"
+          "start": "13:48",
+          "title": "(5) CMU AI Agents 2026: 14. Lessons from Building OpenHands "
         },
         {
-          "start": "14:09",
+          "cat": "personal",
           "end": "14:37",
-          "cat": "personal",
+          "note": "youtube.com",
           "src": "macos",
-          "title": "(5) CMU AI Agents 2026: 14. Lessons from Building OpenHands ",
-          "note": "youtube.com"
+          "start": "14:09",
+          "title": "(5) CMU AI Agents 2026: 14. Lessons from Building OpenHands "
         },
         {
-          "start": "14:37",
+          "cat": "admin",
           "end": "14:38",
-          "cat": "admin",
+          "note": "mail.google.com",
           "src": "macos",
-          "title": "Smart Rental Bonds is here. - ada.ren.cn@gmail.com - Gmail",
-          "note": "mail.google.com"
+          "start": "14:37",
+          "title": "Smart Rental Bonds is here. - ada.ren.cn@gmail.com - Gmail"
         },
         {
-          "start": "14:41",
+          "cat": "admin",
           "end": "14:46",
-          "cat": "admin",
+          "note": "wd3.myworkday.com",
           "src": "macos",
-          "title": "Enter Time - Workday",
-          "note": "wd3.myworkday.com"
+          "start": "14:41",
+          "title": "Enter Time - Workday"
         },
         {
-          "start": "14:50",
+          "cat": "admin",
           "end": "14:52",
-          "cat": "admin",
+          "note": "wd3.myworkday.com",
           "src": "macos",
-          "title": "Enter Time - Workday",
-          "note": "wd3.myworkday.com"
+          "start": "14:50",
+          "title": "Enter Time - Workday"
         },
         {
-          "start": "14:54",
+          "cat": "admin",
           "end": "14:57",
-          "cat": "admin",
+          "note": "wd3.myworkday.com",
           "src": "macos",
-          "title": "Enter Time - Workday",
-          "note": "wd3.myworkday.com"
+          "start": "14:54",
+          "title": "Enter Time - Workday"
         },
         {
-          "start": "14:57",
+          "cat": "admin",
           "end": "14:59",
-          "cat": "admin",
+          "note": "wd3.myworkday.com",
           "src": "macos",
-          "title": "Enter Time - Workday",
-          "note": "wd3.myworkday.com"
+          "start": "14:57",
+          "title": "Enter Time - Workday"
         },
         {
-          "start": "15:02",
+          "cat": "admin",
           "end": "15:03",
-          "cat": "admin",
+          "note": "wd3.myworkday.com",
           "src": "macos",
-          "title": "Enter Time - Workday",
-          "note": "wd3.myworkday.com"
+          "start": "15:02",
+          "title": "Enter Time - Workday"
         },
         {
-          "start": "15:03",
+          "cat": "admin",
           "end": "15:04",
-          "cat": "admin",
+          "note": "wd3.myworkday.com",
           "src": "macos",
-          "title": "Enter Time - Workday",
-          "note": "wd3.myworkday.com"
+          "start": "15:03",
+          "title": "Enter Time - Workday"
         },
         {
-          "start": "15:06",
+          "cat": "admin",
           "end": "15:08",
-          "cat": "admin",
+          "note": "wd3.myworkday.com",
           "src": "macos",
-          "title": "Enter Time - Workday",
-          "note": "wd3.myworkday.com"
+          "start": "15:06",
+          "title": "Enter Time - Workday"
         },
         {
-          "start": "15:09",
+          "cat": "admin",
           "end": "15:19",
-          "cat": "admin",
+          "note": "wd3.myworkday.com",
           "src": "macos",
-          "title": "View Event - Workday",
-          "note": "wd3.myworkday.com"
+          "start": "15:09",
+          "title": "View Event - Workday"
         },
         {
-          "start": "15:28",
-          "end": "15:49",
           "cat": "personal",
+          "end": "15:49",
+          "note": "overthewire.org",
           "src": "macos",
-          "title": "OverTheWire: Level Goal: Bandit Level 0 → Level 1",
-          "note": "overthewire.org"
+          "start": "15:28",
+          "title": "OverTheWire: Level Goal: Bandit Level 0 → Level 1"
         }
       ],
+      "key": "2026-10-28",
       "logged": 201,
-      "real": 60,
-      "deep": 60,
       "ratio": 0.2986516043588763,
+      "real": 60,
       "stats": {
         "contextSwitches": 10,
-        "tabsOpened": 0,
+        "justOneMoreThing": 0,
         "longestFocus": "1h",
-        "justOneMoreThing": 0
-      }
+        "tabsOpened": 0
+      },
+      "weekend": false
     },
     {
       "key": "2026-10-29",
@@ -110711,51 +111120,435 @@
       "weekend": false,
       "dateShort": "Thu, Oct 29",
       "dateLong": "Thursday, October 29",
-      "dayStart": "09:56",
-      "dayEnd": "10:37",
+      "dayStart": "09:57",
+      "dayEnd": "00:22",
       "events": [
         {
-          "start": "09:56",
+          "start": "09:57",
           "end": "10:01",
           "cat": "admin",
-          "src": "chrome",
-          "title": "Community Notes with Jay Baxter · Zoom · Luma",
-          "note": "google.com"
+          "src": "macos",
+          "title": "My Request - RITM1471091 - Employee",
+          "note": "mq.service-now.com"
         },
         {
-          "start": "10:01",
-          "end": "10:06",
+          "start": "10:03",
+          "end": "10:04",
           "cat": "admin",
-          "src": "chrome",
-          "title": "Community Notes with Jay Baxter · Zoom · Luma",
-          "note": "google.com"
-        },
-        {
-          "start": "10:06",
-          "end": "10:21",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "Community Notes with Jay Baxter · Zoom · Luma",
-          "note": "google.com"
-        },
-        {
-          "start": "10:21",
-          "end": "10:37",
-          "cat": "admin",
-          "src": "chrome",
+          "src": "macos",
           "title": "beabadoobee tickets | Afterpay Arena, formerly known as Qudo",
+          "note": "premier.ticketek.com.au"
+        },
+        {
+          "start": "10:10",
+          "end": "10:14",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Shop All Women | 30% Off Sitewide | ALO",
+          "note": "aloyoga.com"
+        },
+        {
+          "start": "10:18",
+          "end": "10:20",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Outlet – Arc'teryx Australia",
+          "note": "arcteryx.com.au"
+        },
+        {
+          "start": "10:20",
+          "end": "10:26",
+          "cat": "personal",
+          "src": "macos",
+          "title": "主页 / X",
+          "note": "x.com"
+        },
+        {
+          "start": "10:32",
+          "end": "10:37",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Airbrush Better Together Bra - Black/White | ALO",
+          "note": "aloyoga.com"
+        },
+        {
+          "start": "10:37",
+          "end": "10:39",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Zora Wang",
+          "note": "zorazrw.github.io"
+        },
+        {
+          "start": "10:40",
+          "end": "11:03",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(5) Michigan AI Lab - YouTube",
+          "note": "youtube.com"
+        },
+        {
+          "start": "11:20",
+          "end": "11:28",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(5) Michigan AI Lab - YouTube",
+          "note": "youtube.com"
+        },
+        {
+          "start": "11:28",
+          "end": "11:55",
+          "cat": "research",
+          "src": "macos",
+          "title": "Efficient Test-Time Adaptation through Human-AI Interaction",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "11:56",
+          "end": "12:01",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(6) Skills, Memory, Collaboration: What's Next for Al Agents",
+          "note": "youtube.com"
+        },
+        {
+          "start": "12:08",
+          "end": "12:17",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(6) Skills, Memory, Collaboration: What's Next for Al Agents",
+          "note": "youtube.com"
+        },
+        {
+          "start": "12:22",
+          "end": "12:25",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(6) Stanford CS329A Self-Improving AI Agents | Part 1 | Cour",
+          "note": "youtube.com"
+        },
+        {
+          "start": "14:03",
+          "end": "14:04",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Inbox (3,318) - ada.ren.cn@gmail.com - Gmail",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "14:05",
+          "end": "14:07",
+          "cat": "writing",
+          "src": "macos",
+          "title": "europe-trip-itinerary-v2 - Google Sheets",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "14:07",
+          "end": "14:12",
+          "cat": "writing",
+          "src": "macos",
+          "title": "europe-trip-itinerary-v2 - Google Sheets",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "14:12",
+          "end": "14:20",
+          "cat": "writing",
+          "src": "macos",
+          "title": "europe-trip-itinerary-v2 - Google Sheets",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "14:21",
+          "end": "14:22",
+          "cat": "writing",
+          "src": "macos",
+          "title": "europe-trip-itinerary-v2 - Google Sheets",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "14:22",
+          "end": "14:24",
+          "cat": "writing",
+          "src": "macos",
+          "title": "europe-trip-itinerary-v2 - Google Sheets",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "14:25",
+          "end": "14:35",
+          "cat": "writing",
+          "src": "macos",
+          "title": "europe-trip-itinerary-v2 - Google Sheets",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "14:52",
+          "end": "14:53",
+          "cat": "writing",
+          "src": "macos",
+          "title": "europe-trip-itinerary-v2 - Google Sheets",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "15:08",
+          "end": "15:12",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Cheap Flights, Airline Tickets & Flight Deals | Trip.com AU",
+          "note": "au.trip.com"
+        },
+        {
+          "start": "15:21",
+          "end": "15:22",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Huge Discounts on Silversea Cruises",
+          "note": "luxury.cruiselines.com"
+        },
+        {
+          "start": "15:24",
+          "end": "15:25",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Luxury.CruiseLines.com: FastDeal# 49393, Silver Spirit Depar",
+          "note": "luxury.cruiselines.com"
+        },
+        {
+          "start": "15:31",
+          "end": "15:33",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Maps",
           "note": "google.com"
+        },
+        {
+          "start": "15:33",
+          "end": "15:41",
+          "cat": "writing",
+          "src": "macos",
+          "title": "europe-trip-itinerary-v2 - Google Sheets",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "15:45",
+          "end": "15:52",
+          "cat": "writing",
+          "src": "macos",
+          "title": "europe-trip-itinerary-v2 - Google Sheets",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "15:53",
+          "end": "16:06",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Propose a project: step 8 of 10 | MyNCI",
+          "note": "my.nci.org.au"
+        },
+        {
+          "start": "16:10",
+          "end": "16:14",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Home | MyNCI",
+          "note": "my.nci.org.au"
+        },
+        {
+          "start": "16:14",
+          "end": "16:20",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(5) YouTube",
+          "note": "youtube.com"
+        },
+        {
+          "start": "16:23",
+          "end": "16:26",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "16:27",
+          "end": "16:28",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Research Compute",
+          "note": "mqoutlook.sharepoint.com"
+        },
+        {
+          "start": "16:37",
+          "end": "16:38",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Change Project proposal-17533 details | MyNCI",
+          "note": "my.nci.org.au"
+        },
+        {
+          "start": "16:40",
+          "end": "16:41",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Project proposal-17533 | MyNCI",
+          "note": "my.nci.org.au"
+        },
+        {
+          "start": "16:41",
+          "end": "17:05",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(6) Stanford CS329A Self-Improving AI Agents | Part 2 | Test",
+          "note": "youtube.com"
+        },
+        {
+          "start": "17:07",
+          "end": "17:09",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "17:10",
+          "end": "17:13",
+          "cat": "coding",
+          "src": "macos",
+          "title": "iterm2",
+          "note": "com.googlecode.iterm2"
+        },
+        {
+          "start": "17:13",
+          "end": "17:14",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Connecting to Gadi... - NCI Help - Opus - NCI Confluence",
+          "note": "opus.nci.org.au"
+        },
+        {
+          "start": "17:14",
+          "end": "17:15",
+          "cat": "coding",
+          "src": "macos",
+          "title": "XQuartz",
+          "note": "xquartz.org"
+        },
+        {
+          "start": "17:15",
+          "end": "17:19",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
+          "note": "sport.mq.edu.au"
+        },
+        {
+          "start": "17:22",
+          "end": "17:25",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Claude in Chrome",
+          "note": "claude.ai"
+        },
+        {
+          "start": "17:25",
+          "end": "17:28",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · week12prac",
+          "note": "56 hits"
+        },
+        {
+          "start": "17:28",
+          "end": "17:37",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · week12prac",
+          "note": "56 hits"
+        },
+        {
+          "start": "17:37",
+          "end": "17:45",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "17:49",
+          "end": "17:59",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "17:59",
+          "end": "18:16",
+          "cat": "coding",
+          "src": "macos",
+          "title": "iterm2",
+          "note": "com.googlecode.iterm2"
+        },
+        {
+          "start": "18:34",
+          "end": "18:43",
+          "cat": "coding",
+          "src": "macos",
+          "title": "iterm2",
+          "note": "com.googlecode.iterm2"
+        },
+        {
+          "start": "21:13",
+          "end": "21:25",
+          "cat": "coding",
+          "src": "macos",
+          "title": "iterm2",
+          "note": "com.googlecode.iterm2"
+        },
+        {
+          "start": "21:27",
+          "end": "22:01",
+          "cat": "coding",
+          "src": "macos",
+          "title": "iterm2",
+          "note": "com.googlecode.iterm2"
+        },
+        {
+          "start": "22:04",
+          "end": "22:23",
+          "cat": "coding",
+          "src": "macos",
+          "title": "iterm2",
+          "note": "com.googlecode.iterm2"
+        },
+        {
+          "start": "23:28",
+          "end": "23:33",
+          "cat": "coding",
+          "src": "macos",
+          "title": "iterm2",
+          "note": "com.googlecode.iterm2"
+        },
+        {
+          "start": "00:05",
+          "end": "00:22",
+          "cat": "coding",
+          "src": "macos",
+          "title": "iterm2",
+          "note": "com.googlecode.iterm2"
         }
       ],
-      "logged": 39,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0.0,
+      "logged": 363,
+      "real": 225,
+      "deep": 225,
+      "ratio": 0.6191700769922285,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 12,
-        "longestFocus": "0m",
-        "justOneMoreThing": 0
+        "contextSwitches": 19,
+        "tabsOpened": 0,
+        "longestFocus": "2h 25m",
+        "justOneMoreThing": 2
       }
     },
     {
@@ -110765,13 +111558,38 @@
       "weekend": false,
       "dateShort": "Fri, Oct 30",
       "dateLong": "Friday, October 30",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
+      "dayStart": "09:56",
+      "dayEnd": "10:08",
+      "events": [
+        {
+          "start": "09:56",
+          "end": "09:58",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "10:01",
+          "end": "10:04",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Move In",
+          "note": "meritonenergy.nextgenutilities.com.au"
+        },
+        {
+          "start": "10:06",
+          "end": "10:08",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        }
+      ],
+      "logged": 7,
       "real": 0,
       "deep": 0,
-      "ratio": 0,
+      "ratio": 0.0,
       "stats": {
         "contextSwitches": 0,
         "tabsOpened": 0,
