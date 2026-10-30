@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-10-30T10:20:18+11:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-10-31T10:21:55+11:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -99063,442 +99063,442 @@
         "weekend": false
       },
       {
-        "key": "2026-10-29",
-        "dayNum": 29,
-        "dow": 4,
-        "weekend": false,
-        "dateShort": "Thu, Oct 29",
         "dateLong": "Thursday, October 29",
-        "dayStart": "09:57",
+        "dateShort": "Thu, Oct 29",
         "dayEnd": "00:22",
+        "dayNum": 29,
+        "dayStart": "09:57",
+        "deep": 225,
+        "dow": 4,
         "events": [
           {
-            "start": "09:57",
+            "cat": "admin",
             "end": "10:01",
-            "cat": "admin",
+            "note": "mq.service-now.com",
             "src": "macos",
-            "title": "My Request - RITM1471091 - Employee",
-            "note": "mq.service-now.com"
+            "start": "09:57",
+            "title": "My Request - RITM1471091 - Employee"
           },
           {
-            "start": "10:03",
+            "cat": "admin",
             "end": "10:04",
-            "cat": "admin",
+            "note": "premier.ticketek.com.au",
             "src": "macos",
-            "title": "beabadoobee tickets | Afterpay Arena, formerly known as Qudo",
-            "note": "premier.ticketek.com.au"
+            "start": "10:03",
+            "title": "beabadoobee tickets | Afterpay Arena, formerly known as Qudo"
           },
           {
-            "start": "10:10",
+            "cat": "personal",
             "end": "10:14",
-            "cat": "personal",
+            "note": "aloyoga.com",
             "src": "macos",
-            "title": "Shop All Women | 30% Off Sitewide | ALO",
-            "note": "aloyoga.com"
+            "start": "10:10",
+            "title": "Shop All Women | 30% Off Sitewide | ALO"
           },
           {
-            "start": "10:18",
+            "cat": "personal",
             "end": "10:20",
-            "cat": "personal",
+            "note": "arcteryx.com.au",
             "src": "macos",
-            "title": "Outlet – Arc'teryx Australia",
-            "note": "arcteryx.com.au"
+            "start": "10:18",
+            "title": "Outlet – Arc'teryx Australia"
           },
           {
-            "start": "10:20",
+            "cat": "personal",
             "end": "10:26",
-            "cat": "personal",
+            "note": "x.com",
             "src": "macos",
-            "title": "主页 / X",
-            "note": "x.com"
+            "start": "10:20",
+            "title": "主页 / X"
           },
           {
-            "start": "10:32",
+            "cat": "personal",
             "end": "10:37",
-            "cat": "personal",
+            "note": "aloyoga.com",
             "src": "macos",
-            "title": "Airbrush Better Together Bra - Black/White | ALO",
-            "note": "aloyoga.com"
+            "start": "10:32",
+            "title": "Airbrush Better Together Bra - Black/White | ALO"
           },
           {
-            "start": "10:37",
+            "cat": "coding",
             "end": "10:39",
-            "cat": "coding",
+            "note": "zorazrw.github.io",
             "src": "macos",
-            "title": "Zora Wang",
-            "note": "zorazrw.github.io"
+            "start": "10:37",
+            "title": "Zora Wang"
           },
           {
-            "start": "10:40",
+            "cat": "personal",
             "end": "11:03",
-            "cat": "personal",
+            "note": "youtube.com",
             "src": "macos",
-            "title": "(5) Michigan AI Lab - YouTube",
-            "note": "youtube.com"
+            "start": "10:40",
+            "title": "(5) Michigan AI Lab - YouTube"
           },
           {
-            "start": "11:20",
+            "cat": "personal",
             "end": "11:28",
-            "cat": "personal",
+            "note": "youtube.com",
             "src": "macos",
-            "title": "(5) Michigan AI Lab - YouTube",
-            "note": "youtube.com"
+            "start": "11:20",
+            "title": "(5) Michigan AI Lab - YouTube"
           },
           {
-            "start": "11:28",
-            "end": "11:55",
             "cat": "research",
+            "end": "11:55",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "Efficient Test-Time Adaptation through Human-AI Interaction",
-            "note": "arxiv.org"
+            "start": "11:28",
+            "title": "Efficient Test-Time Adaptation through Human-AI Interaction"
           },
           {
-            "start": "11:56",
+            "cat": "personal",
             "end": "12:01",
-            "cat": "personal",
+            "note": "youtube.com",
             "src": "macos",
-            "title": "(6) Skills, Memory, Collaboration: What's Next for Al Agents",
-            "note": "youtube.com"
+            "start": "11:56",
+            "title": "(6) Skills, Memory, Collaboration: What's Next for Al Agents"
           },
           {
-            "start": "12:08",
+            "cat": "personal",
             "end": "12:17",
-            "cat": "personal",
+            "note": "youtube.com",
             "src": "macos",
-            "title": "(6) Skills, Memory, Collaboration: What's Next for Al Agents",
-            "note": "youtube.com"
+            "start": "12:08",
+            "title": "(6) Skills, Memory, Collaboration: What's Next for Al Agents"
           },
           {
-            "start": "12:22",
+            "cat": "personal",
             "end": "12:25",
-            "cat": "personal",
+            "note": "youtube.com",
             "src": "macos",
-            "title": "(6) Stanford CS329A Self-Improving AI Agents | Part 1 | Cour",
-            "note": "youtube.com"
+            "start": "12:22",
+            "title": "(6) Stanford CS329A Self-Improving AI Agents | Part 1 | Cour"
           },
           {
-            "start": "14:03",
+            "cat": "admin",
             "end": "14:04",
-            "cat": "admin",
+            "note": "mail.google.com",
             "src": "macos",
-            "title": "Inbox (3,318) - ada.ren.cn@gmail.com - Gmail",
-            "note": "mail.google.com"
+            "start": "14:03",
+            "title": "Inbox (3,318) - ada.ren.cn@gmail.com - Gmail"
           },
           {
-            "start": "14:05",
+            "cat": "writing",
             "end": "14:07",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "europe-trip-itinerary-v2 - Google Sheets",
-            "note": "docs.google.com"
+            "start": "14:05",
+            "title": "europe-trip-itinerary-v2 - Google Sheets"
           },
           {
-            "start": "14:07",
+            "cat": "writing",
             "end": "14:12",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "europe-trip-itinerary-v2 - Google Sheets",
-            "note": "docs.google.com"
+            "start": "14:07",
+            "title": "europe-trip-itinerary-v2 - Google Sheets"
           },
           {
-            "start": "14:12",
+            "cat": "writing",
             "end": "14:20",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "europe-trip-itinerary-v2 - Google Sheets",
-            "note": "docs.google.com"
+            "start": "14:12",
+            "title": "europe-trip-itinerary-v2 - Google Sheets"
           },
           {
-            "start": "14:21",
+            "cat": "writing",
             "end": "14:22",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "europe-trip-itinerary-v2 - Google Sheets",
-            "note": "docs.google.com"
+            "start": "14:21",
+            "title": "europe-trip-itinerary-v2 - Google Sheets"
           },
           {
-            "start": "14:22",
+            "cat": "writing",
             "end": "14:24",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "europe-trip-itinerary-v2 - Google Sheets",
-            "note": "docs.google.com"
+            "start": "14:22",
+            "title": "europe-trip-itinerary-v2 - Google Sheets"
           },
           {
-            "start": "14:25",
+            "cat": "writing",
             "end": "14:35",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "europe-trip-itinerary-v2 - Google Sheets",
-            "note": "docs.google.com"
+            "start": "14:25",
+            "title": "europe-trip-itinerary-v2 - Google Sheets"
           },
           {
-            "start": "14:52",
+            "cat": "writing",
             "end": "14:53",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "europe-trip-itinerary-v2 - Google Sheets",
-            "note": "docs.google.com"
+            "start": "14:52",
+            "title": "europe-trip-itinerary-v2 - Google Sheets"
           },
           {
-            "start": "15:08",
+            "cat": "personal",
             "end": "15:12",
-            "cat": "personal",
+            "note": "au.trip.com",
             "src": "macos",
-            "title": "Cheap Flights, Airline Tickets & Flight Deals | Trip.com AU",
-            "note": "au.trip.com"
+            "start": "15:08",
+            "title": "Cheap Flights, Airline Tickets & Flight Deals | Trip.com AU"
           },
           {
-            "start": "15:21",
+            "cat": "personal",
             "end": "15:22",
-            "cat": "personal",
+            "note": "luxury.cruiselines.com",
             "src": "macos",
-            "title": "Huge Discounts on Silversea Cruises",
-            "note": "luxury.cruiselines.com"
+            "start": "15:21",
+            "title": "Huge Discounts on Silversea Cruises"
           },
           {
-            "start": "15:24",
+            "cat": "personal",
             "end": "15:25",
-            "cat": "personal",
+            "note": "luxury.cruiselines.com",
             "src": "macos",
-            "title": "Luxury.CruiseLines.com: FastDeal# 49393, Silver Spirit Depar",
-            "note": "luxury.cruiselines.com"
+            "start": "15:24",
+            "title": "Luxury.CruiseLines.com: FastDeal# 49393, Silver Spirit Depar"
           },
           {
-            "start": "15:31",
+            "cat": "admin",
             "end": "15:33",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "Google Maps",
-            "note": "google.com"
+            "start": "15:31",
+            "title": "Google Maps"
           },
           {
-            "start": "15:33",
+            "cat": "writing",
             "end": "15:41",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "europe-trip-itinerary-v2 - Google Sheets",
-            "note": "docs.google.com"
+            "start": "15:33",
+            "title": "europe-trip-itinerary-v2 - Google Sheets"
           },
           {
-            "start": "15:45",
+            "cat": "writing",
             "end": "15:52",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "europe-trip-itinerary-v2 - Google Sheets",
-            "note": "docs.google.com"
+            "start": "15:45",
+            "title": "europe-trip-itinerary-v2 - Google Sheets"
           },
           {
-            "start": "15:53",
+            "cat": "admin",
             "end": "16:06",
-            "cat": "admin",
+            "note": "my.nci.org.au",
             "src": "macos",
-            "title": "Propose a project: step 8 of 10 | MyNCI",
-            "note": "my.nci.org.au"
+            "start": "15:53",
+            "title": "Propose a project: step 8 of 10 | MyNCI"
           },
           {
-            "start": "16:10",
+            "cat": "admin",
             "end": "16:14",
-            "cat": "admin",
+            "note": "my.nci.org.au",
             "src": "macos",
-            "title": "Home | MyNCI",
-            "note": "my.nci.org.au"
+            "start": "16:10",
+            "title": "Home | MyNCI"
           },
           {
-            "start": "16:14",
+            "cat": "personal",
             "end": "16:20",
-            "cat": "personal",
+            "note": "youtube.com",
             "src": "macos",
-            "title": "(5) YouTube",
-            "note": "youtube.com"
+            "start": "16:14",
+            "title": "(5) YouTube"
           },
           {
-            "start": "16:23",
+            "cat": "admin",
             "end": "16:26",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "16:23",
+            "title": "Outlook"
           },
           {
-            "start": "16:27",
+            "cat": "admin",
             "end": "16:28",
-            "cat": "admin",
+            "note": "mqoutlook.sharepoint.com",
             "src": "macos",
-            "title": "Research Compute",
-            "note": "mqoutlook.sharepoint.com"
+            "start": "16:27",
+            "title": "Research Compute"
           },
           {
-            "start": "16:37",
+            "cat": "admin",
             "end": "16:38",
-            "cat": "admin",
+            "note": "my.nci.org.au",
             "src": "macos",
-            "title": "Change Project proposal-17533 details | MyNCI",
-            "note": "my.nci.org.au"
+            "start": "16:37",
+            "title": "Change Project proposal-17533 details | MyNCI"
           },
           {
-            "start": "16:40",
+            "cat": "admin",
             "end": "16:41",
-            "cat": "admin",
+            "note": "my.nci.org.au",
             "src": "macos",
-            "title": "Project proposal-17533 | MyNCI",
-            "note": "my.nci.org.au"
+            "start": "16:40",
+            "title": "Project proposal-17533 | MyNCI"
           },
           {
-            "start": "16:41",
-            "end": "17:05",
             "cat": "personal",
+            "end": "17:05",
+            "note": "youtube.com",
             "src": "macos",
-            "title": "(6) Stanford CS329A Self-Improving AI Agents | Part 2 | Test",
-            "note": "youtube.com"
+            "start": "16:41",
+            "title": "(6) Stanford CS329A Self-Improving AI Agents | Part 2 | Test"
           },
           {
-            "start": "17:07",
+            "cat": "coding",
             "end": "17:09",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "17:07",
+            "title": "VSCode"
           },
           {
-            "start": "17:10",
+            "cat": "coding",
             "end": "17:13",
-            "cat": "coding",
+            "note": "com.googlecode.iterm2",
             "src": "macos",
-            "title": "iterm2",
-            "note": "com.googlecode.iterm2"
+            "start": "17:10",
+            "title": "iterm2"
           },
           {
-            "start": "17:13",
+            "cat": "admin",
             "end": "17:14",
-            "cat": "admin",
+            "note": "opus.nci.org.au",
             "src": "macos",
-            "title": "Connecting to Gadi... - NCI Help - Opus - NCI Confluence",
-            "note": "opus.nci.org.au"
+            "start": "17:13",
+            "title": "Connecting to Gadi... - NCI Help - Opus - NCI Confluence"
           },
           {
-            "start": "17:14",
+            "cat": "coding",
             "end": "17:15",
-            "cat": "coding",
+            "note": "xquartz.org",
             "src": "macos",
-            "title": "XQuartz",
-            "note": "xquartz.org"
+            "start": "17:14",
+            "title": "XQuartz"
           },
           {
-            "start": "17:15",
-            "end": "17:19",
             "cat": "admin",
+            "end": "17:19",
+            "note": "sport.mq.edu.au",
             "src": "macos",
-            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
-            "note": "sport.mq.edu.au"
+            "start": "17:15",
+            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni"
           },
           {
-            "start": "17:22",
+            "cat": "coding",
             "end": "17:25",
-            "cat": "coding",
+            "note": "claude.ai",
             "src": "macos",
-            "title": "Claude in Chrome",
-            "note": "claude.ai"
+            "start": "17:22",
+            "title": "Claude in Chrome"
           },
           {
-            "start": "17:25",
+            "cat": "coding",
             "end": "17:28",
-            "cat": "coding",
+            "note": "56 hits",
             "src": "claude",
-            "title": "Claude session · week12prac",
-            "note": "56 hits"
+            "start": "17:25",
+            "title": "Claude session · week12prac"
           },
           {
-            "start": "17:28",
+            "cat": "coding",
             "end": "17:37",
-            "cat": "coding",
+            "note": "56 hits",
             "src": "claude",
-            "title": "Claude session · week12prac",
-            "note": "56 hits"
+            "start": "17:28",
+            "title": "Claude session · week12prac"
           },
           {
-            "start": "17:37",
+            "cat": "coding",
             "end": "17:45",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "17:37",
+            "title": "VSCode"
           },
           {
-            "start": "17:49",
+            "cat": "coding",
             "end": "17:59",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "17:49",
+            "title": "VSCode"
           },
           {
-            "start": "17:59",
+            "cat": "coding",
             "end": "18:16",
-            "cat": "coding",
+            "note": "com.googlecode.iterm2",
             "src": "macos",
-            "title": "iterm2",
-            "note": "com.googlecode.iterm2"
+            "start": "17:59",
+            "title": "iterm2"
           },
           {
-            "start": "18:34",
+            "cat": "coding",
             "end": "18:43",
-            "cat": "coding",
+            "note": "com.googlecode.iterm2",
             "src": "macos",
-            "title": "iterm2",
-            "note": "com.googlecode.iterm2"
+            "start": "18:34",
+            "title": "iterm2"
           },
           {
-            "start": "21:13",
+            "cat": "coding",
             "end": "21:25",
-            "cat": "coding",
+            "note": "com.googlecode.iterm2",
             "src": "macos",
-            "title": "iterm2",
-            "note": "com.googlecode.iterm2"
+            "start": "21:13",
+            "title": "iterm2"
           },
           {
-            "start": "21:27",
+            "cat": "coding",
             "end": "22:01",
-            "cat": "coding",
+            "note": "com.googlecode.iterm2",
             "src": "macos",
-            "title": "iterm2",
-            "note": "com.googlecode.iterm2"
+            "start": "21:27",
+            "title": "iterm2"
           },
           {
-            "start": "22:04",
+            "cat": "coding",
             "end": "22:23",
-            "cat": "coding",
+            "note": "com.googlecode.iterm2",
             "src": "macos",
-            "title": "iterm2",
-            "note": "com.googlecode.iterm2"
+            "start": "22:04",
+            "title": "iterm2"
           },
           {
-            "start": "23:28",
+            "cat": "coding",
             "end": "23:33",
-            "cat": "coding",
+            "note": "com.googlecode.iterm2",
             "src": "macos",
-            "title": "iterm2",
-            "note": "com.googlecode.iterm2"
+            "start": "23:28",
+            "title": "iterm2"
           },
           {
-            "start": "00:05",
-            "end": "00:22",
             "cat": "coding",
+            "end": "00:22",
+            "note": "com.googlecode.iterm2",
             "src": "macos",
-            "title": "iterm2",
-            "note": "com.googlecode.iterm2"
+            "start": "00:05",
+            "title": "iterm2"
           }
         ],
+        "key": "2026-10-29",
         "logged": 363,
-        "real": 225,
-        "deep": 225,
         "ratio": 0.6191700769922285,
+        "real": 225,
         "stats": {
           "contextSwitches": 19,
-          "tabsOpened": 0,
+          "justOneMoreThing": 2,
           "longestFocus": "2h 25m",
-          "justOneMoreThing": 2
-        }
+          "tabsOpened": 0
+        },
+        "weekend": false
       },
       {
         "key": "2026-10-30",
@@ -99508,7 +99508,7 @@
         "dateShort": "Fri, Oct 30",
         "dateLong": "Friday, October 30",
         "dayStart": "09:56",
-        "dayEnd": "10:08",
+        "dayEnd": "17:42",
         "events": [
           {
             "start": "09:56",
@@ -99528,22 +99528,262 @@
           },
           {
             "start": "10:06",
-            "end": "10:08",
+            "end": "10:09",
             "cat": "admin",
             "src": "macos",
             "title": "Outlook",
             "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "10:11",
+            "end": "10:15",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Grader report | COMP2200 Data Science / COMP6200 | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "10:20",
+            "end": "10:21",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Grader report | COMP2200 Data Science / COMP6200 | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "10:24",
+            "end": "10:28",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Python Project: Attempt review | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "10:30",
+            "end": "10:32",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Python Project | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "10:34",
+            "end": "10:35",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Python Project | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "10:35",
+            "end": "10:36",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Python Project | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "10:36",
+            "end": "10:37",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Data Science - Assessments (S2-2026) - Google Sheets",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "10:38",
+            "end": "10:39",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Data Science - Assessments (S2-2026) - Google Sheets",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "10:40",
+            "end": "10:50",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Python Project: Attempt review | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "10:50",
+            "end": "10:56",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Python Project (page 5 of 7) | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "11:00",
+            "end": "11:05",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "11:05",
+            "end": "11:10",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "Join from Zoom Workplace app - Zoom",
+            "note": "macquarie.zoom.us"
+          },
+          {
+            "start": "12:49",
+            "end": "12:51",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "13:39",
+            "end": "13:43",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "13:44",
+            "end": "13:50",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "13:50",
+            "end": "15:27",
+            "cat": "research",
+            "src": "macos",
+            "title": "ACDC术语解释",
+            "note": "chatgpt.com"
+          },
+          {
+            "start": "15:27",
+            "end": "15:33",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "15:33",
+            "end": "15:34",
+            "cat": "coding",
+            "src": "macos",
+            "title": "GitHub - decoderesearch/circuit-tracer · GitHub",
+            "note": "github.com"
+          },
+          {
+            "start": "15:34",
+            "end": "16:01",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Gamify Your Cybersecurity & AI Events | Doubleflow",
+            "note": "doubleflow.com"
+          },
+          {
+            "start": "16:01",
+            "end": "16:03",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "16:03",
+            "end": "16:09",
+            "cat": "personal",
+            "src": "macos",
+            "title": "AI Newsletter: TLDR AI - Free, 5 Minutes",
+            "note": "tldr.tech"
+          },
+          {
+            "start": "16:10",
+            "end": "16:15",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Petri: An open-source auditing tool to accelerate AI safety ",
+            "note": "alignment.anthropic.com"
+          },
+          {
+            "start": "16:18",
+            "end": "16:20",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Petri: An open-source auditing tool to accelerate AI safety ",
+            "note": "alignment.anthropic.com"
+          },
+          {
+            "start": "16:20",
+            "end": "16:25",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "16:25",
+            "end": "16:46",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Petri: An open-source auditing tool to accelerate AI safety ",
+            "note": "alignment.anthropic.com"
+          },
+          {
+            "start": "16:48",
+            "end": "16:50",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Petri: An open-source auditing tool to accelerate AI safety ",
+            "note": "alignment.anthropic.com"
+          },
+          {
+            "start": "16:50",
+            "end": "16:52",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "16:52",
+            "end": "16:59",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "16:59",
+            "end": "17:01",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "17:01",
+            "end": "17:42",
+            "cat": "personal",
+            "src": "macos",
+            "title": "CollieAi — AI Firewall for LLM Applications",
+            "note": "collieai.io"
           }
         ],
-        "logged": 7,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0.0,
+        "logged": 287,
+        "real": 162,
+        "deep": 162,
+        "ratio": 0.5659741972085671,
         "stats": {
-          "contextSwitches": 0,
+          "contextSwitches": 16,
           "tabsOpened": 0,
-          "longestFocus": "0m",
-          "justOneMoreThing": 0
+          "longestFocus": "1h 43m",
+          "justOneMoreThing": 3
         }
       },
       {
@@ -111114,442 +111354,442 @@
       "weekend": false
     },
     {
-      "key": "2026-10-29",
-      "dayNum": 29,
-      "dow": 4,
-      "weekend": false,
-      "dateShort": "Thu, Oct 29",
       "dateLong": "Thursday, October 29",
-      "dayStart": "09:57",
+      "dateShort": "Thu, Oct 29",
       "dayEnd": "00:22",
+      "dayNum": 29,
+      "dayStart": "09:57",
+      "deep": 225,
+      "dow": 4,
       "events": [
         {
-          "start": "09:57",
+          "cat": "admin",
           "end": "10:01",
-          "cat": "admin",
+          "note": "mq.service-now.com",
           "src": "macos",
-          "title": "My Request - RITM1471091 - Employee",
-          "note": "mq.service-now.com"
+          "start": "09:57",
+          "title": "My Request - RITM1471091 - Employee"
         },
         {
-          "start": "10:03",
+          "cat": "admin",
           "end": "10:04",
-          "cat": "admin",
+          "note": "premier.ticketek.com.au",
           "src": "macos",
-          "title": "beabadoobee tickets | Afterpay Arena, formerly known as Qudo",
-          "note": "premier.ticketek.com.au"
+          "start": "10:03",
+          "title": "beabadoobee tickets | Afterpay Arena, formerly known as Qudo"
         },
         {
-          "start": "10:10",
+          "cat": "personal",
           "end": "10:14",
-          "cat": "personal",
+          "note": "aloyoga.com",
           "src": "macos",
-          "title": "Shop All Women | 30% Off Sitewide | ALO",
-          "note": "aloyoga.com"
+          "start": "10:10",
+          "title": "Shop All Women | 30% Off Sitewide | ALO"
         },
         {
-          "start": "10:18",
+          "cat": "personal",
           "end": "10:20",
-          "cat": "personal",
+          "note": "arcteryx.com.au",
           "src": "macos",
-          "title": "Outlet – Arc'teryx Australia",
-          "note": "arcteryx.com.au"
+          "start": "10:18",
+          "title": "Outlet – Arc'teryx Australia"
         },
         {
-          "start": "10:20",
+          "cat": "personal",
           "end": "10:26",
-          "cat": "personal",
+          "note": "x.com",
           "src": "macos",
-          "title": "主页 / X",
-          "note": "x.com"
+          "start": "10:20",
+          "title": "主页 / X"
         },
         {
-          "start": "10:32",
+          "cat": "personal",
           "end": "10:37",
-          "cat": "personal",
+          "note": "aloyoga.com",
           "src": "macos",
-          "title": "Airbrush Better Together Bra - Black/White | ALO",
-          "note": "aloyoga.com"
+          "start": "10:32",
+          "title": "Airbrush Better Together Bra - Black/White | ALO"
         },
         {
-          "start": "10:37",
+          "cat": "coding",
           "end": "10:39",
-          "cat": "coding",
+          "note": "zorazrw.github.io",
           "src": "macos",
-          "title": "Zora Wang",
-          "note": "zorazrw.github.io"
+          "start": "10:37",
+          "title": "Zora Wang"
         },
         {
-          "start": "10:40",
+          "cat": "personal",
           "end": "11:03",
-          "cat": "personal",
+          "note": "youtube.com",
           "src": "macos",
-          "title": "(5) Michigan AI Lab - YouTube",
-          "note": "youtube.com"
+          "start": "10:40",
+          "title": "(5) Michigan AI Lab - YouTube"
         },
         {
-          "start": "11:20",
+          "cat": "personal",
           "end": "11:28",
-          "cat": "personal",
+          "note": "youtube.com",
           "src": "macos",
-          "title": "(5) Michigan AI Lab - YouTube",
-          "note": "youtube.com"
+          "start": "11:20",
+          "title": "(5) Michigan AI Lab - YouTube"
         },
         {
-          "start": "11:28",
-          "end": "11:55",
           "cat": "research",
+          "end": "11:55",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "Efficient Test-Time Adaptation through Human-AI Interaction",
-          "note": "arxiv.org"
+          "start": "11:28",
+          "title": "Efficient Test-Time Adaptation through Human-AI Interaction"
         },
         {
-          "start": "11:56",
+          "cat": "personal",
           "end": "12:01",
-          "cat": "personal",
+          "note": "youtube.com",
           "src": "macos",
-          "title": "(6) Skills, Memory, Collaboration: What's Next for Al Agents",
-          "note": "youtube.com"
+          "start": "11:56",
+          "title": "(6) Skills, Memory, Collaboration: What's Next for Al Agents"
         },
         {
-          "start": "12:08",
+          "cat": "personal",
           "end": "12:17",
-          "cat": "personal",
+          "note": "youtube.com",
           "src": "macos",
-          "title": "(6) Skills, Memory, Collaboration: What's Next for Al Agents",
-          "note": "youtube.com"
+          "start": "12:08",
+          "title": "(6) Skills, Memory, Collaboration: What's Next for Al Agents"
         },
         {
-          "start": "12:22",
+          "cat": "personal",
           "end": "12:25",
-          "cat": "personal",
+          "note": "youtube.com",
           "src": "macos",
-          "title": "(6) Stanford CS329A Self-Improving AI Agents | Part 1 | Cour",
-          "note": "youtube.com"
+          "start": "12:22",
+          "title": "(6) Stanford CS329A Self-Improving AI Agents | Part 1 | Cour"
         },
         {
-          "start": "14:03",
+          "cat": "admin",
           "end": "14:04",
-          "cat": "admin",
+          "note": "mail.google.com",
           "src": "macos",
-          "title": "Inbox (3,318) - ada.ren.cn@gmail.com - Gmail",
-          "note": "mail.google.com"
+          "start": "14:03",
+          "title": "Inbox (3,318) - ada.ren.cn@gmail.com - Gmail"
         },
         {
-          "start": "14:05",
+          "cat": "writing",
           "end": "14:07",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "europe-trip-itinerary-v2 - Google Sheets",
-          "note": "docs.google.com"
+          "start": "14:05",
+          "title": "europe-trip-itinerary-v2 - Google Sheets"
         },
         {
-          "start": "14:07",
+          "cat": "writing",
           "end": "14:12",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "europe-trip-itinerary-v2 - Google Sheets",
-          "note": "docs.google.com"
+          "start": "14:07",
+          "title": "europe-trip-itinerary-v2 - Google Sheets"
         },
         {
-          "start": "14:12",
+          "cat": "writing",
           "end": "14:20",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "europe-trip-itinerary-v2 - Google Sheets",
-          "note": "docs.google.com"
+          "start": "14:12",
+          "title": "europe-trip-itinerary-v2 - Google Sheets"
         },
         {
-          "start": "14:21",
+          "cat": "writing",
           "end": "14:22",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "europe-trip-itinerary-v2 - Google Sheets",
-          "note": "docs.google.com"
+          "start": "14:21",
+          "title": "europe-trip-itinerary-v2 - Google Sheets"
         },
         {
-          "start": "14:22",
+          "cat": "writing",
           "end": "14:24",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "europe-trip-itinerary-v2 - Google Sheets",
-          "note": "docs.google.com"
+          "start": "14:22",
+          "title": "europe-trip-itinerary-v2 - Google Sheets"
         },
         {
-          "start": "14:25",
+          "cat": "writing",
           "end": "14:35",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "europe-trip-itinerary-v2 - Google Sheets",
-          "note": "docs.google.com"
+          "start": "14:25",
+          "title": "europe-trip-itinerary-v2 - Google Sheets"
         },
         {
-          "start": "14:52",
+          "cat": "writing",
           "end": "14:53",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "europe-trip-itinerary-v2 - Google Sheets",
-          "note": "docs.google.com"
+          "start": "14:52",
+          "title": "europe-trip-itinerary-v2 - Google Sheets"
         },
         {
-          "start": "15:08",
+          "cat": "personal",
           "end": "15:12",
-          "cat": "personal",
+          "note": "au.trip.com",
           "src": "macos",
-          "title": "Cheap Flights, Airline Tickets & Flight Deals | Trip.com AU",
-          "note": "au.trip.com"
+          "start": "15:08",
+          "title": "Cheap Flights, Airline Tickets & Flight Deals | Trip.com AU"
         },
         {
-          "start": "15:21",
+          "cat": "personal",
           "end": "15:22",
-          "cat": "personal",
+          "note": "luxury.cruiselines.com",
           "src": "macos",
-          "title": "Huge Discounts on Silversea Cruises",
-          "note": "luxury.cruiselines.com"
+          "start": "15:21",
+          "title": "Huge Discounts on Silversea Cruises"
         },
         {
-          "start": "15:24",
+          "cat": "personal",
           "end": "15:25",
-          "cat": "personal",
+          "note": "luxury.cruiselines.com",
           "src": "macos",
-          "title": "Luxury.CruiseLines.com: FastDeal# 49393, Silver Spirit Depar",
-          "note": "luxury.cruiselines.com"
+          "start": "15:24",
+          "title": "Luxury.CruiseLines.com: FastDeal# 49393, Silver Spirit Depar"
         },
         {
-          "start": "15:31",
+          "cat": "admin",
           "end": "15:33",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "Google Maps",
-          "note": "google.com"
+          "start": "15:31",
+          "title": "Google Maps"
         },
         {
-          "start": "15:33",
+          "cat": "writing",
           "end": "15:41",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "europe-trip-itinerary-v2 - Google Sheets",
-          "note": "docs.google.com"
+          "start": "15:33",
+          "title": "europe-trip-itinerary-v2 - Google Sheets"
         },
         {
-          "start": "15:45",
+          "cat": "writing",
           "end": "15:52",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "europe-trip-itinerary-v2 - Google Sheets",
-          "note": "docs.google.com"
+          "start": "15:45",
+          "title": "europe-trip-itinerary-v2 - Google Sheets"
         },
         {
-          "start": "15:53",
+          "cat": "admin",
           "end": "16:06",
-          "cat": "admin",
+          "note": "my.nci.org.au",
           "src": "macos",
-          "title": "Propose a project: step 8 of 10 | MyNCI",
-          "note": "my.nci.org.au"
+          "start": "15:53",
+          "title": "Propose a project: step 8 of 10 | MyNCI"
         },
         {
-          "start": "16:10",
+          "cat": "admin",
           "end": "16:14",
-          "cat": "admin",
+          "note": "my.nci.org.au",
           "src": "macos",
-          "title": "Home | MyNCI",
-          "note": "my.nci.org.au"
+          "start": "16:10",
+          "title": "Home | MyNCI"
         },
         {
-          "start": "16:14",
+          "cat": "personal",
           "end": "16:20",
-          "cat": "personal",
+          "note": "youtube.com",
           "src": "macos",
-          "title": "(5) YouTube",
-          "note": "youtube.com"
+          "start": "16:14",
+          "title": "(5) YouTube"
         },
         {
-          "start": "16:23",
+          "cat": "admin",
           "end": "16:26",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "16:23",
+          "title": "Outlook"
         },
         {
-          "start": "16:27",
+          "cat": "admin",
           "end": "16:28",
-          "cat": "admin",
+          "note": "mqoutlook.sharepoint.com",
           "src": "macos",
-          "title": "Research Compute",
-          "note": "mqoutlook.sharepoint.com"
+          "start": "16:27",
+          "title": "Research Compute"
         },
         {
-          "start": "16:37",
+          "cat": "admin",
           "end": "16:38",
-          "cat": "admin",
+          "note": "my.nci.org.au",
           "src": "macos",
-          "title": "Change Project proposal-17533 details | MyNCI",
-          "note": "my.nci.org.au"
+          "start": "16:37",
+          "title": "Change Project proposal-17533 details | MyNCI"
         },
         {
-          "start": "16:40",
+          "cat": "admin",
           "end": "16:41",
-          "cat": "admin",
+          "note": "my.nci.org.au",
           "src": "macos",
-          "title": "Project proposal-17533 | MyNCI",
-          "note": "my.nci.org.au"
+          "start": "16:40",
+          "title": "Project proposal-17533 | MyNCI"
         },
         {
-          "start": "16:41",
-          "end": "17:05",
           "cat": "personal",
+          "end": "17:05",
+          "note": "youtube.com",
           "src": "macos",
-          "title": "(6) Stanford CS329A Self-Improving AI Agents | Part 2 | Test",
-          "note": "youtube.com"
+          "start": "16:41",
+          "title": "(6) Stanford CS329A Self-Improving AI Agents | Part 2 | Test"
         },
         {
-          "start": "17:07",
+          "cat": "coding",
           "end": "17:09",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "17:07",
+          "title": "VSCode"
         },
         {
-          "start": "17:10",
+          "cat": "coding",
           "end": "17:13",
-          "cat": "coding",
+          "note": "com.googlecode.iterm2",
           "src": "macos",
-          "title": "iterm2",
-          "note": "com.googlecode.iterm2"
+          "start": "17:10",
+          "title": "iterm2"
         },
         {
-          "start": "17:13",
+          "cat": "admin",
           "end": "17:14",
-          "cat": "admin",
+          "note": "opus.nci.org.au",
           "src": "macos",
-          "title": "Connecting to Gadi... - NCI Help - Opus - NCI Confluence",
-          "note": "opus.nci.org.au"
+          "start": "17:13",
+          "title": "Connecting to Gadi... - NCI Help - Opus - NCI Confluence"
         },
         {
-          "start": "17:14",
+          "cat": "coding",
           "end": "17:15",
-          "cat": "coding",
+          "note": "xquartz.org",
           "src": "macos",
-          "title": "XQuartz",
-          "note": "xquartz.org"
+          "start": "17:14",
+          "title": "XQuartz"
         },
         {
-          "start": "17:15",
-          "end": "17:19",
           "cat": "admin",
+          "end": "17:19",
+          "note": "sport.mq.edu.au",
           "src": "macos",
-          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
-          "note": "sport.mq.edu.au"
+          "start": "17:15",
+          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni"
         },
         {
-          "start": "17:22",
+          "cat": "coding",
           "end": "17:25",
-          "cat": "coding",
+          "note": "claude.ai",
           "src": "macos",
-          "title": "Claude in Chrome",
-          "note": "claude.ai"
+          "start": "17:22",
+          "title": "Claude in Chrome"
         },
         {
-          "start": "17:25",
+          "cat": "coding",
           "end": "17:28",
-          "cat": "coding",
+          "note": "56 hits",
           "src": "claude",
-          "title": "Claude session · week12prac",
-          "note": "56 hits"
+          "start": "17:25",
+          "title": "Claude session · week12prac"
         },
         {
-          "start": "17:28",
+          "cat": "coding",
           "end": "17:37",
-          "cat": "coding",
+          "note": "56 hits",
           "src": "claude",
-          "title": "Claude session · week12prac",
-          "note": "56 hits"
+          "start": "17:28",
+          "title": "Claude session · week12prac"
         },
         {
-          "start": "17:37",
+          "cat": "coding",
           "end": "17:45",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "17:37",
+          "title": "VSCode"
         },
         {
-          "start": "17:49",
+          "cat": "coding",
           "end": "17:59",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "17:49",
+          "title": "VSCode"
         },
         {
-          "start": "17:59",
+          "cat": "coding",
           "end": "18:16",
-          "cat": "coding",
+          "note": "com.googlecode.iterm2",
           "src": "macos",
-          "title": "iterm2",
-          "note": "com.googlecode.iterm2"
+          "start": "17:59",
+          "title": "iterm2"
         },
         {
-          "start": "18:34",
+          "cat": "coding",
           "end": "18:43",
-          "cat": "coding",
+          "note": "com.googlecode.iterm2",
           "src": "macos",
-          "title": "iterm2",
-          "note": "com.googlecode.iterm2"
+          "start": "18:34",
+          "title": "iterm2"
         },
         {
-          "start": "21:13",
+          "cat": "coding",
           "end": "21:25",
-          "cat": "coding",
+          "note": "com.googlecode.iterm2",
           "src": "macos",
-          "title": "iterm2",
-          "note": "com.googlecode.iterm2"
+          "start": "21:13",
+          "title": "iterm2"
         },
         {
-          "start": "21:27",
+          "cat": "coding",
           "end": "22:01",
-          "cat": "coding",
+          "note": "com.googlecode.iterm2",
           "src": "macos",
-          "title": "iterm2",
-          "note": "com.googlecode.iterm2"
+          "start": "21:27",
+          "title": "iterm2"
         },
         {
-          "start": "22:04",
+          "cat": "coding",
           "end": "22:23",
-          "cat": "coding",
+          "note": "com.googlecode.iterm2",
           "src": "macos",
-          "title": "iterm2",
-          "note": "com.googlecode.iterm2"
+          "start": "22:04",
+          "title": "iterm2"
         },
         {
-          "start": "23:28",
+          "cat": "coding",
           "end": "23:33",
-          "cat": "coding",
+          "note": "com.googlecode.iterm2",
           "src": "macos",
-          "title": "iterm2",
-          "note": "com.googlecode.iterm2"
+          "start": "23:28",
+          "title": "iterm2"
         },
         {
-          "start": "00:05",
-          "end": "00:22",
           "cat": "coding",
+          "end": "00:22",
+          "note": "com.googlecode.iterm2",
           "src": "macos",
-          "title": "iterm2",
-          "note": "com.googlecode.iterm2"
+          "start": "00:05",
+          "title": "iterm2"
         }
       ],
+      "key": "2026-10-29",
       "logged": 363,
-      "real": 225,
-      "deep": 225,
       "ratio": 0.6191700769922285,
+      "real": 225,
       "stats": {
         "contextSwitches": 19,
-        "tabsOpened": 0,
+        "justOneMoreThing": 2,
         "longestFocus": "2h 25m",
-        "justOneMoreThing": 2
-      }
+        "tabsOpened": 0
+      },
+      "weekend": false
     },
     {
       "key": "2026-10-30",
@@ -111559,7 +111799,7 @@
       "dateShort": "Fri, Oct 30",
       "dateLong": "Friday, October 30",
       "dayStart": "09:56",
-      "dayEnd": "10:08",
+      "dayEnd": "17:42",
       "events": [
         {
           "start": "09:56",
@@ -111579,22 +111819,262 @@
         },
         {
           "start": "10:06",
-          "end": "10:08",
+          "end": "10:09",
           "cat": "admin",
           "src": "macos",
           "title": "Outlook",
           "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "10:11",
+          "end": "10:15",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Grader report | COMP2200 Data Science / COMP6200 | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "10:20",
+          "end": "10:21",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Grader report | COMP2200 Data Science / COMP6200 | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "10:24",
+          "end": "10:28",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Python Project: Attempt review | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "10:30",
+          "end": "10:32",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Python Project | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "10:34",
+          "end": "10:35",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Python Project | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "10:35",
+          "end": "10:36",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Python Project | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "10:36",
+          "end": "10:37",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Data Science - Assessments (S2-2026) - Google Sheets",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "10:38",
+          "end": "10:39",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Data Science - Assessments (S2-2026) - Google Sheets",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "10:40",
+          "end": "10:50",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Python Project: Attempt review | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "10:50",
+          "end": "10:56",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Python Project (page 5 of 7) | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "11:00",
+          "end": "11:05",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "11:05",
+          "end": "11:10",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "Join from Zoom Workplace app - Zoom",
+          "note": "macquarie.zoom.us"
+        },
+        {
+          "start": "12:49",
+          "end": "12:51",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "13:39",
+          "end": "13:43",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "13:44",
+          "end": "13:50",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "13:50",
+          "end": "15:27",
+          "cat": "research",
+          "src": "macos",
+          "title": "ACDC术语解释",
+          "note": "chatgpt.com"
+        },
+        {
+          "start": "15:27",
+          "end": "15:33",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "15:33",
+          "end": "15:34",
+          "cat": "coding",
+          "src": "macos",
+          "title": "GitHub - decoderesearch/circuit-tracer · GitHub",
+          "note": "github.com"
+        },
+        {
+          "start": "15:34",
+          "end": "16:01",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Gamify Your Cybersecurity & AI Events | Doubleflow",
+          "note": "doubleflow.com"
+        },
+        {
+          "start": "16:01",
+          "end": "16:03",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "16:03",
+          "end": "16:09",
+          "cat": "personal",
+          "src": "macos",
+          "title": "AI Newsletter: TLDR AI - Free, 5 Minutes",
+          "note": "tldr.tech"
+        },
+        {
+          "start": "16:10",
+          "end": "16:15",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Petri: An open-source auditing tool to accelerate AI safety ",
+          "note": "alignment.anthropic.com"
+        },
+        {
+          "start": "16:18",
+          "end": "16:20",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Petri: An open-source auditing tool to accelerate AI safety ",
+          "note": "alignment.anthropic.com"
+        },
+        {
+          "start": "16:20",
+          "end": "16:25",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "16:25",
+          "end": "16:46",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Petri: An open-source auditing tool to accelerate AI safety ",
+          "note": "alignment.anthropic.com"
+        },
+        {
+          "start": "16:48",
+          "end": "16:50",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Petri: An open-source auditing tool to accelerate AI safety ",
+          "note": "alignment.anthropic.com"
+        },
+        {
+          "start": "16:50",
+          "end": "16:52",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "16:52",
+          "end": "16:59",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "16:59",
+          "end": "17:01",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "17:01",
+          "end": "17:42",
+          "cat": "personal",
+          "src": "macos",
+          "title": "CollieAi — AI Firewall for LLM Applications",
+          "note": "collieai.io"
         }
       ],
-      "logged": 7,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0.0,
+      "logged": 287,
+      "real": 162,
+      "deep": 162,
+      "ratio": 0.5659741972085671,
       "stats": {
-        "contextSwitches": 0,
+        "contextSwitches": 16,
         "tabsOpened": 0,
-        "longestFocus": "0m",
-        "justOneMoreThing": 0
+        "longestFocus": "1h 43m",
+        "justOneMoreThing": 3
       }
     },
     {
