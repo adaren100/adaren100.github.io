@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-11-01T10:27:44+11:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-11-02T10:20:50+11:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -99855,26 +99855,98 @@
         "weekend": true,
         "dateShort": "Sun, Nov 1",
         "dateLong": "Sunday, November 1",
-        "dayStart": "10:27",
-        "dayEnd": "10:32",
+        "dayStart": "10:43",
+        "dayEnd": "00:14",
         "events": [
           {
-            "start": "10:27",
-            "end": "10:32",
+            "start": "10:43",
+            "end": "11:09",
             "cat": "coding",
-            "src": "local",
-            "title": "domain_cats.json",
-            "note": "2 hits"
+            "src": "macos",
+            "title": "iterm2",
+            "note": "com.googlecode.iterm2"
+          },
+          {
+            "start": "11:15",
+            "end": "11:20",
+            "cat": "coding",
+            "src": "macos",
+            "title": "iterm2",
+            "note": "com.googlecode.iterm2"
+          },
+          {
+            "start": "11:27",
+            "end": "11:29",
+            "cat": "coding",
+            "src": "macos",
+            "title": "iterm2",
+            "note": "com.googlecode.iterm2"
+          },
+          {
+            "start": "11:32",
+            "end": "11:36",
+            "cat": "coding",
+            "src": "macos",
+            "title": "iterm2",
+            "note": "com.googlecode.iterm2"
+          },
+          {
+            "start": "11:46",
+            "end": "11:55",
+            "cat": "coding",
+            "src": "macos",
+            "title": "iterm2",
+            "note": "com.googlecode.iterm2"
+          },
+          {
+            "start": "11:58",
+            "end": "12:00",
+            "cat": "coding",
+            "src": "macos",
+            "title": "iterm2",
+            "note": "com.googlecode.iterm2"
+          },
+          {
+            "start": "12:07",
+            "end": "12:38",
+            "cat": "coding",
+            "src": "macos",
+            "title": "iterm2",
+            "note": "com.googlecode.iterm2"
+          },
+          {
+            "start": "21:47",
+            "end": "21:49",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "21:50",
+            "end": "21:56",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "00:11",
+            "end": "00:14",
+            "cat": "admin",
+            "src": "macos",
+            "title": "于和伟 高圆圆 - Google Search",
+            "note": "google.com"
           }
         ],
-        "logged": 5,
-        "real": 5,
-        "deep": 5,
-        "ratio": 1.0,
+        "logged": 89,
+        "real": 79,
+        "deep": 79,
+        "ratio": 0.883772125928488,
         "stats": {
-          "contextSwitches": 0,
+          "contextSwitches": 1,
           "tabsOpened": 0,
-          "longestFocus": "5m",
+          "longestFocus": "1h 19m",
           "justOneMoreThing": 0
         }
       },
@@ -100536,26 +100608,98 @@
       "weekend": true,
       "dateShort": "Sun, Nov 1",
       "dateLong": "Sunday, November 1",
-      "dayStart": "10:27",
-      "dayEnd": "10:32",
+      "dayStart": "10:43",
+      "dayEnd": "00:14",
       "events": [
         {
-          "start": "10:27",
-          "end": "10:32",
+          "start": "10:43",
+          "end": "11:09",
           "cat": "coding",
-          "src": "local",
-          "title": "domain_cats.json",
-          "note": "2 hits"
+          "src": "macos",
+          "title": "iterm2",
+          "note": "com.googlecode.iterm2"
+        },
+        {
+          "start": "11:15",
+          "end": "11:20",
+          "cat": "coding",
+          "src": "macos",
+          "title": "iterm2",
+          "note": "com.googlecode.iterm2"
+        },
+        {
+          "start": "11:27",
+          "end": "11:29",
+          "cat": "coding",
+          "src": "macos",
+          "title": "iterm2",
+          "note": "com.googlecode.iterm2"
+        },
+        {
+          "start": "11:32",
+          "end": "11:36",
+          "cat": "coding",
+          "src": "macos",
+          "title": "iterm2",
+          "note": "com.googlecode.iterm2"
+        },
+        {
+          "start": "11:46",
+          "end": "11:55",
+          "cat": "coding",
+          "src": "macos",
+          "title": "iterm2",
+          "note": "com.googlecode.iterm2"
+        },
+        {
+          "start": "11:58",
+          "end": "12:00",
+          "cat": "coding",
+          "src": "macos",
+          "title": "iterm2",
+          "note": "com.googlecode.iterm2"
+        },
+        {
+          "start": "12:07",
+          "end": "12:38",
+          "cat": "coding",
+          "src": "macos",
+          "title": "iterm2",
+          "note": "com.googlecode.iterm2"
+        },
+        {
+          "start": "21:47",
+          "end": "21:49",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "21:50",
+          "end": "21:56",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "00:11",
+          "end": "00:14",
+          "cat": "admin",
+          "src": "macos",
+          "title": "于和伟 高圆圆 - Google Search",
+          "note": "google.com"
         }
       ],
-      "logged": 5,
-      "real": 5,
-      "deep": 5,
-      "ratio": 1.0,
+      "logged": 89,
+      "real": 79,
+      "deep": 79,
+      "ratio": 0.883772125928488,
       "stats": {
-        "contextSwitches": 0,
+        "contextSwitches": 1,
         "tabsOpened": 0,
-        "longestFocus": "5m",
+        "longestFocus": "1h 19m",
         "justOneMoreThing": 0
       }
     },
