@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-11-02T10:20:50+11:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-11-03T10:28:22+11:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -99849,106 +99849,106 @@
     },
     "days": [
       {
-        "key": "2026-11-1",
-        "dayNum": 1,
-        "dow": 0,
-        "weekend": true,
-        "dateShort": "Sun, Nov 1",
         "dateLong": "Sunday, November 1",
-        "dayStart": "10:43",
+        "dateShort": "Sun, Nov 1",
         "dayEnd": "00:14",
+        "dayNum": 1,
+        "dayStart": "10:43",
+        "deep": 79,
+        "dow": 0,
         "events": [
           {
-            "start": "10:43",
+            "cat": "coding",
             "end": "11:09",
-            "cat": "coding",
+            "note": "com.googlecode.iterm2",
             "src": "macos",
-            "title": "iterm2",
-            "note": "com.googlecode.iterm2"
+            "start": "10:43",
+            "title": "iterm2"
           },
           {
-            "start": "11:15",
+            "cat": "coding",
             "end": "11:20",
-            "cat": "coding",
+            "note": "com.googlecode.iterm2",
             "src": "macos",
-            "title": "iterm2",
-            "note": "com.googlecode.iterm2"
+            "start": "11:15",
+            "title": "iterm2"
           },
           {
-            "start": "11:27",
+            "cat": "coding",
             "end": "11:29",
-            "cat": "coding",
+            "note": "com.googlecode.iterm2",
             "src": "macos",
-            "title": "iterm2",
-            "note": "com.googlecode.iterm2"
+            "start": "11:27",
+            "title": "iterm2"
           },
           {
-            "start": "11:32",
+            "cat": "coding",
             "end": "11:36",
-            "cat": "coding",
+            "note": "com.googlecode.iterm2",
             "src": "macos",
-            "title": "iterm2",
-            "note": "com.googlecode.iterm2"
+            "start": "11:32",
+            "title": "iterm2"
           },
           {
-            "start": "11:46",
+            "cat": "coding",
             "end": "11:55",
-            "cat": "coding",
+            "note": "com.googlecode.iterm2",
             "src": "macos",
-            "title": "iterm2",
-            "note": "com.googlecode.iterm2"
+            "start": "11:46",
+            "title": "iterm2"
           },
           {
-            "start": "11:58",
+            "cat": "coding",
             "end": "12:00",
-            "cat": "coding",
+            "note": "com.googlecode.iterm2",
             "src": "macos",
-            "title": "iterm2",
-            "note": "com.googlecode.iterm2"
+            "start": "11:58",
+            "title": "iterm2"
           },
           {
-            "start": "12:07",
+            "cat": "coding",
             "end": "12:38",
-            "cat": "coding",
+            "note": "com.googlecode.iterm2",
             "src": "macos",
-            "title": "iterm2",
-            "note": "com.googlecode.iterm2"
+            "start": "12:07",
+            "title": "iterm2"
           },
           {
-            "start": "21:47",
+            "cat": "admin",
             "end": "21:49",
-            "cat": "admin",
+            "note": "com.tinyspeck.slackmacgap",
             "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "start": "21:47",
+            "title": "slackmacgap"
           },
           {
-            "start": "21:50",
+            "cat": "admin",
             "end": "21:56",
-            "cat": "admin",
+            "note": "com.tinyspeck.slackmacgap",
             "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "start": "21:50",
+            "title": "slackmacgap"
           },
           {
-            "start": "00:11",
-            "end": "00:14",
             "cat": "admin",
+            "end": "00:14",
+            "note": "google.com",
             "src": "macos",
-            "title": "于和伟 高圆圆 - Google Search",
-            "note": "google.com"
+            "start": "00:11",
+            "title": "于和伟 高圆圆 - Google Search"
           }
         ],
+        "key": "2026-11-1",
         "logged": 89,
-        "real": 79,
-        "deep": 79,
         "ratio": 0.883772125928488,
+        "real": 79,
         "stats": {
           "contextSwitches": 1,
-          "tabsOpened": 0,
+          "justOneMoreThing": 0,
           "longestFocus": "1h 19m",
-          "justOneMoreThing": 0
-        }
+          "tabsOpened": 0
+        },
+        "weekend": true
       },
       {
         "key": "2026-11-2",
@@ -99957,18 +99957,307 @@
         "weekend": false,
         "dateShort": "Mon, Nov 2",
         "dateLong": "Monday, November 2",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "11:14",
+        "dayEnd": "15:48",
+        "events": [
+          {
+            "start": "11:14",
+            "end": "11:17",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "11:19",
+            "end": "11:20",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Switch Now | felix mobile",
+            "note": "felixmobile.com.au"
+          },
+          {
+            "start": "11:21",
+            "end": "11:25",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "11:26",
+            "end": "11:34",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "11:35",
+            "end": "11:36",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "teams2",
+            "note": "com.microsoft.teams2"
+          },
+          {
+            "start": "11:36",
+            "end": "11:38",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "teams2",
+            "note": "com.microsoft.teams2"
+          },
+          {
+            "start": "11:38",
+            "end": "11:47",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "12:04",
+            "end": "12:05",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "12:05",
+            "end": "12:13",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "28 hits"
+          },
+          {
+            "start": "12:25",
+            "end": "12:27",
+            "cat": "personal",
+            "src": "macos",
+            "title": "XREAL | Building Augmented Reality for Everyone",
+            "note": "xreal.com"
+          },
+          {
+            "start": "12:28",
+            "end": "12:34",
+            "cat": "personal",
+            "src": "macos",
+            "title": "XREAL AURA – XREAL AU Shop",
+            "note": "au.shop.xreal.com"
+          },
+          {
+            "start": "12:36",
+            "end": "12:43",
+            "cat": "admin",
+            "src": "macos",
+            "title": "What is Gadi?... - NCI Help - Opus - NCI Confluence",
+            "note": "opus.nci.org.au"
+          },
+          {
+            "start": "13:05",
+            "end": "13:07",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "Join from Zoom Workplace app - Zoom",
+            "note": "macquarie.zoom.us"
+          },
+          {
+            "start": "13:07",
+            "end": "13:18",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "13:18",
+            "end": "13:19",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "xos",
+            "note": "us.zoom.xos"
+          },
+          {
+            "start": "13:19",
+            "end": "13:26",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "xos",
+            "note": "us.zoom.xos"
+          },
+          {
+            "start": "13:30",
+            "end": "13:37",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "xos",
+            "note": "us.zoom.xos"
+          },
+          {
+            "start": "13:38",
+            "end": "13:56",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Progress Updates - Google Sheets",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "13:57",
+            "end": "14:01",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "xos",
+            "note": "us.zoom.xos"
+          },
+          {
+            "start": "14:01",
+            "end": "14:13",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "14:15",
+            "end": "14:18",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "xos",
+            "note": "us.zoom.xos"
+          },
+          {
+            "start": "14:40",
+            "end": "14:44",
+            "cat": "admin",
+            "src": "macos",
+            "title": "COMP2200 Data Science / COMP6200: Personal profile: Lauren A",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "14:47",
+            "end": "14:49",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Your Shopping Cart | ALO",
+            "note": "aloyoga.com"
+          },
+          {
+            "start": "14:51",
+            "end": "14:56",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "14:57",
+            "end": "14:59",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Preview question: Customer Engagement Preprocessing and Anal",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "14:59",
+            "end": "15:00",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Data Science - Assessments (S2-2026) - Google Sheets",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "15:00",
+            "end": "15:01",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Grader report | COMP2200 Data Science / COMP6200 | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "15:02",
+            "end": "15:03",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Data Science - Assessments (S2-2026) - Google Sheets",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "15:04",
+            "end": "15:06",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "15:11",
+            "end": "15:13",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Excalidraw Whiteboard",
+            "note": "excalidraw.com"
+          },
+          {
+            "start": "15:13",
+            "end": "15:18",
+            "cat": "research",
+            "src": "macos",
+            "title": "Logistic regression - Wikipedia",
+            "note": "en.wikipedia.org"
+          },
+          {
+            "start": "15:18",
+            "end": "15:32",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Practice Final Exam - S2 2026 (page 1 of 2) | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "15:36",
+            "end": "15:38",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "15:41",
+            "end": "15:42",
+            "cat": "admin",
+            "src": "macos",
+            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Week 11 Practical | i",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "15:42",
+            "end": "15:46",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:47",
+            "end": "15:48",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Week_11_Practical.ipynb - Colab",
+            "note": "colab.research.google.com"
+          }
+        ],
+        "logged": 161,
+        "real": 76,
+        "deep": 76,
+        "ratio": 0.472004269806322,
         "stats": {
-          "contextSwitches": 0,
+          "contextSwitches": 22,
           "tabsOpened": 0,
-          "longestFocus": "0m",
-          "justOneMoreThing": 0
+          "longestFocus": "36m",
+          "justOneMoreThing": 2
         }
       },
       {
@@ -100602,106 +100891,106 @@
   },
   "days": [
     {
-      "key": "2026-11-1",
-      "dayNum": 1,
-      "dow": 0,
-      "weekend": true,
-      "dateShort": "Sun, Nov 1",
       "dateLong": "Sunday, November 1",
-      "dayStart": "10:43",
+      "dateShort": "Sun, Nov 1",
       "dayEnd": "00:14",
+      "dayNum": 1,
+      "dayStart": "10:43",
+      "deep": 79,
+      "dow": 0,
       "events": [
         {
-          "start": "10:43",
+          "cat": "coding",
           "end": "11:09",
-          "cat": "coding",
+          "note": "com.googlecode.iterm2",
           "src": "macos",
-          "title": "iterm2",
-          "note": "com.googlecode.iterm2"
+          "start": "10:43",
+          "title": "iterm2"
         },
         {
-          "start": "11:15",
+          "cat": "coding",
           "end": "11:20",
-          "cat": "coding",
+          "note": "com.googlecode.iterm2",
           "src": "macos",
-          "title": "iterm2",
-          "note": "com.googlecode.iterm2"
+          "start": "11:15",
+          "title": "iterm2"
         },
         {
-          "start": "11:27",
+          "cat": "coding",
           "end": "11:29",
-          "cat": "coding",
+          "note": "com.googlecode.iterm2",
           "src": "macos",
-          "title": "iterm2",
-          "note": "com.googlecode.iterm2"
+          "start": "11:27",
+          "title": "iterm2"
         },
         {
-          "start": "11:32",
+          "cat": "coding",
           "end": "11:36",
-          "cat": "coding",
+          "note": "com.googlecode.iterm2",
           "src": "macos",
-          "title": "iterm2",
-          "note": "com.googlecode.iterm2"
+          "start": "11:32",
+          "title": "iterm2"
         },
         {
-          "start": "11:46",
+          "cat": "coding",
           "end": "11:55",
-          "cat": "coding",
+          "note": "com.googlecode.iterm2",
           "src": "macos",
-          "title": "iterm2",
-          "note": "com.googlecode.iterm2"
+          "start": "11:46",
+          "title": "iterm2"
         },
         {
-          "start": "11:58",
+          "cat": "coding",
           "end": "12:00",
-          "cat": "coding",
+          "note": "com.googlecode.iterm2",
           "src": "macos",
-          "title": "iterm2",
-          "note": "com.googlecode.iterm2"
+          "start": "11:58",
+          "title": "iterm2"
         },
         {
-          "start": "12:07",
+          "cat": "coding",
           "end": "12:38",
-          "cat": "coding",
+          "note": "com.googlecode.iterm2",
           "src": "macos",
-          "title": "iterm2",
-          "note": "com.googlecode.iterm2"
+          "start": "12:07",
+          "title": "iterm2"
         },
         {
-          "start": "21:47",
+          "cat": "admin",
           "end": "21:49",
-          "cat": "admin",
+          "note": "com.tinyspeck.slackmacgap",
           "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "start": "21:47",
+          "title": "slackmacgap"
         },
         {
-          "start": "21:50",
+          "cat": "admin",
           "end": "21:56",
-          "cat": "admin",
+          "note": "com.tinyspeck.slackmacgap",
           "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "start": "21:50",
+          "title": "slackmacgap"
         },
         {
-          "start": "00:11",
-          "end": "00:14",
           "cat": "admin",
+          "end": "00:14",
+          "note": "google.com",
           "src": "macos",
-          "title": "于和伟 高圆圆 - Google Search",
-          "note": "google.com"
+          "start": "00:11",
+          "title": "于和伟 高圆圆 - Google Search"
         }
       ],
+      "key": "2026-11-1",
       "logged": 89,
-      "real": 79,
-      "deep": 79,
       "ratio": 0.883772125928488,
+      "real": 79,
       "stats": {
         "contextSwitches": 1,
-        "tabsOpened": 0,
+        "justOneMoreThing": 0,
         "longestFocus": "1h 19m",
-        "justOneMoreThing": 0
-      }
+        "tabsOpened": 0
+      },
+      "weekend": true
     },
     {
       "key": "2026-11-2",
@@ -100710,18 +100999,307 @@
       "weekend": false,
       "dateShort": "Mon, Nov 2",
       "dateLong": "Monday, November 2",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "11:14",
+      "dayEnd": "15:48",
+      "events": [
+        {
+          "start": "11:14",
+          "end": "11:17",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "11:19",
+          "end": "11:20",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Switch Now | felix mobile",
+          "note": "felixmobile.com.au"
+        },
+        {
+          "start": "11:21",
+          "end": "11:25",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "11:26",
+          "end": "11:34",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "11:35",
+          "end": "11:36",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "teams2",
+          "note": "com.microsoft.teams2"
+        },
+        {
+          "start": "11:36",
+          "end": "11:38",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "teams2",
+          "note": "com.microsoft.teams2"
+        },
+        {
+          "start": "11:38",
+          "end": "11:47",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "12:04",
+          "end": "12:05",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "12:05",
+          "end": "12:13",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "28 hits"
+        },
+        {
+          "start": "12:25",
+          "end": "12:27",
+          "cat": "personal",
+          "src": "macos",
+          "title": "XREAL | Building Augmented Reality for Everyone",
+          "note": "xreal.com"
+        },
+        {
+          "start": "12:28",
+          "end": "12:34",
+          "cat": "personal",
+          "src": "macos",
+          "title": "XREAL AURA – XREAL AU Shop",
+          "note": "au.shop.xreal.com"
+        },
+        {
+          "start": "12:36",
+          "end": "12:43",
+          "cat": "admin",
+          "src": "macos",
+          "title": "What is Gadi?... - NCI Help - Opus - NCI Confluence",
+          "note": "opus.nci.org.au"
+        },
+        {
+          "start": "13:05",
+          "end": "13:07",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "Join from Zoom Workplace app - Zoom",
+          "note": "macquarie.zoom.us"
+        },
+        {
+          "start": "13:07",
+          "end": "13:18",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "13:18",
+          "end": "13:19",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "xos",
+          "note": "us.zoom.xos"
+        },
+        {
+          "start": "13:19",
+          "end": "13:26",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "xos",
+          "note": "us.zoom.xos"
+        },
+        {
+          "start": "13:30",
+          "end": "13:37",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "xos",
+          "note": "us.zoom.xos"
+        },
+        {
+          "start": "13:38",
+          "end": "13:56",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Progress Updates - Google Sheets",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "13:57",
+          "end": "14:01",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "xos",
+          "note": "us.zoom.xos"
+        },
+        {
+          "start": "14:01",
+          "end": "14:13",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "14:15",
+          "end": "14:18",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "xos",
+          "note": "us.zoom.xos"
+        },
+        {
+          "start": "14:40",
+          "end": "14:44",
+          "cat": "admin",
+          "src": "macos",
+          "title": "COMP2200 Data Science / COMP6200: Personal profile: Lauren A",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "14:47",
+          "end": "14:49",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Your Shopping Cart | ALO",
+          "note": "aloyoga.com"
+        },
+        {
+          "start": "14:51",
+          "end": "14:56",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "14:57",
+          "end": "14:59",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Preview question: Customer Engagement Preprocessing and Anal",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "14:59",
+          "end": "15:00",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Data Science - Assessments (S2-2026) - Google Sheets",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "15:00",
+          "end": "15:01",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Grader report | COMP2200 Data Science / COMP6200 | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "15:02",
+          "end": "15:03",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Data Science - Assessments (S2-2026) - Google Sheets",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "15:04",
+          "end": "15:06",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "15:11",
+          "end": "15:13",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Excalidraw Whiteboard",
+          "note": "excalidraw.com"
+        },
+        {
+          "start": "15:13",
+          "end": "15:18",
+          "cat": "research",
+          "src": "macos",
+          "title": "Logistic regression - Wikipedia",
+          "note": "en.wikipedia.org"
+        },
+        {
+          "start": "15:18",
+          "end": "15:32",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Practice Final Exam - S2 2026 (page 1 of 2) | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "15:36",
+          "end": "15:38",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "15:41",
+          "end": "15:42",
+          "cat": "admin",
+          "src": "macos",
+          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Week 11 Practical | i",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "15:42",
+          "end": "15:46",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:47",
+          "end": "15:48",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Week_11_Practical.ipynb - Colab",
+          "note": "colab.research.google.com"
+        }
+      ],
+      "logged": 161,
+      "real": 76,
+      "deep": 76,
+      "ratio": 0.472004269806322,
       "stats": {
-        "contextSwitches": 0,
+        "contextSwitches": 22,
         "tabsOpened": 0,
-        "longestFocus": "0m",
-        "justOneMoreThing": 0
+        "longestFocus": "36m",
+        "justOneMoreThing": 2
       }
     },
     {
