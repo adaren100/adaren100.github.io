@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-11-03T10:28:22+11:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-11-04T10:20:23+11:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -99958,7 +99958,7 @@
         "dateShort": "Mon, Nov 2",
         "dateLong": "Monday, November 2",
         "dayStart": "11:14",
-        "dayEnd": "15:48",
+        "dayEnd": "18:09",
         "events": [
           {
             "start": "11:14",
@@ -100247,14 +100247,70 @@
             "src": "macos",
             "title": "Week_11_Practical.ipynb - Colab",
             "note": "colab.research.google.com"
+          },
+          {
+            "start": "15:49",
+            "end": "15:52",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:53",
+            "end": "16:49",
+            "cat": "admin",
+            "src": "macos",
+            "title": "COMP2200/COMP6200 MQ Slides Template",
+            "note": "content.ilearn.mq.edu.au"
+          },
+          {
+            "start": "16:50",
+            "end": "16:54",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Excalidraw Whiteboard",
+            "note": "excalidraw.com"
+          },
+          {
+            "start": "16:54",
+            "end": "16:56",
+            "cat": "admin",
+            "src": "macos",
+            "title": "mean shift clustering - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "16:56",
+            "end": "18:02",
+            "cat": "admin",
+            "src": "macos",
+            "title": "mean shift clustering - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "18:03",
+            "end": "18:04",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "18:04",
+            "end": "18:09",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Excalidraw Whiteboard",
+            "note": "excalidraw.com"
           }
         ],
-        "logged": 161,
-        "real": 76,
-        "deep": 76,
-        "ratio": 0.472004269806322,
+        "logged": 299,
+        "real": 88,
+        "deep": 88,
+        "ratio": 0.2934054222828528,
         "stats": {
-          "contextSwitches": 22,
+          "contextSwitches": 26,
           "tabsOpened": 0,
           "longestFocus": "36m",
           "justOneMoreThing": 2
@@ -100267,17 +100323,418 @@
         "weekend": false,
         "dateShort": "Tue, Nov 3",
         "dateLong": "Tuesday, November 3",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "10:56",
+        "dayEnd": "22:06",
+        "events": [
+          {
+            "start": "10:56",
+            "end": "10:58",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Excalidraw Whiteboard",
+            "note": "excalidraw.com"
+          },
+          {
+            "start": "10:58",
+            "end": "11:03",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "11:05",
+            "end": "11:07",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "11:08",
+            "end": "11:10",
+            "cat": "admin",
+            "src": "macos",
+            "title": "hurdels for unit - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "11:11",
+            "end": "11:16",
+            "cat": "writing",
+            "src": "macos",
+            "title": "europe-trip-itinerary-v2 - Google Sheets",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "11:33",
+            "end": "11:35",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Prime Video: Watch movies, TV shows, sports, and live TV",
+            "note": "primevideo.com"
+          },
+          {
+            "start": "11:36",
+            "end": "11:38",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Pragelato Sestriere, Italy All-Inclusive Club Med Ski Resort",
+            "note": "clubmed.com.au"
+          },
+          {
+            "start": "11:43",
+            "end": "11:45",
+            "cat": "personal",
+            "src": "macos",
+            "title": "搜索航班：巴塞罗那 – 都灵 - Booking.com",
+            "note": "flights.booking.com"
+          },
+          {
+            "start": "11:45",
+            "end": "11:51",
+            "cat": "writing",
+            "src": "macos",
+            "title": "europe-trip-itinerary-v2 - Google Sheets",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "11:58",
+            "end": "12:03",
+            "cat": "writing",
+            "src": "macos",
+            "title": "europe-trip-itinerary-v2 - Google Sheets",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "14:08",
+            "end": "14:10",
+            "cat": "writing",
+            "src": "macos",
+            "title": "europe-trip-itinerary-v2 - Google Sheets",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "14:10",
+            "end": "14:11",
+            "cat": "coding",
+            "src": "macos",
+            "title": "circuit_tracing_tutorial.ipynb - Colab",
+            "note": "colab.research.google.com"
+          },
+          {
+            "start": "14:11",
+            "end": "14:17",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Scaling AI Safety for a Multi-Agent World - Schmidt Sciences",
+            "note": "schmidtsciences.smapply.io"
+          },
+          {
+            "start": "14:24",
+            "end": "14:27",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(15) YouTube",
+            "note": "youtube.com"
+          },
+          {
+            "start": "14:30",
+            "end": "14:31",
+            "cat": "writing",
+            "src": "macos",
+            "title": "europe-trip-itinerary-v2 - Google Sheets",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "14:35",
+            "end": "14:37",
+            "cat": "admin",
+            "src": "macos",
+            "title": "付款",
+            "note": "secure.booking.com"
+          },
+          {
+            "start": "15:01",
+            "end": "15:07",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Flights from Barcelona to Turin | Trip.com",
+            "note": "au.trip.com"
+          },
+          {
+            "start": "15:07",
+            "end": "15:08",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Pragelato Sestriere, Italy All-Inclusive Club Med Ski Resort",
+            "note": "clubmed.com.au"
+          },
+          {
+            "start": "15:08",
+            "end": "15:14",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Pragelato Sestriere, Italy All-Inclusive Club Med Ski Resort",
+            "note": "clubmed.com.au"
+          },
+          {
+            "start": "15:14",
+            "end": "15:18",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Trainline: Train tickets, travel information, train times an",
+            "note": "thetrainline.com"
+          },
+          {
+            "start": "15:18",
+            "end": "15:24",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Trainline: Train tickets, travel information, train times an",
+            "note": "thetrainline.com"
+          },
+          {
+            "start": "15:27",
+            "end": "15:29",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Trainline: Train tickets, travel information, train times an",
+            "note": "thetrainline.com"
+          },
+          {
+            "start": "15:29",
+            "end": "15:32",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "15:32",
+            "end": "15:36",
+            "cat": "writing",
+            "src": "macos",
+            "title": "europe-trip-itinerary-v2 - Google Sheets",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "15:42",
+            "end": "15:44",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Trainline : Search, Compare & Buy Cheap Train Tickets",
+            "note": "thetrainline.com"
+          },
+          {
+            "start": "15:47",
+            "end": "15:53",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Search Results | Trainline",
+            "note": "thetrainline.com"
+          },
+          {
+            "start": "15:53",
+            "end": "15:58",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Flights from Turin to Barcelona | Trip.com",
+            "note": "au.trip.com"
+          },
+          {
+            "start": "16:05",
+            "end": "16:10",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Flights from Turin to Barcelona | Trip.com",
+            "note": "au.trip.com"
+          },
+          {
+            "start": "16:14",
+            "end": "16:20",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Flights from Turin to Barcelona | Trip.com",
+            "note": "au.trip.com"
+          },
+          {
+            "start": "16:25",
+            "end": "16:26",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Transfer",
+            "note": "clubmed.com.au"
+          },
+          {
+            "start": "16:26",
+            "end": "16:27",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "17:27",
+            "end": "17:29",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Barcelona Hotels - Where to stay in Barcelona | Trip.com",
+            "note": "au.trip.com"
+          },
+          {
+            "start": "17:29",
+            "end": "17:30",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Inbox (3,356) - ada.ren.cn@gmail.com - Gmail",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "17:31",
+            "end": "17:33",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Inbox (3,362) - ada.ren.cn@gmail.com - Gmail",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "17:37",
+            "end": "17:41",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Inbox (3,362) - ada.ren.cn@gmail.com - Gmail",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "20:40",
+            "end": "20:42",
+            "cat": "personal",
+            "src": "macos",
+            "title": "搜索_酒店__酒店查询_Booking.com缤客",
+            "note": "booking.com"
+          },
+          {
+            "start": "20:42",
+            "end": "20:45",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "20:45",
+            "end": "20:46",
+            "cat": "personal",
+            "src": "macos",
+            "title": "搜索_酒店__酒店查询_Booking.com缤客",
+            "note": "booking.com"
+          },
+          {
+            "start": "20:49",
+            "end": "20:51",
+            "cat": "personal",
+            "src": "macos",
+            "title": "马西莫达则格里奥贝托亚酒店，罗马（2027最新房价）",
+            "note": "booking.com"
+          },
+          {
+            "start": "20:51",
+            "end": "20:52",
+            "cat": "personal",
+            "src": "macos",
+            "title": "The Rome EDITION，罗马（2027最新房价）",
+            "note": "booking.com"
+          },
+          {
+            "start": "20:54",
+            "end": "20:55",
+            "cat": "personal",
+            "src": "macos",
+            "title": "自由精品酒店，罗马（2027最新房价）",
+            "note": "booking.com"
+          },
+          {
+            "start": "20:59",
+            "end": "21:01",
+            "cat": "personal",
+            "src": "macos",
+            "title": "登录首页",
+            "note": "passport.ctrip.com"
+          },
+          {
+            "start": "21:35",
+            "end": "21:37",
+            "cat": "personal",
+            "src": "macos",
+            "title": "登录首页",
+            "note": "passport.ctrip.com"
+          },
+          {
+            "start": "21:38",
+            "end": "21:40",
+            "cat": "personal",
+            "src": "macos",
+            "title": "携程旅行网:酒店预订,机票预订查询,旅游度假,商旅管理",
+            "note": "ctrip.com"
+          },
+          {
+            "start": "21:41",
+            "end": "21:43",
+            "cat": "personal",
+            "src": "macos",
+            "title": "订单填写页-国际机票查询-国际航班预订-国际机票价格-国际特价机票-携程国际机票预订",
+            "note": "flights.ctrip.com"
+          },
+          {
+            "start": "21:43",
+            "end": "21:46",
+            "cat": "personal",
+            "src": "macos",
+            "title": "【携程机票】飞机票查询,机票预订,机票价格查询,打折特价机票",
+            "note": "flights.ctrip.com"
+          },
+          {
+            "start": "21:46",
+            "end": "21:50",
+            "cat": "personal",
+            "src": "macos",
+            "title": "悉尼(澳大利亚)出发机票预订-悉尼(澳大利亚)出发多程机票查询【携程国际机票】",
+            "note": "flights.ctrip.com"
+          },
+          {
+            "start": "21:50",
+            "end": "21:56",
+            "cat": "personal",
+            "src": "macos",
+            "title": "订单填写页-国际机票查询-国际航班预订-国际机票价格-国际特价机票-携程国际机票预订",
+            "note": "flights.ctrip.com"
+          },
+          {
+            "start": "21:59",
+            "end": "22:01",
+            "cat": "personal",
+            "src": "macos",
+            "title": "安全支付",
+            "note": "secure.ctrip.com"
+          },
+          {
+            "start": "22:01",
+            "end": "22:06",
+            "cat": "personal",
+            "src": "macos",
+            "title": "【携程机票】飞机票查询,机票预订,机票价格查询,打折特价机票",
+            "note": "flights.ctrip.com"
+          }
+        ],
+        "logged": 151,
+        "real": 26,
+        "deep": 26,
+        "ratio": 0.17133321799487758,
         "stats": {
-          "contextSwitches": 0,
+          "contextSwitches": 19,
           "tabsOpened": 0,
-          "longestFocus": "0m",
+          "longestFocus": "14m",
           "justOneMoreThing": 0
         }
       },
@@ -100288,16 +100745,33 @@
         "weekend": false,
         "dateShort": "Wed, Nov 4",
         "dateLong": "Wednesday, November 4",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
+        "dayStart": "10:03",
+        "dayEnd": "10:26",
+        "events": [
+          {
+            "start": "10:03",
+            "end": "10:24",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "出行确认单（附件：中英文行程单） - ada.ren.cn@gmail.com - Gmail",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "10:24",
+            "end": "10:26",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Booking.com | 官网 | 优质酒店，机票，租车和住宿",
+            "note": "booking.com"
+          }
+        ],
+        "logged": 23,
         "real": 0,
         "deep": 0,
-        "ratio": 0,
+        "ratio": 0.0,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
+          "contextSwitches": 1,
+          "tabsOpened": 6,
           "longestFocus": "0m",
           "justOneMoreThing": 0
         }
@@ -101000,7 +101474,7 @@
       "dateShort": "Mon, Nov 2",
       "dateLong": "Monday, November 2",
       "dayStart": "11:14",
-      "dayEnd": "15:48",
+      "dayEnd": "18:09",
       "events": [
         {
           "start": "11:14",
@@ -101289,14 +101763,70 @@
           "src": "macos",
           "title": "Week_11_Practical.ipynb - Colab",
           "note": "colab.research.google.com"
+        },
+        {
+          "start": "15:49",
+          "end": "15:52",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:53",
+          "end": "16:49",
+          "cat": "admin",
+          "src": "macos",
+          "title": "COMP2200/COMP6200 MQ Slides Template",
+          "note": "content.ilearn.mq.edu.au"
+        },
+        {
+          "start": "16:50",
+          "end": "16:54",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Excalidraw Whiteboard",
+          "note": "excalidraw.com"
+        },
+        {
+          "start": "16:54",
+          "end": "16:56",
+          "cat": "admin",
+          "src": "macos",
+          "title": "mean shift clustering - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "16:56",
+          "end": "18:02",
+          "cat": "admin",
+          "src": "macos",
+          "title": "mean shift clustering - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "18:03",
+          "end": "18:04",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "18:04",
+          "end": "18:09",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Excalidraw Whiteboard",
+          "note": "excalidraw.com"
         }
       ],
-      "logged": 161,
-      "real": 76,
-      "deep": 76,
-      "ratio": 0.472004269806322,
+      "logged": 299,
+      "real": 88,
+      "deep": 88,
+      "ratio": 0.2934054222828528,
       "stats": {
-        "contextSwitches": 22,
+        "contextSwitches": 26,
         "tabsOpened": 0,
         "longestFocus": "36m",
         "justOneMoreThing": 2
@@ -101309,17 +101839,418 @@
       "weekend": false,
       "dateShort": "Tue, Nov 3",
       "dateLong": "Tuesday, November 3",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "10:56",
+      "dayEnd": "22:06",
+      "events": [
+        {
+          "start": "10:56",
+          "end": "10:58",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Excalidraw Whiteboard",
+          "note": "excalidraw.com"
+        },
+        {
+          "start": "10:58",
+          "end": "11:03",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "11:05",
+          "end": "11:07",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "11:08",
+          "end": "11:10",
+          "cat": "admin",
+          "src": "macos",
+          "title": "hurdels for unit - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "11:11",
+          "end": "11:16",
+          "cat": "writing",
+          "src": "macos",
+          "title": "europe-trip-itinerary-v2 - Google Sheets",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "11:33",
+          "end": "11:35",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Prime Video: Watch movies, TV shows, sports, and live TV",
+          "note": "primevideo.com"
+        },
+        {
+          "start": "11:36",
+          "end": "11:38",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Pragelato Sestriere, Italy All-Inclusive Club Med Ski Resort",
+          "note": "clubmed.com.au"
+        },
+        {
+          "start": "11:43",
+          "end": "11:45",
+          "cat": "personal",
+          "src": "macos",
+          "title": "搜索航班：巴塞罗那 – 都灵 - Booking.com",
+          "note": "flights.booking.com"
+        },
+        {
+          "start": "11:45",
+          "end": "11:51",
+          "cat": "writing",
+          "src": "macos",
+          "title": "europe-trip-itinerary-v2 - Google Sheets",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "11:58",
+          "end": "12:03",
+          "cat": "writing",
+          "src": "macos",
+          "title": "europe-trip-itinerary-v2 - Google Sheets",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "14:08",
+          "end": "14:10",
+          "cat": "writing",
+          "src": "macos",
+          "title": "europe-trip-itinerary-v2 - Google Sheets",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "14:10",
+          "end": "14:11",
+          "cat": "coding",
+          "src": "macos",
+          "title": "circuit_tracing_tutorial.ipynb - Colab",
+          "note": "colab.research.google.com"
+        },
+        {
+          "start": "14:11",
+          "end": "14:17",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Scaling AI Safety for a Multi-Agent World - Schmidt Sciences",
+          "note": "schmidtsciences.smapply.io"
+        },
+        {
+          "start": "14:24",
+          "end": "14:27",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(15) YouTube",
+          "note": "youtube.com"
+        },
+        {
+          "start": "14:30",
+          "end": "14:31",
+          "cat": "writing",
+          "src": "macos",
+          "title": "europe-trip-itinerary-v2 - Google Sheets",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "14:35",
+          "end": "14:37",
+          "cat": "admin",
+          "src": "macos",
+          "title": "付款",
+          "note": "secure.booking.com"
+        },
+        {
+          "start": "15:01",
+          "end": "15:07",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Flights from Barcelona to Turin | Trip.com",
+          "note": "au.trip.com"
+        },
+        {
+          "start": "15:07",
+          "end": "15:08",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Pragelato Sestriere, Italy All-Inclusive Club Med Ski Resort",
+          "note": "clubmed.com.au"
+        },
+        {
+          "start": "15:08",
+          "end": "15:14",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Pragelato Sestriere, Italy All-Inclusive Club Med Ski Resort",
+          "note": "clubmed.com.au"
+        },
+        {
+          "start": "15:14",
+          "end": "15:18",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Trainline: Train tickets, travel information, train times an",
+          "note": "thetrainline.com"
+        },
+        {
+          "start": "15:18",
+          "end": "15:24",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Trainline: Train tickets, travel information, train times an",
+          "note": "thetrainline.com"
+        },
+        {
+          "start": "15:27",
+          "end": "15:29",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Trainline: Train tickets, travel information, train times an",
+          "note": "thetrainline.com"
+        },
+        {
+          "start": "15:29",
+          "end": "15:32",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "15:32",
+          "end": "15:36",
+          "cat": "writing",
+          "src": "macos",
+          "title": "europe-trip-itinerary-v2 - Google Sheets",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "15:42",
+          "end": "15:44",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Trainline : Search, Compare & Buy Cheap Train Tickets",
+          "note": "thetrainline.com"
+        },
+        {
+          "start": "15:47",
+          "end": "15:53",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Search Results | Trainline",
+          "note": "thetrainline.com"
+        },
+        {
+          "start": "15:53",
+          "end": "15:58",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Flights from Turin to Barcelona | Trip.com",
+          "note": "au.trip.com"
+        },
+        {
+          "start": "16:05",
+          "end": "16:10",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Flights from Turin to Barcelona | Trip.com",
+          "note": "au.trip.com"
+        },
+        {
+          "start": "16:14",
+          "end": "16:20",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Flights from Turin to Barcelona | Trip.com",
+          "note": "au.trip.com"
+        },
+        {
+          "start": "16:25",
+          "end": "16:26",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Transfer",
+          "note": "clubmed.com.au"
+        },
+        {
+          "start": "16:26",
+          "end": "16:27",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "17:27",
+          "end": "17:29",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Barcelona Hotels - Where to stay in Barcelona | Trip.com",
+          "note": "au.trip.com"
+        },
+        {
+          "start": "17:29",
+          "end": "17:30",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Inbox (3,356) - ada.ren.cn@gmail.com - Gmail",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "17:31",
+          "end": "17:33",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Inbox (3,362) - ada.ren.cn@gmail.com - Gmail",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "17:37",
+          "end": "17:41",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Inbox (3,362) - ada.ren.cn@gmail.com - Gmail",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "20:40",
+          "end": "20:42",
+          "cat": "personal",
+          "src": "macos",
+          "title": "搜索_酒店__酒店查询_Booking.com缤客",
+          "note": "booking.com"
+        },
+        {
+          "start": "20:42",
+          "end": "20:45",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "20:45",
+          "end": "20:46",
+          "cat": "personal",
+          "src": "macos",
+          "title": "搜索_酒店__酒店查询_Booking.com缤客",
+          "note": "booking.com"
+        },
+        {
+          "start": "20:49",
+          "end": "20:51",
+          "cat": "personal",
+          "src": "macos",
+          "title": "马西莫达则格里奥贝托亚酒店，罗马（2027最新房价）",
+          "note": "booking.com"
+        },
+        {
+          "start": "20:51",
+          "end": "20:52",
+          "cat": "personal",
+          "src": "macos",
+          "title": "The Rome EDITION，罗马（2027最新房价）",
+          "note": "booking.com"
+        },
+        {
+          "start": "20:54",
+          "end": "20:55",
+          "cat": "personal",
+          "src": "macos",
+          "title": "自由精品酒店，罗马（2027最新房价）",
+          "note": "booking.com"
+        },
+        {
+          "start": "20:59",
+          "end": "21:01",
+          "cat": "personal",
+          "src": "macos",
+          "title": "登录首页",
+          "note": "passport.ctrip.com"
+        },
+        {
+          "start": "21:35",
+          "end": "21:37",
+          "cat": "personal",
+          "src": "macos",
+          "title": "登录首页",
+          "note": "passport.ctrip.com"
+        },
+        {
+          "start": "21:38",
+          "end": "21:40",
+          "cat": "personal",
+          "src": "macos",
+          "title": "携程旅行网:酒店预订,机票预订查询,旅游度假,商旅管理",
+          "note": "ctrip.com"
+        },
+        {
+          "start": "21:41",
+          "end": "21:43",
+          "cat": "personal",
+          "src": "macos",
+          "title": "订单填写页-国际机票查询-国际航班预订-国际机票价格-国际特价机票-携程国际机票预订",
+          "note": "flights.ctrip.com"
+        },
+        {
+          "start": "21:43",
+          "end": "21:46",
+          "cat": "personal",
+          "src": "macos",
+          "title": "【携程机票】飞机票查询,机票预订,机票价格查询,打折特价机票",
+          "note": "flights.ctrip.com"
+        },
+        {
+          "start": "21:46",
+          "end": "21:50",
+          "cat": "personal",
+          "src": "macos",
+          "title": "悉尼(澳大利亚)出发机票预订-悉尼(澳大利亚)出发多程机票查询【携程国际机票】",
+          "note": "flights.ctrip.com"
+        },
+        {
+          "start": "21:50",
+          "end": "21:56",
+          "cat": "personal",
+          "src": "macos",
+          "title": "订单填写页-国际机票查询-国际航班预订-国际机票价格-国际特价机票-携程国际机票预订",
+          "note": "flights.ctrip.com"
+        },
+        {
+          "start": "21:59",
+          "end": "22:01",
+          "cat": "personal",
+          "src": "macos",
+          "title": "安全支付",
+          "note": "secure.ctrip.com"
+        },
+        {
+          "start": "22:01",
+          "end": "22:06",
+          "cat": "personal",
+          "src": "macos",
+          "title": "【携程机票】飞机票查询,机票预订,机票价格查询,打折特价机票",
+          "note": "flights.ctrip.com"
+        }
+      ],
+      "logged": 151,
+      "real": 26,
+      "deep": 26,
+      "ratio": 0.17133321799487758,
       "stats": {
-        "contextSwitches": 0,
+        "contextSwitches": 19,
         "tabsOpened": 0,
-        "longestFocus": "0m",
+        "longestFocus": "14m",
         "justOneMoreThing": 0
       }
     },
@@ -101330,16 +102261,33 @@
       "weekend": false,
       "dateShort": "Wed, Nov 4",
       "dateLong": "Wednesday, November 4",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
+      "dayStart": "10:03",
+      "dayEnd": "10:26",
+      "events": [
+        {
+          "start": "10:03",
+          "end": "10:24",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "出行确认单（附件：中英文行程单） - ada.ren.cn@gmail.com - Gmail",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "10:24",
+          "end": "10:26",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Booking.com | 官网 | 优质酒店，机票，租车和住宿",
+          "note": "booking.com"
+        }
+      ],
+      "logged": 23,
       "real": 0,
       "deep": 0,
-      "ratio": 0,
+      "ratio": 0.0,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
+        "contextSwitches": 1,
+        "tabsOpened": 6,
         "longestFocus": "0m",
         "justOneMoreThing": 0
       }
