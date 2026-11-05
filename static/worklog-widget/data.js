@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-11-04T10:20:23+11:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-11-05T11:15:16+11:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -99951,792 +99951,792 @@
         "weekend": true
       },
       {
-        "key": "2026-11-2",
-        "dayNum": 2,
-        "dow": 1,
-        "weekend": false,
-        "dateShort": "Mon, Nov 2",
         "dateLong": "Monday, November 2",
-        "dayStart": "11:14",
+        "dateShort": "Mon, Nov 2",
         "dayEnd": "18:09",
+        "dayNum": 2,
+        "dayStart": "11:14",
+        "deep": 88,
+        "dow": 1,
         "events": [
           {
-            "start": "11:14",
+            "cat": "admin",
             "end": "11:17",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "11:14",
+            "title": "Outlook"
           },
           {
-            "start": "11:19",
+            "cat": "admin",
             "end": "11:20",
-            "cat": "admin",
+            "note": "felixmobile.com.au",
             "src": "macos",
-            "title": "Switch Now | felix mobile",
-            "note": "felixmobile.com.au"
+            "start": "11:19",
+            "title": "Switch Now | felix mobile"
           },
           {
-            "start": "11:21",
+            "cat": "admin",
             "end": "11:25",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "11:21",
+            "title": "Outlook"
           },
           {
-            "start": "11:26",
+            "cat": "admin",
             "end": "11:34",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "11:26",
+            "title": "Outlook"
           },
           {
-            "start": "11:35",
+            "cat": "meeting",
             "end": "11:36",
-            "cat": "meeting",
+            "note": "com.microsoft.teams2",
             "src": "macos",
-            "title": "teams2",
-            "note": "com.microsoft.teams2"
+            "start": "11:35",
+            "title": "teams2"
           },
           {
-            "start": "11:36",
+            "cat": "meeting",
             "end": "11:38",
-            "cat": "meeting",
+            "note": "com.microsoft.teams2",
             "src": "macos",
-            "title": "teams2",
-            "note": "com.microsoft.teams2"
+            "start": "11:36",
+            "title": "teams2"
           },
           {
-            "start": "11:38",
+            "cat": "coding",
             "end": "11:47",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "11:38",
+            "title": "VSCode"
           },
           {
-            "start": "12:04",
+            "cat": "coding",
             "end": "12:05",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "12:04",
+            "title": "VSCode"
           },
           {
-            "start": "12:05",
+            "cat": "coding",
             "end": "12:13",
-            "cat": "coding",
+            "note": "28 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "28 hits"
+            "start": "12:05",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "12:25",
+            "cat": "personal",
             "end": "12:27",
-            "cat": "personal",
+            "note": "xreal.com",
             "src": "macos",
-            "title": "XREAL | Building Augmented Reality for Everyone",
-            "note": "xreal.com"
+            "start": "12:25",
+            "title": "XREAL | Building Augmented Reality for Everyone"
           },
           {
-            "start": "12:28",
+            "cat": "personal",
             "end": "12:34",
-            "cat": "personal",
+            "note": "au.shop.xreal.com",
             "src": "macos",
-            "title": "XREAL AURA – XREAL AU Shop",
-            "note": "au.shop.xreal.com"
+            "start": "12:28",
+            "title": "XREAL AURA – XREAL AU Shop"
           },
           {
-            "start": "12:36",
+            "cat": "admin",
             "end": "12:43",
-            "cat": "admin",
+            "note": "opus.nci.org.au",
             "src": "macos",
-            "title": "What is Gadi?... - NCI Help - Opus - NCI Confluence",
-            "note": "opus.nci.org.au"
+            "start": "12:36",
+            "title": "What is Gadi?... - NCI Help - Opus - NCI Confluence"
           },
           {
-            "start": "13:05",
+            "cat": "meeting",
             "end": "13:07",
-            "cat": "meeting",
+            "note": "macquarie.zoom.us",
             "src": "macos",
-            "title": "Join from Zoom Workplace app - Zoom",
-            "note": "macquarie.zoom.us"
+            "start": "13:05",
+            "title": "Join from Zoom Workplace app - Zoom"
           },
           {
-            "start": "13:07",
+            "cat": "admin",
             "end": "13:18",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "macos",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "13:07",
+            "title": "Google Translate"
           },
           {
-            "start": "13:18",
+            "cat": "meeting",
             "end": "13:19",
-            "cat": "meeting",
+            "note": "us.zoom.xos",
             "src": "macos",
-            "title": "xos",
-            "note": "us.zoom.xos"
+            "start": "13:18",
+            "title": "xos"
           },
           {
-            "start": "13:19",
+            "cat": "meeting",
             "end": "13:26",
-            "cat": "meeting",
+            "note": "us.zoom.xos",
             "src": "macos",
-            "title": "xos",
-            "note": "us.zoom.xos"
+            "start": "13:19",
+            "title": "xos"
           },
           {
-            "start": "13:30",
+            "cat": "meeting",
             "end": "13:37",
-            "cat": "meeting",
+            "note": "us.zoom.xos",
             "src": "macos",
-            "title": "xos",
-            "note": "us.zoom.xos"
+            "start": "13:30",
+            "title": "xos"
           },
           {
-            "start": "13:38",
+            "cat": "writing",
             "end": "13:56",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Progress Updates - Google Sheets",
-            "note": "docs.google.com"
+            "start": "13:38",
+            "title": "Progress Updates - Google Sheets"
           },
           {
-            "start": "13:57",
+            "cat": "meeting",
             "end": "14:01",
-            "cat": "meeting",
+            "note": "us.zoom.xos",
             "src": "macos",
-            "title": "xos",
-            "note": "us.zoom.xos"
+            "start": "13:57",
+            "title": "xos"
           },
           {
-            "start": "14:01",
+            "cat": "admin",
             "end": "14:13",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "macos",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "14:01",
+            "title": "Google Translate"
           },
           {
-            "start": "14:15",
-            "end": "14:18",
             "cat": "meeting",
+            "end": "14:18",
+            "note": "us.zoom.xos",
             "src": "macos",
-            "title": "xos",
-            "note": "us.zoom.xos"
+            "start": "14:15",
+            "title": "xos"
           },
           {
-            "start": "14:40",
+            "cat": "admin",
             "end": "14:44",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "COMP2200 Data Science / COMP6200: Personal profile: Lauren A",
-            "note": "ilearn.mq.edu.au"
+            "start": "14:40",
+            "title": "COMP2200 Data Science / COMP6200: Personal profile: Lauren A"
           },
           {
-            "start": "14:47",
-            "end": "14:49",
             "cat": "personal",
+            "end": "14:49",
+            "note": "aloyoga.com",
             "src": "macos",
-            "title": "Your Shopping Cart | ALO",
-            "note": "aloyoga.com"
+            "start": "14:47",
+            "title": "Your Shopping Cart | ALO"
           },
           {
-            "start": "14:51",
+            "cat": "admin",
             "end": "14:56",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "14:51",
+            "title": "Outlook"
           },
           {
-            "start": "14:57",
+            "cat": "admin",
             "end": "14:59",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Preview question: Customer Engagement Preprocessing and Anal",
-            "note": "ilearn.mq.edu.au"
+            "start": "14:57",
+            "title": "Preview question: Customer Engagement Preprocessing and Anal"
           },
           {
-            "start": "14:59",
+            "cat": "writing",
             "end": "15:00",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Data Science - Assessments (S2-2026) - Google Sheets",
-            "note": "docs.google.com"
+            "start": "14:59",
+            "title": "Data Science - Assessments (S2-2026) - Google Sheets"
           },
           {
-            "start": "15:00",
+            "cat": "admin",
             "end": "15:01",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Grader report | COMP2200 Data Science / COMP6200 | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "15:00",
+            "title": "Grader report | COMP2200 Data Science / COMP6200 | iLearn"
           },
           {
-            "start": "15:02",
+            "cat": "writing",
             "end": "15:03",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Data Science - Assessments (S2-2026) - Google Sheets",
-            "note": "docs.google.com"
+            "start": "15:02",
+            "title": "Data Science - Assessments (S2-2026) - Google Sheets"
           },
           {
-            "start": "15:04",
+            "cat": "admin",
             "end": "15:06",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "15:04",
+            "title": "Outlook"
           },
           {
-            "start": "15:11",
+            "cat": "writing",
             "end": "15:13",
-            "cat": "writing",
+            "note": "excalidraw.com",
             "src": "macos",
-            "title": "Excalidraw Whiteboard",
-            "note": "excalidraw.com"
+            "start": "15:11",
+            "title": "Excalidraw Whiteboard"
           },
           {
-            "start": "15:13",
-            "end": "15:18",
             "cat": "research",
+            "end": "15:18",
+            "note": "en.wikipedia.org",
             "src": "macos",
-            "title": "Logistic regression - Wikipedia",
-            "note": "en.wikipedia.org"
+            "start": "15:13",
+            "title": "Logistic regression - Wikipedia"
           },
           {
-            "start": "15:18",
+            "cat": "admin",
             "end": "15:32",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Practice Final Exam - S2 2026 (page 1 of 2) | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "15:18",
+            "title": "Practice Final Exam - S2 2026 (page 1 of 2) | iLearn"
           },
           {
-            "start": "15:36",
+            "cat": "admin",
             "end": "15:38",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "15:36",
+            "title": "Outlook"
           },
           {
-            "start": "15:41",
+            "cat": "admin",
             "end": "15:42",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Week 11 Practical | i",
-            "note": "ilearn.mq.edu.au"
+            "start": "15:41",
+            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Week 11 Practical | i"
           },
           {
-            "start": "15:42",
+            "cat": "coding",
             "end": "15:46",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "15:42",
+            "title": "VSCode"
           },
           {
-            "start": "15:47",
+            "cat": "coding",
             "end": "15:48",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "Week_11_Practical.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "15:47",
+            "title": "Week_11_Practical.ipynb - Colab"
           },
           {
-            "start": "15:49",
+            "cat": "coding",
             "end": "15:52",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "15:49",
+            "title": "VSCode"
           },
           {
-            "start": "15:53",
+            "cat": "admin",
             "end": "16:49",
-            "cat": "admin",
+            "note": "content.ilearn.mq.edu.au",
             "src": "macos",
-            "title": "COMP2200/COMP6200 MQ Slides Template",
-            "note": "content.ilearn.mq.edu.au"
+            "start": "15:53",
+            "title": "COMP2200/COMP6200 MQ Slides Template"
           },
           {
-            "start": "16:50",
+            "cat": "writing",
             "end": "16:54",
-            "cat": "writing",
+            "note": "excalidraw.com",
             "src": "macos",
-            "title": "Excalidraw Whiteboard",
-            "note": "excalidraw.com"
+            "start": "16:50",
+            "title": "Excalidraw Whiteboard"
           },
           {
-            "start": "16:54",
+            "cat": "admin",
             "end": "16:56",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "mean shift clustering - Google Search",
-            "note": "google.com"
+            "start": "16:54",
+            "title": "mean shift clustering - Google Search"
           },
           {
-            "start": "16:56",
+            "cat": "admin",
             "end": "18:02",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "mean shift clustering - Google Search",
-            "note": "google.com"
+            "start": "16:56",
+            "title": "mean shift clustering - Google Search"
           },
           {
-            "start": "18:03",
+            "cat": "admin",
             "end": "18:04",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "18:03",
+            "title": "Outlook"
           },
           {
-            "start": "18:04",
-            "end": "18:09",
             "cat": "writing",
+            "end": "18:09",
+            "note": "excalidraw.com",
             "src": "macos",
-            "title": "Excalidraw Whiteboard",
-            "note": "excalidraw.com"
+            "start": "18:04",
+            "title": "Excalidraw Whiteboard"
           }
         ],
+        "key": "2026-11-2",
         "logged": 299,
-        "real": 88,
-        "deep": 88,
         "ratio": 0.2934054222828528,
+        "real": 88,
         "stats": {
           "contextSwitches": 26,
-          "tabsOpened": 0,
+          "justOneMoreThing": 2,
           "longestFocus": "36m",
-          "justOneMoreThing": 2
-        }
+          "tabsOpened": 0
+        },
+        "weekend": false
       },
       {
-        "key": "2026-11-3",
-        "dayNum": 3,
-        "dow": 2,
-        "weekend": false,
-        "dateShort": "Tue, Nov 3",
         "dateLong": "Tuesday, November 3",
-        "dayStart": "10:56",
+        "dateShort": "Tue, Nov 3",
         "dayEnd": "22:06",
+        "dayNum": 3,
+        "dayStart": "10:56",
+        "deep": 26,
+        "dow": 2,
         "events": [
           {
-            "start": "10:56",
+            "cat": "writing",
             "end": "10:58",
-            "cat": "writing",
+            "note": "excalidraw.com",
             "src": "macos",
-            "title": "Excalidraw Whiteboard",
-            "note": "excalidraw.com"
+            "start": "10:56",
+            "title": "Excalidraw Whiteboard"
           },
           {
-            "start": "10:58",
+            "cat": "admin",
             "end": "11:03",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "10:58",
+            "title": "Outlook"
           },
           {
-            "start": "11:05",
+            "cat": "admin",
             "end": "11:07",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "11:05",
+            "title": "Outlook"
           },
           {
-            "start": "11:08",
+            "cat": "admin",
             "end": "11:10",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "hurdels for unit - Google Search",
-            "note": "google.com"
+            "start": "11:08",
+            "title": "hurdels for unit - Google Search"
           },
           {
-            "start": "11:11",
+            "cat": "writing",
             "end": "11:16",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "europe-trip-itinerary-v2 - Google Sheets",
-            "note": "docs.google.com"
+            "start": "11:11",
+            "title": "europe-trip-itinerary-v2 - Google Sheets"
           },
           {
-            "start": "11:33",
+            "cat": "personal",
             "end": "11:35",
-            "cat": "personal",
+            "note": "primevideo.com",
             "src": "macos",
-            "title": "Prime Video: Watch movies, TV shows, sports, and live TV",
-            "note": "primevideo.com"
+            "start": "11:33",
+            "title": "Prime Video: Watch movies, TV shows, sports, and live TV"
           },
           {
-            "start": "11:36",
+            "cat": "personal",
             "end": "11:38",
-            "cat": "personal",
+            "note": "clubmed.com.au",
             "src": "macos",
-            "title": "Pragelato Sestriere, Italy All-Inclusive Club Med Ski Resort",
-            "note": "clubmed.com.au"
+            "start": "11:36",
+            "title": "Pragelato Sestriere, Italy All-Inclusive Club Med Ski Resort"
           },
           {
-            "start": "11:43",
+            "cat": "personal",
             "end": "11:45",
-            "cat": "personal",
+            "note": "flights.booking.com",
             "src": "macos",
-            "title": "搜索航班：巴塞罗那 – 都灵 - Booking.com",
-            "note": "flights.booking.com"
+            "start": "11:43",
+            "title": "搜索航班：巴塞罗那 – 都灵 - Booking.com"
           },
           {
-            "start": "11:45",
+            "cat": "writing",
             "end": "11:51",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "europe-trip-itinerary-v2 - Google Sheets",
-            "note": "docs.google.com"
+            "start": "11:45",
+            "title": "europe-trip-itinerary-v2 - Google Sheets"
           },
           {
-            "start": "11:58",
+            "cat": "writing",
             "end": "12:03",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "europe-trip-itinerary-v2 - Google Sheets",
-            "note": "docs.google.com"
+            "start": "11:58",
+            "title": "europe-trip-itinerary-v2 - Google Sheets"
           },
           {
-            "start": "14:08",
+            "cat": "writing",
             "end": "14:10",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "europe-trip-itinerary-v2 - Google Sheets",
-            "note": "docs.google.com"
+            "start": "14:08",
+            "title": "europe-trip-itinerary-v2 - Google Sheets"
           },
           {
-            "start": "14:10",
-            "end": "14:11",
             "cat": "coding",
+            "end": "14:11",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "circuit_tracing_tutorial.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "14:10",
+            "title": "circuit_tracing_tutorial.ipynb - Colab"
           },
           {
-            "start": "14:11",
+            "cat": "admin",
             "end": "14:17",
-            "cat": "admin",
+            "note": "schmidtsciences.smapply.io",
             "src": "macos",
-            "title": "Scaling AI Safety for a Multi-Agent World - Schmidt Sciences",
-            "note": "schmidtsciences.smapply.io"
+            "start": "14:11",
+            "title": "Scaling AI Safety for a Multi-Agent World - Schmidt Sciences"
           },
           {
-            "start": "14:24",
+            "cat": "personal",
             "end": "14:27",
-            "cat": "personal",
+            "note": "youtube.com",
             "src": "macos",
-            "title": "(15) YouTube",
-            "note": "youtube.com"
+            "start": "14:24",
+            "title": "(15) YouTube"
           },
           {
-            "start": "14:30",
+            "cat": "writing",
             "end": "14:31",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "europe-trip-itinerary-v2 - Google Sheets",
-            "note": "docs.google.com"
+            "start": "14:30",
+            "title": "europe-trip-itinerary-v2 - Google Sheets"
           },
           {
-            "start": "14:35",
+            "cat": "admin",
             "end": "14:37",
-            "cat": "admin",
+            "note": "secure.booking.com",
             "src": "macos",
-            "title": "付款",
-            "note": "secure.booking.com"
+            "start": "14:35",
+            "title": "付款"
           },
           {
-            "start": "15:01",
+            "cat": "personal",
             "end": "15:07",
-            "cat": "personal",
+            "note": "au.trip.com",
             "src": "macos",
-            "title": "Flights from Barcelona to Turin | Trip.com",
-            "note": "au.trip.com"
+            "start": "15:01",
+            "title": "Flights from Barcelona to Turin | Trip.com"
           },
           {
-            "start": "15:07",
+            "cat": "personal",
             "end": "15:08",
-            "cat": "personal",
+            "note": "clubmed.com.au",
             "src": "macos",
-            "title": "Pragelato Sestriere, Italy All-Inclusive Club Med Ski Resort",
-            "note": "clubmed.com.au"
+            "start": "15:07",
+            "title": "Pragelato Sestriere, Italy All-Inclusive Club Med Ski Resort"
           },
           {
-            "start": "15:08",
+            "cat": "personal",
             "end": "15:14",
-            "cat": "personal",
+            "note": "clubmed.com.au",
             "src": "macos",
-            "title": "Pragelato Sestriere, Italy All-Inclusive Club Med Ski Resort",
-            "note": "clubmed.com.au"
+            "start": "15:08",
+            "title": "Pragelato Sestriere, Italy All-Inclusive Club Med Ski Resort"
           },
           {
-            "start": "15:14",
+            "cat": "personal",
             "end": "15:18",
-            "cat": "personal",
+            "note": "thetrainline.com",
             "src": "macos",
-            "title": "Trainline: Train tickets, travel information, train times an",
-            "note": "thetrainline.com"
+            "start": "15:14",
+            "title": "Trainline: Train tickets, travel information, train times an"
           },
           {
-            "start": "15:18",
+            "cat": "personal",
             "end": "15:24",
-            "cat": "personal",
+            "note": "thetrainline.com",
             "src": "macos",
-            "title": "Trainline: Train tickets, travel information, train times an",
-            "note": "thetrainline.com"
+            "start": "15:18",
+            "title": "Trainline: Train tickets, travel information, train times an"
           },
           {
-            "start": "15:27",
+            "cat": "personal",
             "end": "15:29",
-            "cat": "personal",
+            "note": "thetrainline.com",
             "src": "macos",
-            "title": "Trainline: Train tickets, travel information, train times an",
-            "note": "thetrainline.com"
+            "start": "15:27",
+            "title": "Trainline: Train tickets, travel information, train times an"
           },
           {
-            "start": "15:29",
+            "cat": "admin",
             "end": "15:32",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "macos",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "15:29",
+            "title": "Google Translate"
           },
           {
-            "start": "15:32",
-            "end": "15:36",
             "cat": "writing",
+            "end": "15:36",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "europe-trip-itinerary-v2 - Google Sheets",
-            "note": "docs.google.com"
+            "start": "15:32",
+            "title": "europe-trip-itinerary-v2 - Google Sheets"
           },
           {
-            "start": "15:42",
+            "cat": "personal",
             "end": "15:44",
-            "cat": "personal",
+            "note": "thetrainline.com",
             "src": "macos",
-            "title": "Trainline : Search, Compare & Buy Cheap Train Tickets",
-            "note": "thetrainline.com"
+            "start": "15:42",
+            "title": "Trainline : Search, Compare & Buy Cheap Train Tickets"
           },
           {
-            "start": "15:47",
+            "cat": "personal",
             "end": "15:53",
-            "cat": "personal",
+            "note": "thetrainline.com",
             "src": "macos",
-            "title": "Search Results | Trainline",
-            "note": "thetrainline.com"
+            "start": "15:47",
+            "title": "Search Results | Trainline"
           },
           {
-            "start": "15:53",
+            "cat": "personal",
             "end": "15:58",
-            "cat": "personal",
+            "note": "au.trip.com",
             "src": "macos",
-            "title": "Flights from Turin to Barcelona | Trip.com",
-            "note": "au.trip.com"
+            "start": "15:53",
+            "title": "Flights from Turin to Barcelona | Trip.com"
           },
           {
-            "start": "16:05",
+            "cat": "personal",
             "end": "16:10",
-            "cat": "personal",
+            "note": "au.trip.com",
             "src": "macos",
-            "title": "Flights from Turin to Barcelona | Trip.com",
-            "note": "au.trip.com"
+            "start": "16:05",
+            "title": "Flights from Turin to Barcelona | Trip.com"
           },
           {
-            "start": "16:14",
+            "cat": "personal",
             "end": "16:20",
-            "cat": "personal",
+            "note": "au.trip.com",
             "src": "macos",
-            "title": "Flights from Turin to Barcelona | Trip.com",
-            "note": "au.trip.com"
+            "start": "16:14",
+            "title": "Flights from Turin to Barcelona | Trip.com"
           },
           {
-            "start": "16:25",
+            "cat": "personal",
             "end": "16:26",
-            "cat": "personal",
+            "note": "clubmed.com.au",
             "src": "macos",
-            "title": "Transfer",
-            "note": "clubmed.com.au"
+            "start": "16:25",
+            "title": "Transfer"
           },
           {
-            "start": "16:26",
+            "cat": "admin",
             "end": "16:27",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "16:26",
+            "title": "Outlook"
           },
           {
-            "start": "17:27",
+            "cat": "personal",
             "end": "17:29",
-            "cat": "personal",
+            "note": "au.trip.com",
             "src": "macos",
-            "title": "Barcelona Hotels - Where to stay in Barcelona | Trip.com",
-            "note": "au.trip.com"
+            "start": "17:27",
+            "title": "Barcelona Hotels - Where to stay in Barcelona | Trip.com"
           },
           {
-            "start": "17:29",
+            "cat": "admin",
             "end": "17:30",
-            "cat": "admin",
+            "note": "mail.google.com",
             "src": "macos",
-            "title": "Inbox (3,356) - ada.ren.cn@gmail.com - Gmail",
-            "note": "mail.google.com"
+            "start": "17:29",
+            "title": "Inbox (3,356) - ada.ren.cn@gmail.com - Gmail"
           },
           {
-            "start": "17:31",
+            "cat": "admin",
             "end": "17:33",
-            "cat": "admin",
+            "note": "mail.google.com",
             "src": "macos",
-            "title": "Inbox (3,362) - ada.ren.cn@gmail.com - Gmail",
-            "note": "mail.google.com"
+            "start": "17:31",
+            "title": "Inbox (3,362) - ada.ren.cn@gmail.com - Gmail"
           },
           {
-            "start": "17:37",
+            "cat": "admin",
             "end": "17:41",
-            "cat": "admin",
+            "note": "mail.google.com",
             "src": "macos",
-            "title": "Inbox (3,362) - ada.ren.cn@gmail.com - Gmail",
-            "note": "mail.google.com"
+            "start": "17:37",
+            "title": "Inbox (3,362) - ada.ren.cn@gmail.com - Gmail"
           },
           {
-            "start": "20:40",
+            "cat": "personal",
             "end": "20:42",
-            "cat": "personal",
+            "note": "booking.com",
             "src": "macos",
-            "title": "搜索_酒店__酒店查询_Booking.com缤客",
-            "note": "booking.com"
+            "start": "20:40",
+            "title": "搜索_酒店__酒店查询_Booking.com缤客"
           },
           {
-            "start": "20:42",
-            "end": "20:45",
             "cat": "admin",
+            "end": "20:45",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "20:42",
+            "title": "Outlook"
           },
           {
-            "start": "20:45",
+            "cat": "personal",
             "end": "20:46",
-            "cat": "personal",
+            "note": "booking.com",
             "src": "macos",
-            "title": "搜索_酒店__酒店查询_Booking.com缤客",
-            "note": "booking.com"
+            "start": "20:45",
+            "title": "搜索_酒店__酒店查询_Booking.com缤客"
           },
           {
-            "start": "20:49",
+            "cat": "personal",
             "end": "20:51",
-            "cat": "personal",
+            "note": "booking.com",
             "src": "macos",
-            "title": "马西莫达则格里奥贝托亚酒店，罗马（2027最新房价）",
-            "note": "booking.com"
+            "start": "20:49",
+            "title": "马西莫达则格里奥贝托亚酒店，罗马（2027最新房价）"
           },
           {
-            "start": "20:51",
+            "cat": "personal",
             "end": "20:52",
-            "cat": "personal",
+            "note": "booking.com",
             "src": "macos",
-            "title": "The Rome EDITION，罗马（2027最新房价）",
-            "note": "booking.com"
+            "start": "20:51",
+            "title": "The Rome EDITION，罗马（2027最新房价）"
           },
           {
-            "start": "20:54",
+            "cat": "personal",
             "end": "20:55",
-            "cat": "personal",
+            "note": "booking.com",
             "src": "macos",
-            "title": "自由精品酒店，罗马（2027最新房价）",
-            "note": "booking.com"
+            "start": "20:54",
+            "title": "自由精品酒店，罗马（2027最新房价）"
           },
           {
-            "start": "20:59",
+            "cat": "personal",
             "end": "21:01",
-            "cat": "personal",
+            "note": "passport.ctrip.com",
             "src": "macos",
-            "title": "登录首页",
-            "note": "passport.ctrip.com"
+            "start": "20:59",
+            "title": "登录首页"
           },
           {
-            "start": "21:35",
+            "cat": "personal",
             "end": "21:37",
-            "cat": "personal",
+            "note": "passport.ctrip.com",
             "src": "macos",
-            "title": "登录首页",
-            "note": "passport.ctrip.com"
+            "start": "21:35",
+            "title": "登录首页"
           },
           {
-            "start": "21:38",
+            "cat": "personal",
             "end": "21:40",
-            "cat": "personal",
+            "note": "ctrip.com",
             "src": "macos",
-            "title": "携程旅行网:酒店预订,机票预订查询,旅游度假,商旅管理",
-            "note": "ctrip.com"
+            "start": "21:38",
+            "title": "携程旅行网:酒店预订,机票预订查询,旅游度假,商旅管理"
           },
           {
-            "start": "21:41",
+            "cat": "personal",
             "end": "21:43",
-            "cat": "personal",
+            "note": "flights.ctrip.com",
             "src": "macos",
-            "title": "订单填写页-国际机票查询-国际航班预订-国际机票价格-国际特价机票-携程国际机票预订",
-            "note": "flights.ctrip.com"
+            "start": "21:41",
+            "title": "订单填写页-国际机票查询-国际航班预订-国际机票价格-国际特价机票-携程国际机票预订"
           },
           {
-            "start": "21:43",
+            "cat": "personal",
             "end": "21:46",
-            "cat": "personal",
+            "note": "flights.ctrip.com",
             "src": "macos",
-            "title": "【携程机票】飞机票查询,机票预订,机票价格查询,打折特价机票",
-            "note": "flights.ctrip.com"
+            "start": "21:43",
+            "title": "【携程机票】飞机票查询,机票预订,机票价格查询,打折特价机票"
           },
           {
-            "start": "21:46",
+            "cat": "personal",
             "end": "21:50",
-            "cat": "personal",
+            "note": "flights.ctrip.com",
             "src": "macos",
-            "title": "悉尼(澳大利亚)出发机票预订-悉尼(澳大利亚)出发多程机票查询【携程国际机票】",
-            "note": "flights.ctrip.com"
+            "start": "21:46",
+            "title": "悉尼(澳大利亚)出发机票预订-悉尼(澳大利亚)出发多程机票查询【携程国际机票】"
           },
           {
-            "start": "21:50",
+            "cat": "personal",
             "end": "21:56",
-            "cat": "personal",
+            "note": "flights.ctrip.com",
             "src": "macos",
-            "title": "订单填写页-国际机票查询-国际航班预订-国际机票价格-国际特价机票-携程国际机票预订",
-            "note": "flights.ctrip.com"
+            "start": "21:50",
+            "title": "订单填写页-国际机票查询-国际航班预订-国际机票价格-国际特价机票-携程国际机票预订"
           },
           {
-            "start": "21:59",
+            "cat": "personal",
             "end": "22:01",
-            "cat": "personal",
+            "note": "secure.ctrip.com",
             "src": "macos",
-            "title": "安全支付",
-            "note": "secure.ctrip.com"
+            "start": "21:59",
+            "title": "安全支付"
           },
           {
-            "start": "22:01",
-            "end": "22:06",
             "cat": "personal",
+            "end": "22:06",
+            "note": "flights.ctrip.com",
             "src": "macos",
-            "title": "【携程机票】飞机票查询,机票预订,机票价格查询,打折特价机票",
-            "note": "flights.ctrip.com"
+            "start": "22:01",
+            "title": "【携程机票】飞机票查询,机票预订,机票价格查询,打折特价机票"
           }
         ],
+        "key": "2026-11-3",
         "logged": 151,
-        "real": 26,
-        "deep": 26,
         "ratio": 0.17133321799487758,
+        "real": 26,
         "stats": {
           "contextSwitches": 19,
-          "tabsOpened": 0,
+          "justOneMoreThing": 0,
           "longestFocus": "14m",
-          "justOneMoreThing": 0
-        }
+          "tabsOpened": 0
+        },
+        "weekend": false
       },
       {
         "key": "2026-11-4",
@@ -100745,35 +100745,507 @@
         "weekend": false,
         "dateShort": "Wed, Nov 4",
         "dateLong": "Wednesday, November 4",
-        "dayStart": "10:03",
-        "dayEnd": "10:26",
+        "dayStart": "10:07",
+        "dayEnd": "18:40",
         "events": [
           {
-            "start": "10:03",
-            "end": "10:24",
-            "cat": "admin",
-            "src": "chrome",
-            "title": "出行确认单（附件：中英文行程单） - ada.ren.cn@gmail.com - Gmail",
-            "note": "mail.google.com"
+            "start": "10:07",
+            "end": "10:08",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(15) TamaGPT - YouTube",
+            "note": "youtube.com"
+          },
+          {
+            "start": "10:09",
+            "end": "10:12",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(15) Qodo brings company context into Codex code review - Yo",
+            "note": "youtube.com"
+          },
+          {
+            "start": "10:12",
+            "end": "10:19",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(15) ChatGPT Voice is now in Finances - YouTube",
+            "note": "youtube.com"
+          },
+          {
+            "start": "10:19",
+            "end": "10:23",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(15) OpenAI - YouTube",
+            "note": "youtube.com"
           },
           {
             "start": "10:24",
-            "end": "10:26",
+            "end": "10:25",
             "cat": "personal",
-            "src": "chrome",
-            "title": "Booking.com | 官网 | 优质酒店，机票，租车和住宿",
+            "src": "macos",
+            "title": "Coinbase Australia - Buy & Sell Bitcoin, Ethereum, and more ",
+            "note": "coinbase.com"
+          },
+          {
+            "start": "10:26",
+            "end": "10:29",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Booking.com: 确认",
+            "note": "secure.booking.com"
+          },
+          {
+            "start": "10:34",
+            "end": "10:35",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Statements20260731.pdf",
+            "note": "file:///Users/ada/Documents/%E4%BA%94%E5"
+          },
+          {
+            "start": "10:37",
+            "end": "10:38",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Netbank - Statements",
+            "note": "commbank.com.au"
+          },
+          {
+            "start": "10:41",
+            "end": "10:44",
+            "cat": "writing",
+            "src": "macos",
+            "title": "italy-checklist-feb.pdf",
+            "note": "file:///Users/ada/Documents/%E4%BA%94%E5"
+          },
+          {
+            "start": "10:46",
+            "end": "10:47",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Ethan Frome",
+            "note": "file:///Users/ada/Library/Mobile%20Docum"
+          },
+          {
+            "start": "10:47",
+            "end": "10:48",
+            "cat": "personal",
+            "src": "macos",
+            "title": "annotated-530793784_%20530734684-1.pdf",
+            "note": "file:///Users/ada/Library/Mobile%20Docum"
+          },
+          {
+            "start": "10:50",
+            "end": "11:00",
+            "cat": "admin",
+            "src": "macos",
+            "title": "My home | iLearn",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "11:08",
+            "end": "11:10",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Macquarie University to Melbourne VIC, Australia - Google Ma",
+            "note": "file:///Users/ada/Documents/%E4%BA%94%E5"
+          },
+          {
+            "start": "11:10",
+            "end": "11:12",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Dashboard",
+            "note": "iprint.mq.edu.au:9443"
+          },
+          {
+            "start": "11:12",
+            "end": "11:13",
+            "cat": "admin",
+            "src": "macos",
+            "title": "NetBank - CommBank",
+            "note": "commbank.com.au"
+          },
+          {
+            "start": "11:14",
+            "end": "11:16",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
+            "note": "sport.mq.edu.au"
+          },
+          {
+            "start": "11:17",
+            "end": "11:20",
+            "cat": "admin",
+            "src": "macos",
+            "title": "NetBank - Transfers & BPAY",
+            "note": "commbank.com.au"
+          },
+          {
+            "start": "11:20",
+            "end": "11:22",
+            "cat": "writing",
+            "src": "macos",
+            "title": "South Europe 2026 - Google Drive",
+            "note": "drive.google.com"
+          },
+          {
+            "start": "11:25",
+            "end": "11:27",
+            "cat": "research",
+            "src": "macos",
+            "title": "Automations - Grok",
+            "note": "grok.com"
+          },
+          {
+            "start": "11:28",
+            "end": "11:29",
+            "cat": "research",
+            "src": "macos",
+            "title": "Automations - Grok",
+            "note": "grok.com"
+          },
+          {
+            "start": "11:32",
+            "end": "11:33",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Inbox (3,359) - ada.ren.cn@gmail.com - Gmail",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "11:35",
+            "end": "11:40",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Fast Cover Quote Q66446668",
+            "note": "fastcover.com.au"
+          },
+          {
+            "start": "11:40",
+            "end": "11:42",
+            "cat": "writing",
+            "src": "macos",
+            "title": "europe-trip-itinerary-v2 - Google Sheets",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "11:42",
+            "end": "11:46",
+            "cat": "writing",
+            "src": "macos",
+            "title": "europe-trip-itinerary-v2 - Google Sheets",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "11:46",
+            "end": "11:49",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Login to YSoft SafeQ 6",
+            "note": "iprint.mq.edu.au:9443"
+          },
+          {
+            "start": "11:50",
+            "end": "11:51",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Login to YSoft SafeQ 6",
+            "note": "iprint.mq.edu.au:9443"
+          },
+          {
+            "start": "11:52",
+            "end": "11:54",
+            "cat": "writing",
+            "src": "macos",
+            "title": "europe-trip-itinerary-v2 - Google Sheets",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "11:58",
+            "end": "12:00",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Allianz Travel Insurance",
+            "note": "travel.allianz.com.au"
+          },
+          {
+            "start": "12:00",
+            "end": "12:01",
+            "cat": "personal",
+            "src": "macos",
+            "title": "New Report: Multi-Agent Risks from Advanced AI",
+            "note": "cooperativeai.com"
+          },
+          {
+            "start": "12:03",
+            "end": "12:10",
+            "cat": "research",
+            "src": "macos",
+            "title": "2502.14143v1.pdf",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "12:11",
+            "end": "12:12",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Allianz Travel Insurance",
+            "note": "travel.allianz.com.au"
+          },
+          {
+            "start": "13:15",
+            "end": "13:18",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Allianz Travel Insurance",
+            "note": "travel.allianz.com.au"
+          },
+          {
+            "start": "13:29",
+            "end": "13:30",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Certificate of Insurance.pdf",
+            "note": "file:///Users/ada/Documents/%E4%BA%94%E5"
+          },
+          {
+            "start": "13:31",
+            "end": "13:33",
+            "cat": "research",
+            "src": "macos",
+            "title": "Preview",
+            "note": "com.apple.Preview"
+          },
+          {
+            "start": "13:36",
+            "end": "13:40",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Upload job",
+            "note": "iprint.mq.edu.au:9443"
+          },
+          {
+            "start": "13:41",
+            "end": "13:42",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Inbox (3,359) - ada.ren.cn@gmail.com - Gmail",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "13:42",
+            "end": "13:48",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Upload job",
+            "note": "iprint.mq.edu.au:9443"
+          },
+          {
+            "start": "13:54",
+            "end": "13:55",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "14:00",
+            "end": "14:02",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Radisson Blu 1882 Hotel, Barcelona Sagrada Familia，巴塞罗那（2027",
             "note": "booking.com"
+          },
+          {
+            "start": "14:05",
+            "end": "14:07",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Upload job",
+            "note": "iprint.mq.edu.au:9443"
+          },
+          {
+            "start": "14:18",
+            "end": "14:25",
+            "cat": "writing",
+            "src": "macos",
+            "title": "accomodation and transportation - Google Drive",
+            "note": "drive.google.com"
+          },
+          {
+            "start": "14:25",
+            "end": "14:28",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "14:28",
+            "end": "14:44",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "14:44",
+            "end": "14:49",
+            "cat": "admin",
+            "src": "macos",
+            "title": "macquarie university address - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "14:52",
+            "end": "15:15",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Booking.com: Confirmation",
+            "note": "secure.booking.com"
+          },
+          {
+            "start": "15:15",
+            "end": "15:21",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:21",
+            "end": "15:23",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · ada",
+            "note": "65 hits"
+          },
+          {
+            "start": "15:23",
+            "end": "15:25",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · ada",
+            "note": "65 hits"
+          },
+          {
+            "start": "15:25",
+            "end": "15:26",
+            "cat": "research",
+            "src": "macos",
+            "title": "Algorithmic Collusion by Large Language Models",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "15:26",
+            "end": "15:34",
+            "cat": "research",
+            "src": "macos",
+            "title": "Algorithmic Collusion by Large Language Models",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "15:34",
+            "end": "16:02",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:03",
+            "end": "16:04",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "16:04",
+            "end": "16:09",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:20",
+            "end": "16:30",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:31",
+            "end": "16:36",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:36",
+            "end": "16:38",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:38",
+            "end": "16:40",
+            "cat": "research",
+            "src": "macos",
+            "title": "Algorithmic Collusion by Large Language Models",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "16:40",
+            "end": "16:41",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "16:41",
+            "end": "16:54",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "16:54",
+            "end": "17:15",
+            "cat": "coding",
+            "src": "macos",
+            "title": "y=e^x | Desmos",
+            "note": "desmos.com"
+          },
+          {
+            "start": "18:38",
+            "end": "18:40",
+            "cat": "coding",
+            "src": "macos",
+            "title": "y=e^x | Desmos",
+            "note": "desmos.com"
           }
         ],
-        "logged": 23,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0.0,
+        "logged": 264,
+        "real": 129,
+        "deep": 129,
+        "ratio": 0.4910002031281983,
         "stats": {
-          "contextSwitches": 1,
-          "tabsOpened": 6,
-          "longestFocus": "0m",
-          "justOneMoreThing": 0
+          "contextSwitches": 32,
+          "tabsOpened": 0,
+          "longestFocus": "47m",
+          "justOneMoreThing": 2
         }
       },
       {
@@ -100784,16 +101256,33 @@
         "dateShort": "Thu, Nov 5",
         "dateLong": "Thursday, November 5",
         "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayEnd": "10:05",
+        "events": [
+          {
+            "start": "09:00",
+            "end": "09:20",
+            "cat": "meeting",
+            "src": "chrome",
+            "title": "Join from Zoom Workplace app - Zoom",
+            "note": "aus01.safelinks.protection.outlook.com"
+          },
+          {
+            "start": "10:00",
+            "end": "10:05",
+            "cat": "writing",
+            "src": "local",
+            "title": "2026-11-05-openai-to-acquire-pierre.md",
+            "note": "4 hits"
+          }
+        ],
+        "logged": 25,
+        "real": 25,
+        "deep": 25,
+        "ratio": 1.0,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "0m",
+          "contextSwitches": 1,
+          "tabsOpened": 3,
+          "longestFocus": "25m",
           "justOneMoreThing": 0
         }
       },
@@ -101467,792 +101956,792 @@
       "weekend": true
     },
     {
-      "key": "2026-11-2",
-      "dayNum": 2,
-      "dow": 1,
-      "weekend": false,
-      "dateShort": "Mon, Nov 2",
       "dateLong": "Monday, November 2",
-      "dayStart": "11:14",
+      "dateShort": "Mon, Nov 2",
       "dayEnd": "18:09",
+      "dayNum": 2,
+      "dayStart": "11:14",
+      "deep": 88,
+      "dow": 1,
       "events": [
         {
-          "start": "11:14",
+          "cat": "admin",
           "end": "11:17",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "11:14",
+          "title": "Outlook"
         },
         {
-          "start": "11:19",
+          "cat": "admin",
           "end": "11:20",
-          "cat": "admin",
+          "note": "felixmobile.com.au",
           "src": "macos",
-          "title": "Switch Now | felix mobile",
-          "note": "felixmobile.com.au"
+          "start": "11:19",
+          "title": "Switch Now | felix mobile"
         },
         {
-          "start": "11:21",
+          "cat": "admin",
           "end": "11:25",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "11:21",
+          "title": "Outlook"
         },
         {
-          "start": "11:26",
+          "cat": "admin",
           "end": "11:34",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "11:26",
+          "title": "Outlook"
         },
         {
-          "start": "11:35",
+          "cat": "meeting",
           "end": "11:36",
-          "cat": "meeting",
+          "note": "com.microsoft.teams2",
           "src": "macos",
-          "title": "teams2",
-          "note": "com.microsoft.teams2"
+          "start": "11:35",
+          "title": "teams2"
         },
         {
-          "start": "11:36",
+          "cat": "meeting",
           "end": "11:38",
-          "cat": "meeting",
+          "note": "com.microsoft.teams2",
           "src": "macos",
-          "title": "teams2",
-          "note": "com.microsoft.teams2"
+          "start": "11:36",
+          "title": "teams2"
         },
         {
-          "start": "11:38",
+          "cat": "coding",
           "end": "11:47",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "11:38",
+          "title": "VSCode"
         },
         {
-          "start": "12:04",
+          "cat": "coding",
           "end": "12:05",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "12:04",
+          "title": "VSCode"
         },
         {
-          "start": "12:05",
+          "cat": "coding",
           "end": "12:13",
-          "cat": "coding",
+          "note": "28 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "28 hits"
+          "start": "12:05",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "12:25",
+          "cat": "personal",
           "end": "12:27",
-          "cat": "personal",
+          "note": "xreal.com",
           "src": "macos",
-          "title": "XREAL | Building Augmented Reality for Everyone",
-          "note": "xreal.com"
+          "start": "12:25",
+          "title": "XREAL | Building Augmented Reality for Everyone"
         },
         {
-          "start": "12:28",
+          "cat": "personal",
           "end": "12:34",
-          "cat": "personal",
+          "note": "au.shop.xreal.com",
           "src": "macos",
-          "title": "XREAL AURA – XREAL AU Shop",
-          "note": "au.shop.xreal.com"
+          "start": "12:28",
+          "title": "XREAL AURA – XREAL AU Shop"
         },
         {
-          "start": "12:36",
+          "cat": "admin",
           "end": "12:43",
-          "cat": "admin",
+          "note": "opus.nci.org.au",
           "src": "macos",
-          "title": "What is Gadi?... - NCI Help - Opus - NCI Confluence",
-          "note": "opus.nci.org.au"
+          "start": "12:36",
+          "title": "What is Gadi?... - NCI Help - Opus - NCI Confluence"
         },
         {
-          "start": "13:05",
+          "cat": "meeting",
           "end": "13:07",
-          "cat": "meeting",
+          "note": "macquarie.zoom.us",
           "src": "macos",
-          "title": "Join from Zoom Workplace app - Zoom",
-          "note": "macquarie.zoom.us"
+          "start": "13:05",
+          "title": "Join from Zoom Workplace app - Zoom"
         },
         {
-          "start": "13:07",
+          "cat": "admin",
           "end": "13:18",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "macos",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "13:07",
+          "title": "Google Translate"
         },
         {
-          "start": "13:18",
+          "cat": "meeting",
           "end": "13:19",
-          "cat": "meeting",
+          "note": "us.zoom.xos",
           "src": "macos",
-          "title": "xos",
-          "note": "us.zoom.xos"
+          "start": "13:18",
+          "title": "xos"
         },
         {
-          "start": "13:19",
+          "cat": "meeting",
           "end": "13:26",
-          "cat": "meeting",
+          "note": "us.zoom.xos",
           "src": "macos",
-          "title": "xos",
-          "note": "us.zoom.xos"
+          "start": "13:19",
+          "title": "xos"
         },
         {
-          "start": "13:30",
+          "cat": "meeting",
           "end": "13:37",
-          "cat": "meeting",
+          "note": "us.zoom.xos",
           "src": "macos",
-          "title": "xos",
-          "note": "us.zoom.xos"
+          "start": "13:30",
+          "title": "xos"
         },
         {
-          "start": "13:38",
+          "cat": "writing",
           "end": "13:56",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Progress Updates - Google Sheets",
-          "note": "docs.google.com"
+          "start": "13:38",
+          "title": "Progress Updates - Google Sheets"
         },
         {
-          "start": "13:57",
+          "cat": "meeting",
           "end": "14:01",
-          "cat": "meeting",
+          "note": "us.zoom.xos",
           "src": "macos",
-          "title": "xos",
-          "note": "us.zoom.xos"
+          "start": "13:57",
+          "title": "xos"
         },
         {
-          "start": "14:01",
+          "cat": "admin",
           "end": "14:13",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "macos",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "14:01",
+          "title": "Google Translate"
         },
         {
-          "start": "14:15",
-          "end": "14:18",
           "cat": "meeting",
+          "end": "14:18",
+          "note": "us.zoom.xos",
           "src": "macos",
-          "title": "xos",
-          "note": "us.zoom.xos"
+          "start": "14:15",
+          "title": "xos"
         },
         {
-          "start": "14:40",
+          "cat": "admin",
           "end": "14:44",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "COMP2200 Data Science / COMP6200: Personal profile: Lauren A",
-          "note": "ilearn.mq.edu.au"
+          "start": "14:40",
+          "title": "COMP2200 Data Science / COMP6200: Personal profile: Lauren A"
         },
         {
-          "start": "14:47",
-          "end": "14:49",
           "cat": "personal",
+          "end": "14:49",
+          "note": "aloyoga.com",
           "src": "macos",
-          "title": "Your Shopping Cart | ALO",
-          "note": "aloyoga.com"
+          "start": "14:47",
+          "title": "Your Shopping Cart | ALO"
         },
         {
-          "start": "14:51",
+          "cat": "admin",
           "end": "14:56",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "14:51",
+          "title": "Outlook"
         },
         {
-          "start": "14:57",
+          "cat": "admin",
           "end": "14:59",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Preview question: Customer Engagement Preprocessing and Anal",
-          "note": "ilearn.mq.edu.au"
+          "start": "14:57",
+          "title": "Preview question: Customer Engagement Preprocessing and Anal"
         },
         {
-          "start": "14:59",
+          "cat": "writing",
           "end": "15:00",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Data Science - Assessments (S2-2026) - Google Sheets",
-          "note": "docs.google.com"
+          "start": "14:59",
+          "title": "Data Science - Assessments (S2-2026) - Google Sheets"
         },
         {
-          "start": "15:00",
+          "cat": "admin",
           "end": "15:01",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Grader report | COMP2200 Data Science / COMP6200 | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "15:00",
+          "title": "Grader report | COMP2200 Data Science / COMP6200 | iLearn"
         },
         {
-          "start": "15:02",
+          "cat": "writing",
           "end": "15:03",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Data Science - Assessments (S2-2026) - Google Sheets",
-          "note": "docs.google.com"
+          "start": "15:02",
+          "title": "Data Science - Assessments (S2-2026) - Google Sheets"
         },
         {
-          "start": "15:04",
+          "cat": "admin",
           "end": "15:06",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "15:04",
+          "title": "Outlook"
         },
         {
-          "start": "15:11",
+          "cat": "writing",
           "end": "15:13",
-          "cat": "writing",
+          "note": "excalidraw.com",
           "src": "macos",
-          "title": "Excalidraw Whiteboard",
-          "note": "excalidraw.com"
+          "start": "15:11",
+          "title": "Excalidraw Whiteboard"
         },
         {
-          "start": "15:13",
-          "end": "15:18",
           "cat": "research",
+          "end": "15:18",
+          "note": "en.wikipedia.org",
           "src": "macos",
-          "title": "Logistic regression - Wikipedia",
-          "note": "en.wikipedia.org"
+          "start": "15:13",
+          "title": "Logistic regression - Wikipedia"
         },
         {
-          "start": "15:18",
+          "cat": "admin",
           "end": "15:32",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Practice Final Exam - S2 2026 (page 1 of 2) | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "15:18",
+          "title": "Practice Final Exam - S2 2026 (page 1 of 2) | iLearn"
         },
         {
-          "start": "15:36",
+          "cat": "admin",
           "end": "15:38",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "15:36",
+          "title": "Outlook"
         },
         {
-          "start": "15:41",
+          "cat": "admin",
           "end": "15:42",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Week 11 Practical | i",
-          "note": "ilearn.mq.edu.au"
+          "start": "15:41",
+          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Week 11 Practical | i"
         },
         {
-          "start": "15:42",
+          "cat": "coding",
           "end": "15:46",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "15:42",
+          "title": "VSCode"
         },
         {
-          "start": "15:47",
+          "cat": "coding",
           "end": "15:48",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "Week_11_Practical.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "15:47",
+          "title": "Week_11_Practical.ipynb - Colab"
         },
         {
-          "start": "15:49",
+          "cat": "coding",
           "end": "15:52",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "15:49",
+          "title": "VSCode"
         },
         {
-          "start": "15:53",
+          "cat": "admin",
           "end": "16:49",
-          "cat": "admin",
+          "note": "content.ilearn.mq.edu.au",
           "src": "macos",
-          "title": "COMP2200/COMP6200 MQ Slides Template",
-          "note": "content.ilearn.mq.edu.au"
+          "start": "15:53",
+          "title": "COMP2200/COMP6200 MQ Slides Template"
         },
         {
-          "start": "16:50",
+          "cat": "writing",
           "end": "16:54",
-          "cat": "writing",
+          "note": "excalidraw.com",
           "src": "macos",
-          "title": "Excalidraw Whiteboard",
-          "note": "excalidraw.com"
+          "start": "16:50",
+          "title": "Excalidraw Whiteboard"
         },
         {
-          "start": "16:54",
+          "cat": "admin",
           "end": "16:56",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "mean shift clustering - Google Search",
-          "note": "google.com"
+          "start": "16:54",
+          "title": "mean shift clustering - Google Search"
         },
         {
-          "start": "16:56",
+          "cat": "admin",
           "end": "18:02",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "mean shift clustering - Google Search",
-          "note": "google.com"
+          "start": "16:56",
+          "title": "mean shift clustering - Google Search"
         },
         {
-          "start": "18:03",
+          "cat": "admin",
           "end": "18:04",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "18:03",
+          "title": "Outlook"
         },
         {
-          "start": "18:04",
-          "end": "18:09",
           "cat": "writing",
+          "end": "18:09",
+          "note": "excalidraw.com",
           "src": "macos",
-          "title": "Excalidraw Whiteboard",
-          "note": "excalidraw.com"
+          "start": "18:04",
+          "title": "Excalidraw Whiteboard"
         }
       ],
+      "key": "2026-11-2",
       "logged": 299,
-      "real": 88,
-      "deep": 88,
       "ratio": 0.2934054222828528,
+      "real": 88,
       "stats": {
         "contextSwitches": 26,
-        "tabsOpened": 0,
+        "justOneMoreThing": 2,
         "longestFocus": "36m",
-        "justOneMoreThing": 2
-      }
+        "tabsOpened": 0
+      },
+      "weekend": false
     },
     {
-      "key": "2026-11-3",
-      "dayNum": 3,
-      "dow": 2,
-      "weekend": false,
-      "dateShort": "Tue, Nov 3",
       "dateLong": "Tuesday, November 3",
-      "dayStart": "10:56",
+      "dateShort": "Tue, Nov 3",
       "dayEnd": "22:06",
+      "dayNum": 3,
+      "dayStart": "10:56",
+      "deep": 26,
+      "dow": 2,
       "events": [
         {
-          "start": "10:56",
+          "cat": "writing",
           "end": "10:58",
-          "cat": "writing",
+          "note": "excalidraw.com",
           "src": "macos",
-          "title": "Excalidraw Whiteboard",
-          "note": "excalidraw.com"
+          "start": "10:56",
+          "title": "Excalidraw Whiteboard"
         },
         {
-          "start": "10:58",
+          "cat": "admin",
           "end": "11:03",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "10:58",
+          "title": "Outlook"
         },
         {
-          "start": "11:05",
+          "cat": "admin",
           "end": "11:07",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "11:05",
+          "title": "Outlook"
         },
         {
-          "start": "11:08",
+          "cat": "admin",
           "end": "11:10",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "hurdels for unit - Google Search",
-          "note": "google.com"
+          "start": "11:08",
+          "title": "hurdels for unit - Google Search"
         },
         {
-          "start": "11:11",
+          "cat": "writing",
           "end": "11:16",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "europe-trip-itinerary-v2 - Google Sheets",
-          "note": "docs.google.com"
+          "start": "11:11",
+          "title": "europe-trip-itinerary-v2 - Google Sheets"
         },
         {
-          "start": "11:33",
+          "cat": "personal",
           "end": "11:35",
-          "cat": "personal",
+          "note": "primevideo.com",
           "src": "macos",
-          "title": "Prime Video: Watch movies, TV shows, sports, and live TV",
-          "note": "primevideo.com"
+          "start": "11:33",
+          "title": "Prime Video: Watch movies, TV shows, sports, and live TV"
         },
         {
-          "start": "11:36",
+          "cat": "personal",
           "end": "11:38",
-          "cat": "personal",
+          "note": "clubmed.com.au",
           "src": "macos",
-          "title": "Pragelato Sestriere, Italy All-Inclusive Club Med Ski Resort",
-          "note": "clubmed.com.au"
+          "start": "11:36",
+          "title": "Pragelato Sestriere, Italy All-Inclusive Club Med Ski Resort"
         },
         {
-          "start": "11:43",
+          "cat": "personal",
           "end": "11:45",
-          "cat": "personal",
+          "note": "flights.booking.com",
           "src": "macos",
-          "title": "搜索航班：巴塞罗那 – 都灵 - Booking.com",
-          "note": "flights.booking.com"
+          "start": "11:43",
+          "title": "搜索航班：巴塞罗那 – 都灵 - Booking.com"
         },
         {
-          "start": "11:45",
+          "cat": "writing",
           "end": "11:51",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "europe-trip-itinerary-v2 - Google Sheets",
-          "note": "docs.google.com"
+          "start": "11:45",
+          "title": "europe-trip-itinerary-v2 - Google Sheets"
         },
         {
-          "start": "11:58",
+          "cat": "writing",
           "end": "12:03",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "europe-trip-itinerary-v2 - Google Sheets",
-          "note": "docs.google.com"
+          "start": "11:58",
+          "title": "europe-trip-itinerary-v2 - Google Sheets"
         },
         {
-          "start": "14:08",
+          "cat": "writing",
           "end": "14:10",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "europe-trip-itinerary-v2 - Google Sheets",
-          "note": "docs.google.com"
+          "start": "14:08",
+          "title": "europe-trip-itinerary-v2 - Google Sheets"
         },
         {
-          "start": "14:10",
-          "end": "14:11",
           "cat": "coding",
+          "end": "14:11",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "circuit_tracing_tutorial.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "14:10",
+          "title": "circuit_tracing_tutorial.ipynb - Colab"
         },
         {
-          "start": "14:11",
+          "cat": "admin",
           "end": "14:17",
-          "cat": "admin",
+          "note": "schmidtsciences.smapply.io",
           "src": "macos",
-          "title": "Scaling AI Safety for a Multi-Agent World - Schmidt Sciences",
-          "note": "schmidtsciences.smapply.io"
+          "start": "14:11",
+          "title": "Scaling AI Safety for a Multi-Agent World - Schmidt Sciences"
         },
         {
-          "start": "14:24",
+          "cat": "personal",
           "end": "14:27",
-          "cat": "personal",
+          "note": "youtube.com",
           "src": "macos",
-          "title": "(15) YouTube",
-          "note": "youtube.com"
+          "start": "14:24",
+          "title": "(15) YouTube"
         },
         {
-          "start": "14:30",
+          "cat": "writing",
           "end": "14:31",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "europe-trip-itinerary-v2 - Google Sheets",
-          "note": "docs.google.com"
+          "start": "14:30",
+          "title": "europe-trip-itinerary-v2 - Google Sheets"
         },
         {
-          "start": "14:35",
+          "cat": "admin",
           "end": "14:37",
-          "cat": "admin",
+          "note": "secure.booking.com",
           "src": "macos",
-          "title": "付款",
-          "note": "secure.booking.com"
+          "start": "14:35",
+          "title": "付款"
         },
         {
-          "start": "15:01",
+          "cat": "personal",
           "end": "15:07",
-          "cat": "personal",
+          "note": "au.trip.com",
           "src": "macos",
-          "title": "Flights from Barcelona to Turin | Trip.com",
-          "note": "au.trip.com"
+          "start": "15:01",
+          "title": "Flights from Barcelona to Turin | Trip.com"
         },
         {
-          "start": "15:07",
+          "cat": "personal",
           "end": "15:08",
-          "cat": "personal",
+          "note": "clubmed.com.au",
           "src": "macos",
-          "title": "Pragelato Sestriere, Italy All-Inclusive Club Med Ski Resort",
-          "note": "clubmed.com.au"
+          "start": "15:07",
+          "title": "Pragelato Sestriere, Italy All-Inclusive Club Med Ski Resort"
         },
         {
-          "start": "15:08",
+          "cat": "personal",
           "end": "15:14",
-          "cat": "personal",
+          "note": "clubmed.com.au",
           "src": "macos",
-          "title": "Pragelato Sestriere, Italy All-Inclusive Club Med Ski Resort",
-          "note": "clubmed.com.au"
+          "start": "15:08",
+          "title": "Pragelato Sestriere, Italy All-Inclusive Club Med Ski Resort"
         },
         {
-          "start": "15:14",
+          "cat": "personal",
           "end": "15:18",
-          "cat": "personal",
+          "note": "thetrainline.com",
           "src": "macos",
-          "title": "Trainline: Train tickets, travel information, train times an",
-          "note": "thetrainline.com"
+          "start": "15:14",
+          "title": "Trainline: Train tickets, travel information, train times an"
         },
         {
-          "start": "15:18",
+          "cat": "personal",
           "end": "15:24",
-          "cat": "personal",
+          "note": "thetrainline.com",
           "src": "macos",
-          "title": "Trainline: Train tickets, travel information, train times an",
-          "note": "thetrainline.com"
+          "start": "15:18",
+          "title": "Trainline: Train tickets, travel information, train times an"
         },
         {
-          "start": "15:27",
+          "cat": "personal",
           "end": "15:29",
-          "cat": "personal",
+          "note": "thetrainline.com",
           "src": "macos",
-          "title": "Trainline: Train tickets, travel information, train times an",
-          "note": "thetrainline.com"
+          "start": "15:27",
+          "title": "Trainline: Train tickets, travel information, train times an"
         },
         {
-          "start": "15:29",
+          "cat": "admin",
           "end": "15:32",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "macos",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "15:29",
+          "title": "Google Translate"
         },
         {
-          "start": "15:32",
-          "end": "15:36",
           "cat": "writing",
+          "end": "15:36",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "europe-trip-itinerary-v2 - Google Sheets",
-          "note": "docs.google.com"
+          "start": "15:32",
+          "title": "europe-trip-itinerary-v2 - Google Sheets"
         },
         {
-          "start": "15:42",
+          "cat": "personal",
           "end": "15:44",
-          "cat": "personal",
+          "note": "thetrainline.com",
           "src": "macos",
-          "title": "Trainline : Search, Compare & Buy Cheap Train Tickets",
-          "note": "thetrainline.com"
+          "start": "15:42",
+          "title": "Trainline : Search, Compare & Buy Cheap Train Tickets"
         },
         {
-          "start": "15:47",
+          "cat": "personal",
           "end": "15:53",
-          "cat": "personal",
+          "note": "thetrainline.com",
           "src": "macos",
-          "title": "Search Results | Trainline",
-          "note": "thetrainline.com"
+          "start": "15:47",
+          "title": "Search Results | Trainline"
         },
         {
-          "start": "15:53",
+          "cat": "personal",
           "end": "15:58",
-          "cat": "personal",
+          "note": "au.trip.com",
           "src": "macos",
-          "title": "Flights from Turin to Barcelona | Trip.com",
-          "note": "au.trip.com"
+          "start": "15:53",
+          "title": "Flights from Turin to Barcelona | Trip.com"
         },
         {
-          "start": "16:05",
+          "cat": "personal",
           "end": "16:10",
-          "cat": "personal",
+          "note": "au.trip.com",
           "src": "macos",
-          "title": "Flights from Turin to Barcelona | Trip.com",
-          "note": "au.trip.com"
+          "start": "16:05",
+          "title": "Flights from Turin to Barcelona | Trip.com"
         },
         {
-          "start": "16:14",
+          "cat": "personal",
           "end": "16:20",
-          "cat": "personal",
+          "note": "au.trip.com",
           "src": "macos",
-          "title": "Flights from Turin to Barcelona | Trip.com",
-          "note": "au.trip.com"
+          "start": "16:14",
+          "title": "Flights from Turin to Barcelona | Trip.com"
         },
         {
-          "start": "16:25",
+          "cat": "personal",
           "end": "16:26",
-          "cat": "personal",
+          "note": "clubmed.com.au",
           "src": "macos",
-          "title": "Transfer",
-          "note": "clubmed.com.au"
+          "start": "16:25",
+          "title": "Transfer"
         },
         {
-          "start": "16:26",
+          "cat": "admin",
           "end": "16:27",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "16:26",
+          "title": "Outlook"
         },
         {
-          "start": "17:27",
+          "cat": "personal",
           "end": "17:29",
-          "cat": "personal",
+          "note": "au.trip.com",
           "src": "macos",
-          "title": "Barcelona Hotels - Where to stay in Barcelona | Trip.com",
-          "note": "au.trip.com"
+          "start": "17:27",
+          "title": "Barcelona Hotels - Where to stay in Barcelona | Trip.com"
         },
         {
-          "start": "17:29",
+          "cat": "admin",
           "end": "17:30",
-          "cat": "admin",
+          "note": "mail.google.com",
           "src": "macos",
-          "title": "Inbox (3,356) - ada.ren.cn@gmail.com - Gmail",
-          "note": "mail.google.com"
+          "start": "17:29",
+          "title": "Inbox (3,356) - ada.ren.cn@gmail.com - Gmail"
         },
         {
-          "start": "17:31",
+          "cat": "admin",
           "end": "17:33",
-          "cat": "admin",
+          "note": "mail.google.com",
           "src": "macos",
-          "title": "Inbox (3,362) - ada.ren.cn@gmail.com - Gmail",
-          "note": "mail.google.com"
+          "start": "17:31",
+          "title": "Inbox (3,362) - ada.ren.cn@gmail.com - Gmail"
         },
         {
-          "start": "17:37",
+          "cat": "admin",
           "end": "17:41",
-          "cat": "admin",
+          "note": "mail.google.com",
           "src": "macos",
-          "title": "Inbox (3,362) - ada.ren.cn@gmail.com - Gmail",
-          "note": "mail.google.com"
+          "start": "17:37",
+          "title": "Inbox (3,362) - ada.ren.cn@gmail.com - Gmail"
         },
         {
-          "start": "20:40",
+          "cat": "personal",
           "end": "20:42",
-          "cat": "personal",
+          "note": "booking.com",
           "src": "macos",
-          "title": "搜索_酒店__酒店查询_Booking.com缤客",
-          "note": "booking.com"
+          "start": "20:40",
+          "title": "搜索_酒店__酒店查询_Booking.com缤客"
         },
         {
-          "start": "20:42",
-          "end": "20:45",
           "cat": "admin",
+          "end": "20:45",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "20:42",
+          "title": "Outlook"
         },
         {
-          "start": "20:45",
+          "cat": "personal",
           "end": "20:46",
-          "cat": "personal",
+          "note": "booking.com",
           "src": "macos",
-          "title": "搜索_酒店__酒店查询_Booking.com缤客",
-          "note": "booking.com"
+          "start": "20:45",
+          "title": "搜索_酒店__酒店查询_Booking.com缤客"
         },
         {
-          "start": "20:49",
+          "cat": "personal",
           "end": "20:51",
-          "cat": "personal",
+          "note": "booking.com",
           "src": "macos",
-          "title": "马西莫达则格里奥贝托亚酒店，罗马（2027最新房价）",
-          "note": "booking.com"
+          "start": "20:49",
+          "title": "马西莫达则格里奥贝托亚酒店，罗马（2027最新房价）"
         },
         {
-          "start": "20:51",
+          "cat": "personal",
           "end": "20:52",
-          "cat": "personal",
+          "note": "booking.com",
           "src": "macos",
-          "title": "The Rome EDITION，罗马（2027最新房价）",
-          "note": "booking.com"
+          "start": "20:51",
+          "title": "The Rome EDITION，罗马（2027最新房价）"
         },
         {
-          "start": "20:54",
+          "cat": "personal",
           "end": "20:55",
-          "cat": "personal",
+          "note": "booking.com",
           "src": "macos",
-          "title": "自由精品酒店，罗马（2027最新房价）",
-          "note": "booking.com"
+          "start": "20:54",
+          "title": "自由精品酒店，罗马（2027最新房价）"
         },
         {
-          "start": "20:59",
+          "cat": "personal",
           "end": "21:01",
-          "cat": "personal",
+          "note": "passport.ctrip.com",
           "src": "macos",
-          "title": "登录首页",
-          "note": "passport.ctrip.com"
+          "start": "20:59",
+          "title": "登录首页"
         },
         {
-          "start": "21:35",
+          "cat": "personal",
           "end": "21:37",
-          "cat": "personal",
+          "note": "passport.ctrip.com",
           "src": "macos",
-          "title": "登录首页",
-          "note": "passport.ctrip.com"
+          "start": "21:35",
+          "title": "登录首页"
         },
         {
-          "start": "21:38",
+          "cat": "personal",
           "end": "21:40",
-          "cat": "personal",
+          "note": "ctrip.com",
           "src": "macos",
-          "title": "携程旅行网:酒店预订,机票预订查询,旅游度假,商旅管理",
-          "note": "ctrip.com"
+          "start": "21:38",
+          "title": "携程旅行网:酒店预订,机票预订查询,旅游度假,商旅管理"
         },
         {
-          "start": "21:41",
+          "cat": "personal",
           "end": "21:43",
-          "cat": "personal",
+          "note": "flights.ctrip.com",
           "src": "macos",
-          "title": "订单填写页-国际机票查询-国际航班预订-国际机票价格-国际特价机票-携程国际机票预订",
-          "note": "flights.ctrip.com"
+          "start": "21:41",
+          "title": "订单填写页-国际机票查询-国际航班预订-国际机票价格-国际特价机票-携程国际机票预订"
         },
         {
-          "start": "21:43",
+          "cat": "personal",
           "end": "21:46",
-          "cat": "personal",
+          "note": "flights.ctrip.com",
           "src": "macos",
-          "title": "【携程机票】飞机票查询,机票预订,机票价格查询,打折特价机票",
-          "note": "flights.ctrip.com"
+          "start": "21:43",
+          "title": "【携程机票】飞机票查询,机票预订,机票价格查询,打折特价机票"
         },
         {
-          "start": "21:46",
+          "cat": "personal",
           "end": "21:50",
-          "cat": "personal",
+          "note": "flights.ctrip.com",
           "src": "macos",
-          "title": "悉尼(澳大利亚)出发机票预订-悉尼(澳大利亚)出发多程机票查询【携程国际机票】",
-          "note": "flights.ctrip.com"
+          "start": "21:46",
+          "title": "悉尼(澳大利亚)出发机票预订-悉尼(澳大利亚)出发多程机票查询【携程国际机票】"
         },
         {
-          "start": "21:50",
+          "cat": "personal",
           "end": "21:56",
-          "cat": "personal",
+          "note": "flights.ctrip.com",
           "src": "macos",
-          "title": "订单填写页-国际机票查询-国际航班预订-国际机票价格-国际特价机票-携程国际机票预订",
-          "note": "flights.ctrip.com"
+          "start": "21:50",
+          "title": "订单填写页-国际机票查询-国际航班预订-国际机票价格-国际特价机票-携程国际机票预订"
         },
         {
-          "start": "21:59",
+          "cat": "personal",
           "end": "22:01",
-          "cat": "personal",
+          "note": "secure.ctrip.com",
           "src": "macos",
-          "title": "安全支付",
-          "note": "secure.ctrip.com"
+          "start": "21:59",
+          "title": "安全支付"
         },
         {
-          "start": "22:01",
-          "end": "22:06",
           "cat": "personal",
+          "end": "22:06",
+          "note": "flights.ctrip.com",
           "src": "macos",
-          "title": "【携程机票】飞机票查询,机票预订,机票价格查询,打折特价机票",
-          "note": "flights.ctrip.com"
+          "start": "22:01",
+          "title": "【携程机票】飞机票查询,机票预订,机票价格查询,打折特价机票"
         }
       ],
+      "key": "2026-11-3",
       "logged": 151,
-      "real": 26,
-      "deep": 26,
       "ratio": 0.17133321799487758,
+      "real": 26,
       "stats": {
         "contextSwitches": 19,
-        "tabsOpened": 0,
+        "justOneMoreThing": 0,
         "longestFocus": "14m",
-        "justOneMoreThing": 0
-      }
+        "tabsOpened": 0
+      },
+      "weekend": false
     },
     {
       "key": "2026-11-4",
@@ -102261,35 +102750,507 @@
       "weekend": false,
       "dateShort": "Wed, Nov 4",
       "dateLong": "Wednesday, November 4",
-      "dayStart": "10:03",
-      "dayEnd": "10:26",
+      "dayStart": "10:07",
+      "dayEnd": "18:40",
       "events": [
         {
-          "start": "10:03",
-          "end": "10:24",
-          "cat": "admin",
-          "src": "chrome",
-          "title": "出行确认单（附件：中英文行程单） - ada.ren.cn@gmail.com - Gmail",
-          "note": "mail.google.com"
+          "start": "10:07",
+          "end": "10:08",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(15) TamaGPT - YouTube",
+          "note": "youtube.com"
+        },
+        {
+          "start": "10:09",
+          "end": "10:12",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(15) Qodo brings company context into Codex code review - Yo",
+          "note": "youtube.com"
+        },
+        {
+          "start": "10:12",
+          "end": "10:19",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(15) ChatGPT Voice is now in Finances - YouTube",
+          "note": "youtube.com"
+        },
+        {
+          "start": "10:19",
+          "end": "10:23",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(15) OpenAI - YouTube",
+          "note": "youtube.com"
         },
         {
           "start": "10:24",
-          "end": "10:26",
+          "end": "10:25",
           "cat": "personal",
-          "src": "chrome",
-          "title": "Booking.com | 官网 | 优质酒店，机票，租车和住宿",
+          "src": "macos",
+          "title": "Coinbase Australia - Buy & Sell Bitcoin, Ethereum, and more ",
+          "note": "coinbase.com"
+        },
+        {
+          "start": "10:26",
+          "end": "10:29",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Booking.com: 确认",
+          "note": "secure.booking.com"
+        },
+        {
+          "start": "10:34",
+          "end": "10:35",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Statements20260731.pdf",
+          "note": "file:///Users/ada/Documents/%E4%BA%94%E5"
+        },
+        {
+          "start": "10:37",
+          "end": "10:38",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Netbank - Statements",
+          "note": "commbank.com.au"
+        },
+        {
+          "start": "10:41",
+          "end": "10:44",
+          "cat": "writing",
+          "src": "macos",
+          "title": "italy-checklist-feb.pdf",
+          "note": "file:///Users/ada/Documents/%E4%BA%94%E5"
+        },
+        {
+          "start": "10:46",
+          "end": "10:47",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Ethan Frome",
+          "note": "file:///Users/ada/Library/Mobile%20Docum"
+        },
+        {
+          "start": "10:47",
+          "end": "10:48",
+          "cat": "personal",
+          "src": "macos",
+          "title": "annotated-530793784_%20530734684-1.pdf",
+          "note": "file:///Users/ada/Library/Mobile%20Docum"
+        },
+        {
+          "start": "10:50",
+          "end": "11:00",
+          "cat": "admin",
+          "src": "macos",
+          "title": "My home | iLearn",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "11:08",
+          "end": "11:10",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Macquarie University to Melbourne VIC, Australia - Google Ma",
+          "note": "file:///Users/ada/Documents/%E4%BA%94%E5"
+        },
+        {
+          "start": "11:10",
+          "end": "11:12",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Dashboard",
+          "note": "iprint.mq.edu.au:9443"
+        },
+        {
+          "start": "11:12",
+          "end": "11:13",
+          "cat": "admin",
+          "src": "macos",
+          "title": "NetBank - CommBank",
+          "note": "commbank.com.au"
+        },
+        {
+          "start": "11:14",
+          "end": "11:16",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
+          "note": "sport.mq.edu.au"
+        },
+        {
+          "start": "11:17",
+          "end": "11:20",
+          "cat": "admin",
+          "src": "macos",
+          "title": "NetBank - Transfers & BPAY",
+          "note": "commbank.com.au"
+        },
+        {
+          "start": "11:20",
+          "end": "11:22",
+          "cat": "writing",
+          "src": "macos",
+          "title": "South Europe 2026 - Google Drive",
+          "note": "drive.google.com"
+        },
+        {
+          "start": "11:25",
+          "end": "11:27",
+          "cat": "research",
+          "src": "macos",
+          "title": "Automations - Grok",
+          "note": "grok.com"
+        },
+        {
+          "start": "11:28",
+          "end": "11:29",
+          "cat": "research",
+          "src": "macos",
+          "title": "Automations - Grok",
+          "note": "grok.com"
+        },
+        {
+          "start": "11:32",
+          "end": "11:33",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Inbox (3,359) - ada.ren.cn@gmail.com - Gmail",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "11:35",
+          "end": "11:40",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Fast Cover Quote Q66446668",
+          "note": "fastcover.com.au"
+        },
+        {
+          "start": "11:40",
+          "end": "11:42",
+          "cat": "writing",
+          "src": "macos",
+          "title": "europe-trip-itinerary-v2 - Google Sheets",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "11:42",
+          "end": "11:46",
+          "cat": "writing",
+          "src": "macos",
+          "title": "europe-trip-itinerary-v2 - Google Sheets",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "11:46",
+          "end": "11:49",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Login to YSoft SafeQ 6",
+          "note": "iprint.mq.edu.au:9443"
+        },
+        {
+          "start": "11:50",
+          "end": "11:51",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Login to YSoft SafeQ 6",
+          "note": "iprint.mq.edu.au:9443"
+        },
+        {
+          "start": "11:52",
+          "end": "11:54",
+          "cat": "writing",
+          "src": "macos",
+          "title": "europe-trip-itinerary-v2 - Google Sheets",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "11:58",
+          "end": "12:00",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Allianz Travel Insurance",
+          "note": "travel.allianz.com.au"
+        },
+        {
+          "start": "12:00",
+          "end": "12:01",
+          "cat": "personal",
+          "src": "macos",
+          "title": "New Report: Multi-Agent Risks from Advanced AI",
+          "note": "cooperativeai.com"
+        },
+        {
+          "start": "12:03",
+          "end": "12:10",
+          "cat": "research",
+          "src": "macos",
+          "title": "2502.14143v1.pdf",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "12:11",
+          "end": "12:12",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Allianz Travel Insurance",
+          "note": "travel.allianz.com.au"
+        },
+        {
+          "start": "13:15",
+          "end": "13:18",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Allianz Travel Insurance",
+          "note": "travel.allianz.com.au"
+        },
+        {
+          "start": "13:29",
+          "end": "13:30",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Certificate of Insurance.pdf",
+          "note": "file:///Users/ada/Documents/%E4%BA%94%E5"
+        },
+        {
+          "start": "13:31",
+          "end": "13:33",
+          "cat": "research",
+          "src": "macos",
+          "title": "Preview",
+          "note": "com.apple.Preview"
+        },
+        {
+          "start": "13:36",
+          "end": "13:40",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Upload job",
+          "note": "iprint.mq.edu.au:9443"
+        },
+        {
+          "start": "13:41",
+          "end": "13:42",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Inbox (3,359) - ada.ren.cn@gmail.com - Gmail",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "13:42",
+          "end": "13:48",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Upload job",
+          "note": "iprint.mq.edu.au:9443"
+        },
+        {
+          "start": "13:54",
+          "end": "13:55",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "14:00",
+          "end": "14:02",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Radisson Blu 1882 Hotel, Barcelona Sagrada Familia，巴塞罗那（2027",
           "note": "booking.com"
+        },
+        {
+          "start": "14:05",
+          "end": "14:07",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Upload job",
+          "note": "iprint.mq.edu.au:9443"
+        },
+        {
+          "start": "14:18",
+          "end": "14:25",
+          "cat": "writing",
+          "src": "macos",
+          "title": "accomodation and transportation - Google Drive",
+          "note": "drive.google.com"
+        },
+        {
+          "start": "14:25",
+          "end": "14:28",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "14:28",
+          "end": "14:44",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "14:44",
+          "end": "14:49",
+          "cat": "admin",
+          "src": "macos",
+          "title": "macquarie university address - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "14:52",
+          "end": "15:15",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Booking.com: Confirmation",
+          "note": "secure.booking.com"
+        },
+        {
+          "start": "15:15",
+          "end": "15:21",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:21",
+          "end": "15:23",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · ada",
+          "note": "65 hits"
+        },
+        {
+          "start": "15:23",
+          "end": "15:25",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · ada",
+          "note": "65 hits"
+        },
+        {
+          "start": "15:25",
+          "end": "15:26",
+          "cat": "research",
+          "src": "macos",
+          "title": "Algorithmic Collusion by Large Language Models",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "15:26",
+          "end": "15:34",
+          "cat": "research",
+          "src": "macos",
+          "title": "Algorithmic Collusion by Large Language Models",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "15:34",
+          "end": "16:02",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:03",
+          "end": "16:04",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "16:04",
+          "end": "16:09",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:20",
+          "end": "16:30",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:31",
+          "end": "16:36",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:36",
+          "end": "16:38",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:38",
+          "end": "16:40",
+          "cat": "research",
+          "src": "macos",
+          "title": "Algorithmic Collusion by Large Language Models",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "16:40",
+          "end": "16:41",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "16:41",
+          "end": "16:54",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "16:54",
+          "end": "17:15",
+          "cat": "coding",
+          "src": "macos",
+          "title": "y=e^x | Desmos",
+          "note": "desmos.com"
+        },
+        {
+          "start": "18:38",
+          "end": "18:40",
+          "cat": "coding",
+          "src": "macos",
+          "title": "y=e^x | Desmos",
+          "note": "desmos.com"
         }
       ],
-      "logged": 23,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0.0,
+      "logged": 264,
+      "real": 129,
+      "deep": 129,
+      "ratio": 0.4910002031281983,
       "stats": {
-        "contextSwitches": 1,
-        "tabsOpened": 6,
-        "longestFocus": "0m",
-        "justOneMoreThing": 0
+        "contextSwitches": 32,
+        "tabsOpened": 0,
+        "longestFocus": "47m",
+        "justOneMoreThing": 2
       }
     },
     {
@@ -102300,16 +103261,33 @@
       "dateShort": "Thu, Nov 5",
       "dateLong": "Thursday, November 5",
       "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayEnd": "10:05",
+      "events": [
+        {
+          "start": "09:00",
+          "end": "09:20",
+          "cat": "meeting",
+          "src": "chrome",
+          "title": "Join from Zoom Workplace app - Zoom",
+          "note": "aus01.safelinks.protection.outlook.com"
+        },
+        {
+          "start": "10:00",
+          "end": "10:05",
+          "cat": "writing",
+          "src": "local",
+          "title": "2026-11-05-openai-to-acquire-pierre.md",
+          "note": "4 hits"
+        }
+      ],
+      "logged": 25,
+      "real": 25,
+      "deep": 25,
+      "ratio": 1.0,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "0m",
+        "contextSwitches": 1,
+        "tabsOpened": 3,
+        "longestFocus": "25m",
         "justOneMoreThing": 0
       }
     },
