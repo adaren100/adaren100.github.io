@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-11-05T11:15:16+11:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-11-06T10:20:16+11:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -100746,7 +100746,7 @@
         "dateShort": "Wed, Nov 4",
         "dateLong": "Wednesday, November 4",
         "dayStart": "10:07",
-        "dayEnd": "18:40",
+        "dayEnd": "21:05",
         "events": [
           {
             "start": "10:07",
@@ -100823,7 +100823,7 @@
           {
             "start": "10:46",
             "end": "10:47",
-            "cat": "personal",
+            "cat": "writing",
             "src": "macos",
             "title": "Ethan Frome",
             "note": "file:///Users/ada/Library/Mobile%20Docum"
@@ -100831,7 +100831,7 @@
           {
             "start": "10:47",
             "end": "10:48",
-            "cat": "personal",
+            "cat": "writing",
             "src": "macos",
             "title": "annotated-530793784_%20530734684-1.pdf",
             "note": "file:///Users/ada/Library/Mobile%20Docum"
@@ -100913,7 +100913,7 @@
             "end": "11:33",
             "cat": "admin",
             "src": "macos",
-            "title": "Inbox (3,359) - ada.ren.cn@gmail.com - Gmail",
+            "title": "Inbox (3,380) - ada.ren.cn@gmail.com - Gmail",
             "note": "mail.google.com"
           },
           {
@@ -100967,7 +100967,7 @@
           {
             "start": "11:58",
             "end": "12:00",
-            "cat": "personal",
+            "cat": "admin",
             "src": "macos",
             "title": "Allianz Travel Insurance",
             "note": "travel.allianz.com.au"
@@ -100975,7 +100975,7 @@
           {
             "start": "12:00",
             "end": "12:01",
-            "cat": "personal",
+            "cat": "research",
             "src": "macos",
             "title": "New Report: Multi-Agent Risks from Advanced AI",
             "note": "cooperativeai.com"
@@ -100991,7 +100991,7 @@
           {
             "start": "12:11",
             "end": "12:12",
-            "cat": "personal",
+            "cat": "admin",
             "src": "macos",
             "title": "Allianz Travel Insurance",
             "note": "travel.allianz.com.au"
@@ -100999,7 +100999,7 @@
           {
             "start": "13:15",
             "end": "13:18",
-            "cat": "personal",
+            "cat": "admin",
             "src": "macos",
             "title": "Allianz Travel Insurance",
             "note": "travel.allianz.com.au"
@@ -101033,7 +101033,7 @@
             "end": "13:42",
             "cat": "admin",
             "src": "macos",
-            "title": "Inbox (3,359) - ada.ren.cn@gmail.com - Gmail",
+            "title": "Inbox (3,380) - ada.ren.cn@gmail.com - Gmail",
             "note": "mail.google.com"
           },
           {
@@ -101230,22 +101230,94 @@
           },
           {
             "start": "18:38",
-            "end": "18:40",
+            "end": "18:48",
             "cat": "coding",
             "src": "macos",
             "title": "y=e^x | Desmos",
             "note": "desmos.com"
+          },
+          {
+            "start": "18:50",
+            "end": "18:52",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Scaling AI Safety for a Multi-Agent World - Schmidt Sciences",
+            "note": "schmidtsciences.smapply.io"
+          },
+          {
+            "start": "18:55",
+            "end": "19:01",
+            "cat": "research",
+            "src": "macos",
+            "title": "Which Agent Causes Task Failures and When? On Automated Fail",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "19:01",
+            "end": "19:02",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Upload job",
+            "note": "iprint.mq.edu.au:9443"
+          },
+          {
+            "start": "19:02",
+            "end": "19:04",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Dashboard",
+            "note": "iprint.mq.edu.au:9443"
+          },
+          {
+            "start": "20:29",
+            "end": "20:30",
+            "cat": "research",
+            "src": "macos",
+            "title": "[2601.09923] CaMeLs Can Use Computers Too: System-level Secu",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "20:37",
+            "end": "20:39",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Schengen Visa Italian Consulate of Sydney Experience : r/Sch",
+            "note": "reddit.com"
+          },
+          {
+            "start": "20:40",
+            "end": "20:41",
+            "cat": "admin",
+            "src": "macos",
+            "title": "sydney italy schengen visa where to submit documents - Googl",
+            "note": "google.com"
+          },
+          {
+            "start": "20:58",
+            "end": "21:00",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Regulation (EU) 2023/2667 of the European Parliament and of ",
+            "note": "file:///Users/ada/Documents/%E4%BA%94%E5"
+          },
+          {
+            "start": "21:00",
+            "end": "21:05",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
           }
         ],
-        "logged": 264,
-        "real": 129,
-        "deep": 129,
-        "ratio": 0.4910002031281983,
+        "logged": 295,
+        "real": 151,
+        "deep": 151,
+        "ratio": 0.5108883167017059,
         "stats": {
-          "contextSwitches": 32,
+          "contextSwitches": 39,
           "tabsOpened": 0,
           "longestFocus": "47m",
-          "justOneMoreThing": 2
+          "justOneMoreThing": 4
         }
       },
       {
@@ -101255,34 +101327,50 @@
         "weekend": false,
         "dateShort": "Thu, Nov 5",
         "dateLong": "Thursday, November 5",
-        "dayStart": "09:00",
-        "dayEnd": "10:05",
+        "dayStart": "07:52",
+        "dayEnd": "10:02",
         "events": [
           {
-            "start": "09:00",
-            "end": "09:20",
-            "cat": "meeting",
-            "src": "chrome",
-            "title": "Join from Zoom Workplace app - Zoom",
-            "note": "aus01.safelinks.protection.outlook.com"
+            "start": "07:52",
+            "end": "07:56",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
           },
           {
-            "start": "10:00",
-            "end": "10:05",
-            "cat": "writing",
-            "src": "local",
-            "title": "2026-11-05-openai-to-acquire-pierre.md",
-            "note": "4 hits"
+            "start": "09:00",
+            "end": "09:39",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "xos",
+            "note": "us.zoom.xos"
+          },
+          {
+            "start": "09:43",
+            "end": "09:48",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "xos",
+            "note": "us.zoom.xos"
+          },
+          {
+            "start": "09:55",
+            "end": "10:02",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "xos",
+            "note": "us.zoom.xos"
           }
         ],
-        "logged": 25,
-        "real": 25,
-        "deep": 25,
-        "ratio": 1.0,
+        "logged": 56,
+        "real": 52,
+        "deep": 52,
+        "ratio": 0.9283154121863799,
         "stats": {
           "contextSwitches": 1,
-          "tabsOpened": 3,
-          "longestFocus": "25m",
+          "tabsOpened": 0,
+          "longestFocus": "52m",
           "justOneMoreThing": 0
         }
       },
@@ -101293,18 +101381,75 @@
         "weekend": false,
         "dateShort": "Fri, Nov 6",
         "dateLong": "Friday, November 6",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "09:38",
+        "dayEnd": "10:22",
+        "events": [
+          {
+            "start": "09:38",
+            "end": "09:41",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "cultural hegemony meaning - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "09:41",
+            "end": "09:43",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "(17) GPT-Image-2.6: Faster image generation with Flare and S",
+            "note": "youtube.com"
+          },
+          {
+            "start": "09:44",
+            "end": "10:04",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Log on to NetBank - Commonwealth Bank",
+            "note": "commbank.com.au"
+          },
+          {
+            "start": "10:04",
+            "end": "10:09",
+            "cat": "writing",
+            "src": "chrome",
+            "title": "Sydney AI Meetup 2026 — Attendee Registration",
+            "note": "url.au.m.mimecastprotect.com"
+          },
+          {
+            "start": "10:09",
+            "end": "10:10",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Preview question: Project descriptions: identify learning ty",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "10:10",
+            "end": "10:13",
+            "cat": "research",
+            "src": "chrome",
+            "title": "How a PhD Can Survive? | Ada's Notes",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "10:13",
+            "end": "10:22",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Preview question: Project descriptions: identify learning ty",
+            "note": "ilearn.mq.edu.au"
+          }
+        ],
+        "logged": 43,
+        "real": 8,
+        "deep": 8,
+        "ratio": 0.18523010721089878,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "0m",
-          "justOneMoreThing": 0
+          "contextSwitches": 6,
+          "tabsOpened": 21,
+          "longestFocus": "5m",
+          "justOneMoreThing": 1
         }
       },
       {
@@ -102751,7 +102896,7 @@
       "dateShort": "Wed, Nov 4",
       "dateLong": "Wednesday, November 4",
       "dayStart": "10:07",
-      "dayEnd": "18:40",
+      "dayEnd": "21:05",
       "events": [
         {
           "start": "10:07",
@@ -102828,7 +102973,7 @@
         {
           "start": "10:46",
           "end": "10:47",
-          "cat": "personal",
+          "cat": "writing",
           "src": "macos",
           "title": "Ethan Frome",
           "note": "file:///Users/ada/Library/Mobile%20Docum"
@@ -102836,7 +102981,7 @@
         {
           "start": "10:47",
           "end": "10:48",
-          "cat": "personal",
+          "cat": "writing",
           "src": "macos",
           "title": "annotated-530793784_%20530734684-1.pdf",
           "note": "file:///Users/ada/Library/Mobile%20Docum"
@@ -102918,7 +103063,7 @@
           "end": "11:33",
           "cat": "admin",
           "src": "macos",
-          "title": "Inbox (3,359) - ada.ren.cn@gmail.com - Gmail",
+          "title": "Inbox (3,380) - ada.ren.cn@gmail.com - Gmail",
           "note": "mail.google.com"
         },
         {
@@ -102972,7 +103117,7 @@
         {
           "start": "11:58",
           "end": "12:00",
-          "cat": "personal",
+          "cat": "admin",
           "src": "macos",
           "title": "Allianz Travel Insurance",
           "note": "travel.allianz.com.au"
@@ -102980,7 +103125,7 @@
         {
           "start": "12:00",
           "end": "12:01",
-          "cat": "personal",
+          "cat": "research",
           "src": "macos",
           "title": "New Report: Multi-Agent Risks from Advanced AI",
           "note": "cooperativeai.com"
@@ -102996,7 +103141,7 @@
         {
           "start": "12:11",
           "end": "12:12",
-          "cat": "personal",
+          "cat": "admin",
           "src": "macos",
           "title": "Allianz Travel Insurance",
           "note": "travel.allianz.com.au"
@@ -103004,7 +103149,7 @@
         {
           "start": "13:15",
           "end": "13:18",
-          "cat": "personal",
+          "cat": "admin",
           "src": "macos",
           "title": "Allianz Travel Insurance",
           "note": "travel.allianz.com.au"
@@ -103038,7 +103183,7 @@
           "end": "13:42",
           "cat": "admin",
           "src": "macos",
-          "title": "Inbox (3,359) - ada.ren.cn@gmail.com - Gmail",
+          "title": "Inbox (3,380) - ada.ren.cn@gmail.com - Gmail",
           "note": "mail.google.com"
         },
         {
@@ -103235,22 +103380,94 @@
         },
         {
           "start": "18:38",
-          "end": "18:40",
+          "end": "18:48",
           "cat": "coding",
           "src": "macos",
           "title": "y=e^x | Desmos",
           "note": "desmos.com"
+        },
+        {
+          "start": "18:50",
+          "end": "18:52",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Scaling AI Safety for a Multi-Agent World - Schmidt Sciences",
+          "note": "schmidtsciences.smapply.io"
+        },
+        {
+          "start": "18:55",
+          "end": "19:01",
+          "cat": "research",
+          "src": "macos",
+          "title": "Which Agent Causes Task Failures and When? On Automated Fail",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "19:01",
+          "end": "19:02",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Upload job",
+          "note": "iprint.mq.edu.au:9443"
+        },
+        {
+          "start": "19:02",
+          "end": "19:04",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Dashboard",
+          "note": "iprint.mq.edu.au:9443"
+        },
+        {
+          "start": "20:29",
+          "end": "20:30",
+          "cat": "research",
+          "src": "macos",
+          "title": "[2601.09923] CaMeLs Can Use Computers Too: System-level Secu",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "20:37",
+          "end": "20:39",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Schengen Visa Italian Consulate of Sydney Experience : r/Sch",
+          "note": "reddit.com"
+        },
+        {
+          "start": "20:40",
+          "end": "20:41",
+          "cat": "admin",
+          "src": "macos",
+          "title": "sydney italy schengen visa where to submit documents - Googl",
+          "note": "google.com"
+        },
+        {
+          "start": "20:58",
+          "end": "21:00",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Regulation (EU) 2023/2667 of the European Parliament and of ",
+          "note": "file:///Users/ada/Documents/%E4%BA%94%E5"
+        },
+        {
+          "start": "21:00",
+          "end": "21:05",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
         }
       ],
-      "logged": 264,
-      "real": 129,
-      "deep": 129,
-      "ratio": 0.4910002031281983,
+      "logged": 295,
+      "real": 151,
+      "deep": 151,
+      "ratio": 0.5108883167017059,
       "stats": {
-        "contextSwitches": 32,
+        "contextSwitches": 39,
         "tabsOpened": 0,
         "longestFocus": "47m",
-        "justOneMoreThing": 2
+        "justOneMoreThing": 4
       }
     },
     {
@@ -103260,34 +103477,50 @@
       "weekend": false,
       "dateShort": "Thu, Nov 5",
       "dateLong": "Thursday, November 5",
-      "dayStart": "09:00",
-      "dayEnd": "10:05",
+      "dayStart": "07:52",
+      "dayEnd": "10:02",
       "events": [
         {
-          "start": "09:00",
-          "end": "09:20",
-          "cat": "meeting",
-          "src": "chrome",
-          "title": "Join from Zoom Workplace app - Zoom",
-          "note": "aus01.safelinks.protection.outlook.com"
+          "start": "07:52",
+          "end": "07:56",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
         },
         {
-          "start": "10:00",
-          "end": "10:05",
-          "cat": "writing",
-          "src": "local",
-          "title": "2026-11-05-openai-to-acquire-pierre.md",
-          "note": "4 hits"
+          "start": "09:00",
+          "end": "09:39",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "xos",
+          "note": "us.zoom.xos"
+        },
+        {
+          "start": "09:43",
+          "end": "09:48",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "xos",
+          "note": "us.zoom.xos"
+        },
+        {
+          "start": "09:55",
+          "end": "10:02",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "xos",
+          "note": "us.zoom.xos"
         }
       ],
-      "logged": 25,
-      "real": 25,
-      "deep": 25,
-      "ratio": 1.0,
+      "logged": 56,
+      "real": 52,
+      "deep": 52,
+      "ratio": 0.9283154121863799,
       "stats": {
         "contextSwitches": 1,
-        "tabsOpened": 3,
-        "longestFocus": "25m",
+        "tabsOpened": 0,
+        "longestFocus": "52m",
         "justOneMoreThing": 0
       }
     },
@@ -103298,18 +103531,75 @@
       "weekend": false,
       "dateShort": "Fri, Nov 6",
       "dateLong": "Friday, November 6",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "09:38",
+      "dayEnd": "10:22",
+      "events": [
+        {
+          "start": "09:38",
+          "end": "09:41",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "cultural hegemony meaning - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "09:41",
+          "end": "09:43",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "(17) GPT-Image-2.6: Faster image generation with Flare and S",
+          "note": "youtube.com"
+        },
+        {
+          "start": "09:44",
+          "end": "10:04",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Log on to NetBank - Commonwealth Bank",
+          "note": "commbank.com.au"
+        },
+        {
+          "start": "10:04",
+          "end": "10:09",
+          "cat": "writing",
+          "src": "chrome",
+          "title": "Sydney AI Meetup 2026 — Attendee Registration",
+          "note": "url.au.m.mimecastprotect.com"
+        },
+        {
+          "start": "10:09",
+          "end": "10:10",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Preview question: Project descriptions: identify learning ty",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "10:10",
+          "end": "10:13",
+          "cat": "research",
+          "src": "chrome",
+          "title": "How a PhD Can Survive? | Ada's Notes",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "10:13",
+          "end": "10:22",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Preview question: Project descriptions: identify learning ty",
+          "note": "ilearn.mq.edu.au"
+        }
+      ],
+      "logged": 43,
+      "real": 8,
+      "deep": 8,
+      "ratio": 0.18523010721089878,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "0m",
-        "justOneMoreThing": 0
+        "contextSwitches": 6,
+        "tabsOpened": 21,
+        "longestFocus": "5m",
+        "justOneMoreThing": 1
       }
     },
     {
