@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-11-07T10:20:16+11:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-11-08T10:24:15+11:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -101731,7 +101731,7 @@
           {
             "start": "15:23",
             "end": "15:26",
-            "cat": "personal",
+            "cat": "research",
             "src": "macos",
             "title": "Principal component analysis: a review and recent developmen",
             "note": "pmc.ncbi.nlm.nih.gov"
@@ -101962,9 +101962,9 @@
           }
         ],
         "logged": 238,
-        "real": 50,
-        "deep": 50,
-        "ratio": 0.21056551439093624,
+        "real": 53,
+        "deep": 53,
+        "ratio": 0.22282952786660407,
         "stats": {
           "contextSwitches": 26,
           "tabsOpened": 0,
@@ -101980,7 +101980,7 @@
         "dateShort": "Sat, Nov 7",
         "dateLong": "Saturday, November 7",
         "dayStart": "10:03",
-        "dayEnd": "10:12",
+        "dayEnd": "13:46",
         "events": [
           {
             "start": "10:03",
@@ -101997,17 +101997,137 @@
             "src": "macos",
             "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
             "note": "sport.mq.edu.au"
+          },
+          {
+            "start": "10:12",
+            "end": "10:33",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "10:34",
+            "end": "10:48",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "10:51",
+            "end": "10:53",
+            "cat": "admin",
+            "src": "macos",
+            "title": "GAIA - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "10:57",
+            "end": "11:03",
+            "cat": "research",
+            "src": "macos",
+            "title": "gaia-benchmark/GAIA · Data Studio · Datasets at Hugging Face",
+            "note": "huggingface.co"
+          },
+          {
+            "start": "11:04",
+            "end": "11:07",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Bills and payments - Origin Energy",
+            "note": "originenergy.com.au"
+          },
+          {
+            "start": "11:08",
+            "end": "11:11",
+            "cat": "coding",
+            "src": "macos",
+            "title": "GitHub - mingyin1/Agents_Failure_Attribution: Benchmark for ",
+            "note": "github.com"
+          },
+          {
+            "start": "11:12",
+            "end": "11:20",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "11:23",
+            "end": "11:47",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "11:49",
+            "end": "11:52",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Agents - Google Slides",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "11:52",
+            "end": "11:55",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Agents - Google Slides",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "11:56",
+            "end": "12:03",
+            "cat": "research",
+            "src": "macos",
+            "title": "Sydney, New South Wales | The Bureau of Meteorology",
+            "note": "bom.gov.au"
+          },
+          {
+            "start": "13:04",
+            "end": "13:09",
+            "cat": "research",
+            "src": "macos",
+            "title": "Sydney, New South Wales | The Bureau of Meteorology",
+            "note": "bom.gov.au"
+          },
+          {
+            "start": "13:13",
+            "end": "13:20",
+            "cat": "research",
+            "src": "macos",
+            "title": "Sydney, New South Wales | The Bureau of Meteorology",
+            "note": "bom.gov.au"
+          },
+          {
+            "start": "13:24",
+            "end": "13:29",
+            "cat": "research",
+            "src": "macos",
+            "title": "Sydney, New South Wales | The Bureau of Meteorology",
+            "note": "bom.gov.au"
+          },
+          {
+            "start": "13:41",
+            "end": "13:46",
+            "cat": "research",
+            "src": "macos",
+            "title": "Sydney, New South Wales | The Bureau of Meteorology",
+            "note": "bom.gov.au"
           }
         ],
-        "logged": 6,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0.0,
+        "logged": 121,
+        "real": 103,
+        "deep": 103,
+        "ratio": 0.8471850382078026,
         "stats": {
-          "contextSwitches": 0,
+          "contextSwitches": 9,
           "tabsOpened": 0,
-          "longestFocus": "0m",
-          "justOneMoreThing": 0
+          "longestFocus": "58m",
+          "justOneMoreThing": 3
         }
       },
       {
@@ -104418,7 +104538,7 @@
         {
           "start": "15:23",
           "end": "15:26",
-          "cat": "personal",
+          "cat": "research",
           "src": "macos",
           "title": "Principal component analysis: a review and recent developmen",
           "note": "pmc.ncbi.nlm.nih.gov"
@@ -104649,9 +104769,9 @@
         }
       ],
       "logged": 238,
-      "real": 50,
-      "deep": 50,
-      "ratio": 0.21056551439093624,
+      "real": 53,
+      "deep": 53,
+      "ratio": 0.22282952786660407,
       "stats": {
         "contextSwitches": 26,
         "tabsOpened": 0,
@@ -104667,7 +104787,7 @@
       "dateShort": "Sat, Nov 7",
       "dateLong": "Saturday, November 7",
       "dayStart": "10:03",
-      "dayEnd": "10:12",
+      "dayEnd": "13:46",
       "events": [
         {
           "start": "10:03",
@@ -104684,17 +104804,137 @@
           "src": "macos",
           "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
           "note": "sport.mq.edu.au"
+        },
+        {
+          "start": "10:12",
+          "end": "10:33",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "10:34",
+          "end": "10:48",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "10:51",
+          "end": "10:53",
+          "cat": "admin",
+          "src": "macos",
+          "title": "GAIA - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "10:57",
+          "end": "11:03",
+          "cat": "research",
+          "src": "macos",
+          "title": "gaia-benchmark/GAIA · Data Studio · Datasets at Hugging Face",
+          "note": "huggingface.co"
+        },
+        {
+          "start": "11:04",
+          "end": "11:07",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Bills and payments - Origin Energy",
+          "note": "originenergy.com.au"
+        },
+        {
+          "start": "11:08",
+          "end": "11:11",
+          "cat": "coding",
+          "src": "macos",
+          "title": "GitHub - mingyin1/Agents_Failure_Attribution: Benchmark for ",
+          "note": "github.com"
+        },
+        {
+          "start": "11:12",
+          "end": "11:20",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "11:23",
+          "end": "11:47",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "11:49",
+          "end": "11:52",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Agents - Google Slides",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "11:52",
+          "end": "11:55",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Agents - Google Slides",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "11:56",
+          "end": "12:03",
+          "cat": "research",
+          "src": "macos",
+          "title": "Sydney, New South Wales | The Bureau of Meteorology",
+          "note": "bom.gov.au"
+        },
+        {
+          "start": "13:04",
+          "end": "13:09",
+          "cat": "research",
+          "src": "macos",
+          "title": "Sydney, New South Wales | The Bureau of Meteorology",
+          "note": "bom.gov.au"
+        },
+        {
+          "start": "13:13",
+          "end": "13:20",
+          "cat": "research",
+          "src": "macos",
+          "title": "Sydney, New South Wales | The Bureau of Meteorology",
+          "note": "bom.gov.au"
+        },
+        {
+          "start": "13:24",
+          "end": "13:29",
+          "cat": "research",
+          "src": "macos",
+          "title": "Sydney, New South Wales | The Bureau of Meteorology",
+          "note": "bom.gov.au"
+        },
+        {
+          "start": "13:41",
+          "end": "13:46",
+          "cat": "research",
+          "src": "macos",
+          "title": "Sydney, New South Wales | The Bureau of Meteorology",
+          "note": "bom.gov.au"
         }
       ],
-      "logged": 6,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0.0,
+      "logged": 121,
+      "real": 103,
+      "deep": 103,
+      "ratio": 0.8471850382078026,
       "stats": {
-        "contextSwitches": 0,
+        "contextSwitches": 9,
         "tabsOpened": 0,
-        "longestFocus": "0m",
-        "justOneMoreThing": 0
+        "longestFocus": "58m",
+        "justOneMoreThing": 3
       }
     },
     {
