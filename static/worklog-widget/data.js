@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-11-08T10:24:15+11:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-11-09T10:20:13+11:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -101375,760 +101375,760 @@
         "weekend": false
       },
       {
-        "key": "2026-11-6",
-        "dayNum": 6,
-        "dow": 5,
-        "weekend": false,
-        "dateShort": "Fri, Nov 6",
         "dateLong": "Friday, November 6",
-        "dayStart": "09:36",
+        "dateShort": "Fri, Nov 6",
         "dayEnd": "19:50",
+        "dayNum": 6,
+        "dayStart": "09:36",
+        "deep": 53,
+        "dow": 5,
         "events": [
           {
-            "start": "09:36",
+            "cat": "admin",
             "end": "09:41",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "09:36",
+            "title": "Outlook"
           },
           {
-            "start": "09:41",
-            "end": "09:43",
             "cat": "personal",
+            "end": "09:43",
+            "note": "youtube.com",
             "src": "macos",
-            "title": "(17) GPT-Image-2.6: Faster image generation with Flare and S",
-            "note": "youtube.com"
+            "start": "09:41",
+            "title": "(17) GPT-Image-2.6: Faster image generation with Flare and S"
           },
           {
-            "start": "09:44",
+            "cat": "writing",
             "end": "09:47",
-            "cat": "writing",
+            "note": "file:///Users/ada/Documents/%E4%BA%94%E5",
             "src": "macos",
-            "title": "OMNI",
-            "note": "file:///Users/ada/Documents/%E4%BA%94%E5"
+            "start": "09:44",
+            "title": "OMNI"
           },
           {
-            "start": "09:48",
+            "cat": "admin",
             "end": "09:50",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "09:48",
+            "title": "Outlook"
           },
           {
-            "start": "09:52",
+            "cat": "admin",
             "end": "09:57",
-            "cat": "admin",
+            "note": "sport.mq.edu.au",
             "src": "macos",
-            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
-            "note": "sport.mq.edu.au"
+            "start": "09:52",
+            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni"
           },
           {
-            "start": "09:58",
+            "cat": "admin",
             "end": "10:09",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Preview question: Project descriptions: identify learning ty",
-            "note": "ilearn.mq.edu.au"
+            "start": "09:58",
+            "title": "Preview question: Project descriptions: identify learning ty"
           },
           {
-            "start": "10:10",
+            "cat": "research",
             "end": "10:11",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "macos",
-            "title": "How a PhD Can Survive? | Ada's Notes",
-            "note": "adaren100.github.io"
+            "start": "10:10",
+            "title": "How a PhD Can Survive? | Ada's Notes"
           },
           {
-            "start": "10:11",
+            "cat": "research",
             "end": "10:13",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "macos",
-            "title": "Posts | Ada's Notes",
-            "note": "adaren100.github.io"
+            "start": "10:11",
+            "title": "Posts | Ada's Notes"
           },
           {
-            "start": "10:20",
+            "cat": "admin",
             "end": "10:23",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Editing a Multiple choice question | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "10:20",
+            "title": "Editing a Multiple choice question | iLearn"
           },
           {
-            "start": "10:24",
+            "cat": "admin",
             "end": "10:25",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Preview question: Money to the cent: modeling choice | iLear",
-            "note": "ilearn.mq.edu.au"
+            "start": "10:24",
+            "title": "Preview question: Money to the cent: modeling choice | iLear"
           },
           {
-            "start": "10:25",
+            "cat": "admin",
             "end": "10:28",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Preview question: Only categorical nominal bundle | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "10:25",
+            "title": "Preview question: Only categorical nominal bundle | iLearn"
           },
           {
-            "start": "10:33",
+            "cat": "admin",
             "end": "10:34",
-            "cat": "admin",
+            "note": "content.ilearn.mq.edu.au",
             "src": "macos",
-            "title": "week1_combined.pdf",
-            "note": "content.ilearn.mq.edu.au"
+            "start": "10:33",
+            "title": "week1_combined.pdf"
           },
           {
-            "start": "10:36",
+            "cat": "admin",
             "end": "10:37",
-            "cat": "admin",
+            "note": "content.ilearn.mq.edu.au",
             "src": "macos",
-            "title": "COMP2200: Week 2",
-            "note": "content.ilearn.mq.edu.au"
+            "start": "10:36",
+            "title": "COMP2200: Week 2"
           },
           {
-            "start": "10:38",
+            "cat": "admin",
             "end": "10:40",
-            "cat": "admin",
+            "note": "content.ilearn.mq.edu.au",
             "src": "macos",
-            "title": "COMP2200: Week 3",
-            "note": "content.ilearn.mq.edu.au"
+            "start": "10:38",
+            "title": "COMP2200: Week 3"
           },
           {
-            "start": "10:44",
+            "cat": "admin",
             "end": "10:48",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Preview question: Choose model and metric: TF-IDF sentiment ",
-            "note": "ilearn.mq.edu.au"
+            "start": "10:44",
+            "title": "Preview question: Choose model and metric: TF-IDF sentiment "
           },
           {
-            "start": "10:55",
+            "cat": "admin",
             "end": "11:09",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Preview question: Cross-validation and StandardScaler | iLea",
-            "note": "ilearn.mq.edu.au"
+            "start": "10:55",
+            "title": "Preview question: Cross-validation and StandardScaler | iLea"
           },
           {
-            "start": "11:13",
+            "cat": "admin",
             "end": "11:19",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Edit questions | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "11:13",
+            "title": "Edit questions | iLearn"
           },
           {
-            "start": "11:19",
+            "cat": "admin",
             "end": "11:21",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Edit questions | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "11:19",
+            "title": "Edit questions | iLearn"
           },
           {
-            "start": "11:24",
+            "cat": "admin",
             "end": "11:33",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Preview question: 5-fold CV usage count | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "11:24",
+            "title": "Preview question: 5-fold CV usage count | iLearn"
           },
           {
-            "start": "11:34",
+            "cat": "admin",
             "end": "11:36",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Edit questions | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "11:34",
+            "title": "Edit questions | iLearn"
           },
           {
-            "start": "11:43",
+            "cat": "admin",
             "end": "11:45",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Preview question: CLT: core statement 1 | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "11:43",
+            "title": "Preview question: CLT: core statement 1 | iLearn"
           },
           {
-            "start": "11:46",
+            "cat": "admin",
             "end": "11:48",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Edit questions | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "11:46",
+            "title": "Edit questions | iLearn"
           },
           {
-            "start": "11:53",
+            "cat": "admin",
             "end": "11:55",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Edit questions | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "11:53",
+            "title": "Edit questions | iLearn"
           },
           {
-            "start": "12:07",
+            "cat": "admin",
             "end": "12:12",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Preview question: Visualisation V5: Library for least-square",
-            "note": "ilearn.mq.edu.au"
+            "start": "12:07",
+            "title": "Preview question: Visualisation V5: Library for least-square"
           },
           {
-            "start": "13:06",
+            "cat": "admin",
             "end": "13:13",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Preview question: Visualisation V5: Library for least-square",
-            "note": "ilearn.mq.edu.au"
+            "start": "13:06",
+            "title": "Preview question: Visualisation V5: Library for least-square"
           },
           {
-            "start": "13:18",
+            "cat": "admin",
             "end": "13:22",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Preview question: concept 5 | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "13:18",
+            "title": "Preview question: concept 5 | iLearn"
           },
           {
-            "start": "13:23",
+            "cat": "admin",
             "end": "13:28",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "13:23",
+            "title": "Outlook"
           },
           {
-            "start": "13:28",
+            "cat": "meeting",
             "end": "13:34",
-            "cat": "meeting",
+            "note": "com.microsoft.teams2",
             "src": "macos",
-            "title": "teams2",
-            "note": "com.microsoft.teams2"
+            "start": "13:28",
+            "title": "teams2"
           },
           {
-            "start": "13:34",
+            "cat": "admin",
             "end": "13:35",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "13:34",
+            "title": "Outlook"
           },
           {
-            "start": "13:37",
+            "cat": "coding",
             "end": "13:48",
-            "cat": "coding",
+            "note": "apps.powerapps.com",
             "src": "macos",
-            "title": "FSE Teaching Associate EOI - Power Apps",
-            "note": "apps.powerapps.com"
+            "start": "13:37",
+            "title": "FSE Teaching Associate EOI - Power Apps"
           },
           {
-            "start": "13:53",
+            "cat": "meeting",
             "end": "13:56",
-            "cat": "meeting",
+            "note": "com.microsoft.teams2",
             "src": "macos",
-            "title": "teams2",
-            "note": "com.microsoft.teams2"
+            "start": "13:53",
+            "title": "teams2"
           },
           {
-            "start": "13:56",
+            "cat": "admin",
             "end": "14:03",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "13:56",
+            "title": "Outlook"
           },
           {
-            "start": "14:04",
+            "cat": "admin",
             "end": "14:11",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "14:04",
+            "title": "Outlook"
           },
           {
-            "start": "14:12",
+            "cat": "admin",
             "end": "14:21",
-            "cat": "admin",
+            "note": "content.ilearn.mq.edu.au",
             "src": "macos",
-            "title": "COMP2200/COMP6200 MQ Slides Template",
-            "note": "content.ilearn.mq.edu.au"
+            "start": "14:12",
+            "title": "COMP2200/COMP6200 MQ Slides Template"
           },
           {
-            "start": "14:21",
+            "cat": "admin",
             "end": "14:23",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Preview question: concept 7 | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "14:21",
+            "title": "Preview question: concept 7 | iLearn"
           },
           {
-            "start": "14:27",
+            "cat": "admin",
             "end": "14:29",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Edit questions | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "14:27",
+            "title": "Edit questions | iLearn"
           },
           {
-            "start": "14:33",
+            "cat": "admin",
             "end": "14:35",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Preview question: centroid_7 | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "14:33",
+            "title": "Preview question: centroid_7 | iLearn"
           },
           {
-            "start": "14:50",
+            "cat": "admin",
             "end": "14:53",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Preview question: KNN-Q6 — 3NN (Manhattan) | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "14:50",
+            "title": "Preview question: KNN-Q6 — 3NN (Manhattan) | iLearn"
           },
           {
-            "start": "14:54",
+            "cat": "admin",
             "end": "14:55",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Edit questions | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "14:54",
+            "title": "Edit questions | iLearn"
           },
           {
-            "start": "14:58",
+            "cat": "admin",
             "end": "15:00",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Preview question: KNN-Q6 — 3NN (Manhattan) | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "14:58",
+            "title": "Preview question: KNN-Q6 — 3NN (Manhattan) | iLearn"
           },
           {
-            "start": "15:01",
+            "cat": "admin",
             "end": "15:03",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Preview question: PCA Statements-3 | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "15:01",
+            "title": "Preview question: PCA Statements-3 | iLearn"
           },
           {
-            "start": "15:04",
+            "cat": "admin",
             "end": "15:18",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Edit questions | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "15:04",
+            "title": "Edit questions | iLearn"
           },
           {
-            "start": "15:22",
+            "cat": "admin",
             "end": "15:23",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Preview question: PCA Statements-3 | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "15:22",
+            "title": "Preview question: PCA Statements-3 | iLearn"
           },
           {
-            "start": "15:23",
-            "end": "15:26",
             "cat": "research",
+            "end": "15:26",
+            "note": "pmc.ncbi.nlm.nih.gov",
             "src": "macos",
-            "title": "Principal component analysis: a review and recent developmen",
-            "note": "pmc.ncbi.nlm.nih.gov"
+            "start": "15:23",
+            "title": "Principal component analysis: a review and recent developmen"
           },
           {
-            "start": "15:28",
+            "cat": "admin",
             "end": "15:29",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Edit questions | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "15:28",
+            "title": "Edit questions | iLearn"
           },
           {
-            "start": "15:31",
+            "cat": "admin",
             "end": "15:33",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Preview question: calculate stats 6 | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "15:31",
+            "title": "Preview question: calculate stats 6 | iLearn"
           },
           {
-            "start": "15:41",
+            "cat": "coding",
             "end": "15:42",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "Untitled0.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "15:41",
+            "title": "Untitled0.ipynb - Colab"
           },
           {
-            "start": "15:46",
+            "cat": "coding",
             "end": "15:47",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "Untitled0.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "15:46",
+            "title": "Untitled0.ipynb - Colab"
           },
           {
-            "start": "15:54",
+            "cat": "coding",
             "end": "15:56",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "Untitled0.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "15:54",
+            "title": "Untitled0.ipynb - Colab"
           },
           {
-            "start": "15:56",
+            "cat": "coding",
             "end": "15:58",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "Untitled0.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "15:56",
+            "title": "Untitled0.ipynb - Colab"
           },
           {
-            "start": "15:59",
+            "cat": "coding",
             "end": "16:00",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "Untitled0.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "15:59",
+            "title": "Untitled0.ipynb - Colab"
           },
           {
-            "start": "16:01",
+            "cat": "coding",
             "end": "16:02",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "Untitled0.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "16:01",
+            "title": "Untitled0.ipynb - Colab"
           },
           {
-            "start": "16:03",
+            "cat": "admin",
             "end": "16:05",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Questions about the F",
-            "note": "ilearn.mq.edu.au"
+            "start": "16:03",
+            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Questions about the F"
           },
           {
-            "start": "16:05",
+            "cat": "coding",
             "end": "16:07",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "Untitled0.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "16:05",
+            "title": "Untitled0.ipynb - Colab"
           },
           {
-            "start": "16:12",
+            "cat": "admin",
             "end": "16:13",
-            "cat": "admin",
+            "note": "content.ilearn.mq.edu.au",
             "src": "macos",
-            "title": "COMP2200/COMP6200 MQ Slides Template",
-            "note": "content.ilearn.mq.edu.au"
+            "start": "16:12",
+            "title": "COMP2200/COMP6200 MQ Slides Template"
           },
           {
-            "start": "16:13",
+            "cat": "coding",
             "end": "16:14",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "Untitled0.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "16:13",
+            "title": "Untitled0.ipynb - Colab"
           },
           {
-            "start": "16:15",
+            "cat": "coding",
             "end": "16:17",
-            "cat": "coding",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "Untitled0.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "16:15",
+            "title": "Untitled0.ipynb - Colab"
           },
           {
-            "start": "16:17",
+            "cat": "admin",
             "end": "16:20",
-            "cat": "admin",
+            "note": "content.ilearn.mq.edu.au",
             "src": "macos",
-            "title": "COMP2200/COMP6200 MQ Slides Template",
-            "note": "content.ilearn.mq.edu.au"
+            "start": "16:17",
+            "title": "COMP2200/COMP6200 MQ Slides Template"
           },
           {
-            "start": "16:23",
+            "cat": "admin",
             "end": "16:26",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Editing quiz: Final Exam | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "16:23",
+            "title": "Editing quiz: Final Exam | iLearn"
           },
           {
-            "start": "16:28",
+            "cat": "admin",
             "end": "16:31",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Preview question: Supervised learning - RF 4 | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "16:28",
+            "title": "Preview question: Supervised learning - RF 4 | iLearn"
           },
           {
-            "start": "16:33",
+            "cat": "admin",
             "end": "16:37",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Preview question: Supervised learning - KNN | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "16:33",
+            "title": "Preview question: Supervised learning - KNN | iLearn"
           },
           {
-            "start": "16:37",
-            "end": "16:40",
             "cat": "writing",
+            "end": "16:40",
+            "note": "excalidraw.com",
             "src": "macos",
-            "title": "Excalidraw Whiteboard",
-            "note": "excalidraw.com"
+            "start": "16:37",
+            "title": "Excalidraw Whiteboard"
           },
           {
-            "start": "16:45",
-            "end": "16:47",
             "cat": "coding",
+            "end": "16:47",
+            "note": "colab.research.google.com",
             "src": "macos",
-            "title": "Untitled0.ipynb - Colab",
-            "note": "colab.research.google.com"
+            "start": "16:45",
+            "title": "Untitled0.ipynb - Colab"
           },
           {
-            "start": "16:48",
+            "cat": "meeting",
             "end": "16:51",
-            "cat": "meeting",
+            "note": "com.microsoft.teams2",
             "src": "macos",
-            "title": "teams2",
-            "note": "com.microsoft.teams2"
+            "start": "16:48",
+            "title": "teams2"
           },
           {
-            "start": "16:51",
+            "cat": "admin",
             "end": "16:53",
-            "cat": "admin",
+            "note": "content.ilearn.mq.edu.au",
             "src": "macos",
-            "title": "COMP2200/COMP6200 MQ Slides Template",
-            "note": "content.ilearn.mq.edu.au"
+            "start": "16:51",
+            "title": "COMP2200/COMP6200 MQ Slides Template"
           },
           {
-            "start": "16:53",
+            "cat": "meeting",
             "end": "16:54",
-            "cat": "meeting",
+            "note": "com.microsoft.teams2",
             "src": "macos",
-            "title": "teams2",
-            "note": "com.microsoft.teams2"
+            "start": "16:53",
+            "title": "teams2"
           },
           {
-            "start": "16:54",
+            "cat": "admin",
             "end": "16:55",
-            "cat": "admin",
+            "note": "content.ilearn.mq.edu.au",
             "src": "macos",
-            "title": "COMP2200/COMP6200 MQ Slides Template",
-            "note": "content.ilearn.mq.edu.au"
+            "start": "16:54",
+            "title": "COMP2200/COMP6200 MQ Slides Template"
           },
           {
-            "start": "19:20",
-            "end": "19:23",
             "cat": "meeting",
+            "end": "19:23",
+            "note": "com.microsoft.teams2",
             "src": "macos",
-            "title": "teams2",
-            "note": "com.microsoft.teams2"
+            "start": "19:20",
+            "title": "teams2"
           },
           {
-            "start": "19:36",
+            "cat": "admin",
             "end": "19:38",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "19:36",
+            "title": "Outlook"
           },
           {
-            "start": "19:38",
+            "cat": "admin",
             "end": "19:40",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Editing quiz: Final Exam | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "19:38",
+            "title": "Editing quiz: Final Exam | iLearn"
           },
           {
-            "start": "19:40",
+            "cat": "admin",
             "end": "19:44",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "19:40",
+            "title": "Outlook"
           },
           {
-            "start": "19:46",
-            "end": "19:50",
             "cat": "admin",
+            "end": "19:50",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "19:46",
+            "title": "Outlook"
           }
         ],
+        "key": "2026-11-6",
         "logged": 238,
-        "real": 53,
-        "deep": 53,
         "ratio": 0.22282952786660407,
+        "real": 53,
         "stats": {
           "contextSwitches": 26,
-          "tabsOpened": 0,
+          "justOneMoreThing": 5,
           "longestFocus": "14m",
-          "justOneMoreThing": 5
-        }
+          "tabsOpened": 0
+        },
+        "weekend": false
       },
       {
-        "key": "2026-11-7",
-        "dayNum": 7,
-        "dow": 6,
-        "weekend": true,
-        "dateShort": "Sat, Nov 7",
         "dateLong": "Saturday, November 7",
-        "dayStart": "10:03",
+        "dateShort": "Sat, Nov 7",
         "dayEnd": "13:46",
+        "dayNum": 7,
+        "dayStart": "10:03",
+        "deep": 103,
+        "dow": 6,
         "events": [
           {
-            "start": "10:03",
+            "cat": "admin",
             "end": "10:04",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "10:03",
+            "title": "Outlook"
           },
           {
-            "start": "10:07",
+            "cat": "admin",
             "end": "10:12",
-            "cat": "admin",
+            "note": "sport.mq.edu.au",
             "src": "macos",
-            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
-            "note": "sport.mq.edu.au"
+            "start": "10:07",
+            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni"
           },
           {
-            "start": "10:12",
+            "cat": "research",
             "end": "10:33",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "10:12",
+            "title": "zotero"
           },
           {
-            "start": "10:34",
+            "cat": "research",
             "end": "10:48",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "10:34",
+            "title": "zotero"
           },
           {
-            "start": "10:51",
+            "cat": "admin",
             "end": "10:53",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "GAIA - Google Search",
-            "note": "google.com"
+            "start": "10:51",
+            "title": "GAIA - Google Search"
           },
           {
-            "start": "10:57",
+            "cat": "research",
             "end": "11:03",
-            "cat": "research",
+            "note": "huggingface.co",
             "src": "macos",
-            "title": "gaia-benchmark/GAIA · Data Studio · Datasets at Hugging Face",
-            "note": "huggingface.co"
+            "start": "10:57",
+            "title": "gaia-benchmark/GAIA · Data Studio · Datasets at Hugging Face"
           },
           {
-            "start": "11:04",
+            "cat": "admin",
             "end": "11:07",
-            "cat": "admin",
+            "note": "originenergy.com.au",
             "src": "macos",
-            "title": "Bills and payments - Origin Energy",
-            "note": "originenergy.com.au"
+            "start": "11:04",
+            "title": "Bills and payments - Origin Energy"
           },
           {
-            "start": "11:08",
-            "end": "11:11",
             "cat": "coding",
+            "end": "11:11",
+            "note": "github.com",
             "src": "macos",
-            "title": "GitHub - mingyin1/Agents_Failure_Attribution: Benchmark for ",
-            "note": "github.com"
+            "start": "11:08",
+            "title": "GitHub - mingyin1/Agents_Failure_Attribution: Benchmark for "
           },
           {
-            "start": "11:12",
-            "end": "11:20",
             "cat": "admin",
+            "end": "11:20",
+            "note": "translate.google.com",
             "src": "macos",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "11:12",
+            "title": "Google Translate"
           },
           {
-            "start": "11:23",
+            "cat": "research",
             "end": "11:47",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "11:23",
+            "title": "zotero"
           },
           {
-            "start": "11:49",
+            "cat": "writing",
             "end": "11:52",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Agents - Google Slides",
-            "note": "docs.google.com"
+            "start": "11:49",
+            "title": "Agents - Google Slides"
           },
           {
-            "start": "11:52",
+            "cat": "writing",
             "end": "11:55",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Agents - Google Slides",
-            "note": "docs.google.com"
+            "start": "11:52",
+            "title": "Agents - Google Slides"
           },
           {
-            "start": "11:56",
+            "cat": "research",
             "end": "12:03",
-            "cat": "research",
+            "note": "bom.gov.au",
             "src": "macos",
-            "title": "Sydney, New South Wales | The Bureau of Meteorology",
-            "note": "bom.gov.au"
+            "start": "11:56",
+            "title": "Sydney, New South Wales | The Bureau of Meteorology"
           },
           {
-            "start": "13:04",
+            "cat": "research",
             "end": "13:09",
-            "cat": "research",
+            "note": "bom.gov.au",
             "src": "macos",
-            "title": "Sydney, New South Wales | The Bureau of Meteorology",
-            "note": "bom.gov.au"
+            "start": "13:04",
+            "title": "Sydney, New South Wales | The Bureau of Meteorology"
           },
           {
-            "start": "13:13",
+            "cat": "research",
             "end": "13:20",
-            "cat": "research",
+            "note": "bom.gov.au",
             "src": "macos",
-            "title": "Sydney, New South Wales | The Bureau of Meteorology",
-            "note": "bom.gov.au"
+            "start": "13:13",
+            "title": "Sydney, New South Wales | The Bureau of Meteorology"
           },
           {
-            "start": "13:24",
+            "cat": "research",
             "end": "13:29",
-            "cat": "research",
+            "note": "bom.gov.au",
             "src": "macos",
-            "title": "Sydney, New South Wales | The Bureau of Meteorology",
-            "note": "bom.gov.au"
+            "start": "13:24",
+            "title": "Sydney, New South Wales | The Bureau of Meteorology"
           },
           {
-            "start": "13:41",
-            "end": "13:46",
             "cat": "research",
+            "end": "13:46",
+            "note": "bom.gov.au",
             "src": "macos",
-            "title": "Sydney, New South Wales | The Bureau of Meteorology",
-            "note": "bom.gov.au"
+            "start": "13:41",
+            "title": "Sydney, New South Wales | The Bureau of Meteorology"
           }
         ],
+        "key": "2026-11-7",
         "logged": 121,
-        "real": 103,
-        "deep": 103,
         "ratio": 0.8471850382078026,
+        "real": 103,
         "stats": {
           "contextSwitches": 9,
-          "tabsOpened": 0,
+          "justOneMoreThing": 3,
           "longestFocus": "58m",
-          "justOneMoreThing": 3
-        }
+          "tabsOpened": 0
+        },
+        "weekend": true
       },
       {
         "key": "2026-11-8",
@@ -102137,18 +102137,75 @@
         "weekend": true,
         "dateShort": "Sun, Nov 8",
         "dateLong": "Sunday, November 8",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "10:25",
+        "dayEnd": "11:57",
+        "events": [
+          {
+            "start": "10:25",
+            "end": "10:32",
+            "cat": "admin",
+            "src": "macos",
+            "title": "chatswood street market opening hours - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "10:32",
+            "end": "10:37",
+            "cat": "research",
+            "src": "macos",
+            "title": "MI9: An Integrated Runtime Governance Framework for Agentic ",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "10:37",
+            "end": "10:40",
+            "cat": "admin",
+            "src": "macos",
+            "title": "barclays - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "10:40",
+            "end": "10:49",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "11:00",
+            "end": "11:02",
+            "cat": "research",
+            "src": "macos",
+            "title": "Juan Ren | OpenReview",
+            "note": "openreview.net"
+          },
+          {
+            "start": "11:02",
+            "end": "11:05",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "11:05",
+            "end": "11:57",
+            "cat": "research",
+            "src": "macos",
+            "title": "Juan Ren | OpenReview",
+            "note": "openreview.net"
+          }
+        ],
+        "logged": 81,
+        "real": 70,
+        "deep": 70,
+        "ratio": 0.8724825231553373,
         "stats": {
-          "contextSwitches": 0,
+          "contextSwitches": 3,
           "tabsOpened": 0,
-          "longestFocus": "0m",
-          "justOneMoreThing": 0
+          "longestFocus": "1h 6m",
+          "justOneMoreThing": 1
         }
       },
       {
@@ -102158,16 +102215,25 @@
         "weekend": false,
         "dateShort": "Mon, Nov 9",
         "dateLong": "Monday, November 9",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
+        "dayStart": "10:03",
+        "dayEnd": "10:31",
+        "events": [
+          {
+            "start": "10:03",
+            "end": "10:31",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Workday mq - Sign in to Workday",
+            "note": "wd3.myworkday.com"
+          }
+        ],
+        "logged": 29,
         "real": 0,
         "deep": 0,
-        "ratio": 0,
+        "ratio": 0.0,
         "stats": {
           "contextSwitches": 0,
-          "tabsOpened": 0,
+          "tabsOpened": 3,
           "longestFocus": "0m",
           "justOneMoreThing": 0
         }
@@ -104182,760 +104248,760 @@
       "weekend": false
     },
     {
-      "key": "2026-11-6",
-      "dayNum": 6,
-      "dow": 5,
-      "weekend": false,
-      "dateShort": "Fri, Nov 6",
       "dateLong": "Friday, November 6",
-      "dayStart": "09:36",
+      "dateShort": "Fri, Nov 6",
       "dayEnd": "19:50",
+      "dayNum": 6,
+      "dayStart": "09:36",
+      "deep": 53,
+      "dow": 5,
       "events": [
         {
-          "start": "09:36",
+          "cat": "admin",
           "end": "09:41",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "09:36",
+          "title": "Outlook"
         },
         {
-          "start": "09:41",
-          "end": "09:43",
           "cat": "personal",
+          "end": "09:43",
+          "note": "youtube.com",
           "src": "macos",
-          "title": "(17) GPT-Image-2.6: Faster image generation with Flare and S",
-          "note": "youtube.com"
+          "start": "09:41",
+          "title": "(17) GPT-Image-2.6: Faster image generation with Flare and S"
         },
         {
-          "start": "09:44",
+          "cat": "writing",
           "end": "09:47",
-          "cat": "writing",
+          "note": "file:///Users/ada/Documents/%E4%BA%94%E5",
           "src": "macos",
-          "title": "OMNI",
-          "note": "file:///Users/ada/Documents/%E4%BA%94%E5"
+          "start": "09:44",
+          "title": "OMNI"
         },
         {
-          "start": "09:48",
+          "cat": "admin",
           "end": "09:50",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "09:48",
+          "title": "Outlook"
         },
         {
-          "start": "09:52",
+          "cat": "admin",
           "end": "09:57",
-          "cat": "admin",
+          "note": "sport.mq.edu.au",
           "src": "macos",
-          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
-          "note": "sport.mq.edu.au"
+          "start": "09:52",
+          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni"
         },
         {
-          "start": "09:58",
+          "cat": "admin",
           "end": "10:09",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Preview question: Project descriptions: identify learning ty",
-          "note": "ilearn.mq.edu.au"
+          "start": "09:58",
+          "title": "Preview question: Project descriptions: identify learning ty"
         },
         {
-          "start": "10:10",
+          "cat": "research",
           "end": "10:11",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "macos",
-          "title": "How a PhD Can Survive? | Ada's Notes",
-          "note": "adaren100.github.io"
+          "start": "10:10",
+          "title": "How a PhD Can Survive? | Ada's Notes"
         },
         {
-          "start": "10:11",
+          "cat": "research",
           "end": "10:13",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "macos",
-          "title": "Posts | Ada's Notes",
-          "note": "adaren100.github.io"
+          "start": "10:11",
+          "title": "Posts | Ada's Notes"
         },
         {
-          "start": "10:20",
+          "cat": "admin",
           "end": "10:23",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Editing a Multiple choice question | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "10:20",
+          "title": "Editing a Multiple choice question | iLearn"
         },
         {
-          "start": "10:24",
+          "cat": "admin",
           "end": "10:25",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Preview question: Money to the cent: modeling choice | iLear",
-          "note": "ilearn.mq.edu.au"
+          "start": "10:24",
+          "title": "Preview question: Money to the cent: modeling choice | iLear"
         },
         {
-          "start": "10:25",
+          "cat": "admin",
           "end": "10:28",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Preview question: Only categorical nominal bundle | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "10:25",
+          "title": "Preview question: Only categorical nominal bundle | iLearn"
         },
         {
-          "start": "10:33",
+          "cat": "admin",
           "end": "10:34",
-          "cat": "admin",
+          "note": "content.ilearn.mq.edu.au",
           "src": "macos",
-          "title": "week1_combined.pdf",
-          "note": "content.ilearn.mq.edu.au"
+          "start": "10:33",
+          "title": "week1_combined.pdf"
         },
         {
-          "start": "10:36",
+          "cat": "admin",
           "end": "10:37",
-          "cat": "admin",
+          "note": "content.ilearn.mq.edu.au",
           "src": "macos",
-          "title": "COMP2200: Week 2",
-          "note": "content.ilearn.mq.edu.au"
+          "start": "10:36",
+          "title": "COMP2200: Week 2"
         },
         {
-          "start": "10:38",
+          "cat": "admin",
           "end": "10:40",
-          "cat": "admin",
+          "note": "content.ilearn.mq.edu.au",
           "src": "macos",
-          "title": "COMP2200: Week 3",
-          "note": "content.ilearn.mq.edu.au"
+          "start": "10:38",
+          "title": "COMP2200: Week 3"
         },
         {
-          "start": "10:44",
+          "cat": "admin",
           "end": "10:48",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Preview question: Choose model and metric: TF-IDF sentiment ",
-          "note": "ilearn.mq.edu.au"
+          "start": "10:44",
+          "title": "Preview question: Choose model and metric: TF-IDF sentiment "
         },
         {
-          "start": "10:55",
+          "cat": "admin",
           "end": "11:09",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Preview question: Cross-validation and StandardScaler | iLea",
-          "note": "ilearn.mq.edu.au"
+          "start": "10:55",
+          "title": "Preview question: Cross-validation and StandardScaler | iLea"
         },
         {
-          "start": "11:13",
+          "cat": "admin",
           "end": "11:19",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Edit questions | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "11:13",
+          "title": "Edit questions | iLearn"
         },
         {
-          "start": "11:19",
+          "cat": "admin",
           "end": "11:21",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Edit questions | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "11:19",
+          "title": "Edit questions | iLearn"
         },
         {
-          "start": "11:24",
+          "cat": "admin",
           "end": "11:33",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Preview question: 5-fold CV usage count | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "11:24",
+          "title": "Preview question: 5-fold CV usage count | iLearn"
         },
         {
-          "start": "11:34",
+          "cat": "admin",
           "end": "11:36",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Edit questions | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "11:34",
+          "title": "Edit questions | iLearn"
         },
         {
-          "start": "11:43",
+          "cat": "admin",
           "end": "11:45",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Preview question: CLT: core statement 1 | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "11:43",
+          "title": "Preview question: CLT: core statement 1 | iLearn"
         },
         {
-          "start": "11:46",
+          "cat": "admin",
           "end": "11:48",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Edit questions | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "11:46",
+          "title": "Edit questions | iLearn"
         },
         {
-          "start": "11:53",
+          "cat": "admin",
           "end": "11:55",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Edit questions | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "11:53",
+          "title": "Edit questions | iLearn"
         },
         {
-          "start": "12:07",
+          "cat": "admin",
           "end": "12:12",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Preview question: Visualisation V5: Library for least-square",
-          "note": "ilearn.mq.edu.au"
+          "start": "12:07",
+          "title": "Preview question: Visualisation V5: Library for least-square"
         },
         {
-          "start": "13:06",
+          "cat": "admin",
           "end": "13:13",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Preview question: Visualisation V5: Library for least-square",
-          "note": "ilearn.mq.edu.au"
+          "start": "13:06",
+          "title": "Preview question: Visualisation V5: Library for least-square"
         },
         {
-          "start": "13:18",
+          "cat": "admin",
           "end": "13:22",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Preview question: concept 5 | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "13:18",
+          "title": "Preview question: concept 5 | iLearn"
         },
         {
-          "start": "13:23",
+          "cat": "admin",
           "end": "13:28",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "13:23",
+          "title": "Outlook"
         },
         {
-          "start": "13:28",
+          "cat": "meeting",
           "end": "13:34",
-          "cat": "meeting",
+          "note": "com.microsoft.teams2",
           "src": "macos",
-          "title": "teams2",
-          "note": "com.microsoft.teams2"
+          "start": "13:28",
+          "title": "teams2"
         },
         {
-          "start": "13:34",
+          "cat": "admin",
           "end": "13:35",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "13:34",
+          "title": "Outlook"
         },
         {
-          "start": "13:37",
+          "cat": "coding",
           "end": "13:48",
-          "cat": "coding",
+          "note": "apps.powerapps.com",
           "src": "macos",
-          "title": "FSE Teaching Associate EOI - Power Apps",
-          "note": "apps.powerapps.com"
+          "start": "13:37",
+          "title": "FSE Teaching Associate EOI - Power Apps"
         },
         {
-          "start": "13:53",
+          "cat": "meeting",
           "end": "13:56",
-          "cat": "meeting",
+          "note": "com.microsoft.teams2",
           "src": "macos",
-          "title": "teams2",
-          "note": "com.microsoft.teams2"
+          "start": "13:53",
+          "title": "teams2"
         },
         {
-          "start": "13:56",
+          "cat": "admin",
           "end": "14:03",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "13:56",
+          "title": "Outlook"
         },
         {
-          "start": "14:04",
+          "cat": "admin",
           "end": "14:11",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "14:04",
+          "title": "Outlook"
         },
         {
-          "start": "14:12",
+          "cat": "admin",
           "end": "14:21",
-          "cat": "admin",
+          "note": "content.ilearn.mq.edu.au",
           "src": "macos",
-          "title": "COMP2200/COMP6200 MQ Slides Template",
-          "note": "content.ilearn.mq.edu.au"
+          "start": "14:12",
+          "title": "COMP2200/COMP6200 MQ Slides Template"
         },
         {
-          "start": "14:21",
+          "cat": "admin",
           "end": "14:23",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Preview question: concept 7 | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "14:21",
+          "title": "Preview question: concept 7 | iLearn"
         },
         {
-          "start": "14:27",
+          "cat": "admin",
           "end": "14:29",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Edit questions | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "14:27",
+          "title": "Edit questions | iLearn"
         },
         {
-          "start": "14:33",
+          "cat": "admin",
           "end": "14:35",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Preview question: centroid_7 | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "14:33",
+          "title": "Preview question: centroid_7 | iLearn"
         },
         {
-          "start": "14:50",
+          "cat": "admin",
           "end": "14:53",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Preview question: KNN-Q6 — 3NN (Manhattan) | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "14:50",
+          "title": "Preview question: KNN-Q6 — 3NN (Manhattan) | iLearn"
         },
         {
-          "start": "14:54",
+          "cat": "admin",
           "end": "14:55",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Edit questions | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "14:54",
+          "title": "Edit questions | iLearn"
         },
         {
-          "start": "14:58",
+          "cat": "admin",
           "end": "15:00",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Preview question: KNN-Q6 — 3NN (Manhattan) | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "14:58",
+          "title": "Preview question: KNN-Q6 — 3NN (Manhattan) | iLearn"
         },
         {
-          "start": "15:01",
+          "cat": "admin",
           "end": "15:03",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Preview question: PCA Statements-3 | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "15:01",
+          "title": "Preview question: PCA Statements-3 | iLearn"
         },
         {
-          "start": "15:04",
+          "cat": "admin",
           "end": "15:18",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Edit questions | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "15:04",
+          "title": "Edit questions | iLearn"
         },
         {
-          "start": "15:22",
+          "cat": "admin",
           "end": "15:23",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Preview question: PCA Statements-3 | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "15:22",
+          "title": "Preview question: PCA Statements-3 | iLearn"
         },
         {
-          "start": "15:23",
-          "end": "15:26",
           "cat": "research",
+          "end": "15:26",
+          "note": "pmc.ncbi.nlm.nih.gov",
           "src": "macos",
-          "title": "Principal component analysis: a review and recent developmen",
-          "note": "pmc.ncbi.nlm.nih.gov"
+          "start": "15:23",
+          "title": "Principal component analysis: a review and recent developmen"
         },
         {
-          "start": "15:28",
+          "cat": "admin",
           "end": "15:29",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Edit questions | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "15:28",
+          "title": "Edit questions | iLearn"
         },
         {
-          "start": "15:31",
+          "cat": "admin",
           "end": "15:33",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Preview question: calculate stats 6 | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "15:31",
+          "title": "Preview question: calculate stats 6 | iLearn"
         },
         {
-          "start": "15:41",
+          "cat": "coding",
           "end": "15:42",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "Untitled0.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "15:41",
+          "title": "Untitled0.ipynb - Colab"
         },
         {
-          "start": "15:46",
+          "cat": "coding",
           "end": "15:47",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "Untitled0.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "15:46",
+          "title": "Untitled0.ipynb - Colab"
         },
         {
-          "start": "15:54",
+          "cat": "coding",
           "end": "15:56",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "Untitled0.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "15:54",
+          "title": "Untitled0.ipynb - Colab"
         },
         {
-          "start": "15:56",
+          "cat": "coding",
           "end": "15:58",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "Untitled0.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "15:56",
+          "title": "Untitled0.ipynb - Colab"
         },
         {
-          "start": "15:59",
+          "cat": "coding",
           "end": "16:00",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "Untitled0.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "15:59",
+          "title": "Untitled0.ipynb - Colab"
         },
         {
-          "start": "16:01",
+          "cat": "coding",
           "end": "16:02",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "Untitled0.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "16:01",
+          "title": "Untitled0.ipynb - Colab"
         },
         {
-          "start": "16:03",
+          "cat": "admin",
           "end": "16:05",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Questions about the F",
-          "note": "ilearn.mq.edu.au"
+          "start": "16:03",
+          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Questions about the F"
         },
         {
-          "start": "16:05",
+          "cat": "coding",
           "end": "16:07",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "Untitled0.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "16:05",
+          "title": "Untitled0.ipynb - Colab"
         },
         {
-          "start": "16:12",
+          "cat": "admin",
           "end": "16:13",
-          "cat": "admin",
+          "note": "content.ilearn.mq.edu.au",
           "src": "macos",
-          "title": "COMP2200/COMP6200 MQ Slides Template",
-          "note": "content.ilearn.mq.edu.au"
+          "start": "16:12",
+          "title": "COMP2200/COMP6200 MQ Slides Template"
         },
         {
-          "start": "16:13",
+          "cat": "coding",
           "end": "16:14",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "Untitled0.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "16:13",
+          "title": "Untitled0.ipynb - Colab"
         },
         {
-          "start": "16:15",
+          "cat": "coding",
           "end": "16:17",
-          "cat": "coding",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "Untitled0.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "16:15",
+          "title": "Untitled0.ipynb - Colab"
         },
         {
-          "start": "16:17",
+          "cat": "admin",
           "end": "16:20",
-          "cat": "admin",
+          "note": "content.ilearn.mq.edu.au",
           "src": "macos",
-          "title": "COMP2200/COMP6200 MQ Slides Template",
-          "note": "content.ilearn.mq.edu.au"
+          "start": "16:17",
+          "title": "COMP2200/COMP6200 MQ Slides Template"
         },
         {
-          "start": "16:23",
+          "cat": "admin",
           "end": "16:26",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Editing quiz: Final Exam | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "16:23",
+          "title": "Editing quiz: Final Exam | iLearn"
         },
         {
-          "start": "16:28",
+          "cat": "admin",
           "end": "16:31",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Preview question: Supervised learning - RF 4 | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "16:28",
+          "title": "Preview question: Supervised learning - RF 4 | iLearn"
         },
         {
-          "start": "16:33",
+          "cat": "admin",
           "end": "16:37",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Preview question: Supervised learning - KNN | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "16:33",
+          "title": "Preview question: Supervised learning - KNN | iLearn"
         },
         {
-          "start": "16:37",
-          "end": "16:40",
           "cat": "writing",
+          "end": "16:40",
+          "note": "excalidraw.com",
           "src": "macos",
-          "title": "Excalidraw Whiteboard",
-          "note": "excalidraw.com"
+          "start": "16:37",
+          "title": "Excalidraw Whiteboard"
         },
         {
-          "start": "16:45",
-          "end": "16:47",
           "cat": "coding",
+          "end": "16:47",
+          "note": "colab.research.google.com",
           "src": "macos",
-          "title": "Untitled0.ipynb - Colab",
-          "note": "colab.research.google.com"
+          "start": "16:45",
+          "title": "Untitled0.ipynb - Colab"
         },
         {
-          "start": "16:48",
+          "cat": "meeting",
           "end": "16:51",
-          "cat": "meeting",
+          "note": "com.microsoft.teams2",
           "src": "macos",
-          "title": "teams2",
-          "note": "com.microsoft.teams2"
+          "start": "16:48",
+          "title": "teams2"
         },
         {
-          "start": "16:51",
+          "cat": "admin",
           "end": "16:53",
-          "cat": "admin",
+          "note": "content.ilearn.mq.edu.au",
           "src": "macos",
-          "title": "COMP2200/COMP6200 MQ Slides Template",
-          "note": "content.ilearn.mq.edu.au"
+          "start": "16:51",
+          "title": "COMP2200/COMP6200 MQ Slides Template"
         },
         {
-          "start": "16:53",
+          "cat": "meeting",
           "end": "16:54",
-          "cat": "meeting",
+          "note": "com.microsoft.teams2",
           "src": "macos",
-          "title": "teams2",
-          "note": "com.microsoft.teams2"
+          "start": "16:53",
+          "title": "teams2"
         },
         {
-          "start": "16:54",
+          "cat": "admin",
           "end": "16:55",
-          "cat": "admin",
+          "note": "content.ilearn.mq.edu.au",
           "src": "macos",
-          "title": "COMP2200/COMP6200 MQ Slides Template",
-          "note": "content.ilearn.mq.edu.au"
+          "start": "16:54",
+          "title": "COMP2200/COMP6200 MQ Slides Template"
         },
         {
-          "start": "19:20",
-          "end": "19:23",
           "cat": "meeting",
+          "end": "19:23",
+          "note": "com.microsoft.teams2",
           "src": "macos",
-          "title": "teams2",
-          "note": "com.microsoft.teams2"
+          "start": "19:20",
+          "title": "teams2"
         },
         {
-          "start": "19:36",
+          "cat": "admin",
           "end": "19:38",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "19:36",
+          "title": "Outlook"
         },
         {
-          "start": "19:38",
+          "cat": "admin",
           "end": "19:40",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Editing quiz: Final Exam | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "19:38",
+          "title": "Editing quiz: Final Exam | iLearn"
         },
         {
-          "start": "19:40",
+          "cat": "admin",
           "end": "19:44",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "19:40",
+          "title": "Outlook"
         },
         {
-          "start": "19:46",
-          "end": "19:50",
           "cat": "admin",
+          "end": "19:50",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "19:46",
+          "title": "Outlook"
         }
       ],
+      "key": "2026-11-6",
       "logged": 238,
-      "real": 53,
-      "deep": 53,
       "ratio": 0.22282952786660407,
+      "real": 53,
       "stats": {
         "contextSwitches": 26,
-        "tabsOpened": 0,
+        "justOneMoreThing": 5,
         "longestFocus": "14m",
-        "justOneMoreThing": 5
-      }
+        "tabsOpened": 0
+      },
+      "weekend": false
     },
     {
-      "key": "2026-11-7",
-      "dayNum": 7,
-      "dow": 6,
-      "weekend": true,
-      "dateShort": "Sat, Nov 7",
       "dateLong": "Saturday, November 7",
-      "dayStart": "10:03",
+      "dateShort": "Sat, Nov 7",
       "dayEnd": "13:46",
+      "dayNum": 7,
+      "dayStart": "10:03",
+      "deep": 103,
+      "dow": 6,
       "events": [
         {
-          "start": "10:03",
+          "cat": "admin",
           "end": "10:04",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "10:03",
+          "title": "Outlook"
         },
         {
-          "start": "10:07",
+          "cat": "admin",
           "end": "10:12",
-          "cat": "admin",
+          "note": "sport.mq.edu.au",
           "src": "macos",
-          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
-          "note": "sport.mq.edu.au"
+          "start": "10:07",
+          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni"
         },
         {
-          "start": "10:12",
+          "cat": "research",
           "end": "10:33",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "10:12",
+          "title": "zotero"
         },
         {
-          "start": "10:34",
+          "cat": "research",
           "end": "10:48",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "10:34",
+          "title": "zotero"
         },
         {
-          "start": "10:51",
+          "cat": "admin",
           "end": "10:53",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "GAIA - Google Search",
-          "note": "google.com"
+          "start": "10:51",
+          "title": "GAIA - Google Search"
         },
         {
-          "start": "10:57",
+          "cat": "research",
           "end": "11:03",
-          "cat": "research",
+          "note": "huggingface.co",
           "src": "macos",
-          "title": "gaia-benchmark/GAIA · Data Studio · Datasets at Hugging Face",
-          "note": "huggingface.co"
+          "start": "10:57",
+          "title": "gaia-benchmark/GAIA · Data Studio · Datasets at Hugging Face"
         },
         {
-          "start": "11:04",
+          "cat": "admin",
           "end": "11:07",
-          "cat": "admin",
+          "note": "originenergy.com.au",
           "src": "macos",
-          "title": "Bills and payments - Origin Energy",
-          "note": "originenergy.com.au"
+          "start": "11:04",
+          "title": "Bills and payments - Origin Energy"
         },
         {
-          "start": "11:08",
-          "end": "11:11",
           "cat": "coding",
+          "end": "11:11",
+          "note": "github.com",
           "src": "macos",
-          "title": "GitHub - mingyin1/Agents_Failure_Attribution: Benchmark for ",
-          "note": "github.com"
+          "start": "11:08",
+          "title": "GitHub - mingyin1/Agents_Failure_Attribution: Benchmark for "
         },
         {
-          "start": "11:12",
-          "end": "11:20",
           "cat": "admin",
+          "end": "11:20",
+          "note": "translate.google.com",
           "src": "macos",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "11:12",
+          "title": "Google Translate"
         },
         {
-          "start": "11:23",
+          "cat": "research",
           "end": "11:47",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "11:23",
+          "title": "zotero"
         },
         {
-          "start": "11:49",
+          "cat": "writing",
           "end": "11:52",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Agents - Google Slides",
-          "note": "docs.google.com"
+          "start": "11:49",
+          "title": "Agents - Google Slides"
         },
         {
-          "start": "11:52",
+          "cat": "writing",
           "end": "11:55",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Agents - Google Slides",
-          "note": "docs.google.com"
+          "start": "11:52",
+          "title": "Agents - Google Slides"
         },
         {
-          "start": "11:56",
+          "cat": "research",
           "end": "12:03",
-          "cat": "research",
+          "note": "bom.gov.au",
           "src": "macos",
-          "title": "Sydney, New South Wales | The Bureau of Meteorology",
-          "note": "bom.gov.au"
+          "start": "11:56",
+          "title": "Sydney, New South Wales | The Bureau of Meteorology"
         },
         {
-          "start": "13:04",
+          "cat": "research",
           "end": "13:09",
-          "cat": "research",
+          "note": "bom.gov.au",
           "src": "macos",
-          "title": "Sydney, New South Wales | The Bureau of Meteorology",
-          "note": "bom.gov.au"
+          "start": "13:04",
+          "title": "Sydney, New South Wales | The Bureau of Meteorology"
         },
         {
-          "start": "13:13",
+          "cat": "research",
           "end": "13:20",
-          "cat": "research",
+          "note": "bom.gov.au",
           "src": "macos",
-          "title": "Sydney, New South Wales | The Bureau of Meteorology",
-          "note": "bom.gov.au"
+          "start": "13:13",
+          "title": "Sydney, New South Wales | The Bureau of Meteorology"
         },
         {
-          "start": "13:24",
+          "cat": "research",
           "end": "13:29",
-          "cat": "research",
+          "note": "bom.gov.au",
           "src": "macos",
-          "title": "Sydney, New South Wales | The Bureau of Meteorology",
-          "note": "bom.gov.au"
+          "start": "13:24",
+          "title": "Sydney, New South Wales | The Bureau of Meteorology"
         },
         {
-          "start": "13:41",
-          "end": "13:46",
           "cat": "research",
+          "end": "13:46",
+          "note": "bom.gov.au",
           "src": "macos",
-          "title": "Sydney, New South Wales | The Bureau of Meteorology",
-          "note": "bom.gov.au"
+          "start": "13:41",
+          "title": "Sydney, New South Wales | The Bureau of Meteorology"
         }
       ],
+      "key": "2026-11-7",
       "logged": 121,
-      "real": 103,
-      "deep": 103,
       "ratio": 0.8471850382078026,
+      "real": 103,
       "stats": {
         "contextSwitches": 9,
-        "tabsOpened": 0,
+        "justOneMoreThing": 3,
         "longestFocus": "58m",
-        "justOneMoreThing": 3
-      }
+        "tabsOpened": 0
+      },
+      "weekend": true
     },
     {
       "key": "2026-11-8",
@@ -104944,18 +105010,75 @@
       "weekend": true,
       "dateShort": "Sun, Nov 8",
       "dateLong": "Sunday, November 8",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "10:25",
+      "dayEnd": "11:57",
+      "events": [
+        {
+          "start": "10:25",
+          "end": "10:32",
+          "cat": "admin",
+          "src": "macos",
+          "title": "chatswood street market opening hours - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "10:32",
+          "end": "10:37",
+          "cat": "research",
+          "src": "macos",
+          "title": "MI9: An Integrated Runtime Governance Framework for Agentic ",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "10:37",
+          "end": "10:40",
+          "cat": "admin",
+          "src": "macos",
+          "title": "barclays - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "10:40",
+          "end": "10:49",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "11:00",
+          "end": "11:02",
+          "cat": "research",
+          "src": "macos",
+          "title": "Juan Ren | OpenReview",
+          "note": "openreview.net"
+        },
+        {
+          "start": "11:02",
+          "end": "11:05",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "11:05",
+          "end": "11:57",
+          "cat": "research",
+          "src": "macos",
+          "title": "Juan Ren | OpenReview",
+          "note": "openreview.net"
+        }
+      ],
+      "logged": 81,
+      "real": 70,
+      "deep": 70,
+      "ratio": 0.8724825231553373,
       "stats": {
-        "contextSwitches": 0,
+        "contextSwitches": 3,
         "tabsOpened": 0,
-        "longestFocus": "0m",
-        "justOneMoreThing": 0
+        "longestFocus": "1h 6m",
+        "justOneMoreThing": 1
       }
     },
     {
@@ -104965,16 +105088,25 @@
       "weekend": false,
       "dateShort": "Mon, Nov 9",
       "dateLong": "Monday, November 9",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
+      "dayStart": "10:03",
+      "dayEnd": "10:31",
+      "events": [
+        {
+          "start": "10:03",
+          "end": "10:31",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Workday mq - Sign in to Workday",
+          "note": "wd3.myworkday.com"
+        }
+      ],
+      "logged": 29,
       "real": 0,
       "deep": 0,
-      "ratio": 0,
+      "ratio": 0.0,
       "stats": {
         "contextSwitches": 0,
-        "tabsOpened": 0,
+        "tabsOpened": 3,
         "longestFocus": "0m",
         "justOneMoreThing": 0
       }
