@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-11-10T10:20:18+11:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-11-11T10:20:17+11:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -102209,474 +102209,474 @@
         "weekend": true
       },
       {
-        "key": "2026-11-9",
-        "dayNum": 9,
-        "dow": 1,
-        "weekend": false,
-        "dateShort": "Mon, Nov 9",
         "dateLong": "Monday, November 9",
-        "dayStart": "10:02",
+        "dateShort": "Mon, Nov 9",
         "dayEnd": "18:06",
+        "dayNum": 9,
+        "dayStart": "10:02",
+        "deep": 195,
+        "dow": 1,
         "events": [
           {
-            "start": "10:02",
+            "cat": "admin",
             "end": "10:03",
-            "cat": "admin",
+            "note": "sport.mq.edu.au",
             "src": "macos",
-            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
-            "note": "sport.mq.edu.au"
+            "start": "10:02",
+            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni"
           },
           {
-            "start": "10:05",
+            "cat": "research",
             "end": "10:08",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "10:05",
+            "title": "zotero"
           },
           {
-            "start": "10:08",
+            "cat": "coding",
             "end": "10:09",
-            "cat": "coding",
+            "note": "github.com",
             "src": "macos",
-            "title": "GitHub - charleslwang/MI9-Eval · GitHub",
-            "note": "github.com"
+            "start": "10:08",
+            "title": "GitHub - charleslwang/MI9-Eval · GitHub"
           },
           {
-            "start": "10:09",
+            "cat": "coding",
             "end": "10:10",
-            "cat": "coding",
+            "note": "github.com",
             "src": "macos",
-            "title": "MI9-Eval/prompts/scenario_prompt.txt at main · charleslwang/",
-            "note": "github.com"
+            "start": "10:09",
+            "title": "MI9-Eval/prompts/scenario_prompt.txt at main · charleslwang/"
           },
           {
-            "start": "10:10",
+            "cat": "admin",
             "end": "10:11",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "10:10",
+            "title": "Outlook"
           },
           {
-            "start": "10:12",
+            "cat": "admin",
             "end": "10:14",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "10:12",
+            "title": "Outlook"
           },
           {
-            "start": "10:15",
+            "cat": "coding",
             "end": "10:22",
-            "cat": "coding",
+            "note": "github.com",
             "src": "macos",
-            "title": "MI9-Eval/prompts/governance_prompt.txt at main · charleslwan",
-            "note": "github.com"
+            "start": "10:15",
+            "title": "MI9-Eval/prompts/governance_prompt.txt at main · charleslwan"
           },
           {
-            "start": "10:24",
+            "cat": "coding",
             "end": "10:25",
-            "cat": "coding",
+            "note": "github.com",
             "src": "macos",
-            "title": "MI9-Eval/data/10/scenario.json at main · charleslwang/MI9-Ev",
-            "note": "github.com"
+            "start": "10:24",
+            "title": "MI9-Eval/data/10/scenario.json at main · charleslwang/MI9-Ev"
           },
           {
-            "start": "10:27",
+            "cat": "research",
             "end": "10:28",
-            "cat": "research",
+            "note": "ahajournals.org",
             "src": "macos",
-            "title": "Search Result | American Heart Association Journals",
-            "note": "ahajournals.org"
+            "start": "10:27",
+            "title": "Search Result | American Heart Association Journals"
           },
           {
-            "start": "10:29",
+            "cat": "admin",
             "end": "10:31",
-            "cat": "admin",
+            "note": "mail.google.com",
             "src": "macos",
-            "title": "Daily papers of 6 Nov 2026 - ada.ren.cn@gmail.com - Gmail",
-            "note": "mail.google.com"
+            "start": "10:29",
+            "title": "Daily papers of 6 Nov 2026 - ada.ren.cn@gmail.com - Gmail"
           },
           {
-            "start": "10:31",
+            "cat": "coding",
             "end": "10:32",
-            "cat": "coding",
+            "note": "github.com",
             "src": "macos",
-            "title": "MI9-Eval/data/10/governance.json at main · charleslwang/MI9-",
-            "note": "github.com"
+            "start": "10:31",
+            "title": "MI9-Eval/data/10/governance.json at main · charleslwang/MI9-"
           },
           {
-            "start": "10:32",
+            "cat": "coding",
             "end": "10:34",
-            "cat": "coding",
+            "note": "github.com",
             "src": "macos",
-            "title": "MI9-Eval/data/10/evaluation.json at main · charleslwang/MI9-",
-            "note": "github.com"
+            "start": "10:32",
+            "title": "MI9-Eval/data/10/evaluation.json at main · charleslwang/MI9-"
           },
           {
-            "start": "10:34",
+            "cat": "research",
             "end": "10:36",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "10:34",
+            "title": "zotero"
           },
           {
-            "start": "10:36",
+            "cat": "coding",
             "end": "10:40",
-            "cat": "coding",
+            "note": "github.com",
             "src": "macos",
-            "title": "MI9-Eval/data/10/evaluation.json at main · charleslwang/MI9-",
-            "note": "github.com"
+            "start": "10:36",
+            "title": "MI9-Eval/data/10/evaluation.json at main · charleslwang/MI9-"
           },
           {
-            "start": "10:40",
+            "cat": "research",
             "end": "10:43",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "10:40",
+            "title": "zotero"
           },
           {
-            "start": "10:43",
+            "cat": "coding",
             "end": "10:53",
-            "cat": "coding",
+            "note": "github.com",
             "src": "macos",
-            "title": "MI9-Eval/data/10/evaluation.json at main · charleslwang/MI9-",
-            "note": "github.com"
+            "start": "10:43",
+            "title": "MI9-Eval/data/10/evaluation.json at main · charleslwang/MI9-"
           },
           {
-            "start": "10:53",
+            "cat": "research",
             "end": "11:01",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "10:53",
+            "title": "zotero"
           },
           {
-            "start": "11:05",
+            "cat": "research",
             "end": "11:07",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "11:05",
+            "title": "zotero"
           },
           {
-            "start": "11:07",
+            "cat": "coding",
             "end": "11:10",
-            "cat": "coding",
+            "note": "github.com",
             "src": "macos",
-            "title": "MI9-Eval/evaluation_summary.json at main · charleslwang/MI9-",
-            "note": "github.com"
+            "start": "11:07",
+            "title": "MI9-Eval/evaluation_summary.json at main · charleslwang/MI9-"
           },
           {
-            "start": "11:12",
+            "cat": "personal",
             "end": "11:30",
-            "cat": "personal",
+            "note": "x.com",
             "src": "macos",
-            "title": "(2) 主页 / X",
-            "note": "x.com"
+            "start": "11:12",
+            "title": "(2) 主页 / X"
           },
           {
-            "start": "11:30",
+            "cat": "coding",
             "end": "11:32",
-            "cat": "coding",
+            "note": "github.com",
             "src": "macos",
-            "title": "GitHub - charleslwang/MI9-Eval · GitHub",
-            "note": "github.com"
+            "start": "11:30",
+            "title": "GitHub - charleslwang/MI9-Eval · GitHub"
           },
           {
-            "start": "11:32",
+            "cat": "research",
             "end": "11:38",
-            "cat": "research",
+            "note": "chatgpt.com",
             "src": "macos",
-            "title": "ChatGPT",
-            "note": "chatgpt.com"
+            "start": "11:32",
+            "title": "ChatGPT"
           },
           {
-            "start": "11:40",
+            "cat": "research",
             "end": "11:41",
-            "cat": "research",
+            "note": "chatgpt.com",
             "src": "macos",
-            "title": "GitHub | ChatGPT Plugins",
-            "note": "chatgpt.com"
+            "start": "11:40",
+            "title": "GitHub | ChatGPT Plugins"
           },
           {
-            "start": "11:41",
+            "cat": "coding",
             "end": "11:42",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "11:41",
+            "title": "VSCode"
           },
           {
-            "start": "11:42",
+            "cat": "admin",
             "end": "11:46",
-            "cat": "admin",
+            "note": "auth.openai.com",
             "src": "macos",
-            "title": "Sign in to Codex with ChatGPT - OpenAI",
-            "note": "auth.openai.com"
+            "start": "11:42",
+            "title": "Sign in to Codex with ChatGPT - OpenAI"
           },
           {
-            "start": "11:46",
+            "cat": "coding",
             "end": "11:49",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "11:46",
+            "title": "VSCode"
           },
           {
-            "start": "11:49",
+            "cat": "coding",
             "end": "12:22",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "11:49",
+            "title": "VSCode"
           },
           {
-            "start": "13:01",
+            "cat": "coding",
             "end": "13:03",
-            "cat": "coding",
+            "note": "aistudio.google.com",
             "src": "macos",
-            "title": "API keys | Google AI Studio",
-            "note": "aistudio.google.com"
+            "start": "13:01",
+            "title": "API keys | Google AI Studio"
           },
           {
-            "start": "13:06",
+            "cat": "meeting",
             "end": "13:07",
-            "cat": "meeting",
+            "note": "us.zoom.xos",
             "src": "macos",
-            "title": "xos",
-            "note": "us.zoom.xos"
+            "start": "13:06",
+            "title": "xos"
           },
           {
-            "start": "13:08",
+            "cat": "personal",
             "end": "13:09",
-            "cat": "personal",
+            "note": "youtube.com",
             "src": "macos",
-            "title": "(3) Celebrating Diwali with traditional Indian treats | Sunr",
-            "note": "youtube.com"
+            "start": "13:08",
+            "title": "(3) Celebrating Diwali with traditional Indian treats | Sunr"
           },
           {
-            "start": "13:10",
+            "cat": "personal",
             "end": "13:11",
-            "cat": "personal",
+            "note": "youtube.com",
             "src": "macos",
-            "title": "(3) shahrukh khan - YouTube",
-            "note": "youtube.com"
+            "start": "13:10",
+            "title": "(3) shahrukh khan - YouTube"
           },
           {
-            "start": "13:11",
+            "cat": "meeting",
             "end": "13:32",
-            "cat": "meeting",
+            "note": "us.zoom.xos",
             "src": "macos",
-            "title": "xos",
-            "note": "us.zoom.xos"
+            "start": "13:11",
+            "title": "xos"
           },
           {
-            "start": "13:33",
+            "cat": "meeting",
             "end": "13:39",
-            "cat": "meeting",
+            "note": "us.zoom.xos",
             "src": "macos",
-            "title": "xos",
-            "note": "us.zoom.xos"
+            "start": "13:33",
+            "title": "xos"
           },
           {
-            "start": "13:46",
+            "cat": "meeting",
             "end": "13:51",
-            "cat": "meeting",
+            "note": "us.zoom.xos",
             "src": "macos",
-            "title": "xos",
-            "note": "us.zoom.xos"
+            "start": "13:46",
+            "title": "xos"
           },
           {
-            "start": "14:23",
+            "cat": "meeting",
             "end": "14:30",
-            "cat": "meeting",
+            "note": "us.zoom.xos",
             "src": "macos",
-            "title": "xos",
-            "note": "us.zoom.xos"
+            "start": "14:23",
+            "title": "xos"
           },
           {
-            "start": "14:41",
+            "cat": "meeting",
             "end": "14:48",
-            "cat": "meeting",
+            "note": "us.zoom.xos",
             "src": "macos",
-            "title": "xos",
-            "note": "us.zoom.xos"
+            "start": "14:41",
+            "title": "xos"
           },
           {
-            "start": "14:49",
+            "cat": "admin",
             "end": "14:51",
-            "cat": "admin",
+            "note": "com.tinyspeck.slackmacgap",
             "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "start": "14:49",
+            "title": "slackmacgap"
           },
           {
-            "start": "14:56",
+            "cat": "admin",
             "end": "14:58",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "14:56",
+            "title": "Outlook"
           },
           {
-            "start": "14:59",
+            "cat": "writing",
             "end": "15:19",
-            "cat": "writing",
+            "note": "file:///Users/ada/Documents/MQ/Placement",
             "src": "macos",
-            "title": "Budhil_Chakma_FOSE7901_Project_2_Report.pdf",
-            "note": "file:///Users/ada/Documents/MQ/Placement"
+            "start": "14:59",
+            "title": "Budhil_Chakma_FOSE7901_Project_2_Report.pdf"
           },
           {
-            "start": "15:19",
+            "cat": "admin",
             "end": "15:23",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "15:19",
+            "title": "Outlook"
           },
           {
-            "start": "15:23",
+            "cat": "writing",
             "end": "15:36",
-            "cat": "writing",
+            "note": "file:///Users/ada/Documents/MQ/Placement",
             "src": "macos",
-            "title": "Budhil_Chakma_FOSE7901_Project_2_Report.pdf",
-            "note": "file:///Users/ada/Documents/MQ/Placement"
+            "start": "15:23",
+            "title": "Budhil_Chakma_FOSE7901_Project_2_Report.pdf"
           },
           {
-            "start": "15:39",
+            "cat": "writing",
             "end": "15:41",
-            "cat": "writing",
+            "note": "file:///Users/ada/Documents/MQ/Placement",
             "src": "macos",
-            "title": "Budhil_Chakma_FOSE7901_Project_2_Report.pdf",
-            "note": "file:///Users/ada/Documents/MQ/Placement"
+            "start": "15:39",
+            "title": "Budhil_Chakma_FOSE7901_Project_2_Report.pdf"
           },
           {
-            "start": "15:45",
+            "cat": "writing",
             "end": "15:47",
-            "cat": "writing",
+            "note": "file:///Users/ada/Documents/MQ/Placement",
             "src": "macos",
-            "title": "Budhil_Chakma_FOSE7901_Project_2_Report.pdf",
-            "note": "file:///Users/ada/Documents/MQ/Placement"
+            "start": "15:45",
+            "title": "Budhil_Chakma_FOSE7901_Project_2_Report.pdf"
           },
           {
-            "start": "15:50",
+            "cat": "writing",
             "end": "15:52",
-            "cat": "writing",
+            "note": "file:///Users/ada/Documents/MQ/Placement",
             "src": "macos",
-            "title": "Budhil_Chakma_FOSE7901_Project_2_Report.pdf",
-            "note": "file:///Users/ada/Documents/MQ/Placement"
+            "start": "15:50",
+            "title": "Budhil_Chakma_FOSE7901_Project_2_Report.pdf"
           },
           {
-            "start": "15:59",
+            "cat": "writing",
             "end": "16:02",
-            "cat": "writing",
+            "note": "file:///Users/ada/Documents/MQ/Placement",
             "src": "macos",
-            "title": "Budhil_Chakma_FOSE7901_Project_2_Report.pdf",
-            "note": "file:///Users/ada/Documents/MQ/Placement"
+            "start": "15:59",
+            "title": "Budhil_Chakma_FOSE7901_Project_2_Report.pdf"
           },
           {
-            "start": "16:02",
+            "cat": "admin",
             "end": "16:05",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "16:02",
+            "title": "Outlook"
           },
           {
-            "start": "16:09",
+            "cat": "writing",
             "end": "16:13",
-            "cat": "writing",
+            "note": "file:///Users/ada/Documents/MQ/Placement",
             "src": "macos",
-            "title": "Budhil_Chakma_FOSE7901_Project_2_Report.pdf",
-            "note": "file:///Users/ada/Documents/MQ/Placement"
+            "start": "16:09",
+            "title": "Budhil_Chakma_FOSE7901_Project_2_Report.pdf"
           },
           {
-            "start": "16:23",
+            "cat": "writing",
             "end": "16:25",
-            "cat": "writing",
+            "note": "file:///Users/ada/Documents/MQ/Placement",
             "src": "macos",
-            "title": "Budhil_Chakma_FOSE7901_Project_2_Report.pdf",
-            "note": "file:///Users/ada/Documents/MQ/Placement"
+            "start": "16:23",
+            "title": "Budhil_Chakma_FOSE7901_Project_2_Report.pdf"
           },
           {
-            "start": "16:26",
+            "cat": "admin",
             "end": "16:42",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "16:26",
+            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn"
           },
           {
-            "start": "16:44",
+            "cat": "admin",
             "end": "16:49",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "16:44",
+            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn"
           },
           {
-            "start": "16:57",
+            "cat": "admin",
             "end": "17:01",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "16:57",
+            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn"
           },
           {
-            "start": "17:27",
+            "cat": "admin",
             "end": "17:28",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "17:27",
+            "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn"
           },
           {
-            "start": "17:28",
+            "cat": "admin",
             "end": "17:34",
-            "cat": "admin",
+            "note": "sport.mq.edu.au",
             "src": "macos",
-            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
-            "note": "sport.mq.edu.au"
+            "start": "17:28",
+            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni"
           },
           {
-            "start": "18:00",
+            "cat": "admin",
             "end": "18:02",
-            "cat": "admin",
+            "note": "sport.mq.edu.au",
             "src": "macos",
-            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
-            "note": "sport.mq.edu.au"
+            "start": "18:00",
+            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni"
           },
           {
-            "start": "18:03",
+            "cat": "admin",
             "end": "18:04",
-            "cat": "admin",
+            "note": "iprint.mq.edu.au:9443",
             "src": "macos",
-            "title": "Upload job",
-            "note": "iprint.mq.edu.au:9443"
+            "start": "18:03",
+            "title": "Upload job"
           },
           {
-            "start": "18:04",
-            "end": "18:06",
             "cat": "research",
+            "end": "18:06",
+            "note": "file:///Users/ada/Documents/MQ/papers/li",
             "src": "macos",
-            "title": "From Language Models to Agentic AI- A Survey of Autonomous, ",
-            "note": "file:///Users/ada/Documents/MQ/papers/li"
+            "start": "18:04",
+            "title": "From Language Models to Agentic AI- A Survey of Autonomous, "
           }
         ],
+        "key": "2026-11-9",
         "logged": 272,
-        "real": 195,
-        "deep": 195,
         "ratio": 0.7177400428615442,
+        "real": 195,
         "stats": {
           "contextSwitches": 30,
-          "tabsOpened": 0,
+          "justOneMoreThing": 4,
           "longestFocus": "46m",
-          "justOneMoreThing": 4
-        }
+          "tabsOpened": 0
+        },
+        "weekend": false
       },
       {
         "key": "2026-11-10",
@@ -102685,35 +102685,379 @@
         "weekend": false,
         "dateShort": "Tue, Nov 10",
         "dateLong": "Tuesday, November 10",
-        "dayStart": "10:07",
-        "dayEnd": "10:36",
+        "dayStart": "10:10",
+        "dayEnd": "21:17",
         "events": [
           {
-            "start": "10:07",
-            "end": "10:10",
-            "cat": "writing",
-            "src": "local",
-            "title": "2026-11-10-chatgpt-enterprise-aws-marketplace.md",
-            "note": "4 hits"
+            "start": "10:10",
+            "end": "10:12",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
           },
           {
-            "start": "10:10",
-            "end": "10:36",
+            "start": "10:12",
+            "end": "10:13",
             "cat": "admin",
-            "src": "chrome",
-            "title": "Centre for Applied AI | End-of-Year Workshop, Registration, ",
-            "note": "aus01.safelinks.protection.outlook.com"
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "10:24",
+            "end": "10:26",
+            "cat": "admin",
+            "src": "macos",
+            "title": "TSLA US$378.05 (▲ 5.54%) Tesla Inc | Google Finance",
+            "note": "google.com"
+          },
+          {
+            "start": "10:28",
+            "end": "10:35",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Finance - Stock Market Prices, Real-time Quotes & Bus",
+            "note": "google.com"
+          },
+          {
+            "start": "10:39",
+            "end": "11:20",
+            "cat": "research",
+            "src": "macos",
+            "title": "2503.10965v2.pdf",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "11:28",
+            "end": "11:59",
+            "cat": "research",
+            "src": "macos",
+            "title": "2503.10965v2.pdf",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "11:59",
+            "end": "12:01",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "12:01",
+            "end": "12:11",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "12:53",
+            "end": "12:58",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "13:02",
+            "end": "13:53",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "13:53",
+            "end": "13:54",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "13:54",
+            "end": "13:58",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "13:58",
+            "end": "14:11",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "14:14",
+            "end": "14:16",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "14:16",
+            "end": "14:20",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "14:20",
+            "end": "14:21",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "14:21",
+            "end": "14:30",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Morning Fresh Start | Cozy Cafe Jazz BGM for Relaxing Daytim",
+            "note": "youtube.com"
+          },
+          {
+            "start": "14:30",
+            "end": "14:43",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "14:43",
+            "end": "14:46",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "14:46",
+            "end": "14:53",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "14:54",
+            "end": "15:30",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "15:30",
+            "end": "15:33",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Agents - Google Slides",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "15:33",
+            "end": "15:36",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "15:36",
+            "end": "15:40",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Agents - Google Slides",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "15:40",
+            "end": "15:49",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "15:52",
+            "end": "15:55",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "15:55",
+            "end": "15:59",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Agents - Google Slides",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "16:00",
+            "end": "16:04",
+            "cat": "personal",
+            "src": "macos",
+            "title": "📝 2 HOURS OF POMODORO (30/5) | 🌧️ Relaxing Piano & Rain Soun",
+            "note": "youtube.com"
+          },
+          {
+            "start": "16:04",
+            "end": "16:14",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "16:15",
+            "end": "16:24",
+            "cat": "research",
+            "src": "macos",
+            "title": "2412.04506v2.pdf",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "16:24",
+            "end": "16:29",
+            "cat": "research",
+            "src": "macos",
+            "title": "Fuzzing LLMs sometimes makes them reveal their secrets — Les",
+            "note": "lesswrong.com"
+          },
+          {
+            "start": "16:31",
+            "end": "16:36",
+            "cat": "research",
+            "src": "macos",
+            "title": "Fuzzing LLMs sometimes makes them reveal their secrets — Les",
+            "note": "lesswrong.com"
+          },
+          {
+            "start": "16:36",
+            "end": "17:50",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "18:01",
+            "end": "18:08",
+            "cat": "research",
+            "src": "macos",
+            "title": "8514_Looking_Inward_Language_M.pdf",
+            "note": "openreview.net"
+          },
+          {
+            "start": "19:56",
+            "end": "20:14",
+            "cat": "research",
+            "src": "macos",
+            "title": "8514_Looking_Inward_Language_M.pdf",
+            "note": "openreview.net"
+          },
+          {
+            "start": "20:14",
+            "end": "20:19",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Spit bridge to Manly Walk, Sydney - My Faulty Compass",
+            "note": "myfaultycompass.com"
+          },
+          {
+            "start": "20:30",
+            "end": "20:31",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Spit bridge to Manly Walk, Sydney - My Faulty Compass",
+            "note": "myfaultycompass.com"
+          },
+          {
+            "start": "20:31",
+            "end": "20:34",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google",
+            "note": "google.com"
+          },
+          {
+            "start": "20:34",
+            "end": "20:39",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "20:39",
+            "end": "20:40",
+            "cat": "personal",
+            "src": "macos",
+            "title": "All Hail the Power of Jesus' Name (Instrumental) - Tradition",
+            "note": "youtube.com"
+          },
+          {
+            "start": "20:42",
+            "end": "20:43",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Montana Sky, Beautiful Relaxing Music, Peaceful Soothing Ins",
+            "note": "youtube.com"
+          },
+          {
+            "start": "20:44",
+            "end": "20:50",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "20:50",
+            "end": "21:00",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Come Thou Font (Instrumental) - Traditional Beautiful Hymn -",
+            "note": "youtube.com"
+          },
+          {
+            "start": "21:01",
+            "end": "21:08",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "21:08",
+            "end": "21:17",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Meadow Sunrise, Beautiful Relaxing Music, Peaceful Soothing ",
+            "note": "youtube.com"
           }
         ],
-        "logged": 29,
-        "real": 3,
-        "deep": 3,
-        "ratio": 0.09196591468611151,
+        "logged": 453,
+        "real": 298,
+        "deep": 298,
+        "ratio": 0.6576699446001941,
         "stats": {
-          "contextSwitches": 1,
-          "tabsOpened": 3,
-          "longestFocus": "3m",
-          "justOneMoreThing": 0
+          "contextSwitches": 23,
+          "tabsOpened": 0,
+          "longestFocus": "2h 7m",
+          "justOneMoreThing": 2
         }
       },
       {
@@ -102723,17 +103067,42 @@
         "weekend": false,
         "dateShort": "Wed, Nov 11",
         "dateLong": "Wednesday, November 11",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "09:23",
+        "dayEnd": "10:20",
+        "events": [
+          {
+            "start": "09:23",
+            "end": "09:53",
+            "cat": "research",
+            "src": "chrome",
+            "title": "Which Agent Causes Task Failures and When? On Automated Fail",
+            "note": "openreview.net"
+          },
+          {
+            "start": "09:53",
+            "end": "10:14",
+            "cat": "writing",
+            "src": "chrome",
+            "title": "Agents - Google Slides",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "10:15",
+            "end": "10:20",
+            "cat": "research",
+            "src": "chrome",
+            "title": "aaronrose227/narcbench · Data Studio · Datasets at Hugging F",
+            "note": "huggingface.co"
+          }
+        ],
+        "logged": 57,
+        "real": 57,
+        "deep": 57,
+        "ratio": 1.0,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "0m",
+          "contextSwitches": 2,
+          "tabsOpened": 9,
+          "longestFocus": "57m",
           "justOneMoreThing": 0
         }
       },
@@ -105539,474 +105908,474 @@
       "weekend": true
     },
     {
-      "key": "2026-11-9",
-      "dayNum": 9,
-      "dow": 1,
-      "weekend": false,
-      "dateShort": "Mon, Nov 9",
       "dateLong": "Monday, November 9",
-      "dayStart": "10:02",
+      "dateShort": "Mon, Nov 9",
       "dayEnd": "18:06",
+      "dayNum": 9,
+      "dayStart": "10:02",
+      "deep": 195,
+      "dow": 1,
       "events": [
         {
-          "start": "10:02",
+          "cat": "admin",
           "end": "10:03",
-          "cat": "admin",
+          "note": "sport.mq.edu.au",
           "src": "macos",
-          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
-          "note": "sport.mq.edu.au"
+          "start": "10:02",
+          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni"
         },
         {
-          "start": "10:05",
+          "cat": "research",
           "end": "10:08",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "10:05",
+          "title": "zotero"
         },
         {
-          "start": "10:08",
+          "cat": "coding",
           "end": "10:09",
-          "cat": "coding",
+          "note": "github.com",
           "src": "macos",
-          "title": "GitHub - charleslwang/MI9-Eval · GitHub",
-          "note": "github.com"
+          "start": "10:08",
+          "title": "GitHub - charleslwang/MI9-Eval · GitHub"
         },
         {
-          "start": "10:09",
+          "cat": "coding",
           "end": "10:10",
-          "cat": "coding",
+          "note": "github.com",
           "src": "macos",
-          "title": "MI9-Eval/prompts/scenario_prompt.txt at main · charleslwang/",
-          "note": "github.com"
+          "start": "10:09",
+          "title": "MI9-Eval/prompts/scenario_prompt.txt at main · charleslwang/"
         },
         {
-          "start": "10:10",
+          "cat": "admin",
           "end": "10:11",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "10:10",
+          "title": "Outlook"
         },
         {
-          "start": "10:12",
+          "cat": "admin",
           "end": "10:14",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "10:12",
+          "title": "Outlook"
         },
         {
-          "start": "10:15",
+          "cat": "coding",
           "end": "10:22",
-          "cat": "coding",
+          "note": "github.com",
           "src": "macos",
-          "title": "MI9-Eval/prompts/governance_prompt.txt at main · charleslwan",
-          "note": "github.com"
+          "start": "10:15",
+          "title": "MI9-Eval/prompts/governance_prompt.txt at main · charleslwan"
         },
         {
-          "start": "10:24",
+          "cat": "coding",
           "end": "10:25",
-          "cat": "coding",
+          "note": "github.com",
           "src": "macos",
-          "title": "MI9-Eval/data/10/scenario.json at main · charleslwang/MI9-Ev",
-          "note": "github.com"
+          "start": "10:24",
+          "title": "MI9-Eval/data/10/scenario.json at main · charleslwang/MI9-Ev"
         },
         {
-          "start": "10:27",
+          "cat": "research",
           "end": "10:28",
-          "cat": "research",
+          "note": "ahajournals.org",
           "src": "macos",
-          "title": "Search Result | American Heart Association Journals",
-          "note": "ahajournals.org"
+          "start": "10:27",
+          "title": "Search Result | American Heart Association Journals"
         },
         {
-          "start": "10:29",
+          "cat": "admin",
           "end": "10:31",
-          "cat": "admin",
+          "note": "mail.google.com",
           "src": "macos",
-          "title": "Daily papers of 6 Nov 2026 - ada.ren.cn@gmail.com - Gmail",
-          "note": "mail.google.com"
+          "start": "10:29",
+          "title": "Daily papers of 6 Nov 2026 - ada.ren.cn@gmail.com - Gmail"
         },
         {
-          "start": "10:31",
+          "cat": "coding",
           "end": "10:32",
-          "cat": "coding",
+          "note": "github.com",
           "src": "macos",
-          "title": "MI9-Eval/data/10/governance.json at main · charleslwang/MI9-",
-          "note": "github.com"
+          "start": "10:31",
+          "title": "MI9-Eval/data/10/governance.json at main · charleslwang/MI9-"
         },
         {
-          "start": "10:32",
+          "cat": "coding",
           "end": "10:34",
-          "cat": "coding",
+          "note": "github.com",
           "src": "macos",
-          "title": "MI9-Eval/data/10/evaluation.json at main · charleslwang/MI9-",
-          "note": "github.com"
+          "start": "10:32",
+          "title": "MI9-Eval/data/10/evaluation.json at main · charleslwang/MI9-"
         },
         {
-          "start": "10:34",
+          "cat": "research",
           "end": "10:36",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "10:34",
+          "title": "zotero"
         },
         {
-          "start": "10:36",
+          "cat": "coding",
           "end": "10:40",
-          "cat": "coding",
+          "note": "github.com",
           "src": "macos",
-          "title": "MI9-Eval/data/10/evaluation.json at main · charleslwang/MI9-",
-          "note": "github.com"
+          "start": "10:36",
+          "title": "MI9-Eval/data/10/evaluation.json at main · charleslwang/MI9-"
         },
         {
-          "start": "10:40",
+          "cat": "research",
           "end": "10:43",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "10:40",
+          "title": "zotero"
         },
         {
-          "start": "10:43",
+          "cat": "coding",
           "end": "10:53",
-          "cat": "coding",
+          "note": "github.com",
           "src": "macos",
-          "title": "MI9-Eval/data/10/evaluation.json at main · charleslwang/MI9-",
-          "note": "github.com"
+          "start": "10:43",
+          "title": "MI9-Eval/data/10/evaluation.json at main · charleslwang/MI9-"
         },
         {
-          "start": "10:53",
+          "cat": "research",
           "end": "11:01",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "10:53",
+          "title": "zotero"
         },
         {
-          "start": "11:05",
+          "cat": "research",
           "end": "11:07",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "11:05",
+          "title": "zotero"
         },
         {
-          "start": "11:07",
+          "cat": "coding",
           "end": "11:10",
-          "cat": "coding",
+          "note": "github.com",
           "src": "macos",
-          "title": "MI9-Eval/evaluation_summary.json at main · charleslwang/MI9-",
-          "note": "github.com"
+          "start": "11:07",
+          "title": "MI9-Eval/evaluation_summary.json at main · charleslwang/MI9-"
         },
         {
-          "start": "11:12",
+          "cat": "personal",
           "end": "11:30",
-          "cat": "personal",
+          "note": "x.com",
           "src": "macos",
-          "title": "(2) 主页 / X",
-          "note": "x.com"
+          "start": "11:12",
+          "title": "(2) 主页 / X"
         },
         {
-          "start": "11:30",
+          "cat": "coding",
           "end": "11:32",
-          "cat": "coding",
+          "note": "github.com",
           "src": "macos",
-          "title": "GitHub - charleslwang/MI9-Eval · GitHub",
-          "note": "github.com"
+          "start": "11:30",
+          "title": "GitHub - charleslwang/MI9-Eval · GitHub"
         },
         {
-          "start": "11:32",
+          "cat": "research",
           "end": "11:38",
-          "cat": "research",
+          "note": "chatgpt.com",
           "src": "macos",
-          "title": "ChatGPT",
-          "note": "chatgpt.com"
+          "start": "11:32",
+          "title": "ChatGPT"
         },
         {
-          "start": "11:40",
+          "cat": "research",
           "end": "11:41",
-          "cat": "research",
+          "note": "chatgpt.com",
           "src": "macos",
-          "title": "GitHub | ChatGPT Plugins",
-          "note": "chatgpt.com"
+          "start": "11:40",
+          "title": "GitHub | ChatGPT Plugins"
         },
         {
-          "start": "11:41",
+          "cat": "coding",
           "end": "11:42",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "11:41",
+          "title": "VSCode"
         },
         {
-          "start": "11:42",
+          "cat": "admin",
           "end": "11:46",
-          "cat": "admin",
+          "note": "auth.openai.com",
           "src": "macos",
-          "title": "Sign in to Codex with ChatGPT - OpenAI",
-          "note": "auth.openai.com"
+          "start": "11:42",
+          "title": "Sign in to Codex with ChatGPT - OpenAI"
         },
         {
-          "start": "11:46",
+          "cat": "coding",
           "end": "11:49",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "11:46",
+          "title": "VSCode"
         },
         {
-          "start": "11:49",
+          "cat": "coding",
           "end": "12:22",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "11:49",
+          "title": "VSCode"
         },
         {
-          "start": "13:01",
+          "cat": "coding",
           "end": "13:03",
-          "cat": "coding",
+          "note": "aistudio.google.com",
           "src": "macos",
-          "title": "API keys | Google AI Studio",
-          "note": "aistudio.google.com"
+          "start": "13:01",
+          "title": "API keys | Google AI Studio"
         },
         {
-          "start": "13:06",
+          "cat": "meeting",
           "end": "13:07",
-          "cat": "meeting",
+          "note": "us.zoom.xos",
           "src": "macos",
-          "title": "xos",
-          "note": "us.zoom.xos"
+          "start": "13:06",
+          "title": "xos"
         },
         {
-          "start": "13:08",
+          "cat": "personal",
           "end": "13:09",
-          "cat": "personal",
+          "note": "youtube.com",
           "src": "macos",
-          "title": "(3) Celebrating Diwali with traditional Indian treats | Sunr",
-          "note": "youtube.com"
+          "start": "13:08",
+          "title": "(3) Celebrating Diwali with traditional Indian treats | Sunr"
         },
         {
-          "start": "13:10",
+          "cat": "personal",
           "end": "13:11",
-          "cat": "personal",
+          "note": "youtube.com",
           "src": "macos",
-          "title": "(3) shahrukh khan - YouTube",
-          "note": "youtube.com"
+          "start": "13:10",
+          "title": "(3) shahrukh khan - YouTube"
         },
         {
-          "start": "13:11",
+          "cat": "meeting",
           "end": "13:32",
-          "cat": "meeting",
+          "note": "us.zoom.xos",
           "src": "macos",
-          "title": "xos",
-          "note": "us.zoom.xos"
+          "start": "13:11",
+          "title": "xos"
         },
         {
-          "start": "13:33",
+          "cat": "meeting",
           "end": "13:39",
-          "cat": "meeting",
+          "note": "us.zoom.xos",
           "src": "macos",
-          "title": "xos",
-          "note": "us.zoom.xos"
+          "start": "13:33",
+          "title": "xos"
         },
         {
-          "start": "13:46",
+          "cat": "meeting",
           "end": "13:51",
-          "cat": "meeting",
+          "note": "us.zoom.xos",
           "src": "macos",
-          "title": "xos",
-          "note": "us.zoom.xos"
+          "start": "13:46",
+          "title": "xos"
         },
         {
-          "start": "14:23",
+          "cat": "meeting",
           "end": "14:30",
-          "cat": "meeting",
+          "note": "us.zoom.xos",
           "src": "macos",
-          "title": "xos",
-          "note": "us.zoom.xos"
+          "start": "14:23",
+          "title": "xos"
         },
         {
-          "start": "14:41",
+          "cat": "meeting",
           "end": "14:48",
-          "cat": "meeting",
+          "note": "us.zoom.xos",
           "src": "macos",
-          "title": "xos",
-          "note": "us.zoom.xos"
+          "start": "14:41",
+          "title": "xos"
         },
         {
-          "start": "14:49",
+          "cat": "admin",
           "end": "14:51",
-          "cat": "admin",
+          "note": "com.tinyspeck.slackmacgap",
           "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "start": "14:49",
+          "title": "slackmacgap"
         },
         {
-          "start": "14:56",
+          "cat": "admin",
           "end": "14:58",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "14:56",
+          "title": "Outlook"
         },
         {
-          "start": "14:59",
+          "cat": "writing",
           "end": "15:19",
-          "cat": "writing",
+          "note": "file:///Users/ada/Documents/MQ/Placement",
           "src": "macos",
-          "title": "Budhil_Chakma_FOSE7901_Project_2_Report.pdf",
-          "note": "file:///Users/ada/Documents/MQ/Placement"
+          "start": "14:59",
+          "title": "Budhil_Chakma_FOSE7901_Project_2_Report.pdf"
         },
         {
-          "start": "15:19",
+          "cat": "admin",
           "end": "15:23",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "15:19",
+          "title": "Outlook"
         },
         {
-          "start": "15:23",
+          "cat": "writing",
           "end": "15:36",
-          "cat": "writing",
+          "note": "file:///Users/ada/Documents/MQ/Placement",
           "src": "macos",
-          "title": "Budhil_Chakma_FOSE7901_Project_2_Report.pdf",
-          "note": "file:///Users/ada/Documents/MQ/Placement"
+          "start": "15:23",
+          "title": "Budhil_Chakma_FOSE7901_Project_2_Report.pdf"
         },
         {
-          "start": "15:39",
+          "cat": "writing",
           "end": "15:41",
-          "cat": "writing",
+          "note": "file:///Users/ada/Documents/MQ/Placement",
           "src": "macos",
-          "title": "Budhil_Chakma_FOSE7901_Project_2_Report.pdf",
-          "note": "file:///Users/ada/Documents/MQ/Placement"
+          "start": "15:39",
+          "title": "Budhil_Chakma_FOSE7901_Project_2_Report.pdf"
         },
         {
-          "start": "15:45",
+          "cat": "writing",
           "end": "15:47",
-          "cat": "writing",
+          "note": "file:///Users/ada/Documents/MQ/Placement",
           "src": "macos",
-          "title": "Budhil_Chakma_FOSE7901_Project_2_Report.pdf",
-          "note": "file:///Users/ada/Documents/MQ/Placement"
+          "start": "15:45",
+          "title": "Budhil_Chakma_FOSE7901_Project_2_Report.pdf"
         },
         {
-          "start": "15:50",
+          "cat": "writing",
           "end": "15:52",
-          "cat": "writing",
+          "note": "file:///Users/ada/Documents/MQ/Placement",
           "src": "macos",
-          "title": "Budhil_Chakma_FOSE7901_Project_2_Report.pdf",
-          "note": "file:///Users/ada/Documents/MQ/Placement"
+          "start": "15:50",
+          "title": "Budhil_Chakma_FOSE7901_Project_2_Report.pdf"
         },
         {
-          "start": "15:59",
+          "cat": "writing",
           "end": "16:02",
-          "cat": "writing",
+          "note": "file:///Users/ada/Documents/MQ/Placement",
           "src": "macos",
-          "title": "Budhil_Chakma_FOSE7901_Project_2_Report.pdf",
-          "note": "file:///Users/ada/Documents/MQ/Placement"
+          "start": "15:59",
+          "title": "Budhil_Chakma_FOSE7901_Project_2_Report.pdf"
         },
         {
-          "start": "16:02",
+          "cat": "admin",
           "end": "16:05",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "16:02",
+          "title": "Outlook"
         },
         {
-          "start": "16:09",
+          "cat": "writing",
           "end": "16:13",
-          "cat": "writing",
+          "note": "file:///Users/ada/Documents/MQ/Placement",
           "src": "macos",
-          "title": "Budhil_Chakma_FOSE7901_Project_2_Report.pdf",
-          "note": "file:///Users/ada/Documents/MQ/Placement"
+          "start": "16:09",
+          "title": "Budhil_Chakma_FOSE7901_Project_2_Report.pdf"
         },
         {
-          "start": "16:23",
+          "cat": "writing",
           "end": "16:25",
-          "cat": "writing",
+          "note": "file:///Users/ada/Documents/MQ/Placement",
           "src": "macos",
-          "title": "Budhil_Chakma_FOSE7901_Project_2_Report.pdf",
-          "note": "file:///Users/ada/Documents/MQ/Placement"
+          "start": "16:23",
+          "title": "Budhil_Chakma_FOSE7901_Project_2_Report.pdf"
         },
         {
-          "start": "16:26",
+          "cat": "admin",
           "end": "16:42",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "16:26",
+          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn"
         },
         {
-          "start": "16:44",
+          "cat": "admin",
           "end": "16:49",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "16:44",
+          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn"
         },
         {
-          "start": "16:57",
+          "cat": "admin",
           "end": "17:01",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "16:57",
+          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn"
         },
         {
-          "start": "17:27",
+          "cat": "admin",
           "end": "17:28",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "17:27",
+          "title": "Unit: COMP2200 Data Science / COMP6200 | iLearn"
         },
         {
-          "start": "17:28",
+          "cat": "admin",
           "end": "17:34",
-          "cat": "admin",
+          "note": "sport.mq.edu.au",
           "src": "macos",
-          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
-          "note": "sport.mq.edu.au"
+          "start": "17:28",
+          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni"
         },
         {
-          "start": "18:00",
+          "cat": "admin",
           "end": "18:02",
-          "cat": "admin",
+          "note": "sport.mq.edu.au",
           "src": "macos",
-          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
-          "note": "sport.mq.edu.au"
+          "start": "18:00",
+          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni"
         },
         {
-          "start": "18:03",
+          "cat": "admin",
           "end": "18:04",
-          "cat": "admin",
+          "note": "iprint.mq.edu.au:9443",
           "src": "macos",
-          "title": "Upload job",
-          "note": "iprint.mq.edu.au:9443"
+          "start": "18:03",
+          "title": "Upload job"
         },
         {
-          "start": "18:04",
-          "end": "18:06",
           "cat": "research",
+          "end": "18:06",
+          "note": "file:///Users/ada/Documents/MQ/papers/li",
           "src": "macos",
-          "title": "From Language Models to Agentic AI- A Survey of Autonomous, ",
-          "note": "file:///Users/ada/Documents/MQ/papers/li"
+          "start": "18:04",
+          "title": "From Language Models to Agentic AI- A Survey of Autonomous, "
         }
       ],
+      "key": "2026-11-9",
       "logged": 272,
-      "real": 195,
-      "deep": 195,
       "ratio": 0.7177400428615442,
+      "real": 195,
       "stats": {
         "contextSwitches": 30,
-        "tabsOpened": 0,
+        "justOneMoreThing": 4,
         "longestFocus": "46m",
-        "justOneMoreThing": 4
-      }
+        "tabsOpened": 0
+      },
+      "weekend": false
     },
     {
       "key": "2026-11-10",
@@ -106015,35 +106384,379 @@
       "weekend": false,
       "dateShort": "Tue, Nov 10",
       "dateLong": "Tuesday, November 10",
-      "dayStart": "10:07",
-      "dayEnd": "10:36",
+      "dayStart": "10:10",
+      "dayEnd": "21:17",
       "events": [
         {
-          "start": "10:07",
-          "end": "10:10",
-          "cat": "writing",
-          "src": "local",
-          "title": "2026-11-10-chatgpt-enterprise-aws-marketplace.md",
-          "note": "4 hits"
+          "start": "10:10",
+          "end": "10:12",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
         },
         {
-          "start": "10:10",
-          "end": "10:36",
+          "start": "10:12",
+          "end": "10:13",
           "cat": "admin",
-          "src": "chrome",
-          "title": "Centre for Applied AI | End-of-Year Workshop, Registration, ",
-          "note": "aus01.safelinks.protection.outlook.com"
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "10:24",
+          "end": "10:26",
+          "cat": "admin",
+          "src": "macos",
+          "title": "TSLA US$378.05 (▲ 5.54%) Tesla Inc | Google Finance",
+          "note": "google.com"
+        },
+        {
+          "start": "10:28",
+          "end": "10:35",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Finance - Stock Market Prices, Real-time Quotes & Bus",
+          "note": "google.com"
+        },
+        {
+          "start": "10:39",
+          "end": "11:20",
+          "cat": "research",
+          "src": "macos",
+          "title": "2503.10965v2.pdf",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "11:28",
+          "end": "11:59",
+          "cat": "research",
+          "src": "macos",
+          "title": "2503.10965v2.pdf",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "11:59",
+          "end": "12:01",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "12:01",
+          "end": "12:11",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "12:53",
+          "end": "12:58",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "13:02",
+          "end": "13:53",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "13:53",
+          "end": "13:54",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "13:54",
+          "end": "13:58",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "13:58",
+          "end": "14:11",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "14:14",
+          "end": "14:16",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "14:16",
+          "end": "14:20",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "14:20",
+          "end": "14:21",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "14:21",
+          "end": "14:30",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Morning Fresh Start | Cozy Cafe Jazz BGM for Relaxing Daytim",
+          "note": "youtube.com"
+        },
+        {
+          "start": "14:30",
+          "end": "14:43",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "14:43",
+          "end": "14:46",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "14:46",
+          "end": "14:53",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "14:54",
+          "end": "15:30",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "15:30",
+          "end": "15:33",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Agents - Google Slides",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "15:33",
+          "end": "15:36",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "15:36",
+          "end": "15:40",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Agents - Google Slides",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "15:40",
+          "end": "15:49",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "15:52",
+          "end": "15:55",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "15:55",
+          "end": "15:59",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Agents - Google Slides",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "16:00",
+          "end": "16:04",
+          "cat": "personal",
+          "src": "macos",
+          "title": "📝 2 HOURS OF POMODORO (30/5) | 🌧️ Relaxing Piano & Rain Soun",
+          "note": "youtube.com"
+        },
+        {
+          "start": "16:04",
+          "end": "16:14",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "16:15",
+          "end": "16:24",
+          "cat": "research",
+          "src": "macos",
+          "title": "2412.04506v2.pdf",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "16:24",
+          "end": "16:29",
+          "cat": "research",
+          "src": "macos",
+          "title": "Fuzzing LLMs sometimes makes them reveal their secrets — Les",
+          "note": "lesswrong.com"
+        },
+        {
+          "start": "16:31",
+          "end": "16:36",
+          "cat": "research",
+          "src": "macos",
+          "title": "Fuzzing LLMs sometimes makes them reveal their secrets — Les",
+          "note": "lesswrong.com"
+        },
+        {
+          "start": "16:36",
+          "end": "17:50",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "18:01",
+          "end": "18:08",
+          "cat": "research",
+          "src": "macos",
+          "title": "8514_Looking_Inward_Language_M.pdf",
+          "note": "openreview.net"
+        },
+        {
+          "start": "19:56",
+          "end": "20:14",
+          "cat": "research",
+          "src": "macos",
+          "title": "8514_Looking_Inward_Language_M.pdf",
+          "note": "openreview.net"
+        },
+        {
+          "start": "20:14",
+          "end": "20:19",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Spit bridge to Manly Walk, Sydney - My Faulty Compass",
+          "note": "myfaultycompass.com"
+        },
+        {
+          "start": "20:30",
+          "end": "20:31",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Spit bridge to Manly Walk, Sydney - My Faulty Compass",
+          "note": "myfaultycompass.com"
+        },
+        {
+          "start": "20:31",
+          "end": "20:34",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google",
+          "note": "google.com"
+        },
+        {
+          "start": "20:34",
+          "end": "20:39",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "20:39",
+          "end": "20:40",
+          "cat": "personal",
+          "src": "macos",
+          "title": "All Hail the Power of Jesus' Name (Instrumental) - Tradition",
+          "note": "youtube.com"
+        },
+        {
+          "start": "20:42",
+          "end": "20:43",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Montana Sky, Beautiful Relaxing Music, Peaceful Soothing Ins",
+          "note": "youtube.com"
+        },
+        {
+          "start": "20:44",
+          "end": "20:50",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "20:50",
+          "end": "21:00",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Come Thou Font (Instrumental) - Traditional Beautiful Hymn -",
+          "note": "youtube.com"
+        },
+        {
+          "start": "21:01",
+          "end": "21:08",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "21:08",
+          "end": "21:17",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Meadow Sunrise, Beautiful Relaxing Music, Peaceful Soothing ",
+          "note": "youtube.com"
         }
       ],
-      "logged": 29,
-      "real": 3,
-      "deep": 3,
-      "ratio": 0.09196591468611151,
+      "logged": 453,
+      "real": 298,
+      "deep": 298,
+      "ratio": 0.6576699446001941,
       "stats": {
-        "contextSwitches": 1,
-        "tabsOpened": 3,
-        "longestFocus": "3m",
-        "justOneMoreThing": 0
+        "contextSwitches": 23,
+        "tabsOpened": 0,
+        "longestFocus": "2h 7m",
+        "justOneMoreThing": 2
       }
     },
     {
@@ -106053,17 +106766,42 @@
       "weekend": false,
       "dateShort": "Wed, Nov 11",
       "dateLong": "Wednesday, November 11",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "09:23",
+      "dayEnd": "10:20",
+      "events": [
+        {
+          "start": "09:23",
+          "end": "09:53",
+          "cat": "research",
+          "src": "chrome",
+          "title": "Which Agent Causes Task Failures and When? On Automated Fail",
+          "note": "openreview.net"
+        },
+        {
+          "start": "09:53",
+          "end": "10:14",
+          "cat": "writing",
+          "src": "chrome",
+          "title": "Agents - Google Slides",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "10:15",
+          "end": "10:20",
+          "cat": "research",
+          "src": "chrome",
+          "title": "aaronrose227/narcbench · Data Studio · Datasets at Hugging F",
+          "note": "huggingface.co"
+        }
+      ],
+      "logged": 57,
+      "real": 57,
+      "deep": 57,
+      "ratio": 1.0,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "0m",
+        "contextSwitches": 2,
+        "tabsOpened": 9,
+        "longestFocus": "57m",
         "justOneMoreThing": 0
       }
     },
