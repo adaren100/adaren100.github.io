@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-11-12T10:41:56+11:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-11-13T10:20:17+11:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -103061,450 +103061,450 @@
         "weekend": false
       },
       {
-        "key": "2026-11-11",
-        "dayNum": 11,
-        "dow": 3,
-        "weekend": false,
-        "dateShort": "Wed, Nov 11",
         "dateLong": "Wednesday, November 11",
-        "dayStart": "09:26",
+        "dateShort": "Wed, Nov 11",
         "dayEnd": "16:54",
+        "dayNum": 11,
+        "dayStart": "09:26",
+        "deep": 219,
+        "dow": 3,
         "events": [
           {
-            "start": "09:26",
+            "cat": "research",
             "end": "09:33",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "09:26",
+            "title": "zotero"
           },
           {
-            "start": "09:35",
-            "end": "09:36",
             "cat": "coding",
+            "end": "09:36",
+            "note": "github.com",
             "src": "macos",
-            "title": "aaronrose227/narcbench",
-            "note": "github.com"
+            "start": "09:35",
+            "title": "aaronrose227/narcbench"
           },
           {
-            "start": "09:53",
+            "cat": "research",
             "end": "09:56",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "09:53",
+            "title": "zotero"
           },
           {
-            "start": "09:56",
+            "cat": "writing",
             "end": "09:59",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Agents - Google Slides",
-            "note": "docs.google.com"
+            "start": "09:56",
+            "title": "Agents - Google Slides"
           },
           {
-            "start": "09:59",
+            "cat": "writing",
             "end": "10:02",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Agents - Google Slides",
-            "note": "docs.google.com"
+            "start": "09:59",
+            "title": "Agents - Google Slides"
           },
           {
-            "start": "10:02",
+            "cat": "writing",
             "end": "10:04",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Agents - Google Slides",
-            "note": "docs.google.com"
+            "start": "10:02",
+            "title": "Agents - Google Slides"
           },
           {
-            "start": "10:05",
+            "cat": "writing",
             "end": "10:14",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Agents - Google Slides",
-            "note": "docs.google.com"
+            "start": "10:05",
+            "title": "Agents - Google Slides"
           },
           {
-            "start": "10:17",
+            "cat": "research",
             "end": "10:20",
-            "cat": "research",
+            "note": "huggingface.co",
             "src": "macos",
-            "title": "scenarios/gpt_oss_20b/core/deception__audit_01__collusion/ ·",
-            "note": "huggingface.co"
+            "start": "10:17",
+            "title": "scenarios/gpt_oss_20b/core/deception__audit_01__collusion/ ·"
           },
           {
-            "start": "10:20",
+            "cat": "admin",
             "end": "10:22",
-            "cat": "admin",
+            "note": "com.tinyspeck.slackmacgap",
             "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "start": "10:20",
+            "title": "slackmacgap"
           },
           {
-            "start": "10:22",
+            "cat": "research",
             "end": "10:25",
-            "cat": "research",
+            "note": "huggingface.co",
             "src": "macos",
-            "title": "scenarios/gpt_oss_20b/core/deception__audit_01__collusion/ ·",
-            "note": "huggingface.co"
+            "start": "10:22",
+            "title": "scenarios/gpt_oss_20b/core/deception__audit_01__collusion/ ·"
           },
           {
-            "start": "10:25",
+            "cat": "personal",
             "end": "10:28",
-            "cat": "personal",
+            "note": "youtube.com",
             "src": "macos",
-            "title": "📝 2 HOURS OF POMODORO (30/5) | 🌧️ Relaxing Piano & Rain Soun",
-            "note": "youtube.com"
+            "start": "10:25",
+            "title": "📝 2 HOURS OF POMODORO (30/5) | 🌧️ Relaxing Piano & Rain Soun"
           },
           {
-            "start": "10:30",
+            "cat": "admin",
             "end": "10:33",
-            "cat": "admin",
+            "note": "sport.mq.edu.au",
             "src": "macos",
-            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
-            "note": "sport.mq.edu.au"
+            "start": "10:30",
+            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni"
           },
           {
-            "start": "10:34",
+            "cat": "research",
             "end": "10:46",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "10:34",
+            "title": "zotero"
           },
           {
-            "start": "10:50",
+            "cat": "research",
             "end": "11:08",
-            "cat": "research",
+            "note": "huggingface.co",
             "src": "macos",
-            "title": "scenarios/gpt_oss_20b/core/deception__audit_01__collusion/ru",
-            "note": "huggingface.co"
+            "start": "10:50",
+            "title": "scenarios/gpt_oss_20b/core/deception__audit_01__collusion/ru"
           },
           {
-            "start": "11:10",
+            "cat": "writing",
             "end": "11:13",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Agents - Google Slides",
-            "note": "docs.google.com"
+            "start": "11:10",
+            "title": "Agents - Google Slides"
           },
           {
-            "start": "11:26",
+            "cat": "writing",
             "end": "11:30",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Agents - Google Slides",
-            "note": "docs.google.com"
+            "start": "11:26",
+            "title": "Agents - Google Slides"
           },
           {
-            "start": "11:30",
+            "cat": "admin",
             "end": "11:33",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "11:30",
+            "title": "Outlook"
           },
           {
-            "start": "11:33",
+            "cat": "writing",
             "end": "11:36",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Agents - Google Slides",
-            "note": "docs.google.com"
+            "start": "11:33",
+            "title": "Agents - Google Slides"
           },
           {
-            "start": "11:36",
+            "cat": "admin",
             "end": "11:37",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "11:36",
+            "title": "Outlook"
           },
           {
-            "start": "11:37",
+            "cat": "writing",
             "end": "11:41",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Agents - Google Slides",
-            "note": "docs.google.com"
+            "start": "11:37",
+            "title": "Agents - Google Slides"
           },
           {
-            "start": "11:42",
+            "cat": "research",
             "end": "11:47",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "2504.01849v1.pdf",
-            "note": "arxiv.org"
+            "start": "11:42",
+            "title": "2504.01849v1.pdf"
           },
           {
-            "start": "11:47",
+            "cat": "research",
             "end": "11:48",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "CaMeLs Can Use Computers Too: System-level Security for Comp",
-            "note": "arxiv.org"
+            "start": "11:47",
+            "title": "CaMeLs Can Use Computers Too: System-level Security for Comp"
           },
           {
-            "start": "11:48",
+            "cat": "admin",
             "end": "11:52",
-            "cat": "admin",
+            "note": "com.tinyspeck.slackmacgap",
             "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "start": "11:48",
+            "title": "slackmacgap"
           },
           {
-            "start": "11:52",
+            "cat": "research",
             "end": "11:57",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "Suppressing Misaligned Behaviors in Language Models, Durably",
-            "note": "arxiv.org"
+            "start": "11:52",
+            "title": "Suppressing Misaligned Behaviors in Language Models, Durably"
           },
           {
-            "start": "11:57",
+            "cat": "admin",
             "end": "12:00",
-            "cat": "admin",
+            "note": "com.tinyspeck.slackmacgap",
             "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "start": "11:57",
+            "title": "slackmacgap"
           },
           {
-            "start": "12:00",
+            "cat": "research",
             "end": "12:11",
-            "cat": "research",
+            "note": "openreview.net",
             "src": "macos",
-            "title": "Which Agent Causes Task Failures and When? On Automated Fail",
-            "note": "openreview.net"
+            "start": "12:00",
+            "title": "Which Agent Causes Task Failures and When? On Automated Fail"
           },
           {
-            "start": "13:24",
+            "cat": "writing",
             "end": "13:27",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Agents - Google Slides",
-            "note": "docs.google.com"
+            "start": "13:24",
+            "title": "Agents - Google Slides"
           },
           {
-            "start": "13:30",
+            "cat": "writing",
             "end": "13:32",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Agents - Google Slides",
-            "note": "docs.google.com"
+            "start": "13:30",
+            "title": "Agents - Google Slides"
           },
           {
-            "start": "13:34",
+            "cat": "writing",
             "end": "13:35",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Agents - Google Slides",
-            "note": "docs.google.com"
+            "start": "13:34",
+            "title": "Agents - Google Slides"
           },
           {
-            "start": "13:36",
+            "cat": "writing",
             "end": "13:37",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Agents - Google Slides",
-            "note": "docs.google.com"
+            "start": "13:36",
+            "title": "Agents - Google Slides"
           },
           {
-            "start": "13:37",
+            "cat": "writing",
             "end": "13:41",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Agents - Google Slides",
-            "note": "docs.google.com"
+            "start": "13:37",
+            "title": "Agents - Google Slides"
           },
           {
-            "start": "13:42",
+            "cat": "admin",
             "end": "13:44",
-            "cat": "admin",
+            "note": "schmidtsciences.smapply.io",
             "src": "macos",
-            "title": "Scaling AI Safety for a Multi-Agent World - Schmidt Sciences",
-            "note": "schmidtsciences.smapply.io"
+            "start": "13:42",
+            "title": "Scaling AI Safety for a Multi-Agent World - Schmidt Sciences"
           },
           {
-            "start": "13:44",
+            "cat": "writing",
             "end": "13:46",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Agents - Google Slides",
-            "note": "docs.google.com"
+            "start": "13:44",
+            "title": "Agents - Google Slides"
           },
           {
-            "start": "13:47",
+            "cat": "research",
             "end": "13:50",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "Which Agent Causes Task Failures and When? On Automated Fail",
-            "note": "arxiv.org"
+            "start": "13:47",
+            "title": "Which Agent Causes Task Failures and When? On Automated Fail"
           },
           {
-            "start": "13:50",
+            "cat": "writing",
             "end": "14:08",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Agents - Google Slides",
-            "note": "docs.google.com"
+            "start": "13:50",
+            "title": "Agents - Google Slides"
           },
           {
-            "start": "14:09",
+            "cat": "writing",
             "end": "14:15",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Agents - Google Slides",
-            "note": "docs.google.com"
+            "start": "14:09",
+            "title": "Agents - Google Slides"
           },
           {
-            "start": "14:16",
+            "cat": "writing",
             "end": "14:21",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Agents - Google Slides",
-            "note": "docs.google.com"
+            "start": "14:16",
+            "title": "Agents - Google Slides"
           },
           {
-            "start": "14:29",
+            "cat": "writing",
             "end": "14:33",
-            "cat": "writing",
+            "note": "file:///Users/ada/Documents/MQ/Phd/Teach",
             "src": "macos",
-            "title": "Ashikur.pdf",
-            "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+            "start": "14:29",
+            "title": "Ashikur.pdf"
           },
           {
-            "start": "14:33",
+            "cat": "personal",
             "end": "14:35",
-            "cat": "personal",
+            "note": "youtube.com",
             "src": "macos",
-            "title": "📝 1.5 HOURS POMODORO | 🌧️ 30 Minutes Study + 5 Minutes Break",
-            "note": "youtube.com"
+            "start": "14:33",
+            "title": "📝 1.5 HOURS POMODORO | 🌧️ 30 Minutes Study + 5 Minutes Break"
           },
           {
-            "start": "14:36",
+            "cat": "research",
             "end": "14:39",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "Detecting Multi-Agent Collusion Through Multi-Agent Interpre",
-            "note": "arxiv.org"
+            "start": "14:36",
+            "title": "Detecting Multi-Agent Collusion Through Multi-Agent Interpre"
           },
           {
-            "start": "14:39",
+            "cat": "research",
             "end": "14:40",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "Detecting Multi-Agent Collusion Through Multi-Agent Interpre",
-            "note": "arxiv.org"
+            "start": "14:39",
+            "title": "Detecting Multi-Agent Collusion Through Multi-Agent Interpre"
           },
           {
-            "start": "14:41",
+            "cat": "admin",
             "end": "14:44",
-            "cat": "admin",
+            "note": "iprint.mq.edu.au:9443",
             "src": "macos",
-            "title": "Dashboard",
-            "note": "iprint.mq.edu.au:9443"
+            "start": "14:41",
+            "title": "Dashboard"
           },
           {
-            "start": "14:45",
+            "cat": "research",
             "end": "14:47",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "When Autonomy Goes Rogue: Preparing for Risks of Multi-Agent",
-            "note": "arxiv.org"
+            "start": "14:45",
+            "title": "When Autonomy Goes Rogue: Preparing for Risks of Multi-Agent"
           },
           {
-            "start": "14:52",
+            "cat": "research",
             "end": "14:53",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "When Autonomy Goes Rogue: Preparing for Risks of Multi-Agent",
-            "note": "arxiv.org"
+            "start": "14:52",
+            "title": "When Autonomy Goes Rogue: Preparing for Risks of Multi-Agent"
           },
           {
-            "start": "14:53",
+            "cat": "research",
             "end": "14:56",
-            "cat": "research",
+            "note": "zh.wikipedia.org",
             "src": "macos",
-            "title": "多组学 - 维基百科，自由的百科全书",
-            "note": "zh.wikipedia.org"
+            "start": "14:53",
+            "title": "多组学 - 维基百科，自由的百科全书"
           },
           {
-            "start": "14:56",
-            "end": "15:32",
             "cat": "writing",
+            "end": "15:32",
+            "note": "file:///Users/ada/Documents/MQ/Phd/Teach",
             "src": "macos",
-            "title": "Ashikur.pdf",
-            "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+            "start": "14:56",
+            "title": "Ashikur.pdf"
           },
           {
-            "start": "15:32",
-            "end": "16:25",
             "cat": "personal",
+            "end": "16:25",
+            "note": "youtube.com",
             "src": "macos",
-            "title": "📝 2 HOURS OF POMODORO (30/5) | 🌧️ Relaxing Piano & Rain Soun",
-            "note": "youtube.com"
+            "start": "15:32",
+            "title": "📝 2 HOURS OF POMODORO (30/5) | 🌧️ Relaxing Piano & Rain Soun"
           },
           {
-            "start": "16:25",
+            "cat": "research",
             "end": "16:27",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "Auditing language models for hidden objectives",
-            "note": "arxiv.org"
+            "start": "16:25",
+            "title": "Auditing language models for hidden objectives"
           },
           {
-            "start": "16:27",
+            "cat": "admin",
             "end": "16:31",
-            "cat": "admin",
+            "note": "com.tinyspeck.slackmacgap",
             "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "start": "16:27",
+            "title": "slackmacgap"
           },
           {
-            "start": "16:31",
+            "cat": "research",
             "end": "16:33",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "Auditing language models for hidden objectives",
-            "note": "arxiv.org"
+            "start": "16:31",
+            "title": "Auditing language models for hidden objectives"
           },
           {
-            "start": "16:33",
-            "end": "16:36",
             "cat": "admin",
+            "end": "16:36",
+            "note": "com.tinyspeck.slackmacgap",
             "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "start": "16:33",
+            "title": "slackmacgap"
           },
           {
-            "start": "16:36",
+            "cat": "research",
             "end": "16:44",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "Auditing language models for hidden objectives",
-            "note": "arxiv.org"
+            "start": "16:36",
+            "title": "Auditing language models for hidden objectives"
           },
           {
-            "start": "16:44",
-            "end": "16:54",
             "cat": "research",
+            "end": "16:54",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "2503.10965v2.pdf",
-            "note": "arxiv.org"
+            "start": "16:44",
+            "title": "2503.10965v2.pdf"
           }
         ],
+        "key": "2026-11-11",
         "logged": 303,
-        "real": 219,
-        "deep": 219,
         "ratio": 0.7246349250281283,
+        "real": 219,
         "stats": {
           "contextSwitches": 35,
-          "tabsOpened": 0,
+          "justOneMoreThing": 10,
           "longestFocus": "42m",
-          "justOneMoreThing": 10
-        }
+          "tabsOpened": 0
+        },
+        "weekend": false
       },
       {
         "key": "2026-11-12",
@@ -103513,17 +103513,26 @@
         "weekend": false,
         "dateShort": "Thu, Nov 12",
         "dateLong": "Thursday, November 12",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "10:41",
+        "dayEnd": "10:46",
+        "events": [
+          {
+            "start": "10:41",
+            "end": "10:46",
+            "cat": "coding",
+            "src": "local",
+            "title": "snapshots.json",
+            "note": "3 hits"
+          }
+        ],
+        "logged": 5,
+        "real": 5,
+        "deep": 5,
+        "ratio": 1.0,
         "stats": {
           "contextSwitches": 0,
           "tabsOpened": 0,
-          "longestFocus": "0m",
+          "longestFocus": "5m",
           "justOneMoreThing": 0
         }
       },
@@ -103534,17 +103543,34 @@
         "weekend": false,
         "dateShort": "Fri, Nov 13",
         "dateLong": "Friday, November 13",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "09:56",
+        "dayEnd": "10:21",
+        "events": [
+          {
+            "start": "09:56",
+            "end": "10:16",
+            "cat": "research",
+            "src": "chrome",
+            "title": "ChatGPT",
+            "note": "chat.openai.com"
+          },
+          {
+            "start": "10:16",
+            "end": "10:21",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Cheat Sheet | iLearn",
+            "note": "ilearn.mq.edu.au"
+          }
+        ],
+        "logged": 25,
+        "real": 20,
+        "deep": 20,
+        "ratio": 0.8046899654055535,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "0m",
+          "contextSwitches": 1,
+          "tabsOpened": 6,
+          "longestFocus": "20m",
           "justOneMoreThing": 0
         }
       },
@@ -107160,450 +107186,450 @@
       "weekend": false
     },
     {
-      "key": "2026-11-11",
-      "dayNum": 11,
-      "dow": 3,
-      "weekend": false,
-      "dateShort": "Wed, Nov 11",
       "dateLong": "Wednesday, November 11",
-      "dayStart": "09:26",
+      "dateShort": "Wed, Nov 11",
       "dayEnd": "16:54",
+      "dayNum": 11,
+      "dayStart": "09:26",
+      "deep": 219,
+      "dow": 3,
       "events": [
         {
-          "start": "09:26",
+          "cat": "research",
           "end": "09:33",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "09:26",
+          "title": "zotero"
         },
         {
-          "start": "09:35",
-          "end": "09:36",
           "cat": "coding",
+          "end": "09:36",
+          "note": "github.com",
           "src": "macos",
-          "title": "aaronrose227/narcbench",
-          "note": "github.com"
+          "start": "09:35",
+          "title": "aaronrose227/narcbench"
         },
         {
-          "start": "09:53",
+          "cat": "research",
           "end": "09:56",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "09:53",
+          "title": "zotero"
         },
         {
-          "start": "09:56",
+          "cat": "writing",
           "end": "09:59",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Agents - Google Slides",
-          "note": "docs.google.com"
+          "start": "09:56",
+          "title": "Agents - Google Slides"
         },
         {
-          "start": "09:59",
+          "cat": "writing",
           "end": "10:02",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Agents - Google Slides",
-          "note": "docs.google.com"
+          "start": "09:59",
+          "title": "Agents - Google Slides"
         },
         {
-          "start": "10:02",
+          "cat": "writing",
           "end": "10:04",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Agents - Google Slides",
-          "note": "docs.google.com"
+          "start": "10:02",
+          "title": "Agents - Google Slides"
         },
         {
-          "start": "10:05",
+          "cat": "writing",
           "end": "10:14",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Agents - Google Slides",
-          "note": "docs.google.com"
+          "start": "10:05",
+          "title": "Agents - Google Slides"
         },
         {
-          "start": "10:17",
+          "cat": "research",
           "end": "10:20",
-          "cat": "research",
+          "note": "huggingface.co",
           "src": "macos",
-          "title": "scenarios/gpt_oss_20b/core/deception__audit_01__collusion/ ·",
-          "note": "huggingface.co"
+          "start": "10:17",
+          "title": "scenarios/gpt_oss_20b/core/deception__audit_01__collusion/ ·"
         },
         {
-          "start": "10:20",
+          "cat": "admin",
           "end": "10:22",
-          "cat": "admin",
+          "note": "com.tinyspeck.slackmacgap",
           "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "start": "10:20",
+          "title": "slackmacgap"
         },
         {
-          "start": "10:22",
+          "cat": "research",
           "end": "10:25",
-          "cat": "research",
+          "note": "huggingface.co",
           "src": "macos",
-          "title": "scenarios/gpt_oss_20b/core/deception__audit_01__collusion/ ·",
-          "note": "huggingface.co"
+          "start": "10:22",
+          "title": "scenarios/gpt_oss_20b/core/deception__audit_01__collusion/ ·"
         },
         {
-          "start": "10:25",
+          "cat": "personal",
           "end": "10:28",
-          "cat": "personal",
+          "note": "youtube.com",
           "src": "macos",
-          "title": "📝 2 HOURS OF POMODORO (30/5) | 🌧️ Relaxing Piano & Rain Soun",
-          "note": "youtube.com"
+          "start": "10:25",
+          "title": "📝 2 HOURS OF POMODORO (30/5) | 🌧️ Relaxing Piano & Rain Soun"
         },
         {
-          "start": "10:30",
+          "cat": "admin",
           "end": "10:33",
-          "cat": "admin",
+          "note": "sport.mq.edu.au",
           "src": "macos",
-          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
-          "note": "sport.mq.edu.au"
+          "start": "10:30",
+          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni"
         },
         {
-          "start": "10:34",
+          "cat": "research",
           "end": "10:46",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "10:34",
+          "title": "zotero"
         },
         {
-          "start": "10:50",
+          "cat": "research",
           "end": "11:08",
-          "cat": "research",
+          "note": "huggingface.co",
           "src": "macos",
-          "title": "scenarios/gpt_oss_20b/core/deception__audit_01__collusion/ru",
-          "note": "huggingface.co"
+          "start": "10:50",
+          "title": "scenarios/gpt_oss_20b/core/deception__audit_01__collusion/ru"
         },
         {
-          "start": "11:10",
+          "cat": "writing",
           "end": "11:13",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Agents - Google Slides",
-          "note": "docs.google.com"
+          "start": "11:10",
+          "title": "Agents - Google Slides"
         },
         {
-          "start": "11:26",
+          "cat": "writing",
           "end": "11:30",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Agents - Google Slides",
-          "note": "docs.google.com"
+          "start": "11:26",
+          "title": "Agents - Google Slides"
         },
         {
-          "start": "11:30",
+          "cat": "admin",
           "end": "11:33",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "11:30",
+          "title": "Outlook"
         },
         {
-          "start": "11:33",
+          "cat": "writing",
           "end": "11:36",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Agents - Google Slides",
-          "note": "docs.google.com"
+          "start": "11:33",
+          "title": "Agents - Google Slides"
         },
         {
-          "start": "11:36",
+          "cat": "admin",
           "end": "11:37",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "11:36",
+          "title": "Outlook"
         },
         {
-          "start": "11:37",
+          "cat": "writing",
           "end": "11:41",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Agents - Google Slides",
-          "note": "docs.google.com"
+          "start": "11:37",
+          "title": "Agents - Google Slides"
         },
         {
-          "start": "11:42",
+          "cat": "research",
           "end": "11:47",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "2504.01849v1.pdf",
-          "note": "arxiv.org"
+          "start": "11:42",
+          "title": "2504.01849v1.pdf"
         },
         {
-          "start": "11:47",
+          "cat": "research",
           "end": "11:48",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "CaMeLs Can Use Computers Too: System-level Security for Comp",
-          "note": "arxiv.org"
+          "start": "11:47",
+          "title": "CaMeLs Can Use Computers Too: System-level Security for Comp"
         },
         {
-          "start": "11:48",
+          "cat": "admin",
           "end": "11:52",
-          "cat": "admin",
+          "note": "com.tinyspeck.slackmacgap",
           "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "start": "11:48",
+          "title": "slackmacgap"
         },
         {
-          "start": "11:52",
+          "cat": "research",
           "end": "11:57",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "Suppressing Misaligned Behaviors in Language Models, Durably",
-          "note": "arxiv.org"
+          "start": "11:52",
+          "title": "Suppressing Misaligned Behaviors in Language Models, Durably"
         },
         {
-          "start": "11:57",
+          "cat": "admin",
           "end": "12:00",
-          "cat": "admin",
+          "note": "com.tinyspeck.slackmacgap",
           "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "start": "11:57",
+          "title": "slackmacgap"
         },
         {
-          "start": "12:00",
+          "cat": "research",
           "end": "12:11",
-          "cat": "research",
+          "note": "openreview.net",
           "src": "macos",
-          "title": "Which Agent Causes Task Failures and When? On Automated Fail",
-          "note": "openreview.net"
+          "start": "12:00",
+          "title": "Which Agent Causes Task Failures and When? On Automated Fail"
         },
         {
-          "start": "13:24",
+          "cat": "writing",
           "end": "13:27",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Agents - Google Slides",
-          "note": "docs.google.com"
+          "start": "13:24",
+          "title": "Agents - Google Slides"
         },
         {
-          "start": "13:30",
+          "cat": "writing",
           "end": "13:32",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Agents - Google Slides",
-          "note": "docs.google.com"
+          "start": "13:30",
+          "title": "Agents - Google Slides"
         },
         {
-          "start": "13:34",
+          "cat": "writing",
           "end": "13:35",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Agents - Google Slides",
-          "note": "docs.google.com"
+          "start": "13:34",
+          "title": "Agents - Google Slides"
         },
         {
-          "start": "13:36",
+          "cat": "writing",
           "end": "13:37",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Agents - Google Slides",
-          "note": "docs.google.com"
+          "start": "13:36",
+          "title": "Agents - Google Slides"
         },
         {
-          "start": "13:37",
+          "cat": "writing",
           "end": "13:41",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Agents - Google Slides",
-          "note": "docs.google.com"
+          "start": "13:37",
+          "title": "Agents - Google Slides"
         },
         {
-          "start": "13:42",
+          "cat": "admin",
           "end": "13:44",
-          "cat": "admin",
+          "note": "schmidtsciences.smapply.io",
           "src": "macos",
-          "title": "Scaling AI Safety for a Multi-Agent World - Schmidt Sciences",
-          "note": "schmidtsciences.smapply.io"
+          "start": "13:42",
+          "title": "Scaling AI Safety for a Multi-Agent World - Schmidt Sciences"
         },
         {
-          "start": "13:44",
+          "cat": "writing",
           "end": "13:46",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Agents - Google Slides",
-          "note": "docs.google.com"
+          "start": "13:44",
+          "title": "Agents - Google Slides"
         },
         {
-          "start": "13:47",
+          "cat": "research",
           "end": "13:50",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "Which Agent Causes Task Failures and When? On Automated Fail",
-          "note": "arxiv.org"
+          "start": "13:47",
+          "title": "Which Agent Causes Task Failures and When? On Automated Fail"
         },
         {
-          "start": "13:50",
+          "cat": "writing",
           "end": "14:08",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Agents - Google Slides",
-          "note": "docs.google.com"
+          "start": "13:50",
+          "title": "Agents - Google Slides"
         },
         {
-          "start": "14:09",
+          "cat": "writing",
           "end": "14:15",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Agents - Google Slides",
-          "note": "docs.google.com"
+          "start": "14:09",
+          "title": "Agents - Google Slides"
         },
         {
-          "start": "14:16",
+          "cat": "writing",
           "end": "14:21",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Agents - Google Slides",
-          "note": "docs.google.com"
+          "start": "14:16",
+          "title": "Agents - Google Slides"
         },
         {
-          "start": "14:29",
+          "cat": "writing",
           "end": "14:33",
-          "cat": "writing",
+          "note": "file:///Users/ada/Documents/MQ/Phd/Teach",
           "src": "macos",
-          "title": "Ashikur.pdf",
-          "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+          "start": "14:29",
+          "title": "Ashikur.pdf"
         },
         {
-          "start": "14:33",
+          "cat": "personal",
           "end": "14:35",
-          "cat": "personal",
+          "note": "youtube.com",
           "src": "macos",
-          "title": "📝 1.5 HOURS POMODORO | 🌧️ 30 Minutes Study + 5 Minutes Break",
-          "note": "youtube.com"
+          "start": "14:33",
+          "title": "📝 1.5 HOURS POMODORO | 🌧️ 30 Minutes Study + 5 Minutes Break"
         },
         {
-          "start": "14:36",
+          "cat": "research",
           "end": "14:39",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "Detecting Multi-Agent Collusion Through Multi-Agent Interpre",
-          "note": "arxiv.org"
+          "start": "14:36",
+          "title": "Detecting Multi-Agent Collusion Through Multi-Agent Interpre"
         },
         {
-          "start": "14:39",
+          "cat": "research",
           "end": "14:40",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "Detecting Multi-Agent Collusion Through Multi-Agent Interpre",
-          "note": "arxiv.org"
+          "start": "14:39",
+          "title": "Detecting Multi-Agent Collusion Through Multi-Agent Interpre"
         },
         {
-          "start": "14:41",
+          "cat": "admin",
           "end": "14:44",
-          "cat": "admin",
+          "note": "iprint.mq.edu.au:9443",
           "src": "macos",
-          "title": "Dashboard",
-          "note": "iprint.mq.edu.au:9443"
+          "start": "14:41",
+          "title": "Dashboard"
         },
         {
-          "start": "14:45",
+          "cat": "research",
           "end": "14:47",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "When Autonomy Goes Rogue: Preparing for Risks of Multi-Agent",
-          "note": "arxiv.org"
+          "start": "14:45",
+          "title": "When Autonomy Goes Rogue: Preparing for Risks of Multi-Agent"
         },
         {
-          "start": "14:52",
+          "cat": "research",
           "end": "14:53",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "When Autonomy Goes Rogue: Preparing for Risks of Multi-Agent",
-          "note": "arxiv.org"
+          "start": "14:52",
+          "title": "When Autonomy Goes Rogue: Preparing for Risks of Multi-Agent"
         },
         {
-          "start": "14:53",
+          "cat": "research",
           "end": "14:56",
-          "cat": "research",
+          "note": "zh.wikipedia.org",
           "src": "macos",
-          "title": "多组学 - 维基百科，自由的百科全书",
-          "note": "zh.wikipedia.org"
+          "start": "14:53",
+          "title": "多组学 - 维基百科，自由的百科全书"
         },
         {
-          "start": "14:56",
-          "end": "15:32",
           "cat": "writing",
+          "end": "15:32",
+          "note": "file:///Users/ada/Documents/MQ/Phd/Teach",
           "src": "macos",
-          "title": "Ashikur.pdf",
-          "note": "file:///Users/ada/Documents/MQ/Phd/Teach"
+          "start": "14:56",
+          "title": "Ashikur.pdf"
         },
         {
-          "start": "15:32",
-          "end": "16:25",
           "cat": "personal",
+          "end": "16:25",
+          "note": "youtube.com",
           "src": "macos",
-          "title": "📝 2 HOURS OF POMODORO (30/5) | 🌧️ Relaxing Piano & Rain Soun",
-          "note": "youtube.com"
+          "start": "15:32",
+          "title": "📝 2 HOURS OF POMODORO (30/5) | 🌧️ Relaxing Piano & Rain Soun"
         },
         {
-          "start": "16:25",
+          "cat": "research",
           "end": "16:27",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "Auditing language models for hidden objectives",
-          "note": "arxiv.org"
+          "start": "16:25",
+          "title": "Auditing language models for hidden objectives"
         },
         {
-          "start": "16:27",
+          "cat": "admin",
           "end": "16:31",
-          "cat": "admin",
+          "note": "com.tinyspeck.slackmacgap",
           "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "start": "16:27",
+          "title": "slackmacgap"
         },
         {
-          "start": "16:31",
+          "cat": "research",
           "end": "16:33",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "Auditing language models for hidden objectives",
-          "note": "arxiv.org"
+          "start": "16:31",
+          "title": "Auditing language models for hidden objectives"
         },
         {
-          "start": "16:33",
-          "end": "16:36",
           "cat": "admin",
+          "end": "16:36",
+          "note": "com.tinyspeck.slackmacgap",
           "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "start": "16:33",
+          "title": "slackmacgap"
         },
         {
-          "start": "16:36",
+          "cat": "research",
           "end": "16:44",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "Auditing language models for hidden objectives",
-          "note": "arxiv.org"
+          "start": "16:36",
+          "title": "Auditing language models for hidden objectives"
         },
         {
-          "start": "16:44",
-          "end": "16:54",
           "cat": "research",
+          "end": "16:54",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "2503.10965v2.pdf",
-          "note": "arxiv.org"
+          "start": "16:44",
+          "title": "2503.10965v2.pdf"
         }
       ],
+      "key": "2026-11-11",
       "logged": 303,
-      "real": 219,
-      "deep": 219,
       "ratio": 0.7246349250281283,
+      "real": 219,
       "stats": {
         "contextSwitches": 35,
-        "tabsOpened": 0,
+        "justOneMoreThing": 10,
         "longestFocus": "42m",
-        "justOneMoreThing": 10
-      }
+        "tabsOpened": 0
+      },
+      "weekend": false
     },
     {
       "key": "2026-11-12",
@@ -107612,17 +107638,26 @@
       "weekend": false,
       "dateShort": "Thu, Nov 12",
       "dateLong": "Thursday, November 12",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "10:41",
+      "dayEnd": "10:46",
+      "events": [
+        {
+          "start": "10:41",
+          "end": "10:46",
+          "cat": "coding",
+          "src": "local",
+          "title": "snapshots.json",
+          "note": "3 hits"
+        }
+      ],
+      "logged": 5,
+      "real": 5,
+      "deep": 5,
+      "ratio": 1.0,
       "stats": {
         "contextSwitches": 0,
         "tabsOpened": 0,
-        "longestFocus": "0m",
+        "longestFocus": "5m",
         "justOneMoreThing": 0
       }
     },
@@ -107633,17 +107668,34 @@
       "weekend": false,
       "dateShort": "Fri, Nov 13",
       "dateLong": "Friday, November 13",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "09:56",
+      "dayEnd": "10:21",
+      "events": [
+        {
+          "start": "09:56",
+          "end": "10:16",
+          "cat": "research",
+          "src": "chrome",
+          "title": "ChatGPT",
+          "note": "chat.openai.com"
+        },
+        {
+          "start": "10:16",
+          "end": "10:21",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Cheat Sheet | iLearn",
+          "note": "ilearn.mq.edu.au"
+        }
+      ],
+      "logged": 25,
+      "real": 20,
+      "deep": 20,
+      "ratio": 0.8046899654055535,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "0m",
+        "contextSwitches": 1,
+        "tabsOpened": 6,
+        "longestFocus": "20m",
         "justOneMoreThing": 0
       }
     },
