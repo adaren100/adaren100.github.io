@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-11-14T10:35:33+11:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-11-15T10:28:01+11:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -103507,528 +103507,528 @@
         "weekend": false
       },
       {
-        "key": "2026-11-12",
-        "dayNum": 12,
-        "dow": 4,
-        "weekend": false,
-        "dateShort": "Thu, Nov 12",
         "dateLong": "Thursday, November 12",
-        "dayStart": "10:41",
+        "dateShort": "Thu, Nov 12",
         "dayEnd": "10:46",
+        "dayNum": 12,
+        "dayStart": "10:41",
+        "deep": 5,
+        "dow": 4,
         "events": [
           {
-            "start": "10:41",
-            "end": "10:46",
             "cat": "coding",
+            "end": "10:46",
+            "note": "1 hit",
             "src": "local",
-            "title": "snapshots.json",
-            "note": "1 hit"
+            "start": "10:41",
+            "title": "snapshots.json"
           }
         ],
+        "key": "2026-11-12",
         "logged": 5,
-        "real": 5,
-        "deep": 5,
         "ratio": 1.0,
+        "real": 5,
         "stats": {
           "contextSwitches": 0,
-          "tabsOpened": 0,
+          "justOneMoreThing": 0,
           "longestFocus": "5m",
-          "justOneMoreThing": 0
-        }
+          "tabsOpened": 0
+        },
+        "weekend": false
       },
       {
-        "key": "2026-11-13",
-        "dayNum": 13,
-        "dow": 5,
-        "weekend": false,
-        "dateShort": "Fri, Nov 13",
         "dateLong": "Friday, November 13",
-        "dayStart": "09:55",
+        "dateShort": "Fri, Nov 13",
         "dayEnd": "19:45",
+        "dayNum": 13,
+        "dayStart": "09:55",
+        "deep": 298,
+        "dow": 5,
         "events": [
           {
-            "start": "09:55",
+            "cat": "research",
             "end": "09:56",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "09:55",
+            "title": "zotero"
           },
           {
-            "start": "09:59",
+            "cat": "research",
             "end": "10:00",
-            "cat": "research",
+            "note": "chatgpt.com",
             "src": "macos",
-            "title": "ChatGPT",
-            "note": "chatgpt.com"
+            "start": "09:59",
+            "title": "ChatGPT"
           },
           {
-            "start": "10:01",
+            "cat": "admin",
             "end": "10:03",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Cheat Sheet | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "10:01",
+            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Cheat Sheet | iLearn"
           },
           {
-            "start": "10:06",
+            "cat": "admin",
             "end": "10:10",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "10:06",
+            "title": "Outlook"
           },
           {
-            "start": "10:12",
+            "cat": "admin",
             "end": "10:13",
-            "cat": "admin",
+            "note": "ilearn.mq.edu.au",
             "src": "macos",
-            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Cheat Sheet | iLearn",
-            "note": "ilearn.mq.edu.au"
+            "start": "10:12",
+            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Cheat Sheet | iLearn"
           },
           {
-            "start": "10:13",
+            "cat": "personal",
             "end": "10:16",
-            "cat": "personal",
+            "note": "youtube.com",
             "src": "macos",
-            "title": "(3) YouTube",
-            "note": "youtube.com"
+            "start": "10:13",
+            "title": "(3) YouTube"
           },
           {
-            "start": "10:16",
+            "cat": "research",
             "end": "10:57",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "10:16",
+            "title": "zotero"
           },
           {
-            "start": "11:02",
+            "cat": "research",
             "end": "11:09",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "macos",
-            "title": "Supporting research on AI and children's safety | Ada's Note",
-            "note": "adaren100.github.io"
+            "start": "11:02",
+            "title": "Supporting research on AI and children's safety | Ada's Note"
           },
           {
-            "start": "11:10",
+            "cat": "personal",
             "end": "11:11",
-            "cat": "personal",
+            "note": "x.com",
             "src": "macos",
-            "title": "主页 / X",
-            "note": "x.com"
+            "start": "11:10",
+            "title": "主页 / X"
           },
           {
-            "start": "11:14",
+            "cat": "personal",
             "end": "11:15",
-            "cat": "personal",
+            "note": "youtube.com",
             "src": "macos",
-            "title": "(3) YouTube",
-            "note": "youtube.com"
+            "start": "11:14",
+            "title": "(3) YouTube"
           },
           {
-            "start": "11:15",
+            "cat": "research",
             "end": "11:27",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "11:15",
+            "title": "zotero"
           },
           {
-            "start": "11:27",
+            "cat": "research",
             "end": "11:29",
-            "cat": "research",
+            "note": "openreview.net",
             "src": "macos",
-            "title": "Monitoring Monitorability | OpenReview",
-            "note": "openreview.net"
+            "start": "11:27",
+            "title": "Monitoring Monitorability | OpenReview"
           },
           {
-            "start": "11:30",
+            "cat": "research",
             "end": "11:43",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "11:30",
+            "title": "zotero"
           },
           {
-            "start": "11:43",
+            "cat": "admin",
             "end": "11:45",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "F1 precision recall - Google Search",
-            "note": "google.com"
+            "start": "11:43",
+            "title": "F1 precision recall - Google Search"
           },
           {
-            "start": "11:46",
+            "cat": "research",
             "end": "11:52",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "11:46",
+            "title": "zotero"
           },
           {
-            "start": "11:52",
+            "cat": "admin",
             "end": "11:55",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "F1 precision recall - Google Search",
-            "note": "google.com"
+            "start": "11:52",
+            "title": "F1 precision recall - Google Search"
           },
           {
-            "start": "11:55",
+            "cat": "research",
             "end": "12:04",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "11:55",
+            "title": "zotero"
           },
           {
-            "start": "13:19",
+            "cat": "research",
             "end": "13:21",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "13:19",
+            "title": "zotero"
           },
           {
-            "start": "13:24",
+            "cat": "admin",
             "end": "13:26",
-            "cat": "admin",
+            "note": "linkedin.com",
             "src": "macos",
-            "title": "Feed | LinkedIn",
-            "note": "linkedin.com"
+            "start": "13:24",
+            "title": "Feed | LinkedIn"
           },
           {
-            "start": "13:27",
+            "cat": "admin",
             "end": "13:29",
-            "cat": "admin",
+            "note": "linkedin.com",
             "src": "macos",
-            "title": "Nargiz Zhanabayeva | LinkedIn",
-            "note": "linkedin.com"
+            "start": "13:27",
+            "title": "Nargiz Zhanabayeva | LinkedIn"
           },
           {
-            "start": "13:31",
+            "cat": "research",
             "end": "13:42",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "13:31",
+            "title": "zotero"
           },
           {
-            "start": "13:42",
+            "cat": "writing",
             "end": "13:51",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Oversight Mechanisms for LLM Agents A Literature Review - Go",
-            "note": "docs.google.com"
+            "start": "13:42",
+            "title": "Oversight Mechanisms for LLM Agents A Literature Review - Go"
           },
           {
-            "start": "13:51",
+            "cat": "research",
             "end": "13:52",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "Colosseum: Auditing Collusion in Cooperative Multi-Agent Sys",
-            "note": "arxiv.org"
+            "start": "13:51",
+            "title": "Colosseum: Auditing Collusion in Cooperative Multi-Agent Sys"
           },
           {
-            "start": "13:53",
+            "cat": "research",
             "end": "13:54",
-            "cat": "research",
+            "note": "online.stanford.edu",
             "src": "macos",
-            "title": "Browse All | Stanford Online",
-            "note": "online.stanford.edu"
+            "start": "13:53",
+            "title": "Browse All | Stanford Online"
           },
           {
-            "start": "13:54",
+            "cat": "admin",
             "end": "13:56",
-            "cat": "admin",
+            "note": "schmidtsciences.smapply.io",
             "src": "macos",
-            "title": "Scaling AI Safety for a Multi-Agent World - Schmidt Sciences",
-            "note": "schmidtsciences.smapply.io"
+            "start": "13:54",
+            "title": "Scaling AI Safety for a Multi-Agent World - Schmidt Sciences"
           },
           {
-            "start": "14:01",
+            "cat": "research",
             "end": "14:02",
-            "cat": "research",
+            "note": "huggingface.co",
             "src": "macos",
-            "title": "SALT-NLP/agent-collusion · Datasets at Hugging Face",
-            "note": "huggingface.co"
+            "start": "14:01",
+            "title": "SALT-NLP/agent-collusion · Datasets at Hugging Face"
           },
           {
-            "start": "14:04",
+            "cat": "research",
             "end": "14:05",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "Emergent Collusion in Long-Horizon LLM Agent Interaction",
-            "note": "arxiv.org"
+            "start": "14:04",
+            "title": "Emergent Collusion in Long-Horizon LLM Agent Interaction"
           },
           {
-            "start": "14:07",
+            "cat": "research",
             "end": "14:18",
-            "cat": "research",
+            "note": "scholar.google.com",
             "src": "macos",
-            "title": "‪Diyi Yang‬ - ‪Google Scholar‬",
-            "note": "scholar.google.com"
+            "start": "14:07",
+            "title": "‪Diyi Yang‬ - ‪Google Scholar‬"
           },
           {
-            "start": "14:18",
+            "cat": "admin",
             "end": "14:24",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "macos",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "14:18",
+            "title": "Google Translate"
           },
           {
-            "start": "14:24",
+            "cat": "writing",
             "end": "14:32",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Agents - Google Slides",
-            "note": "docs.google.com"
+            "start": "14:24",
+            "title": "Agents - Google Slides"
           },
           {
-            "start": "14:32",
-            "end": "14:34",
             "cat": "personal",
+            "end": "14:34",
+            "note": "youtube.com",
             "src": "macos",
-            "title": "(4) 📝 3 HOURS OF FOCUS | ⏰ 30/5 Pomodoro Timer (3 Hours) wit",
-            "note": "youtube.com"
+            "start": "14:32",
+            "title": "(4) 📝 3 HOURS OF FOCUS | ⏰ 30/5 Pomodoro Timer (3 Hours) wit"
           },
           {
-            "start": "14:34",
+            "cat": "coding",
             "end": "15:02",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "14:34",
+            "title": "VSCode"
           },
           {
-            "start": "15:03",
+            "cat": "research",
             "end": "15:04",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "Monitoring Monitorability",
-            "note": "arxiv.org"
+            "start": "15:03",
+            "title": "Monitoring Monitorability"
           },
           {
-            "start": "15:05",
+            "cat": "coding",
             "end": "15:32",
-            "cat": "coding",
+            "note": "7 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "7 hits"
+            "start": "15:05",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "15:32",
+            "cat": "writing",
             "end": "15:35",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Agents - Google Slides",
-            "note": "docs.google.com"
+            "start": "15:32",
+            "title": "Agents - Google Slides"
           },
           {
-            "start": "15:36",
+            "cat": "admin",
             "end": "15:37",
-            "cat": "admin",
+            "note": "com.tinyspeck.slackmacgap",
             "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "start": "15:36",
+            "title": "slackmacgap"
           },
           {
-            "start": "15:37",
+            "cat": "writing",
             "end": "15:40",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Agents - Google Slides",
-            "note": "docs.google.com"
+            "start": "15:37",
+            "title": "Agents - Google Slides"
           },
           {
-            "start": "15:40",
-            "end": "15:46",
             "cat": "admin",
+            "end": "15:46",
+            "note": "com.tinyspeck.slackmacgap",
             "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "start": "15:40",
+            "title": "slackmacgap"
           },
           {
-            "start": "15:46",
+            "cat": "research",
             "end": "15:48",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "15:46",
+            "title": "zotero"
           },
           {
-            "start": "15:48",
+            "cat": "writing",
             "end": "16:02",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Agents - Google Slides",
-            "note": "docs.google.com"
+            "start": "15:48",
+            "title": "Agents - Google Slides"
           },
           {
-            "start": "16:03",
+            "cat": "writing",
             "end": "16:14",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Agents - Google Slides",
-            "note": "docs.google.com"
+            "start": "16:03",
+            "title": "Agents - Google Slides"
           },
           {
-            "start": "16:14",
+            "cat": "coding",
             "end": "16:21",
-            "cat": "coding",
+            "note": "42 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "42 hits"
+            "start": "16:14",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "16:22",
+            "cat": "coding",
             "end": "16:23",
-            "cat": "coding",
+            "note": "github.com",
             "src": "macos",
-            "title": "XinmingTu/BenchGuard: BenchGuard is an automated auditing fr",
-            "note": "github.com"
+            "start": "16:22",
+            "title": "XinmingTu/BenchGuard: BenchGuard is an automated auditing fr"
           },
           {
-            "start": "16:25",
+            "cat": "coding",
             "end": "16:37",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "16:25",
+            "title": "VSCode"
           },
           {
-            "start": "16:37",
+            "cat": "coding",
             "end": "16:52",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "16:37",
+            "title": "VSCode"
           },
           {
-            "start": "16:54",
+            "cat": "writing",
             "end": "16:55",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Agents - Google Slides",
-            "note": "docs.google.com"
+            "start": "16:54",
+            "title": "Agents - Google Slides"
           },
           {
-            "start": "16:56",
+            "cat": "coding",
             "end": "16:56",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "16:56",
+            "title": "VSCode"
           },
           {
-            "start": "16:57",
+            "cat": "coding",
             "end": "17:00",
-            "cat": "coding",
+            "note": "27 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "27 hits"
+            "start": "16:57",
+            "title": "Claude session · harbor"
           },
           {
+            "cat": "coding",
+            "end": "17:01",
+            "note": "27 hits",
+            "src": "claude",
             "start": "17:00",
-            "end": "17:01",
-            "cat": "coding",
-            "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "27 hits"
+            "title": "Claude session · harbor"
           },
           {
-            "start": "17:01",
-            "end": "17:01",
             "cat": "meeting",
+            "end": "17:01",
+            "note": "macquarie.zoom.us",
             "src": "macos",
-            "title": "Join from Zoom Workplace app - Zoom",
-            "note": "macquarie.zoom.us"
+            "start": "17:01",
+            "title": "Join from Zoom Workplace app - Zoom"
           },
           {
-            "start": "17:02",
+            "cat": "writing",
             "end": "17:04",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Agents - Google Slides",
-            "note": "docs.google.com"
+            "start": "17:02",
+            "title": "Agents - Google Slides"
           },
           {
-            "start": "17:05",
+            "cat": "writing",
             "end": "17:13",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Agents - Google Slides",
-            "note": "docs.google.com"
+            "start": "17:05",
+            "title": "Agents - Google Slides"
           },
           {
-            "start": "17:14",
+            "cat": "writing",
             "end": "17:16",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Agents - Google Slides",
-            "note": "docs.google.com"
+            "start": "17:14",
+            "title": "Agents - Google Slides"
           },
           {
-            "start": "17:16",
+            "cat": "writing",
             "end": "17:20",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Agents - Google Slides",
-            "note": "docs.google.com"
+            "start": "17:16",
+            "title": "Agents - Google Slides"
           },
           {
-            "start": "17:20",
+            "cat": "writing",
             "end": "17:22",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Agents - Google Slides",
-            "note": "docs.google.com"
+            "start": "17:20",
+            "title": "Agents - Google Slides"
           },
           {
-            "start": "17:24",
+            "cat": "writing",
             "end": "17:26",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Agents - Google Slides",
-            "note": "docs.google.com"
+            "start": "17:24",
+            "title": "Agents - Google Slides"
           },
           {
-            "start": "17:26",
+            "cat": "writing",
             "end": "17:30",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Agents - Google Slides",
-            "note": "docs.google.com"
+            "start": "17:26",
+            "title": "Agents - Google Slides"
           },
           {
-            "start": "17:30",
-            "end": "17:34",
             "cat": "research",
+            "end": "17:34",
+            "note": "semeval.github.io",
             "src": "macos",
-            "title": "SemEval-2027 Tasks | SemEval-2027",
-            "note": "semeval.github.io"
+            "start": "17:30",
+            "title": "SemEval-2027 Tasks | SemEval-2027"
           },
           {
-            "start": "19:42",
-            "end": "19:45",
             "cat": "coding",
+            "end": "19:45",
+            "note": "1 hit",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "1 hit"
+            "start": "19:42",
+            "title": "Claude session · harbor"
           }
         ],
+        "key": "2026-11-13",
         "logged": 335,
-        "real": 298,
-        "deep": 298,
         "ratio": 0.8903909126379075,
+        "real": 298,
         "stats": {
           "contextSwitches": 34,
-          "tabsOpened": 0,
+          "justOneMoreThing": 7,
           "longestFocus": "1h 36m",
-          "justOneMoreThing": 7
-        }
+          "tabsOpened": 0
+        },
+        "weekend": false
       },
       {
         "key": "2026-11-14",
@@ -104037,17 +104037,74 @@
         "weekend": true,
         "dateShort": "Sat, Nov 14",
         "dateLong": "Saturday, November 14",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "10:35",
+        "dayEnd": "16:31",
+        "events": [
+          {
+            "start": "10:35",
+            "end": "10:42",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "10:45",
+            "end": "10:55",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "10:57",
+            "end": "11:13",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Mardi Gras PARTY | On Sale Now! - ada.ren.cn@gmail.com - Gma",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "11:13",
+            "end": "11:19",
+            "cat": "research",
+            "src": "macos",
+            "title": "解释逐上下文归一化",
+            "note": "chatgpt.com"
+          },
+          {
+            "start": "11:27",
+            "end": "11:51",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "15:08",
+            "end": "16:08",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "74 hits"
+          },
+          {
+            "start": "16:22",
+            "end": "16:31",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "63 hits"
+          }
+        ],
+        "logged": 132,
+        "real": 106,
+        "deep": 106,
+        "ratio": 0.8059619856802014,
         "stats": {
-          "contextSwitches": 0,
+          "contextSwitches": 3,
           "tabsOpened": 0,
-          "longestFocus": "0m",
+          "longestFocus": "1h 39m",
           "justOneMoreThing": 0
         }
       },
@@ -108088,528 +108145,528 @@
       "weekend": false
     },
     {
-      "key": "2026-11-12",
-      "dayNum": 12,
-      "dow": 4,
-      "weekend": false,
-      "dateShort": "Thu, Nov 12",
       "dateLong": "Thursday, November 12",
-      "dayStart": "10:41",
+      "dateShort": "Thu, Nov 12",
       "dayEnd": "10:46",
+      "dayNum": 12,
+      "dayStart": "10:41",
+      "deep": 5,
+      "dow": 4,
       "events": [
         {
-          "start": "10:41",
-          "end": "10:46",
           "cat": "coding",
+          "end": "10:46",
+          "note": "1 hit",
           "src": "local",
-          "title": "snapshots.json",
-          "note": "1 hit"
+          "start": "10:41",
+          "title": "snapshots.json"
         }
       ],
+      "key": "2026-11-12",
       "logged": 5,
-      "real": 5,
-      "deep": 5,
       "ratio": 1.0,
+      "real": 5,
       "stats": {
         "contextSwitches": 0,
-        "tabsOpened": 0,
+        "justOneMoreThing": 0,
         "longestFocus": "5m",
-        "justOneMoreThing": 0
-      }
+        "tabsOpened": 0
+      },
+      "weekend": false
     },
     {
-      "key": "2026-11-13",
-      "dayNum": 13,
-      "dow": 5,
-      "weekend": false,
-      "dateShort": "Fri, Nov 13",
       "dateLong": "Friday, November 13",
-      "dayStart": "09:55",
+      "dateShort": "Fri, Nov 13",
       "dayEnd": "19:45",
+      "dayNum": 13,
+      "dayStart": "09:55",
+      "deep": 298,
+      "dow": 5,
       "events": [
         {
-          "start": "09:55",
+          "cat": "research",
           "end": "09:56",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "09:55",
+          "title": "zotero"
         },
         {
-          "start": "09:59",
+          "cat": "research",
           "end": "10:00",
-          "cat": "research",
+          "note": "chatgpt.com",
           "src": "macos",
-          "title": "ChatGPT",
-          "note": "chatgpt.com"
+          "start": "09:59",
+          "title": "ChatGPT"
         },
         {
-          "start": "10:01",
+          "cat": "admin",
           "end": "10:03",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Cheat Sheet | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "10:01",
+          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Cheat Sheet | iLearn"
         },
         {
-          "start": "10:06",
+          "cat": "admin",
           "end": "10:10",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "10:06",
+          "title": "Outlook"
         },
         {
-          "start": "10:12",
+          "cat": "admin",
           "end": "10:13",
-          "cat": "admin",
+          "note": "ilearn.mq.edu.au",
           "src": "macos",
-          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Cheat Sheet | iLearn",
-          "note": "ilearn.mq.edu.au"
+          "start": "10:12",
+          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Cheat Sheet | iLearn"
         },
         {
-          "start": "10:13",
+          "cat": "personal",
           "end": "10:16",
-          "cat": "personal",
+          "note": "youtube.com",
           "src": "macos",
-          "title": "(3) YouTube",
-          "note": "youtube.com"
+          "start": "10:13",
+          "title": "(3) YouTube"
         },
         {
-          "start": "10:16",
+          "cat": "research",
           "end": "10:57",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "10:16",
+          "title": "zotero"
         },
         {
-          "start": "11:02",
+          "cat": "research",
           "end": "11:09",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "macos",
-          "title": "Supporting research on AI and children's safety | Ada's Note",
-          "note": "adaren100.github.io"
+          "start": "11:02",
+          "title": "Supporting research on AI and children's safety | Ada's Note"
         },
         {
-          "start": "11:10",
+          "cat": "personal",
           "end": "11:11",
-          "cat": "personal",
+          "note": "x.com",
           "src": "macos",
-          "title": "主页 / X",
-          "note": "x.com"
+          "start": "11:10",
+          "title": "主页 / X"
         },
         {
-          "start": "11:14",
+          "cat": "personal",
           "end": "11:15",
-          "cat": "personal",
+          "note": "youtube.com",
           "src": "macos",
-          "title": "(3) YouTube",
-          "note": "youtube.com"
+          "start": "11:14",
+          "title": "(3) YouTube"
         },
         {
-          "start": "11:15",
+          "cat": "research",
           "end": "11:27",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "11:15",
+          "title": "zotero"
         },
         {
-          "start": "11:27",
+          "cat": "research",
           "end": "11:29",
-          "cat": "research",
+          "note": "openreview.net",
           "src": "macos",
-          "title": "Monitoring Monitorability | OpenReview",
-          "note": "openreview.net"
+          "start": "11:27",
+          "title": "Monitoring Monitorability | OpenReview"
         },
         {
-          "start": "11:30",
+          "cat": "research",
           "end": "11:43",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "11:30",
+          "title": "zotero"
         },
         {
-          "start": "11:43",
+          "cat": "admin",
           "end": "11:45",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "F1 precision recall - Google Search",
-          "note": "google.com"
+          "start": "11:43",
+          "title": "F1 precision recall - Google Search"
         },
         {
-          "start": "11:46",
+          "cat": "research",
           "end": "11:52",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "11:46",
+          "title": "zotero"
         },
         {
-          "start": "11:52",
+          "cat": "admin",
           "end": "11:55",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "F1 precision recall - Google Search",
-          "note": "google.com"
+          "start": "11:52",
+          "title": "F1 precision recall - Google Search"
         },
         {
-          "start": "11:55",
+          "cat": "research",
           "end": "12:04",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "11:55",
+          "title": "zotero"
         },
         {
-          "start": "13:19",
+          "cat": "research",
           "end": "13:21",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "13:19",
+          "title": "zotero"
         },
         {
-          "start": "13:24",
+          "cat": "admin",
           "end": "13:26",
-          "cat": "admin",
+          "note": "linkedin.com",
           "src": "macos",
-          "title": "Feed | LinkedIn",
-          "note": "linkedin.com"
+          "start": "13:24",
+          "title": "Feed | LinkedIn"
         },
         {
-          "start": "13:27",
+          "cat": "admin",
           "end": "13:29",
-          "cat": "admin",
+          "note": "linkedin.com",
           "src": "macos",
-          "title": "Nargiz Zhanabayeva | LinkedIn",
-          "note": "linkedin.com"
+          "start": "13:27",
+          "title": "Nargiz Zhanabayeva | LinkedIn"
         },
         {
-          "start": "13:31",
+          "cat": "research",
           "end": "13:42",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "13:31",
+          "title": "zotero"
         },
         {
-          "start": "13:42",
+          "cat": "writing",
           "end": "13:51",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Oversight Mechanisms for LLM Agents A Literature Review - Go",
-          "note": "docs.google.com"
+          "start": "13:42",
+          "title": "Oversight Mechanisms for LLM Agents A Literature Review - Go"
         },
         {
-          "start": "13:51",
+          "cat": "research",
           "end": "13:52",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "Colosseum: Auditing Collusion in Cooperative Multi-Agent Sys",
-          "note": "arxiv.org"
+          "start": "13:51",
+          "title": "Colosseum: Auditing Collusion in Cooperative Multi-Agent Sys"
         },
         {
-          "start": "13:53",
+          "cat": "research",
           "end": "13:54",
-          "cat": "research",
+          "note": "online.stanford.edu",
           "src": "macos",
-          "title": "Browse All | Stanford Online",
-          "note": "online.stanford.edu"
+          "start": "13:53",
+          "title": "Browse All | Stanford Online"
         },
         {
-          "start": "13:54",
+          "cat": "admin",
           "end": "13:56",
-          "cat": "admin",
+          "note": "schmidtsciences.smapply.io",
           "src": "macos",
-          "title": "Scaling AI Safety for a Multi-Agent World - Schmidt Sciences",
-          "note": "schmidtsciences.smapply.io"
+          "start": "13:54",
+          "title": "Scaling AI Safety for a Multi-Agent World - Schmidt Sciences"
         },
         {
-          "start": "14:01",
+          "cat": "research",
           "end": "14:02",
-          "cat": "research",
+          "note": "huggingface.co",
           "src": "macos",
-          "title": "SALT-NLP/agent-collusion · Datasets at Hugging Face",
-          "note": "huggingface.co"
+          "start": "14:01",
+          "title": "SALT-NLP/agent-collusion · Datasets at Hugging Face"
         },
         {
-          "start": "14:04",
+          "cat": "research",
           "end": "14:05",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "Emergent Collusion in Long-Horizon LLM Agent Interaction",
-          "note": "arxiv.org"
+          "start": "14:04",
+          "title": "Emergent Collusion in Long-Horizon LLM Agent Interaction"
         },
         {
-          "start": "14:07",
+          "cat": "research",
           "end": "14:18",
-          "cat": "research",
+          "note": "scholar.google.com",
           "src": "macos",
-          "title": "‪Diyi Yang‬ - ‪Google Scholar‬",
-          "note": "scholar.google.com"
+          "start": "14:07",
+          "title": "‪Diyi Yang‬ - ‪Google Scholar‬"
         },
         {
-          "start": "14:18",
+          "cat": "admin",
           "end": "14:24",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "macos",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "14:18",
+          "title": "Google Translate"
         },
         {
-          "start": "14:24",
+          "cat": "writing",
           "end": "14:32",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Agents - Google Slides",
-          "note": "docs.google.com"
+          "start": "14:24",
+          "title": "Agents - Google Slides"
         },
         {
-          "start": "14:32",
-          "end": "14:34",
           "cat": "personal",
+          "end": "14:34",
+          "note": "youtube.com",
           "src": "macos",
-          "title": "(4) 📝 3 HOURS OF FOCUS | ⏰ 30/5 Pomodoro Timer (3 Hours) wit",
-          "note": "youtube.com"
+          "start": "14:32",
+          "title": "(4) 📝 3 HOURS OF FOCUS | ⏰ 30/5 Pomodoro Timer (3 Hours) wit"
         },
         {
-          "start": "14:34",
+          "cat": "coding",
           "end": "15:02",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "14:34",
+          "title": "VSCode"
         },
         {
-          "start": "15:03",
+          "cat": "research",
           "end": "15:04",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "Monitoring Monitorability",
-          "note": "arxiv.org"
+          "start": "15:03",
+          "title": "Monitoring Monitorability"
         },
         {
-          "start": "15:05",
+          "cat": "coding",
           "end": "15:32",
-          "cat": "coding",
+          "note": "7 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "7 hits"
+          "start": "15:05",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "15:32",
+          "cat": "writing",
           "end": "15:35",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Agents - Google Slides",
-          "note": "docs.google.com"
+          "start": "15:32",
+          "title": "Agents - Google Slides"
         },
         {
-          "start": "15:36",
+          "cat": "admin",
           "end": "15:37",
-          "cat": "admin",
+          "note": "com.tinyspeck.slackmacgap",
           "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "start": "15:36",
+          "title": "slackmacgap"
         },
         {
-          "start": "15:37",
+          "cat": "writing",
           "end": "15:40",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Agents - Google Slides",
-          "note": "docs.google.com"
+          "start": "15:37",
+          "title": "Agents - Google Slides"
         },
         {
-          "start": "15:40",
-          "end": "15:46",
           "cat": "admin",
+          "end": "15:46",
+          "note": "com.tinyspeck.slackmacgap",
           "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "start": "15:40",
+          "title": "slackmacgap"
         },
         {
-          "start": "15:46",
+          "cat": "research",
           "end": "15:48",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "15:46",
+          "title": "zotero"
         },
         {
-          "start": "15:48",
+          "cat": "writing",
           "end": "16:02",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Agents - Google Slides",
-          "note": "docs.google.com"
+          "start": "15:48",
+          "title": "Agents - Google Slides"
         },
         {
-          "start": "16:03",
+          "cat": "writing",
           "end": "16:14",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Agents - Google Slides",
-          "note": "docs.google.com"
+          "start": "16:03",
+          "title": "Agents - Google Slides"
         },
         {
-          "start": "16:14",
+          "cat": "coding",
           "end": "16:21",
-          "cat": "coding",
+          "note": "42 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "42 hits"
+          "start": "16:14",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "16:22",
+          "cat": "coding",
           "end": "16:23",
-          "cat": "coding",
+          "note": "github.com",
           "src": "macos",
-          "title": "XinmingTu/BenchGuard: BenchGuard is an automated auditing fr",
-          "note": "github.com"
+          "start": "16:22",
+          "title": "XinmingTu/BenchGuard: BenchGuard is an automated auditing fr"
         },
         {
-          "start": "16:25",
+          "cat": "coding",
           "end": "16:37",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "16:25",
+          "title": "VSCode"
         },
         {
-          "start": "16:37",
+          "cat": "coding",
           "end": "16:52",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "16:37",
+          "title": "VSCode"
         },
         {
-          "start": "16:54",
+          "cat": "writing",
           "end": "16:55",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Agents - Google Slides",
-          "note": "docs.google.com"
+          "start": "16:54",
+          "title": "Agents - Google Slides"
         },
         {
-          "start": "16:56",
+          "cat": "coding",
           "end": "16:56",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "16:56",
+          "title": "VSCode"
         },
         {
-          "start": "16:57",
+          "cat": "coding",
           "end": "17:00",
-          "cat": "coding",
+          "note": "27 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "27 hits"
+          "start": "16:57",
+          "title": "Claude session · harbor"
         },
         {
+          "cat": "coding",
+          "end": "17:01",
+          "note": "27 hits",
+          "src": "claude",
           "start": "17:00",
-          "end": "17:01",
-          "cat": "coding",
-          "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "27 hits"
+          "title": "Claude session · harbor"
         },
         {
-          "start": "17:01",
-          "end": "17:01",
           "cat": "meeting",
+          "end": "17:01",
+          "note": "macquarie.zoom.us",
           "src": "macos",
-          "title": "Join from Zoom Workplace app - Zoom",
-          "note": "macquarie.zoom.us"
+          "start": "17:01",
+          "title": "Join from Zoom Workplace app - Zoom"
         },
         {
-          "start": "17:02",
+          "cat": "writing",
           "end": "17:04",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Agents - Google Slides",
-          "note": "docs.google.com"
+          "start": "17:02",
+          "title": "Agents - Google Slides"
         },
         {
-          "start": "17:05",
+          "cat": "writing",
           "end": "17:13",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Agents - Google Slides",
-          "note": "docs.google.com"
+          "start": "17:05",
+          "title": "Agents - Google Slides"
         },
         {
-          "start": "17:14",
+          "cat": "writing",
           "end": "17:16",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Agents - Google Slides",
-          "note": "docs.google.com"
+          "start": "17:14",
+          "title": "Agents - Google Slides"
         },
         {
-          "start": "17:16",
+          "cat": "writing",
           "end": "17:20",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Agents - Google Slides",
-          "note": "docs.google.com"
+          "start": "17:16",
+          "title": "Agents - Google Slides"
         },
         {
-          "start": "17:20",
+          "cat": "writing",
           "end": "17:22",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Agents - Google Slides",
-          "note": "docs.google.com"
+          "start": "17:20",
+          "title": "Agents - Google Slides"
         },
         {
-          "start": "17:24",
+          "cat": "writing",
           "end": "17:26",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Agents - Google Slides",
-          "note": "docs.google.com"
+          "start": "17:24",
+          "title": "Agents - Google Slides"
         },
         {
-          "start": "17:26",
+          "cat": "writing",
           "end": "17:30",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Agents - Google Slides",
-          "note": "docs.google.com"
+          "start": "17:26",
+          "title": "Agents - Google Slides"
         },
         {
-          "start": "17:30",
-          "end": "17:34",
           "cat": "research",
+          "end": "17:34",
+          "note": "semeval.github.io",
           "src": "macos",
-          "title": "SemEval-2027 Tasks | SemEval-2027",
-          "note": "semeval.github.io"
+          "start": "17:30",
+          "title": "SemEval-2027 Tasks | SemEval-2027"
         },
         {
-          "start": "19:42",
-          "end": "19:45",
           "cat": "coding",
+          "end": "19:45",
+          "note": "1 hit",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "1 hit"
+          "start": "19:42",
+          "title": "Claude session · harbor"
         }
       ],
+      "key": "2026-11-13",
       "logged": 335,
-      "real": 298,
-      "deep": 298,
       "ratio": 0.8903909126379075,
+      "real": 298,
       "stats": {
         "contextSwitches": 34,
-        "tabsOpened": 0,
+        "justOneMoreThing": 7,
         "longestFocus": "1h 36m",
-        "justOneMoreThing": 7
-      }
+        "tabsOpened": 0
+      },
+      "weekend": false
     },
     {
       "key": "2026-11-14",
@@ -108618,17 +108675,74 @@
       "weekend": true,
       "dateShort": "Sat, Nov 14",
       "dateLong": "Saturday, November 14",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "10:35",
+      "dayEnd": "16:31",
+      "events": [
+        {
+          "start": "10:35",
+          "end": "10:42",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "10:45",
+          "end": "10:55",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "10:57",
+          "end": "11:13",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Mardi Gras PARTY | On Sale Now! - ada.ren.cn@gmail.com - Gma",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "11:13",
+          "end": "11:19",
+          "cat": "research",
+          "src": "macos",
+          "title": "解释逐上下文归一化",
+          "note": "chatgpt.com"
+        },
+        {
+          "start": "11:27",
+          "end": "11:51",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "15:08",
+          "end": "16:08",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "74 hits"
+        },
+        {
+          "start": "16:22",
+          "end": "16:31",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "63 hits"
+        }
+      ],
+      "logged": 132,
+      "real": 106,
+      "deep": 106,
+      "ratio": 0.8059619856802014,
       "stats": {
-        "contextSwitches": 0,
+        "contextSwitches": 3,
         "tabsOpened": 0,
-        "longestFocus": "0m",
+        "longestFocus": "1h 39m",
         "justOneMoreThing": 0
       }
     },
