@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-11-16T10:20:15+11:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-11-17T10:20:16+11:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -104031,384 +104031,384 @@
         "weekend": false
       },
       {
-        "key": "2026-11-14",
-        "dayNum": 14,
-        "dow": 6,
-        "weekend": true,
-        "dateShort": "Sat, Nov 14",
         "dateLong": "Saturday, November 14",
-        "dayStart": "10:35",
+        "dateShort": "Sat, Nov 14",
         "dayEnd": "16:33",
+        "dayNum": 14,
+        "dayStart": "10:35",
+        "deep": 112,
+        "dow": 6,
         "events": [
           {
-            "start": "10:35",
+            "cat": "research",
             "end": "10:42",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "10:35",
+            "title": "zotero"
           },
           {
-            "start": "10:45",
+            "cat": "admin",
             "end": "10:55",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "10:45",
+            "title": "Outlook"
           },
           {
-            "start": "10:57",
+            "cat": "admin",
             "end": "11:13",
-            "cat": "admin",
+            "note": "mail.google.com",
             "src": "macos",
-            "title": "Mardi Gras PARTY | On Sale Now! - ada.ren.cn@gmail.com - Gma",
-            "note": "mail.google.com"
+            "start": "10:57",
+            "title": "Mardi Gras PARTY | On Sale Now! - ada.ren.cn@gmail.com - Gma"
           },
           {
-            "start": "11:13",
+            "cat": "research",
             "end": "11:19",
-            "cat": "research",
+            "note": "chatgpt.com",
             "src": "macos",
-            "title": "解释逐上下文归一化",
-            "note": "chatgpt.com"
+            "start": "11:13",
+            "title": "解释逐上下文归一化"
           },
           {
-            "start": "11:27",
+            "cat": "research",
             "end": "11:51",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "11:27",
+            "title": "zotero"
           },
           {
-            "start": "15:08",
+            "cat": "coding",
             "end": "16:04",
-            "cat": "coding",
+            "note": "74 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "74 hits"
+            "start": "15:08",
+            "title": "Claude session · harbor"
           },
           {
+            "cat": "coding",
+            "end": "16:08",
+            "note": "302 hits",
+            "src": "claude",
             "start": "16:04",
-            "end": "16:08",
-            "cat": "coding",
-            "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "302 hits"
+            "title": "Claude session · harbor"
           },
           {
-            "start": "16:08",
-            "end": "16:08",
             "cat": "personal",
+            "end": "16:08",
+            "note": "youtube.com",
             "src": "macos",
-            "title": "(5) YouTube",
-            "note": "youtube.com"
+            "start": "16:08",
+            "title": "(5) YouTube"
           },
           {
-            "start": "16:08",
+            "cat": "personal",
             "end": "16:11",
-            "cat": "personal",
+            "note": "youtube.com",
             "src": "macos",
-            "title": "(5) YouTube",
-            "note": "youtube.com"
+            "start": "16:08",
+            "title": "(5) YouTube"
           },
           {
-            "start": "16:11",
+            "cat": "coding",
             "end": "16:14",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "16:11",
+            "title": "VSCode"
           },
           {
-            "start": "16:16",
-            "end": "16:18",
             "cat": "personal",
+            "end": "16:18",
+            "note": "youtube.com",
             "src": "macos",
-            "title": "(4) What Are AI Agents? Agentic Systems Explained | Stanford",
-            "note": "youtube.com"
+            "start": "16:16",
+            "title": "(4) What Are AI Agents? Agentic Systems Explained | Stanford"
           },
           {
-            "start": "16:21",
-            "end": "16:31",
             "cat": "coding",
+            "end": "16:31",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "16:21",
+            "title": "VSCode"
           },
           {
-            "start": "16:31",
-            "end": "16:33",
             "cat": "research",
+            "end": "16:33",
+            "note": "openreview.net",
             "src": "macos",
-            "title": "Infrastructure for AI Agents | OpenReview",
-            "note": "openreview.net"
+            "start": "16:31",
+            "title": "Infrastructure for AI Agents | OpenReview"
           }
         ],
+        "key": "2026-11-14",
         "logged": 143,
-        "real": 112,
-        "deep": 112,
         "ratio": 0.78783920974907,
+        "real": 112,
         "stats": {
           "contextSwitches": 8,
-          "tabsOpened": 0,
+          "justOneMoreThing": 1,
           "longestFocus": "1h 30m",
-          "justOneMoreThing": 1
-        }
+          "tabsOpened": 0
+        },
+        "weekend": true
       },
       {
-        "key": "2026-11-15",
-        "dayNum": 15,
-        "dow": 0,
-        "weekend": true,
-        "dateShort": "Sun, Nov 15",
         "dateLong": "Sunday, November 15",
-        "dayStart": "11:03",
+        "dateShort": "Sun, Nov 15",
         "dayEnd": "20:58",
+        "dayNum": 15,
+        "dayStart": "11:03",
+        "deep": 146,
+        "dow": 0,
         "events": [
           {
-            "start": "11:03",
+            "cat": "research",
             "end": "11:08",
-            "cat": "research",
+            "note": "openreview.net",
             "src": "macos",
-            "title": "Infrastructure for AI Agents | OpenReview",
-            "note": "openreview.net"
+            "start": "11:03",
+            "title": "Infrastructure for AI Agents | OpenReview"
           },
           {
-            "start": "11:16",
+            "cat": "research",
             "end": "11:20",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "11:16",
+            "title": "zotero"
           },
           {
-            "start": "11:20",
+            "cat": "coding",
             "end": "11:22",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "11:20",
+            "title": "VSCode"
           },
           {
-            "start": "11:22",
+            "cat": "coding",
             "end": "11:29",
-            "cat": "coding",
+            "note": "57 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "57 hits"
+            "start": "11:22",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "11:29",
+            "cat": "research",
             "end": "11:33",
-            "cat": "research",
+            "note": "chatgpt.com",
             "src": "macos",
-            "title": "Translate Fraud Example",
-            "note": "chatgpt.com"
+            "start": "11:29",
+            "title": "Translate Fraud Example"
           },
           {
-            "start": "11:33",
+            "cat": "coding",
             "end": "11:34",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "11:33",
+            "title": "VSCode"
           },
           {
-            "start": "11:34",
+            "cat": "research",
             "end": "11:54",
-            "cat": "research",
+            "note": "chatgpt.com",
             "src": "macos",
-            "title": "Translate Fraud Example",
-            "note": "chatgpt.com"
+            "start": "11:34",
+            "title": "Translate Fraud Example"
           },
           {
-            "start": "13:41",
+            "cat": "personal",
             "end": "13:43",
-            "cat": "personal",
+            "note": "youtube.com",
             "src": "macos",
-            "title": "(5) YouTube",
-            "note": "youtube.com"
+            "start": "13:41",
+            "title": "(5) YouTube"
           },
           {
-            "start": "13:44",
+            "cat": "personal",
             "end": "13:45",
-            "cat": "personal",
+            "note": "youtube.com",
             "src": "macos",
-            "title": "(5) All Code Is Slop (Except Mine) — Lauren Tan, SpaceXSI - ",
-            "note": "youtube.com"
+            "start": "13:44",
+            "title": "(5) All Code Is Slop (Except Mine) — Lauren Tan, SpaceXSI - "
           },
           {
-            "start": "13:47",
+            "cat": "admin",
             "end": "13:50",
-            "cat": "admin",
+            "note": "linkedin.com",
             "src": "macos",
-            "title": "Lauren Tan | LinkedIn",
-            "note": "linkedin.com"
+            "start": "13:47",
+            "title": "Lauren Tan | LinkedIn"
           },
           {
-            "start": "13:52",
+            "cat": "personal",
             "end": "13:54",
-            "cat": "personal",
+            "note": "youtube.com",
             "src": "macos",
-            "title": "(6) Stanford CS329A Self-Improving AI Agents | Part 8 | Agen",
-            "note": "youtube.com"
+            "start": "13:52",
+            "title": "(6) Stanford CS329A Self-Improving AI Agents | Part 8 | Agen"
           },
           {
-            "start": "14:02",
+            "cat": "personal",
             "end": "14:04",
-            "cat": "personal",
+            "note": "amazon.com.au",
             "src": "macos",
-            "title": "Amazon.com.au : tissues",
-            "note": "amazon.com.au"
+            "start": "14:02",
+            "title": "Amazon.com.au : tissues"
           },
           {
-            "start": "14:04",
+            "cat": "personal",
             "end": "14:06",
-            "cat": "personal",
+            "note": "amazon.com.au",
             "src": "macos",
-            "title": "Amazon Sign In",
-            "note": "amazon.com.au"
+            "start": "14:04",
+            "title": "Amazon Sign In"
           },
           {
-            "start": "14:07",
+            "cat": "personal",
             "end": "14:12",
-            "cat": "personal",
+            "note": "amazon.com.au",
             "src": "macos",
-            "title": "Amazon.com.au: Shop online for Electronics, Apparel, Toys, B",
-            "note": "amazon.com.au"
+            "start": "14:07",
+            "title": "Amazon.com.au: Shop online for Electronics, Apparel, Toys, B"
           },
           {
-            "start": "14:17",
+            "cat": "personal",
             "end": "14:18",
-            "cat": "personal",
+            "note": "amazon.com.au",
             "src": "macos",
-            "title": "Amazon.com.au: Shop online for Electronics, Apparel, Toys, B",
-            "note": "amazon.com.au"
+            "start": "14:17",
+            "title": "Amazon.com.au: Shop online for Electronics, Apparel, Toys, B"
           },
           {
-            "start": "14:19",
+            "cat": "research",
             "end": "14:20",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "14:19",
+            "title": "zotero"
           },
           {
-            "start": "14:20",
-            "end": "14:23",
             "cat": "writing",
+            "end": "14:23",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Agents - Google Slides",
-            "note": "docs.google.com"
+            "start": "14:20",
+            "title": "Agents - Google Slides"
           },
           {
-            "start": "15:20",
+            "cat": "admin",
             "end": "15:23",
-            "cat": "admin",
+            "note": "com.tinyspeck.slackmacgap",
             "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "start": "15:20",
+            "title": "slackmacgap"
           },
           {
-            "start": "15:23",
+            "cat": "coding",
             "end": "15:29",
-            "cat": "coding",
+            "note": "com.googlecode.iterm2",
             "src": "macos",
-            "title": "iterm2",
-            "note": "com.googlecode.iterm2"
+            "start": "15:23",
+            "title": "iterm2"
           },
           {
-            "start": "15:29",
+            "cat": "coding",
             "end": "15:30",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "15:29",
+            "title": "VSCode"
           },
           {
-            "start": "15:33",
+            "cat": "coding",
             "end": "15:42",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "15:33",
+            "title": "VSCode"
           },
           {
-            "start": "15:44",
+            "cat": "admin",
             "end": "15:48",
-            "cat": "admin",
+            "note": "mail.google.com",
             "src": "macos",
-            "title": "Inbox (3,437) - ada.ren.cn@gmail.com - Gmail",
-            "note": "mail.google.com"
+            "start": "15:44",
+            "title": "Inbox (3,437) - ada.ren.cn@gmail.com - Gmail"
           },
           {
-            "start": "16:02",
+            "cat": "admin",
             "end": "16:09",
-            "cat": "admin",
+            "note": "mail.google.com",
             "src": "macos",
-            "title": "Inbox (3,437) - ada.ren.cn@gmail.com - Gmail",
-            "note": "mail.google.com"
+            "start": "16:02",
+            "title": "Inbox (3,437) - ada.ren.cn@gmail.com - Gmail"
           },
           {
-            "start": "16:14",
+            "cat": "admin",
             "end": "16:16",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "macos",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "16:14",
+            "title": "Google Translate"
           },
           {
-            "start": "16:16",
+            "cat": "research",
             "end": "16:17",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "16:16",
+            "title": "zotero"
           },
           {
-            "start": "16:17",
+            "cat": "admin",
             "end": "16:25",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "macos",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "16:17",
+            "title": "Google Translate"
           },
           {
-            "start": "16:25",
+            "cat": "admin",
             "end": "16:29",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "macos",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "16:25",
+            "title": "Google Translate"
           },
           {
-            "start": "16:29",
-            "end": "16:57",
             "cat": "research",
+            "end": "16:57",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "Teaching Language Models To Gather Information Proactively",
-            "note": "arxiv.org"
+            "start": "16:29",
+            "title": "Teaching Language Models To Gather Information Proactively"
           },
           {
-            "start": "20:05",
-            "end": "20:58",
             "cat": "coding",
+            "end": "20:58",
+            "note": "37 hits",
             "src": "claude",
-            "title": "Claude session · layer",
-            "note": "37 hits"
+            "start": "20:05",
+            "title": "Claude session · layer"
           }
         ],
+        "key": "2026-11-15",
         "logged": 192,
-        "real": 146,
-        "deep": 146,
         "ratio": 0.7610873317480766,
+        "real": 146,
         "stats": {
           "contextSwitches": 16,
-          "tabsOpened": 0,
+          "justOneMoreThing": 1,
           "longestFocus": "1h 21m",
-          "justOneMoreThing": 1
-        }
+          "tabsOpened": 0
+        },
+        "weekend": true
       },
       {
         "key": "2026-11-16",
@@ -104418,42 +104418,434 @@
         "dateShort": "Mon, Nov 16",
         "dateLong": "Monday, November 16",
         "dayStart": "10:05",
-        "dayEnd": "10:27",
+        "dayEnd": "22:03",
         "events": [
           {
             "start": "10:05",
-            "end": "10:06",
+            "end": "10:30",
             "cat": "coding",
             "src": "claude",
             "title": "Claude session · harbor",
-            "note": "55 hits"
+            "note": "138 hits"
           },
           {
-            "start": "10:07",
-            "end": "10:21",
+            "start": "10:30",
+            "end": "10:43",
             "cat": "coding",
             "src": "claude",
             "title": "Claude session · harbor",
-            "note": "55 hits"
+            "note": "138 hits"
           },
           {
-            "start": "10:21",
-            "end": "10:27",
+            "start": "10:45",
+            "end": "11:01",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:01",
+            "end": "11:02",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "11:02",
+            "end": "11:07",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "33 hits"
+          },
+          {
+            "start": "11:14",
+            "end": "11:21",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:21",
+            "end": "11:25",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "11:26",
+            "end": "11:33",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Machine Learning Project (Assignment 1) Discussion Forum | i",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "11:34",
+            "end": "11:39",
             "cat": "research",
-            "src": "chrome",
-            "title": "Measuring and Mitigating (Over)reliance to Build Human-Compa",
-            "note": "doi.org"
+            "src": "macos",
+            "title": "Announcing the NeurIPS 2026 Workshops – NeurIPS Blog",
+            "note": "blog.neurips.cc"
+          },
+          {
+            "start": "11:39",
+            "end": "11:46",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:46",
+            "end": "11:49",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "7 hits"
+          },
+          {
+            "start": "11:50",
+            "end": "11:52",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "11:52",
+            "end": "11:53",
+            "cat": "research",
+            "src": "macos",
+            "title": "The Third Workshop on Agents in the Wild: Safety, Security, ",
+            "note": "neurips.cc"
+          },
+          {
+            "start": "11:53",
+            "end": "12:03",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "12:03",
+            "end": "12:11",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "91 hits"
+          },
+          {
+            "start": "12:11",
+            "end": "12:14",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "91 hits"
+          },
+          {
+            "start": "13:10",
+            "end": "13:13",
+            "cat": "coding",
+            "src": "macos",
+            "title": "dabstep_verified_preview.pdf",
+            "note": "file:///Users/ada/Documents/MQ/repo/harb"
+          },
+          {
+            "start": "13:13",
+            "end": "13:39",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "13:42",
+            "end": "13:56",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "13:56",
+            "end": "13:57",
+            "cat": "research",
+            "src": "macos",
+            "title": "ScaleAI/hil-bench · Datasets at Hugging Face",
+            "note": "huggingface.co"
+          },
+          {
+            "start": "13:58",
+            "end": "14:05",
+            "cat": "research",
+            "src": "macos",
+            "title": "Data Science",
+            "note": "coursehandbook.mq.edu.au"
+          },
+          {
+            "start": "14:10",
+            "end": "14:12",
+            "cat": "research",
+            "src": "macos",
+            "title": "HiL_Bench.pdf",
+            "note": "static.scale.com"
+          },
+          {
+            "start": "14:12",
+            "end": "14:15",
+            "cat": "admin",
+            "src": "macos",
+            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Regarding final exam ",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "14:15",
+            "end": "14:16",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "14:18",
+            "end": "14:20",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Enter Time - Workday",
+            "note": "wd3.myworkday.com"
+          },
+          {
+            "start": "14:21",
+            "end": "14:23",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Enter Time - Workday",
+            "note": "wd3.myworkday.com"
+          },
+          {
+            "start": "14:26",
+            "end": "14:27",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Enter Time - Workday",
+            "note": "wd3.myworkday.com"
+          },
+          {
+            "start": "14:27",
+            "end": "14:30",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Enter Time - Workday",
+            "note": "wd3.myworkday.com"
+          },
+          {
+            "start": "14:36",
+            "end": "14:48",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:01",
+            "end": "15:02",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:11",
+            "end": "15:31",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:32",
+            "end": "15:33",
+            "cat": "research",
+            "src": "macos",
+            "title": "MultiSearch - PHIL STUTZ",
+            "note": "multisearch.mq.edu.au"
+          },
+          {
+            "start": "15:35",
+            "end": "15:43",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:10",
+            "end": "16:29",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:34",
+            "end": "16:40",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "16:40",
+            "end": "16:44",
+            "cat": "research",
+            "src": "macos",
+            "title": "Judge Calibration Reliability",
+            "note": "chatgpt.com"
+          },
+          {
+            "start": "16:44",
+            "end": "16:46",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "16:46",
+            "end": "17:00",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "17:00",
+            "end": "17:11",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
+            "note": "sport.mq.edu.au"
+          },
+          {
+            "start": "18:37",
+            "end": "18:43",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "18:55",
+            "end": "18:59",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "19:18",
+            "end": "19:21",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "19:28",
+            "end": "19:31",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · layer",
+            "note": "18 hits"
+          },
+          {
+            "start": "19:48",
+            "end": "19:54",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "20:28",
+            "end": "20:34",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "20:49",
+            "end": "20:54",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "21:06",
+            "end": "21:08",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "21:14",
+            "end": "21:22",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Agents - Google Slides",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "21:22",
+            "end": "21:23",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "21:23",
+            "end": "21:24",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "21:24",
+            "end": "21:29",
+            "cat": "admin",
+            "src": "macos",
+            "title": "extract to examin paper - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "21:54",
+            "end": "22:03",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · layer",
+            "note": "91 hits"
           }
         ],
-        "logged": 22,
-        "real": 22,
-        "deep": 22,
-        "ratio": 1.0,
+        "logged": 339,
+        "real": 297,
+        "deep": 297,
+        "ratio": 0.8759144489156617,
         "stats": {
-          "contextSwitches": 1,
-          "tabsOpened": 3,
-          "longestFocus": "22m",
-          "justOneMoreThing": 0
+          "contextSwitches": 22,
+          "tabsOpened": 0,
+          "longestFocus": "1h 27m",
+          "justOneMoreThing": 4
         }
       },
       {
@@ -104463,18 +104855,51 @@
         "weekend": false,
         "dateShort": "Tue, Nov 17",
         "dateLong": "Tuesday, November 17",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "09:55",
+        "dayEnd": "10:23",
+        "events": [
+          {
+            "start": "09:55",
+            "end": "10:05",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · layer",
+            "note": "88 hits"
+          },
+          {
+            "start": "10:05",
+            "end": "10:13",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: practice exam | iLear",
+            "note": "ilearn.mq.edu.au"
+          },
+          {
+            "start": "10:13",
+            "end": "10:21",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · layer",
+            "note": "58 hits"
+          },
+          {
+            "start": "10:21",
+            "end": "10:23",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: practice exam | iLear",
+            "note": "ilearn.mq.edu.au"
+          }
+        ],
+        "logged": 28,
+        "real": 18,
+        "deep": 18,
+        "ratio": 0.6587224374000281,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "0m",
-          "justOneMoreThing": 0
+          "contextSwitches": 3,
+          "tabsOpened": 6,
+          "longestFocus": "10m",
+          "justOneMoreThing": 1
         }
       },
       {
@@ -108975,384 +109400,384 @@
       "weekend": false
     },
     {
-      "key": "2026-11-14",
-      "dayNum": 14,
-      "dow": 6,
-      "weekend": true,
-      "dateShort": "Sat, Nov 14",
       "dateLong": "Saturday, November 14",
-      "dayStart": "10:35",
+      "dateShort": "Sat, Nov 14",
       "dayEnd": "16:33",
+      "dayNum": 14,
+      "dayStart": "10:35",
+      "deep": 112,
+      "dow": 6,
       "events": [
         {
-          "start": "10:35",
+          "cat": "research",
           "end": "10:42",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "10:35",
+          "title": "zotero"
         },
         {
-          "start": "10:45",
+          "cat": "admin",
           "end": "10:55",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "10:45",
+          "title": "Outlook"
         },
         {
-          "start": "10:57",
+          "cat": "admin",
           "end": "11:13",
-          "cat": "admin",
+          "note": "mail.google.com",
           "src": "macos",
-          "title": "Mardi Gras PARTY | On Sale Now! - ada.ren.cn@gmail.com - Gma",
-          "note": "mail.google.com"
+          "start": "10:57",
+          "title": "Mardi Gras PARTY | On Sale Now! - ada.ren.cn@gmail.com - Gma"
         },
         {
-          "start": "11:13",
+          "cat": "research",
           "end": "11:19",
-          "cat": "research",
+          "note": "chatgpt.com",
           "src": "macos",
-          "title": "解释逐上下文归一化",
-          "note": "chatgpt.com"
+          "start": "11:13",
+          "title": "解释逐上下文归一化"
         },
         {
-          "start": "11:27",
+          "cat": "research",
           "end": "11:51",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "11:27",
+          "title": "zotero"
         },
         {
-          "start": "15:08",
+          "cat": "coding",
           "end": "16:04",
-          "cat": "coding",
+          "note": "74 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "74 hits"
+          "start": "15:08",
+          "title": "Claude session · harbor"
         },
         {
+          "cat": "coding",
+          "end": "16:08",
+          "note": "302 hits",
+          "src": "claude",
           "start": "16:04",
-          "end": "16:08",
-          "cat": "coding",
-          "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "302 hits"
+          "title": "Claude session · harbor"
         },
         {
-          "start": "16:08",
-          "end": "16:08",
           "cat": "personal",
+          "end": "16:08",
+          "note": "youtube.com",
           "src": "macos",
-          "title": "(5) YouTube",
-          "note": "youtube.com"
+          "start": "16:08",
+          "title": "(5) YouTube"
         },
         {
-          "start": "16:08",
+          "cat": "personal",
           "end": "16:11",
-          "cat": "personal",
+          "note": "youtube.com",
           "src": "macos",
-          "title": "(5) YouTube",
-          "note": "youtube.com"
+          "start": "16:08",
+          "title": "(5) YouTube"
         },
         {
-          "start": "16:11",
+          "cat": "coding",
           "end": "16:14",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "16:11",
+          "title": "VSCode"
         },
         {
-          "start": "16:16",
-          "end": "16:18",
           "cat": "personal",
+          "end": "16:18",
+          "note": "youtube.com",
           "src": "macos",
-          "title": "(4) What Are AI Agents? Agentic Systems Explained | Stanford",
-          "note": "youtube.com"
+          "start": "16:16",
+          "title": "(4) What Are AI Agents? Agentic Systems Explained | Stanford"
         },
         {
-          "start": "16:21",
-          "end": "16:31",
           "cat": "coding",
+          "end": "16:31",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "16:21",
+          "title": "VSCode"
         },
         {
-          "start": "16:31",
-          "end": "16:33",
           "cat": "research",
+          "end": "16:33",
+          "note": "openreview.net",
           "src": "macos",
-          "title": "Infrastructure for AI Agents | OpenReview",
-          "note": "openreview.net"
+          "start": "16:31",
+          "title": "Infrastructure for AI Agents | OpenReview"
         }
       ],
+      "key": "2026-11-14",
       "logged": 143,
-      "real": 112,
-      "deep": 112,
       "ratio": 0.78783920974907,
+      "real": 112,
       "stats": {
         "contextSwitches": 8,
-        "tabsOpened": 0,
+        "justOneMoreThing": 1,
         "longestFocus": "1h 30m",
-        "justOneMoreThing": 1
-      }
+        "tabsOpened": 0
+      },
+      "weekend": true
     },
     {
-      "key": "2026-11-15",
-      "dayNum": 15,
-      "dow": 0,
-      "weekend": true,
-      "dateShort": "Sun, Nov 15",
       "dateLong": "Sunday, November 15",
-      "dayStart": "11:03",
+      "dateShort": "Sun, Nov 15",
       "dayEnd": "20:58",
+      "dayNum": 15,
+      "dayStart": "11:03",
+      "deep": 146,
+      "dow": 0,
       "events": [
         {
-          "start": "11:03",
+          "cat": "research",
           "end": "11:08",
-          "cat": "research",
+          "note": "openreview.net",
           "src": "macos",
-          "title": "Infrastructure for AI Agents | OpenReview",
-          "note": "openreview.net"
+          "start": "11:03",
+          "title": "Infrastructure for AI Agents | OpenReview"
         },
         {
-          "start": "11:16",
+          "cat": "research",
           "end": "11:20",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "11:16",
+          "title": "zotero"
         },
         {
-          "start": "11:20",
+          "cat": "coding",
           "end": "11:22",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "11:20",
+          "title": "VSCode"
         },
         {
-          "start": "11:22",
+          "cat": "coding",
           "end": "11:29",
-          "cat": "coding",
+          "note": "57 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "57 hits"
+          "start": "11:22",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "11:29",
+          "cat": "research",
           "end": "11:33",
-          "cat": "research",
+          "note": "chatgpt.com",
           "src": "macos",
-          "title": "Translate Fraud Example",
-          "note": "chatgpt.com"
+          "start": "11:29",
+          "title": "Translate Fraud Example"
         },
         {
-          "start": "11:33",
+          "cat": "coding",
           "end": "11:34",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "11:33",
+          "title": "VSCode"
         },
         {
-          "start": "11:34",
+          "cat": "research",
           "end": "11:54",
-          "cat": "research",
+          "note": "chatgpt.com",
           "src": "macos",
-          "title": "Translate Fraud Example",
-          "note": "chatgpt.com"
+          "start": "11:34",
+          "title": "Translate Fraud Example"
         },
         {
-          "start": "13:41",
+          "cat": "personal",
           "end": "13:43",
-          "cat": "personal",
+          "note": "youtube.com",
           "src": "macos",
-          "title": "(5) YouTube",
-          "note": "youtube.com"
+          "start": "13:41",
+          "title": "(5) YouTube"
         },
         {
-          "start": "13:44",
+          "cat": "personal",
           "end": "13:45",
-          "cat": "personal",
+          "note": "youtube.com",
           "src": "macos",
-          "title": "(5) All Code Is Slop (Except Mine) — Lauren Tan, SpaceXSI - ",
-          "note": "youtube.com"
+          "start": "13:44",
+          "title": "(5) All Code Is Slop (Except Mine) — Lauren Tan, SpaceXSI - "
         },
         {
-          "start": "13:47",
+          "cat": "admin",
           "end": "13:50",
-          "cat": "admin",
+          "note": "linkedin.com",
           "src": "macos",
-          "title": "Lauren Tan | LinkedIn",
-          "note": "linkedin.com"
+          "start": "13:47",
+          "title": "Lauren Tan | LinkedIn"
         },
         {
-          "start": "13:52",
+          "cat": "personal",
           "end": "13:54",
-          "cat": "personal",
+          "note": "youtube.com",
           "src": "macos",
-          "title": "(6) Stanford CS329A Self-Improving AI Agents | Part 8 | Agen",
-          "note": "youtube.com"
+          "start": "13:52",
+          "title": "(6) Stanford CS329A Self-Improving AI Agents | Part 8 | Agen"
         },
         {
-          "start": "14:02",
+          "cat": "personal",
           "end": "14:04",
-          "cat": "personal",
+          "note": "amazon.com.au",
           "src": "macos",
-          "title": "Amazon.com.au : tissues",
-          "note": "amazon.com.au"
+          "start": "14:02",
+          "title": "Amazon.com.au : tissues"
         },
         {
-          "start": "14:04",
+          "cat": "personal",
           "end": "14:06",
-          "cat": "personal",
+          "note": "amazon.com.au",
           "src": "macos",
-          "title": "Amazon Sign In",
-          "note": "amazon.com.au"
+          "start": "14:04",
+          "title": "Amazon Sign In"
         },
         {
-          "start": "14:07",
+          "cat": "personal",
           "end": "14:12",
-          "cat": "personal",
+          "note": "amazon.com.au",
           "src": "macos",
-          "title": "Amazon.com.au: Shop online for Electronics, Apparel, Toys, B",
-          "note": "amazon.com.au"
+          "start": "14:07",
+          "title": "Amazon.com.au: Shop online for Electronics, Apparel, Toys, B"
         },
         {
-          "start": "14:17",
+          "cat": "personal",
           "end": "14:18",
-          "cat": "personal",
+          "note": "amazon.com.au",
           "src": "macos",
-          "title": "Amazon.com.au: Shop online for Electronics, Apparel, Toys, B",
-          "note": "amazon.com.au"
+          "start": "14:17",
+          "title": "Amazon.com.au: Shop online for Electronics, Apparel, Toys, B"
         },
         {
-          "start": "14:19",
+          "cat": "research",
           "end": "14:20",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "14:19",
+          "title": "zotero"
         },
         {
-          "start": "14:20",
-          "end": "14:23",
           "cat": "writing",
+          "end": "14:23",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Agents - Google Slides",
-          "note": "docs.google.com"
+          "start": "14:20",
+          "title": "Agents - Google Slides"
         },
         {
-          "start": "15:20",
+          "cat": "admin",
           "end": "15:23",
-          "cat": "admin",
+          "note": "com.tinyspeck.slackmacgap",
           "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "start": "15:20",
+          "title": "slackmacgap"
         },
         {
-          "start": "15:23",
+          "cat": "coding",
           "end": "15:29",
-          "cat": "coding",
+          "note": "com.googlecode.iterm2",
           "src": "macos",
-          "title": "iterm2",
-          "note": "com.googlecode.iterm2"
+          "start": "15:23",
+          "title": "iterm2"
         },
         {
-          "start": "15:29",
+          "cat": "coding",
           "end": "15:30",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "15:29",
+          "title": "VSCode"
         },
         {
-          "start": "15:33",
+          "cat": "coding",
           "end": "15:42",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "15:33",
+          "title": "VSCode"
         },
         {
-          "start": "15:44",
+          "cat": "admin",
           "end": "15:48",
-          "cat": "admin",
+          "note": "mail.google.com",
           "src": "macos",
-          "title": "Inbox (3,437) - ada.ren.cn@gmail.com - Gmail",
-          "note": "mail.google.com"
+          "start": "15:44",
+          "title": "Inbox (3,437) - ada.ren.cn@gmail.com - Gmail"
         },
         {
-          "start": "16:02",
+          "cat": "admin",
           "end": "16:09",
-          "cat": "admin",
+          "note": "mail.google.com",
           "src": "macos",
-          "title": "Inbox (3,437) - ada.ren.cn@gmail.com - Gmail",
-          "note": "mail.google.com"
+          "start": "16:02",
+          "title": "Inbox (3,437) - ada.ren.cn@gmail.com - Gmail"
         },
         {
-          "start": "16:14",
+          "cat": "admin",
           "end": "16:16",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "macos",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "16:14",
+          "title": "Google Translate"
         },
         {
-          "start": "16:16",
+          "cat": "research",
           "end": "16:17",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "16:16",
+          "title": "zotero"
         },
         {
-          "start": "16:17",
+          "cat": "admin",
           "end": "16:25",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "macos",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "16:17",
+          "title": "Google Translate"
         },
         {
-          "start": "16:25",
+          "cat": "admin",
           "end": "16:29",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "macos",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "16:25",
+          "title": "Google Translate"
         },
         {
-          "start": "16:29",
-          "end": "16:57",
           "cat": "research",
+          "end": "16:57",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "Teaching Language Models To Gather Information Proactively",
-          "note": "arxiv.org"
+          "start": "16:29",
+          "title": "Teaching Language Models To Gather Information Proactively"
         },
         {
-          "start": "20:05",
-          "end": "20:58",
           "cat": "coding",
+          "end": "20:58",
+          "note": "37 hits",
           "src": "claude",
-          "title": "Claude session · layer",
-          "note": "37 hits"
+          "start": "20:05",
+          "title": "Claude session · layer"
         }
       ],
+      "key": "2026-11-15",
       "logged": 192,
-      "real": 146,
-      "deep": 146,
       "ratio": 0.7610873317480766,
+      "real": 146,
       "stats": {
         "contextSwitches": 16,
-        "tabsOpened": 0,
+        "justOneMoreThing": 1,
         "longestFocus": "1h 21m",
-        "justOneMoreThing": 1
-      }
+        "tabsOpened": 0
+      },
+      "weekend": true
     },
     {
       "key": "2026-11-16",
@@ -109362,42 +109787,434 @@
       "dateShort": "Mon, Nov 16",
       "dateLong": "Monday, November 16",
       "dayStart": "10:05",
-      "dayEnd": "10:27",
+      "dayEnd": "22:03",
       "events": [
         {
           "start": "10:05",
-          "end": "10:06",
+          "end": "10:30",
           "cat": "coding",
           "src": "claude",
           "title": "Claude session · harbor",
-          "note": "55 hits"
+          "note": "138 hits"
         },
         {
-          "start": "10:07",
-          "end": "10:21",
+          "start": "10:30",
+          "end": "10:43",
           "cat": "coding",
           "src": "claude",
           "title": "Claude session · harbor",
-          "note": "55 hits"
+          "note": "138 hits"
         },
         {
-          "start": "10:21",
-          "end": "10:27",
+          "start": "10:45",
+          "end": "11:01",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:01",
+          "end": "11:02",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "11:02",
+          "end": "11:07",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "33 hits"
+        },
+        {
+          "start": "11:14",
+          "end": "11:21",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:21",
+          "end": "11:25",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "11:26",
+          "end": "11:33",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Machine Learning Project (Assignment 1) Discussion Forum | i",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "11:34",
+          "end": "11:39",
           "cat": "research",
-          "src": "chrome",
-          "title": "Measuring and Mitigating (Over)reliance to Build Human-Compa",
-          "note": "doi.org"
+          "src": "macos",
+          "title": "Announcing the NeurIPS 2026 Workshops – NeurIPS Blog",
+          "note": "blog.neurips.cc"
+        },
+        {
+          "start": "11:39",
+          "end": "11:46",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:46",
+          "end": "11:49",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "7 hits"
+        },
+        {
+          "start": "11:50",
+          "end": "11:52",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "11:52",
+          "end": "11:53",
+          "cat": "research",
+          "src": "macos",
+          "title": "The Third Workshop on Agents in the Wild: Safety, Security, ",
+          "note": "neurips.cc"
+        },
+        {
+          "start": "11:53",
+          "end": "12:03",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "12:03",
+          "end": "12:11",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "91 hits"
+        },
+        {
+          "start": "12:11",
+          "end": "12:14",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "91 hits"
+        },
+        {
+          "start": "13:10",
+          "end": "13:13",
+          "cat": "coding",
+          "src": "macos",
+          "title": "dabstep_verified_preview.pdf",
+          "note": "file:///Users/ada/Documents/MQ/repo/harb"
+        },
+        {
+          "start": "13:13",
+          "end": "13:39",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "13:42",
+          "end": "13:56",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "13:56",
+          "end": "13:57",
+          "cat": "research",
+          "src": "macos",
+          "title": "ScaleAI/hil-bench · Datasets at Hugging Face",
+          "note": "huggingface.co"
+        },
+        {
+          "start": "13:58",
+          "end": "14:05",
+          "cat": "research",
+          "src": "macos",
+          "title": "Data Science",
+          "note": "coursehandbook.mq.edu.au"
+        },
+        {
+          "start": "14:10",
+          "end": "14:12",
+          "cat": "research",
+          "src": "macos",
+          "title": "HiL_Bench.pdf",
+          "note": "static.scale.com"
+        },
+        {
+          "start": "14:12",
+          "end": "14:15",
+          "cat": "admin",
+          "src": "macos",
+          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: Regarding final exam ",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "14:15",
+          "end": "14:16",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "14:18",
+          "end": "14:20",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Enter Time - Workday",
+          "note": "wd3.myworkday.com"
+        },
+        {
+          "start": "14:21",
+          "end": "14:23",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Enter Time - Workday",
+          "note": "wd3.myworkday.com"
+        },
+        {
+          "start": "14:26",
+          "end": "14:27",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Enter Time - Workday",
+          "note": "wd3.myworkday.com"
+        },
+        {
+          "start": "14:27",
+          "end": "14:30",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Enter Time - Workday",
+          "note": "wd3.myworkday.com"
+        },
+        {
+          "start": "14:36",
+          "end": "14:48",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:01",
+          "end": "15:02",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:11",
+          "end": "15:31",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:32",
+          "end": "15:33",
+          "cat": "research",
+          "src": "macos",
+          "title": "MultiSearch - PHIL STUTZ",
+          "note": "multisearch.mq.edu.au"
+        },
+        {
+          "start": "15:35",
+          "end": "15:43",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:10",
+          "end": "16:29",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:34",
+          "end": "16:40",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "16:40",
+          "end": "16:44",
+          "cat": "research",
+          "src": "macos",
+          "title": "Judge Calibration Reliability",
+          "note": "chatgpt.com"
+        },
+        {
+          "start": "16:44",
+          "end": "16:46",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "16:46",
+          "end": "17:00",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "17:00",
+          "end": "17:11",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
+          "note": "sport.mq.edu.au"
+        },
+        {
+          "start": "18:37",
+          "end": "18:43",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "18:55",
+          "end": "18:59",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "19:18",
+          "end": "19:21",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "19:28",
+          "end": "19:31",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · layer",
+          "note": "18 hits"
+        },
+        {
+          "start": "19:48",
+          "end": "19:54",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "20:28",
+          "end": "20:34",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "20:49",
+          "end": "20:54",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "21:06",
+          "end": "21:08",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "21:14",
+          "end": "21:22",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Agents - Google Slides",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "21:22",
+          "end": "21:23",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "21:23",
+          "end": "21:24",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "21:24",
+          "end": "21:29",
+          "cat": "admin",
+          "src": "macos",
+          "title": "extract to examin paper - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "21:54",
+          "end": "22:03",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · layer",
+          "note": "91 hits"
         }
       ],
-      "logged": 22,
-      "real": 22,
-      "deep": 22,
-      "ratio": 1.0,
+      "logged": 339,
+      "real": 297,
+      "deep": 297,
+      "ratio": 0.8759144489156617,
       "stats": {
-        "contextSwitches": 1,
-        "tabsOpened": 3,
-        "longestFocus": "22m",
-        "justOneMoreThing": 0
+        "contextSwitches": 22,
+        "tabsOpened": 0,
+        "longestFocus": "1h 27m",
+        "justOneMoreThing": 4
       }
     },
     {
@@ -109407,18 +110224,51 @@
       "weekend": false,
       "dateShort": "Tue, Nov 17",
       "dateLong": "Tuesday, November 17",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "09:55",
+      "dayEnd": "10:23",
+      "events": [
+        {
+          "start": "09:55",
+          "end": "10:05",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · layer",
+          "note": "88 hits"
+        },
+        {
+          "start": "10:05",
+          "end": "10:13",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: practice exam | iLear",
+          "note": "ilearn.mq.edu.au"
+        },
+        {
+          "start": "10:13",
+          "end": "10:21",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · layer",
+          "note": "58 hits"
+        },
+        {
+          "start": "10:21",
+          "end": "10:23",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "COMP2200_SHFYR_2026_ALL_U| / COMP6200: practice exam | iLear",
+          "note": "ilearn.mq.edu.au"
+        }
+      ],
+      "logged": 28,
+      "real": 18,
+      "deep": 18,
+      "ratio": 0.6587224374000281,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "0m",
-        "justOneMoreThing": 0
+        "contextSwitches": 3,
+        "tabsOpened": 6,
+        "longestFocus": "10m",
+        "justOneMoreThing": 1
       }
     },
     {
