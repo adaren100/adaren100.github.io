@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-11-22T10:20:15+11:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-11-23T10:20:19+11:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -106159,34 +106159,26 @@
         "weekend": true,
         "dateShort": "Sat, Nov 21",
         "dateLong": "Saturday, November 21",
-        "dayStart": "10:31",
-        "dayEnd": "18:19",
+        "dayStart": "20:21",
+        "dayEnd": "20:23",
         "events": [
           {
-            "start": "10:31",
-            "end": "10:36",
-            "cat": "coding",
-            "src": "local",
-            "title": "domain_cats.json",
-            "note": "4 hits"
-          },
-          {
-            "start": "17:58",
-            "end": "18:19",
+            "start": "20:21",
+            "end": "20:23",
             "cat": "admin",
-            "src": "chrome",
-            "title": "225L / EE / 492 : ADMIT for 21-NOV-2026 - Jay Chou \"Carnival",
-            "note": "mail.google.com"
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
           }
         ],
-        "logged": 26,
-        "real": 5,
-        "deep": 5,
-        "ratio": 0.19425605115242556,
+        "logged": 2,
+        "real": 0,
+        "deep": 0,
+        "ratio": 0.0,
         "stats": {
-          "contextSwitches": 1,
-          "tabsOpened": 3,
-          "longestFocus": "5m",
+          "contextSwitches": 0,
+          "tabsOpened": 0,
+          "longestFocus": "0m",
           "justOneMoreThing": 0
         }
       },
@@ -106198,41 +106190,265 @@
         "dateShort": "Sun, Nov 22",
         "dateLong": "Sunday, November 22",
         "dayStart": "09:06",
-        "dayEnd": "10:15",
+        "dayEnd": "05:59",
         "events": [
           {
             "start": "09:06",
-            "end": "09:15",
+            "end": "09:10",
             "cat": "admin",
-            "src": "chrome",
-            "title": "Inbox (3,475) - ada.ren.cn@gmail.com - Gmail",
+            "src": "macos",
+            "title": "Inbox (3,477) - ada.ren.cn@gmail.com - Gmail",
             "note": "mail.google.com"
           },
           {
             "start": "09:15",
-            "end": "10:11",
+            "end": "09:17",
             "cat": "personal",
-            "src": "chrome",
+            "src": "macos",
             "title": "Amazon.com.au: Shop online for Electronics, Apparel, Toys, B",
             "note": "amazon.com.au"
           },
           {
-            "start": "10:11",
-            "end": "10:15",
+            "start": "09:21",
+            "end": "09:25",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Amazon.com.au: Premium Beauty: Beauty",
+            "note": "amazon.com.au"
+          },
+          {
+            "start": "09:27",
+            "end": "09:28",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Amazon.com.au : switch 2",
+            "note": "amazon.com.au"
+          },
+          {
+            "start": "09:30",
+            "end": "09:31",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Amazon.com.au : switch 2 console",
+            "note": "amazon.com.au"
+          },
+          {
+            "start": "09:32",
+            "end": "09:33",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Amazon.com.au : paulas choice",
+            "note": "amazon.com.au"
+          },
+          {
+            "start": "09:33",
+            "end": "09:40",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Amazon.com.au : paulas choice",
+            "note": "amazon.com.au"
+          },
+          {
+            "start": "09:41",
+            "end": "09:42",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Amazon.com.au : paulas choice RESIST Triple Active Total Rep",
+            "note": "amazon.com.au"
+          },
+          {
+            "start": "09:45",
+            "end": "09:47",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Paula’s Choice C5 Super Boost Moisturizer with 5% Vitamin C,",
+            "note": "amazon.com.au"
+          },
+          {
+            "start": "09:48",
+            "end": "09:49",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Amazon.com.au Shopping Cart",
+            "note": "amazon.com.au"
+          },
+          {
+            "start": "09:57",
+            "end": "10:02",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(3) 0L - Theory [rough early thoughts] - YouTube",
+            "note": "youtube.com"
+          },
+          {
+            "start": "10:03",
+            "end": "10:04",
+            "cat": "personal",
+            "src": "macos",
+            "title": "x.com/home",
+            "note": "x.com"
+          },
+          {
+            "start": "10:05",
+            "end": "10:07",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(3) 0L - Theory [rough early thoughts] - YouTube",
+            "note": "youtube.com"
+          },
+          {
+            "start": "10:07",
+            "end": "10:11",
+            "cat": "research",
+            "src": "macos",
+            "title": "A Mathematical Framework for Transformer Circuits",
+            "note": "transformer-circuits.pub"
+          },
+          {
+            "start": "10:14",
+            "end": "11:45",
+            "cat": "research",
+            "src": "macos",
+            "title": "A Mathematical Framework for Transformer Circuits",
+            "note": "transformer-circuits.pub"
+          },
+          {
+            "start": "14:46",
+            "end": "14:51",
+            "cat": "research",
+            "src": "macos",
+            "title": "A Mathematical Framework for Transformer Circuits",
+            "note": "transformer-circuits.pub"
+          },
+          {
+            "start": "14:52",
+            "end": "14:53",
+            "cat": "personal",
+            "src": "macos",
+            "title": "REI: A Life Outdoors is a Life Well Lived | REI Co-op",
+            "note": "rei.com"
+          },
+          {
+            "start": "14:53",
+            "end": "16:13",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Limited Time Sale | REI Co-op",
+            "note": "rei.com"
+          },
+          {
+            "start": "16:13",
+            "end": "16:14",
             "cat": "admin",
-            "src": "chrome",
-            "title": "Blink Outdoor Camera 2K+ (newest model) — Wireless smart sec",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "16:14",
+            "end": "16:22",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Limited Time Sale | REI Co-op",
+            "note": "rei.com"
+          },
+          {
+            "start": "16:28",
+            "end": "16:38",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Limited Time Sale | REI Co-op",
+            "note": "rei.com"
+          },
+          {
+            "start": "16:39",
+            "end": "16:40",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Prime Video: Watch, rent, or buy TV shows online",
+            "note": "primevideo.com"
+          },
+          {
+            "start": "16:41",
+            "end": "16:57",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Prime Video: Game Of Thrones Season 1",
+            "note": "primevideo.com"
+          },
+          {
+            "start": "16:58",
+            "end": "16:59",
+            "cat": "admin",
+            "src": "macos",
+            "title": "A Mathematical Framework for Transformer Circuits - Google S",
             "note": "google.com"
+          },
+          {
+            "start": "17:00",
+            "end": "17:01",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(1) Neel Nanda - YouTube",
+            "note": "youtube.com"
+          },
+          {
+            "start": "17:01",
+            "end": "17:38",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "20:08",
+            "end": "20:15",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "20:25",
+            "end": "20:30",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "23:01",
+            "end": "23:05",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · bench",
+            "note": "14 hits"
+          },
+          {
+            "start": "23:48",
+            "end": "23:53",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · bench",
+            "note": "46 hits"
+          },
+          {
+            "start": "00:15",
+            "end": "05:59",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
           }
         ],
-        "logged": 69,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0.0,
+        "logged": 657,
+        "real": 502,
+        "deep": 502,
+        "ratio": 0.7648892214060442,
         "stats": {
-          "contextSwitches": 2,
-          "tabsOpened": 9,
-          "longestFocus": "0m",
+          "contextSwitches": 8,
+          "tabsOpened": 0,
+          "longestFocus": "6h 41m",
           "justOneMoreThing": 0
         }
       },
@@ -106243,18 +106459,59 @@
         "weekend": false,
         "dateShort": "Mon, Nov 23",
         "dateLong": "Monday, November 23",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "06:00",
+        "dayEnd": "10:14",
+        "events": [
+          {
+            "start": "06:00",
+            "end": "08:05",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "08:05",
+            "end": "08:06",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "09:52",
+            "end": "09:53",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "09:55",
+            "end": "09:58",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Amortization patches nightly workflow",
+            "note": "46 hits"
+          },
+          {
+            "start": "10:08",
+            "end": "10:14",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Amortization patches nightly workflow",
+            "note": "33 hits"
+          }
+        ],
+        "logged": 137,
+        "real": 136,
+        "deep": 136,
+        "ratio": 0.9918540082656283,
         "stats": {
-          "contextSwitches": 0,
+          "contextSwitches": 2,
           "tabsOpened": 0,
-          "longestFocus": "0m",
-          "justOneMoreThing": 0
+          "longestFocus": "2h 7m",
+          "justOneMoreThing": 1
         }
       },
       {
@@ -112757,34 +113014,26 @@
       "weekend": true,
       "dateShort": "Sat, Nov 21",
       "dateLong": "Saturday, November 21",
-      "dayStart": "10:31",
-      "dayEnd": "18:19",
+      "dayStart": "20:21",
+      "dayEnd": "20:23",
       "events": [
         {
-          "start": "10:31",
-          "end": "10:36",
-          "cat": "coding",
-          "src": "local",
-          "title": "domain_cats.json",
-          "note": "4 hits"
-        },
-        {
-          "start": "17:58",
-          "end": "18:19",
+          "start": "20:21",
+          "end": "20:23",
           "cat": "admin",
-          "src": "chrome",
-          "title": "225L / EE / 492 : ADMIT for 21-NOV-2026 - Jay Chou \"Carnival",
-          "note": "mail.google.com"
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
         }
       ],
-      "logged": 26,
-      "real": 5,
-      "deep": 5,
-      "ratio": 0.19425605115242556,
+      "logged": 2,
+      "real": 0,
+      "deep": 0,
+      "ratio": 0.0,
       "stats": {
-        "contextSwitches": 1,
-        "tabsOpened": 3,
-        "longestFocus": "5m",
+        "contextSwitches": 0,
+        "tabsOpened": 0,
+        "longestFocus": "0m",
         "justOneMoreThing": 0
       }
     },
@@ -112796,41 +113045,265 @@
       "dateShort": "Sun, Nov 22",
       "dateLong": "Sunday, November 22",
       "dayStart": "09:06",
-      "dayEnd": "10:15",
+      "dayEnd": "05:59",
       "events": [
         {
           "start": "09:06",
-          "end": "09:15",
+          "end": "09:10",
           "cat": "admin",
-          "src": "chrome",
-          "title": "Inbox (3,475) - ada.ren.cn@gmail.com - Gmail",
+          "src": "macos",
+          "title": "Inbox (3,477) - ada.ren.cn@gmail.com - Gmail",
           "note": "mail.google.com"
         },
         {
           "start": "09:15",
-          "end": "10:11",
+          "end": "09:17",
           "cat": "personal",
-          "src": "chrome",
+          "src": "macos",
           "title": "Amazon.com.au: Shop online for Electronics, Apparel, Toys, B",
           "note": "amazon.com.au"
         },
         {
-          "start": "10:11",
-          "end": "10:15",
+          "start": "09:21",
+          "end": "09:25",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Amazon.com.au: Premium Beauty: Beauty",
+          "note": "amazon.com.au"
+        },
+        {
+          "start": "09:27",
+          "end": "09:28",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Amazon.com.au : switch 2",
+          "note": "amazon.com.au"
+        },
+        {
+          "start": "09:30",
+          "end": "09:31",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Amazon.com.au : switch 2 console",
+          "note": "amazon.com.au"
+        },
+        {
+          "start": "09:32",
+          "end": "09:33",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Amazon.com.au : paulas choice",
+          "note": "amazon.com.au"
+        },
+        {
+          "start": "09:33",
+          "end": "09:40",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Amazon.com.au : paulas choice",
+          "note": "amazon.com.au"
+        },
+        {
+          "start": "09:41",
+          "end": "09:42",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Amazon.com.au : paulas choice RESIST Triple Active Total Rep",
+          "note": "amazon.com.au"
+        },
+        {
+          "start": "09:45",
+          "end": "09:47",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Paula’s Choice C5 Super Boost Moisturizer with 5% Vitamin C,",
+          "note": "amazon.com.au"
+        },
+        {
+          "start": "09:48",
+          "end": "09:49",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Amazon.com.au Shopping Cart",
+          "note": "amazon.com.au"
+        },
+        {
+          "start": "09:57",
+          "end": "10:02",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(3) 0L - Theory [rough early thoughts] - YouTube",
+          "note": "youtube.com"
+        },
+        {
+          "start": "10:03",
+          "end": "10:04",
+          "cat": "personal",
+          "src": "macos",
+          "title": "x.com/home",
+          "note": "x.com"
+        },
+        {
+          "start": "10:05",
+          "end": "10:07",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(3) 0L - Theory [rough early thoughts] - YouTube",
+          "note": "youtube.com"
+        },
+        {
+          "start": "10:07",
+          "end": "10:11",
+          "cat": "research",
+          "src": "macos",
+          "title": "A Mathematical Framework for Transformer Circuits",
+          "note": "transformer-circuits.pub"
+        },
+        {
+          "start": "10:14",
+          "end": "11:45",
+          "cat": "research",
+          "src": "macos",
+          "title": "A Mathematical Framework for Transformer Circuits",
+          "note": "transformer-circuits.pub"
+        },
+        {
+          "start": "14:46",
+          "end": "14:51",
+          "cat": "research",
+          "src": "macos",
+          "title": "A Mathematical Framework for Transformer Circuits",
+          "note": "transformer-circuits.pub"
+        },
+        {
+          "start": "14:52",
+          "end": "14:53",
+          "cat": "personal",
+          "src": "macos",
+          "title": "REI: A Life Outdoors is a Life Well Lived | REI Co-op",
+          "note": "rei.com"
+        },
+        {
+          "start": "14:53",
+          "end": "16:13",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Limited Time Sale | REI Co-op",
+          "note": "rei.com"
+        },
+        {
+          "start": "16:13",
+          "end": "16:14",
           "cat": "admin",
-          "src": "chrome",
-          "title": "Blink Outdoor Camera 2K+ (newest model) — Wireless smart sec",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "16:14",
+          "end": "16:22",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Limited Time Sale | REI Co-op",
+          "note": "rei.com"
+        },
+        {
+          "start": "16:28",
+          "end": "16:38",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Limited Time Sale | REI Co-op",
+          "note": "rei.com"
+        },
+        {
+          "start": "16:39",
+          "end": "16:40",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Prime Video: Watch, rent, or buy TV shows online",
+          "note": "primevideo.com"
+        },
+        {
+          "start": "16:41",
+          "end": "16:57",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Prime Video: Game Of Thrones Season 1",
+          "note": "primevideo.com"
+        },
+        {
+          "start": "16:58",
+          "end": "16:59",
+          "cat": "admin",
+          "src": "macos",
+          "title": "A Mathematical Framework for Transformer Circuits - Google S",
           "note": "google.com"
+        },
+        {
+          "start": "17:00",
+          "end": "17:01",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(1) Neel Nanda - YouTube",
+          "note": "youtube.com"
+        },
+        {
+          "start": "17:01",
+          "end": "17:38",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "20:08",
+          "end": "20:15",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "20:25",
+          "end": "20:30",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "23:01",
+          "end": "23:05",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · bench",
+          "note": "14 hits"
+        },
+        {
+          "start": "23:48",
+          "end": "23:53",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · bench",
+          "note": "46 hits"
+        },
+        {
+          "start": "00:15",
+          "end": "05:59",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
         }
       ],
-      "logged": 69,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0.0,
+      "logged": 657,
+      "real": 502,
+      "deep": 502,
+      "ratio": 0.7648892214060442,
       "stats": {
-        "contextSwitches": 2,
-        "tabsOpened": 9,
-        "longestFocus": "0m",
+        "contextSwitches": 8,
+        "tabsOpened": 0,
+        "longestFocus": "6h 41m",
         "justOneMoreThing": 0
       }
     },
@@ -112841,18 +113314,59 @@
       "weekend": false,
       "dateShort": "Mon, Nov 23",
       "dateLong": "Monday, November 23",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "06:00",
+      "dayEnd": "10:14",
+      "events": [
+        {
+          "start": "06:00",
+          "end": "08:05",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "08:05",
+          "end": "08:06",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "09:52",
+          "end": "09:53",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "09:55",
+          "end": "09:58",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Amortization patches nightly workflow",
+          "note": "46 hits"
+        },
+        {
+          "start": "10:08",
+          "end": "10:14",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Amortization patches nightly workflow",
+          "note": "33 hits"
+        }
+      ],
+      "logged": 137,
+      "real": 136,
+      "deep": 136,
+      "ratio": 0.9918540082656283,
       "stats": {
-        "contextSwitches": 0,
+        "contextSwitches": 2,
         "tabsOpened": 0,
-        "longestFocus": "0m",
-        "justOneMoreThing": 0
+        "longestFocus": "2h 7m",
+        "justOneMoreThing": 1
       }
     },
     {
