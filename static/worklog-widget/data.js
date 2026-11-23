@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-11-23T10:20:19+11:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-11-24T10:20:14+11:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -106153,304 +106153,304 @@
         "weekend": false
       },
       {
-        "key": "2026-11-21",
-        "dayNum": 21,
-        "dow": 6,
-        "weekend": true,
-        "dateShort": "Sat, Nov 21",
         "dateLong": "Saturday, November 21",
-        "dayStart": "20:21",
+        "dateShort": "Sat, Nov 21",
         "dayEnd": "20:23",
+        "dayNum": 21,
+        "dayStart": "20:21",
+        "deep": 0,
+        "dow": 6,
         "events": [
           {
-            "start": "20:21",
-            "end": "20:23",
             "cat": "admin",
+            "end": "20:23",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "20:21",
+            "title": "Outlook"
           }
         ],
+        "key": "2026-11-21",
         "logged": 2,
-        "real": 0,
-        "deep": 0,
         "ratio": 0.0,
+        "real": 0,
         "stats": {
           "contextSwitches": 0,
-          "tabsOpened": 0,
+          "justOneMoreThing": 0,
           "longestFocus": "0m",
-          "justOneMoreThing": 0
-        }
+          "tabsOpened": 0
+        },
+        "weekend": true
       },
       {
-        "key": "2026-11-22",
-        "dayNum": 22,
-        "dow": 0,
-        "weekend": true,
-        "dateShort": "Sun, Nov 22",
         "dateLong": "Sunday, November 22",
-        "dayStart": "09:06",
+        "dateShort": "Sun, Nov 22",
         "dayEnd": "05:59",
+        "dayNum": 22,
+        "dayStart": "09:06",
+        "deep": 502,
+        "dow": 0,
         "events": [
           {
-            "start": "09:06",
+            "cat": "admin",
             "end": "09:10",
-            "cat": "admin",
+            "note": "mail.google.com",
             "src": "macos",
-            "title": "Inbox (3,477) - ada.ren.cn@gmail.com - Gmail",
-            "note": "mail.google.com"
+            "start": "09:06",
+            "title": "Inbox (3,477) - ada.ren.cn@gmail.com - Gmail"
           },
           {
-            "start": "09:15",
+            "cat": "personal",
             "end": "09:17",
-            "cat": "personal",
+            "note": "amazon.com.au",
             "src": "macos",
-            "title": "Amazon.com.au: Shop online for Electronics, Apparel, Toys, B",
-            "note": "amazon.com.au"
+            "start": "09:15",
+            "title": "Amazon.com.au: Shop online for Electronics, Apparel, Toys, B"
           },
           {
-            "start": "09:21",
+            "cat": "personal",
             "end": "09:25",
-            "cat": "personal",
+            "note": "amazon.com.au",
             "src": "macos",
-            "title": "Amazon.com.au: Premium Beauty: Beauty",
-            "note": "amazon.com.au"
+            "start": "09:21",
+            "title": "Amazon.com.au: Premium Beauty: Beauty"
           },
           {
-            "start": "09:27",
+            "cat": "personal",
             "end": "09:28",
-            "cat": "personal",
+            "note": "amazon.com.au",
             "src": "macos",
-            "title": "Amazon.com.au : switch 2",
-            "note": "amazon.com.au"
+            "start": "09:27",
+            "title": "Amazon.com.au : switch 2"
           },
           {
-            "start": "09:30",
+            "cat": "personal",
             "end": "09:31",
-            "cat": "personal",
+            "note": "amazon.com.au",
             "src": "macos",
-            "title": "Amazon.com.au : switch 2 console",
-            "note": "amazon.com.au"
+            "start": "09:30",
+            "title": "Amazon.com.au : switch 2 console"
           },
           {
-            "start": "09:32",
+            "cat": "personal",
             "end": "09:33",
-            "cat": "personal",
+            "note": "amazon.com.au",
             "src": "macos",
-            "title": "Amazon.com.au : paulas choice",
-            "note": "amazon.com.au"
+            "start": "09:32",
+            "title": "Amazon.com.au : paulas choice"
           },
           {
-            "start": "09:33",
+            "cat": "personal",
             "end": "09:40",
-            "cat": "personal",
+            "note": "amazon.com.au",
             "src": "macos",
-            "title": "Amazon.com.au : paulas choice",
-            "note": "amazon.com.au"
+            "start": "09:33",
+            "title": "Amazon.com.au : paulas choice"
           },
           {
-            "start": "09:41",
+            "cat": "personal",
             "end": "09:42",
-            "cat": "personal",
+            "note": "amazon.com.au",
             "src": "macos",
-            "title": "Amazon.com.au : paulas choice RESIST Triple Active Total Rep",
-            "note": "amazon.com.au"
+            "start": "09:41",
+            "title": "Amazon.com.au : paulas choice RESIST Triple Active Total Rep"
           },
           {
-            "start": "09:45",
+            "cat": "personal",
             "end": "09:47",
-            "cat": "personal",
+            "note": "amazon.com.au",
             "src": "macos",
-            "title": "Paula’s Choice C5 Super Boost Moisturizer with 5% Vitamin C,",
-            "note": "amazon.com.au"
+            "start": "09:45",
+            "title": "Paula’s Choice C5 Super Boost Moisturizer with 5% Vitamin C,"
           },
           {
-            "start": "09:48",
+            "cat": "personal",
             "end": "09:49",
-            "cat": "personal",
+            "note": "amazon.com.au",
             "src": "macos",
-            "title": "Amazon.com.au Shopping Cart",
-            "note": "amazon.com.au"
+            "start": "09:48",
+            "title": "Amazon.com.au Shopping Cart"
           },
           {
-            "start": "09:57",
+            "cat": "personal",
             "end": "10:02",
-            "cat": "personal",
+            "note": "youtube.com",
             "src": "macos",
-            "title": "(3) 0L - Theory [rough early thoughts] - YouTube",
-            "note": "youtube.com"
+            "start": "09:57",
+            "title": "(3) 0L - Theory [rough early thoughts] - YouTube"
           },
           {
-            "start": "10:03",
+            "cat": "personal",
             "end": "10:04",
-            "cat": "personal",
+            "note": "x.com",
             "src": "macos",
-            "title": "x.com/home",
-            "note": "x.com"
+            "start": "10:03",
+            "title": "x.com/home"
           },
           {
-            "start": "10:05",
+            "cat": "personal",
             "end": "10:07",
-            "cat": "personal",
+            "note": "youtube.com",
             "src": "macos",
-            "title": "(3) 0L - Theory [rough early thoughts] - YouTube",
-            "note": "youtube.com"
+            "start": "10:05",
+            "title": "(3) 0L - Theory [rough early thoughts] - YouTube"
           },
           {
-            "start": "10:07",
+            "cat": "research",
             "end": "10:11",
-            "cat": "research",
+            "note": "transformer-circuits.pub",
             "src": "macos",
-            "title": "A Mathematical Framework for Transformer Circuits",
-            "note": "transformer-circuits.pub"
+            "start": "10:07",
+            "title": "A Mathematical Framework for Transformer Circuits"
           },
           {
-            "start": "10:14",
+            "cat": "research",
             "end": "11:45",
-            "cat": "research",
+            "note": "transformer-circuits.pub",
             "src": "macos",
-            "title": "A Mathematical Framework for Transformer Circuits",
-            "note": "transformer-circuits.pub"
+            "start": "10:14",
+            "title": "A Mathematical Framework for Transformer Circuits"
           },
           {
-            "start": "14:46",
+            "cat": "research",
             "end": "14:51",
-            "cat": "research",
+            "note": "transformer-circuits.pub",
             "src": "macos",
-            "title": "A Mathematical Framework for Transformer Circuits",
-            "note": "transformer-circuits.pub"
+            "start": "14:46",
+            "title": "A Mathematical Framework for Transformer Circuits"
           },
           {
-            "start": "14:52",
+            "cat": "personal",
             "end": "14:53",
-            "cat": "personal",
+            "note": "rei.com",
             "src": "macos",
-            "title": "REI: A Life Outdoors is a Life Well Lived | REI Co-op",
-            "note": "rei.com"
+            "start": "14:52",
+            "title": "REI: A Life Outdoors is a Life Well Lived | REI Co-op"
           },
           {
-            "start": "14:53",
+            "cat": "personal",
             "end": "16:13",
-            "cat": "personal",
+            "note": "rei.com",
             "src": "macos",
-            "title": "Limited Time Sale | REI Co-op",
-            "note": "rei.com"
+            "start": "14:53",
+            "title": "Limited Time Sale | REI Co-op"
           },
           {
-            "start": "16:13",
+            "cat": "admin",
             "end": "16:14",
-            "cat": "admin",
+            "note": "com.tinyspeck.slackmacgap",
             "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "start": "16:13",
+            "title": "slackmacgap"
           },
           {
-            "start": "16:14",
+            "cat": "personal",
             "end": "16:22",
-            "cat": "personal",
+            "note": "rei.com",
             "src": "macos",
-            "title": "Limited Time Sale | REI Co-op",
-            "note": "rei.com"
+            "start": "16:14",
+            "title": "Limited Time Sale | REI Co-op"
           },
           {
-            "start": "16:28",
+            "cat": "personal",
             "end": "16:38",
-            "cat": "personal",
+            "note": "rei.com",
             "src": "macos",
-            "title": "Limited Time Sale | REI Co-op",
-            "note": "rei.com"
+            "start": "16:28",
+            "title": "Limited Time Sale | REI Co-op"
           },
           {
-            "start": "16:39",
+            "cat": "personal",
             "end": "16:40",
-            "cat": "personal",
+            "note": "primevideo.com",
             "src": "macos",
-            "title": "Prime Video: Watch, rent, or buy TV shows online",
-            "note": "primevideo.com"
+            "start": "16:39",
+            "title": "Prime Video: Watch, rent, or buy TV shows online"
           },
           {
-            "start": "16:41",
+            "cat": "personal",
             "end": "16:57",
-            "cat": "personal",
+            "note": "primevideo.com",
             "src": "macos",
-            "title": "Prime Video: Game Of Thrones Season 1",
-            "note": "primevideo.com"
+            "start": "16:41",
+            "title": "Prime Video: Game Of Thrones Season 1"
           },
           {
-            "start": "16:58",
-            "end": "16:59",
             "cat": "admin",
+            "end": "16:59",
+            "note": "google.com",
             "src": "macos",
-            "title": "A Mathematical Framework for Transformer Circuits - Google S",
-            "note": "google.com"
+            "start": "16:58",
+            "title": "A Mathematical Framework for Transformer Circuits - Google S"
           },
           {
-            "start": "17:00",
-            "end": "17:01",
             "cat": "personal",
+            "end": "17:01",
+            "note": "youtube.com",
             "src": "macos",
-            "title": "(1) Neel Nanda - YouTube",
-            "note": "youtube.com"
+            "start": "17:00",
+            "title": "(1) Neel Nanda - YouTube"
           },
           {
-            "start": "17:01",
+            "cat": "coding",
             "end": "17:38",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "17:01",
+            "title": "VSCode"
           },
           {
-            "start": "20:08",
+            "cat": "coding",
             "end": "20:15",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "20:08",
+            "title": "VSCode"
           },
           {
-            "start": "20:25",
+            "cat": "coding",
             "end": "20:30",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "20:25",
+            "title": "VSCode"
           },
           {
-            "start": "23:01",
+            "cat": "coding",
             "end": "23:05",
-            "cat": "coding",
+            "note": "14 hits",
             "src": "claude",
-            "title": "Claude session · bench",
-            "note": "14 hits"
+            "start": "23:01",
+            "title": "Claude session · bench"
           },
           {
-            "start": "23:48",
+            "cat": "coding",
             "end": "23:53",
-            "cat": "coding",
+            "note": "46 hits",
             "src": "claude",
-            "title": "Claude session · bench",
-            "note": "46 hits"
+            "start": "23:48",
+            "title": "Claude session · bench"
           },
           {
-            "start": "00:15",
-            "end": "05:59",
             "cat": "coding",
+            "end": "05:59",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "00:15",
+            "title": "VSCode"
           }
         ],
+        "key": "2026-11-22",
         "logged": 657,
-        "real": 502,
-        "deep": 502,
         "ratio": 0.7648892214060442,
+        "real": 502,
         "stats": {
           "contextSwitches": 8,
-          "tabsOpened": 0,
+          "justOneMoreThing": 0,
           "longestFocus": "6h 41m",
-          "justOneMoreThing": 0
-        }
+          "tabsOpened": 0
+        },
+        "weekend": true
       },
       {
         "key": "2026-11-23",
@@ -106459,17 +106459,9 @@
         "weekend": false,
         "dateShort": "Mon, Nov 23",
         "dateLong": "Monday, November 23",
-        "dayStart": "06:00",
-        "dayEnd": "10:14",
+        "dayStart": "08:05",
+        "dayEnd": "18:01",
         "events": [
-          {
-            "start": "06:00",
-            "end": "08:05",
-            "cat": "coding",
-            "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
-          },
           {
             "start": "08:05",
             "end": "08:06",
@@ -106480,7 +106472,7 @@
           },
           {
             "start": "09:52",
-            "end": "09:53",
+            "end": "09:55",
             "cat": "admin",
             "src": "macos",
             "title": "slackmacgap",
@@ -106488,6 +106480,14 @@
           },
           {
             "start": "09:55",
+            "end": "09:57",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Amortization patches nightly workflow",
+            "note": "46 hits"
+          },
+          {
+            "start": "09:57",
             "end": "09:58",
             "cat": "coding",
             "src": "claude",
@@ -106495,23 +106495,415 @@
             "note": "46 hits"
           },
           {
+            "start": "09:59",
+            "end": "09:59",
+            "cat": "coding",
+            "src": "macos",
+            "title": "FSE Teaching Associate EOI - Power Apps",
+            "note": "apps.powerapps.com"
+          },
+          {
+            "start": "10:00",
+            "end": "10:07",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Unit Guide",
+            "note": "unitguides.mq.edu.au"
+          },
+          {
             "start": "10:08",
+            "end": "10:12",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Amortization patches nightly workflow",
+            "note": "33 hits"
+          },
+          {
+            "start": "10:12",
             "end": "10:14",
             "cat": "coding",
             "src": "claude",
             "title": "Amortization patches nightly workflow",
             "note": "33 hits"
+          },
+          {
+            "start": "10:14",
+            "end": "10:16",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Unit Guide",
+            "note": "unitguides.mq.edu.au"
+          },
+          {
+            "start": "10:16",
+            "end": "10:17",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
+            "note": "sport.mq.edu.au"
+          },
+          {
+            "start": "10:17",
+            "end": "10:18",
+            "cat": "coding",
+            "src": "macos",
+            "title": "iterm2",
+            "note": "com.googlecode.iterm2"
+          },
+          {
+            "start": "10:18",
+            "end": "10:20",
+            "cat": "coding",
+            "src": "macos",
+            "title": "iterm2",
+            "note": "com.googlecode.iterm2"
+          },
+          {
+            "start": "10:21",
+            "end": "10:37",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "10:37",
+            "end": "10:50",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · harbor",
+            "note": "295 hits"
+          },
+          {
+            "start": "10:55",
+            "end": "10:59",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · bench",
+            "note": "20 hits"
+          },
+          {
+            "start": "10:59",
+            "end": "11:02",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Search results - ada.ren.cn@gmail.com - Gmail",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "11:03",
+            "end": "11:05",
+            "cat": "research",
+            "src": "macos",
+            "title": "Deep Personalization: Continuous Context Observation for Loc",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "11:06",
+            "end": "11:10",
+            "cat": "research",
+            "src": "macos",
+            "title": "View article",
+            "note": "scholar.google.com"
+          },
+          {
+            "start": "11:10",
+            "end": "11:13",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · bench",
+            "note": "2 hits"
+          },
+          {
+            "start": "11:25",
+            "end": "11:34",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · bench",
+            "note": "65 hits"
+          },
+          {
+            "start": "11:34",
+            "end": "11:34",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(1) 📝 2 HOURS OF POMODORO (30/5) | 🌧️ Relaxing Piano & Rain ",
+            "note": "youtube.com"
+          },
+          {
+            "start": "11:35",
+            "end": "11:39",
+            "cat": "personal",
+            "src": "macos",
+            "title": "All Code Is Slop (Except Mine) — Lauren Tan, SpaceXSI - YouT",
+            "note": "youtube.com"
+          },
+          {
+            "start": "11:39",
+            "end": "11:46",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · bench",
+            "note": "57 hits"
+          },
+          {
+            "start": "11:46",
+            "end": "11:48",
+            "cat": "personal",
+            "src": "macos",
+            "title": "All Code Is Slop (Except Mine) — Lauren Tan, SpaceXSI - YouT",
+            "note": "youtube.com"
+          },
+          {
+            "start": "11:49",
+            "end": "11:56",
+            "cat": "research",
+            "src": "macos",
+            "title": "Perplexity and Intelligence | Ada's Notes",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "11:56",
+            "end": "12:07",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "12:07",
+            "end": "12:14",
+            "cat": "research",
+            "src": "macos",
+            "title": "Perplexity and Intelligence | Ada's Notes",
+            "note": "adaren100.github.io"
+          },
+          {
+            "start": "12:14",
+            "end": "12:19",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · bench",
+            "note": "26 hits"
+          },
+          {
+            "start": "12:26",
+            "end": "12:43",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · bench",
+            "note": "106 hits"
+          },
+          {
+            "start": "13:20",
+            "end": "13:29",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "13:29",
+            "end": "13:30",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · bench",
+            "note": "28 hits"
+          },
+          {
+            "start": "13:31",
+            "end": "13:33",
+            "cat": "research",
+            "src": "macos",
+            "title": "Google Gemini",
+            "note": "gemini.google.com"
+          },
+          {
+            "start": "13:34",
+            "end": "13:35",
+            "cat": "research",
+            "src": "macos",
+            "title": "Personal Intelligence",
+            "note": "gemini.google.com"
+          },
+          {
+            "start": "13:35",
+            "end": "13:37",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "13:37",
+            "end": "13:40",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · bench",
+            "note": "8 hits"
+          },
+          {
+            "start": "13:40",
+            "end": "13:46",
+            "cat": "research",
+            "src": "macos",
+            "title": "Personal Intelligence",
+            "note": "gemini.google.com"
+          },
+          {
+            "start": "13:46",
+            "end": "13:52",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · bench",
+            "note": "12 hits"
+          },
+          {
+            "start": "13:52",
+            "end": "13:55",
+            "cat": "research",
+            "src": "macos",
+            "title": "Personal Intelligence",
+            "note": "gemini.google.com"
+          },
+          {
+            "start": "13:55",
+            "end": "14:04",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · bench",
+            "note": "31 hits"
+          },
+          {
+            "start": "14:05",
+            "end": "14:09",
+            "cat": "research",
+            "src": "macos",
+            "title": "Perplexity and Intelligence | OpenAI",
+            "note": "openai.com"
+          },
+          {
+            "start": "14:09",
+            "end": "14:15",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · bench",
+            "note": "33 hits"
+          },
+          {
+            "start": "14:15",
+            "end": "14:17",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · bench",
+            "note": "33 hits"
+          },
+          {
+            "start": "14:17",
+            "end": "14:30",
+            "cat": "research",
+            "src": "macos",
+            "title": "Perplexity and Intelligence | OpenAI",
+            "note": "openai.com"
+          },
+          {
+            "start": "14:30",
+            "end": "14:38",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "14:40",
+            "end": "14:48",
+            "cat": "research",
+            "src": "macos",
+            "title": "Combatting adversarial distillation | OpenAI",
+            "note": "openai.com"
+          },
+          {
+            "start": "14:48",
+            "end": "15:43",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:43",
+            "end": "15:45",
+            "cat": "research",
+            "src": "macos",
+            "title": "Qwen3.5-Omni Technical Report",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "15:45",
+            "end": "15:47",
+            "cat": "research",
+            "src": "macos",
+            "title": "Qwen/Qwen3.5-397B-A17B · Hugging Face",
+            "note": "huggingface.co"
+          },
+          {
+            "start": "15:47",
+            "end": "16:10",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:10",
+            "end": "16:15",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · bench",
+            "note": "149 hits"
+          },
+          {
+            "start": "16:15",
+            "end": "16:20",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:20",
+            "end": "16:39",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · bench",
+            "note": "44 hits"
+          },
+          {
+            "start": "16:39",
+            "end": "16:53",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · bench",
+            "note": "85 hits"
+          },
+          {
+            "start": "16:53",
+            "end": "18:01",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · bench",
+            "note": "54 hits"
           }
         ],
-        "logged": 137,
-        "real": 136,
-        "deep": 136,
-        "ratio": 0.9918540082656283,
+        "logged": 417,
+        "real": 394,
+        "deep": 394,
+        "ratio": 0.9461322911038735,
         "stats": {
-          "contextSwitches": 2,
+          "contextSwitches": 30,
           "tabsOpened": 0,
-          "longestFocus": "2h 7m",
-          "justOneMoreThing": 1
+          "longestFocus": "5h 23m",
+          "justOneMoreThing": 4
         }
       },
       {
@@ -106521,18 +106913,59 @@
         "weekend": false,
         "dateShort": "Tue, Nov 24",
         "dateLong": "Tuesday, November 24",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "09:25",
+        "dayEnd": "10:00",
+        "events": [
+          {
+            "start": "09:25",
+            "end": "09:35",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "09:35",
+            "end": "09:46",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "09:46",
+            "end": "09:50",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "09:50",
+            "end": "09:53",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Tops | 30% Off Sitewide | ALO",
+            "note": "aloyoga.com"
+          },
+          {
+            "start": "09:58",
+            "end": "10:00",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "xos",
+            "note": "us.zoom.xos"
+          }
+        ],
+        "logged": 29,
+        "real": 26,
+        "deep": 26,
+        "ratio": 0.9232770476670044,
         "stats": {
-          "contextSwitches": 0,
+          "contextSwitches": 2,
           "tabsOpened": 0,
-          "longestFocus": "0m",
-          "justOneMoreThing": 0
+          "longestFocus": "25m",
+          "justOneMoreThing": 1
         }
       },
       {
@@ -113008,304 +113441,304 @@
       "weekend": false
     },
     {
-      "key": "2026-11-21",
-      "dayNum": 21,
-      "dow": 6,
-      "weekend": true,
-      "dateShort": "Sat, Nov 21",
       "dateLong": "Saturday, November 21",
-      "dayStart": "20:21",
+      "dateShort": "Sat, Nov 21",
       "dayEnd": "20:23",
+      "dayNum": 21,
+      "dayStart": "20:21",
+      "deep": 0,
+      "dow": 6,
       "events": [
         {
-          "start": "20:21",
-          "end": "20:23",
           "cat": "admin",
+          "end": "20:23",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "20:21",
+          "title": "Outlook"
         }
       ],
+      "key": "2026-11-21",
       "logged": 2,
-      "real": 0,
-      "deep": 0,
       "ratio": 0.0,
+      "real": 0,
       "stats": {
         "contextSwitches": 0,
-        "tabsOpened": 0,
+        "justOneMoreThing": 0,
         "longestFocus": "0m",
-        "justOneMoreThing": 0
-      }
+        "tabsOpened": 0
+      },
+      "weekend": true
     },
     {
-      "key": "2026-11-22",
-      "dayNum": 22,
-      "dow": 0,
-      "weekend": true,
-      "dateShort": "Sun, Nov 22",
       "dateLong": "Sunday, November 22",
-      "dayStart": "09:06",
+      "dateShort": "Sun, Nov 22",
       "dayEnd": "05:59",
+      "dayNum": 22,
+      "dayStart": "09:06",
+      "deep": 502,
+      "dow": 0,
       "events": [
         {
-          "start": "09:06",
+          "cat": "admin",
           "end": "09:10",
-          "cat": "admin",
+          "note": "mail.google.com",
           "src": "macos",
-          "title": "Inbox (3,477) - ada.ren.cn@gmail.com - Gmail",
-          "note": "mail.google.com"
+          "start": "09:06",
+          "title": "Inbox (3,477) - ada.ren.cn@gmail.com - Gmail"
         },
         {
-          "start": "09:15",
+          "cat": "personal",
           "end": "09:17",
-          "cat": "personal",
+          "note": "amazon.com.au",
           "src": "macos",
-          "title": "Amazon.com.au: Shop online for Electronics, Apparel, Toys, B",
-          "note": "amazon.com.au"
+          "start": "09:15",
+          "title": "Amazon.com.au: Shop online for Electronics, Apparel, Toys, B"
         },
         {
-          "start": "09:21",
+          "cat": "personal",
           "end": "09:25",
-          "cat": "personal",
+          "note": "amazon.com.au",
           "src": "macos",
-          "title": "Amazon.com.au: Premium Beauty: Beauty",
-          "note": "amazon.com.au"
+          "start": "09:21",
+          "title": "Amazon.com.au: Premium Beauty: Beauty"
         },
         {
-          "start": "09:27",
+          "cat": "personal",
           "end": "09:28",
-          "cat": "personal",
+          "note": "amazon.com.au",
           "src": "macos",
-          "title": "Amazon.com.au : switch 2",
-          "note": "amazon.com.au"
+          "start": "09:27",
+          "title": "Amazon.com.au : switch 2"
         },
         {
-          "start": "09:30",
+          "cat": "personal",
           "end": "09:31",
-          "cat": "personal",
+          "note": "amazon.com.au",
           "src": "macos",
-          "title": "Amazon.com.au : switch 2 console",
-          "note": "amazon.com.au"
+          "start": "09:30",
+          "title": "Amazon.com.au : switch 2 console"
         },
         {
-          "start": "09:32",
+          "cat": "personal",
           "end": "09:33",
-          "cat": "personal",
+          "note": "amazon.com.au",
           "src": "macos",
-          "title": "Amazon.com.au : paulas choice",
-          "note": "amazon.com.au"
+          "start": "09:32",
+          "title": "Amazon.com.au : paulas choice"
         },
         {
-          "start": "09:33",
+          "cat": "personal",
           "end": "09:40",
-          "cat": "personal",
+          "note": "amazon.com.au",
           "src": "macos",
-          "title": "Amazon.com.au : paulas choice",
-          "note": "amazon.com.au"
+          "start": "09:33",
+          "title": "Amazon.com.au : paulas choice"
         },
         {
-          "start": "09:41",
+          "cat": "personal",
           "end": "09:42",
-          "cat": "personal",
+          "note": "amazon.com.au",
           "src": "macos",
-          "title": "Amazon.com.au : paulas choice RESIST Triple Active Total Rep",
-          "note": "amazon.com.au"
+          "start": "09:41",
+          "title": "Amazon.com.au : paulas choice RESIST Triple Active Total Rep"
         },
         {
-          "start": "09:45",
+          "cat": "personal",
           "end": "09:47",
-          "cat": "personal",
+          "note": "amazon.com.au",
           "src": "macos",
-          "title": "Paula’s Choice C5 Super Boost Moisturizer with 5% Vitamin C,",
-          "note": "amazon.com.au"
+          "start": "09:45",
+          "title": "Paula’s Choice C5 Super Boost Moisturizer with 5% Vitamin C,"
         },
         {
-          "start": "09:48",
+          "cat": "personal",
           "end": "09:49",
-          "cat": "personal",
+          "note": "amazon.com.au",
           "src": "macos",
-          "title": "Amazon.com.au Shopping Cart",
-          "note": "amazon.com.au"
+          "start": "09:48",
+          "title": "Amazon.com.au Shopping Cart"
         },
         {
-          "start": "09:57",
+          "cat": "personal",
           "end": "10:02",
-          "cat": "personal",
+          "note": "youtube.com",
           "src": "macos",
-          "title": "(3) 0L - Theory [rough early thoughts] - YouTube",
-          "note": "youtube.com"
+          "start": "09:57",
+          "title": "(3) 0L - Theory [rough early thoughts] - YouTube"
         },
         {
-          "start": "10:03",
+          "cat": "personal",
           "end": "10:04",
-          "cat": "personal",
+          "note": "x.com",
           "src": "macos",
-          "title": "x.com/home",
-          "note": "x.com"
+          "start": "10:03",
+          "title": "x.com/home"
         },
         {
-          "start": "10:05",
+          "cat": "personal",
           "end": "10:07",
-          "cat": "personal",
+          "note": "youtube.com",
           "src": "macos",
-          "title": "(3) 0L - Theory [rough early thoughts] - YouTube",
-          "note": "youtube.com"
+          "start": "10:05",
+          "title": "(3) 0L - Theory [rough early thoughts] - YouTube"
         },
         {
-          "start": "10:07",
+          "cat": "research",
           "end": "10:11",
-          "cat": "research",
+          "note": "transformer-circuits.pub",
           "src": "macos",
-          "title": "A Mathematical Framework for Transformer Circuits",
-          "note": "transformer-circuits.pub"
+          "start": "10:07",
+          "title": "A Mathematical Framework for Transformer Circuits"
         },
         {
-          "start": "10:14",
+          "cat": "research",
           "end": "11:45",
-          "cat": "research",
+          "note": "transformer-circuits.pub",
           "src": "macos",
-          "title": "A Mathematical Framework for Transformer Circuits",
-          "note": "transformer-circuits.pub"
+          "start": "10:14",
+          "title": "A Mathematical Framework for Transformer Circuits"
         },
         {
-          "start": "14:46",
+          "cat": "research",
           "end": "14:51",
-          "cat": "research",
+          "note": "transformer-circuits.pub",
           "src": "macos",
-          "title": "A Mathematical Framework for Transformer Circuits",
-          "note": "transformer-circuits.pub"
+          "start": "14:46",
+          "title": "A Mathematical Framework for Transformer Circuits"
         },
         {
-          "start": "14:52",
+          "cat": "personal",
           "end": "14:53",
-          "cat": "personal",
+          "note": "rei.com",
           "src": "macos",
-          "title": "REI: A Life Outdoors is a Life Well Lived | REI Co-op",
-          "note": "rei.com"
+          "start": "14:52",
+          "title": "REI: A Life Outdoors is a Life Well Lived | REI Co-op"
         },
         {
-          "start": "14:53",
+          "cat": "personal",
           "end": "16:13",
-          "cat": "personal",
+          "note": "rei.com",
           "src": "macos",
-          "title": "Limited Time Sale | REI Co-op",
-          "note": "rei.com"
+          "start": "14:53",
+          "title": "Limited Time Sale | REI Co-op"
         },
         {
-          "start": "16:13",
+          "cat": "admin",
           "end": "16:14",
-          "cat": "admin",
+          "note": "com.tinyspeck.slackmacgap",
           "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "start": "16:13",
+          "title": "slackmacgap"
         },
         {
-          "start": "16:14",
+          "cat": "personal",
           "end": "16:22",
-          "cat": "personal",
+          "note": "rei.com",
           "src": "macos",
-          "title": "Limited Time Sale | REI Co-op",
-          "note": "rei.com"
+          "start": "16:14",
+          "title": "Limited Time Sale | REI Co-op"
         },
         {
-          "start": "16:28",
+          "cat": "personal",
           "end": "16:38",
-          "cat": "personal",
+          "note": "rei.com",
           "src": "macos",
-          "title": "Limited Time Sale | REI Co-op",
-          "note": "rei.com"
+          "start": "16:28",
+          "title": "Limited Time Sale | REI Co-op"
         },
         {
-          "start": "16:39",
+          "cat": "personal",
           "end": "16:40",
-          "cat": "personal",
+          "note": "primevideo.com",
           "src": "macos",
-          "title": "Prime Video: Watch, rent, or buy TV shows online",
-          "note": "primevideo.com"
+          "start": "16:39",
+          "title": "Prime Video: Watch, rent, or buy TV shows online"
         },
         {
-          "start": "16:41",
+          "cat": "personal",
           "end": "16:57",
-          "cat": "personal",
+          "note": "primevideo.com",
           "src": "macos",
-          "title": "Prime Video: Game Of Thrones Season 1",
-          "note": "primevideo.com"
+          "start": "16:41",
+          "title": "Prime Video: Game Of Thrones Season 1"
         },
         {
-          "start": "16:58",
-          "end": "16:59",
           "cat": "admin",
+          "end": "16:59",
+          "note": "google.com",
           "src": "macos",
-          "title": "A Mathematical Framework for Transformer Circuits - Google S",
-          "note": "google.com"
+          "start": "16:58",
+          "title": "A Mathematical Framework for Transformer Circuits - Google S"
         },
         {
-          "start": "17:00",
-          "end": "17:01",
           "cat": "personal",
+          "end": "17:01",
+          "note": "youtube.com",
           "src": "macos",
-          "title": "(1) Neel Nanda - YouTube",
-          "note": "youtube.com"
+          "start": "17:00",
+          "title": "(1) Neel Nanda - YouTube"
         },
         {
-          "start": "17:01",
+          "cat": "coding",
           "end": "17:38",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "17:01",
+          "title": "VSCode"
         },
         {
-          "start": "20:08",
+          "cat": "coding",
           "end": "20:15",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "20:08",
+          "title": "VSCode"
         },
         {
-          "start": "20:25",
+          "cat": "coding",
           "end": "20:30",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "20:25",
+          "title": "VSCode"
         },
         {
-          "start": "23:01",
+          "cat": "coding",
           "end": "23:05",
-          "cat": "coding",
+          "note": "14 hits",
           "src": "claude",
-          "title": "Claude session · bench",
-          "note": "14 hits"
+          "start": "23:01",
+          "title": "Claude session · bench"
         },
         {
-          "start": "23:48",
+          "cat": "coding",
           "end": "23:53",
-          "cat": "coding",
+          "note": "46 hits",
           "src": "claude",
-          "title": "Claude session · bench",
-          "note": "46 hits"
+          "start": "23:48",
+          "title": "Claude session · bench"
         },
         {
-          "start": "00:15",
-          "end": "05:59",
           "cat": "coding",
+          "end": "05:59",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "00:15",
+          "title": "VSCode"
         }
       ],
+      "key": "2026-11-22",
       "logged": 657,
-      "real": 502,
-      "deep": 502,
       "ratio": 0.7648892214060442,
+      "real": 502,
       "stats": {
         "contextSwitches": 8,
-        "tabsOpened": 0,
+        "justOneMoreThing": 0,
         "longestFocus": "6h 41m",
-        "justOneMoreThing": 0
-      }
+        "tabsOpened": 0
+      },
+      "weekend": true
     },
     {
       "key": "2026-11-23",
@@ -113314,17 +113747,9 @@
       "weekend": false,
       "dateShort": "Mon, Nov 23",
       "dateLong": "Monday, November 23",
-      "dayStart": "06:00",
-      "dayEnd": "10:14",
+      "dayStart": "08:05",
+      "dayEnd": "18:01",
       "events": [
-        {
-          "start": "06:00",
-          "end": "08:05",
-          "cat": "coding",
-          "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
-        },
         {
           "start": "08:05",
           "end": "08:06",
@@ -113335,7 +113760,7 @@
         },
         {
           "start": "09:52",
-          "end": "09:53",
+          "end": "09:55",
           "cat": "admin",
           "src": "macos",
           "title": "slackmacgap",
@@ -113343,6 +113768,14 @@
         },
         {
           "start": "09:55",
+          "end": "09:57",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Amortization patches nightly workflow",
+          "note": "46 hits"
+        },
+        {
+          "start": "09:57",
           "end": "09:58",
           "cat": "coding",
           "src": "claude",
@@ -113350,23 +113783,415 @@
           "note": "46 hits"
         },
         {
+          "start": "09:59",
+          "end": "09:59",
+          "cat": "coding",
+          "src": "macos",
+          "title": "FSE Teaching Associate EOI - Power Apps",
+          "note": "apps.powerapps.com"
+        },
+        {
+          "start": "10:00",
+          "end": "10:07",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Unit Guide",
+          "note": "unitguides.mq.edu.au"
+        },
+        {
           "start": "10:08",
+          "end": "10:12",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Amortization patches nightly workflow",
+          "note": "33 hits"
+        },
+        {
+          "start": "10:12",
           "end": "10:14",
           "cat": "coding",
           "src": "claude",
           "title": "Amortization patches nightly workflow",
           "note": "33 hits"
+        },
+        {
+          "start": "10:14",
+          "end": "10:16",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Unit Guide",
+          "note": "unitguides.mq.edu.au"
+        },
+        {
+          "start": "10:16",
+          "end": "10:17",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
+          "note": "sport.mq.edu.au"
+        },
+        {
+          "start": "10:17",
+          "end": "10:18",
+          "cat": "coding",
+          "src": "macos",
+          "title": "iterm2",
+          "note": "com.googlecode.iterm2"
+        },
+        {
+          "start": "10:18",
+          "end": "10:20",
+          "cat": "coding",
+          "src": "macos",
+          "title": "iterm2",
+          "note": "com.googlecode.iterm2"
+        },
+        {
+          "start": "10:21",
+          "end": "10:37",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "10:37",
+          "end": "10:50",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · harbor",
+          "note": "295 hits"
+        },
+        {
+          "start": "10:55",
+          "end": "10:59",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · bench",
+          "note": "20 hits"
+        },
+        {
+          "start": "10:59",
+          "end": "11:02",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Search results - ada.ren.cn@gmail.com - Gmail",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "11:03",
+          "end": "11:05",
+          "cat": "research",
+          "src": "macos",
+          "title": "Deep Personalization: Continuous Context Observation for Loc",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "11:06",
+          "end": "11:10",
+          "cat": "research",
+          "src": "macos",
+          "title": "View article",
+          "note": "scholar.google.com"
+        },
+        {
+          "start": "11:10",
+          "end": "11:13",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · bench",
+          "note": "2 hits"
+        },
+        {
+          "start": "11:25",
+          "end": "11:34",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · bench",
+          "note": "65 hits"
+        },
+        {
+          "start": "11:34",
+          "end": "11:34",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(1) 📝 2 HOURS OF POMODORO (30/5) | 🌧️ Relaxing Piano & Rain ",
+          "note": "youtube.com"
+        },
+        {
+          "start": "11:35",
+          "end": "11:39",
+          "cat": "personal",
+          "src": "macos",
+          "title": "All Code Is Slop (Except Mine) — Lauren Tan, SpaceXSI - YouT",
+          "note": "youtube.com"
+        },
+        {
+          "start": "11:39",
+          "end": "11:46",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · bench",
+          "note": "57 hits"
+        },
+        {
+          "start": "11:46",
+          "end": "11:48",
+          "cat": "personal",
+          "src": "macos",
+          "title": "All Code Is Slop (Except Mine) — Lauren Tan, SpaceXSI - YouT",
+          "note": "youtube.com"
+        },
+        {
+          "start": "11:49",
+          "end": "11:56",
+          "cat": "research",
+          "src": "macos",
+          "title": "Perplexity and Intelligence | Ada's Notes",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "11:56",
+          "end": "12:07",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "12:07",
+          "end": "12:14",
+          "cat": "research",
+          "src": "macos",
+          "title": "Perplexity and Intelligence | Ada's Notes",
+          "note": "adaren100.github.io"
+        },
+        {
+          "start": "12:14",
+          "end": "12:19",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · bench",
+          "note": "26 hits"
+        },
+        {
+          "start": "12:26",
+          "end": "12:43",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · bench",
+          "note": "106 hits"
+        },
+        {
+          "start": "13:20",
+          "end": "13:29",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "13:29",
+          "end": "13:30",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · bench",
+          "note": "28 hits"
+        },
+        {
+          "start": "13:31",
+          "end": "13:33",
+          "cat": "research",
+          "src": "macos",
+          "title": "Google Gemini",
+          "note": "gemini.google.com"
+        },
+        {
+          "start": "13:34",
+          "end": "13:35",
+          "cat": "research",
+          "src": "macos",
+          "title": "Personal Intelligence",
+          "note": "gemini.google.com"
+        },
+        {
+          "start": "13:35",
+          "end": "13:37",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "13:37",
+          "end": "13:40",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · bench",
+          "note": "8 hits"
+        },
+        {
+          "start": "13:40",
+          "end": "13:46",
+          "cat": "research",
+          "src": "macos",
+          "title": "Personal Intelligence",
+          "note": "gemini.google.com"
+        },
+        {
+          "start": "13:46",
+          "end": "13:52",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · bench",
+          "note": "12 hits"
+        },
+        {
+          "start": "13:52",
+          "end": "13:55",
+          "cat": "research",
+          "src": "macos",
+          "title": "Personal Intelligence",
+          "note": "gemini.google.com"
+        },
+        {
+          "start": "13:55",
+          "end": "14:04",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · bench",
+          "note": "31 hits"
+        },
+        {
+          "start": "14:05",
+          "end": "14:09",
+          "cat": "research",
+          "src": "macos",
+          "title": "Perplexity and Intelligence | OpenAI",
+          "note": "openai.com"
+        },
+        {
+          "start": "14:09",
+          "end": "14:15",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · bench",
+          "note": "33 hits"
+        },
+        {
+          "start": "14:15",
+          "end": "14:17",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · bench",
+          "note": "33 hits"
+        },
+        {
+          "start": "14:17",
+          "end": "14:30",
+          "cat": "research",
+          "src": "macos",
+          "title": "Perplexity and Intelligence | OpenAI",
+          "note": "openai.com"
+        },
+        {
+          "start": "14:30",
+          "end": "14:38",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "14:40",
+          "end": "14:48",
+          "cat": "research",
+          "src": "macos",
+          "title": "Combatting adversarial distillation | OpenAI",
+          "note": "openai.com"
+        },
+        {
+          "start": "14:48",
+          "end": "15:43",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:43",
+          "end": "15:45",
+          "cat": "research",
+          "src": "macos",
+          "title": "Qwen3.5-Omni Technical Report",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "15:45",
+          "end": "15:47",
+          "cat": "research",
+          "src": "macos",
+          "title": "Qwen/Qwen3.5-397B-A17B · Hugging Face",
+          "note": "huggingface.co"
+        },
+        {
+          "start": "15:47",
+          "end": "16:10",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:10",
+          "end": "16:15",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · bench",
+          "note": "149 hits"
+        },
+        {
+          "start": "16:15",
+          "end": "16:20",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:20",
+          "end": "16:39",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · bench",
+          "note": "44 hits"
+        },
+        {
+          "start": "16:39",
+          "end": "16:53",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · bench",
+          "note": "85 hits"
+        },
+        {
+          "start": "16:53",
+          "end": "18:01",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · bench",
+          "note": "54 hits"
         }
       ],
-      "logged": 137,
-      "real": 136,
-      "deep": 136,
-      "ratio": 0.9918540082656283,
+      "logged": 417,
+      "real": 394,
+      "deep": 394,
+      "ratio": 0.9461322911038735,
       "stats": {
-        "contextSwitches": 2,
+        "contextSwitches": 30,
         "tabsOpened": 0,
-        "longestFocus": "2h 7m",
-        "justOneMoreThing": 1
+        "longestFocus": "5h 23m",
+        "justOneMoreThing": 4
       }
     },
     {
@@ -113376,18 +114201,59 @@
       "weekend": false,
       "dateShort": "Tue, Nov 24",
       "dateLong": "Tuesday, November 24",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "09:25",
+      "dayEnd": "10:00",
+      "events": [
+        {
+          "start": "09:25",
+          "end": "09:35",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "09:35",
+          "end": "09:46",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "09:46",
+          "end": "09:50",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "09:50",
+          "end": "09:53",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Tops | 30% Off Sitewide | ALO",
+          "note": "aloyoga.com"
+        },
+        {
+          "start": "09:58",
+          "end": "10:00",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "xos",
+          "note": "us.zoom.xos"
+        }
+      ],
+      "logged": 29,
+      "real": 26,
+      "deep": 26,
+      "ratio": 0.9232770476670044,
       "stats": {
-        "contextSwitches": 0,
+        "contextSwitches": 2,
         "tabsOpened": 0,
-        "longestFocus": "0m",
-        "justOneMoreThing": 0
+        "longestFocus": "25m",
+        "justOneMoreThing": 1
       }
     },
     {
