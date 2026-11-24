@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-11-24T10:20:14+11:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-11-25T10:20:17+11:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -106453,458 +106453,458 @@
         "weekend": true
       },
       {
-        "key": "2026-11-23",
-        "dayNum": 23,
-        "dow": 1,
-        "weekend": false,
-        "dateShort": "Mon, Nov 23",
         "dateLong": "Monday, November 23",
-        "dayStart": "08:05",
+        "dateShort": "Mon, Nov 23",
         "dayEnd": "18:01",
+        "dayNum": 23,
+        "dayStart": "08:05",
+        "deep": 394,
+        "dow": 1,
         "events": [
           {
-            "start": "08:05",
+            "cat": "coding",
             "end": "08:06",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "08:05",
+            "title": "VSCode"
           },
           {
-            "start": "09:52",
+            "cat": "admin",
             "end": "09:55",
-            "cat": "admin",
+            "note": "com.tinyspeck.slackmacgap",
             "src": "macos",
-            "title": "slackmacgap",
-            "note": "com.tinyspeck.slackmacgap"
+            "start": "09:52",
+            "title": "slackmacgap"
           },
           {
-            "start": "09:55",
+            "cat": "coding",
             "end": "09:57",
-            "cat": "coding",
+            "note": "46 hits",
             "src": "claude",
-            "title": "Amortization patches nightly workflow",
-            "note": "46 hits"
+            "start": "09:55",
+            "title": "Amortization patches nightly workflow"
           },
           {
-            "start": "09:57",
+            "cat": "coding",
             "end": "09:58",
-            "cat": "coding",
+            "note": "46 hits",
             "src": "claude",
-            "title": "Amortization patches nightly workflow",
-            "note": "46 hits"
+            "start": "09:57",
+            "title": "Amortization patches nightly workflow"
           },
           {
-            "start": "09:59",
+            "cat": "coding",
             "end": "09:59",
-            "cat": "coding",
+            "note": "apps.powerapps.com",
             "src": "macos",
-            "title": "FSE Teaching Associate EOI - Power Apps",
-            "note": "apps.powerapps.com"
+            "start": "09:59",
+            "title": "FSE Teaching Associate EOI - Power Apps"
           },
           {
-            "start": "10:00",
+            "cat": "admin",
             "end": "10:07",
-            "cat": "admin",
+            "note": "unitguides.mq.edu.au",
             "src": "macos",
-            "title": "Unit Guide",
-            "note": "unitguides.mq.edu.au"
+            "start": "10:00",
+            "title": "Unit Guide"
           },
           {
-            "start": "10:08",
+            "cat": "coding",
             "end": "10:12",
-            "cat": "coding",
+            "note": "33 hits",
             "src": "claude",
-            "title": "Amortization patches nightly workflow",
-            "note": "33 hits"
+            "start": "10:08",
+            "title": "Amortization patches nightly workflow"
           },
           {
-            "start": "10:12",
+            "cat": "coding",
             "end": "10:14",
-            "cat": "coding",
+            "note": "33 hits",
             "src": "claude",
-            "title": "Amortization patches nightly workflow",
-            "note": "33 hits"
+            "start": "10:12",
+            "title": "Amortization patches nightly workflow"
           },
           {
-            "start": "10:14",
+            "cat": "admin",
             "end": "10:16",
-            "cat": "admin",
+            "note": "unitguides.mq.edu.au",
             "src": "macos",
-            "title": "Unit Guide",
-            "note": "unitguides.mq.edu.au"
+            "start": "10:14",
+            "title": "Unit Guide"
           },
           {
-            "start": "10:16",
+            "cat": "admin",
             "end": "10:17",
-            "cat": "admin",
+            "note": "sport.mq.edu.au",
             "src": "macos",
-            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
-            "note": "sport.mq.edu.au"
+            "start": "10:16",
+            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni"
           },
           {
-            "start": "10:17",
+            "cat": "coding",
             "end": "10:18",
-            "cat": "coding",
+            "note": "com.googlecode.iterm2",
             "src": "macos",
-            "title": "iterm2",
-            "note": "com.googlecode.iterm2"
+            "start": "10:17",
+            "title": "iterm2"
           },
           {
-            "start": "10:18",
+            "cat": "coding",
             "end": "10:20",
-            "cat": "coding",
+            "note": "com.googlecode.iterm2",
             "src": "macos",
-            "title": "iterm2",
-            "note": "com.googlecode.iterm2"
+            "start": "10:18",
+            "title": "iterm2"
           },
           {
-            "start": "10:21",
+            "cat": "coding",
             "end": "10:37",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "10:21",
+            "title": "VSCode"
           },
           {
-            "start": "10:37",
+            "cat": "coding",
             "end": "10:50",
-            "cat": "coding",
+            "note": "295 hits",
             "src": "claude",
-            "title": "Claude session · harbor",
-            "note": "295 hits"
+            "start": "10:37",
+            "title": "Claude session · harbor"
           },
           {
-            "start": "10:55",
+            "cat": "coding",
             "end": "10:59",
-            "cat": "coding",
+            "note": "20 hits",
             "src": "claude",
-            "title": "Claude session · bench",
-            "note": "20 hits"
+            "start": "10:55",
+            "title": "Claude session · bench"
           },
           {
-            "start": "10:59",
-            "end": "11:02",
             "cat": "admin",
+            "end": "11:02",
+            "note": "mail.google.com",
             "src": "macos",
-            "title": "Search results - ada.ren.cn@gmail.com - Gmail",
-            "note": "mail.google.com"
+            "start": "10:59",
+            "title": "Search results - ada.ren.cn@gmail.com - Gmail"
           },
           {
-            "start": "11:03",
+            "cat": "research",
             "end": "11:05",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "Deep Personalization: Continuous Context Observation for Loc",
-            "note": "arxiv.org"
+            "start": "11:03",
+            "title": "Deep Personalization: Continuous Context Observation for Loc"
           },
           {
-            "start": "11:06",
+            "cat": "research",
             "end": "11:10",
-            "cat": "research",
+            "note": "scholar.google.com",
             "src": "macos",
-            "title": "View article",
-            "note": "scholar.google.com"
+            "start": "11:06",
+            "title": "View article"
           },
           {
-            "start": "11:10",
+            "cat": "coding",
             "end": "11:13",
-            "cat": "coding",
+            "note": "2 hits",
             "src": "claude",
-            "title": "Claude session · bench",
-            "note": "2 hits"
+            "start": "11:10",
+            "title": "Claude session · bench"
           },
           {
+            "cat": "coding",
+            "end": "11:34",
+            "note": "65 hits",
+            "src": "claude",
             "start": "11:25",
-            "end": "11:34",
-            "cat": "coding",
-            "src": "claude",
-            "title": "Claude session · bench",
-            "note": "65 hits"
+            "title": "Claude session · bench"
           },
           {
+            "cat": "personal",
+            "end": "11:34",
+            "note": "youtube.com",
+            "src": "macos",
             "start": "11:34",
-            "end": "11:34",
-            "cat": "personal",
-            "src": "macos",
-            "title": "(1) 📝 2 HOURS OF POMODORO (30/5) | 🌧️ Relaxing Piano & Rain ",
-            "note": "youtube.com"
+            "title": "(1) 📝 2 HOURS OF POMODORO (30/5) | 🌧️ Relaxing Piano & Rain "
           },
           {
-            "start": "11:35",
+            "cat": "personal",
             "end": "11:39",
-            "cat": "personal",
+            "note": "youtube.com",
             "src": "macos",
-            "title": "All Code Is Slop (Except Mine) — Lauren Tan, SpaceXSI - YouT",
-            "note": "youtube.com"
+            "start": "11:35",
+            "title": "All Code Is Slop (Except Mine) — Lauren Tan, SpaceXSI - YouT"
           },
           {
-            "start": "11:39",
+            "cat": "coding",
             "end": "11:46",
-            "cat": "coding",
+            "note": "57 hits",
             "src": "claude",
-            "title": "Claude session · bench",
-            "note": "57 hits"
+            "start": "11:39",
+            "title": "Claude session · bench"
           },
           {
-            "start": "11:46",
-            "end": "11:48",
             "cat": "personal",
+            "end": "11:48",
+            "note": "youtube.com",
             "src": "macos",
-            "title": "All Code Is Slop (Except Mine) — Lauren Tan, SpaceXSI - YouT",
-            "note": "youtube.com"
+            "start": "11:46",
+            "title": "All Code Is Slop (Except Mine) — Lauren Tan, SpaceXSI - YouT"
           },
           {
-            "start": "11:49",
+            "cat": "research",
             "end": "11:56",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "macos",
-            "title": "Perplexity and Intelligence | Ada's Notes",
-            "note": "adaren100.github.io"
+            "start": "11:49",
+            "title": "Perplexity and Intelligence | Ada's Notes"
           },
           {
-            "start": "11:56",
+            "cat": "coding",
             "end": "12:07",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "11:56",
+            "title": "VSCode"
           },
           {
-            "start": "12:07",
+            "cat": "research",
             "end": "12:14",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "macos",
-            "title": "Perplexity and Intelligence | Ada's Notes",
-            "note": "adaren100.github.io"
+            "start": "12:07",
+            "title": "Perplexity and Intelligence | Ada's Notes"
           },
           {
-            "start": "12:14",
+            "cat": "coding",
             "end": "12:19",
-            "cat": "coding",
+            "note": "26 hits",
             "src": "claude",
-            "title": "Claude session · bench",
-            "note": "26 hits"
+            "start": "12:14",
+            "title": "Claude session · bench"
           },
           {
-            "start": "12:26",
+            "cat": "coding",
             "end": "12:43",
-            "cat": "coding",
+            "note": "106 hits",
             "src": "claude",
-            "title": "Claude session · bench",
-            "note": "106 hits"
+            "start": "12:26",
+            "title": "Claude session · bench"
           },
           {
-            "start": "13:20",
+            "cat": "coding",
             "end": "13:29",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "13:20",
+            "title": "VSCode"
           },
           {
-            "start": "13:29",
+            "cat": "coding",
             "end": "13:30",
-            "cat": "coding",
+            "note": "28 hits",
             "src": "claude",
-            "title": "Claude session · bench",
-            "note": "28 hits"
+            "start": "13:29",
+            "title": "Claude session · bench"
           },
           {
-            "start": "13:31",
+            "cat": "research",
             "end": "13:33",
-            "cat": "research",
+            "note": "gemini.google.com",
             "src": "macos",
-            "title": "Google Gemini",
-            "note": "gemini.google.com"
+            "start": "13:31",
+            "title": "Google Gemini"
           },
           {
-            "start": "13:34",
+            "cat": "research",
             "end": "13:35",
-            "cat": "research",
+            "note": "gemini.google.com",
             "src": "macos",
-            "title": "Personal Intelligence",
-            "note": "gemini.google.com"
+            "start": "13:34",
+            "title": "Personal Intelligence"
           },
           {
-            "start": "13:35",
+            "cat": "coding",
             "end": "13:37",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "13:35",
+            "title": "VSCode"
           },
           {
-            "start": "13:37",
+            "cat": "coding",
             "end": "13:40",
-            "cat": "coding",
+            "note": "8 hits",
             "src": "claude",
-            "title": "Claude session · bench",
-            "note": "8 hits"
+            "start": "13:37",
+            "title": "Claude session · bench"
           },
           {
-            "start": "13:40",
+            "cat": "research",
             "end": "13:46",
-            "cat": "research",
+            "note": "gemini.google.com",
             "src": "macos",
-            "title": "Personal Intelligence",
-            "note": "gemini.google.com"
+            "start": "13:40",
+            "title": "Personal Intelligence"
           },
           {
-            "start": "13:46",
+            "cat": "coding",
             "end": "13:52",
-            "cat": "coding",
+            "note": "12 hits",
             "src": "claude",
-            "title": "Claude session · bench",
-            "note": "12 hits"
+            "start": "13:46",
+            "title": "Claude session · bench"
           },
           {
-            "start": "13:52",
+            "cat": "research",
             "end": "13:55",
-            "cat": "research",
+            "note": "gemini.google.com",
             "src": "macos",
-            "title": "Personal Intelligence",
-            "note": "gemini.google.com"
+            "start": "13:52",
+            "title": "Personal Intelligence"
           },
           {
-            "start": "13:55",
+            "cat": "coding",
             "end": "14:04",
-            "cat": "coding",
+            "note": "31 hits",
             "src": "claude",
-            "title": "Claude session · bench",
-            "note": "31 hits"
+            "start": "13:55",
+            "title": "Claude session · bench"
           },
           {
-            "start": "14:05",
+            "cat": "research",
             "end": "14:09",
-            "cat": "research",
+            "note": "openai.com",
             "src": "macos",
-            "title": "Perplexity and Intelligence | OpenAI",
-            "note": "openai.com"
+            "start": "14:05",
+            "title": "Perplexity and Intelligence | OpenAI"
           },
           {
-            "start": "14:09",
+            "cat": "coding",
             "end": "14:15",
-            "cat": "coding",
+            "note": "33 hits",
             "src": "claude",
-            "title": "Claude session · bench",
-            "note": "33 hits"
+            "start": "14:09",
+            "title": "Claude session · bench"
           },
           {
-            "start": "14:15",
+            "cat": "coding",
             "end": "14:17",
-            "cat": "coding",
+            "note": "33 hits",
             "src": "claude",
-            "title": "Claude session · bench",
-            "note": "33 hits"
+            "start": "14:15",
+            "title": "Claude session · bench"
           },
           {
-            "start": "14:17",
+            "cat": "research",
             "end": "14:30",
-            "cat": "research",
+            "note": "openai.com",
             "src": "macos",
-            "title": "Perplexity and Intelligence | OpenAI",
-            "note": "openai.com"
+            "start": "14:17",
+            "title": "Perplexity and Intelligence | OpenAI"
           },
           {
-            "start": "14:30",
+            "cat": "coding",
             "end": "14:38",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "14:30",
+            "title": "VSCode"
           },
           {
-            "start": "14:40",
+            "cat": "research",
             "end": "14:48",
-            "cat": "research",
+            "note": "openai.com",
             "src": "macos",
-            "title": "Combatting adversarial distillation | OpenAI",
-            "note": "openai.com"
+            "start": "14:40",
+            "title": "Combatting adversarial distillation | OpenAI"
           },
           {
-            "start": "14:48",
+            "cat": "coding",
             "end": "15:43",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "14:48",
+            "title": "VSCode"
           },
           {
-            "start": "15:43",
+            "cat": "research",
             "end": "15:45",
-            "cat": "research",
+            "note": "arxiv.org",
             "src": "macos",
-            "title": "Qwen3.5-Omni Technical Report",
-            "note": "arxiv.org"
+            "start": "15:43",
+            "title": "Qwen3.5-Omni Technical Report"
           },
           {
-            "start": "15:45",
+            "cat": "research",
             "end": "15:47",
-            "cat": "research",
+            "note": "huggingface.co",
             "src": "macos",
-            "title": "Qwen/Qwen3.5-397B-A17B · Hugging Face",
-            "note": "huggingface.co"
+            "start": "15:45",
+            "title": "Qwen/Qwen3.5-397B-A17B · Hugging Face"
           },
           {
-            "start": "15:47",
+            "cat": "coding",
             "end": "16:10",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "15:47",
+            "title": "VSCode"
           },
           {
-            "start": "16:10",
+            "cat": "coding",
             "end": "16:15",
-            "cat": "coding",
+            "note": "149 hits",
             "src": "claude",
-            "title": "Claude session · bench",
-            "note": "149 hits"
+            "start": "16:10",
+            "title": "Claude session · bench"
           },
           {
-            "start": "16:15",
+            "cat": "coding",
             "end": "16:20",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "16:15",
+            "title": "VSCode"
           },
           {
-            "start": "16:20",
+            "cat": "coding",
             "end": "16:39",
-            "cat": "coding",
+            "note": "44 hits",
             "src": "claude",
-            "title": "Claude session · bench",
-            "note": "44 hits"
+            "start": "16:20",
+            "title": "Claude session · bench"
           },
           {
-            "start": "16:39",
+            "cat": "coding",
             "end": "16:53",
-            "cat": "coding",
+            "note": "85 hits",
             "src": "claude",
-            "title": "Claude session · bench",
-            "note": "85 hits"
+            "start": "16:39",
+            "title": "Claude session · bench"
           },
           {
-            "start": "16:53",
-            "end": "18:01",
             "cat": "coding",
+            "end": "18:01",
+            "note": "54 hits",
             "src": "claude",
-            "title": "Claude session · bench",
-            "note": "54 hits"
+            "start": "16:53",
+            "title": "Claude session · bench"
           }
         ],
+        "key": "2026-11-23",
         "logged": 417,
-        "real": 394,
-        "deep": 394,
         "ratio": 0.9461322911038735,
+        "real": 394,
         "stats": {
           "contextSwitches": 30,
-          "tabsOpened": 0,
+          "justOneMoreThing": 4,
           "longestFocus": "5h 23m",
-          "justOneMoreThing": 4
-        }
+          "tabsOpened": 0
+        },
+        "weekend": false
       },
       {
         "key": "2026-11-24",
@@ -106914,7 +106914,7 @@
         "dateShort": "Tue, Nov 24",
         "dateLong": "Tuesday, November 24",
         "dayStart": "09:25",
-        "dayEnd": "10:00",
+        "dayEnd": "01:25",
         "events": [
           {
             "start": "09:25",
@@ -106955,17 +106955,289 @@
             "src": "macos",
             "title": "xos",
             "note": "us.zoom.xos"
+          },
+          {
+            "start": "10:00",
+            "end": "10:05",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Women's Activewear & Yoga Gear | lululemon AU",
+            "note": "lululemon.com.au"
+          },
+          {
+            "start": "10:09",
+            "end": "10:26",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "xos",
+            "note": "us.zoom.xos"
+          },
+          {
+            "start": "10:28",
+            "end": "10:36",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "xos",
+            "note": "us.zoom.xos"
+          },
+          {
+            "start": "10:37",
+            "end": "11:13",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:13",
+            "end": "11:14",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Accolade 1/4 Zip Pullover - Navy | ALO",
+            "note": "aloyoga.com"
+          },
+          {
+            "start": "11:14",
+            "end": "11:33",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:34",
+            "end": "11:43",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "xos",
+            "note": "us.zoom.xos"
+          },
+          {
+            "start": "11:43",
+            "end": "11:59",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:59",
+            "end": "12:05",
+            "cat": "meeting",
+            "src": "macos",
+            "title": "xos",
+            "note": "us.zoom.xos"
+          },
+          {
+            "start": "15:23",
+            "end": "15:24",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "15:25",
+            "end": "15:26",
+            "cat": "admin",
+            "src": "macos",
+            "title": "slackmacgap",
+            "note": "com.tinyspeck.slackmacgap"
+          },
+          {
+            "start": "15:26",
+            "end": "15:31",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:34",
+            "end": "15:42",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "15:44",
+            "end": "15:46",
+            "cat": "admin",
+            "src": "macos",
+            "title": "il - Google Search",
+            "note": "google.com"
+          },
+          {
+            "start": "15:48",
+            "end": "15:49",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Information Communication Technology (ICT) | OneHelp",
+            "note": "mq.service-now.com"
+          },
+          {
+            "start": "15:51",
+            "end": "15:52",
+            "cat": "admin",
+            "src": "macos",
+            "title": "User Profile - Employee",
+            "note": "mq.service-now.com"
+          },
+          {
+            "start": "15:53",
+            "end": "15:56",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Create Incident - Employee",
+            "note": "mq.service-now.com"
+          },
+          {
+            "start": "15:56",
+            "end": "16:00",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "16:00",
+            "end": "16:03",
+            "cat": "research",
+            "src": "macos",
+            "title": "Macquarie NLP group - Home",
+            "note": "macquarienlp.github.io"
+          },
+          {
+            "start": "16:03",
+            "end": "16:05",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "16:06",
+            "end": "16:12",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:16",
+            "end": "16:23",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "16:24",
+            "end": "16:43",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · bench",
+            "note": "21 hits"
+          },
+          {
+            "start": "16:43",
+            "end": "17:32",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · bench",
+            "note": "133 hits"
+          },
+          {
+            "start": "17:32",
+            "end": "17:34",
+            "cat": "research",
+            "src": "macos",
+            "title": "‪Ada Ren‬ - ‪Google Scholar‬",
+            "note": "scholar.google.com"
+          },
+          {
+            "start": "17:34",
+            "end": "17:35",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "17:35",
+            "end": "17:36",
+            "cat": "admin",
+            "src": "macos",
+            "title": "My Request - INC0214177 - Employee",
+            "note": "mq.service-now.com"
+          },
+          {
+            "start": "17:48",
+            "end": "18:03",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "18:04",
+            "end": "18:30",
+            "cat": "research",
+            "src": "macos",
+            "title": "zotero",
+            "note": "org.zotero.zotero"
+          },
+          {
+            "start": "18:31",
+            "end": "18:35",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Agents - Google Slides",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "18:57",
+            "end": "19:04",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Agents - Google Slides",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "19:05",
+            "end": "19:20",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · bench",
+            "note": "73 hits"
+          },
+          {
+            "start": "19:28",
+            "end": "19:31",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · bench",
+            "note": "8 hits"
+          },
+          {
+            "start": "01:22",
+            "end": "01:25",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · bench",
+            "note": "1 hit"
           }
         ],
-        "logged": 29,
-        "real": 26,
-        "deep": 26,
-        "ratio": 0.9232770476670044,
+        "logged": 339,
+        "real": 311,
+        "deep": 311,
+        "ratio": 0.918723003635049,
         "stats": {
-          "contextSwitches": 2,
+          "contextSwitches": 21,
           "tabsOpened": 0,
-          "longestFocus": "25m",
-          "justOneMoreThing": 1
+          "longestFocus": "1h 24m",
+          "justOneMoreThing": 4
         }
       },
       {
@@ -106975,17 +107247,58 @@
         "weekend": false,
         "dateShort": "Wed, Nov 25",
         "dateLong": "Wednesday, November 25",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "09:08",
+        "dayEnd": "10:24",
+        "events": [
+          {
+            "start": "09:08",
+            "end": "09:11",
+            "cat": "coding",
+            "src": "claude",
+            "title": "Claude session · bench",
+            "note": "3 hits"
+          },
+          {
+            "start": "09:11",
+            "end": "09:31",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Yang Zhang - new articles - ada.ren.cn@gmail.com - Gmail",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "09:45",
+            "end": "10:03",
+            "cat": "personal",
+            "src": "chrome",
+            "title": "Luxury Hair Care | Shampoo & Conditioner | Aesop Australia",
+            "note": "aesop.com.au"
+          },
+          {
+            "start": "10:03",
+            "end": "10:04",
+            "cat": "writing",
+            "src": "local",
+            "title": "2026-11-25-gpt-6-models-demonstrate-intrinsic-protein-design",
+            "note": "4 hits"
+          },
+          {
+            "start": "10:04",
+            "end": "10:24",
+            "cat": "admin",
+            "src": "chrome",
+            "title": "Sites-aeo-au-ng-Site",
+            "note": "google.com"
+          }
+        ],
+        "logged": 62,
+        "real": 4,
+        "deep": 4,
+        "ratio": 0.061957139319502634,
         "stats": {
-          "contextSwitches": 0,
-          "tabsOpened": 0,
-          "longestFocus": "0m",
+          "contextSwitches": 4,
+          "tabsOpened": 9,
+          "longestFocus": "3m",
           "justOneMoreThing": 0
         }
       },
@@ -113741,458 +114054,458 @@
       "weekend": true
     },
     {
-      "key": "2026-11-23",
-      "dayNum": 23,
-      "dow": 1,
-      "weekend": false,
-      "dateShort": "Mon, Nov 23",
       "dateLong": "Monday, November 23",
-      "dayStart": "08:05",
+      "dateShort": "Mon, Nov 23",
       "dayEnd": "18:01",
+      "dayNum": 23,
+      "dayStart": "08:05",
+      "deep": 394,
+      "dow": 1,
       "events": [
         {
-          "start": "08:05",
+          "cat": "coding",
           "end": "08:06",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "08:05",
+          "title": "VSCode"
         },
         {
-          "start": "09:52",
+          "cat": "admin",
           "end": "09:55",
-          "cat": "admin",
+          "note": "com.tinyspeck.slackmacgap",
           "src": "macos",
-          "title": "slackmacgap",
-          "note": "com.tinyspeck.slackmacgap"
+          "start": "09:52",
+          "title": "slackmacgap"
         },
         {
-          "start": "09:55",
+          "cat": "coding",
           "end": "09:57",
-          "cat": "coding",
+          "note": "46 hits",
           "src": "claude",
-          "title": "Amortization patches nightly workflow",
-          "note": "46 hits"
+          "start": "09:55",
+          "title": "Amortization patches nightly workflow"
         },
         {
-          "start": "09:57",
+          "cat": "coding",
           "end": "09:58",
-          "cat": "coding",
+          "note": "46 hits",
           "src": "claude",
-          "title": "Amortization patches nightly workflow",
-          "note": "46 hits"
+          "start": "09:57",
+          "title": "Amortization patches nightly workflow"
         },
         {
-          "start": "09:59",
+          "cat": "coding",
           "end": "09:59",
-          "cat": "coding",
+          "note": "apps.powerapps.com",
           "src": "macos",
-          "title": "FSE Teaching Associate EOI - Power Apps",
-          "note": "apps.powerapps.com"
+          "start": "09:59",
+          "title": "FSE Teaching Associate EOI - Power Apps"
         },
         {
-          "start": "10:00",
+          "cat": "admin",
           "end": "10:07",
-          "cat": "admin",
+          "note": "unitguides.mq.edu.au",
           "src": "macos",
-          "title": "Unit Guide",
-          "note": "unitguides.mq.edu.au"
+          "start": "10:00",
+          "title": "Unit Guide"
         },
         {
-          "start": "10:08",
+          "cat": "coding",
           "end": "10:12",
-          "cat": "coding",
+          "note": "33 hits",
           "src": "claude",
-          "title": "Amortization patches nightly workflow",
-          "note": "33 hits"
+          "start": "10:08",
+          "title": "Amortization patches nightly workflow"
         },
         {
-          "start": "10:12",
+          "cat": "coding",
           "end": "10:14",
-          "cat": "coding",
+          "note": "33 hits",
           "src": "claude",
-          "title": "Amortization patches nightly workflow",
-          "note": "33 hits"
+          "start": "10:12",
+          "title": "Amortization patches nightly workflow"
         },
         {
-          "start": "10:14",
+          "cat": "admin",
           "end": "10:16",
-          "cat": "admin",
+          "note": "unitguides.mq.edu.au",
           "src": "macos",
-          "title": "Unit Guide",
-          "note": "unitguides.mq.edu.au"
+          "start": "10:14",
+          "title": "Unit Guide"
         },
         {
-          "start": "10:16",
+          "cat": "admin",
           "end": "10:17",
-          "cat": "admin",
+          "note": "sport.mq.edu.au",
           "src": "macos",
-          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
-          "note": "sport.mq.edu.au"
+          "start": "10:16",
+          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni"
         },
         {
-          "start": "10:17",
+          "cat": "coding",
           "end": "10:18",
-          "cat": "coding",
+          "note": "com.googlecode.iterm2",
           "src": "macos",
-          "title": "iterm2",
-          "note": "com.googlecode.iterm2"
+          "start": "10:17",
+          "title": "iterm2"
         },
         {
-          "start": "10:18",
+          "cat": "coding",
           "end": "10:20",
-          "cat": "coding",
+          "note": "com.googlecode.iterm2",
           "src": "macos",
-          "title": "iterm2",
-          "note": "com.googlecode.iterm2"
+          "start": "10:18",
+          "title": "iterm2"
         },
         {
-          "start": "10:21",
+          "cat": "coding",
           "end": "10:37",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "10:21",
+          "title": "VSCode"
         },
         {
-          "start": "10:37",
+          "cat": "coding",
           "end": "10:50",
-          "cat": "coding",
+          "note": "295 hits",
           "src": "claude",
-          "title": "Claude session · harbor",
-          "note": "295 hits"
+          "start": "10:37",
+          "title": "Claude session · harbor"
         },
         {
-          "start": "10:55",
+          "cat": "coding",
           "end": "10:59",
-          "cat": "coding",
+          "note": "20 hits",
           "src": "claude",
-          "title": "Claude session · bench",
-          "note": "20 hits"
+          "start": "10:55",
+          "title": "Claude session · bench"
         },
         {
-          "start": "10:59",
-          "end": "11:02",
           "cat": "admin",
+          "end": "11:02",
+          "note": "mail.google.com",
           "src": "macos",
-          "title": "Search results - ada.ren.cn@gmail.com - Gmail",
-          "note": "mail.google.com"
+          "start": "10:59",
+          "title": "Search results - ada.ren.cn@gmail.com - Gmail"
         },
         {
-          "start": "11:03",
+          "cat": "research",
           "end": "11:05",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "Deep Personalization: Continuous Context Observation for Loc",
-          "note": "arxiv.org"
+          "start": "11:03",
+          "title": "Deep Personalization: Continuous Context Observation for Loc"
         },
         {
-          "start": "11:06",
+          "cat": "research",
           "end": "11:10",
-          "cat": "research",
+          "note": "scholar.google.com",
           "src": "macos",
-          "title": "View article",
-          "note": "scholar.google.com"
+          "start": "11:06",
+          "title": "View article"
         },
         {
-          "start": "11:10",
+          "cat": "coding",
           "end": "11:13",
-          "cat": "coding",
+          "note": "2 hits",
           "src": "claude",
-          "title": "Claude session · bench",
-          "note": "2 hits"
+          "start": "11:10",
+          "title": "Claude session · bench"
         },
         {
+          "cat": "coding",
+          "end": "11:34",
+          "note": "65 hits",
+          "src": "claude",
           "start": "11:25",
-          "end": "11:34",
-          "cat": "coding",
-          "src": "claude",
-          "title": "Claude session · bench",
-          "note": "65 hits"
+          "title": "Claude session · bench"
         },
         {
+          "cat": "personal",
+          "end": "11:34",
+          "note": "youtube.com",
+          "src": "macos",
           "start": "11:34",
-          "end": "11:34",
-          "cat": "personal",
-          "src": "macos",
-          "title": "(1) 📝 2 HOURS OF POMODORO (30/5) | 🌧️ Relaxing Piano & Rain ",
-          "note": "youtube.com"
+          "title": "(1) 📝 2 HOURS OF POMODORO (30/5) | 🌧️ Relaxing Piano & Rain "
         },
         {
-          "start": "11:35",
+          "cat": "personal",
           "end": "11:39",
-          "cat": "personal",
+          "note": "youtube.com",
           "src": "macos",
-          "title": "All Code Is Slop (Except Mine) — Lauren Tan, SpaceXSI - YouT",
-          "note": "youtube.com"
+          "start": "11:35",
+          "title": "All Code Is Slop (Except Mine) — Lauren Tan, SpaceXSI - YouT"
         },
         {
-          "start": "11:39",
+          "cat": "coding",
           "end": "11:46",
-          "cat": "coding",
+          "note": "57 hits",
           "src": "claude",
-          "title": "Claude session · bench",
-          "note": "57 hits"
+          "start": "11:39",
+          "title": "Claude session · bench"
         },
         {
-          "start": "11:46",
-          "end": "11:48",
           "cat": "personal",
+          "end": "11:48",
+          "note": "youtube.com",
           "src": "macos",
-          "title": "All Code Is Slop (Except Mine) — Lauren Tan, SpaceXSI - YouT",
-          "note": "youtube.com"
+          "start": "11:46",
+          "title": "All Code Is Slop (Except Mine) — Lauren Tan, SpaceXSI - YouT"
         },
         {
-          "start": "11:49",
+          "cat": "research",
           "end": "11:56",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "macos",
-          "title": "Perplexity and Intelligence | Ada's Notes",
-          "note": "adaren100.github.io"
+          "start": "11:49",
+          "title": "Perplexity and Intelligence | Ada's Notes"
         },
         {
-          "start": "11:56",
+          "cat": "coding",
           "end": "12:07",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "11:56",
+          "title": "VSCode"
         },
         {
-          "start": "12:07",
+          "cat": "research",
           "end": "12:14",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "macos",
-          "title": "Perplexity and Intelligence | Ada's Notes",
-          "note": "adaren100.github.io"
+          "start": "12:07",
+          "title": "Perplexity and Intelligence | Ada's Notes"
         },
         {
-          "start": "12:14",
+          "cat": "coding",
           "end": "12:19",
-          "cat": "coding",
+          "note": "26 hits",
           "src": "claude",
-          "title": "Claude session · bench",
-          "note": "26 hits"
+          "start": "12:14",
+          "title": "Claude session · bench"
         },
         {
-          "start": "12:26",
+          "cat": "coding",
           "end": "12:43",
-          "cat": "coding",
+          "note": "106 hits",
           "src": "claude",
-          "title": "Claude session · bench",
-          "note": "106 hits"
+          "start": "12:26",
+          "title": "Claude session · bench"
         },
         {
-          "start": "13:20",
+          "cat": "coding",
           "end": "13:29",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "13:20",
+          "title": "VSCode"
         },
         {
-          "start": "13:29",
+          "cat": "coding",
           "end": "13:30",
-          "cat": "coding",
+          "note": "28 hits",
           "src": "claude",
-          "title": "Claude session · bench",
-          "note": "28 hits"
+          "start": "13:29",
+          "title": "Claude session · bench"
         },
         {
-          "start": "13:31",
+          "cat": "research",
           "end": "13:33",
-          "cat": "research",
+          "note": "gemini.google.com",
           "src": "macos",
-          "title": "Google Gemini",
-          "note": "gemini.google.com"
+          "start": "13:31",
+          "title": "Google Gemini"
         },
         {
-          "start": "13:34",
+          "cat": "research",
           "end": "13:35",
-          "cat": "research",
+          "note": "gemini.google.com",
           "src": "macos",
-          "title": "Personal Intelligence",
-          "note": "gemini.google.com"
+          "start": "13:34",
+          "title": "Personal Intelligence"
         },
         {
-          "start": "13:35",
+          "cat": "coding",
           "end": "13:37",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "13:35",
+          "title": "VSCode"
         },
         {
-          "start": "13:37",
+          "cat": "coding",
           "end": "13:40",
-          "cat": "coding",
+          "note": "8 hits",
           "src": "claude",
-          "title": "Claude session · bench",
-          "note": "8 hits"
+          "start": "13:37",
+          "title": "Claude session · bench"
         },
         {
-          "start": "13:40",
+          "cat": "research",
           "end": "13:46",
-          "cat": "research",
+          "note": "gemini.google.com",
           "src": "macos",
-          "title": "Personal Intelligence",
-          "note": "gemini.google.com"
+          "start": "13:40",
+          "title": "Personal Intelligence"
         },
         {
-          "start": "13:46",
+          "cat": "coding",
           "end": "13:52",
-          "cat": "coding",
+          "note": "12 hits",
           "src": "claude",
-          "title": "Claude session · bench",
-          "note": "12 hits"
+          "start": "13:46",
+          "title": "Claude session · bench"
         },
         {
-          "start": "13:52",
+          "cat": "research",
           "end": "13:55",
-          "cat": "research",
+          "note": "gemini.google.com",
           "src": "macos",
-          "title": "Personal Intelligence",
-          "note": "gemini.google.com"
+          "start": "13:52",
+          "title": "Personal Intelligence"
         },
         {
-          "start": "13:55",
+          "cat": "coding",
           "end": "14:04",
-          "cat": "coding",
+          "note": "31 hits",
           "src": "claude",
-          "title": "Claude session · bench",
-          "note": "31 hits"
+          "start": "13:55",
+          "title": "Claude session · bench"
         },
         {
-          "start": "14:05",
+          "cat": "research",
           "end": "14:09",
-          "cat": "research",
+          "note": "openai.com",
           "src": "macos",
-          "title": "Perplexity and Intelligence | OpenAI",
-          "note": "openai.com"
+          "start": "14:05",
+          "title": "Perplexity and Intelligence | OpenAI"
         },
         {
-          "start": "14:09",
+          "cat": "coding",
           "end": "14:15",
-          "cat": "coding",
+          "note": "33 hits",
           "src": "claude",
-          "title": "Claude session · bench",
-          "note": "33 hits"
+          "start": "14:09",
+          "title": "Claude session · bench"
         },
         {
-          "start": "14:15",
+          "cat": "coding",
           "end": "14:17",
-          "cat": "coding",
+          "note": "33 hits",
           "src": "claude",
-          "title": "Claude session · bench",
-          "note": "33 hits"
+          "start": "14:15",
+          "title": "Claude session · bench"
         },
         {
-          "start": "14:17",
+          "cat": "research",
           "end": "14:30",
-          "cat": "research",
+          "note": "openai.com",
           "src": "macos",
-          "title": "Perplexity and Intelligence | OpenAI",
-          "note": "openai.com"
+          "start": "14:17",
+          "title": "Perplexity and Intelligence | OpenAI"
         },
         {
-          "start": "14:30",
+          "cat": "coding",
           "end": "14:38",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "14:30",
+          "title": "VSCode"
         },
         {
-          "start": "14:40",
+          "cat": "research",
           "end": "14:48",
-          "cat": "research",
+          "note": "openai.com",
           "src": "macos",
-          "title": "Combatting adversarial distillation | OpenAI",
-          "note": "openai.com"
+          "start": "14:40",
+          "title": "Combatting adversarial distillation | OpenAI"
         },
         {
-          "start": "14:48",
+          "cat": "coding",
           "end": "15:43",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "14:48",
+          "title": "VSCode"
         },
         {
-          "start": "15:43",
+          "cat": "research",
           "end": "15:45",
-          "cat": "research",
+          "note": "arxiv.org",
           "src": "macos",
-          "title": "Qwen3.5-Omni Technical Report",
-          "note": "arxiv.org"
+          "start": "15:43",
+          "title": "Qwen3.5-Omni Technical Report"
         },
         {
-          "start": "15:45",
+          "cat": "research",
           "end": "15:47",
-          "cat": "research",
+          "note": "huggingface.co",
           "src": "macos",
-          "title": "Qwen/Qwen3.5-397B-A17B · Hugging Face",
-          "note": "huggingface.co"
+          "start": "15:45",
+          "title": "Qwen/Qwen3.5-397B-A17B · Hugging Face"
         },
         {
-          "start": "15:47",
+          "cat": "coding",
           "end": "16:10",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "15:47",
+          "title": "VSCode"
         },
         {
-          "start": "16:10",
+          "cat": "coding",
           "end": "16:15",
-          "cat": "coding",
+          "note": "149 hits",
           "src": "claude",
-          "title": "Claude session · bench",
-          "note": "149 hits"
+          "start": "16:10",
+          "title": "Claude session · bench"
         },
         {
-          "start": "16:15",
+          "cat": "coding",
           "end": "16:20",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "16:15",
+          "title": "VSCode"
         },
         {
-          "start": "16:20",
+          "cat": "coding",
           "end": "16:39",
-          "cat": "coding",
+          "note": "44 hits",
           "src": "claude",
-          "title": "Claude session · bench",
-          "note": "44 hits"
+          "start": "16:20",
+          "title": "Claude session · bench"
         },
         {
-          "start": "16:39",
+          "cat": "coding",
           "end": "16:53",
-          "cat": "coding",
+          "note": "85 hits",
           "src": "claude",
-          "title": "Claude session · bench",
-          "note": "85 hits"
+          "start": "16:39",
+          "title": "Claude session · bench"
         },
         {
-          "start": "16:53",
-          "end": "18:01",
           "cat": "coding",
+          "end": "18:01",
+          "note": "54 hits",
           "src": "claude",
-          "title": "Claude session · bench",
-          "note": "54 hits"
+          "start": "16:53",
+          "title": "Claude session · bench"
         }
       ],
+      "key": "2026-11-23",
       "logged": 417,
-      "real": 394,
-      "deep": 394,
       "ratio": 0.9461322911038735,
+      "real": 394,
       "stats": {
         "contextSwitches": 30,
-        "tabsOpened": 0,
+        "justOneMoreThing": 4,
         "longestFocus": "5h 23m",
-        "justOneMoreThing": 4
-      }
+        "tabsOpened": 0
+      },
+      "weekend": false
     },
     {
       "key": "2026-11-24",
@@ -114202,7 +114515,7 @@
       "dateShort": "Tue, Nov 24",
       "dateLong": "Tuesday, November 24",
       "dayStart": "09:25",
-      "dayEnd": "10:00",
+      "dayEnd": "01:25",
       "events": [
         {
           "start": "09:25",
@@ -114243,17 +114556,289 @@
           "src": "macos",
           "title": "xos",
           "note": "us.zoom.xos"
+        },
+        {
+          "start": "10:00",
+          "end": "10:05",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Women's Activewear & Yoga Gear | lululemon AU",
+          "note": "lululemon.com.au"
+        },
+        {
+          "start": "10:09",
+          "end": "10:26",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "xos",
+          "note": "us.zoom.xos"
+        },
+        {
+          "start": "10:28",
+          "end": "10:36",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "xos",
+          "note": "us.zoom.xos"
+        },
+        {
+          "start": "10:37",
+          "end": "11:13",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:13",
+          "end": "11:14",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Accolade 1/4 Zip Pullover - Navy | ALO",
+          "note": "aloyoga.com"
+        },
+        {
+          "start": "11:14",
+          "end": "11:33",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:34",
+          "end": "11:43",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "xos",
+          "note": "us.zoom.xos"
+        },
+        {
+          "start": "11:43",
+          "end": "11:59",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:59",
+          "end": "12:05",
+          "cat": "meeting",
+          "src": "macos",
+          "title": "xos",
+          "note": "us.zoom.xos"
+        },
+        {
+          "start": "15:23",
+          "end": "15:24",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "15:25",
+          "end": "15:26",
+          "cat": "admin",
+          "src": "macos",
+          "title": "slackmacgap",
+          "note": "com.tinyspeck.slackmacgap"
+        },
+        {
+          "start": "15:26",
+          "end": "15:31",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:34",
+          "end": "15:42",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "15:44",
+          "end": "15:46",
+          "cat": "admin",
+          "src": "macos",
+          "title": "il - Google Search",
+          "note": "google.com"
+        },
+        {
+          "start": "15:48",
+          "end": "15:49",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Information Communication Technology (ICT) | OneHelp",
+          "note": "mq.service-now.com"
+        },
+        {
+          "start": "15:51",
+          "end": "15:52",
+          "cat": "admin",
+          "src": "macos",
+          "title": "User Profile - Employee",
+          "note": "mq.service-now.com"
+        },
+        {
+          "start": "15:53",
+          "end": "15:56",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Create Incident - Employee",
+          "note": "mq.service-now.com"
+        },
+        {
+          "start": "15:56",
+          "end": "16:00",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "16:00",
+          "end": "16:03",
+          "cat": "research",
+          "src": "macos",
+          "title": "Macquarie NLP group - Home",
+          "note": "macquarienlp.github.io"
+        },
+        {
+          "start": "16:03",
+          "end": "16:05",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "16:06",
+          "end": "16:12",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:16",
+          "end": "16:23",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "16:24",
+          "end": "16:43",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · bench",
+          "note": "21 hits"
+        },
+        {
+          "start": "16:43",
+          "end": "17:32",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · bench",
+          "note": "133 hits"
+        },
+        {
+          "start": "17:32",
+          "end": "17:34",
+          "cat": "research",
+          "src": "macos",
+          "title": "‪Ada Ren‬ - ‪Google Scholar‬",
+          "note": "scholar.google.com"
+        },
+        {
+          "start": "17:34",
+          "end": "17:35",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "17:35",
+          "end": "17:36",
+          "cat": "admin",
+          "src": "macos",
+          "title": "My Request - INC0214177 - Employee",
+          "note": "mq.service-now.com"
+        },
+        {
+          "start": "17:48",
+          "end": "18:03",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "18:04",
+          "end": "18:30",
+          "cat": "research",
+          "src": "macos",
+          "title": "zotero",
+          "note": "org.zotero.zotero"
+        },
+        {
+          "start": "18:31",
+          "end": "18:35",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Agents - Google Slides",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "18:57",
+          "end": "19:04",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Agents - Google Slides",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "19:05",
+          "end": "19:20",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · bench",
+          "note": "73 hits"
+        },
+        {
+          "start": "19:28",
+          "end": "19:31",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · bench",
+          "note": "8 hits"
+        },
+        {
+          "start": "01:22",
+          "end": "01:25",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · bench",
+          "note": "1 hit"
         }
       ],
-      "logged": 29,
-      "real": 26,
-      "deep": 26,
-      "ratio": 0.9232770476670044,
+      "logged": 339,
+      "real": 311,
+      "deep": 311,
+      "ratio": 0.918723003635049,
       "stats": {
-        "contextSwitches": 2,
+        "contextSwitches": 21,
         "tabsOpened": 0,
-        "longestFocus": "25m",
-        "justOneMoreThing": 1
+        "longestFocus": "1h 24m",
+        "justOneMoreThing": 4
       }
     },
     {
@@ -114263,17 +114848,58 @@
       "weekend": false,
       "dateShort": "Wed, Nov 25",
       "dateLong": "Wednesday, November 25",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "09:08",
+      "dayEnd": "10:24",
+      "events": [
+        {
+          "start": "09:08",
+          "end": "09:11",
+          "cat": "coding",
+          "src": "claude",
+          "title": "Claude session · bench",
+          "note": "3 hits"
+        },
+        {
+          "start": "09:11",
+          "end": "09:31",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Yang Zhang - new articles - ada.ren.cn@gmail.com - Gmail",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "09:45",
+          "end": "10:03",
+          "cat": "personal",
+          "src": "chrome",
+          "title": "Luxury Hair Care | Shampoo & Conditioner | Aesop Australia",
+          "note": "aesop.com.au"
+        },
+        {
+          "start": "10:03",
+          "end": "10:04",
+          "cat": "writing",
+          "src": "local",
+          "title": "2026-11-25-gpt-6-models-demonstrate-intrinsic-protein-design",
+          "note": "4 hits"
+        },
+        {
+          "start": "10:04",
+          "end": "10:24",
+          "cat": "admin",
+          "src": "chrome",
+          "title": "Sites-aeo-au-ng-Site",
+          "note": "google.com"
+        }
+      ],
+      "logged": 62,
+      "real": 4,
+      "deep": 4,
+      "ratio": 0.061957139319502634,
       "stats": {
-        "contextSwitches": 0,
-        "tabsOpened": 0,
-        "longestFocus": "0m",
+        "contextSwitches": 4,
+        "tabsOpened": 9,
+        "longestFocus": "3m",
         "justOneMoreThing": 0
       }
     },
