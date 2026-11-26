@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-11-26T10:29:49+11:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-11-27T10:52:34+11:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -107241,538 +107241,538 @@
         "weekend": false
       },
       {
-        "key": "2026-11-25",
-        "dayNum": 25,
-        "dow": 3,
-        "weekend": false,
-        "dateShort": "Wed, Nov 25",
         "dateLong": "Wednesday, November 25",
-        "dayStart": "09:08",
+        "dateShort": "Wed, Nov 25",
         "dayEnd": "17:14",
+        "dayNum": 25,
+        "dayStart": "09:08",
+        "deep": 282,
+        "dow": 3,
         "events": [
           {
-            "start": "09:08",
+            "cat": "coding",
             "end": "09:11",
-            "cat": "coding",
+            "note": "3 hits",
             "src": "claude",
-            "title": "Claude session · bench",
-            "note": "3 hits"
+            "start": "09:08",
+            "title": "Claude session · bench"
           },
           {
-            "start": "09:11",
+            "cat": "admin",
             "end": "09:15",
-            "cat": "admin",
+            "note": "mail.google.com",
             "src": "macos",
-            "title": "Yang Zhang - new articles - ada.ren.cn@gmail.com - Gmail",
-            "note": "mail.google.com"
+            "start": "09:11",
+            "title": "Yang Zhang - new articles - ada.ren.cn@gmail.com - Gmail"
           },
           {
-            "start": "09:58",
+            "cat": "personal",
             "end": "09:59",
-            "cat": "personal",
+            "note": "aesop.com.au",
             "src": "macos",
-            "title": "Skin Care | Luxury Skincare Products | Aesop Australia",
-            "note": "aesop.com.au"
+            "start": "09:58",
+            "title": "Skin Care | Luxury Skincare Products | Aesop Australia"
           },
           {
-            "start": "09:59",
+            "cat": "coding",
             "end": "10:00",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "09:59",
+            "title": "VSCode"
           },
           {
-            "start": "10:02",
+            "cat": "personal",
             "end": "10:03",
-            "cat": "personal",
+            "note": "aesop.com.au",
             "src": "macos",
-            "title": "Discover Travel | Aesop Australia",
-            "note": "aesop.com.au"
+            "start": "10:02",
+            "title": "Discover Travel | Aesop Australia"
           },
           {
-            "start": "10:04",
+            "cat": "personal",
             "end": "10:05",
-            "cat": "personal",
+            "note": "aesop.com.au",
             "src": "macos",
-            "title": "Account | Aesop Australia",
-            "note": "aesop.com.au"
+            "start": "10:04",
+            "title": "Account | Aesop Australia"
           },
           {
-            "start": "10:06",
+            "cat": "coding",
             "end": "10:08",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "10:06",
+            "title": "VSCode"
           },
           {
-            "start": "10:08",
+            "cat": "research",
             "end": "10:12",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "10:08",
+            "title": "zotero"
           },
           {
-            "start": "10:12",
+            "cat": "research",
             "end": "10:14",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "10:12",
+            "title": "zotero"
           },
           {
-            "start": "10:14",
+            "cat": "admin",
             "end": "10:18",
-            "cat": "admin",
+            "note": "com.microsoft.Outlook",
             "src": "macos",
-            "title": "Outlook",
-            "note": "com.microsoft.Outlook"
+            "start": "10:14",
+            "title": "Outlook"
           },
           {
-            "start": "10:18",
+            "cat": "research",
             "end": "10:22",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "10:18",
+            "title": "zotero"
           },
           {
-            "start": "10:23",
+            "cat": "research",
             "end": "10:25",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "10:23",
+            "title": "zotero"
           },
           {
-            "start": "10:25",
+            "cat": "research",
             "end": "10:26",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "10:25",
+            "title": "zotero"
           },
           {
-            "start": "10:27",
+            "cat": "research",
             "end": "10:33",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "10:27",
+            "title": "zotero"
           },
           {
-            "start": "10:33",
+            "cat": "research",
             "end": "10:38",
-            "cat": "research",
+            "note": "chatgpt.com",
             "src": "macos",
-            "title": "ChatGPT",
-            "note": "chatgpt.com"
+            "start": "10:33",
+            "title": "ChatGPT"
           },
           {
-            "start": "10:42",
+            "cat": "coding",
             "end": "10:42",
-            "cat": "coding",
+            "note": "tableau.com",
             "src": "macos",
-            "title": "Business Intelligence and Analytics Software | Tableau",
-            "note": "tableau.com"
-          },
-          {
             "start": "10:42",
+            "title": "Business Intelligence and Analytics Software | Tableau"
+          },
+          {
+            "cat": "research",
             "end": "10:44",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "10:42",
+            "title": "zotero"
           },
           {
-            "start": "10:45",
+            "cat": "personal",
             "end": "10:46",
-            "cat": "personal",
+            "note": "amazon.com.au",
             "src": "macos",
-            "title": "Your Orders",
-            "note": "amazon.com.au"
+            "start": "10:45",
+            "title": "Your Orders"
           },
           {
-            "start": "10:46",
+            "cat": "research",
             "end": "11:04",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "10:46",
+            "title": "zotero"
           },
           {
-            "start": "11:04",
+            "cat": "research",
             "end": "11:09",
-            "cat": "research",
+            "note": "chatgpt.com",
             "src": "macos",
-            "title": "ChatGPT",
-            "note": "chatgpt.com"
+            "start": "11:04",
+            "title": "ChatGPT"
           },
           {
-            "start": "11:09",
+            "cat": "research",
             "end": "11:14",
-            "cat": "research",
+            "note": "socialnlpresearchlab.github.io",
             "src": "macos",
-            "title": "SocialNLP Lab",
-            "note": "socialnlpresearchlab.github.io"
+            "start": "11:09",
+            "title": "SocialNLP Lab"
           },
           {
-            "start": "11:14",
+            "cat": "research",
             "end": "11:34",
-            "cat": "research",
+            "note": "adaren100.github.io",
             "src": "macos",
-            "title": "Searching for distant planets with Astra | Ada's Notes",
-            "note": "adaren100.github.io"
+            "start": "11:14",
+            "title": "Searching for distant planets with Astra | Ada's Notes"
           },
           {
-            "start": "11:35",
+            "cat": "research",
             "end": "11:42",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "11:35",
+            "title": "zotero"
           },
           {
-            "start": "11:42",
+            "cat": "writing",
             "end": "11:43",
-            "cat": "writing",
+            "note": "docs.google.com",
             "src": "macos",
-            "title": "Agents - Google Slides",
-            "note": "docs.google.com"
+            "start": "11:42",
+            "title": "Agents - Google Slides"
           },
           {
-            "start": "11:43",
+            "cat": "admin",
             "end": "11:45",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "macos",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "11:43",
+            "title": "Google Translate"
           },
           {
-            "start": "11:45",
+            "cat": "research",
             "end": "12:03",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "11:45",
+            "title": "zotero"
           },
           {
-            "start": "12:03",
+            "cat": "admin",
             "end": "12:06",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "macos",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "12:03",
+            "title": "Google Translate"
           },
           {
-            "start": "12:50",
+            "cat": "admin",
             "end": "12:53",
-            "cat": "admin",
+            "note": "translate.google.com",
             "src": "macos",
-            "title": "Google Translate",
-            "note": "translate.google.com"
+            "start": "12:50",
+            "title": "Google Translate"
           },
           {
-            "start": "12:53",
+            "cat": "research",
             "end": "12:55",
-            "cat": "research",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "12:53",
+            "title": "zotero"
           },
           {
-            "start": "12:55",
+            "cat": "admin",
             "end": "12:57",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "inking thinking machine - Google Search",
-            "note": "google.com"
+            "start": "12:55",
+            "title": "inking thinking machine - Google Search"
           },
           {
-            "start": "12:59",
+            "cat": "research",
             "end": "13:12",
-            "cat": "research",
+            "note": "thinkingmachines.ai",
             "src": "macos",
-            "title": "Introducing Inkling 2 Mini - Thinking Machines Lab",
-            "note": "thinkingmachines.ai"
+            "start": "12:59",
+            "title": "Introducing Inkling 2 Mini - Thinking Machines Lab"
           },
           {
-            "start": "13:12",
+            "cat": "research",
             "end": "13:21",
-            "cat": "research",
+            "note": "chatgpt.com",
             "src": "macos",
-            "title": "失效分类体系翻译",
-            "note": "chatgpt.com"
+            "start": "13:12",
+            "title": "失效分类体系翻译"
           },
           {
-            "start": "13:27",
+            "cat": "writing",
             "end": "13:28",
-            "cat": "writing",
+            "note": "drive.google.com",
             "src": "macos",
-            "title": "Capstone - Google Drive",
-            "note": "drive.google.com"
+            "start": "13:27",
+            "title": "Capstone - Google Drive"
           },
           {
-            "start": "13:36",
+            "cat": "coding",
             "end": "13:43",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "13:36",
+            "title": "VSCode"
           },
           {
-            "start": "13:43",
+            "cat": "coding",
             "end": "14:06",
-            "cat": "coding",
+            "note": "374 hits",
             "src": "claude",
-            "title": "Claude session · bench",
-            "note": "374 hits"
+            "start": "13:43",
+            "title": "Claude session · bench"
           },
           {
-            "start": "14:07",
+            "cat": "coding",
             "end": "14:26",
-            "cat": "coding",
+            "note": "374 hits",
             "src": "claude",
-            "title": "Claude session · bench",
-            "note": "374 hits"
+            "start": "14:07",
+            "title": "Claude session · bench"
           },
           {
-            "start": "14:28",
+            "cat": "coding",
             "end": "14:49",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "14:28",
+            "title": "VSCode"
           },
           {
-            "start": "14:49",
+            "cat": "research",
             "end": "14:50",
-            "cat": "research",
+            "note": "chatgpt.com",
             "src": "macos",
-            "title": "ChatGPT",
-            "note": "chatgpt.com"
+            "start": "14:49",
+            "title": "ChatGPT"
           },
           {
-            "start": "14:52",
+            "cat": "coding",
             "end": "14:57",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "14:52",
+            "title": "VSCode"
           },
           {
-            "start": "14:58",
+            "cat": "personal",
             "end": "15:01",
-            "cat": "personal",
+            "note": "au.trip.com",
             "src": "macos",
-            "title": "Barcelona Vacation Packages for 2026 - Trip.com",
-            "note": "au.trip.com"
+            "start": "14:58",
+            "title": "Barcelona Vacation Packages for 2026 - Trip.com"
           },
           {
-            "start": "15:03",
+            "cat": "personal",
             "end": "15:04",
-            "cat": "personal",
+            "note": "au.trip.com",
             "src": "macos",
-            "title": "Trip.com",
-            "note": "au.trip.com"
+            "start": "15:03",
+            "title": "Trip.com"
           },
           {
-            "start": "15:04",
+            "cat": "coding",
             "end": "15:05",
-            "cat": "coding",
+            "note": "6 hits",
             "src": "claude",
-            "title": "Claude session · bench",
-            "note": "6 hits"
+            "start": "15:04",
+            "title": "Claude session · bench"
           },
           {
-            "start": "15:05",
+            "cat": "coding",
             "end": "15:07",
-            "cat": "coding",
+            "note": "6 hits",
             "src": "claude",
-            "title": "Claude session · bench",
-            "note": "6 hits"
+            "start": "15:05",
+            "title": "Claude session · bench"
           },
           {
-            "start": "15:07",
+            "cat": "personal",
             "end": "15:08",
-            "cat": "personal",
+            "note": "au.trip.com",
             "src": "macos",
-            "title": "Trip.com",
-            "note": "au.trip.com"
+            "start": "15:07",
+            "title": "Trip.com"
           },
           {
-            "start": "15:19",
-            "end": "15:21",
             "cat": "writing",
+            "end": "15:21",
+            "note": "drive.google.com",
             "src": "macos",
-            "title": "accomodation and transportation - Google Drive",
-            "note": "drive.google.com"
+            "start": "15:19",
+            "title": "accomodation and transportation - Google Drive"
           },
           {
-            "start": "15:22",
+            "cat": "admin",
             "end": "15:29",
-            "cat": "admin",
+            "note": "google.com",
             "src": "macos",
-            "title": "alta 2027 nlp - Google Search",
-            "note": "google.com"
+            "start": "15:22",
+            "title": "alta 2027 nlp - Google Search"
           },
           {
-            "start": "15:29",
+            "cat": "admin",
             "end": "15:30",
-            "cat": "admin",
+            "note": "mail.google.com",
             "src": "macos",
-            "title": "Important Information for Your Flight - ada.ren.cn@gmail.com",
-            "note": "mail.google.com"
+            "start": "15:29",
+            "title": "Important Information for Your Flight - ada.ren.cn@gmail.com"
           },
           {
-            "start": "15:31",
+            "cat": "coding",
             "end": "15:37",
-            "cat": "coding",
+            "note": "54 hits",
             "src": "claude",
-            "title": "Claude session · bench",
-            "note": "54 hits"
+            "start": "15:31",
+            "title": "Claude session · bench"
           },
           {
-            "start": "15:37",
+            "cat": "admin",
             "end": "15:39",
-            "cat": "admin",
+            "note": "mail.google.com",
             "src": "macos",
-            "title": "Inbox (3,481) - ada.ren.cn@gmail.com - Gmail",
-            "note": "mail.google.com"
+            "start": "15:37",
+            "title": "Inbox (3,481) - ada.ren.cn@gmail.com - Gmail"
           },
           {
-            "start": "15:42",
+            "cat": "coding",
             "end": "15:42",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "15:42",
+            "title": "VSCode"
           },
           {
-            "start": "15:43",
+            "cat": "coding",
             "end": "15:57",
-            "cat": "coding",
+            "note": "104 hits",
             "src": "claude",
-            "title": "Claude session · bench",
-            "note": "104 hits"
+            "start": "15:43",
+            "title": "Claude session · bench"
           },
           {
-            "start": "15:57",
+            "cat": "admin",
             "end": "15:58",
-            "cat": "admin",
+            "note": "signup.macquarie.com.au",
             "src": "macos",
-            "title": "Sign up with Macquarie Bank",
-            "note": "signup.macquarie.com.au"
+            "start": "15:57",
+            "title": "Sign up with Macquarie Bank"
           },
           {
-            "start": "16:05",
+            "cat": "admin",
             "end": "16:10",
-            "cat": "admin",
+            "note": "online.macquarie.com.au",
             "src": "macos",
-            "title": "Macquarie",
-            "note": "online.macquarie.com.au"
+            "start": "16:05",
+            "title": "Macquarie"
           },
           {
-            "start": "16:11",
+            "cat": "admin",
             "end": "16:13",
-            "cat": "admin",
+            "note": "online.macquarie.com.au",
             "src": "macos",
-            "title": "Log in to Macquarie Online Banking",
-            "note": "online.macquarie.com.au"
+            "start": "16:11",
+            "title": "Log in to Macquarie Online Banking"
           },
           {
-            "start": "16:15",
+            "cat": "research",
             "end": "16:16",
-            "cat": "research",
+            "note": "chatgpt.com",
             "src": "macos",
-            "title": "ChatGPT",
-            "note": "chatgpt.com"
+            "start": "16:15",
+            "title": "ChatGPT"
           },
           {
-            "start": "16:16",
+            "cat": "coding",
             "end": "16:24",
-            "cat": "coding",
+            "note": "69 hits",
             "src": "claude",
-            "title": "Claude session · bench",
-            "note": "69 hits"
+            "start": "16:16",
+            "title": "Claude session · bench"
           },
           {
-            "start": "16:24",
-            "end": "16:25",
             "cat": "personal",
+            "end": "16:25",
+            "note": "x.com",
             "src": "macos",
-            "title": "主页 / X",
-            "note": "x.com"
+            "start": "16:24",
+            "title": "主页 / X"
           },
           {
-            "start": "16:26",
+            "cat": "research",
             "end": "16:28",
-            "cat": "research",
+            "note": "chatgpt.com",
             "src": "macos",
-            "title": "Download ChatGPT",
-            "note": "chatgpt.com"
+            "start": "16:26",
+            "title": "Download ChatGPT"
           },
           {
-            "start": "16:35",
+            "cat": "coding",
             "end": "16:46",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "16:35",
+            "title": "codex"
           },
           {
-            "start": "16:47",
+            "cat": "coding",
             "end": "17:05",
-            "cat": "coding",
+            "note": "1 hit",
             "src": "vscode",
-            "title": "VS Code · results_summary.ipynb",
-            "note": "1 hit"
+            "start": "16:47",
+            "title": "VS Code · results_summary.ipynb"
           },
           {
-            "start": "17:07",
+            "cat": "coding",
             "end": "17:08",
-            "cat": "coding",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "17:07",
+            "title": "codex"
           },
           {
-            "start": "17:09",
-            "end": "17:11",
             "cat": "research",
+            "end": "17:11",
+            "note": "org.zotero.zotero",
             "src": "macos",
-            "title": "zotero",
-            "note": "org.zotero.zotero"
+            "start": "17:09",
+            "title": "zotero"
           },
           {
-            "start": "17:11",
+            "cat": "coding",
             "end": "17:12",
-            "cat": "coding",
+            "note": "com.microsoft.VSCode",
             "src": "macos",
-            "title": "VSCode",
-            "note": "com.microsoft.VSCode"
+            "start": "17:11",
+            "title": "VSCode"
           },
           {
-            "start": "17:12",
-            "end": "17:14",
             "cat": "coding",
+            "end": "17:14",
+            "note": "com.openai.codex",
             "src": "macos",
-            "title": "codex",
-            "note": "com.openai.codex"
+            "start": "17:12",
+            "title": "codex"
           }
         ],
+        "key": "2026-11-25",
         "logged": 329,
-        "real": 282,
-        "deep": 282,
         "ratio": 0.8577422940509541,
+        "real": 282,
         "stats": {
           "contextSwitches": 39,
-          "tabsOpened": 0,
+          "justOneMoreThing": 7,
           "longestFocus": "1h 42m",
-          "justOneMoreThing": 7
-        }
+          "tabsOpened": 0
+        },
+        "weekend": false
       },
       {
         "key": "2026-11-26",
@@ -107781,18 +107781,315 @@
         "weekend": false,
         "dateShort": "Thu, Nov 26",
         "dateLong": "Thursday, November 26",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
-        "real": 0,
-        "deep": 0,
-        "ratio": 0,
+        "dayStart": "10:33",
+        "dayEnd": "15:03",
+        "events": [
+          {
+            "start": "10:33",
+            "end": "10:38",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "10:40",
+            "end": "10:41",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Ralph Lauren Women's Designer Sale | Black Friday & Cyber We",
+            "note": "ralphlauren.com.au"
+          },
+          {
+            "start": "10:41",
+            "end": "10:45",
+            "cat": "admin",
+            "src": "macos",
+            "title": "LA46636178_4079555484368619813.pdf",
+            "note": "file:///Users/ada/Library/Containers/com"
+          },
+          {
+            "start": "10:45",
+            "end": "10:46",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "10:46",
+            "end": "10:51",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Sign in to continue to Gemini Code Assist and Gemini CLI",
+            "note": "accounts.google.com"
+          },
+          {
+            "start": "10:52",
+            "end": "10:54",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(1) YouTube",
+            "note": "youtube.com"
+          },
+          {
+            "start": "10:59",
+            "end": "11:02",
+            "cat": "personal",
+            "src": "macos",
+            "title": "We made it to the finalist at MIT AI Conference to pitch Wak",
+            "note": "youtube.com"
+          },
+          {
+            "start": "11:04",
+            "end": "11:06",
+            "cat": "coding",
+            "src": "macos",
+            "title": "poteto/hiring-without-whiteboards: ⭐️ Companies that don't h",
+            "note": "github.com"
+          },
+          {
+            "start": "11:06",
+            "end": "11:07",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(1) The Rise Of AI Coworkers - YouTube",
+            "note": "youtube.com"
+          },
+          {
+            "start": "11:07",
+            "end": "11:11",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:13",
+            "end": "11:15",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:18",
+            "end": "11:26",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:27",
+            "end": "11:28",
+            "cat": "coding",
+            "src": "macos",
+            "title": "VSCode",
+            "note": "com.microsoft.VSCode"
+          },
+          {
+            "start": "11:28",
+            "end": "11:34",
+            "cat": "coding",
+            "src": "macos",
+            "title": "thinking-machines-lab/tinker-cookbook: Post-training with Ti",
+            "note": "github.com"
+          },
+          {
+            "start": "11:37",
+            "end": "11:42",
+            "cat": "coding",
+            "src": "macos",
+            "title": "thinking-machines-lab/tinker-cookbook: Post-training with Ti",
+            "note": "github.com"
+          },
+          {
+            "start": "11:42",
+            "end": "11:47",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
+            "note": "sport.mq.edu.au"
+          },
+          {
+            "start": "11:49",
+            "end": "11:50",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Your Amazon Prime Membership",
+            "note": "amazon.com.au"
+          },
+          {
+            "start": "13:08",
+            "end": "13:09",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Airbrush Flawless Finish - 1 Fair - Makeup Finishing Powder ",
+            "note": "charlottetilbury.com"
+          },
+          {
+            "start": "13:09",
+            "end": "13:24",
+            "cat": "research",
+            "src": "macos",
+            "title": "Attention Residuals",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "13:24",
+            "end": "13:25",
+            "cat": "research",
+            "src": "macos",
+            "title": "Attention Residuals",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "13:25",
+            "end": "13:27",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "13:28",
+            "end": "13:32",
+            "cat": "personal",
+            "src": "macos",
+            "title": "technical apparel + athletic shoes | lululemon AU",
+            "note": "lululemon.com.au"
+          },
+          {
+            "start": "13:33",
+            "end": "13:35",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Face Makeup: Foundation, Concealer, Powder & Primer | Charlo",
+            "note": "charlottetilbury.com"
+          },
+          {
+            "start": "13:37",
+            "end": "13:38",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Beauty Best Sellers - Best-selling Makeup & Skincare | Charl",
+            "note": "charlottetilbury.com"
+          },
+          {
+            "start": "13:39",
+            "end": "13:42",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Daily papers of 25 Nov 2026 - ada.ren.cn@gmail.com - Gmail",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "13:42",
+            "end": "13:47",
+            "cat": "research",
+            "src": "macos",
+            "title": "Introducing Inkling 2 Mini - Thinking Machines Lab",
+            "note": "thinkingmachines.ai"
+          },
+          {
+            "start": "13:49",
+            "end": "13:51",
+            "cat": "personal",
+            "src": "macos",
+            "title": "VESTMARKA sprung mattress, firm/light blue, Queen - IKEA",
+            "note": "ikea.com"
+          },
+          {
+            "start": "13:52",
+            "end": "13:55",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Search for \"matress\" - IKEA",
+            "note": "ikea.com"
+          },
+          {
+            "start": "13:55",
+            "end": "14:18",
+            "cat": "research",
+            "src": "macos",
+            "title": "Chain of Thought Monitorability: A New and Fragile Opportuni",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "14:18",
+            "end": "14:22",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Affordable Furniture and Home Inspiration - IKEA Australia",
+            "note": "ikea.com"
+          },
+          {
+            "start": "14:23",
+            "end": "14:25",
+            "cat": "admin",
+            "src": "macos",
+            "title": "112 Talavera Rd - Google Maps",
+            "note": "google.com"
+          },
+          {
+            "start": "14:27",
+            "end": "14:28",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Comparison - IKEA",
+            "note": "ikea.com"
+          },
+          {
+            "start": "14:34",
+            "end": "14:41",
+            "cat": "research",
+            "src": "macos",
+            "title": "Think Fast: Estimating No-CoT Task-Completion Time Horizons ",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "14:41",
+            "end": "14:42",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Outlook",
+            "note": "com.microsoft.Outlook"
+          },
+          {
+            "start": "14:42",
+            "end": "14:45",
+            "cat": "research",
+            "src": "macos",
+            "title": "Think Fast: Estimating No-CoT Task-Completion Time Horizons ",
+            "note": "arxiv.org"
+          },
+          {
+            "start": "14:46",
+            "end": "14:51",
+            "cat": "admin",
+            "src": "macos",
+            "title": "(53) Discord | #frontier-physics | BenchFlow",
+            "note": "discord.com"
+          },
+          {
+            "start": "14:55",
+            "end": "15:03",
+            "cat": "admin",
+            "src": "macos",
+            "title": "(53) Discord | #frontier-physics | BenchFlow",
+            "note": "discord.com"
+          }
+        ],
+        "logged": 149,
+        "real": 82,
+        "deep": 82,
+        "ratio": 0.5464994346615596,
         "stats": {
-          "contextSwitches": 0,
+          "contextSwitches": 24,
           "tabsOpened": 0,
-          "longestFocus": "0m",
-          "justOneMoreThing": 0
+          "longestFocus": "25m",
+          "justOneMoreThing": 2
         }
       },
       {
@@ -115314,538 +115611,538 @@
       "weekend": false
     },
     {
-      "key": "2026-11-25",
-      "dayNum": 25,
-      "dow": 3,
-      "weekend": false,
-      "dateShort": "Wed, Nov 25",
       "dateLong": "Wednesday, November 25",
-      "dayStart": "09:08",
+      "dateShort": "Wed, Nov 25",
       "dayEnd": "17:14",
+      "dayNum": 25,
+      "dayStart": "09:08",
+      "deep": 282,
+      "dow": 3,
       "events": [
         {
-          "start": "09:08",
+          "cat": "coding",
           "end": "09:11",
-          "cat": "coding",
+          "note": "3 hits",
           "src": "claude",
-          "title": "Claude session · bench",
-          "note": "3 hits"
+          "start": "09:08",
+          "title": "Claude session · bench"
         },
         {
-          "start": "09:11",
+          "cat": "admin",
           "end": "09:15",
-          "cat": "admin",
+          "note": "mail.google.com",
           "src": "macos",
-          "title": "Yang Zhang - new articles - ada.ren.cn@gmail.com - Gmail",
-          "note": "mail.google.com"
+          "start": "09:11",
+          "title": "Yang Zhang - new articles - ada.ren.cn@gmail.com - Gmail"
         },
         {
-          "start": "09:58",
+          "cat": "personal",
           "end": "09:59",
-          "cat": "personal",
+          "note": "aesop.com.au",
           "src": "macos",
-          "title": "Skin Care | Luxury Skincare Products | Aesop Australia",
-          "note": "aesop.com.au"
+          "start": "09:58",
+          "title": "Skin Care | Luxury Skincare Products | Aesop Australia"
         },
         {
-          "start": "09:59",
+          "cat": "coding",
           "end": "10:00",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "09:59",
+          "title": "VSCode"
         },
         {
-          "start": "10:02",
+          "cat": "personal",
           "end": "10:03",
-          "cat": "personal",
+          "note": "aesop.com.au",
           "src": "macos",
-          "title": "Discover Travel | Aesop Australia",
-          "note": "aesop.com.au"
+          "start": "10:02",
+          "title": "Discover Travel | Aesop Australia"
         },
         {
-          "start": "10:04",
+          "cat": "personal",
           "end": "10:05",
-          "cat": "personal",
+          "note": "aesop.com.au",
           "src": "macos",
-          "title": "Account | Aesop Australia",
-          "note": "aesop.com.au"
+          "start": "10:04",
+          "title": "Account | Aesop Australia"
         },
         {
-          "start": "10:06",
+          "cat": "coding",
           "end": "10:08",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "10:06",
+          "title": "VSCode"
         },
         {
-          "start": "10:08",
+          "cat": "research",
           "end": "10:12",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "10:08",
+          "title": "zotero"
         },
         {
-          "start": "10:12",
+          "cat": "research",
           "end": "10:14",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "10:12",
+          "title": "zotero"
         },
         {
-          "start": "10:14",
+          "cat": "admin",
           "end": "10:18",
-          "cat": "admin",
+          "note": "com.microsoft.Outlook",
           "src": "macos",
-          "title": "Outlook",
-          "note": "com.microsoft.Outlook"
+          "start": "10:14",
+          "title": "Outlook"
         },
         {
-          "start": "10:18",
+          "cat": "research",
           "end": "10:22",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "10:18",
+          "title": "zotero"
         },
         {
-          "start": "10:23",
+          "cat": "research",
           "end": "10:25",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "10:23",
+          "title": "zotero"
         },
         {
-          "start": "10:25",
+          "cat": "research",
           "end": "10:26",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "10:25",
+          "title": "zotero"
         },
         {
-          "start": "10:27",
+          "cat": "research",
           "end": "10:33",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "10:27",
+          "title": "zotero"
         },
         {
-          "start": "10:33",
+          "cat": "research",
           "end": "10:38",
-          "cat": "research",
+          "note": "chatgpt.com",
           "src": "macos",
-          "title": "ChatGPT",
-          "note": "chatgpt.com"
+          "start": "10:33",
+          "title": "ChatGPT"
         },
         {
-          "start": "10:42",
+          "cat": "coding",
           "end": "10:42",
-          "cat": "coding",
+          "note": "tableau.com",
           "src": "macos",
-          "title": "Business Intelligence and Analytics Software | Tableau",
-          "note": "tableau.com"
-        },
-        {
           "start": "10:42",
+          "title": "Business Intelligence and Analytics Software | Tableau"
+        },
+        {
+          "cat": "research",
           "end": "10:44",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "10:42",
+          "title": "zotero"
         },
         {
-          "start": "10:45",
+          "cat": "personal",
           "end": "10:46",
-          "cat": "personal",
+          "note": "amazon.com.au",
           "src": "macos",
-          "title": "Your Orders",
-          "note": "amazon.com.au"
+          "start": "10:45",
+          "title": "Your Orders"
         },
         {
-          "start": "10:46",
+          "cat": "research",
           "end": "11:04",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "10:46",
+          "title": "zotero"
         },
         {
-          "start": "11:04",
+          "cat": "research",
           "end": "11:09",
-          "cat": "research",
+          "note": "chatgpt.com",
           "src": "macos",
-          "title": "ChatGPT",
-          "note": "chatgpt.com"
+          "start": "11:04",
+          "title": "ChatGPT"
         },
         {
-          "start": "11:09",
+          "cat": "research",
           "end": "11:14",
-          "cat": "research",
+          "note": "socialnlpresearchlab.github.io",
           "src": "macos",
-          "title": "SocialNLP Lab",
-          "note": "socialnlpresearchlab.github.io"
+          "start": "11:09",
+          "title": "SocialNLP Lab"
         },
         {
-          "start": "11:14",
+          "cat": "research",
           "end": "11:34",
-          "cat": "research",
+          "note": "adaren100.github.io",
           "src": "macos",
-          "title": "Searching for distant planets with Astra | Ada's Notes",
-          "note": "adaren100.github.io"
+          "start": "11:14",
+          "title": "Searching for distant planets with Astra | Ada's Notes"
         },
         {
-          "start": "11:35",
+          "cat": "research",
           "end": "11:42",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "11:35",
+          "title": "zotero"
         },
         {
-          "start": "11:42",
+          "cat": "writing",
           "end": "11:43",
-          "cat": "writing",
+          "note": "docs.google.com",
           "src": "macos",
-          "title": "Agents - Google Slides",
-          "note": "docs.google.com"
+          "start": "11:42",
+          "title": "Agents - Google Slides"
         },
         {
-          "start": "11:43",
+          "cat": "admin",
           "end": "11:45",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "macos",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "11:43",
+          "title": "Google Translate"
         },
         {
-          "start": "11:45",
+          "cat": "research",
           "end": "12:03",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "11:45",
+          "title": "zotero"
         },
         {
-          "start": "12:03",
+          "cat": "admin",
           "end": "12:06",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "macos",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "12:03",
+          "title": "Google Translate"
         },
         {
-          "start": "12:50",
+          "cat": "admin",
           "end": "12:53",
-          "cat": "admin",
+          "note": "translate.google.com",
           "src": "macos",
-          "title": "Google Translate",
-          "note": "translate.google.com"
+          "start": "12:50",
+          "title": "Google Translate"
         },
         {
-          "start": "12:53",
+          "cat": "research",
           "end": "12:55",
-          "cat": "research",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "12:53",
+          "title": "zotero"
         },
         {
-          "start": "12:55",
+          "cat": "admin",
           "end": "12:57",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "inking thinking machine - Google Search",
-          "note": "google.com"
+          "start": "12:55",
+          "title": "inking thinking machine - Google Search"
         },
         {
-          "start": "12:59",
+          "cat": "research",
           "end": "13:12",
-          "cat": "research",
+          "note": "thinkingmachines.ai",
           "src": "macos",
-          "title": "Introducing Inkling 2 Mini - Thinking Machines Lab",
-          "note": "thinkingmachines.ai"
+          "start": "12:59",
+          "title": "Introducing Inkling 2 Mini - Thinking Machines Lab"
         },
         {
-          "start": "13:12",
+          "cat": "research",
           "end": "13:21",
-          "cat": "research",
+          "note": "chatgpt.com",
           "src": "macos",
-          "title": "失效分类体系翻译",
-          "note": "chatgpt.com"
+          "start": "13:12",
+          "title": "失效分类体系翻译"
         },
         {
-          "start": "13:27",
+          "cat": "writing",
           "end": "13:28",
-          "cat": "writing",
+          "note": "drive.google.com",
           "src": "macos",
-          "title": "Capstone - Google Drive",
-          "note": "drive.google.com"
+          "start": "13:27",
+          "title": "Capstone - Google Drive"
         },
         {
-          "start": "13:36",
+          "cat": "coding",
           "end": "13:43",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "13:36",
+          "title": "VSCode"
         },
         {
-          "start": "13:43",
+          "cat": "coding",
           "end": "14:06",
-          "cat": "coding",
+          "note": "374 hits",
           "src": "claude",
-          "title": "Claude session · bench",
-          "note": "374 hits"
+          "start": "13:43",
+          "title": "Claude session · bench"
         },
         {
-          "start": "14:07",
+          "cat": "coding",
           "end": "14:26",
-          "cat": "coding",
+          "note": "374 hits",
           "src": "claude",
-          "title": "Claude session · bench",
-          "note": "374 hits"
+          "start": "14:07",
+          "title": "Claude session · bench"
         },
         {
-          "start": "14:28",
+          "cat": "coding",
           "end": "14:49",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "14:28",
+          "title": "VSCode"
         },
         {
-          "start": "14:49",
+          "cat": "research",
           "end": "14:50",
-          "cat": "research",
+          "note": "chatgpt.com",
           "src": "macos",
-          "title": "ChatGPT",
-          "note": "chatgpt.com"
+          "start": "14:49",
+          "title": "ChatGPT"
         },
         {
-          "start": "14:52",
+          "cat": "coding",
           "end": "14:57",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "14:52",
+          "title": "VSCode"
         },
         {
-          "start": "14:58",
+          "cat": "personal",
           "end": "15:01",
-          "cat": "personal",
+          "note": "au.trip.com",
           "src": "macos",
-          "title": "Barcelona Vacation Packages for 2026 - Trip.com",
-          "note": "au.trip.com"
+          "start": "14:58",
+          "title": "Barcelona Vacation Packages for 2026 - Trip.com"
         },
         {
-          "start": "15:03",
+          "cat": "personal",
           "end": "15:04",
-          "cat": "personal",
+          "note": "au.trip.com",
           "src": "macos",
-          "title": "Trip.com",
-          "note": "au.trip.com"
+          "start": "15:03",
+          "title": "Trip.com"
         },
         {
-          "start": "15:04",
+          "cat": "coding",
           "end": "15:05",
-          "cat": "coding",
+          "note": "6 hits",
           "src": "claude",
-          "title": "Claude session · bench",
-          "note": "6 hits"
+          "start": "15:04",
+          "title": "Claude session · bench"
         },
         {
-          "start": "15:05",
+          "cat": "coding",
           "end": "15:07",
-          "cat": "coding",
+          "note": "6 hits",
           "src": "claude",
-          "title": "Claude session · bench",
-          "note": "6 hits"
+          "start": "15:05",
+          "title": "Claude session · bench"
         },
         {
-          "start": "15:07",
+          "cat": "personal",
           "end": "15:08",
-          "cat": "personal",
+          "note": "au.trip.com",
           "src": "macos",
-          "title": "Trip.com",
-          "note": "au.trip.com"
+          "start": "15:07",
+          "title": "Trip.com"
         },
         {
-          "start": "15:19",
-          "end": "15:21",
           "cat": "writing",
+          "end": "15:21",
+          "note": "drive.google.com",
           "src": "macos",
-          "title": "accomodation and transportation - Google Drive",
-          "note": "drive.google.com"
+          "start": "15:19",
+          "title": "accomodation and transportation - Google Drive"
         },
         {
-          "start": "15:22",
+          "cat": "admin",
           "end": "15:29",
-          "cat": "admin",
+          "note": "google.com",
           "src": "macos",
-          "title": "alta 2027 nlp - Google Search",
-          "note": "google.com"
+          "start": "15:22",
+          "title": "alta 2027 nlp - Google Search"
         },
         {
-          "start": "15:29",
+          "cat": "admin",
           "end": "15:30",
-          "cat": "admin",
+          "note": "mail.google.com",
           "src": "macos",
-          "title": "Important Information for Your Flight - ada.ren.cn@gmail.com",
-          "note": "mail.google.com"
+          "start": "15:29",
+          "title": "Important Information for Your Flight - ada.ren.cn@gmail.com"
         },
         {
-          "start": "15:31",
+          "cat": "coding",
           "end": "15:37",
-          "cat": "coding",
+          "note": "54 hits",
           "src": "claude",
-          "title": "Claude session · bench",
-          "note": "54 hits"
+          "start": "15:31",
+          "title": "Claude session · bench"
         },
         {
-          "start": "15:37",
+          "cat": "admin",
           "end": "15:39",
-          "cat": "admin",
+          "note": "mail.google.com",
           "src": "macos",
-          "title": "Inbox (3,481) - ada.ren.cn@gmail.com - Gmail",
-          "note": "mail.google.com"
+          "start": "15:37",
+          "title": "Inbox (3,481) - ada.ren.cn@gmail.com - Gmail"
         },
         {
-          "start": "15:42",
+          "cat": "coding",
           "end": "15:42",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "15:42",
+          "title": "VSCode"
         },
         {
-          "start": "15:43",
+          "cat": "coding",
           "end": "15:57",
-          "cat": "coding",
+          "note": "104 hits",
           "src": "claude",
-          "title": "Claude session · bench",
-          "note": "104 hits"
+          "start": "15:43",
+          "title": "Claude session · bench"
         },
         {
-          "start": "15:57",
+          "cat": "admin",
           "end": "15:58",
-          "cat": "admin",
+          "note": "signup.macquarie.com.au",
           "src": "macos",
-          "title": "Sign up with Macquarie Bank",
-          "note": "signup.macquarie.com.au"
+          "start": "15:57",
+          "title": "Sign up with Macquarie Bank"
         },
         {
-          "start": "16:05",
+          "cat": "admin",
           "end": "16:10",
-          "cat": "admin",
+          "note": "online.macquarie.com.au",
           "src": "macos",
-          "title": "Macquarie",
-          "note": "online.macquarie.com.au"
+          "start": "16:05",
+          "title": "Macquarie"
         },
         {
-          "start": "16:11",
+          "cat": "admin",
           "end": "16:13",
-          "cat": "admin",
+          "note": "online.macquarie.com.au",
           "src": "macos",
-          "title": "Log in to Macquarie Online Banking",
-          "note": "online.macquarie.com.au"
+          "start": "16:11",
+          "title": "Log in to Macquarie Online Banking"
         },
         {
-          "start": "16:15",
+          "cat": "research",
           "end": "16:16",
-          "cat": "research",
+          "note": "chatgpt.com",
           "src": "macos",
-          "title": "ChatGPT",
-          "note": "chatgpt.com"
+          "start": "16:15",
+          "title": "ChatGPT"
         },
         {
-          "start": "16:16",
+          "cat": "coding",
           "end": "16:24",
-          "cat": "coding",
+          "note": "69 hits",
           "src": "claude",
-          "title": "Claude session · bench",
-          "note": "69 hits"
+          "start": "16:16",
+          "title": "Claude session · bench"
         },
         {
-          "start": "16:24",
-          "end": "16:25",
           "cat": "personal",
+          "end": "16:25",
+          "note": "x.com",
           "src": "macos",
-          "title": "主页 / X",
-          "note": "x.com"
+          "start": "16:24",
+          "title": "主页 / X"
         },
         {
-          "start": "16:26",
+          "cat": "research",
           "end": "16:28",
-          "cat": "research",
+          "note": "chatgpt.com",
           "src": "macos",
-          "title": "Download ChatGPT",
-          "note": "chatgpt.com"
+          "start": "16:26",
+          "title": "Download ChatGPT"
         },
         {
-          "start": "16:35",
+          "cat": "coding",
           "end": "16:46",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "16:35",
+          "title": "codex"
         },
         {
-          "start": "16:47",
+          "cat": "coding",
           "end": "17:05",
-          "cat": "coding",
+          "note": "1 hit",
           "src": "vscode",
-          "title": "VS Code · results_summary.ipynb",
-          "note": "1 hit"
+          "start": "16:47",
+          "title": "VS Code · results_summary.ipynb"
         },
         {
-          "start": "17:07",
+          "cat": "coding",
           "end": "17:08",
-          "cat": "coding",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "17:07",
+          "title": "codex"
         },
         {
-          "start": "17:09",
-          "end": "17:11",
           "cat": "research",
+          "end": "17:11",
+          "note": "org.zotero.zotero",
           "src": "macos",
-          "title": "zotero",
-          "note": "org.zotero.zotero"
+          "start": "17:09",
+          "title": "zotero"
         },
         {
-          "start": "17:11",
+          "cat": "coding",
           "end": "17:12",
-          "cat": "coding",
+          "note": "com.microsoft.VSCode",
           "src": "macos",
-          "title": "VSCode",
-          "note": "com.microsoft.VSCode"
+          "start": "17:11",
+          "title": "VSCode"
         },
         {
-          "start": "17:12",
-          "end": "17:14",
           "cat": "coding",
+          "end": "17:14",
+          "note": "com.openai.codex",
           "src": "macos",
-          "title": "codex",
-          "note": "com.openai.codex"
+          "start": "17:12",
+          "title": "codex"
         }
       ],
+      "key": "2026-11-25",
       "logged": 329,
-      "real": 282,
-      "deep": 282,
       "ratio": 0.8577422940509541,
+      "real": 282,
       "stats": {
         "contextSwitches": 39,
-        "tabsOpened": 0,
+        "justOneMoreThing": 7,
         "longestFocus": "1h 42m",
-        "justOneMoreThing": 7
-      }
+        "tabsOpened": 0
+      },
+      "weekend": false
     },
     {
       "key": "2026-11-26",
@@ -115854,18 +116151,315 @@
       "weekend": false,
       "dateShort": "Thu, Nov 26",
       "dateLong": "Thursday, November 26",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
-      "real": 0,
-      "deep": 0,
-      "ratio": 0,
+      "dayStart": "10:33",
+      "dayEnd": "15:03",
+      "events": [
+        {
+          "start": "10:33",
+          "end": "10:38",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "10:40",
+          "end": "10:41",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Ralph Lauren Women's Designer Sale | Black Friday & Cyber We",
+          "note": "ralphlauren.com.au"
+        },
+        {
+          "start": "10:41",
+          "end": "10:45",
+          "cat": "admin",
+          "src": "macos",
+          "title": "LA46636178_4079555484368619813.pdf",
+          "note": "file:///Users/ada/Library/Containers/com"
+        },
+        {
+          "start": "10:45",
+          "end": "10:46",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "10:46",
+          "end": "10:51",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Sign in to continue to Gemini Code Assist and Gemini CLI",
+          "note": "accounts.google.com"
+        },
+        {
+          "start": "10:52",
+          "end": "10:54",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(1) YouTube",
+          "note": "youtube.com"
+        },
+        {
+          "start": "10:59",
+          "end": "11:02",
+          "cat": "personal",
+          "src": "macos",
+          "title": "We made it to the finalist at MIT AI Conference to pitch Wak",
+          "note": "youtube.com"
+        },
+        {
+          "start": "11:04",
+          "end": "11:06",
+          "cat": "coding",
+          "src": "macos",
+          "title": "poteto/hiring-without-whiteboards: ⭐️ Companies that don't h",
+          "note": "github.com"
+        },
+        {
+          "start": "11:06",
+          "end": "11:07",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(1) The Rise Of AI Coworkers - YouTube",
+          "note": "youtube.com"
+        },
+        {
+          "start": "11:07",
+          "end": "11:11",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:13",
+          "end": "11:15",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:18",
+          "end": "11:26",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:27",
+          "end": "11:28",
+          "cat": "coding",
+          "src": "macos",
+          "title": "VSCode",
+          "note": "com.microsoft.VSCode"
+        },
+        {
+          "start": "11:28",
+          "end": "11:34",
+          "cat": "coding",
+          "src": "macos",
+          "title": "thinking-machines-lab/tinker-cookbook: Post-training with Ti",
+          "note": "github.com"
+        },
+        {
+          "start": "11:37",
+          "end": "11:42",
+          "cat": "coding",
+          "src": "macos",
+          "title": "thinking-machines-lab/tinker-cookbook: Post-training with Ti",
+          "note": "github.com"
+        },
+        {
+          "start": "11:42",
+          "end": "11:47",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Group fitness | Sport and Aquatic Centre | Macquarie Uni",
+          "note": "sport.mq.edu.au"
+        },
+        {
+          "start": "11:49",
+          "end": "11:50",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Your Amazon Prime Membership",
+          "note": "amazon.com.au"
+        },
+        {
+          "start": "13:08",
+          "end": "13:09",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Airbrush Flawless Finish - 1 Fair - Makeup Finishing Powder ",
+          "note": "charlottetilbury.com"
+        },
+        {
+          "start": "13:09",
+          "end": "13:24",
+          "cat": "research",
+          "src": "macos",
+          "title": "Attention Residuals",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "13:24",
+          "end": "13:25",
+          "cat": "research",
+          "src": "macos",
+          "title": "Attention Residuals",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "13:25",
+          "end": "13:27",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "13:28",
+          "end": "13:32",
+          "cat": "personal",
+          "src": "macos",
+          "title": "technical apparel + athletic shoes | lululemon AU",
+          "note": "lululemon.com.au"
+        },
+        {
+          "start": "13:33",
+          "end": "13:35",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Face Makeup: Foundation, Concealer, Powder & Primer | Charlo",
+          "note": "charlottetilbury.com"
+        },
+        {
+          "start": "13:37",
+          "end": "13:38",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Beauty Best Sellers - Best-selling Makeup & Skincare | Charl",
+          "note": "charlottetilbury.com"
+        },
+        {
+          "start": "13:39",
+          "end": "13:42",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Daily papers of 25 Nov 2026 - ada.ren.cn@gmail.com - Gmail",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "13:42",
+          "end": "13:47",
+          "cat": "research",
+          "src": "macos",
+          "title": "Introducing Inkling 2 Mini - Thinking Machines Lab",
+          "note": "thinkingmachines.ai"
+        },
+        {
+          "start": "13:49",
+          "end": "13:51",
+          "cat": "personal",
+          "src": "macos",
+          "title": "VESTMARKA sprung mattress, firm/light blue, Queen - IKEA",
+          "note": "ikea.com"
+        },
+        {
+          "start": "13:52",
+          "end": "13:55",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Search for \"matress\" - IKEA",
+          "note": "ikea.com"
+        },
+        {
+          "start": "13:55",
+          "end": "14:18",
+          "cat": "research",
+          "src": "macos",
+          "title": "Chain of Thought Monitorability: A New and Fragile Opportuni",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "14:18",
+          "end": "14:22",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Affordable Furniture and Home Inspiration - IKEA Australia",
+          "note": "ikea.com"
+        },
+        {
+          "start": "14:23",
+          "end": "14:25",
+          "cat": "admin",
+          "src": "macos",
+          "title": "112 Talavera Rd - Google Maps",
+          "note": "google.com"
+        },
+        {
+          "start": "14:27",
+          "end": "14:28",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Comparison - IKEA",
+          "note": "ikea.com"
+        },
+        {
+          "start": "14:34",
+          "end": "14:41",
+          "cat": "research",
+          "src": "macos",
+          "title": "Think Fast: Estimating No-CoT Task-Completion Time Horizons ",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "14:41",
+          "end": "14:42",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Outlook",
+          "note": "com.microsoft.Outlook"
+        },
+        {
+          "start": "14:42",
+          "end": "14:45",
+          "cat": "research",
+          "src": "macos",
+          "title": "Think Fast: Estimating No-CoT Task-Completion Time Horizons ",
+          "note": "arxiv.org"
+        },
+        {
+          "start": "14:46",
+          "end": "14:51",
+          "cat": "admin",
+          "src": "macos",
+          "title": "(53) Discord | #frontier-physics | BenchFlow",
+          "note": "discord.com"
+        },
+        {
+          "start": "14:55",
+          "end": "15:03",
+          "cat": "admin",
+          "src": "macos",
+          "title": "(53) Discord | #frontier-physics | BenchFlow",
+          "note": "discord.com"
+        }
+      ],
+      "logged": 149,
+      "real": 82,
+      "deep": 82,
+      "ratio": 0.5464994346615596,
       "stats": {
-        "contextSwitches": 0,
+        "contextSwitches": 24,
         "tabsOpened": 0,
-        "longestFocus": "0m",
-        "justOneMoreThing": 0
+        "longestFocus": "25m",
+        "justOneMoreThing": 2
       }
     },
     {
