@@ -1,4 +1,4 @@
-/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-11-27T10:52:34+11:00 */
+/* Built from real Claude sessions + Chrome history. Source: build_data.py · TZ: Australia/Sydney · 2026-11-28T10:22:58+11:00 */
 (function () {
   window.WL_REAL = ["research", "coding", "writing", "meeting"];
   window.WORKLOG_MONTHS = {
@@ -107782,7 +107782,7 @@
         "dateShort": "Thu, Nov 26",
         "dateLong": "Thursday, November 26",
         "dayStart": "10:33",
-        "dayEnd": "15:03",
+        "dayEnd": "22:18",
         "events": [
           {
             "start": "10:33",
@@ -108079,17 +108079,193 @@
             "src": "macos",
             "title": "(53) Discord | #frontier-physics | BenchFlow",
             "note": "discord.com"
+          },
+          {
+            "start": "15:06",
+            "end": "15:09",
+            "cat": "admin",
+            "src": "macos",
+            "title": "(53) Discord | #frontier-physics | BenchFlow",
+            "note": "discord.com"
+          },
+          {
+            "start": "15:11",
+            "end": "15:12",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Reading - Google Slides",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "15:12",
+            "end": "15:18",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Reading - Google Slides",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "15:18",
+            "end": "15:32",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Reading - Google Slides",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "15:33",
+            "end": "15:41",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "15:41",
+            "end": "15:49",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Reading - Google Slides",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "15:50",
+            "end": "15:58",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Inbox (3,486) - ada.ren.cn@gmail.com - Gmail",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "16:02",
+            "end": "16:18",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Inbox (3,486) - ada.ren.cn@gmail.com - Gmail",
+            "note": "mail.google.com"
+          },
+          {
+            "start": "16:18",
+            "end": "16:22",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Google Translate",
+            "note": "translate.google.com"
+          },
+          {
+            "start": "16:22",
+            "end": "16:33",
+            "cat": "personal",
+            "src": "macos",
+            "title": "(1) Graham Neubig - YouTube",
+            "note": "youtube.com"
+          },
+          {
+            "start": "16:34",
+            "end": "16:43",
+            "cat": "writing",
+            "src": "macos",
+            "title": "Reading - Google Slides",
+            "note": "docs.google.com"
+          },
+          {
+            "start": "21:11",
+            "end": "21:13",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Prime Video: Watch Top TV",
+            "note": "primevideo.com"
+          },
+          {
+            "start": "21:13",
+            "end": "21:18",
+            "cat": "admin",
+            "src": "macos",
+            "title": "Booking Portal",
+            "note": "mywastecollections.com.au"
+          },
+          {
+            "start": "21:23",
+            "end": "21:24",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Amazon Prime Video 3.0.477 APK Download by Amazon Mobile LLC",
+            "note": "apkmirror.com"
+          },
+          {
+            "start": "21:26",
+            "end": "21:27",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Download Prime Video APKs for Android - APKMirror",
+            "note": "apkmirror.com"
+          },
+          {
+            "start": "21:49",
+            "end": "21:50",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Prime Video (Android TV) (arm64-v8a + arm-v7a) (320dpi) APKs",
+            "note": "apkmirror.com"
+          },
+          {
+            "start": "21:51",
+            "end": "21:53",
+            "cat": "coding",
+            "src": "macos",
+            "title": "Prime Video APK for Android Download",
+            "note": "apkpure.com"
+          },
+          {
+            "start": "21:59",
+            "end": "22:00",
+            "cat": "coding",
+            "src": "macos",
+            "title": "You searched for hbo max - APKMirror",
+            "note": "apkmirror.com"
+          },
+          {
+            "start": "22:00",
+            "end": "22:06",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Prime Video: Shelter",
+            "note": "primevideo.com"
+          },
+          {
+            "start": "22:06",
+            "end": "22:10",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Prime Video: Fleabag",
+            "note": "primevideo.com"
+          },
+          {
+            "start": "22:10",
+            "end": "22:12",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Prime Video: 2 Broke Girls: The Complete First Season",
+            "note": "primevideo.com"
+          },
+          {
+            "start": "22:12",
+            "end": "22:18",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Prime Video: Watch, rent, or buy TV shows online",
+            "note": "primevideo.com"
           }
         ],
-        "logged": 149,
-        "real": 82,
-        "deep": 82,
-        "ratio": 0.5464994346615596,
+        "logged": 268,
+        "real": 127,
+        "deep": 127,
+        "ratio": 0.4740029161318555,
         "stats": {
-          "contextSwitches": 24,
+          "contextSwitches": 34,
           "tabsOpened": 0,
           "longestFocus": "25m",
-          "justOneMoreThing": 2
+          "justOneMoreThing": 3
         }
       },
       {
@@ -108099,13 +108275,46 @@
         "weekend": false,
         "dateShort": "Fri, Nov 27",
         "dateLong": "Friday, November 27",
-        "dayStart": "09:00",
-        "dayEnd": "17:00",
-        "events": [],
-        "logged": 0,
+        "dayStart": "19:39",
+        "dayEnd": "20:05",
+        "events": [
+          {
+            "start": "19:39",
+            "end": "19:44",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Prime Video: Watch Top-rated TV series on IMDb",
+            "note": "primevideo.com"
+          },
+          {
+            "start": "19:44",
+            "end": "19:48",
+            "cat": "personal",
+            "src": "macos",
+            "title": "Prime Video: Browse",
+            "note": "primevideo.com"
+          },
+          {
+            "start": "19:54",
+            "end": "19:55",
+            "cat": "personal",
+            "src": "macos",
+            "title": "⁨Mom⁩ • HBO Max",
+            "note": "hbomax.com"
+          },
+          {
+            "start": "19:55",
+            "end": "20:05",
+            "cat": "personal",
+            "src": "macos",
+            "title": "⁨Leather Cribs and a Medieval Rack⁩ • HBO Max",
+            "note": "hbomax.com"
+          }
+        ],
+        "logged": 20,
         "real": 0,
         "deep": 0,
-        "ratio": 0,
+        "ratio": 0.0,
         "stats": {
           "contextSwitches": 0,
           "tabsOpened": 0,
@@ -116152,7 +116361,7 @@
       "dateShort": "Thu, Nov 26",
       "dateLong": "Thursday, November 26",
       "dayStart": "10:33",
-      "dayEnd": "15:03",
+      "dayEnd": "22:18",
       "events": [
         {
           "start": "10:33",
@@ -116449,17 +116658,193 @@
           "src": "macos",
           "title": "(53) Discord | #frontier-physics | BenchFlow",
           "note": "discord.com"
+        },
+        {
+          "start": "15:06",
+          "end": "15:09",
+          "cat": "admin",
+          "src": "macos",
+          "title": "(53) Discord | #frontier-physics | BenchFlow",
+          "note": "discord.com"
+        },
+        {
+          "start": "15:11",
+          "end": "15:12",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Reading - Google Slides",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "15:12",
+          "end": "15:18",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Reading - Google Slides",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "15:18",
+          "end": "15:32",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Reading - Google Slides",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "15:33",
+          "end": "15:41",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "15:41",
+          "end": "15:49",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Reading - Google Slides",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "15:50",
+          "end": "15:58",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Inbox (3,486) - ada.ren.cn@gmail.com - Gmail",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "16:02",
+          "end": "16:18",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Inbox (3,486) - ada.ren.cn@gmail.com - Gmail",
+          "note": "mail.google.com"
+        },
+        {
+          "start": "16:18",
+          "end": "16:22",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Google Translate",
+          "note": "translate.google.com"
+        },
+        {
+          "start": "16:22",
+          "end": "16:33",
+          "cat": "personal",
+          "src": "macos",
+          "title": "(1) Graham Neubig - YouTube",
+          "note": "youtube.com"
+        },
+        {
+          "start": "16:34",
+          "end": "16:43",
+          "cat": "writing",
+          "src": "macos",
+          "title": "Reading - Google Slides",
+          "note": "docs.google.com"
+        },
+        {
+          "start": "21:11",
+          "end": "21:13",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Prime Video: Watch Top TV",
+          "note": "primevideo.com"
+        },
+        {
+          "start": "21:13",
+          "end": "21:18",
+          "cat": "admin",
+          "src": "macos",
+          "title": "Booking Portal",
+          "note": "mywastecollections.com.au"
+        },
+        {
+          "start": "21:23",
+          "end": "21:24",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Amazon Prime Video 3.0.477 APK Download by Amazon Mobile LLC",
+          "note": "apkmirror.com"
+        },
+        {
+          "start": "21:26",
+          "end": "21:27",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Download Prime Video APKs for Android - APKMirror",
+          "note": "apkmirror.com"
+        },
+        {
+          "start": "21:49",
+          "end": "21:50",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Prime Video (Android TV) (arm64-v8a + arm-v7a) (320dpi) APKs",
+          "note": "apkmirror.com"
+        },
+        {
+          "start": "21:51",
+          "end": "21:53",
+          "cat": "coding",
+          "src": "macos",
+          "title": "Prime Video APK for Android Download",
+          "note": "apkpure.com"
+        },
+        {
+          "start": "21:59",
+          "end": "22:00",
+          "cat": "coding",
+          "src": "macos",
+          "title": "You searched for hbo max - APKMirror",
+          "note": "apkmirror.com"
+        },
+        {
+          "start": "22:00",
+          "end": "22:06",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Prime Video: Shelter",
+          "note": "primevideo.com"
+        },
+        {
+          "start": "22:06",
+          "end": "22:10",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Prime Video: Fleabag",
+          "note": "primevideo.com"
+        },
+        {
+          "start": "22:10",
+          "end": "22:12",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Prime Video: 2 Broke Girls: The Complete First Season",
+          "note": "primevideo.com"
+        },
+        {
+          "start": "22:12",
+          "end": "22:18",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Prime Video: Watch, rent, or buy TV shows online",
+          "note": "primevideo.com"
         }
       ],
-      "logged": 149,
-      "real": 82,
-      "deep": 82,
-      "ratio": 0.5464994346615596,
+      "logged": 268,
+      "real": 127,
+      "deep": 127,
+      "ratio": 0.4740029161318555,
       "stats": {
-        "contextSwitches": 24,
+        "contextSwitches": 34,
         "tabsOpened": 0,
         "longestFocus": "25m",
-        "justOneMoreThing": 2
+        "justOneMoreThing": 3
       }
     },
     {
@@ -116469,13 +116854,46 @@
       "weekend": false,
       "dateShort": "Fri, Nov 27",
       "dateLong": "Friday, November 27",
-      "dayStart": "09:00",
-      "dayEnd": "17:00",
-      "events": [],
-      "logged": 0,
+      "dayStart": "19:39",
+      "dayEnd": "20:05",
+      "events": [
+        {
+          "start": "19:39",
+          "end": "19:44",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Prime Video: Watch Top-rated TV series on IMDb",
+          "note": "primevideo.com"
+        },
+        {
+          "start": "19:44",
+          "end": "19:48",
+          "cat": "personal",
+          "src": "macos",
+          "title": "Prime Video: Browse",
+          "note": "primevideo.com"
+        },
+        {
+          "start": "19:54",
+          "end": "19:55",
+          "cat": "personal",
+          "src": "macos",
+          "title": "⁨Mom⁩ • HBO Max",
+          "note": "hbomax.com"
+        },
+        {
+          "start": "19:55",
+          "end": "20:05",
+          "cat": "personal",
+          "src": "macos",
+          "title": "⁨Leather Cribs and a Medieval Rack⁩ • HBO Max",
+          "note": "hbomax.com"
+        }
+      ],
+      "logged": 20,
       "real": 0,
       "deep": 0,
-      "ratio": 0,
+      "ratio": 0.0,
       "stats": {
         "contextSwitches": 0,
         "tabsOpened": 0,
